@@ -1,0 +1,4 @@
+PyGithub
+pandas
+python-dotenv
+black
