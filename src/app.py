@@ -24,7 +24,7 @@ def process(input_file, output_file, token):
         url = row["githuburl"]
         name = repo.name
         homepage = (
-            f"[{repo.homepage}]({repo.homepage}), "
+            f"\n[{repo.homepage}]({repo.homepage})  "
             if repo.homepage is not None and len(repo.homepage) > 0
             else ""
         )
@@ -47,9 +47,10 @@ def process(input_file, output_file, token):
 
         return (
             f"[{name}]({url})  "
+            f"{homepage}"
             f"\n{description}  "
             f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
-            f"\n{homepage}created on {created}, updated on {updated}  "
+            f"\ncreated {created}, updated {updated}, main language {language}  "
             f"{topics}"
             f"\n\n"
         )
