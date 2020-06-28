@@ -16,32 +16,41 @@ def process(input_file, output_file, token):
 
     df["_reponame"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
     df["_repo"] = df["_reponame"].apply(lambda x: ghw.get_repo(x))
-    df["_org"] = df["_reponame"].apply(lambda x: ghw.get_repo(x).organization)
     df["_stars"] = df["_reponame"].apply(lambda x: ghw.get_repo(x).stargazers_count)
-
     df = df.sort_values("_stars", ascending=False)
 
     def make_line(row):
         repo = row["_repo"]
         url = row["githuburl"]
         name = repo.name
-        org = (
-            f"[{repo.organization.login}]({repo.organization.blog})"
-            if repo.organization is not None
-            else "none"
+        homepage = (
+            f"[{repo.homepage}]({repo.homepage}), "
+            if repo.homepage is not None and len(repo.homepage) > 0
+            else ""
         )
         stars = repo.stargazers_count
         forks = repo.forks_count
         watches = repo.subscribers_count
         updated = repo.updated_at.date()
-        topics = ", ".join(sorted(repo.get_topics()))
+        created = repo.created_at.date()
+        topics = (
+            "\n<sub><sup>" + ", ".join(sorted(repo.get_topics())) + "</sup></sub>"
+            if len(repo.get_topics()) > 0
+            else ""
+        )
         description = repo.description
+        language = repo.language
+        if language is not None and language.lower() != "python":
+            logger.info(
+                f"Is {name} really a Python library? Main language is {language}."
+            )
 
         return (
             f"[{name}]({url})  "
             f"\n{description}  "
-            f"\nstars: {stars:,} forks: {forks:,} watches: {watches:,} org: {org}, updated: {updated}  "
-            f"\n<sub><sup>topics: {topics}</sup></sub>"
+            f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
+            f"\n{homepage}created on {created}, updated on {updated}  "
+            f"{topics}"
             f"\n\n"
         )
 
@@ -49,11 +58,17 @@ def process(input_file, output_file, token):
 
     lines = [
         "# Crazy Awesome Python",
-        "Some hand curated python libraries and frameworks, "
-        "with a focus on the data/machine learning space ordered by stars.\n\n",
+        "A selection of python libraries and frameworks, "
+        "with a bias towards the data/machine learning space. Ordered by stars.  \n\n",
     ]
     lines.extend(list(df["_doclines"]))
-    lines.append(f"Automatically generated on {datetime.now().date()}\n")
+    lines.append(
+        f"Automatically generated from csv on {datetime.now().date()}.  "
+        f"\n\nTo curate your own github list, simply clone and change the input csv file.  "
+        f"\n\nInspired by:  "
+        f"\n[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  "
+        f"\n[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  "
+    )
 
     with open(output_file, "w") as out:
         out.write("\n".join(lines))
@@ -61,8 +76,8 @@ def process(input_file, output_file, token):
 
 def main():
     token = env.get_env("GITHUB_ACCESS_TOKEN")
-    input_file = "./data/Crazy Awesome Python - Sheet1.csv"
-    output_file = "CRAZY_AWESOME_PYTHON.md"
+    input_file = "./data/GithubData.csv"
+    output_file = "README.md"
 
     process(input_file, output_file, token)
 
