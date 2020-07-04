@@ -8,15 +8,24 @@ from urllib.parse import urlparse
 logger = get_logger(__name__)
 
 
-def process(input_file, output_file, token):
+def get_input_data(csv_location):
+    df = pd.read_csv(csv_location)
+    df.columns = map(str.lower, df.columns)
+    return df
+
+
+def process(csv_location, output_file, token):
     ghw = GithubWrapper(token)
 
-    df = pd.read_csv(input_file)
-    df.columns = map(str.lower, df.columns)
+    df = get_input_data(csv_location)
 
-    df["_reponame"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
-    df["_repo"] = df["_reponame"].apply(lambda x: ghw.get_repo(x))
-    df["_stars"] = df["_reponame"].apply(lambda x: ghw.get_repo(x).stargazers_count)
+    logger.info(f"Processing {len(df)} records to {output_file} from {csv_location}")
+
+    df["_reponpath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
+    df["_repo"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x))
+    df["_repo_name"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).name)
+    df["_stars"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).stargazers_count)
+    df["_topics"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).get_topics())
     df = df.sort_values("_stars", ascending=False)
 
     def make_line(row):
@@ -46,7 +55,7 @@ def process(input_file, output_file, token):
             )
 
         return (
-            f"[{name}]({url})  "
+            f"### [{name}]({url})  "
             f"{homepage}"
             f"\n{description}  "
             f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
@@ -64,7 +73,7 @@ def process(input_file, output_file, token):
     ]
     lines.extend(list(df["_doclines"]))
     lines.append(
-        f"Automatically generated from csv on {datetime.now().date()}.  "
+        f"This file was automatically generated on {datetime.now().date()}.  "
         f"\n\nTo curate your own github list, simply clone and change the input csv file.  "
         f"\n\nInspired by:  "
         f"\n[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  "
@@ -74,13 +83,16 @@ def process(input_file, output_file, token):
     with open(output_file, "w") as out:
         out.write("\n".join(lines))
 
+    logger.info(f"Finished writing to {output_file}")
+
 
 def main():
+    # NOTE: csv location can be local file or google spreadsheet, for example:
+    #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
+    csv_location = env.get_env("CSV_LOCATION")
     token = env.get_env("GITHUB_ACCESS_TOKEN")
-    input_file = "./data/GithubData.csv"
     output_file = "README.md"
-
-    process(input_file, output_file, token)
+    process(csv_location, output_file, token)
 
 
 if __name__ == "__main__":
