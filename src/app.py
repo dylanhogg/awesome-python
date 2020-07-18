@@ -15,9 +15,10 @@ def get_input_data(csv_location) -> pd.DataFrame:
     return df
 
 
-def process(df, output_file, token):
+def process(df_input, token):
     ghw = GithubWrapper(token)
 
+    df = df_input.copy()
     df["_reponpath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
     df["_reponame"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).name)
     df["_stars"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).stargazers_count)
@@ -42,7 +43,13 @@ def process(df, output_file, token):
         homepage_display = (
             f"\n[{homepage}]({homepage})  "
             if homepage is not None and len(homepage) > 0
-            else ""
+            else f"\n[{url}]({url})  "
+        )
+        category = row["category"]
+        category_display = (
+            f"[{category}](categories/{category}.md) / "
+            if category is not None and len(category) > 0
+            else f"none / "
         )
         stars = row["_stars"]
         forks = row["_forks"]
@@ -63,7 +70,7 @@ def process(df, output_file, token):
             )
 
         return (
-            f"### [{name}]({url})  "
+            f"### {category_display}[{name}]({url})  "
             f"{homepage_display}"
             f"\n{description}  "
             f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
@@ -74,24 +81,57 @@ def process(df, output_file, token):
 
     df["_doclines"] = df.apply(lambda x: make_line(x), axis=1)
 
-    lines = [
+    return df
+
+
+def lines_header(count, category=""):
+    return [
         "# Crazy Awesome Python",
-        "A selection of python libraries and frameworks, "
-        "with a bias towards the data/machine learning space. Ordered by stars.  \n\n",
+        f"A selection of {count} {category} Python libraries and frameworks ordered by stars.  \n\n"
     ]
-    lines.extend(list(df["_doclines"]))
-    lines.append(
+
+
+def write_files(csv_location, token):
+    start = datetime.now()
+    df_input = get_input_data(csv_location)
+
+    logger.info(f"Processing {len(df_input)} records from {csv_location}")
+    df_results = process(df_input, token)
+
+    # Write raw results to csv
+    df_results.drop("_doclines", axis=1).to_csv("github_data.csv")
+
+    # Write all results to README.md
+    lines_footer = [
         f"This file was automatically generated on {datetime.now().date()}.  "
         f"\n\nTo curate your own github list, simply clone and change the input csv file.  "
         f"\n\nInspired by:  "
         f"\n[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  "
         f"\n[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  "
-    )
+    ]
+    lines = []
+    lines.extend(lines_header(len(df_results)))
+    lines.extend(list(df_results["_doclines"]))
+    lines.extend(lines_footer)
 
-    with open(output_file, "w") as out:
+    logger.info(f"Writing {len(df_results)} entries to README.md...")
+    with open("README.md", "w") as out:
         out.write("\n".join(lines))
 
-    df.drop("_doclines", axis=1).to_csv("github_data.csv")
+    # Write to categories
+    categories = df_results["category"].unique()
+    for category in categories:
+        df_category = df_results[df_results["category"] == category]
+        lines = []
+        lines.extend(lines_header(len(df_category), category))
+        lines.extend(list(df_category["_doclines"]))
+        lines.extend(lines_footer)
+        filename = f"categories/{category}.md"
+        logger.info(f"Writing {len(df_category)} entries to {filename}...")
+        with open(filename, "w") as out:
+            out.write("\n".join(lines))
+
+    logger.info(f"Finished writing in {datetime.now() - start}")
 
 
 def main():
@@ -99,13 +139,8 @@ def main():
     #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
     csv_location = env.get_env("CSV_LOCATION")
     token = env.get_env("GITHUB_ACCESS_TOKEN")
-    output_file = "README.md"
 
-    start = datetime.now()
-    df = get_input_data(csv_location)
-    logger.info(f"Processing {len(df)} records to {output_file} from {csv_location}")
-    process(df, output_file, token)
-    logger.info(f"Finished writing to {output_file} in {datetime.now() - start}")
+    write_files(csv_location, token)
 
 
 if __name__ == "__main__":
