@@ -2,7 +2,9 @@ import logging
 import datetime
 
 
-def get_logger(log_name="app", log_level="INFO", log_format=None, file_name=None) -> logging.Logger:
+def get_logger(
+    log_name="app", log_level="INFO", log_format=None, file_name=None
+) -> logging.Logger:
     logging.basicConfig(level=log_level, format=log_format)
 
     if file_name is None:
