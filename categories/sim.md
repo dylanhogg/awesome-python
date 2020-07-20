@@ -1,5 +1,20 @@
 # Crazy Awesome Python
-A selection of 1 sim Python libraries and frameworks ordered by stars.  
+A selection of 3 sim Python libraries and frameworks ordered by stars.  
+
+
+### [gym](https://github.com/openai/gym)  
+[https://gym.openai.com/](https://gym.openai.com/)  
+A toolkit for developing and comparing reinforcement learning algorithms.  
+21,387 stars, 6,101 forks, 980 watches  
+created 2016-04-27, updated 2020-07-20, main language Python  
+
+
+### [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
+[https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
+Python sample codes for robotics algorithms.  
+9,634 stars, 3,127 forks, 440 watches  
+created 2016-03-21, updated 2020-07-20, main language Jupyter Notebook  
+<sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
 
 ### [mesa](https://github.com/projectmesa/mesa)  

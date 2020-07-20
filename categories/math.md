@@ -5,7 +5,7 @@ A selection of 4 math Python libraries and frameworks ordered by stars.
 ### [numpy](https://github.com/numpy/numpy)  
 [https://www.numpy.org/](https://www.numpy.org/)  
 The fundamental package for scientific computing with Python.  
-14,266 stars, 4,699 forks, 532 watches  
+14,279 stars, 4,701 forks, 531 watches  
 created 2010-09-13, updated 2020-07-20, main language C  
 <sub><sup>numpy, python</sup></sub>
 
@@ -13,8 +13,8 @@ created 2010-09-13, updated 2020-07-20, main language C
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-7,164 stars, 3,070 forks, 298 watches  
-created 2010-04-30, updated 2020-07-19, main language Python  
+7,166 stars, 3,069 forks, 298 watches  
+created 2010-04-30, updated 2020-07-20, main language Python  
 <sub><sup>computer-algebra, math, python, science</sup></sub>
 
 

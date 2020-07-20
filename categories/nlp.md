@@ -1,28 +1,60 @@
 # Crazy Awesome Python
-A selection of 9 nlp Python libraries and frameworks ordered by stars.  
+A selection of 14 nlp Python libraries and frameworks ordered by stars.  
+
+
+### [transformers](https://github.com/huggingface/transformers)  
+[https://huggingface.co/transformers](https://huggingface.co/transformers)  
+🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.  
+31,004 stars, 7,321 forks, 611 watches  
+created 2018-10-29, updated 2020-07-20, main language Python  
+<sub><sup>bert, gpt, language-model, language-models, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, pytorch, pytorch-transformers, tensorflow, transformer-xl, xlm, xlnet</sup></sub>
 
 
 ### [spaCy](https://github.com/explosion/spaCy)  
 [https://spacy.io](https://spacy.io)  
 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython  
-16,829 stars, 3,018 forks, 565 watches  
-created 2014-07-03, updated 2020-07-19, main language Python  
+16,834 stars, 3,019 forks, 565 watches  
+created 2014-07-03, updated 2020-07-20, main language Python  
 <sub><sup>ai, artificial-intelligence, big-data, cython, data-science, deep-learning, machine-learning, natural-language-processing, neural-network, neural-networks, nlp, nlp-library, python, spacy</sup></sub>
+
+
+### [gensim](https://github.com/RaRe-Technologies/gensim)  
+[https://github.com/RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim)  
+Topic Modelling for Humans  
+10,988 stars, 3,785 forks, 446 watches  
+created 2011-02-10, updated 2020-07-20, main language Python  
+<sub><sup>data-mining, data-science, document-similarity, fasttext, gensim, information-retrieval, machine-learning, natural-language-processing, neural-network, nlp, python, topic-modeling, word-embeddings, word-similarity, word2vec</sup></sub>
+
+
+### [nltk](https://github.com/nltk/nltk)  
+[http://nltk.org/](http://nltk.org/)  
+NLTK Source  
+9,070 stars, 2,372 forks, 500 watches  
+created 2009-09-07, updated 2020-07-20, main language Python  
+<sub><sup>machine-learning, natural-language-processing, nlp, nltk, python</sup></sub>
+
+
+### [allennlp](https://github.com/allenai/allennlp)  
+[http://www.allennlp.org/](http://www.allennlp.org/)  
+An open-source NLP research library, built on PyTorch.  
+8,809 stars, 1,861 forks, 285 watches  
+created 2017-05-15, updated 2020-07-20, main language Python  
+<sub><sup>data-science, deep-learning, natural-language-processing, nlp, python, pytorch</sup></sub>
 
 
 ### [pattern](https://github.com/clips/pattern)  
 [https://github.com/clips/pattern/wiki](https://github.com/clips/pattern/wiki)  
 Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.  
-7,478 stars, 1,489 forks, 563 watches  
-created 2011-05-03, updated 2020-07-19, main language Python  
+7,481 stars, 1,489 forks, 563 watches  
+created 2011-05-03, updated 2020-07-20, main language Python  
 <sub><sup>machine-learning, natural-language-processing, network-analysis, python, sentiment-analysis, web-mining, wordnet</sup></sub>
 
 
 ### [ParlAI](https://github.com/facebookresearch/ParlAI)  
 [https://parl.ai](https://parl.ai)  
 A framework for training and evaluating AI models on a variety of openly available dialogue datasets.  
-6,439 stars, 1,289 forks, 283 watches  
-created 2017-04-24, updated 2020-07-19, main language Python  
+6,440 stars, 1,290 forks, 283 watches  
+created 2017-04-24, updated 2020-07-20, main language Python  
 
 
 ### [DrQA](https://github.com/facebookresearch/DrQA)  
@@ -30,6 +62,14 @@ created 2017-04-24, updated 2020-07-19, main language Python
 Reading Wikipedia to Answer Open-Domain Questions  
 3,831 stars, 817 forks, 164 watches  
 created 2017-07-07, updated 2020-07-19, main language Python  
+
+
+### [neuralcoref](https://github.com/huggingface/neuralcoref)  
+[https://huggingface.co/coref/](https://huggingface.co/coref/)  
+✨Fast Coreference Resolution in spaCy with Neural Networks  
+1,998 stars, 352 forks, 69 watches  
+created 2017-07-03, updated 2020-07-20, main language Python  
+<sub><sup>coreference, coreference-resolution, machine-learning, neural-networks, nlp, python, pytorch, spacy, spacy-extension, spacy-pipeline</sup></sub>
 
 
 ### [textdistance](https://github.com/life4/textdistance)  
@@ -43,8 +83,8 @@ created 2017-05-05, updated 2020-07-19, main language Python
 ### [texthero](https://github.com/jbesomi/texthero)  
 [https://texthero.org](https://texthero.org)  
 Text preprocessing, representation and visualization from zero to hero.  
-1,635 stars, 142 forks, 42 watches  
-created 2020-04-06, updated 2020-07-19, main language Python  
+1,646 stars, 142 forks, 42 watches  
+created 2020-04-06, updated 2020-07-20, main language Python  
 <sub><sup>machine-learning, nlp, nlp-pipeline, text-clustering, text-mining, text-preprocessing, text-representation, text-visualization, word-embeddings</sup></sub>
 
 

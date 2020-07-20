@@ -1,35 +1,43 @@
 # Crazy Awesome Python
-A selection of 17 data Python libraries and frameworks ordered by stars.  
+A selection of 18 data Python libraries and frameworks ordered by stars.  
 
 
 ### [scrapy](https://github.com/scrapy/scrapy)  
 [https://scrapy.org](https://scrapy.org)  
 Scrapy, a fast high-level web crawling & scraping framework for Python.  
-37,753 stars, 8,704 forks, 1,812 watches  
-created 2010-02-22, updated 2020-07-19, main language Python  
+37,761 stars, 8,704 forks, 1,812 watches  
+created 2010-02-22, updated 2020-07-20, main language Python  
 <sub><sup>crawler, crawling, framework, python, scraping</sup></sub>
 
 
 ### [pandas](https://github.com/pandas-dev/pandas)  
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
-25,796 stars, 10,551 forks, 1,085 watches  
-created 2010-08-24, updated 2020-07-19, main language Python  
+25,803 stars, 10,553 forks, 1,085 watches  
+created 2010-08-24, updated 2020-07-20, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
+
+
+### [pyspider](https://github.com/binux/pyspider)  
+[http://docs.pyspider.org/](http://docs.pyspider.org/)  
+A Powerful Spider(Web Crawler) System in Python.  
+14,437 stars, 3,508 forks, 899 watches  
+created 2014-02-21, updated 2020-07-20, main language Python  
+<sub><sup>crawler, python</sup></sub>
 
 
 ### [faker](https://github.com/joke2k/faker)  
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 Faker is a Python package that generates fake data for you.  
-10,195 stars, 1,195 forks, 205 watches  
-created 2012-11-12, updated 2020-07-19, main language Python  
+10,198 stars, 1,196 forks, 205 watches  
+created 2012-11-12, updated 2020-07-20, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
 
 ### [EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai  
-6,228 stars, 468 forks, 157 watches  
+6,297 stars, 482 forks, 159 watches  
 created 2020-03-14, updated 2020-07-20, main language Python  
 <sub><sup>chinese-ocr, cnn, crnn, data-mining, deep-learning, image-processing, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -37,15 +45,15 @@ created 2020-03-14, updated 2020-07-20, main language Python
 ### [arrow](https://github.com/apache/arrow)  
 [https://arrow.apache.org](https://arrow.apache.org)  
 Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.  
-5,745 stars, 1,472 forks, 301 watches  
-created 2016-02-17, updated 2020-07-19, main language C++  
+5,746 stars, 1,473 forks, 301 watches  
+created 2016-02-17, updated 2020-07-20, main language C++  
 <sub><sup>arrow</sup></sub>
 
 
 ### [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
 [https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/)  
 Create HTML profiling reports from pandas DataFrame objects  
-5,463 stars, 802 forks, 129 watches  
+5,466 stars, 803 forks, 129 watches  
 created 2016-01-09, updated 2020-07-20, main language Jupyter Notebook  
 <sub><sup>artificial-intelligence, big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, python, statistics</sup></sub>
 
@@ -53,16 +61,16 @@ created 2016-01-09, updated 2020-07-20, main language Jupyter Notebook
 ### [flashtext](https://github.com/vi3k6i5/flashtext)  
 [https://github.com/vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext)  
 Extract Keywords from sentence or Replace keywords in sentences.  
-4,359 stars, 503 forks, 139 watches  
-created 2017-08-15, updated 2020-07-19, main language Python  
+4,361 stars, 503 forks, 139 watches  
+created 2017-08-15, updated 2020-07-20, main language Python  
 <sub><sup>data-extraction, keyword-extraction, nlp, search-in-text, word2vec</sup></sub>
 
 
 ### [mimesis](https://github.com/lk-geimfari/mimesis)  
 [https://mimesis.name/](https://mimesis.name/)  
 Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.  
-2,907 stars, 251 forks, 64 watches  
-created 2016-09-09, updated 2020-07-19, main language Python  
+2,909 stars, 251 forks, 64 watches  
+created 2016-09-09, updated 2020-07-20, main language Python  
 <sub><sup>data, dummy, fake, fake-data, faker, fixtures, generator, high-performance, json, json-generator, mimesis, python, schema, synthetic, testing</sup></sub>
 
 
@@ -77,7 +85,7 @@ created 2018-11-27, updated 2020-07-19, main language Python
 ### [qgrid](https://github.com/quantopian/qgrid)  
 [https://github.com/quantopian/qgrid](https://github.com/quantopian/qgrid)  
 An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks  
-2,317 stars, 253 forks, 97 watches  
+2,317 stars, 254 forks, 97 watches  
 created 2014-09-30, updated 2020-07-19, main language Python  
 
 
@@ -92,8 +100,8 @@ created 2013-01-04, updated 2020-07-16, main language Python
 ### [great_expectations](https://github.com/great-expectations/great_expectations)  
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 Always know what to expect from your data.  
-2,203 stars, 238 forks, 45 watches  
-created 2017-09-11, updated 2020-07-19, main language Python  
+2,206 stars, 238 forks, 45 watches  
+created 2017-09-11, updated 2020-07-20, main language Python  
 <sub><sup>cleandata, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, pipeline, pipeline-testing, pipeline-tests</sup></sub>
 
 

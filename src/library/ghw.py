@@ -14,11 +14,11 @@ class GithubWrapper:
         key = f"repo_{name}"
         cached = self.cache.get(key, None)
         if cached is None or not use_cache:
-            logger.debug(f"get_repo: {name}")
+            logger.info(f"get_repo: [{name}]")
             self.cache[key] = self.gh.get_repo(name)
             return self.cache[key]
         else:
-            logger.debug(f"get_repo: {name} (cached)")
+            logger.info(f"get_repo: [{name}] (cached)")
             return cached
 
     def get_org_repos(self, name) -> List[github.Repository.Repository]:
