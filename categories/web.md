@@ -5,7 +5,7 @@ A selection of 7 web Python libraries and frameworks ordered by stars.
 ### [flask](https://github.com/pallets/flask)  
 [https://palletsprojects.com/p/flask/](https://palletsprojects.com/p/flask/)  
 The Python micro framework for building web applications.  
-51,323 stars, 13,665 forks, 2,276 watches  
+51,353 stars, 13,665 forks, 2,278 watches  
 created 2010-04-06, last commit 2020-07-24, main language Python  
 <sub><sup>flask, jinja, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -13,7 +13,7 @@ created 2010-04-06, last commit 2020-07-24, main language Python
 ### [django](https://github.com/django/django)  
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 The Web framework for perfectionists with deadlines.  
-50,815 stars, 22,018 forks, 2,259 watches  
+50,884 stars, 22,038 forks, 2,260 watches  
 created 2012-04-28, last commit 2020-07-24, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
@@ -21,15 +21,15 @@ created 2012-04-28, last commit 2020-07-24, main language Python
 ### [tornado](https://github.com/tornadoweb/tornado)  
 [http://www.tornadoweb.org/](http://www.tornadoweb.org/)  
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
-19,284 stars, 5,224 forks, 1,053 watches  
-created 2009-09-09, last commit 2020-06-29, main language Python  
+19,294 stars, 5,222 forks, 1,052 watches  
+created 2009-09-09, last commit 2020-07-24, main language Python  
 <sub><sup>asynchronous, python</sup></sub>
 
 
 ### [sanic](https://github.com/huge-success/sanic)  
 [https://sanicframework.org/](https://sanicframework.org/)  
 Async Python 3.6+ web server/framework | Build fast. Run fast.  
-13,959 stars, 1,270 forks, 451 watches  
+13,967 stars, 1,272 forks, 451 watches  
 created 2016-05-26, last commit 2020-07-15, main language Python  
 <sub><sup>api-server, asgi, asyncio, framework, python, sanic, web, web-framework, web-server</sup></sub>
 
@@ -37,7 +37,7 @@ created 2016-05-26, last commit 2020-07-15, main language Python
 ### [gunicorn](https://github.com/benoitc/gunicorn)  
 [http://www.gunicorn.org](http://www.gunicorn.org)  
 gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.  
-7,008 stars, 1,311 forks, 234 watches  
+7,011 stars, 1,311 forks, 235 watches  
 created 2009-11-30, last commit 2020-07-08, main language Python  
 <sub><sup>http, http-server, python, wsgi, wsgi-server</sup></sub>
 
@@ -45,7 +45,7 @@ created 2009-11-30, last commit 2020-07-08, main language Python
 ### [eve](https://github.com/pyeve/eve)  
 [https://python-eve.org](https://python-eve.org)  
 REST API framework designed for human beings  
-6,132 stars, 714 forks, 241 watches  
+6,135 stars, 714 forks, 241 watches  
 created 2012-10-22, last commit 2020-07-09, main language Python  
 <sub><sup>flask, mongodb, python, rest</sup></sub>
 
@@ -53,11 +53,11 @@ created 2012-10-22, last commit 2020-07-09, main language Python
 ### [uwsgi](https://github.com/unbit/uwsgi)  
 [http://projects.unbit.it/uwsgi](http://projects.unbit.it/uwsgi)  
 uWSGI application server container  
-2,807 stars, 600 forks, 115 watches  
+2,808 stars, 600 forks, 115 watches  
 created 2011-10-09, last commit 2020-07-09, main language C  
 
 
-This file was automatically generated on 2020-07-24.  
+This file was automatically generated on 2020-07-27.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

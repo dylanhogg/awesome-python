@@ -1,11 +1,11 @@
 # Crazy Awesome Python
-A selection of 21 util Python libraries and frameworks ordered by stars.  
+A selection of 20 util Python libraries and frameworks ordered by stars.  
 
 
 ### [python-fire](https://github.com/google/python-fire)  
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
-17,360 stars, 1,065 forks, 382 watches  
+17,377 stars, 1,069 forks, 382 watches  
 created 2017-02-21, last commit 2020-07-14, main language Python  
 <sub><sup>cli, python</sup></sub>
 
@@ -13,23 +13,15 @@ created 2017-02-21, last commit 2020-07-14, main language Python
 ### [black](https://github.com/psf/black)  
 [https://black.readthedocs.io/en/stable/](https://black.readthedocs.io/en/stable/)  
 The uncompromising Python code formatter  
-16,891 stars, 1,023 forks, 169 watches  
+16,919 stars, 1,028 forks, 167 watches  
 created 2018-03-14, last commit 2020-07-22, main language Python  
 <sub><sup>autopep8, code, codeformatter, formatter, gofmt, pyfmt, python, yapf</sup></sub>
-
-
-### [luigi](https://github.com/spotify/luigi)  
-[https://github.com/spotify/luigi](https://github.com/spotify/luigi)  
-Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.   
-13,548 stars, 2,152 forks, 510 watches  
-created 2012-09-20, last commit 2020-07-23, main language Python  
-<sub><sup>hadoop, luigi, orchestration-framework, python, scheduling</sup></sub>
 
 
 ### [locust](https://github.com/locustio/locust)  
 [https://locust.io](https://locust.io)  
 Scalable user load testing tool written in Python  
-13,378 stars, 1,876 forks, 439 watches  
+13,389 stars, 1,876 forks, 440 watches  
 created 2011-02-17, last commit 2020-07-23, main language Python  
 <sub><sup>benchmarking, http, load-generator, load-testing, locust, performance-testing, python</sup></sub>
 
@@ -37,23 +29,23 @@ created 2011-02-17, last commit 2020-07-23, main language Python
 ### [kivy](https://github.com/kivy/kivy)  
 [https://kivy.org](https://kivy.org)  
 Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS  
-11,491 stars, 2,467 forks, 593 watches  
-created 2010-11-03, last commit 2020-07-16, main language Python  
+11,498 stars, 2,470 forks, 594 watches  
+created 2010-11-03, last commit 2020-07-24, main language Python  
 <sub><sup>android, app, ios, kivy, linux, macos, python, ui, windows</sup></sub>
 
 
 ### [jupyterlab](https://github.com/jupyterlab/jupyterlab)  
 [https://jupyterlab.readthedocs.io/](https://jupyterlab.readthedocs.io/)  
 JupyterLab computational environment.  
-10,040 stars, 1,712 forks, 338 watches  
-created 2016-06-03, last commit 2020-07-24, main language JavaScript  
+10,045 stars, 1,713 forks, 338 watches  
+created 2016-06-03, last commit 2020-07-26, main language Jupyter Notebook  
 <sub><sup>jupyterlab</sup></sub>
 
 
 ### [click](https://github.com/pallets/click)  
 [https://click.palletsprojects.com/](https://click.palletsprojects.com/)  
 Python composable command line interface toolkit  
-9,525 stars, 949 forks, 193 watches  
+9,539 stars, 950 forks, 193 watches  
 created 2014-04-24, last commit 2020-07-24, main language Python  
 <sub><sup>cli, click, python</sup></sub>
 
@@ -61,46 +53,46 @@ created 2014-04-24, last commit 2020-07-24, main language Python
 ### [Pillow](https://github.com/python-pillow/Pillow)  
 [https://python-pillow.org](https://python-pillow.org)  
 The friendly PIL fork (Python Imaging Library)  
-7,551 stars, 1,486 forks, 219 watches  
-created 2012-07-24, last commit 2020-07-23, main language Python  
+7,554 stars, 1,488 forks, 219 watches  
+created 2012-07-24, last commit 2020-07-25, main language Python  
 <sub><sup>c, cross-platform, image, image-processing, pil, pillow, python, python-3</sup></sub>
 
 
 ### [notebook](https://github.com/jupyter/notebook)  
 [https://jupyter-notebook.readthedocs.io/](https://jupyter-notebook.readthedocs.io/)  
 Jupyter Interactive Notebook  
-7,392 stars, 3,064 forks, 322 watches  
+7,404 stars, 3,068 forks, 322 watches  
 created 2015-04-09, last commit 2020-07-23, main language JavaScript  
 
 
 ### [pytest](https://github.com/pytest-dev/pytest)  
 [https://pytest.org](https://pytest.org)  
 The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  
-6,231 stars, 1,467 forks, 189 watches  
-created 2015-06-15, last commit 2020-07-23, main language Python  
+6,239 stars, 1,468 forks, 189 watches  
+created 2015-06-15, last commit 2020-07-24, main language Python  
 <sub><sup>python, test, testing, unit-testing</sup></sub>
 
 
 ### [boto3](https://github.com/boto/boto3)  
 [http://aws.amazon.com/sdk-for-python/](http://aws.amazon.com/sdk-for-python/)  
 AWS SDK for Python  
-5,621 stars, 1,205 forks, 230 watches  
-created 2014-10-03, last commit 2020-07-23, main language Python  
+5,626 stars, 1,206 forks, 230 watches  
+created 2014-10-03, last commit 2020-07-24, main language Python  
 <sub><sup>aws, aws-sdk, cloud, cloud-management, python</sup></sub>
 
 
 ### [cython](https://github.com/cython/cython)  
 [https://cython.org](https://cython.org)  
 The most widely used Python to C compiler  
-5,332 stars, 1,049 forks, 225 watches  
-created 2010-11-21, last commit 2020-07-22, main language Python  
+5,338 stars, 1,048 forks, 225 watches  
+created 2010-11-21, last commit 2020-07-25, main language Python  
 <sub><sup>big-data, c, cpp, cpython, cpython-extensions, cython, performance, python</sup></sub>
 
 
 ### [PyGithub](https://github.com/PyGithub/PyGithub)  
 [https://pygithub.readthedocs.io/](https://pygithub.readthedocs.io/)  
 Typed interactions with the GitHub API v3  
-3,622 stars, 1,159 forks, 105 watches  
+3,631 stars, 1,162 forks, 105 watches  
 created 2012-02-25, last commit 2020-07-21, main language Python  
 <sub><sup>github, github-api, pygithub, python</sup></sub>
 
@@ -108,15 +100,15 @@ created 2012-02-25, last commit 2020-07-21, main language Python
 ### [sphinx](https://github.com/sphinx-doc/sphinx)  
 [https://www.sphinx-doc.org](https://www.sphinx-doc.org)  
 Main repository for the Sphinx documentation builder  
-3,410 stars, 1,316 forks, 126 watches  
-created 2015-01-02, last commit 2020-07-24, main language Python  
+3,411 stars, 1,316 forks, 126 watches  
+created 2015-01-02, last commit 2020-07-26, main language Python  
 <sub><sup>documentation, documentation-tool, python, sphinx</sup></sub>
 
 
 ### [pylint](https://github.com/PyCQA/pylint)  
 [http://pylint.pycqa.org](http://pylint.pycqa.org)  
 It's not just a linter that annoys you!  
-2,923 stars, 612 forks, 70 watches  
+2,925 stars, 612 forks, 70 watches  
 created 2015-12-09, last commit 2020-07-16, main language Python  
 <sub><sup>code-quality, linter, pep8, static-analysis, static-code-analysis</sup></sub>
 
@@ -124,21 +116,21 @@ created 2015-12-09, last commit 2020-07-16, main language Python
 ### [urwid](https://github.com/urwid/urwid)  
 [urwid.org](urwid.org)  
 Console user interface library for Python (official repo)  
-1,966 stars, 246 forks, 62 watches  
-created 2010-02-25, last commit 2020-06-22, main language Python  
+1,967 stars, 248 forks, 62 watches  
+created 2010-02-25, last commit 2020-07-27, main language Python  
 
 
 ### [coveragepy](https://github.com/nedbat/coveragepy)  
 [https://github.com/nedbat/coveragepy](https://github.com/nedbat/coveragepy)  
 Code coverage measurement for Python  
-1,259 stars, 152 forks, 27 watches  
-created 2018-06-23, last commit 2020-07-23, main language Python  
+1,264 stars, 152 forks, 27 watches  
+created 2018-06-23, last commit 2020-07-25, main language Python  
 
 
 ### [python-lambda](https://github.com/nficano/python-lambda)  
 [https://github.com/nficano/python-lambda](https://github.com/nficano/python-lambda)  
  A toolkit for developing and deploying serverless Python code in AWS Lambda.   
-1,149 stars, 201 forks, 29 watches  
+1,150 stars, 201 forks, 29 watches  
 created 2016-02-26, last commit 2020-07-09, main language Python  
 <sub><sup>aws, aws-lambda, microservices, python, serverless</sup></sub>
 
@@ -146,7 +138,7 @@ created 2016-02-26, last commit 2020-07-09, main language Python
 ### [gin-config](https://github.com/google/gin-config)  
 [https://github.com/google/gin-config](https://github.com/google/gin-config)  
 Gin provides a lightweight configuration framework for Python  
-951 stars, 64 forks, 22 watches  
+953 stars, 64 forks, 22 watches  
 created 2018-06-27, last commit 2020-07-09, main language Python  
 <sub><sup>configuration-management, python, tensorflow, tensorflow-experiments</sup></sub>
 
@@ -154,7 +146,7 @@ created 2018-06-27, last commit 2020-07-09, main language Python
 ### [tavern](https://github.com/taverntesting/tavern)  
 [https://taverntesting.github.io/](https://taverntesting.github.io/)  
 A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
-662 stars, 132 forks, 28 watches  
+664 stars, 132 forks, 28 watches  
 created 2017-11-01, last commit 2020-06-06, main language Python  
 <sub><sup>http, mqtt, pytest, python, test-automation, testing</sup></sub>
 
@@ -163,11 +155,11 @@ created 2017-11-01, last commit 2020-06-06, main language Python
 [https://foss.heptapod.net/pypy/pypy](https://foss.heptapod.net/pypy/pypy)  
 The unofficial GitHub mirror of PyPy  
 148 stars, 28 forks, 12 watches  
-created 2015-08-03, last commit 2020-07-24, main language Python  
+created 2015-08-03, last commit 2020-07-26, main language Python  
 <sub><sup>github-mirror, pypy</sup></sub>
 
 
-This file was automatically generated on 2020-07-24.  
+This file was automatically generated on 2020-07-27.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
