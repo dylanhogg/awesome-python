@@ -5,23 +5,23 @@ A selection of 4 math Python libraries and frameworks ordered by stars.
 ### [numpy](https://github.com/numpy/numpy)  
 [https://www.numpy.org/](https://www.numpy.org/)  
 The fundamental package for scientific computing with Python.  
-14,385 stars, 4,726 forks, 535 watches  
-created 2010-09-13, last commit 2020-07-25, main language C  
+14,543 stars, 4,750 forks, 540 watches  
+created 2010-09-13, last commit 2020-08-07, main language C  
 <sub><sup>numpy, python</sup></sub>
 
 
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-7,194 stars, 3,075 forks, 297 watches  
-created 2010-04-30, last commit 2020-07-26, main language Python  
+7,242 stars, 3,081 forks, 301 watches  
+created 2010-04-30, last commit 2020-08-08, main language Python  
 <sub><sup>computer-algebra, math, python, science</sup></sub>
 
 
 ### [mpmath](https://github.com/fredrik-johansson/mpmath)  
 [http://mpmath.org](http://mpmath.org)  
 Python library for arbitrary-precision floating-point arithmetic  
-457 stars, 110 forks, 27 watches  
+461 stars, 110 forks, 27 watches  
 created 2011-12-07, last commit 2020-06-08, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
@@ -33,7 +33,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2020-03-05, main language Python  
 
 
-This file was automatically generated on 2020-07-27.  
+This file was automatically generated on 2020-08-09.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
