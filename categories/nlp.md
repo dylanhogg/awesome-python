@@ -5,7 +5,7 @@ A selection of 15 nlp Python libraries and frameworks ordered by stars.
 ### [transformers](https://github.com/huggingface/transformers)  
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.  
-32,057 stars, 7,612 forks, 631 watches  
+32,058 stars, 7,613 forks, 631 watches  
 created 2018-10-29, last commit 2020-08-09, main language Python  
 <sub><sup>bert, gpt, language-model, language-models, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, pytorch, pytorch-transformers, tensorflow, transformer-xl, xlm, xlnet</sup></sub>
 

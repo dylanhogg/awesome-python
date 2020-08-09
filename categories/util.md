@@ -37,7 +37,7 @@ created 2010-11-03, last commit 2020-08-01, main language Python
 ### [jupyterlab](https://github.com/jupyterlab/jupyterlab)  
 [https://jupyterlab.readthedocs.io/](https://jupyterlab.readthedocs.io/)  
 JupyterLab computational environment.  
-10,097 stars, 1,738 forks, 341 watches  
+10,098 stars, 1,738 forks, 341 watches  
 created 2016-06-03, last commit 2020-08-08, main language JavaScript  
 <sub><sup>jupyterlab</sup></sub>
 
@@ -45,7 +45,7 @@ created 2016-06-03, last commit 2020-08-08, main language JavaScript
 ### [click](https://github.com/pallets/click)  
 [https://click.palletsprojects.com/](https://click.palletsprojects.com/)  
 Python composable command line interface toolkit  
-9,605 stars, 954 forks, 191 watches  
+9,606 stars, 954 forks, 191 watches  
 created 2014-04-24, last commit 2020-08-09, main language Python  
 <sub><sup>cli, click, python</sup></sub>
 
@@ -84,7 +84,7 @@ created 2014-10-03, last commit 2020-08-07, main language Python
 ### [cython](https://github.com/cython/cython)  
 [https://cython.org](https://cython.org)  
 The most widely used Python to C compiler  
-5,367 stars, 1,056 forks, 226 watches  
+5,368 stars, 1,056 forks, 226 watches  
 created 2010-11-21, last commit 2020-08-03, main language Python  
 <sub><sup>big-data, c, cpp, cpython, cpython-extensions, cython, performance, python</sup></sub>
 

@@ -13,7 +13,7 @@ created 2012-12-07, last commit 2020-08-07, main language Python
 ### [pyre-check](https://github.com/facebook/pyre-check)  
 [https://pyre-check.org/](https://pyre-check.org/)  
 Performant type-checking for python.  
-3,746 stars, 210 forks, 87 watches  
+3,753 stars, 210 forks, 87 watches  
 created 2017-11-10, last commit 2020-08-08, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 

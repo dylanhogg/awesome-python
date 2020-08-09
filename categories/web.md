@@ -5,7 +5,7 @@ A selection of 7 web Python libraries and frameworks ordered by stars.
 ### [flask](https://github.com/pallets/flask)  
 [https://palletsprojects.com/p/flask/](https://palletsprojects.com/p/flask/)  
 The Python micro framework for building web applications.  
-51,547 stars, 13,674 forks, 2,284 watches  
+51,546 stars, 13,674 forks, 2,284 watches  
 created 2010-04-06, last commit 2020-08-07, main language Python  
 <sub><sup>flask, jinja, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -13,7 +13,7 @@ created 2010-04-06, last commit 2020-08-07, main language Python
 ### [django](https://github.com/django/django)  
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 The Web framework for perfectionists with deadlines.  
-51,188 stars, 22,180 forks, 2,265 watches  
+51,191 stars, 22,182 forks, 2,265 watches  
 created 2012-04-28, last commit 2020-08-08, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
@@ -21,7 +21,7 @@ created 2012-04-28, last commit 2020-08-08, main language Python
 ### [tornado](https://github.com/tornadoweb/tornado)  
 [http://www.tornadoweb.org/](http://www.tornadoweb.org/)  
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
-19,339 stars, 5,224 forks, 1,054 watches  
+19,340 stars, 5,224 forks, 1,054 watches  
 created 2009-09-09, last commit 2020-07-24, main language Python  
 <sub><sup>asynchronous, python</sup></sub>
 

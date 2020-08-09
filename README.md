@@ -1,11 +1,11 @@
 # Crazy Awesome Python
-A selection of 126  Python libraries and frameworks ordered by stars.  
+A selection of 127  Python libraries and frameworks ordered by stars.  
 
 
 ### [tensorflow](https://github.com/tensorflow/tensorflow)  
 [https://tensorflow.org](https://tensorflow.org)  
 An Open Source Machine Learning Framework for Everyone  
-147,264 stars, 82,321 forks, 8,338 watches  
+147,263 stars, 82,321 forks, 8,339 watches  
 category [ml](categories/ml.md), created 2015-11-07, last commit 2020-08-09, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow</sup></sub>
 
@@ -13,7 +13,7 @@ category [ml](categories/ml.md), created 2015-11-07, last commit 2020-08-09, mai
 ### [flask](https://github.com/pallets/flask)  
 [https://palletsprojects.com/p/flask/](https://palletsprojects.com/p/flask/)  
 The Python micro framework for building web applications.  
-51,547 stars, 13,674 forks, 2,284 watches  
+51,546 stars, 13,674 forks, 2,284 watches  
 category [web](categories/web.md), created 2010-04-06, last commit 2020-08-07, main language Python  
 <sub><sup>flask, jinja, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -21,7 +21,7 @@ category [web](categories/web.md), created 2010-04-06, last commit 2020-08-07, m
 ### [django](https://github.com/django/django)  
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 The Web framework for perfectionists with deadlines.  
-51,188 stars, 22,180 forks, 2,265 watches  
+51,191 stars, 22,182 forks, 2,265 watches  
 category [web](categories/web.md), created 2012-04-28, last commit 2020-08-08, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
@@ -29,7 +29,7 @@ category [web](categories/web.md), created 2012-04-28, last commit 2020-08-08, m
 ### [keras](https://github.com/keras-team/keras)  
 [http://keras.io/](http://keras.io/)  
 Deep Learning for humans  
-49,219 stars, 18,501 forks, 2,095 watches  
+49,220 stars, 18,500 forks, 2,095 watches  
 category [ml](categories/ml.md), created 2015-03-28, last commit 2020-06-24, main language Python  
 <sub><sup>data-science, deep-learning, machine-learning, neural-networks, python, tensorflow</sup></sub>
 
@@ -37,7 +37,7 @@ category [ml](categories/ml.md), created 2015-03-28, last commit 2020-06-24, mai
 ### [scikit-learn](https://github.com/scikit-learn/scikit-learn)  
 [https://scikit-learn.org](https://scikit-learn.org)  
 scikit-learn: machine learning in Python  
-41,870 stars, 20,195 forks, 2,243 watches  
+41,870 stars, 20,196 forks, 2,243 watches  
 category [ml](categories/ml.md), created 2010-08-17, last commit 2020-08-08, main language Python  
 <sub><sup>data-analysis, data-science, machine-learning, python, statistics</sup></sub>
 
@@ -45,7 +45,7 @@ category [ml](categories/ml.md), created 2010-08-17, last commit 2020-08-08, mai
 ### [pytorch](https://github.com/pytorch/pytorch)  
 [https://pytorch.org](https://pytorch.org)  
 Tensors and Dynamic neural networks in Python with strong GPU acceleration  
-40,853 stars, 10,676 forks, 1,474 watches  
+40,855 stars, 10,676 forks, 1,474 watches  
 category [ml](categories/ml.md), created 2016-08-13, last commit 2020-08-08, main language C++  
 <sub><sup>autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor</sup></sub>
 
@@ -61,7 +61,7 @@ category [data](categories/data.md), created 2010-02-22, last commit 2020-08-06,
 ### [transformers](https://github.com/huggingface/transformers)  
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.  
-32,057 stars, 7,612 forks, 631 watches  
+32,058 stars, 7,613 forks, 631 watches  
 category [nlp](categories/nlp.md), created 2018-10-29, last commit 2020-08-09, main language Python  
 <sub><sup>bert, gpt, language-model, language-models, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, pytorch, pytorch-transformers, tensorflow, transformer-xl, xlm, xlnet</sup></sub>
 
@@ -69,7 +69,7 @@ category [nlp](categories/nlp.md), created 2018-10-29, last commit 2020-08-09, m
 ### [pandas](https://github.com/pandas-dev/pandas)  
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
-26,052 stars, 10,646 forks, 1,096 watches  
+26,051 stars, 10,646 forks, 1,096 watches  
 category [data](categories/data.md), created 2010-08-24, last commit 2020-08-08, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
@@ -92,7 +92,7 @@ category [ml](categories/ml.md), created 2014-02-06, last commit 2020-08-09, mai
 ### [tornado](https://github.com/tornadoweb/tornado)  
 [http://www.tornadoweb.org/](http://www.tornadoweb.org/)  
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
-19,339 stars, 5,224 forks, 1,054 watches  
+19,340 stars, 5,224 forks, 1,054 watches  
 category [web](categories/web.md), created 2009-09-09, last commit 2020-07-24, main language Python  
 <sub><sup>asynchronous, python</sup></sub>
 
@@ -108,7 +108,7 @@ category [ml](categories/ml.md), created 2015-04-30, last commit 2020-08-08, mai
 ### [airflow](https://github.com/apache/airflow)  
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
-17,714 stars, 6,894 forks, 698 watches  
+17,714 stars, 6,893 forks, 698 watches  
 category [pipeline](categories/pipeline.md), created 2015-04-13, last commit 2020-08-08, main language Python  
 <sub><sup>airflow, apache, apache-airflow, python, scheduler, workflow</sup></sub>
 
@@ -148,7 +148,7 @@ category [perf](categories/perf.md), created 2009-04-24, last commit 2020-08-05,
 ### [numpy](https://github.com/numpy/numpy)  
 [https://www.numpy.org/](https://www.numpy.org/)  
 The fundamental package for scientific computing with Python.  
-14,543 stars, 4,750 forks, 540 watches  
+14,542 stars, 4,750 forks, 540 watches  
 category [math](categories/math.md), created 2010-09-13, last commit 2020-08-07, main language C  
 <sub><sup>numpy, python</sup></sub>
 
@@ -196,7 +196,7 @@ category [util](categories/util.md), created 2011-02-17, last commit 2020-08-07,
 ### [dash](https://github.com/plotly/dash)  
 [https://plotly.com/dash](https://plotly.com/dash)  
 Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.  
-12,579 stars, 1,301 forks, 393 watches  
+12,581 stars, 1,301 forks, 393 watches  
 category [viz](categories/viz.md), created 2015-04-10, last commit 2020-08-06, main language Python  
 <sub><sup>bioinformatics, charting, dash, data-science, data-visualization, finance, flask, gui-framework, jupyter, modeling, no-javascript, plotly, plotly-dash, productivity, python, r, react, rstats, technical-computing, web-app</sup></sub>
 
@@ -235,7 +235,7 @@ category [nlp](categories/nlp.md), created 2011-02-10, last commit 2020-08-07, m
 ### [streamlit](https://github.com/streamlit/streamlit)  
 [https://streamlit.io](https://streamlit.io)  
 Streamlit — The fastest way to build data apps in Python  
-10,350 stars, 887 forks, 215 watches  
+10,351 stars, 887 forks, 215 watches  
 category [viz](categories/viz.md), created 2019-08-24, last commit 2020-08-08, main language TypeScript  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, machine-learning, python, streamlit</sup></sub>
 
@@ -251,7 +251,7 @@ category [data](categories/data.md), created 2012-11-12, last commit 2020-08-06,
 ### [jupyterlab](https://github.com/jupyterlab/jupyterlab)  
 [https://jupyterlab.readthedocs.io/](https://jupyterlab.readthedocs.io/)  
 JupyterLab computational environment.  
-10,097 stars, 1,738 forks, 341 watches  
+10,098 stars, 1,738 forks, 341 watches  
 category [util](categories/util.md), created 2016-06-03, last commit 2020-08-08, main language JavaScript  
 <sub><sup>jupyterlab</sup></sub>
 
@@ -267,7 +267,7 @@ category [sim](categories/sim.md), created 2016-03-21, last commit 2020-08-03, m
 ### [click](https://github.com/pallets/click)  
 [https://click.palletsprojects.com/](https://click.palletsprojects.com/)  
 Python composable command line interface toolkit  
-9,605 stars, 954 forks, 191 watches  
+9,606 stars, 954 forks, 191 watches  
 category [util](categories/util.md), created 2014-04-24, last commit 2020-08-09, main language Python  
 <sub><sup>cli, click, python</sup></sub>
 
@@ -307,7 +307,7 @@ category [typing](categories/typing.md), created 2012-12-07, last commit 2020-08
 ### [onnx](https://github.com/onnx/onnx)  
 [https://onnx.ai/](https://onnx.ai/)  
 Open standard for machine learning interoperability  
-8,815 stars, 1,537 forks, 432 watches  
+8,814 stars, 1,537 forks, 432 watches  
 category [ml](categories/ml.md), created 2017-09-07, last commit 2020-08-07, main language PureBasic  
 <sub><sup>deep-learning, deep-neural-networks, dnn, keras, machine-learning, ml, mxnet, neural-network, onnx, pytorch, scikit-learn, tensorflow</sup></sub>
 
@@ -377,14 +377,14 @@ category [util](categories/util.md), created 2015-04-09, last commit 2020-08-07,
 ### [scipy](https://github.com/scipy/scipy)  
 [https://scipy.org/scipylib/](https://scipy.org/scipylib/)  
 Scipy library main repository  
-7,393 stars, 3,361 forks, 326 watches  
+7,394 stars, 3,361 forks, 326 watches  
 category [ml](categories/ml.md), created 2011-03-09, last commit 2020-08-08, main language Python  
 
 
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-7,242 stars, 3,081 forks, 301 watches  
+7,241 stars, 3,081 forks, 301 watches  
 category [math](categories/math.md), created 2010-04-30, last commit 2020-08-08, main language Python  
 <sub><sup>computer-algebra, math, python, science</sup></sub>
 
@@ -424,7 +424,7 @@ category [data](categories/data.md), created 2020-03-14, last commit 2020-08-08,
 ### [ludwig](https://github.com/uber/ludwig)  
 [http://ludwig.ai](http://ludwig.ai)  
 Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.  
-6,905 stars, 821 forks, 186 watches  
+6,905 stars, 822 forks, 186 watches  
 category [ml](categories/ml.md), created 2018-12-27, last commit 2020-08-08, main language Python  
 <sub><sup>computer-vision, deep, deep-learning, deep-neural-networks, deeplearning, learning, machine, machine-learning, machinelearning, natural-language, natural-language-generation, natural-language-processing, natural-language-understanding, python3</sup></sub>
 
@@ -503,7 +503,7 @@ category [ml](categories/ml.md), created 2011-06-12, last commit 2020-08-07, mai
 ### [cython](https://github.com/cython/cython)  
 [https://cython.org](https://cython.org)  
 The most widely used Python to C compiler  
-5,367 stars, 1,056 forks, 226 watches  
+5,368 stars, 1,056 forks, 226 watches  
 category [util](categories/util.md), created 2010-11-21, last commit 2020-08-03, main language Python  
 <sub><sup>big-data, c, cpp, cpython, cpython-extensions, cython, performance, python</sup></sub>
 
@@ -581,7 +581,7 @@ category [nlp](categories/nlp.md), created 2017-07-07, last commit 2020-05-25, m
 ### [pyre-check](https://github.com/facebook/pyre-check)  
 [https://pyre-check.org/](https://pyre-check.org/)  
 Performant type-checking for python.  
-3,746 stars, 210 forks, 87 watches  
+3,753 stars, 210 forks, 87 watches  
 category [typing](categories/typing.md), created 2017-11-10, last commit 2020-08-08, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 
@@ -823,7 +823,7 @@ category [graph](categories/graph.md), created 2018-04-13, last commit 2020-07-2
 ### [opencv-python](https://github.com/skvark/opencv-python)  
 [https://pypi.org/project/opencv-python/](https://pypi.org/project/opencv-python/)  
 Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  
-1,441 stars, 272 forks, 51 watches  
+1,442 stars, 272 forks, 51 watches  
 category [ml](categories/ml.md), created 2016-04-08, last commit 2020-08-08, main language Shell  
 <sub><sup>manylinux, opencv, opencv-contrib-python, opencv-python, precompiled, pypi, python, python-3, wheel</sup></sub>
 
@@ -990,6 +990,14 @@ category [data](categories/data.md), created 2017-06-06, last commit 2020-07-31,
 PaCAL - ProbAbilistic CALculator  
 11 stars, 5 forks, 5 watches  
 category [math](categories/math.md), created 2014-08-04, last commit 2020-03-05, main language Python  
+
+
+### [cloud-products](https://github.com/dylanhogg/cloud-products)  
+[https://github.com/dylanhogg/cloud-products](https://github.com/dylanhogg/cloud-products)  
+A package for getting cloud products and product descriptions from a cloud provider website.  
+0 stars, 0 forks, 1 watches  
+category [personal](categories/personal.md), created 2020-08-01, last commit 2020-08-09, main language Python  
+<sub><sup>aws, cloud-products, crawler, data</sup></sub>
 
 
 This file was automatically generated on 2020-08-09.  

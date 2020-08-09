@@ -13,7 +13,7 @@ created 2010-02-22, last commit 2020-08-06, main language Python
 ### [pandas](https://github.com/pandas-dev/pandas)  
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
-26,052 stars, 10,646 forks, 1,096 watches  
+26,051 stars, 10,646 forks, 1,096 watches  
 created 2010-08-24, last commit 2020-08-08, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 

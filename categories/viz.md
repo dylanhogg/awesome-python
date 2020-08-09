@@ -13,7 +13,7 @@ created 2012-03-26, last commit 2020-08-09, main language Python
 ### [dash](https://github.com/plotly/dash)  
 [https://plotly.com/dash](https://plotly.com/dash)  
 Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.  
-12,579 stars, 1,301 forks, 393 watches  
+12,581 stars, 1,301 forks, 393 watches  
 created 2015-04-10, last commit 2020-08-06, main language Python  
 <sub><sup>bioinformatics, charting, dash, data-science, data-visualization, finance, flask, gui-framework, jupyter, modeling, no-javascript, plotly, plotly-dash, productivity, python, r, react, rstats, technical-computing, web-app</sup></sub>
 
@@ -28,7 +28,7 @@ created 2011-02-19, last commit 2020-08-08, main language Python
 ### [streamlit](https://github.com/streamlit/streamlit)  
 [https://streamlit.io](https://streamlit.io)  
 Streamlit — The fastest way to build data apps in Python  
-10,350 stars, 887 forks, 215 watches  
+10,351 stars, 887 forks, 215 watches  
 created 2019-08-24, last commit 2020-08-08, main language TypeScript  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, machine-learning, python, streamlit</sup></sub>
 

@@ -5,7 +5,7 @@ A selection of 28 ml Python libraries and frameworks ordered by stars.
 ### [tensorflow](https://github.com/tensorflow/tensorflow)  
 [https://tensorflow.org](https://tensorflow.org)  
 An Open Source Machine Learning Framework for Everyone  
-147,264 stars, 82,321 forks, 8,338 watches  
+147,263 stars, 82,321 forks, 8,339 watches  
 created 2015-11-07, last commit 2020-08-09, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow</sup></sub>
 
@@ -13,7 +13,7 @@ created 2015-11-07, last commit 2020-08-09, main language C++
 ### [keras](https://github.com/keras-team/keras)  
 [http://keras.io/](http://keras.io/)  
 Deep Learning for humans  
-49,219 stars, 18,501 forks, 2,095 watches  
+49,220 stars, 18,500 forks, 2,095 watches  
 created 2015-03-28, last commit 2020-06-24, main language Python  
 <sub><sup>data-science, deep-learning, machine-learning, neural-networks, python, tensorflow</sup></sub>
 
@@ -21,7 +21,7 @@ created 2015-03-28, last commit 2020-06-24, main language Python
 ### [scikit-learn](https://github.com/scikit-learn/scikit-learn)  
 [https://scikit-learn.org](https://scikit-learn.org)  
 scikit-learn: machine learning in Python  
-41,870 stars, 20,195 forks, 2,243 watches  
+41,870 stars, 20,196 forks, 2,243 watches  
 created 2010-08-17, last commit 2020-08-08, main language Python  
 <sub><sup>data-analysis, data-science, machine-learning, python, statistics</sup></sub>
 
@@ -29,7 +29,7 @@ created 2010-08-17, last commit 2020-08-08, main language Python
 ### [pytorch](https://github.com/pytorch/pytorch)  
 [https://pytorch.org](https://pytorch.org)  
 Tensors and Dynamic neural networks in Python with strong GPU acceleration  
-40,853 stars, 10,676 forks, 1,474 watches  
+40,855 stars, 10,676 forks, 1,474 watches  
 created 2016-08-13, last commit 2020-08-08, main language C++  
 <sub><sup>autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor</sup></sub>
 
@@ -69,7 +69,7 @@ created 2018-07-26, last commit 2020-08-05, main language Jupyter Notebook
 ### [onnx](https://github.com/onnx/onnx)  
 [https://onnx.ai/](https://onnx.ai/)  
 Open standard for machine learning interoperability  
-8,815 stars, 1,537 forks, 432 watches  
+8,814 stars, 1,537 forks, 432 watches  
 created 2017-09-07, last commit 2020-08-07, main language PureBasic  
 <sub><sup>deep-learning, deep-neural-networks, dnn, keras, machine-learning, ml, mxnet, neural-network, onnx, pytorch, scikit-learn, tensorflow</sup></sub>
 
@@ -92,14 +92,14 @@ created 2016-03-15, last commit 2020-07-31, main language JavaScript
 ### [scipy](https://github.com/scipy/scipy)  
 [https://scipy.org/scipylib/](https://scipy.org/scipylib/)  
 Scipy library main repository  
-7,393 stars, 3,361 forks, 326 watches  
+7,394 stars, 3,361 forks, 326 watches  
 created 2011-03-09, last commit 2020-08-08, main language Python  
 
 
 ### [ludwig](https://github.com/uber/ludwig)  
 [http://ludwig.ai](http://ludwig.ai)  
 Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.  
-6,905 stars, 821 forks, 186 watches  
+6,905 stars, 822 forks, 186 watches  
 created 2018-12-27, last commit 2020-08-08, main language Python  
 <sub><sup>computer-vision, deep, deep-learning, deep-neural-networks, deeplearning, learning, machine, machine-learning, machinelearning, natural-language, natural-language-generation, natural-language-processing, natural-language-understanding, python3</sup></sub>
 
@@ -202,7 +202,7 @@ created 2016-09-27, last commit 2020-05-01, main language Python
 ### [opencv-python](https://github.com/skvark/opencv-python)  
 [https://pypi.org/project/opencv-python/](https://pypi.org/project/opencv-python/)  
 Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  
-1,441 stars, 272 forks, 51 watches  
+1,442 stars, 272 forks, 51 watches  
 created 2016-04-08, last commit 2020-08-08, main language Shell  
 <sub><sup>manylinux, opencv, opencv-contrib-python, opencv-python, precompiled, pypi, python, python-3, wheel</sup></sub>
 
