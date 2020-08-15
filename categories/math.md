@@ -5,16 +5,16 @@ A selection of 4 math Python libraries and frameworks ordered by stars.
 ### [numpy](https://github.com/numpy/numpy)  
 [https://www.numpy.org/](https://www.numpy.org/)  
 The fundamental package for scientific computing with Python.  
-14,542 stars, 4,750 forks, 540 watches  
-created 2010-09-13, last commit 2020-08-07, main language C  
+14,601 stars, 4,776 forks, 539 watches  
+created 2010-09-13, last commit 2020-08-14, main language C  
 <sub><sup>numpy, python</sup></sub>
 
 
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-7,241 stars, 3,081 forks, 301 watches  
-created 2010-04-30, last commit 2020-08-08, main language Python  
+7,250 stars, 3,090 forks, 301 watches  
+created 2010-04-30, last commit 2020-08-13, main language Python  
 <sub><sup>computer-algebra, math, python, science</sup></sub>
 
 
@@ -33,7 +33,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2020-03-05, main language Python  
 
 
-This file was automatically generated on 2020-08-09.  
+This file was automatically generated on 2020-08-15.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
