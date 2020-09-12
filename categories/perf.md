@@ -57,7 +57,7 @@ created 2012-12-11, last commit 2020-09-01, main language Python
 <sub><sup>c10k, concurrency, greenlet, network, production-ready, python</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

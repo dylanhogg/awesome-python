@@ -29,7 +29,7 @@ created 2014-02-21, last commit 2020-08-02, main language Python
 ### [faker](https://github.com/joke2k/faker)  
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 Faker is a Python package that generates fake data for you.  
-10,495 stars, 1,245 forks, 209 watches  
+10,496 stars, 1,245 forks, 209 watches  
 created 2012-11-12, last commit 2020-09-11, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -37,7 +37,7 @@ created 2012-11-12, last commit 2020-09-11, main language Python
 ### [EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai  
-7,511 stars, 681 forks, 189 watches  
+7,512 stars, 681 forks, 189 watches  
 created 2020-03-14, last commit 2020-09-10, main language Python  
 <sub><sup>chinese-ocr, cnn, crnn, data-mining, deep-learning, image-processing, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -132,7 +132,7 @@ created 2014-03-17, last commit 2020-09-07, main language Python
 [https://aws-data-wrangler.readthedocs.io](https://aws-data-wrangler.readthedocs.io)  
 Pandas on AWS  
 1,008 stars, 167 forks, 46 watches  
-created 2019-02-26, last commit 2020-09-09, main language Python  
+created 2019-02-26, last commit 2020-09-12, main language Python  
 <sub><sup>amazon-athena, amazon-sagemaker-notebook, apache-arrow, apache-parquet, athena, aws, aws-glue, aws-lambda, data-engineering, data-science, emr, etl, glue-catalog, lambda, mysql, pandas, python, redshift</sup></sub>
 
 
@@ -152,7 +152,7 @@ created 2017-06-06, last commit 2020-08-21, main language Python
 <sub><sup>database, hive, hiveql, metadata, mysql-query, parser, python-package, python3-library, sql, sql-parser, sqlparse</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

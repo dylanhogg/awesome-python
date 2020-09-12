@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 35 ml Python libraries and frameworks ordered by stars.  
+A selection of 36 ml Python libraries and frameworks ordered by stars.  
 
 
 ### [tensorflow](https://github.com/tensorflow/tensorflow)  
@@ -144,6 +144,14 @@ created 2009-05-05, last commit 2020-09-10, main language Python
 <sub><sup>bayesian-inference, mcmc, probabilistic-programming, python, statistical-analysis, theano, variational-inference</sup></sub>
 
 
+### [featuretools](https://github.com/FeatureLabs/featuretools)  
+[https://www.featuretools.com](https://www.featuretools.com)  
+An open source python library for automated feature engineering  
+5,075 stars, 663 forks, 149 watches  
+created 2017-09-08, last commit 2020-09-11, main language Python  
+<sub><sup>automated-feature-engineering, automated-machine-learning, automl, data-science, feature-engineering, machine-learning, python, scikit-learn</sup></sub>
+
+
 ### [hyperopt](https://github.com/hyperopt/hyperopt)  
 [http://hyperopt.github.io/hyperopt](http://hyperopt.github.io/hyperopt)  
 Distributed Asynchronous Hyperparameter Optimization in Python  
@@ -226,7 +234,7 @@ created 2019-07-29, last commit 2020-09-12, main language Python
 ### [pycaret](https://github.com/pycaret/pycaret)  
 [https://www.pycaret.org](https://www.pycaret.org)  
 An open-source, low-code machine learning library in Python  
-2,214 stars, 448 forks, 79 watches  
+2,215 stars, 449 forks, 79 watches  
 created 2019-11-23, last commit 2020-09-10, main language Jupyter Notebook  
 <sub><sup>citizen-data-scientists, data-science, machine-learning, ml, pycaret, python</sup></sub>
 
@@ -279,7 +287,7 @@ created 2013-05-24, last commit 2020-08-18, main language Python
 <sub><sup>machine-learning, probabilistic-programming, python, stan, statistics</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -18,7 +18,7 @@ created 2013-09-30, last commit 2020-09-01, main language C++
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -25,7 +25,7 @@ created 2014-09-19, last commit 2020-08-29, main language Python
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

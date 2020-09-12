@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 142  Python libraries and frameworks ordered by stars.  
+A selection of 143  Python libraries and frameworks ordered by stars.  
 
 
 ### [tensorflow](https://github.com/tensorflow/tensorflow)  
@@ -251,7 +251,7 @@ category [viz](categories/viz.md), created 2019-08-24, last commit 2020-09-11, m
 ### [faker](https://github.com/joke2k/faker)  
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 Faker is a Python package that generates fake data for you.  
-10,495 stars, 1,245 forks, 209 watches  
+10,496 stars, 1,245 forks, 209 watches  
 category [data](categories/data.md), created 2012-11-12, last commit 2020-09-11, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -338,7 +338,7 @@ category [ml](categories/ml.md), created 2016-03-15, last commit 2020-09-10, mai
 ### [networkx](https://github.com/networkx/networkx)  
 [http://networkx.github.io](http://networkx.github.io)  
 Network Analysis in Python  
-7,870 stars, 2,051 forks, 269 watches  
+7,870 stars, 2,052 forks, 269 watches  
 category [graph](categories/graph.md), created 2010-09-06, last commit 2020-09-11, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
@@ -346,7 +346,7 @@ category [graph](categories/graph.md), created 2010-09-06, last commit 2020-09-1
 ### [plotly.py](https://github.com/plotly/plotly.py)  
 [https://plotly.com/python/](https://plotly.com/python/)  
 The interactive graphing library for Python (includes Plotly Express) :sparkles:  
-7,774 stars, 1,631 forks, 255 watches  
+7,775 stars, 1,631 forks, 255 watches  
 category [viz](categories/viz.md), created 2013-11-21, last commit 2020-09-10, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -385,7 +385,7 @@ category [util](categories/util.md), created 2015-04-09, last commit 2020-09-10,
 ### [EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai  
-7,511 stars, 681 forks, 189 watches  
+7,512 stars, 681 forks, 189 watches  
 category [data](categories/data.md), created 2020-03-14, last commit 2020-09-10, main language Python  
 <sub><sup>chinese-ocr, cnn, crnn, data-mining, deep-learning, image-processing, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -416,7 +416,7 @@ category [ml](categories/ml.md), created 2017-11-19, last commit 2020-09-07, mai
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-7,340 stars, 3,096 forks, 302 watches  
+7,340 stars, 3,096 forks, 303 watches  
 category [math](categories/math.md), created 2010-04-30, last commit 2020-09-11, main language Python  
 <sub><sup>computer-algebra, math, python, science</sup></sub>
 
@@ -563,6 +563,14 @@ category [ml](categories/ml.md), created 2009-05-05, last commit 2020-09-10, mai
 <sub><sup>bayesian-inference, mcmc, probabilistic-programming, python, statistical-analysis, theano, variational-inference</sup></sub>
 
 
+### [featuretools](https://github.com/FeatureLabs/featuretools)  
+[https://www.featuretools.com](https://www.featuretools.com)  
+An open source python library for automated feature engineering  
+5,075 stars, 663 forks, 149 watches  
+category [ml](categories/ml.md), created 2017-09-08, last commit 2020-09-11, main language Python  
+<sub><sup>automated-feature-engineering, automated-machine-learning, automl, data-science, feature-engineering, machine-learning, python, scikit-learn</sup></sub>
+
+
 ### [hyperopt](https://github.com/hyperopt/hyperopt)  
 [http://hyperopt.github.io/hyperopt](http://hyperopt.github.io/hyperopt)  
 Distributed Asynchronous Hyperparameter Optimization in Python  
@@ -675,7 +683,7 @@ category [ml](categories/ml.md), created 2017-07-18, last commit 2020-08-31, mai
 ### [datasets](https://github.com/huggingface/datasets)  
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas  
-3,201 stars, 249 forks, 102 watches  
+3,202 stars, 249 forks, 102 watches  
 category [nlp](categories/nlp.md), created 2020-03-26, last commit 2020-09-11, main language Python  
 <sub><sup>datasets, evaluation, metrics, natural-language-processing, nlp, numpy, pandas, pytorch, tensorflow</sup></sub>
 
@@ -815,7 +823,7 @@ category [data](categories/data.md), created 2013-01-04, last commit 2020-09-10,
 ### [pycaret](https://github.com/pycaret/pycaret)  
 [https://www.pycaret.org](https://www.pycaret.org)  
 An open-source, low-code machine learning library in Python  
-2,214 stars, 448 forks, 79 watches  
+2,215 stars, 449 forks, 79 watches  
 category [ml](categories/ml.md), created 2019-11-23, last commit 2020-09-10, main language Jupyter Notebook  
 <sub><sup>citizen-data-scientists, data-science, machine-learning, ml, pycaret, python</sup></sub>
 
@@ -988,7 +996,7 @@ category [sim](categories/sim.md), created 2014-09-19, last commit 2020-08-29, m
 [https://aws-data-wrangler.readthedocs.io](https://aws-data-wrangler.readthedocs.io)  
 Pandas on AWS  
 1,008 stars, 167 forks, 46 watches  
-category [data](categories/data.md), created 2019-02-26, last commit 2020-09-09, main language Python  
+category [data](categories/data.md), created 2019-02-26, last commit 2020-09-12, main language Python  
 <sub><sup>amazon-athena, amazon-sagemaker-notebook, apache-arrow, apache-parquet, athena, aws, aws-glue, aws-lambda, data-engineering, data-science, emr, etl, glue-catalog, lambda, mysql, pandas, python, redshift</sup></sub>
 
 
@@ -1043,7 +1051,7 @@ category [math](categories/math.md), created 2011-12-07, last commit 2020-09-06,
 ### [txtai](https://github.com/neuml/txtai)  
 [https://github.com/neuml/txtai](https://github.com/neuml/txtai)  
 AI-powered search engine  
-399 stars, 46 forks, 12 watches  
+400 stars, 46 forks, 12 watches  
 category [nlp](categories/nlp.md), created 2020-08-09, last commit 2020-09-11, main language Python  
 <sub><sup>machine-learning, nlp, python, search</sup></sub>
 
@@ -1118,7 +1126,7 @@ category [personal](categories/personal.md), created 2020-08-01, last commit 202
 <sub><sup>aws, cloud-products, crawler, data</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

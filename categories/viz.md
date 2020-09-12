@@ -36,7 +36,7 @@ created 2019-08-24, last commit 2020-09-11, main language TypeScript
 ### [plotly.py](https://github.com/plotly/plotly.py)  
 [https://plotly.com/python/](https://plotly.com/python/)  
 The interactive graphing library for Python (includes Plotly Express) :sparkles:  
-7,774 stars, 1,631 forks, 255 watches  
+7,775 stars, 1,631 forks, 255 watches  
 created 2013-11-21, last commit 2020-09-10, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -93,7 +93,7 @@ created 2016-12-21, last commit 2020-07-07, main language Python
 <sub><sup>dataviz, ipython-widget, jupyter, jupyter-notebook, plotting, python, quiver, rendering-3d-volumes, scientific-visualization, threejs, virtual-reality, visualisation, volume-rendering, webgl</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

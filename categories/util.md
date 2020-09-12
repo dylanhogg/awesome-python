@@ -166,7 +166,7 @@ created 2015-08-03, last commit 2020-09-11, main language Python
 <sub><sup>github-mirror, pypy</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

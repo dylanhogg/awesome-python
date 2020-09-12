@@ -67,7 +67,7 @@ created 2017-07-07, last commit 2020-05-25, main language Python
 ### [datasets](https://github.com/huggingface/datasets)  
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas  
-3,201 stars, 249 forks, 102 watches  
+3,202 stars, 249 forks, 102 watches  
 created 2020-03-26, last commit 2020-09-11, main language Python  
 <sub><sup>datasets, evaluation, metrics, natural-language-processing, nlp, numpy, pandas, pytorch, tensorflow</sup></sub>
 
@@ -123,7 +123,7 @@ created 2020-03-20, last commit 2020-09-11, main language Python
 ### [txtai](https://github.com/neuml/txtai)  
 [https://github.com/neuml/txtai](https://github.com/neuml/txtai)  
 AI-powered search engine  
-399 stars, 46 forks, 12 watches  
+400 stars, 46 forks, 12 watches  
 created 2020-08-09, last commit 2020-09-11, main language Python  
 <sub><sup>machine-learning, nlp, python, search</sup></sub>
 
@@ -152,7 +152,7 @@ created 2020-06-23, last commit 2020-09-02, main language Python
 <sub><sup>dependency-parsing, machine-learning, named-entity-recognition, natural-language-processing, ner, nlp, part-of-speech-tagging, spacy, streamlit, text-classification, tokenization, visualizer, visualizers, word-vectors</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

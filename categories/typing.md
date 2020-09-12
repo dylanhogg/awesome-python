@@ -26,7 +26,7 @@ created 2015-03-18, last commit 2020-09-11, main language Python
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
-This file was automatically generated on 2020-09-12.  
+This file was automatically generated on 2020-09-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
