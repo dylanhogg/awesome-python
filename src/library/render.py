@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 from datetime import datetime
 from typing import List
@@ -12,6 +13,17 @@ def get_input_data(csv_location) -> pd.DataFrame:
     df = pd.read_csv(csv_location)
     df.columns = map(str.lower, df.columns)
     assert "githuburl" in df.columns
+    assert "category" in df.columns
+
+    duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
+    duplicated_count = len(duplicated_githuburls)
+    if duplicated_count > 0:
+        logger.warning(
+            f"duplicated_count is {duplicated_count}\n{duplicated_githuburls}"
+        )
+        logger.fatal(f"Fix up duplicates from {csv_location} and re-run.")
+        sys.exit()
+
     return df
 
 
