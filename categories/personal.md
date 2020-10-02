@@ -10,7 +10,7 @@ created 2020-08-01, last commit 2020-08-15, main language Python
 <sub><sup>aws, cloud-products, crawler, data</sup></sub>
 
 
-This file was automatically generated on 2020-09-13.  
+This file was automatically generated on 2020-10-02.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

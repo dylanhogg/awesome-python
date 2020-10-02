@@ -5,20 +5,20 @@ A selection of 2 gamedev Python libraries and frameworks ordered by stars.
 ### [pygame](https://github.com/pygame/pygame)  
 [https://www.pygame.org](https://www.pygame.org)  
 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.  
-2,417 stars, 1,071 forks, 130 watches  
-created 2017-03-26, last commit 2020-09-12, main language C  
+2,464 stars, 1,100 forks, 131 watches  
+created 2017-03-26, last commit 2020-10-01, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
 
 ### [panda3d](https://github.com/panda3d/panda3d)  
 [https://www.panda3d.org/](https://www.panda3d.org/)  
 Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
-2,390 stars, 557 forks, 198 watches  
-created 2013-09-30, last commit 2020-09-01, main language C++  
+2,416 stars, 560 forks, 198 watches  
+created 2013-09-30, last commit 2020-10-02, main language C++  
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 
 
-This file was automatically generated on 2020-09-13.  
+This file was automatically generated on 2020-10-02.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
