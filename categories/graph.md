@@ -3,17 +3,17 @@ A selection of 3 graph Python libraries and frameworks ordered by stars.
 
 
 ### [networkx](https://github.com/networkx/networkx)  
-[http://networkx.org](http://networkx.org)  
+[https://networkx.org](https://networkx.org)  
 Network Analysis in Python  
-8,199 stars, 2,133 forks, 279 watches  
-created 2010-09-06, last commit 2020-11-17, main language Python  
+8,311 stars, 2,156 forks, 272 watches  
+created 2010-09-06, last commit 2020-12-07, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 
 ### [stellargraph](https://github.com/stellargraph/stellargraph)  
 [https://stellargraph.io/](https://stellargraph.io/)  
 StellarGraph - Machine Learning on Graphs  
-1,626 stars, 235 forks, 55 watches  
+1,662 stars, 244 forks, 56 watches  
 created 2018-04-13, last commit 2020-07-21, main language Python  
 <sub><sup>geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-neural-networks, graphs, heterogeneous-networks, interpretability, machine-learning, machine-learning-algorithms, networkx, saliency-map</sup></sub>
 
@@ -26,7 +26,7 @@ created 2017-09-27, last commit 2018-12-11, main language Python
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2020-11-18.  
+This file was automatically generated on 2020-12-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

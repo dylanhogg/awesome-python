@@ -5,23 +5,23 @@ A selection of 23 data Python libraries and frameworks ordered by stars.
 ### [scrapy](https://github.com/scrapy/scrapy)  
 [https://scrapy.org](https://scrapy.org)  
 Scrapy, a fast high-level web crawling & scraping framework for Python.  
-38,935 stars, 8,914 forks, 1,817 watches  
-created 2010-02-22, last commit 2020-11-11, main language Python  
+39,117 stars, 8,947 forks, 1,817 watches  
+created 2010-02-22, last commit 2020-12-03, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
 
 ### [pandas](https://github.com/pandas-dev/pandas)  
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
-27,281 stars, 11,373 forks, 1,108 watches  
-created 2010-08-24, last commit 2020-11-18, main language Python  
+27,528 stars, 11,480 forks, 1,106 watches  
+created 2010-08-24, last commit 2020-12-06, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
 
 ### [pyspider](https://github.com/binux/pyspider)  
 [http://docs.pyspider.org/](http://docs.pyspider.org/)  
 A Powerful Spider(Web Crawler) System in Python.  
-14,696 stars, 3,543 forks, 908 watches  
+14,740 stars, 3,548 forks, 911 watches  
 created 2014-02-21, last commit 2020-08-02, main language Python  
 <sub><sup>crawler, python</sup></sub>
 
@@ -29,23 +29,23 @@ created 2014-02-21, last commit 2020-08-02, main language Python
 ### [faker](https://github.com/joke2k/faker)  
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 Faker is a Python package that generates fake data for you.  
-11,333 stars, 1,301 forks, 235 watches  
-created 2012-11-12, last commit 2020-11-17, main language Python  
+11,677 stars, 1,319 forks, 236 watches  
+created 2012-11-12, last commit 2020-12-06, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
 
 ### [EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
-Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai  
-8,729 stars, 820 forks, 222 watches  
-created 2020-03-14, last commit 2020-11-17, main language Python  
-<sub><sup>chinese-ocr, cnn, crnn, data-mining, deep-learning, image-processing, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
+Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
+9,399 stars, 885 forks, 239 watches  
+created 2020-03-14, last commit 2020-12-03, main language Python  
+<sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
 
 ### [twint](https://github.com/twintproject/twint)  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
-8,585 stars, 1,143 forks, 258 watches  
+8,716 stars, 1,183 forks, 260 watches  
 created 2017-06-10, last commit 2020-10-30, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -53,7 +53,7 @@ created 2017-06-10, last commit 2020-10-30, main language Python
 ### [Photon](https://github.com/s0md3v/Photon)  
 [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)  
 Incredibly fast crawler designed for OSINT.  
-7,251 stars, 1,007 forks, 279 watches  
+7,357 stars, 1,020 forks, 289 watches  
 created 2018-03-30, last commit 2019-12-06, main language Python  
 <sub><sup>crawler, information-gathering, osint, python, spider</sup></sub>
 
@@ -61,70 +61,70 @@ created 2018-03-30, last commit 2019-12-06, main language Python
 ### [dvc](https://github.com/iterative/dvc)  
 [https://dvc.org](https://dvc.org)  
 🦉Data Version Control | Git for Data & Models  
-6,695 stars, 620 forks, 122 watches  
-created 2017-03-04, last commit 2020-11-18, main language Python  
+6,825 stars, 637 forks, 124 watches  
+created 2017-03-04, last commit 2020-12-04, main language Python  
 <sub><sup>ai, collaboration, data-science, data-version-control, developer-tools, git, hacktoberfest, machine-learning, python, reproducibility</sup></sub>
 
 
 ### [arrow](https://github.com/apache/arrow)  
 [https://arrow.apache.org](https://arrow.apache.org)  
 Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.  
-6,561 stars, 1,650 forks, 319 watches  
-created 2016-02-17, last commit 2020-11-18, main language C++  
+6,675 stars, 1,677 forks, 314 watches  
+created 2016-02-17, last commit 2020-12-07, main language C++  
 <sub><sup>arrow</sup></sub>
 
 
 ### [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
 [https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/)  
 Create HTML profiling reports from pandas DataFrame objects  
-6,296 stars, 958 forks, 141 watches  
-created 2016-01-09, last commit 2020-11-14, main language Jupyter Notebook  
+6,392 stars, 968 forks, 138 watches  
+created 2016-01-09, last commit 2020-11-30, main language Jupyter Notebook  
 <sub><sup>artificial-intelligence, big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, python, statistics</sup></sub>
 
 
 ### [flashtext](https://github.com/vi3k6i5/flashtext)  
 [https://github.com/vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext)  
 Extract Keywords from sentence or Replace keywords in sentences.  
-4,552 stars, 524 forks, 142 watches  
+4,576 stars, 526 forks, 143 watches  
 created 2017-08-15, last commit 2020-05-03, main language Python  
 <sub><sup>data-extraction, keyword-extraction, nlp, search-in-text, word2vec</sup></sub>
-
-
-### [mimesis](https://github.com/lk-geimfari/mimesis)  
-[https://mimesis.name/](https://mimesis.name/)  
-Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.  
-3,139 stars, 264 forks, 68 watches  
-created 2016-09-09, last commit 2020-11-18, main language Python  
-<sub><sup>data, dummy, e2e, fake, fake-api, faker, fixtures, generator, json, json-generator, mimesis, mock, python, schema, synthetic, testing</sup></sub>
 
 
 ### [great_expectations](https://github.com/great-expectations/great_expectations)  
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 Always know what to expect from your data.  
-3,059 stars, 339 forks, 56 watches  
-created 2017-09-11, last commit 2020-11-17, main language Python  
+3,191 stars, 355 forks, 58 watches  
+created 2017-09-11, last commit 2020-12-05, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
+
+
+### [mimesis](https://github.com/lk-geimfari/mimesis)  
+[https://mimesis.name/](https://mimesis.name/)  
+Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.  
+3,163 stars, 269 forks, 67 watches  
+created 2016-09-09, last commit 2020-12-06, main language Python  
+<sub><sup>data, dummy, e2e, fake, fake-api, faker, fixtures, generator, json, json-generator, mimesis, mock, python, schema, synthetic, testing</sup></sub>
 
 
 ### [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 The Database Toolkit for Python  
-2,985 stars, 471 forks, 68 watches  
-created 2018-11-27, last commit 2020-11-17, main language Python  
+3,041 stars, 478 forks, 67 watches  
+created 2018-11-27, last commit 2020-12-04, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
 
 
 ### [qgrid](https://github.com/quantopian/qgrid)  
 [https://github.com/quantopian/qgrid](https://github.com/quantopian/qgrid)  
 An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks  
-2,438 stars, 297 forks, 94 watches  
+2,459 stars, 302 forks, 94 watches  
 created 2014-09-30, last commit 2020-04-07, main language Python  
 
 
 ### [XlsxWriter](https://github.com/jmcnamara/XlsxWriter)  
 [https://xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io)  
 A Python module for creating Excel XLSX files.  
-2,392 stars, 502 forks, 121 watches  
+2,407 stars, 505 forks, 122 watches  
 created 2013-01-04, last commit 2020-10-13, main language Python  
 <sub><sup>charts, libxlsxwriter, pandas, python, spreadsheet, xlsx, xlsx-files, xlsxwriter</sup></sub>
 
@@ -132,45 +132,45 @@ created 2013-01-04, last commit 2020-10-13, main language Python
 ### [sqlparse](https://github.com/andialbrecht/sqlparse)  
 [https://github.com/andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse)  
 A non-validating SQL parser module for Python  
-2,237 stars, 468 forks, 92 watches  
+2,264 stars, 473 forks, 91 watches  
 created 2012-04-18, last commit 2020-10-19, main language Python  
 
 
 ### [Wikipedia](https://github.com/goldsmith/Wikipedia)  
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 A Pythonic wrapper for the Wikipedia API  
-2,129 stars, 426 forks, 71 watches  
+2,148 stars, 431 forks, 71 watches  
 created 2013-08-20, last commit 2020-10-09, main language Python  
 
 
 ### [xlwings](https://github.com/ZoomerAnalytics/xlwings)  
 [https://www.xlwings.org](https://www.xlwings.org)  
 xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS. Sign up for the newsletter or follow us on twitter via  
-1,830 stars, 343 forks, 137 watches  
-created 2014-03-17, last commit 2020-11-15, main language Python  
+1,849 stars, 344 forks, 137 watches  
+created 2014-03-17, last commit 2020-12-04, main language Python  
 <sub><sup>automation, excel, python, reporting</sup></sub>
 
 
 ### [aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)  
 [https://aws-data-wrangler.readthedocs.io](https://aws-data-wrangler.readthedocs.io)  
 Pandas on AWS  
-1,206 stars, 197 forks, 53 watches  
-created 2019-02-26, last commit 2020-11-10, main language Python  
+1,242 stars, 209 forks, 55 watches  
+created 2019-02-26, last commit 2020-12-06, main language Python  
 <sub><sup>amazon-athena, amazon-sagemaker-notebook, apache-arrow, apache-parquet, athena, aws, aws-glue, aws-lambda, data-engineering, data-science, emr, etl, glue-catalog, lambda, mysql, pandas, python, redshift</sup></sub>
 
 
 ### [simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
 [https://github.com/simple-salesforce/simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
 A very simple Salesforce.com REST API client for Python  
-1,009 stars, 463 forks, 86 watches  
-created 2013-01-17, last commit 2020-10-28, main language Python  
+1,014 stars, 470 forks, 87 watches  
+created 2013-01-17, last commit 2020-12-04, main language Python  
 <sub><sup>api, api-client, python, salesforce</sup></sub>
 
 
 ### [address-net](https://github.com/jasonrig/address-net)  
 [https://github.com/jasonrig/address-net](https://github.com/jasonrig/address-net)  
 A package to structure Australian addresses  
-86 stars, 29 forks, 9 watches  
+88 stars, 29 forks, 9 watches  
 created 2018-12-05, last commit 2020-09-09, main language Python  
 <sub><sup>address-parser, deep-learning, machine-learning, rnn</sup></sub>
 
@@ -178,12 +178,12 @@ created 2018-12-05, last commit 2020-09-09, main language Python
 ### [sql-metadata](https://github.com/macbre/sql-metadata)  
 [https://pypi.python.org/pypi/sql_metadata](https://pypi.python.org/pypi/sql_metadata)  
 Uses tokenized query returned by python-sqlparse and generates query metadata  
-62 stars, 12 forks, 5 watches  
+65 stars, 12 forks, 5 watches  
 created 2017-06-06, last commit 2020-10-29, main language Python  
 <sub><sup>database, hive, hiveql, metadata, mysql-query, parser, python-package, python3-library, sql, sql-parser, sqlparse</sup></sub>
 
 
-This file was automatically generated on 2020-11-18.  
+This file was automatically generated on 2020-12-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
