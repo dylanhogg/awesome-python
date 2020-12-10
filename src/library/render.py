@@ -30,6 +30,7 @@ def get_input_data(csv_location) -> pd.DataFrame:
 def make_markdown(row, include_category=False) -> str:
     url = row["githuburl"]
     name = row["_reponame"]
+    organization = row["_organization"]
     homepage = row["_homepage"]
     homepage_display = (
         f"\n[{homepage}]({homepage})  "
@@ -38,7 +39,7 @@ def make_markdown(row, include_category=False) -> str:
     )
     category = row["category"]
     category_display = (
-        f"category [{category}](categories/{category}.md), "
+        f"[{category}](categories/{category}.md) category, "
         if include_category and category is not None and len(category) > 0
         else ""
     )
@@ -59,8 +60,12 @@ def make_markdown(row, include_category=False) -> str:
     if language is not None and language.lower() != "python":
         logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
+    header = f"[{name}]({url})" \
+        if name == organization \
+        else f"[{name}]({url}) by [{organization}](https://github.com/{organization})"
+
     return (
-        f"### [{name}]({url})  "
+        f"### {header}  "
         f"{homepage_display}"
         f"\n{description}  "
         f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
@@ -73,26 +78,29 @@ def make_markdown(row, include_category=False) -> str:
 def process(df_input, token) -> pd.DataFrame:
     ghw = GithubWrapper(token)
     df = df_input.copy()
-    df["_reponpath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
-    df["_reponame"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).name)
-    df["_stars"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).stargazers_count)
-    df["_forks"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).forks_count)
-    df["_watches"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).subscribers_count)
-    df["_topics"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).get_topics())
-    df["_language"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).language)
-    df["_homepage"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).homepage)
-    df["_description"] = df["_reponpath"].apply(lambda x: ghw.get_repo(x).description)
-    df["_updated_at"] = df["_reponpath"].apply(
+    df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
+    df["_reponame"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).name)
+    df["_stars"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).stargazers_count)
+    df["_forks"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).forks_count)
+    df["_watches"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).subscribers_count)
+    df["_topics"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).get_topics())
+    df["_language"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).language)
+    df["_homepage"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).homepage)
+    df["_description"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).description)
+    df["_organization"] = df["_repopath"].apply(
+        lambda x: x.split("/")[0]
+    )
+    df["_updated_at"] = df["_repopath"].apply(
         lambda x: ghw.get_repo(x).updated_at.date()
     )
-    df["_last_commit_date"] = df["_reponpath"].apply(
+    df["_last_commit_date"] = df["_repopath"].apply(
         # E.g. Sat, 18 Jul 2020 17:14:09 GMT
         lambda x: datetime.strptime(
             ghw.get_repo(x).get_commits().get_page(0)[0].last_modified,
             "%a, %d %b %Y %H:%M:%S %Z",
         ).date()
     )
-    df["_created_at"] = df["_reponpath"].apply(
+    df["_created_at"] = df["_repopath"].apply(
         lambda x: ghw.get_repo(x).created_at.date()
     )
     return df.sort_values("_stars", ascending=False)
