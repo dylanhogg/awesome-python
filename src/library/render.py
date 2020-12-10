@@ -19,10 +19,12 @@ def get_input_data(csv_location) -> pd.DataFrame:
     duplicated_count = len(duplicated_githuburls)
     if duplicated_count > 0:
         logger.warning(
-            f"duplicated_count is {duplicated_count}\n{duplicated_githuburls}"
+            f"Duplicate githuburl values found in csv: {duplicated_count}\n{duplicated_githuburls}"
         )
-        logger.fatal(f"Fix up duplicates from {csv_location} and re-run.")
+        logger.fatal(f"Fix up {duplicated_count} duplicates from {csv_location} and re-run.")
         sys.exit()
+    else:
+        logger.info("No duplicate githuburl values found in csv :)")
 
     return df
 

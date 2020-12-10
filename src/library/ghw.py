@@ -11,6 +11,8 @@ class GithubWrapper:
         self.cache = {}
 
     def get_repo(self, name, use_cache=True) -> github.Repository:
+        if name.endswith("/"):
+            logger.warning(f"Repo needs to be fixed by removing trailing slash in source csv: {name}")
         key = f"repo_{name}"
         cached = self.cache.get(key, None)
         if cached is None or not use_cache:
