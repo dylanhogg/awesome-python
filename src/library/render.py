@@ -2,11 +2,9 @@ import sys
 import pandas as pd
 from datetime import datetime
 from typing import List
-from library.log import get_logger
+from loguru import logger
 from library.ghw import GithubWrapper
 from urllib.parse import urlparse
-
-logger = get_logger(__name__)
 
 
 def get_input_data(csv_location) -> pd.DataFrame:

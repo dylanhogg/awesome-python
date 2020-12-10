@@ -1,8 +1,6 @@
 import github
-from library.log import get_logger
+from loguru import logger
 from typing import List
-
-logger = get_logger(__name__)
 
 
 class GithubWrapper:

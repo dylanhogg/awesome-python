@@ -2,3 +2,4 @@ PyGithub
 pandas
 python-dotenv
 black
+loguru

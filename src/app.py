@@ -1,9 +1,8 @@
 import library.env as env
 import library.render as render
-from library.log import get_logger
+from loguru import logger
+from library import log
 from datetime import datetime
-
-logger = get_logger(__name__)
 
 
 def write_files(csv_location, token):
@@ -53,10 +52,12 @@ def write_files(csv_location, token):
 
 
 def main():
+    log.configure()
+
     # NOTE: csv location can be local file or google spreadsheet, for example:
     #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
-    csv_location = env.get_env("CSV_LOCATION")
-    token = env.get_env("GITHUB_ACCESS_TOKEN")
+    csv_location = env.get("CSV_LOCATION")
+    token = env.get("GITHUB_ACCESS_TOKEN")
 
     write_files(csv_location, token)
 
