@@ -26,18 +26,18 @@ created 2012-03-08, last commit 2020-12-04, main language Python
 <sub><sup>compiler, cuda, llvm, numpy, parallel, python, rocm</sup></sub>
 
 
-### [modin](https://github.com/modin-project/modin)  
+### [modin](https://github.com/modin-project/modin) by [modin-project](https://github.com/modin-project)  
 [http://modin.readthedocs.io](http://modin.readthedocs.io)  
 Modin: Speed up your Pandas workflows by changing a single line of code  
-5,514 stars, 380 forks, 103 watches  
+5,513 stars, 380 forks, 103 watches  
 created 2018-06-21, last commit 2020-12-09, main language Python  
 <sub><sup>dataframe, datascience, distributed, modin, pandas, pandas-on-ray, python, ray, sql</sup></sub>
 
 
-### [vaex](https://github.com/vaexio/vaex)  
+### [vaex](https://github.com/vaexio/vaex) by [vaexio](https://github.com/vaexio)  
 [https://vaex.io](https://vaex.io)  
  Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀  
-5,444 stars, 419 forks, 140 watches  
+5,445 stars, 419 forks, 140 watches  
 created 2014-09-27, last commit 2020-12-09, main language Python  
 <sub><sup>bigdata, dataframe, hdf5, machine-learning, machinelearning, memory-mapped-file, python, tabular-data, visualization</sup></sub>
 

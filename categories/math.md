@@ -5,7 +5,7 @@ A selection of 4 math Python libraries and frameworks ordered by stars.
 ### [numpy](https://github.com/numpy/numpy)  
 [https://numpy.org](https://numpy.org)  
 The fundamental package for scientific computing with Python.  
-15,674 stars, 5,097 forks, 571 watches  
+15,673 stars, 5,097 forks, 571 watches  
 created 2010-09-13, last commit 2020-12-09, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
@@ -18,7 +18,7 @@ created 2010-04-30, last commit 2020-12-09, main language Python
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
-### [mpmath](https://github.com/fredrik-johansson/mpmath)  
+### [mpmath](https://github.com/fredrik-johansson/mpmath) by [fredrik-johansson](https://github.com/fredrik-johansson)  
 [http://mpmath.org](http://mpmath.org)  
 Python library for arbitrary-precision floating-point arithmetic  
 480 stars, 115 forks, 29 watches  
@@ -26,7 +26,7 @@ created 2011-12-07, last commit 2020-10-26, main language Python
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
 
-### [pacal](https://github.com/jszymon/pacal)  
+### [pacal](https://github.com/jszymon/pacal) by [jszymon](https://github.com/jszymon)  
 [https://github.com/jszymon/pacal](https://github.com/jszymon/pacal)  
 PaCAL - ProbAbilistic CALculator  
 14 stars, 7 forks, 5 watches  

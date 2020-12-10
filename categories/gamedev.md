@@ -5,8 +5,8 @@ A selection of 2 gamedev Python libraries and frameworks ordered by stars.
 ### [pygame](https://github.com/pygame/pygame)  
 [https://www.pygame.org](https://www.pygame.org)  
 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.  
-2,887 stars, 1,203 forks, 128 watches  
-created 2017-03-26, last commit 2020-12-07, main language C  
+2,887 stars, 1,204 forks, 128 watches  
+created 2017-03-26, last commit 2020-12-10, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
 

@@ -18,7 +18,7 @@ created 2018-04-13, last commit 2020-07-21, main language Python
 <sub><sup>geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-neural-networks, graphs, heterogeneous-networks, interpretability, machine-learning, machine-learning-algorithms, networkx, saliency-map</sup></sub>
 
 
-### [markov_clustering](https://github.com/guyallard/markov_clustering)  
+### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
 [https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
 markov clustering in python  
 95 stars, 29 forks, 8 watches  
