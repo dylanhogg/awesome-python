@@ -5,35 +5,35 @@ A selection of 4 math Python libraries and frameworks ordered by stars.
 ### [numpy](https://github.com/numpy/numpy)  
 [https://numpy.org](https://numpy.org)  
 The fundamental package for scientific computing with Python.  
-15,673 stars, 5,097 forks, 571 watches  
-created 2010-09-13, last commit 2020-12-09, main language Python  
+15,927 stars, 5,156 forks, 570 watches  
+created 2010-09-13, last commit 2021-01-08, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-7,628 stars, 3,215 forks, 302 watches  
-created 2010-04-30, last commit 2020-12-09, main language Python  
+7,725 stars, 3,254 forks, 305 watches  
+created 2010-04-30, last commit 2021-01-08, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
 ### [mpmath](https://github.com/fredrik-johansson/mpmath) by [fredrik-johansson](https://github.com/fredrik-johansson)  
 [http://mpmath.org](http://mpmath.org)  
 Python library for arbitrary-precision floating-point arithmetic  
-480 stars, 115 forks, 29 watches  
-created 2011-12-07, last commit 2020-10-26, main language Python  
+486 stars, 119 forks, 29 watches  
+created 2011-12-07, last commit 2020-12-17, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
 
 ### [pacal](https://github.com/jszymon/pacal) by [jszymon](https://github.com/jszymon)  
 [https://github.com/jszymon/pacal](https://github.com/jszymon/pacal)  
 PaCAL - ProbAbilistic CALculator  
-14 stars, 7 forks, 5 watches  
-created 2014-08-04, last commit 2020-11-21, main language Python  
+15 stars, 7 forks, 6 watches  
+created 2014-08-04, last commit 2020-12-14, main language Python  
 
 
-This file was automatically generated on 2020-12-10.  
+This file was automatically generated on 2021-01-09.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

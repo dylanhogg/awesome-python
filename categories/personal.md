@@ -11,14 +11,14 @@ created 2020-10-12, last commit 2020-11-03, main language Python
 
 
 ### [cloud-products](https://github.com/dylanhogg/cloud-products) by [dylanhogg](https://github.com/dylanhogg)  
-[https://github.com/dylanhogg/cloud-products](https://github.com/dylanhogg/cloud-products)  
+[https://pypi.org/project/cloud-products/](https://pypi.org/project/cloud-products/)  
 A package for getting cloud products and product descriptions from a cloud provider website.  
 0 stars, 0 forks, 1 watches  
-created 2020-08-01, last commit 2020-12-07, main language Python  
-<sub><sup>aws, cloud-products, crawler, data</sup></sub>
+created 2020-08-01, last commit 2020-12-11, main language Python  
+<sub><sup>aws, cloud-products, crawler, data, text-processing</sup></sub>
 
 
-This file was automatically generated on 2020-12-10.  
+This file was automatically generated on 2021-01-09.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
