@@ -44,6 +44,9 @@ def make_markdown(row, include_category=False) -> str:
         else ""
     )
     stars = row["_stars"]
+    stars_per_week = row["_stars_per_week"]
+    stars_per_week = round(stars_per_week, 2) if stars_per_week < 10 else int(stars_per_week)
+    age_weeks = row["_age_weeks"]
     forks = row["_forks"]
     watches = row["_watches"]
     updated = row["_updated_at"]
@@ -68,7 +71,8 @@ def make_markdown(row, include_category=False) -> str:
         f"### {header}  "
         f"{homepage_display}"
         f"\n{description}  "
-        f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
+        f"\n{stars_per_week} stars per week over {age_weeks} weeks  "
+        f"\n{stars} stars, {forks} forks, {watches} watches  "
         f"\n{category_display}created {created}, last commit {last_commit_date}, main language {language}  "
         f"{topics_display}"
         f"\n\n"
@@ -102,6 +106,12 @@ def process(df_input, token) -> pd.DataFrame:
     )
     df["_created_at"] = df["_repopath"].apply(
         lambda x: ghw.get_repo(x).created_at.date()
+    )
+    df["_age_weeks"] = df["_repopath"].apply(
+        lambda x: (datetime.now().date() - ghw.get_repo(x).created_at.date()).days // 7
+    )
+    df["_stars_per_week"] = df["_repopath"].apply(
+        lambda x: ghw.get_repo(x).stargazers_count * 7 / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
     )
     return df.sort_values("_stars", ascending=False)
 

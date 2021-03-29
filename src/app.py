@@ -6,6 +6,7 @@ from library import log, env, render
 def write_files(csv_location, token):
     start = datetime.now()
     df_input = render.get_input_data(csv_location)
+    # df_input = df_input.head(3)  # Testing
 
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
     df_results = render.process(df_input, token)
