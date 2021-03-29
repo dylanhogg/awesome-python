@@ -1,12 +1,12 @@
 # Crazy Awesome Python
-A selection of 14 viz Python libraries and frameworks ordered by stars.  
+A selection of 15 viz Python libraries and frameworks ordered by stars.  
 
 
 ### [bokeh](https://github.com/bokeh/bokeh)  
 [https://bokeh.org](https://bokeh.org)  
 Interactive Data Visualization in the browser, from  Python  
 31 stars per week over 470 weeks  
-14898 stars, 3675 forks, 471 watches  
+14899 stars, 3675 forks, 471 watches  
 created 2012-03-26, last commit 2021-03-27, main language Python  
 <sub><sup>bokeh, data-visualisation, interactive-plots, javascript, jupyter, notebooks, numfocus, plots, plotting, python, visualisation, visualization</sup></sub>
 
@@ -15,7 +15,7 @@ created 2012-03-26, last commit 2021-03-27, main language Python
 [https://plotly.com/dash](https://plotly.com/dash)  
 Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.  
 45 stars per week over 311 weeks  
-14210 stars, 1448 forks, 395 watches  
+14211 stars, 1448 forks, 395 watches  
 created 2015-04-10, last commit 2021-03-10, main language Python  
 <sub><sup>bioinformatics, charting, dash, data-science, data-visualization, finance, flask, gui-framework, julia, jupyter, modeling, plotly, plotly-dash, productivity, python, r, react, rstats, technical-computing, web-app</sup></sub>
 
@@ -24,7 +24,7 @@ created 2015-04-10, last commit 2021-03-10, main language Python
 [https://streamlit.io](https://streamlit.io)  
 Streamlit — The fastest way to build data apps in Python  
 167 stars per week over 83 weeks  
-13959 stars, 1185 forks, 253 watches  
+13961 stars, 1185 forks, 253 watches  
 created 2019-08-24, last commit 2021-03-26, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -33,7 +33,7 @@ created 2019-08-24, last commit 2021-03-26, main language Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 matplotlib: plotting with Python  
 25 stars per week over 527 weeks  
-13356 stars, 5727 forks, 572 watches  
+13357 stars, 5727 forks, 572 watches  
 created 2011-02-19, last commit 2021-03-28, main language Python  
 
 
@@ -41,7 +41,7 @@ created 2011-02-19, last commit 2021-03-28, main language Python
 [https://plotly.com/python/](https://plotly.com/python/)  
 The interactive graphing library for Python (includes Plotly Express) :sparkles:  
 23 stars per week over 383 weeks  
-9191 stars, 1786 forks, 262 watches  
+9193 stars, 1786 forks, 262 watches  
 created 2013-11-21, last commit 2021-01-14, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -112,6 +112,15 @@ With Holoviews, your data visualizes itself.
 1838 stars, 308 forks, 65 watches  
 created 2014-05-07, last commit 2021-03-19, main language Python  
 <sub><sup>holoviews, holoviz, plotting</sup></sub>
+
+
+### [lux](https://github.com/lux-org/lux) by [lux-org](https://github.com/lux-org)  
+[https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
+Python API for Intelligent Visual Data Discovery  
+28 stars per week over 63 weeks  
+1828 stars, 165 forks, 63 watches  
+created 2020-01-08, last commit 2021-03-24, main language Python  
+<sub><sup>data-science, exploratory-data-analysis, jupyter, pandas, python, visualization, visualization-tools</sup></sub>
 
 
 ### [ipyvolume](https://github.com/maartenbreddels/ipyvolume) by [maartenbreddels](https://github.com/maartenbreddels)  

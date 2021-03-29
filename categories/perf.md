@@ -33,7 +33,7 @@ created 2012-03-08, last commit 2021-03-26, main language Python
 [https://vaex.io](https://vaex.io)  
 Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀  
 17 stars per week over 339 weeks  
-5970 stars, 460 forks, 149 watches  
+5971 stars, 460 forks, 149 watches  
 created 2014-09-27, last commit 2021-03-22, main language Python  
 <sub><sup>bigdata, dataframe, hdf5, machine-learning, machinelearning, memory-mapped-file, python, tabular-data, visualization</sup></sub>
 

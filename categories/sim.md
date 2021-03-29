@@ -1,12 +1,12 @@
 # Crazy Awesome Python
-A selection of 5 sim Python libraries and frameworks ordered by stars.  
+A selection of 6 sim Python libraries and frameworks ordered by stars.  
 
 
 ### [gym](https://github.com/openai/gym) by [openai](https://github.com/openai)  
 [https://gym.openai.com/](https://gym.openai.com/)  
 A toolkit for developing and comparing reinforcement learning algorithms.  
 92 stars per week over 256 weeks  
-23783 stars, 6803 forks, 1017 watches  
+23784 stars, 6804 forks, 1017 watches  
 created 2016-04-27, last commit 2021-02-16, main language Python  
 
 
@@ -14,7 +14,7 @@ created 2016-04-27, last commit 2021-02-16, main language Python
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 Python sample codes for robotics algorithms.  
 45 stars per week over 262 weeks  
-11833 stars, 3833 forks, 499 watches  
+11836 stars, 3834 forks, 499 watches  
 created 2016-03-21, last commit 2021-03-20, main language Jupyter Notebook  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -35,6 +35,14 @@ Mesa is an agent-based modeling framework in Python
 1327 stars, 570 forks, 94 watches  
 created 2014-09-19, last commit 2021-03-25, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
+
+
+### [PettingZoo](https://github.com/PettingZoo-Team/PettingZoo) by [PettingZoo-Team](https://github.com/PettingZoo-Team)  
+[https://github.com/PettingZoo-Team/PettingZoo](https://github.com/PettingZoo-Team/PettingZoo)  
+Gym for multi-agent reinforcement learning  
+8.31 stars per week over 62 weeks  
+515 stars, 67 forks, 14 watches  
+created 2020-01-20, last commit 2021-03-28, main language Python  
 
 
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  

@@ -7,7 +7,7 @@ A selection of 3 graph Python libraries and frameworks ordered by stars.
 Network Analysis in Python  
 16 stars per week over 551 weeks  
 8844 stars, 2251 forks, 281 watches  
-created 2010-09-06, last commit 2021-03-25, main language Python  
+created 2010-09-06, last commit 2021-03-29, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 

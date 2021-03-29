@@ -6,7 +6,7 @@ A selection of 32 nlp Python libraries and frameworks ordered by stars.
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.  
 341 stars per week over 126 weeks  
-43029 stars, 10392 forks, 721 watches  
+43040 stars, 10396 forks, 722 watches  
 created 2018-10-29, last commit 2021-03-28, main language Python  
 <sub><sup>bert, gpt, hacktoberfest-accepted, language-model, language-models, model-hub, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, nlp-library, pretrained-models, pytorch, pytorch-transformers, tensorflow, transformer, transformer-xl, xlm, xlnet</sup></sub>
 
@@ -15,7 +15,7 @@ created 2018-10-29, last commit 2021-03-28, main language Python
 [https://spacy.io](https://spacy.io)  
 💫 Industrial-strength Natural Language Processing (NLP) in Python  
 56 stars per week over 351 weeks  
-19999 stars, 3347 forks, 584 watches  
+20001 stars, 3347 forks, 584 watches  
 created 2014-07-03, last commit 2021-03-26, main language Python  
 <sub><sup>ai, artificial-intelligence, cython, data-science, deep-learning, entity-linking, machine-learning, named-entity-recognition, natural-language-processing, neural-network, neural-networks, nlp, nlp-library, python, spacy, text-classification, tokenization</sup></sub>
 
@@ -33,7 +33,7 @@ created 2019-02-11, last commit 2020-12-02, main language Python
 [https://github.com/RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim)  
 Topic Modelling for Humans  
 22 stars per week over 528 weeks  
-11878 stars, 3944 forks, 440 watches  
+11879 stars, 3944 forks, 440 watches  
 created 2011-02-10, last commit 2021-03-28, main language Python  
 <sub><sup>data-mining, data-science, document-similarity, fasttext, gensim, information-retrieval, machine-learning, natural-language-processing, neural-network, nlp, python, topic-modeling, word-embeddings, word-similarity, word2vec</sup></sub>
 
@@ -78,7 +78,7 @@ created 2011-05-03, last commit 2020-04-25, main language Python
 [https://textblob.readthedocs.io/](https://textblob.readthedocs.io/)  
 Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.  
 18 stars per week over 404 weeks  
-7594 stars, 1001 forks, 279 watches  
+7595 stars, 1001 forks, 279 watches  
 created 2013-06-30, last commit 2021-03-22, main language Python  
 <sub><sup>natural-language-processing, nlp, nltk, pattern, python, python-2, python-3</sup></sub>
 
@@ -104,7 +104,7 @@ created 2020-03-26, last commit 2021-03-26, main language Python
 [https://github.com/UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)  
 Sentence Embeddings with BERT & XLNet  
 51 stars per week over 87 weeks  
-4544 stars, 857 forks, 92 watches  
+4547 stars, 857 forks, 92 watches  
 created 2019-07-24, last commit 2021-03-24, main language Python  
 
 
@@ -147,7 +147,7 @@ created 2020-07-28, last commit 2020-11-17, main language TypeScript
 [https://huggingface.co/coref/](https://huggingface.co/coref/)  
 ✨Fast Coreference Resolution in spaCy with Neural Networks  
 11 stars per week over 195 weeks  
-2241 stars, 392 forks, 70 watches  
+2241 stars, 393 forks, 70 watches  
 created 2017-07-03, last commit 2021-02-24, main language C  
 <sub><sup>coreference, coreference-resolution, machine-learning, neural-networks, nlp, python, pytorch, spacy, spacy-extension, spacy-pipeline</sup></sub>
 
@@ -183,7 +183,7 @@ created 2010-07-09, last commit 2021-03-11, main language Python
 [https://github.com/plasticityai/magnitude](https://github.com/plasticityai/magnitude)  
 A fast, efficient universal vector embedding utility package.  
 8.65 stars per week over 161 weeks  
-1395 stars, 100 forks, 35 watches  
+1395 stars, 99 forks, 35 watches  
 created 2018-02-24, last commit 2020-07-17, main language Python  
 <sub><sup>embeddings, fast, fasttext, gensim, glove, machine-learning, machine-learning-library, memory-efficient, natural-language-processing, nlp, python, vectors, word-embeddings, word2vec</sup></sub>
 
@@ -210,7 +210,7 @@ created 2019-07-26, last commit 2021-03-22, main language Python
 [https://github.com/neuml/txtai](https://github.com/neuml/txtai)  
 AI-powered search engine  
 26 stars per week over 33 weeks  
-884 stars, 102 forks, 23 watches  
+886 stars, 101 forks, 23 watches  
 created 2020-08-09, last commit 2021-03-27, main language Python  
 <sub><sup>machine-learning, nlp, python, search</sup></sub>
 

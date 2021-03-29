@@ -6,7 +6,7 @@ A selection of 23 data Python libraries and frameworks ordered by stars.
 [https://scrapy.org](https://scrapy.org)  
 Scrapy, a fast high-level web crawling & scraping framework for Python.  
 69 stars per week over 579 weeks  
-40172 stars, 9092 forks, 1831 watches  
+40173 stars, 9092 forks, 1831 watches  
 created 2010-02-22, last commit 2021-03-26, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -15,8 +15,8 @@ created 2010-02-22, last commit 2021-03-26, main language Python
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
 52 stars per week over 552 weeks  
-29144 stars, 12110 forks, 1114 watches  
-created 2010-08-24, last commit 2021-03-28, main language Python  
+29145 stars, 12112 forks, 1114 watches  
+created 2010-08-24, last commit 2021-03-29, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
 
@@ -33,7 +33,7 @@ created 2014-02-21, last commit 2020-08-02, main language Python
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 Faker is a Python package that generates fake data for you.  
 28 stars per week over 437 weeks  
-12316 stars, 1401 forks, 231 watches  
+12317 stars, 1401 forks, 231 watches  
 created 2012-11-12, last commit 2021-03-25, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -42,7 +42,7 @@ created 2012-11-12, last commit 2021-03-25, main language Python
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
 203 stars per week over 54 weeks  
-11057 stars, 1183 forks, 255 watches  
+11060 stars, 1186 forks, 255 watches  
 created 2020-03-14, last commit 2021-03-21, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -51,7 +51,7 @@ created 2020-03-14, last commit 2021-03-21, main language Python
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 48 stars per week over 198 weeks  
-9619 stars, 1374 forks, 261 watches  
+9618 stars, 1374 forks, 261 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -70,7 +70,7 @@ created 2018-03-30, last commit 2019-12-06, main language Python
 Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.  
 28 stars per week over 266 weeks  
 7623 stars, 1846 forks, 335 watches  
-created 2016-02-17, last commit 2021-03-28, main language C++  
+created 2016-02-17, last commit 2021-03-29, main language C++  
 <sub><sup>arrow</sup></sub>
 
 
@@ -78,7 +78,7 @@ created 2016-02-17, last commit 2021-03-28, main language C++
 [https://dvc.org](https://dvc.org)  
 🦉Data Version Control | Git for Data & Models  
 35 stars per week over 212 weeks  
-7592 stars, 713 forks, 122 watches  
+7593 stars, 714 forks, 122 watches  
 created 2017-03-04, last commit 2021-03-28, main language Python  
 <sub><sup>ai, collaboration, data-science, data-version-control, developer-tools, git, hacktoberfest, machine-learning, python, reproducibility</sup></sub>
 
@@ -87,7 +87,7 @@ created 2017-03-04, last commit 2021-03-28, main language Python
 [https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/)  
 Create HTML profiling reports from pandas DataFrame objects  
 25 stars per week over 272 weeks  
-6999 stars, 1061 forks, 136 watches  
+7001 stars, 1061 forks, 136 watches  
 created 2016-01-09, last commit 2021-03-28, main language Jupyter Notebook  
 <sub><sup>artificial-intelligence, big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, python, statistics</sup></sub>
 
@@ -105,7 +105,7 @@ created 2017-08-15, last commit 2020-05-03, main language Python
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 Always know what to expect from your data.  
 21 stars per week over 185 weeks  
-4050 stars, 504 forks, 62 watches  
+4051 stars, 504 forks, 62 watches  
 created 2017-09-11, last commit 2021-03-26, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
 
@@ -114,7 +114,7 @@ created 2017-09-11, last commit 2021-03-26, main language Python
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 The Database Toolkit for Python  
 29 stars per week over 121 weeks  
-3553 stars, 557 forks, 74 watches  
+3554 stars, 557 forks, 74 watches  
 created 2018-11-27, last commit 2021-03-27, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
 

@@ -6,7 +6,7 @@ A selection of 6 math Python libraries and frameworks ordered by stars.
 [https://numpy.org](https://numpy.org)  
 The fundamental package for scientific computing with Python.  
 30 stars per week over 550 weeks  
-16673 stars, 5367 forks, 563 watches  
+16676 stars, 5368 forks, 563 watches  
 created 2010-09-13, last commit 2021-03-28, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
@@ -15,7 +15,7 @@ created 2010-09-13, last commit 2021-03-28, main language Python
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
 13 stars per week over 569 weeks  
-7942 stars, 3360 forks, 296 watches  
+7943 stars, 3360 forks, 296 watches  
 created 2010-04-30, last commit 2021-03-29, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
@@ -33,7 +33,7 @@ created 2011-12-07, last commit 2021-03-27, main language Python
 [http://docs.dit.io](http://docs.dit.io)  
 Python package for information theory.  
 0.81 stars per week over 391 weeks  
-317 stars, 66 forks, 20 watches  
+318 stars, 66 forks, 20 watches  
 created 2013-09-29, last commit 2021-01-19, main language Python  
 <sub><sup>information-theory, python</sup></sub>
 

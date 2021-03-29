@@ -6,7 +6,7 @@ A selection of 3 typing Python libraries and frameworks ordered by stars.
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 Optional static typing for Python 3 and 2 (PEP 484)  
 24 stars per week over 433 weeks  
-10409 stars, 1687 forks, 208 watches  
+10412 stars, 1686 forks, 208 watches  
 created 2012-12-07, last commit 2021-03-28, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
@@ -15,7 +15,7 @@ created 2012-12-07, last commit 2021-03-28, main language Python
 [https://pyre-check.org/](https://pyre-check.org/)  
 Performant type-checking for python.  
 29 stars per week over 176 weeks  
-5225 stars, 320 forks, 102 watches  
+5226 stars, 320 forks, 102 watches  
 created 2017-11-10, last commit 2021-03-29, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 

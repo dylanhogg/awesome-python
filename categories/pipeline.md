@@ -7,7 +7,7 @@ A selection of 6 pipeline Python libraries and frameworks ordered by stars.
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
 67 stars per week over 311 weeks  
 20936 stars, 8236 forks, 742 watches  
-created 2015-04-13, last commit 2021-03-28, main language Python  
+created 2015-04-13, last commit 2021-03-29, main language Python  
 <sub><sup>airflow, apache, apache-airflow, python, scheduler, workflow</sup></sub>
 
 
@@ -24,7 +24,7 @@ created 2012-09-20, last commit 2021-03-28, main language Python
 [https://mlflow.org](https://mlflow.org)  
 Open source platform for the machine learning lifecycle  
 58 stars per week over 146 weeks  
-8657 stars, 1945 forks, 266 watches  
+8659 stars, 1945 forks, 266 watches  
 created 2018-06-05, last commit 2021-03-27, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
@@ -33,7 +33,7 @@ created 2018-06-05, last commit 2021-03-27, main language Python
 [https://prefect.io](https://prefect.io)  
 The easiest way to automate your data  
 42 stars per week over 143 weeks  
-6039 stars, 550 forks, 137 watches  
+6040 stars, 550 forks, 137 watches  
 created 2018-06-29, last commit 2021-03-26, main language Python  
 <sub><sup>automation, data-engineering, data-ops, data-science, infrastructure, ml-ops, prefect, python, workflow, workflow-engine</sup></sub>
 
@@ -42,7 +42,7 @@ created 2018-06-29, last commit 2021-03-26, main language Python
 [https://kedro.readthedocs.io/](https://kedro.readthedocs.io/)  
 A Python framework for creating reproducible, maintainable and modular data science code.  
 35 stars per week over 101 weeks  
-3602 stars, 422 forks, 88 watches  
+3602 stars, 422 forks, 89 watches  
 created 2019-04-18, last commit 2021-03-25, main language Python  
 <sub><sup>cookiecutter-data-science, data-abstraction, data-versioning, hacktoberfest, kedro, mlops, pipeline, pipelines-as-code</sup></sub>
 
@@ -52,7 +52,7 @@ created 2019-04-18, last commit 2021-03-25, main language Python
 A data orchestrator for machine learning, analytics, and ETL.  
 20 stars per week over 152 weeks  
 3057 stars, 321 forks, 63 watches  
-created 2018-04-30, last commit 2021-03-26, main language Python  
+created 2018-04-30, last commit 2021-03-29, main language Python  
 <sub><sup>analytics, dagster, data-orchestrator, data-pipelines, data-science, etl, python, scheduler, workflow, workflow-automation</sup></sub>
 
 

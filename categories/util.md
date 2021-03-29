@@ -1,12 +1,12 @@
 # Crazy Awesome Python
-A selection of 34 util Python libraries and frameworks ordered by stars.  
+A selection of 35 util Python libraries and frameworks ordered by stars.  
 
 
 ### [core](https://github.com/home-assistant/core) by [home-assistant](https://github.com/home-assistant)  
 [https://www.home-assistant.io](https://www.home-assistant.io)  
 :house_with_garden: Open source home automation that puts local control and privacy first  
 104 stars per week over 392 weeks  
-41138 stars, 13612 forks, 1324 watches  
+41139 stars, 13612 forks, 1324 watches  
 created 2013-09-17, last commit 2021-03-29, main language Python  
 <sub><sup>asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi</sup></sub>
 
@@ -15,7 +15,7 @@ created 2013-09-17, last commit 2021-03-29, main language Python
 [https://rich.readthedocs.io/en/latest/](https://rich.readthedocs.io/en/latest/)  
 Rich is a Python library for rich text and beautiful formatting in the terminal.  
 336 stars per week over 72 weeks  
-24284 stars, 724 forks, 479 watches  
+24293 stars, 724 forks, 479 watches  
 created 2019-11-10, last commit 2021-03-28, main language Python  
 <sub><sup>ansi-colors, emoji, hacktoberfest, markdown, progress-bar, progress-bar-python, python, python-library, python3, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich</sup></sub>
 
@@ -24,7 +24,7 @@ created 2019-11-10, last commit 2021-03-28, main language Python
 [https://black.readthedocs.io/en/stable/](https://black.readthedocs.io/en/stable/)  
 The uncompromising Python code formatter  
 126 stars per week over 158 weeks  
-20071 stars, 1293 forks, 182 watches  
+20071 stars, 1294 forks, 182 watches  
 created 2018-03-14, last commit 2021-03-28, main language Python  
 <sub><sup>autopep8, code, codeformatter, formatter, gofmt, pyfmt, python, yapf</sup></sub>
 
@@ -33,7 +33,7 @@ created 2018-03-14, last commit 2021-03-28, main language Python
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
 88 stars per week over 213 weeks  
-18864 stars, 1134 forks, 379 watches  
+18865 stars, 1134 forks, 379 watches  
 created 2017-02-21, last commit 2021-01-25, main language Python  
 <sub><sup>cli, python</sup></sub>
 
@@ -42,7 +42,7 @@ created 2017-02-21, last commit 2021-01-25, main language Python
 [https://tqdm.github.io](https://tqdm.github.io)  
 A Fast, Extensible Progress Bar for Python and CLI  
 58 stars per week over 303 weeks  
-17866 stars, 918 forks, 193 watches  
+17867 stars, 918 forks, 193 watches  
 created 2015-06-03, last commit 2021-03-05, main language Python  
 <sub><sup>cli, console, discord, gui, jupyter, keras, meter, pandas, parallel, progress, progress-bar, progressbar, progressmeter, python, rate, telegram, terminal, time, tkinter, utilities</sup></sub>
 
@@ -51,7 +51,7 @@ created 2015-06-03, last commit 2021-03-05, main language Python
 [https://locust.io](https://locust.io)  
 Scalable user load testing tool written in Python  
 29 stars per week over 527 weeks  
-15712 stars, 2090 forks, 454 watches  
+15715 stars, 2090 forks, 454 watches  
 created 2011-02-17, last commit 2021-03-24, main language Python  
 <sub><sup>benchmarking, http, load-generator, load-testing, locust, performance-testing, python</sup></sub>
 
@@ -60,7 +60,7 @@ created 2011-02-17, last commit 2021-03-24, main language Python
 [https://github.com/cool-RR/PySnooper](https://github.com/cool-RR/PySnooper)  
 Never use print for debugging again  
 140 stars per week over 101 weeks  
-14294 stars, 887 forks, 233 watches  
+14295 stars, 887 forks, 233 watches  
 created 2019-04-18, last commit 2021-02-27, main language Python  
 <sub><sup>debug, debugger, introspection, logging, python</sup></sub>
 
@@ -69,7 +69,7 @@ created 2019-04-18, last commit 2021-02-27, main language Python
 [https://kivy.org](https://kivy.org)  
 Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS  
 23 stars per week over 542 weeks  
-12846 stars, 2663 forks, 610 watches  
+12845 stars, 2663 forks, 610 watches  
 created 2010-11-03, last commit 2021-03-28, main language Python  
 <sub><sup>android, app, ios, kivy, linux, macos, python, ui, windows</sup></sub>
 
@@ -78,7 +78,7 @@ created 2010-11-03, last commit 2021-03-28, main language Python
 [https://jupyterlab.readthedocs.io/](https://jupyterlab.readthedocs.io/)  
 JupyterLab computational environment.  
 43 stars per week over 251 weeks  
-10934 stars, 1926 forks, 341 watches  
+10934 stars, 1928 forks, 341 watches  
 created 2016-06-03, last commit 2021-03-27, main language JavaScript  
 <sub><sup>jupyter, jupyterlab</sup></sub>
 
@@ -87,7 +87,7 @@ created 2016-06-03, last commit 2021-03-27, main language JavaScript
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 Python composable command line interface toolkit  
 29 stars per week over 361 weeks  
-10590 stars, 1053 forks, 183 watches  
+10591 stars, 1053 forks, 183 watches  
 created 2014-04-24, last commit 2021-03-22, main language Python  
 <sub><sup>cli, click, pallets, python</sup></sub>
 
@@ -96,7 +96,7 @@ created 2014-04-24, last commit 2021-03-22, main language Python
 [https://github.com/Delgan/loguru](https://github.com/Delgan/loguru)  
 Python logging made (stupidly) simple  
 45 stars per week over 188 weeks  
-8513 stars, 387 forks, 105 watches  
+8514 stars, 387 forks, 105 watches  
 created 2017-08-15, last commit 2021-03-19, main language Python  
 <sub><sup>log, logger, logging, python</sup></sub>
 
@@ -122,7 +122,7 @@ created 2015-04-09, last commit 2021-03-27, main language JavaScript
 [https://jinja.palletsprojects.com](https://jinja.palletsprojects.com)  
 A very fast and expressive template engine.  
 14 stars per week over 545 weeks  
-7643 stars, 1384 forks, 252 watches  
+7642 stars, 1384 forks, 252 watches  
 created 2010-10-17, last commit 2021-03-26, main language Python  
 <sub><sup>jinja, jinja2, pallets, python, template-engine, templates</sup></sub>
 
@@ -149,7 +149,7 @@ created 2014-10-03, last commit 2021-03-26, main language Python
 [https://cython.org](https://cython.org)  
 The most widely used Python to C compiler  
 11 stars per week over 540 weeks  
-5942 stars, 1124 forks, 230 watches  
+5943 stars, 1125 forks, 230 watches  
 created 2010-11-21, last commit 2021-03-27, main language Python  
 <sub><sup>big-data, c, cpp, cpython, cpython-extensions, cython, performance, python</sup></sub>
 
@@ -158,7 +158,7 @@ created 2010-11-21, last commit 2021-03-27, main language Python
 [https://marshmallow.readthedocs.io/](https://marshmallow.readthedocs.io/)  
 A lightweight library for converting complex objects to and from simple Python datatypes.  
 14 stars per week over 385 weeks  
-5406 stars, 558 forks, 85 watches  
+5407 stars, 558 forks, 85 watches  
 created 2013-11-10, last commit 2021-03-28, main language Python  
 <sub><sup>deserialization, hacktoberfest, marshalling, python, python-3, schema, serde, serialization, validation</sup></sub>
 
@@ -167,7 +167,7 @@ created 2013-11-10, last commit 2021-03-28, main language Python
 [https://typer.tiangolo.com/](https://typer.tiangolo.com/)  
 Typer, build great CLIs. Easy to code. Based on Python type hints.  
 74 stars per week over 65 weeks  
-4903 stars, 175 forks, 49 watches  
+4904 stars, 175 forks, 49 watches  
 created 2019-12-24, last commit 2020-08-16, main language Python  
 <sub><sup>cli, click, python, python3, shell, terminal, typehints, typer</sup></sub>
 
@@ -185,16 +185,25 @@ created 2012-02-25, last commit 2021-03-26, main language Python
 [https://www.sphinx-doc.org](https://www.sphinx-doc.org)  
 Main repository for the Sphinx documentation builder  
 11 stars per week over 325 weeks  
-3849 stars, 1437 forks, 130 watches  
+3848 stars, 1437 forks, 130 watches  
 created 2015-01-02, last commit 2021-03-27, main language Python  
 <sub><sup>documentation, documentation-tool, python, sphinx</sup></sub>
+
+
+### [isort](https://github.com/PyCQA/isort) by [PyCQA](https://github.com/PyCQA)  
+[https://pycqa.github.io/isort/](https://pycqa.github.io/isort/)  
+A Python utility / library to sort imports.  
+9.54 stars per week over 395 weeks  
+3769 stars, 389 forks, 35 watches  
+created 2013-09-02, last commit 2021-03-25, main language Python  
+<sub><sup>auto-formatter, cleaner, cli, formatter, hacktoberfest, isort, linter, python, python-utility, python3, sorting-imports</sup></sub>
 
 
 ### [pylint](https://github.com/PyCQA/pylint) by [PyCQA](https://github.com/PyCQA)  
 [http://pylint.pycqa.org](http://pylint.pycqa.org)  
 It's not just a linter that annoys you!  
 11 stars per week over 276 weeks  
-3255 stars, 686 forks, 71 watches  
+3256 stars, 686 forks, 71 watches  
 created 2015-12-09, last commit 2021-03-28, main language Python  
 <sub><sup>code-quality, linter, pep8, static-analysis, static-code-analysis</sup></sub>
 
@@ -238,7 +247,7 @@ created 2017-06-01, last commit 2020-12-30, main language Python
 [https://github.com/nedbat/coveragepy](https://github.com/nedbat/coveragepy)  
 Code coverage measurement for Python  
 10 stars per week over 144 weeks  
-1542 stars, 202 forks, 23 watches  
+1543 stars, 202 forks, 23 watches  
 created 2018-06-23, last commit 2021-03-22, main language Python  
 
 
