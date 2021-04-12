@@ -1,3 +1,7 @@
+.EXPORT_ALL_VARIABLES:
+AWS_PROFILE=prd-non-tf-905234897161
+BUCKET_NAME=awesome-python.infocruncher.com
+
 .PHONY: venv
 ## Create virtual environment
 venv:
@@ -5,20 +9,25 @@ venv:
 	source venv/bin/activate ; pip install --upgrade pip ; python3 -m pip install -r requirements.txt
 	source venv/bin/activate ; pip freeze > requirements_freeze.txt
 
-.PHONY: clean
 ## Clean virtual environment
 clean:
 	rm -rf venv
 
-.PHONY: run
 ## Run the app
 run:
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
-.PHONY: black
 ## Run black code formatter
 black:
 	source venv/bin/activate ; black .
+
+## Serve local client
+serve-local-client:
+	cd client/app; python3 -m http.server 8002
+
+## AWS S3 cp client app to S3
+s3-deploy-app:
+	aws s3 cp client/app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 
 
 #################################################################################
