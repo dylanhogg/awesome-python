@@ -3,6 +3,10 @@
 Deploy json data API to AWS S3: 
 
 ```
+# Crawl github and get data file
+make run
+
+# Deploy data API
 cd server
 make tf-init
 make tf-plan
