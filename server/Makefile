@@ -1,33 +1,46 @@
 .EXPORT_ALL_VARIABLES:
+APP_NAME=crazy-awesome-python-api
+ENV=prd
 AWS_PROFILE=prd-non-tf-905234897161
-BUCKET_NAME=awesome-python.infocruncher.com
+AWS_ACCOUNT_ID=905234897161
+AWS_REGION=us-east-1
 
-.PHONY: venv
-## Create virtual environment
-venv:
-	python3 -m venv venv
-	source venv/bin/activate ; pip install --upgrade pip ; python3 -m pip install -r requirements.txt
-	source venv/bin/activate ; pip freeze > requirements_freeze.txt
+# AWS Command Tools
 
-## Clean virtual environment
-clean:
-	rm -rf venv
+## AWS S3 cp generated_files to S3 bucket
+s3-deploy-files:
+	aws s3 cp ../github_data.json s3://${ENV}-s3-${APP_NAME}/github_data.json --profile ${AWS_PROFILE}
 
-## Run the app
-run:
-	source venv/bin/activate ; PYTHONPATH='./src' python -m app
+## AWS S3 rm bucket
+s3-remove-files:
+	aws s3 rm s3://${ENV}-s3-${APP_NAME} --recursive
 
-## Run black code formatter
-black:
-	source venv/bin/activate ; black .
+## Browse to public S3 url
+s3-browse:
+	open http://${ENV}-s3-${APP_NAME}.s3-website-${AWS_REGION}.amazonaws.com/github_data.json
 
-## Serve local client
-serve-local-client:
-	cd client/app; python3 -m http.server 8002
 
-## AWS S3 cp client app to S3
-s3-deploy-app:
-	aws s3 cp client/app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+# Terraform
+
+## TF init
+tf-init:
+	cd infra/s3; terraform init -var-file=variables.tfvars; cd -
+
+## TF validate
+tf-validate:
+	cd infra/s3; terraform validate; cd -
+
+## TF plan
+tf-plan:
+	cd infra/s3; terraform plan -var-file=variables.tfvars; cd -
+
+## TF apply
+tf-apply: tf-plan
+	cd infra/s3; terraform apply -var-file=variables.tfvars -auto-approve; cd -
+
+## TF destroy
+tf-destroy:
+	cd infra/s3; terraform destroy -var-file=variables.tfvars -auto-approve; cd -
 
 
 #################################################################################
@@ -53,8 +66,6 @@ s3-deploy-app:
 # semicolon; see <http://stackoverflow.com/a/11799865/1968>
 .PHONY: help
 help:
-	@echo "$$(tput bold)Available rules:$$(tput sgr0)"
-	@echo
 	@sed -n -e "/^## / { \
 		h; \
 		s/.*//; \

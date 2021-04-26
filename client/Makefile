@@ -1,33 +1,58 @@
 .EXPORT_ALL_VARIABLES:
+APP_NAME=crazy-awesome-python
+ENV=prd
 AWS_PROFILE=prd-non-tf-905234897161
+AWS_ACCOUNT_ID=905234897161
+AWS_REGION=us-east-1
 BUCKET_NAME=awesome-python.infocruncher.com
 
-.PHONY: venv
-## Create virtual environment
-venv:
-	python3 -m venv venv
-	source venv/bin/activate ; pip install --upgrade pip ; python3 -m pip install -r requirements.txt
-	source venv/bin/activate ; pip freeze > requirements_freeze.txt
+# Local running
 
-## Clean virtual environment
-clean:
-	rm -rf venv
+## Serve local js client app
+serve-local-app:
+	cd app; python3 -m http.server 8002
 
-## Run the app
-run:
-	source venv/bin/activate ; PYTHONPATH='./src' python -m app
+## Browse local js client
+browse-s3-app:
+	open http://${BUCKET_NAME}/
 
-## Run black code formatter
-black:
-	source venv/bin/activate ; black .
+## Browse to public S3 url
+browse-s3:
+    open http://${BUCKET_NAME}.s3-website-${AWS_REGION}.amazonaws.com/
 
-## Serve local client
-serve-local-client:
-	cd client/app; python3 -m http.server 8002
 
-## AWS S3 cp client app to S3
+# AWS Command Tools
+
+## AWS S3 cp app to S3
 s3-deploy-app:
-	aws s3 cp client/app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+
+## AWS S3 rm static_files from S3
+s3-delete-app:
+	aws s3 rm s3://${BUCKET_NAME} --recursive
+
+
+# Terraform
+
+## TF init
+tf-init:
+	cd infra; terraform init -var-file=variables.tfvars; cd -
+
+## TF validate
+tf-validate:
+	cd infra; terraform validate; cd -
+
+## TF plan
+tf-plan:
+	cd infra; terraform plan -var-file=variables.tfvars; cd -
+
+## TF apply
+tf-apply: tf-plan
+	cd infra; terraform apply -var-file=variables.tfvars -auto-approve; cd -
+
+## TF destroy
+tf-destroy:
+	cd infra; terraform destroy -var-file=variables.tfvars -auto-approve; cd -
 
 
 #################################################################################
@@ -53,8 +78,6 @@ s3-deploy-app:
 # semicolon; see <http://stackoverflow.com/a/11799865/1968>
 .PHONY: help
 help:
-	@echo "$$(tput bold)Available rules:$$(tput sgr0)"
-	@echo
 	@sed -n -e "/^## / { \
 		h; \
 		s/.*//; \

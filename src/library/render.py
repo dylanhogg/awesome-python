@@ -118,8 +118,10 @@ def process(df_input, token) -> pd.DataFrame:
 
 def lines_header(count, category="") -> List[str]:
     return [
-        "# Crazy Awesome Python",
-        f"A selection of {count} {category} Python libraries and frameworks ordered by stars.  \n\n",
+        f"# Crazy Awesome Python",
+        f"A selection of {count} {category} Python libraries and frameworks ordered by stars.  \n",
+        f"Checkout the interactive version that you can filter and sort: ",
+        f"[http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  \n\n",
     ]
 
 

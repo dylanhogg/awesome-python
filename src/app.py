@@ -1,9 +1,10 @@
+import json
 from datetime import datetime
 from loguru import logger
 from library import log, env, render
 
 
-def write_files(csv_location, token):
+def write_files(csv_location, token, output_csv_filename, output_json_filename):
     start = datetime.now()
     df_input = render.get_input_data(csv_location)
     # df_input = df_input.head(3)  # Testing
@@ -12,7 +13,13 @@ def write_files(csv_location, token):
     df_results = render.process(df_input, token)
 
     # Write raw results to csv
-    df_results.to_csv("github_data.csv")
+    df_results.to_csv(output_csv_filename)
+
+    # Write raw results to json table format
+    with open(output_json_filename, "w") as f:
+        json_results = df_results.to_json(orient="table")
+        data = json.loads(json_results)
+        json.dump(data, f, indent=4)
 
     # Add markdown columns
     df_results = render.add_markdown(df_results)
@@ -57,8 +64,10 @@ def main():
     #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
     csv_location = env.get("CSV_LOCATION")
     token = env.get("GITHUB_ACCESS_TOKEN")
+    output_csv_filename = "github_data.csv"
+    output_json_filename = "github_data.json"
 
-    write_files(csv_location, token)
+    write_files(csv_location, token, output_csv_filename, output_json_filename)
 
 
 if __name__ == "__main__":
