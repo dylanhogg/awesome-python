@@ -9,17 +9,17 @@ Checkout the interactive version that you can filter and sort:
 [https://numpy.org](https://numpy.org)  
 The fundamental package for scientific computing with Python.  
 30 stars per week over 557 weeks  
-17180 stars, 5530 forks, 558 watches  
-created 2010-09-13, last commit 2021-05-18, main language Python  
+17195 stars, 5542 forks, 559 watches  
+created 2010-09-13, last commit 2021-05-20, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-14 stars per week over 576 weeks  
-8090 stars, 3401 forks, 292 watches  
-created 2010-04-30, last commit 2021-05-18, main language Python  
+14 stars per week over 577 weeks  
+8095 stars, 3401 forks, 292 watches  
+created 2010-04-30, last commit 2021-05-20, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -44,9 +44,9 @@ created 2013-09-29, last commit 2021-05-06, main language Python
 ### [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) by [WillianFuks](https://github.com/WillianFuks)  
 [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
-3.95 stars per week over 39 weeks  
+3.92 stars per week over 39 weeks  
 155 stars, 21 forks, 10 watches  
-created 2020-08-17, last commit 2021-03-18, main language Python  
+created 2020-08-17, last commit 2021-05-21, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
 
 
@@ -58,7 +58,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-04-18, main language Python  
 
 
-This file was automatically generated on 2021-05-19.  
+This file was automatically generated on 2021-05-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -9,16 +9,16 @@ Checkout the interactive version that you can filter and sort:
 [https://networkx.org](https://networkx.org)  
 Network Analysis in Python  
 16 stars per week over 558 weeks  
-9089 stars, 2316 forks, 284 watches  
-created 2010-09-06, last commit 2021-05-18, main language Python  
+9099 stars, 2319 forks, 284 watches  
+created 2010-09-06, last commit 2021-05-20, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 
 ### [stellargraph](https://github.com/stellargraph/stellargraph)  
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
 StellarGraph - Machine Learning on Graphs  
-11 stars per week over 161 weeks  
-1902 stars, 272 forks, 57 watches  
+11 stars per week over 162 weeks  
+1909 stars, 273 forks, 58 watches  
 created 2018-04-13, last commit 2021-02-18, main language Python  
 <sub><sup>gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, saliency-map, stellargraph-library</sup></sub>
 
@@ -32,7 +32,7 @@ created 2017-09-27, last commit 2018-12-11, main language Python
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2021-05-19.  
+This file was automatically generated on 2021-05-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

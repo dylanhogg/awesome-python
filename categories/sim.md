@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://gym.openai.com/](https://gym.openai.com/)  
 A toolkit for developing and comparing reinforcement learning algorithms.  
 91 stars per week over 264 weeks  
-24200 stars, 6948 forks, 1016 watches  
+24218 stars, 6952 forks, 1016 watches  
 created 2016-04-27, last commit 2021-05-17, main language Python  
 
 
@@ -17,7 +17,7 @@ created 2016-04-27, last commit 2021-05-17, main language Python
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 Python sample codes for robotics algorithms.  
 45 stars per week over 269 weeks  
-12297 stars, 3975 forks, 507 watches  
+12311 stars, 3982 forks, 507 watches  
 created 2016-03-21, last commit 2021-05-15, main language Jupyter Notebook  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -26,7 +26,7 @@ created 2016-03-21, last commit 2021-05-15, main language Jupyter Notebook
 [http://bulletphysics.org](http://bulletphysics.org)  
 Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.  
 15 stars per week over 527 weeks  
-7918 stars, 2118 forks, 412 watches  
+7930 stars, 2118 forks, 412 watches  
 created 2011-04-12, last commit 2021-05-12, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -34,8 +34,8 @@ created 2011-04-12, last commit 2021-05-12, main language C++
 ### [mesa](https://github.com/projectmesa/mesa) by [projectmesa](https://github.com/projectmesa)  
 [https://github.com/projectmesa/mesa](https://github.com/projectmesa/mesa)  
 Mesa is an agent-based modeling framework in Python  
-3.92 stars per week over 347 weeks  
-1362 stars, 593 forks, 95 watches  
+3.92 stars per week over 348 weeks  
+1364 stars, 594 forks, 95 watches  
 created 2014-09-19, last commit 2021-04-18, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
 
@@ -43,20 +43,20 @@ created 2014-09-19, last commit 2021-04-18, main language Python
 ### [PettingZoo](https://github.com/PettingZoo-Team/PettingZoo) by [PettingZoo-Team](https://github.com/PettingZoo-Team)  
 [https://github.com/PettingZoo-Team/PettingZoo](https://github.com/PettingZoo-Team/PettingZoo)  
 Gym for multi-agent reinforcement learning  
-8.14 stars per week over 69 weeks  
-564 stars, 72 forks, 16 watches  
-created 2020-01-20, last commit 2021-05-17, main language Python  
+8.15 stars per week over 69 weeks  
+567 stars, 73 forks, 15 watches  
+created 2020-01-20, last commit 2021-05-20, main language Python  
 
 
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  
 [https://github.com/artemyk/dynpy](https://github.com/artemyk/dynpy)  
 Dynamical systems for Python  
-0.01 stars per week over 348 weeks  
+0.01 stars per week over 349 weeks  
 3 stars, 5 forks, 2 watches  
 created 2014-09-12, last commit 2018-09-28, main language Python  
 
 
-This file was automatically generated on 2021-05-19.  
+This file was automatically generated on 2021-05-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
