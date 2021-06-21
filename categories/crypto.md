@@ -8,12 +8,12 @@ Checkout the interactive version that you can filter and sort:
 ### [ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) by [Nerolation](https://github.com/Nerolation)  
 [https://github.com/Nerolation/ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm)  
 Scrap blockchain data from the public API of Etherscan.io  
-0.41 stars per week over 9 weeks  
-4 stars, 0 forks, 1 watches  
-created 2021-03-13, last commit 2021-05-18, main language Python  
+0.28 stars per week over 14 weeks  
+4 stars, 1 forks, 1 watches  
+created 2021-03-13, last commit 2021-06-20, main language Python  
 
 
-This file was automatically generated on 2021-05-21.  
+This file was automatically generated on 2021-06-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
