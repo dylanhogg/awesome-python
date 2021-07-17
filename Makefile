@@ -17,6 +17,10 @@ clean:
 run:
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
+## Deploy server json data
+s3-deploy-files:
+	cd server; make s3-deploy-files
+
 ## Run black code formatter
 black:
 	source venv/bin/activate ; black .
