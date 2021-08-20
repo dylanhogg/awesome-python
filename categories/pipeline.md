@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 6 pipeline Python libraries and frameworks ordered by stars.  
+A selection of 7 pipeline Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
 68 stars per week over 331 weeks  
-22822 stars, 9030 forks, 746 watches  
+22824 stars, 9031 forks, 746 watches  
 created 2015-04-13, last commit 2021-08-19, main language Python  
 <sub><sup>airflow, apache, apache-airflow, python, scheduler, workflow</sup></sub>
 
@@ -27,7 +27,7 @@ created 2012-09-20, last commit 2021-07-07, main language Python
 [https://mlflow.org](https://mlflow.org)  
 Open source platform for the machine learning lifecycle  
 59 stars per week over 167 weeks  
-9948 stars, 2217 forks, 264 watches  
+9950 stars, 2217 forks, 264 watches  
 created 2018-06-05, last commit 2021-08-19, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
@@ -55,8 +55,17 @@ created 2019-04-18, last commit 2021-08-18, main language Python
 A data orchestrator for machine learning, analytics, and ETL.  
 21 stars per week over 172 weeks  
 3672 stars, 427 forks, 72 watches  
-created 2018-04-30, last commit 2021-08-18, main language Python  
+created 2018-04-30, last commit 2021-08-19, main language Python  
 <sub><sup>analytics, dagster, data-orchestrator, data-pipelines, data-science, etl, python, scheduler, workflow, workflow-automation</sup></sub>
+
+
+### [FEDOT](https://github.com/nccr-itmo/FEDOT) by [nccr-itmo](https://github.com/nccr-itmo)  
+[https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
+Automated modeling and machine learning framework FEDOT  
+2.48 stars per week over 83 weeks  
+207 stars, 26 forks, 7 watches  
+created 2020-01-13, last commit 2021-08-17, main language Python  
+<sub><sup>automated-machine-learning, automation, automl, evolutionary-algorithms, genetic-programming, hyperparameter-optimization, machine-learning, multimodality, parameter-tuning, structural-learning</sup></sub>
 
 
 This file was automatically generated on 2021-08-19.  

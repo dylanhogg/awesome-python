@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 11 web Python libraries and frameworks ordered by stars.  
+A selection of 12 web Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 The Web framework for perfectionists with deadlines.  
 121 stars per week over 485 weeks  
-59139 stars, 25245 forks, 2330 watches  
+59141 stars, 25247 forks, 2330 watches  
 created 2012-04-28, last commit 2021-08-19, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
@@ -18,7 +18,7 @@ created 2012-04-28, last commit 2021-08-19, main language Python
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 The Python micro framework for building web applications.  
 94 stars per week over 593 weeks  
-56350 stars, 14535 forks, 2234 watches  
+56351 stars, 14534 forks, 2234 watches  
 created 2010-04-06, last commit 2021-08-14, main language Python  
 <sub><sup>flask, jinja, pallets, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -36,8 +36,8 @@ created 2011-02-13, last commit 2021-08-04, main language Python
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)  
 FastAPI framework, high performance, easy to learn, fast to code, ready for production  
 247 stars per week over 140 weeks  
-34816 stars, 2481 forks, 538 watches  
-created 2018-12-08, last commit 2021-08-18, main language Python  
+34819 stars, 2481 forks, 539 watches  
+created 2018-12-08, last commit 2021-08-19, main language Python  
 <sub><sup>api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web</sup></sub>
 
 
@@ -45,7 +45,7 @@ created 2018-12-08, last commit 2021-08-18, main language Python
 [http://www.tornadoweb.org/](http://www.tornadoweb.org/)  
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
 32 stars per week over 623 weeks  
-20133 stars, 5412 forks, 1031 watches  
+20134 stars, 5412 forks, 1031 watches  
 created 2009-09-09, last commit 2021-07-09, main language Python  
 <sub><sup>asynchronous, python</sup></sub>
 
@@ -54,7 +54,7 @@ created 2009-09-09, last commit 2021-07-09, main language Python
 [https://sanicframework.org/](https://sanicframework.org/)  
 Async Python 3.7+ web server/framework | Build fast. Run fast.  
 55 stars per week over 273 weeks  
-15241 stars, 1374 forks, 423 watches  
+15242 stars, 1374 forks, 423 watches  
 created 2016-05-26, last commit 2021-08-09, main language Python  
 <sub><sup>api-server, asgi, asyncio, framework, python, sanic, web, web-framework, web-server</sup></sub>
 
@@ -72,7 +72,7 @@ created 2009-11-30, last commit 2021-07-02, main language Python
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 50 stars per week over 129 weeks  
-6600 stars, 1090 forks, 143 watches  
+6601 stars, 1090 forks, 143 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
 
@@ -92,6 +92,15 @@ uWSGI application server container
 5.87 stars per week over 514 weeks  
 3022 stars, 629 forks, 112 watches  
 created 2011-10-09, last commit 2021-07-15, main language C  
+
+
+### [PyWebIO](https://github.com/pywebio/PyWebIO) by [pywebio](https://github.com/pywebio)  
+[https://pywebio.readthedocs.io](https://pywebio.readthedocs.io)  
+Write interactive web app in script way.  
+21 stars per week over 76 weeks  
+1642 stars, 106 forks, 28 watches  
+created 2020-02-29, last commit 2021-08-08, main language Python  
+<sub><sup>pywebio</sup></sub>
 
 
 ### [mangum](https://github.com/jordaneremieff/mangum) by [jordaneremieff](https://github.com/jordaneremieff)  

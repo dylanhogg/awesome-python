@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://networkx.org](https://networkx.org)  
 Network Analysis in Python  
 16 stars per week over 571 weeks  
-9502 stars, 2380 forks, 281 watches  
+9503 stars, 2380 forks, 281 watches  
 created 2010-09-06, last commit 2021-08-14, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 

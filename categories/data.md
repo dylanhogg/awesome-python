@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 23 data Python libraries and frameworks ordered by stars.  
+A selection of 27 data Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://scrapy.org](https://scrapy.org)  
 Scrapy, a fast high-level web crawling & scraping framework for Python.  
 68 stars per week over 599 weeks  
-41338 stars, 9282 forks, 1825 watches  
+41338 stars, 9280 forks, 1825 watches  
 created 2010-02-22, last commit 2021-08-18, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -36,7 +36,7 @@ created 2014-02-21, last commit 2020-08-02, main language Python
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 Faker is a Python package that generates fake data for you.  
 28 stars per week over 457 weeks  
-12905 stars, 1468 forks, 227 watches  
+12906 stars, 1468 forks, 227 watches  
 created 2012-11-12, last commit 2021-08-12, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -45,7 +45,7 @@ created 2012-11-12, last commit 2021-08-12, main language Python
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
 164 stars per week over 74 weeks  
-12320 stars, 1509 forks, 263 watches  
+12322 stars, 1510 forks, 263 watches  
 created 2020-03-14, last commit 2021-08-10, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -54,7 +54,7 @@ created 2020-03-14, last commit 2021-08-10, main language Python
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 51 stars per week over 218 weeks  
-11284 stars, 1646 forks, 283 watches  
+11286 stars, 1647 forks, 283 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -73,7 +73,7 @@ created 2017-03-04, last commit 2021-08-19, main language Python
 Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  
 28 stars per week over 287 weeks  
 8264 stars, 2012 forks, 334 watches  
-created 2016-02-17, last commit 2021-08-18, main language C++  
+created 2016-02-17, last commit 2021-08-19, main language C++  
 <sub><sup>arrow</sup></sub>
 
 
@@ -81,7 +81,7 @@ created 2016-02-17, last commit 2021-08-18, main language C++
 [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)  
 Incredibly fast crawler designed for OSINT.  
 45 stars per week over 176 weeks  
-8100 stars, 1165 forks, 311 watches  
+8100 stars, 1164 forks, 311 watches  
 created 2018-03-30, last commit 2019-12-06, main language Python  
 <sub><sup>crawler, information-gathering, osint, python, spider</sup></sub>
 
@@ -108,7 +108,7 @@ created 2017-08-15, last commit 2020-05-03, main language Python
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 Always know what to expect from your data.  
 23 stars per week over 205 weeks  
-4820 stars, 637 forks, 62 watches  
+4821 stars, 637 forks, 62 watches  
 created 2017-09-11, last commit 2021-08-19, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
 
@@ -120,6 +120,14 @@ The Database Toolkit for Python
 4107 stars, 660 forks, 76 watches  
 created 2018-11-27, last commit 2021-08-18, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
+
+
+### [AugLy](https://github.com/facebookresearch/AugLy) by [facebookresearch](https://github.com/facebookresearch)  
+[https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)  
+A data augmentations library for audio, image, text, and video.  
+370 stars per week over 10 weeks  
+3755 stars, 174 forks, 55 watches  
+created 2021-06-09, last commit 2021-08-15, main language Python  
 
 
 ### [mimesis](https://github.com/lk-geimfari/mimesis) by [lk-geimfari](https://github.com/lk-geimfari)  
@@ -143,7 +151,7 @@ created 2014-09-30, last commit 2020-04-07, main language Python
 [https://xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io)  
 A Python module for creating Excel XLSX files.  
 5.87 stars per week over 449 weeks  
-2639 stars, 540 forks, 122 watches  
+2640 stars, 540 forks, 122 watches  
 created 2013-01-04, last commit 2021-08-12, main language Python  
 <sub><sup>charts, libxlsxwriter, pandas, python, spreadsheet, xlsx, xlsx-files, xlsxwriter</sup></sub>
 
@@ -182,6 +190,15 @@ created 2019-02-26, last commit 2021-08-11, main language Python
 <sub><sup>amazon-athena, amazon-sagemaker-notebook, apache-arrow, apache-parquet, athena, aws, aws-glue, aws-lambda, data-engineering, data-science, emr, etl, glue-catalog, lambda, mysql, pandas, python, redshift</sup></sub>
 
 
+### [PynamoDB](https://github.com/pynamodb/PynamoDB) by [pynamodb](https://github.com/pynamodb)  
+[http://pynamodb.readthedocs.io](http://pynamodb.readthedocs.io)  
+A pythonic interface to Amazon's DynamoDB  
+4.29 stars per week over 395 weeks  
+1698 stars, 369 forks, 41 watches  
+created 2014-01-20, last commit 2021-08-09, main language Python  
+<sub><sup>aws, dynamodb, python</sup></sub>
+
+
 ### [simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
 [https://github.com/simple-salesforce/simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
 A very simple Salesforce.com REST API client for Python  
@@ -191,6 +208,15 @@ created 2013-01-17, last commit 2021-08-18, main language Python
 <sub><sup>api, api-client, python, salesforce</sup></sub>
 
 
+### [connector-x](https://github.com/sfu-db/connector-x) by [sfu-db](https://github.com/sfu-db)  
+[https://github.com/sfu-db/connector-x](https://github.com/sfu-db/connector-x)  
+Fastest library to load data from DB to DataFrames in Rust and Python  
+12 stars per week over 31 weeks  
+375 stars, 16 forks, 17 watches  
+created 2021-01-13, last commit 2021-08-17, main language Rust  
+<sub><sup>database, dataframe, python, rust, sql</sup></sub>
+
+
 ### [sql-metadata](https://github.com/macbre/sql-metadata) by [macbre](https://github.com/macbre)  
 [https://pypi.python.org/pypi/sql-metadata](https://pypi.python.org/pypi/sql-metadata)  
 Uses tokenized query returned by python-sqlparse and generates query metadata  
@@ -198,6 +224,15 @@ Uses tokenized query returned by python-sqlparse and generates query metadata
 173 stars, 29 forks, 10 watches  
 created 2017-06-06, last commit 2021-08-18, main language Python  
 <sub><sup>database, hive, hiveql, metadata, mysql-query, parser, python-package, python3-library, sql, sql-parser, sqlparse</sup></sub>
+
+
+### [genalog](https://github.com/microsoft/genalog) by [microsoft](https://github.com/microsoft)  
+[https://microsoft.github.io/genalog/](https://microsoft.github.io/genalog/)  
+Genalog is an open source, cross-platform python package allowing generation of synthetic document images with custom degradations and text alignment capabilities.  
+2.44 stars per week over 61 weeks  
+150 stars, 16 forks, 9 watches  
+created 2020-06-15, last commit 2021-08-18, main language Jupyter Notebook  
+<sub><sup>data-generation, data-science, machine-learning, ner, ocr-recognition, python, synthetic-data, synthetic-data-generation, synthetic-images, text-alignment</sup></sub>
 
 
 ### [address-net](https://github.com/jasonrig/address-net) by [jasonrig](https://github.com/jasonrig)  

@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://streamlit.io](https://streamlit.io)  
 Streamlit — The fastest way to build data apps in Python  
 150 stars per week over 103 weeks  
-15611 stars, 1368 forks, 259 watches  
+15612 stars, 1368 forks, 259 watches  
 created 2019-08-24, last commit 2021-08-17, main language TypeScript  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -19,7 +19,7 @@ created 2019-08-24, last commit 2021-08-17, main language TypeScript
 Interactive Data Visualization in the browser, from  Python  
 31 stars per week over 490 weeks  
 15396 stars, 3770 forks, 468 watches  
-created 2012-03-26, last commit 2021-08-18, main language Python  
+created 2012-03-26, last commit 2021-08-19, main language Python  
 <sub><sup>bokeh, data-visualisation, interactive-plots, javascript, jupyter, notebooks, numfocus, plots, plotting, python, visualisation, visualization</sup></sub>
 
 
@@ -27,7 +27,7 @@ created 2012-03-26, last commit 2021-08-18, main language Python
 [https://plotly.com/dash](https://plotly.com/dash)  
 Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.  
 45 stars per week over 331 weeks  
-14982 stars, 1535 forks, 398 watches  
+14985 stars, 1535 forks, 398 watches  
 created 2015-04-10, last commit 2021-08-18, main language Python  
 <sub><sup>bioinformatics, charting, dash, data-science, data-visualization, finance, flask, gui-framework, julia, jupyter, modeling, plotly, plotly-dash, productivity, python, r, react, rstats, technical-computing, web-app</sup></sub>
 
@@ -36,7 +36,7 @@ created 2015-04-10, last commit 2021-08-18, main language Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 matplotlib: plotting with Python  
 25 stars per week over 547 weeks  
-14074 stars, 5969 forks, 585 watches  
+14075 stars, 5969 forks, 585 watches  
 created 2011-02-19, last commit 2021-08-19, main language Python  
 <sub><sup>data-science, data-visualization, gtk, matplotlib, plotting, python, qt, tk, wx</sup></sub>
 
@@ -54,7 +54,7 @@ created 2013-11-21, last commit 2021-08-14, main language Python
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 Statistical data visualization in Python  
 18 stars per week over 478 weeks  
-8677 stars, 1469 forks, 241 watches  
+8678 stars, 1468 forks, 241 watches  
 created 2012-06-18, last commit 2021-08-15, main language Python  
 <sub><sup>data-science, data-visualization, matplotlib, pandas, python</sup></sub>
 
@@ -87,7 +87,7 @@ created 2018-08-21, last commit 2021-07-01, main language Python
 [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
 Python API for Intelligent Visual Data Discovery  
 32 stars per week over 84 weeks  
-2730 stars, 219 forks, 72 watches  
+2731 stars, 219 forks, 72 watches  
 created 2020-01-08, last commit 2021-08-01, main language Python  
 <sub><sup>data-science, exploratory-data-analysis, jupyter, pandas, python, visualization, visualization-tools</sup></sub>
 

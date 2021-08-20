@@ -101,8 +101,8 @@
             "description": null,
             "_repopath": "tensorflow/tensorflow",
             "_reponame": "tensorflow",
-            "_stars": 158503,
-            "_forks": 85357,
+            "_stars": 158507,
+            "_forks": 85358,
             "_watches": 8078,
             "_topics": [
                 "tensorflow",
@@ -122,7 +122,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2015-11-07T00:00:00.000Z",
             "_age_weeks": 301,
-            "_stars_per_week": 525.3413825758
+            "_stars_per_week": 525.3546401515
         },
         {
             "index": 14,
@@ -133,8 +133,8 @@
             "description": null,
             "_repopath": "django/django",
             "_reponame": "django",
-            "_stars": 59139,
-            "_forks": 25245,
+            "_stars": 59141,
+            "_forks": 25247,
             "_watches": 2330,
             "_topics": [
                 "python",
@@ -155,7 +155,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2012-04-28T00:00:00.000Z",
             "_age_weeks": 485,
-            "_stars_per_week": 121.7567647059
+            "_stars_per_week": 121.7608823529
         },
         {
             "index": 57,
@@ -166,8 +166,8 @@
             "description": null,
             "_repopath": "pallets/flask",
             "_reponame": "flask",
-            "_stars": 56350,
-            "_forks": 14535,
+            "_stars": 56351,
+            "_forks": 14534,
             "_watches": 2234,
             "_topics": [
                 "python",
@@ -186,7 +186,7 @@
             "_last_commit_date": "2021-08-14T00:00:00.000Z",
             "_created_at": "2010-04-06T00:00:00.000Z",
             "_age_weeks": 593,
-            "_stars_per_week": 94.9795328678
+            "_stars_per_week": 94.9812183963
         },
         {
             "index": 40,
@@ -197,8 +197,8 @@
             "description": null,
             "_repopath": "keras-team/keras",
             "_reponame": "keras",
-            "_stars": 52163,
-            "_forks": 18779,
+            "_stars": 52165,
+            "_forks": 18778,
             "_watches": 2026,
             "_topics": [
                 "deep-learning",
@@ -216,7 +216,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2015-03-28T00:00:00.000Z",
             "_age_weeks": 333,
-            "_stars_per_week": 156.310359589
+            "_stars_per_week": 156.3163527397
         },
         {
             "index": 76,
@@ -227,8 +227,8 @@
             "description": null,
             "_repopath": "pytorch/pytorch",
             "_reponame": "pytorch",
-            "_stars": 50190,
-            "_forks": 13635,
+            "_stars": 50194,
+            "_forks": 13636,
             "_watches": 1590,
             "_topics": [
                 "neural-network",
@@ -248,7 +248,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2016-08-13T00:00:00.000Z",
             "_age_weeks": 261,
-            "_stars_per_week": 191.7740174672
+            "_stars_per_week": 191.78930131
         },
         {
             "index": 112,
@@ -259,7 +259,7 @@
             "description": null,
             "_repopath": "huggingface/transformers",
             "_reponame": "transformers",
-            "_stars": 50107,
+            "_stars": 50113,
             "_forks": 11885,
             "_watches": 768,
             "_topics": [
@@ -292,7 +292,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2018-10-29T00:00:00.000Z",
             "_age_weeks": 146,
-            "_stars_per_week": 342.1941463415
+            "_stars_per_week": 342.2351219512
         },
         {
             "index": 78,
@@ -303,8 +303,8 @@
             "description": null,
             "_repopath": "scikit-learn/scikit-learn",
             "_reponame": "scikit-learn",
-            "_stars": 46840,
-            "_forks": 21783,
+            "_stars": 46844,
+            "_forks": 21785,
             "_watches": 2246,
             "_topics": [
                 "machine-learning",
@@ -321,7 +321,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2010-08-17T00:00:00.000Z",
             "_age_weeks": 574,
-            "_stars_per_week": 81.5621890547
+            "_stars_per_week": 81.5691542289
         },
         {
             "index": 179,
@@ -364,7 +364,7 @@
             "description": null,
             "_repopath": "home-assistant/core",
             "_reponame": "core",
-            "_stars": 45174,
+            "_stars": 45179,
             "_forks": 14784,
             "_watches": 1356,
             "_topics": [
@@ -385,7 +385,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2013-09-17T00:00:00.000Z",
             "_age_weeks": 413,
-            "_stars_per_week": 109.3045281714
+            "_stars_per_week": 109.3166263394
         },
         {
             "index": 80,
@@ -397,7 +397,7 @@
             "_repopath": "scrapy/scrapy",
             "_reponame": "scrapy",
             "_stars": 41338,
-            "_forks": 9282,
+            "_forks": 9280,
             "_watches": 1825,
             "_topics": [
                 "python",
@@ -426,9 +426,9 @@
             "description": null,
             "_repopath": "tiangolo/fastapi",
             "_reponame": "fastapi",
-            "_stars": 34816,
+            "_stars": 34819,
             "_forks": 2481,
-            "_watches": 538,
+            "_watches": 539,
             "_topics": [
                 "python",
                 "json",
@@ -456,10 +456,10 @@
             "_description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
             "_organization": "tiangolo",
             "_updated_at": "2021-08-19T00:00:00.000Z",
-            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2018-12-08T00:00:00.000Z",
             "_age_weeks": 140,
-            "_stars_per_week": 247.4233502538
+            "_stars_per_week": 247.4446700508
         },
         {
             "index": 59,
@@ -499,7 +499,7 @@
             "description": null,
             "_repopath": "willmcgugan/rich",
             "_reponame": "rich",
-            "_stars": 28193,
+            "_stars": 28196,
             "_forks": 860,
             "_watches": 513,
             "_topics": [
@@ -528,7 +528,7 @@
             "_last_commit_date": "2021-08-09T00:00:00.000Z",
             "_created_at": "2019-11-10T00:00:00.000Z",
             "_age_weeks": 92,
-            "_stars_per_week": 304.5540123457
+            "_stars_per_week": 304.5864197531
         },
         {
             "index": 55,
@@ -554,6 +554,29 @@
             "_stars_per_week": 90.1917525773
         },
         {
+            "index": 222,
+            "category": "util",
+            "githuburl": "https://github.com/pyenv/pyenv",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pyenv/pyenv",
+            "_reponame": "pyenv",
+            "_stars": 24306,
+            "_forks": 2140,
+            "_watches": 377,
+            "_topics": [],
+            "_language": "Roff",
+            "_homepage": null,
+            "_description": "Simple Python version management",
+            "_organization": "pyenv",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-04T00:00:00.000Z",
+            "_created_at": "2012-08-31T00:00:00.000Z",
+            "_age_weeks": 467,
+            "_stars_per_week": 51.9517557252
+        },
+        {
             "index": 118,
             "category": "pipeline",
             "githuburl": "https://github.com/apache/airflow",
@@ -562,8 +585,8 @@
             "description": null,
             "_repopath": "apache/airflow",
             "_reponame": "airflow",
-            "_stars": 22822,
-            "_forks": 9030,
+            "_stars": 22824,
+            "_forks": 9031,
             "_watches": 746,
             "_topics": [
                 "airflow",
@@ -581,7 +604,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2015-04-13T00:00:00.000Z",
             "_age_weeks": 331,
-            "_stars_per_week": 68.8594827586
+            "_stars_per_week": 68.8655172414
         },
         {
             "index": 64,
@@ -592,7 +615,7 @@
             "description": null,
             "_repopath": "psf/black",
             "_reponame": "black",
-            "_stars": 22015,
+            "_stars": 22018,
             "_forks": 1410,
             "_watches": 193,
             "_topics": [
@@ -613,7 +636,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2018-03-14T00:00:00.000Z",
             "_age_weeks": 179,
-            "_stars_per_week": 122.8907496013
+            "_stars_per_week": 122.9074960128
         },
         {
             "index": 103,
@@ -624,7 +647,7 @@
             "description": null,
             "_repopath": "dmlc/xgboost",
             "_reponame": "xgboost",
-            "_stars": 21444,
+            "_stars": 21445,
             "_forks": 8116,
             "_watches": 950,
             "_topics": [
@@ -639,11 +662,11 @@
             "_homepage": "https://xgboost.ai/",
             "_description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
             "_organization": "dmlc",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2014-02-06T00:00:00.000Z",
             "_age_weeks": 393,
-            "_stars_per_week": 54.5648854962
+            "_stars_per_week": 54.5674300254
         },
         {
             "index": 17,
@@ -654,9 +677,9 @@
             "description": null,
             "_repopath": "explosion/spaCy",
             "_reponame": "spaCy",
-            "_stars": 21120,
+            "_stars": 21122,
             "_forks": 3551,
-            "_watches": 583,
+            "_watches": 582,
             "_topics": [
                 "natural-language-processing",
                 "data-science",
@@ -684,7 +707,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2014-07-03T00:00:00.000Z",
             "_age_weeks": 372,
-            "_stars_per_week": 56.7741935484
+            "_stars_per_week": 56.7795698925
         },
         {
             "index": 90,
@@ -695,7 +718,7 @@
             "description": null,
             "_repopath": "tornadoweb/tornado",
             "_reponame": "tornado",
-            "_stars": 20133,
+            "_stars": 20134,
             "_forks": 5412,
             "_watches": 1031,
             "_topics": [
@@ -710,7 +733,7 @@
             "_last_commit_date": "2021-07-09T00:00:00.000Z",
             "_created_at": "2009-09-09T00:00:00.000Z",
             "_age_weeks": 623,
-            "_stars_per_week": 32.3088033012
+            "_stars_per_week": 32.3104080697
         },
         {
             "index": 26,
@@ -721,7 +744,7 @@
             "description": null,
             "_repopath": "google/python-fire",
             "_reponame": "python-fire",
-            "_stars": 19934,
+            "_stars": 19935,
             "_forks": 1184,
             "_watches": 375,
             "_topics": [
@@ -736,7 +759,7 @@
             "_last_commit_date": "2021-06-17T00:00:00.000Z",
             "_created_at": "2017-02-21T00:00:00.000Z",
             "_age_weeks": 234,
-            "_stars_per_week": 85.0841463415
+            "_stars_per_week": 85.0884146341
         },
         {
             "index": 2,
@@ -747,7 +770,7 @@
             "description": null,
             "_repopath": "apache/incubator-mxnet",
             "_reponame": "incubator-mxnet",
-            "_stars": 19604,
+            "_stars": 19606,
             "_forks": 6871,
             "_watches": 1120,
             "_topics": [
@@ -761,7 +784,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2015-04-30T00:00:00.000Z",
             "_age_weeks": 329,
-            "_stars_per_week": 59.5866261398
+            "_stars_per_week": 59.5927051672
         },
         {
             "index": 165,
@@ -842,7 +865,7 @@
             "description": null,
             "_repopath": "celery/celery",
             "_reponame": "celery",
-            "_stars": 17772,
+            "_stars": 17773,
             "_forks": 4074,
             "_watches": 488,
             "_topics": [
@@ -868,7 +891,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2009-04-24T00:00:00.000Z",
             "_age_weeks": 642,
-            "_stars_per_week": 27.6453333333
+            "_stars_per_week": 27.6468888889
         },
         {
             "index": 45,
@@ -880,7 +903,7 @@
             "_repopath": "locustio/locust",
             "_reponame": "locust",
             "_stars": 16841,
-            "_forks": 2214,
+            "_forks": 2215,
             "_watches": 447,
             "_topics": [
                 "locust",
@@ -896,7 +919,7 @@
             "_description": "Scalable user load testing tool written in Python",
             "_organization": "locustio",
             "_updated_at": "2021-08-19T00:00:00.000Z",
-            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2011-02-17T00:00:00.000Z",
             "_age_weeks": 548,
             "_stars_per_week": 30.7317518248
@@ -910,7 +933,7 @@
             "description": null,
             "_repopath": "streamlit/streamlit",
             "_reponame": "streamlit",
-            "_stars": 15611,
+            "_stars": 15612,
             "_forks": 1368,
             "_watches": 259,
             "_topics": [
@@ -931,7 +954,7 @@
             "_last_commit_date": "2021-08-17T00:00:00.000Z",
             "_created_at": "2019-08-24T00:00:00.000Z",
             "_age_weeks": 103,
-            "_stars_per_week": 150.5192837466
+            "_stars_per_week": 150.5289256198
         },
         {
             "index": 6,
@@ -964,7 +987,7 @@
             "_description": "Interactive Data Visualization in the browser, from  Python",
             "_organization": "bokeh",
             "_updated_at": "2021-08-19T00:00:00.000Z",
-            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2012-03-26T00:00:00.000Z",
             "_age_weeks": 490,
             "_stars_per_week": 31.3929507719
@@ -978,7 +1001,7 @@
             "description": null,
             "_repopath": "huge-success/sanic",
             "_reponame": "sanic",
-            "_stars": 15241,
+            "_stars": 15242,
             "_forks": 1374,
             "_watches": 423,
             "_topics": [
@@ -996,11 +1019,11 @@
             "_homepage": "https://sanicframework.org/",
             "_description": "Async Python 3.7+ web server/framework | Build fast. Run fast.",
             "_organization": "huge-success",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-09T00:00:00.000Z",
             "_created_at": "2016-05-26T00:00:00.000Z",
             "_age_weeks": 273,
-            "_stars_per_week": 55.8278388278
+            "_stars_per_week": 55.8315018315
         },
         {
             "index": 109,
@@ -1037,7 +1060,7 @@
             "description": null,
             "_repopath": "plotly/dash",
             "_reponame": "dash",
-            "_stars": 14982,
+            "_stars": 14985,
             "_forks": 1535,
             "_watches": 398,
             "_topics": [
@@ -1070,7 +1093,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2015-04-10T00:00:00.000Z",
             "_age_weeks": 331,
-            "_stars_per_week": 45.1459319845
+            "_stars_per_week": 45.1549720189
         },
         {
             "index": 102,
@@ -1164,7 +1187,7 @@
             "description": null,
             "_repopath": "matplotlib/matplotlib",
             "_reponame": "matplotlib",
-            "_stars": 14074,
+            "_stars": 14075,
             "_forks": 5969,
             "_watches": 585,
             "_topics": [
@@ -1186,7 +1209,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2011-02-19T00:00:00.000Z",
             "_age_weeks": 547,
-            "_stars_per_week": 25.6958789776
+            "_stars_per_week": 25.697704747
         },
         {
             "index": 185,
@@ -1197,7 +1220,7 @@
             "description": null,
             "_repopath": "google/jax",
             "_reponame": "jax",
-            "_stars": 13917,
+            "_stars": 13918,
             "_forks": 1291,
             "_watches": 248,
             "_topics": [
@@ -1211,7 +1234,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2018-10-25T00:00:00.000Z",
             "_age_weeks": 147,
-            "_stars_per_week": 94.6734693878
+            "_stars_per_week": 94.6802721088
         },
         {
             "index": 189,
@@ -1222,7 +1245,7 @@
             "description": null,
             "_repopath": "slundberg/shap",
             "_reponame": "shap",
-            "_stars": 13736,
+            "_stars": 13738,
             "_forks": 2050,
             "_watches": 238,
             "_topics": [
@@ -1242,7 +1265,7 @@
             "_last_commit_date": "2021-08-05T00:00:00.000Z",
             "_created_at": "2016-11-22T00:00:00.000Z",
             "_age_weeks": 247,
-            "_stars_per_week": 55.5470826112
+            "_stars_per_week": 55.5551704217
         },
         {
             "index": 75,
@@ -1253,8 +1276,8 @@
             "description": null,
             "_repopath": "pytorch/fairseq",
             "_reponame": "fairseq",
-            "_stars": 13576,
-            "_forks": 3483,
+            "_stars": 13580,
+            "_forks": 3484,
             "_watches": 325,
             "_topics": [
                 "python",
@@ -1269,7 +1292,7 @@
             "_last_commit_date": "2021-08-17T00:00:00.000Z",
             "_created_at": "2017-08-29T00:00:00.000Z",
             "_age_weeks": 207,
-            "_stars_per_week": 65.4941419711
+            "_stars_per_week": 65.5134390076
         },
         {
             "index": 188,
@@ -1280,9 +1303,9 @@
             "description": null,
             "_repopath": "HarisIqbal88/PlotNeuralNet",
             "_reponame": "PlotNeuralNet",
-            "_stars": 13559,
-            "_forks": 1878,
-            "_watches": 199,
+            "_stars": 13561,
+            "_forks": 1879,
+            "_watches": 200,
             "_topics": [
                 "latex",
                 "deep-neural-networks"
@@ -1291,11 +1314,11 @@
             "_homepage": null,
             "_description": "Latex code for making neural networks diagrams",
             "_organization": "HarisIqbal88",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2020-11-06T00:00:00.000Z",
             "_created_at": "2018-07-24T00:00:00.000Z",
             "_age_weeks": 160,
-            "_stars_per_week": 84.5926916221
+            "_stars_per_week": 84.6051693405
         },
         {
             "index": 41,
@@ -1367,7 +1390,7 @@
             "_repopath": "AtsushiSakai/PythonRobotics",
             "_reponame": "PythonRobotics",
             "_stars": 12944,
-            "_forks": 4217,
+            "_forks": 4218,
             "_watches": 501,
             "_topics": [
                 "python",
@@ -1405,7 +1428,7 @@
             "description": null,
             "_repopath": "joke2k/faker",
             "_reponame": "faker",
-            "_stars": 12905,
+            "_stars": 12906,
             "_forks": 1468,
             "_watches": 227,
             "_topics": [
@@ -1425,7 +1448,7 @@
             "_last_commit_date": "2021-08-12T00:00:00.000Z",
             "_created_at": "2012-11-12T00:00:00.000Z",
             "_age_weeks": 457,
-            "_stars_per_week": 28.2120549656
+            "_stars_per_week": 28.2142410993
         },
         {
             "index": 104,
@@ -1436,7 +1459,7 @@
             "description": null,
             "_repopath": "RaRe-Technologies/gensim",
             "_reponame": "gensim",
-            "_stars": 12353,
+            "_stars": 12354,
             "_forks": 4050,
             "_watches": 433,
             "_topics": [
@@ -1464,7 +1487,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2011-02-10T00:00:00.000Z",
             "_age_weeks": 549,
-            "_stars_per_week": 22.5009107468
+            "_stars_per_week": 22.5027322404
         },
         {
             "index": 31,
@@ -1475,8 +1498,8 @@
             "description": null,
             "_repopath": "JaidedAI/EasyOCR",
             "_reponame": "EasyOCR",
-            "_stars": 12320,
-            "_forks": 1509,
+            "_stars": 12322,
+            "_forks": 1510,
             "_watches": 263,
             "_topics": [
                 "ocr",
@@ -1503,7 +1526,7 @@
             "_last_commit_date": "2021-08-10T00:00:00.000Z",
             "_created_at": "2020-03-14T00:00:00.000Z",
             "_age_weeks": 74,
-            "_stars_per_week": 164.8948374761
+            "_stars_per_week": 164.9216061185
         },
         {
             "index": 39,
@@ -1526,7 +1549,7 @@
             "_description": "JupyterLab computational environment.",
             "_organization": "jupyterlab",
             "_updated_at": "2021-08-19T00:00:00.000Z",
-            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2016-06-03T00:00:00.000Z",
             "_age_weeks": 271,
             "_stars_per_week": 41.5585916973
@@ -1540,8 +1563,8 @@
             "description": null,
             "_repopath": "twintproject/twint",
             "_reponame": "twint",
-            "_stars": 11284,
-            "_forks": 1646,
+            "_stars": 11286,
+            "_forks": 1647,
             "_watches": 283,
             "_topics": [
                 "osint",
@@ -1565,7 +1588,7 @@
             "_last_commit_date": "2021-03-02T00:00:00.000Z",
             "_created_at": "2017-06-10T00:00:00.000Z",
             "_age_weeks": 218,
-            "_stars_per_week": 51.5924232528
+            "_stars_per_week": 51.6015676029
         },
         {
             "index": 56,
@@ -1576,7 +1599,7 @@
             "description": null,
             "_repopath": "pallets/click",
             "_reponame": "click",
-            "_stars": 11236,
+            "_stars": 11237,
             "_forks": 1156,
             "_watches": 190,
             "_topics": [
@@ -1593,7 +1616,7 @@
             "_last_commit_date": "2021-08-14T00:00:00.000Z",
             "_created_at": "2014-04-24T00:00:00.000Z",
             "_age_weeks": 382,
-            "_stars_per_week": 29.4136125654
+            "_stars_per_week": 29.4162303665
         },
         {
             "index": 74,
@@ -1633,7 +1656,7 @@
             "description": null,
             "_repopath": "onnx/onnx",
             "_reponame": "onnx",
-            "_stars": 11147,
+            "_stars": 11148,
             "_forks": 2082,
             "_watches": 440,
             "_topics": [
@@ -1658,7 +1681,7 @@
             "_last_commit_date": "2021-08-15T00:00:00.000Z",
             "_created_at": "2017-09-07T00:00:00.000Z",
             "_age_weeks": 206,
-            "_stars_per_week": 54.1116504854
+            "_stars_per_week": 54.1165048544
         },
         {
             "index": 153,
@@ -1731,7 +1754,7 @@
             "description": null,
             "_repopath": "microsoft/nni",
             "_reponame": "nni",
-            "_stars": 10133,
+            "_stars": 10134,
             "_forks": 1410,
             "_watches": 274,
             "_topics": [
@@ -1764,7 +1787,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2018-06-01T00:00:00.000Z",
             "_age_weeks": 167,
-            "_stars_per_week": 60.3668085106
+            "_stars_per_week": 60.3727659574
         },
         {
             "index": 105,
@@ -1775,7 +1798,7 @@
             "description": null,
             "_repopath": "nltk/nltk",
             "_reponame": "nltk",
-            "_stars": 10054,
+            "_stars": 10055,
             "_forks": 2491,
             "_watches": 484,
             "_topics": [
@@ -1793,7 +1816,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2009-09-07T00:00:00.000Z",
             "_age_weeks": 623,
-            "_stars_per_week": 16.1269477544
+            "_stars_per_week": 16.1285517874
         },
         {
             "index": 62,
@@ -1842,7 +1865,7 @@
             "description": null,
             "_repopath": "mlflow/mlflow",
             "_reponame": "mlflow",
-            "_stars": 9948,
+            "_stars": 9950,
             "_forks": 2217,
             "_watches": 264,
             "_topics": [
@@ -1861,7 +1884,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2018-06-05T00:00:00.000Z",
             "_age_weeks": 167,
-            "_stars_per_week": 59.4671221178
+            "_stars_per_week": 59.4790777114
         },
         {
             "index": 177,
@@ -1872,7 +1895,7 @@
             "description": null,
             "_repopath": "Delgan/loguru",
             "_reponame": "loguru",
-            "_stars": 9535,
+            "_stars": 9536,
             "_forks": 431,
             "_watches": 110,
             "_topics": [
@@ -1885,11 +1908,11 @@
             "_homepage": "",
             "_description": "Python logging made (stupidly) simple",
             "_organization": "Delgan",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-07-17T00:00:00.000Z",
             "_created_at": "2017-08-15T00:00:00.000Z",
             "_age_weeks": 209,
-            "_stars_per_week": 45.5597269625
+            "_stars_per_week": 45.5645051195
         },
         {
             "index": 52,
@@ -1900,7 +1923,7 @@
             "description": null,
             "_repopath": "networkx/networkx",
             "_reponame": "networkx",
-            "_stars": 9502,
+            "_stars": 9503,
             "_forks": 2380,
             "_watches": 281,
             "_topics": [
@@ -1916,11 +1939,11 @@
             "_homepage": "https://networkx.org",
             "_description": "Network Analysis in Python",
             "_organization": "networkx",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-14T00:00:00.000Z",
             "_created_at": "2010-09-06T00:00:00.000Z",
             "_age_weeks": 571,
-            "_stars_per_week": 16.6285
+            "_stars_per_week": 16.63025
         },
         {
             "index": 24,
@@ -1960,7 +1983,7 @@
             "description": null,
             "_repopath": "marcotcr/lime",
             "_reponame": "lime",
-            "_stars": 9029,
+            "_stars": 9030,
             "_forks": 1481,
             "_watches": 276,
             "_topics": [],
@@ -1968,11 +1991,11 @@
             "_homepage": "",
             "_description": "Lime: Explaining the predictions of any machine learning classifier",
             "_organization": "marcotcr",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-07-29T00:00:00.000Z",
             "_created_at": "2016-03-15T00:00:00.000Z",
             "_age_weeks": 283,
-            "_stars_per_week": 31.872415532
+            "_stars_per_week": 31.8759455371
         },
         {
             "index": 72,
@@ -1983,7 +2006,7 @@
             "description": null,
             "_repopath": "python-pillow/Pillow",
             "_reponame": "Pillow",
-            "_stars": 8862,
+            "_stars": 8863,
             "_forks": 1711,
             "_watches": 216,
             "_topics": [
@@ -2000,11 +2023,42 @@
             "_homepage": "https://python-pillow.org",
             "_description": "The friendly PIL fork (Python Imaging Library)",
             "_organization": "python-pillow",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2012-07-24T00:00:00.000Z",
             "_age_weeks": 473,
-            "_stars_per_week": 18.7244189556
+            "_stars_per_week": 18.7265318442
+        },
+        {
+            "index": 220,
+            "category": "ml",
+            "githuburl": "https://github.com/spotify/annoy",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "spotify/annoy",
+            "_reponame": "annoy",
+            "_stars": 8858,
+            "_forks": 952,
+            "_watches": 324,
+            "_topics": [
+                "c-plus-plus",
+                "python",
+                "nearest-neighbor-search",
+                "locality-sensitive-hashing",
+                "approximate-nearest-neighbor-search",
+                "golang",
+                "lua"
+            ],
+            "_language": "C++",
+            "_homepage": null,
+            "_description": "Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk",
+            "_organization": "spotify",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_created_at": "2013-04-01T00:00:00.000Z",
+            "_age_weeks": 437,
+            "_stars_per_week": 20.250163292
         },
         {
             "index": 138,
@@ -2016,7 +2070,7 @@
             "_repopath": "huggingface/datasets",
             "_reponame": "datasets",
             "_stars": 8785,
-            "_forks": 1090,
+            "_forks": 1091,
             "_watches": 215,
             "_topics": [
                 "nlp",
@@ -2036,7 +2090,7 @@
             "_description": "\ud83e\udd17 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
             "_organization": "huggingface",
             "_updated_at": "2021-08-19T00:00:00.000Z",
-            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2020-03-26T00:00:00.000Z",
             "_age_weeks": 73,
             "_stars_per_week": 120.3424657534
@@ -2050,8 +2104,8 @@
             "description": null,
             "_repopath": "mwaskom/seaborn",
             "_reponame": "seaborn",
-            "_stars": 8677,
-            "_forks": 1469,
+            "_stars": 8678,
+            "_forks": 1468,
             "_watches": 241,
             "_topics": [
                 "python",
@@ -2068,7 +2122,7 @@
             "_last_commit_date": "2021-08-15T00:00:00.000Z",
             "_created_at": "2012-06-18T00:00:00.000Z",
             "_age_weeks": 478,
-            "_stars_per_week": 18.1364586444
+            "_stars_per_week": 18.1385488205
         },
         {
             "index": 11,
@@ -2079,8 +2133,8 @@
             "description": null,
             "_repopath": "dask/dask",
             "_reponame": "dask",
-            "_stars": 8668,
-            "_forks": 1322,
+            "_stars": 8669,
+            "_forks": 1323,
             "_watches": 232,
             "_topics": [
                 "dask",
@@ -2099,7 +2153,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2015-01-04T00:00:00.000Z",
             "_age_weeks": 345,
-            "_stars_per_week": 25.0830921869
+            "_stars_per_week": 25.0859859446
         },
         {
             "index": 79,
@@ -2112,7 +2166,7 @@
             "_reponame": "scipy",
             "_stars": 8481,
             "_forks": 3833,
-            "_watches": 330,
+            "_watches": 329,
             "_topics": [
                 "python",
                 "scipy",
@@ -2236,7 +2290,7 @@
             "_description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
             "_organization": "apache",
             "_updated_at": "2021-08-19T00:00:00.000Z",
-            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2016-02-17T00:00:00.000Z",
             "_age_weeks": 287,
             "_stars_per_week": 28.7800995025
@@ -2250,7 +2304,7 @@
             "description": null,
             "_repopath": "bulletphysics/bullet3",
             "_reponame": "bullet3",
-            "_stars": 8259,
+            "_stars": 8260,
             "_forks": 2237,
             "_watches": 412,
             "_topics": [
@@ -2272,7 +2326,7 @@
             "_last_commit_date": "2021-05-12T00:00:00.000Z",
             "_created_at": "2011-04-12T00:00:00.000Z",
             "_age_weeks": 540,
-            "_stars_per_week": 15.2863564252
+            "_stars_per_week": 15.2882072977
         },
         {
             "index": 22,
@@ -2345,7 +2399,7 @@
             "_repopath": "s0md3v/Photon",
             "_reponame": "Photon",
             "_stars": 8100,
-            "_forks": 1165,
+            "_forks": 1164,
             "_watches": 311,
             "_topics": [
                 "crawler",
@@ -2438,7 +2492,7 @@
             "_repopath": "pallets/jinja",
             "_reponame": "jinja",
             "_stars": 7916,
-            "_forks": 1419,
+            "_forks": 1418,
             "_watches": 252,
             "_topics": [
                 "python",
@@ -2753,7 +2807,7 @@
             "_repopath": "boto/boto3",
             "_reponame": "boto3",
             "_stars": 6612,
-            "_forks": 1420,
+            "_forks": 1421,
             "_watches": 238,
             "_topics": [
                 "python",
@@ -2781,7 +2835,7 @@
             "description": null,
             "_repopath": "tiangolo/full-stack-fastapi-postgresql",
             "_reponame": "full-stack-fastapi-postgresql",
-            "_stars": 6600,
+            "_stars": 6601,
             "_forks": 1090,
             "_watches": 143,
             "_topics": [
@@ -2814,7 +2868,7 @@
             "_last_commit_date": "2020-06-05T00:00:00.000Z",
             "_created_at": "2019-02-23T00:00:00.000Z",
             "_age_weeks": 129,
-            "_stars_per_week": 50.8810572687
+            "_stars_per_week": 50.8887665198
         },
         {
             "index": 84,
@@ -2825,7 +2879,7 @@
             "description": null,
             "_repopath": "statsmodels/statsmodels",
             "_reponame": "statsmodels",
-            "_stars": 6541,
+            "_stars": 6542,
             "_forks": 2297,
             "_watches": 264,
             "_topics": [
@@ -2845,7 +2899,7 @@
             "_last_commit_date": "2021-08-18T00:00:00.000Z",
             "_created_at": "2011-06-12T00:00:00.000Z",
             "_age_weeks": 531,
-            "_stars_per_week": 12.3050255308
+            "_stars_per_week": 12.3069067455
         },
         {
             "index": 95,
@@ -2879,6 +2933,32 @@
             "_created_at": "2014-09-27T00:00:00.000Z",
             "_age_weeks": 359,
             "_stars_per_week": 18.0726767276
+        },
+        {
+            "index": 228,
+            "category": "util",
+            "githuburl": "https://github.com/pyodide/pyodide",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pyodide/pyodide",
+            "_reponame": "pyodide",
+            "_stars": 6423,
+            "_forks": 409,
+            "_watches": 130,
+            "_topics": [
+                "python",
+                "webassembly"
+            ],
+            "_language": "Python",
+            "_homepage": "https://pyodide.org/en/stable/",
+            "_description": "Python with the scientific stack, compiled to WebAssembly.",
+            "_organization": "pyodide",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-14T00:00:00.000Z",
+            "_created_at": "2018-02-23T00:00:00.000Z",
+            "_age_weeks": 181,
+            "_stars_per_week": 35.3189316575
         },
         {
             "index": 28,
@@ -3071,8 +3151,8 @@
             "_homepage": "https://docs.pymc.io/",
             "_description": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara",
             "_organization": "pymc-devs",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
-            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2009-05-05T00:00:00.000Z",
             "_age_weeks": 641,
             "_stars_per_week": 9.2922699933
@@ -3086,7 +3166,7 @@
             "description": null,
             "_repopath": "tiangolo/typer",
             "_reponame": "typer",
-            "_stars": 5891,
+            "_stars": 5892,
             "_forks": 222,
             "_watches": 54,
             "_topics": [
@@ -3103,11 +3183,11 @@
             "_homepage": "https://typer.tiangolo.com/",
             "_description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
             "_organization": "tiangolo",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2020-08-16T00:00:00.000Z",
             "_created_at": "2019-12-24T00:00:00.000Z",
             "_age_weeks": 86,
-            "_stars_per_week": 68.2731788079
+            "_stars_per_week": 68.2847682119
         },
         {
             "index": 143,
@@ -3118,7 +3198,7 @@
             "description": null,
             "_repopath": "UKPLab/sentence-transformers",
             "_reponame": "sentence-transformers",
-            "_stars": 5836,
+            "_stars": 5838,
             "_forks": 1129,
             "_watches": 104,
             "_topics": [],
@@ -3130,7 +3210,7 @@
             "_last_commit_date": "2021-08-14T00:00:00.000Z",
             "_created_at": "2019-07-24T00:00:00.000Z",
             "_age_weeks": 108,
-            "_stars_per_week": 53.965653897
+            "_stars_per_week": 53.9841479524
         },
         {
             "index": 134,
@@ -3196,7 +3276,7 @@
             "description": null,
             "_repopath": "marshmallow-code/marshmallow",
             "_reponame": "marshmallow",
-            "_stars": 5679,
+            "_stars": 5680,
             "_forks": 577,
             "_watches": 81,
             "_topics": [
@@ -3218,7 +3298,7 @@
             "_last_commit_date": "2021-08-12T00:00:00.000Z",
             "_created_at": "2013-11-10T00:00:00.000Z",
             "_age_weeks": 405,
-            "_stars_per_week": 14.0024656569
+            "_stars_per_week": 14.0049313138
         },
         {
             "index": 132,
@@ -3373,6 +3453,38 @@
             "_stars_per_week": 12.4305555556
         },
         {
+            "index": 217,
+            "category": "util",
+            "githuburl": "https://github.com/gruns/icecream",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "gruns/icecream",
+            "_reponame": "icecream",
+            "_stars": 5269,
+            "_forks": 101,
+            "_watches": 50,
+            "_topics": [
+                "python",
+                "python3",
+                "library",
+                "inspects",
+                "debug",
+                "debugging",
+                "debugging-tool",
+                "print"
+            ],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "\ud83c\udf66 Never use print() to debug again.",
+            "_organization": "gruns",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-07-22T00:00:00.000Z",
+            "_created_at": "2018-02-13T00:00:00.000Z",
+            "_age_weeks": 183,
+            "_stars_per_week": 28.7474668745
+        },
+        {
             "index": 167,
             "category": "nlp",
             "githuburl": "https://github.com/doccano/doccano",
@@ -3381,7 +3493,7 @@
             "description": null,
             "_repopath": "doccano/doccano",
             "_reponame": "doccano",
-            "_stars": 5141,
+            "_stars": 5145,
             "_forks": 1106,
             "_watches": 115,
             "_topics": [
@@ -3406,7 +3518,7 @@
             "_last_commit_date": "2021-08-03T00:00:00.000Z",
             "_created_at": "2018-05-09T00:00:00.000Z",
             "_age_weeks": 171,
-            "_stars_per_week": 30.0392320534
+            "_stars_per_week": 30.0626043406
         },
         {
             "index": 173,
@@ -3417,7 +3529,7 @@
             "description": null,
             "_repopath": "facebookresearch/pytorch3d",
             "_reponame": "pytorch3d",
-            "_stars": 5097,
+            "_stars": 5098,
             "_forks": 651,
             "_watches": 136,
             "_topics": [],
@@ -3425,11 +3537,11 @@
             "_homepage": "https://pytorch3d.org/",
             "_description": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
             "_organization": "facebookresearch",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-17T00:00:00.000Z",
             "_created_at": "2019-10-25T00:00:00.000Z",
             "_age_weeks": 94,
-            "_stars_per_week": 53.7334337349
+            "_stars_per_week": 53.7439759036
         },
         {
             "index": 106,
@@ -3470,8 +3582,8 @@
             "description": null,
             "_repopath": "lmcinnes/umap",
             "_reponame": "umap",
-            "_stars": 4961,
-            "_forks": 556,
+            "_stars": 4962,
+            "_forks": 557,
             "_watches": 120,
             "_topics": [
                 "umap",
@@ -3488,7 +3600,7 @@
             "_last_commit_date": "2021-08-10T00:00:00.000Z",
             "_created_at": "2017-07-02T00:00:00.000Z",
             "_age_weeks": 215,
-            "_stars_per_week": 23.0132538105
+            "_stars_per_week": 23.0178926441
         },
         {
             "index": 96,
@@ -3528,7 +3640,7 @@
             "description": null,
             "_repopath": "great-expectations/great_expectations",
             "_reponame": "great_expectations",
-            "_stars": 4820,
+            "_stars": 4821,
             "_forks": 637,
             "_watches": 62,
             "_topics": [
@@ -3561,7 +3673,7 @@
             "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2017-09-11T00:00:00.000Z",
             "_age_weeks": 205,
-            "_stars_per_week": 23.4631432545
+            "_stars_per_week": 23.4680111266
         },
         {
             "index": 69,
@@ -3773,7 +3885,7 @@
             "description": null,
             "_repopath": "sphinx-doc/sphinx",
             "_reponame": "sphinx",
-            "_stars": 4077,
+            "_stars": 4078,
             "_forks": 1543,
             "_watches": 133,
             "_topics": [
@@ -3786,11 +3898,39 @@
             "_homepage": "https://www.sphinx-doc.org",
             "_description": "Main repository for the Sphinx documentation builder",
             "_organization": "sphinx-doc",
-            "_updated_at": "2021-08-17T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-16T00:00:00.000Z",
             "_created_at": "2015-01-02T00:00:00.000Z",
             "_age_weeks": 345,
-            "_stars_per_week": 11.7881040892
+            "_stars_per_week": 11.7909954564
+        },
+        {
+            "index": 231,
+            "category": "util",
+            "githuburl": "https://github.com/willmcgugan/textual",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "willmcgugan/textual",
+            "_reponame": "textual",
+            "_stars": 3967,
+            "_forks": 79,
+            "_watches": 94,
+            "_topics": [
+                "terminal",
+                "python",
+                "tui",
+                "rich"
+            ],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+            "_organization": "willmcgugan",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_created_at": "2021-04-08T00:00:00.000Z",
+            "_age_weeks": 19,
+            "_stars_per_week": 208.7894736842
         },
         {
             "index": 65,
@@ -3801,7 +3941,7 @@
             "description": null,
             "_repopath": "pycaret/pycaret",
             "_reponame": "pycaret",
-            "_stars": 3880,
+            "_stars": 3882,
             "_forks": 875,
             "_watches": 96,
             "_topics": [
@@ -3821,7 +3961,30 @@
             "_last_commit_date": "2021-08-16T00:00:00.000Z",
             "_created_at": "2019-11-23T00:00:00.000Z",
             "_age_weeks": 90,
-            "_stars_per_week": 42.7716535433
+            "_stars_per_week": 42.7937007874
+        },
+        {
+            "index": 215,
+            "category": "data",
+            "githuburl": "https://github.com/facebookresearch/AugLy",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "facebookresearch/AugLy",
+            "_reponame": "AugLy",
+            "_stars": 3755,
+            "_forks": 174,
+            "_watches": 55,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/",
+            "_description": "A data augmentations library for audio, image, text, and video.",
+            "_organization": "facebookresearch",
+            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-15T00:00:00.000Z",
+            "_created_at": "2021-06-09T00:00:00.000Z",
+            "_age_weeks": 10,
+            "_stars_per_week": 370.2112676056
         },
         {
             "index": 68,
@@ -3882,8 +4045,8 @@
             "_homepage": "https://dagster.io",
             "_description": "A data orchestrator for machine learning, analytics, and ETL.",
             "_organization": "dagster-io",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
-            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
             "_created_at": "2018-04-30T00:00:00.000Z",
             "_age_weeks": 172,
             "_stars_per_week": 21.2957746479
@@ -3928,7 +4091,7 @@
             "description": null,
             "_repopath": "rasbt/mlxtend",
             "_reponame": "mlxtend",
-            "_stars": 3600,
+            "_stars": 3601,
             "_forks": 726,
             "_watches": 126,
             "_topics": [
@@ -3948,7 +4111,7 @@
             "_last_commit_date": "2021-07-19T00:00:00.000Z",
             "_created_at": "2014-08-14T00:00:00.000Z",
             "_age_weeks": 366,
-            "_stars_per_week": 9.8360655738
+            "_stars_per_week": 9.8387978142
         },
         {
             "index": 3,
@@ -4004,7 +4167,7 @@
             "_repopath": "PyCQA/pylint",
             "_reponame": "pylint",
             "_stars": 3481,
-            "_forks": 750,
+            "_forks": 751,
             "_watches": 72,
             "_topics": [
                 "static-analysis",
@@ -4271,6 +4434,73 @@
             "_stars_per_week": 7.0048611111
         },
         {
+            "index": 225,
+            "category": "nlp",
+            "githuburl": "https://github.com/kingoflolz/mesh-transformer-jax",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "kingoflolz/mesh-transformer-jax",
+            "_reponame": "mesh-transformer-jax",
+            "_stars": 2863,
+            "_forks": 282,
+            "_watches": 62,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Model parallel transformers in JAX and Haiku",
+            "_organization": "kingoflolz",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_created_at": "2021-03-13T00:00:00.000Z",
+            "_age_weeks": 22,
+            "_stars_per_week": 126.0440251572
+        },
+        {
+            "index": 216,
+            "category": "nlp",
+            "githuburl": "https://github.com/speechbrain/speechbrain",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "speechbrain/speechbrain",
+            "_reponame": "speechbrain",
+            "_stars": 2825,
+            "_forks": 438,
+            "_watches": 110,
+            "_topics": [
+                "speech-recognition",
+                "speech-toolkit",
+                "speaker-recognition",
+                "speechbrain",
+                "speech-to-text",
+                "speech-enhancement",
+                "speech-separation",
+                "audio",
+                "audio-processing",
+                "speech-processing",
+                "speechrecognition",
+                "asr",
+                "voice-recognition",
+                "spoken-language-understanding",
+                "speaker-diarization",
+                "speaker-verification",
+                "pytorch",
+                "huggingface",
+                "transformers",
+                "language-model"
+            ],
+            "_language": "Python",
+            "_homepage": "http://speechbrain.github.io",
+            "_description": "A PyTorch-based Speech Toolkit",
+            "_organization": "speechbrain",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-16T00:00:00.000Z",
+            "_created_at": "2020-04-28T00:00:00.000Z",
+            "_age_weeks": 68,
+            "_stars_per_week": 41.370292887
+        },
+        {
             "index": 77,
             "category": "data",
             "githuburl": "https://github.com/quantopian/qgrid",
@@ -4294,6 +4524,29 @@
             "_stars_per_week": 7.6290258449
         },
         {
+            "index": 210,
+            "category": "crypto",
+            "githuburl": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+            "_reponame": "Binance-volatility-trading-bot",
+            "_stars": 2741,
+            "_forks": 520,
+            "_watches": 119,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+            "_organization": "CyberPunkMetalHead",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-06-10T00:00:00.000Z",
+            "_created_at": "2021-05-08T00:00:00.000Z",
+            "_age_weeks": 14,
+            "_stars_per_week": 186.2815533981
+        },
+        {
             "index": 198,
             "category": "viz",
             "githuburl": "https://github.com/lux-org/lux",
@@ -4302,7 +4555,7 @@
             "description": null,
             "_repopath": "lux-org/lux",
             "_reponame": "lux",
-            "_stars": 2730,
+            "_stars": 2731,
             "_forks": 219,
             "_watches": 72,
             "_topics": [
@@ -4322,7 +4575,7 @@
             "_last_commit_date": "2021-08-01T00:00:00.000Z",
             "_created_at": "2020-01-08T00:00:00.000Z",
             "_age_weeks": 84,
-            "_stars_per_week": 32.4448217317
+            "_stars_per_week": 32.4567062818
         },
         {
             "index": 140,
@@ -4361,7 +4614,7 @@
             "description": null,
             "_repopath": "jmcnamara/XlsxWriter",
             "_reponame": "XlsxWriter",
-            "_stars": 2639,
+            "_stars": 2640,
             "_forks": 540,
             "_watches": 122,
             "_topics": [
@@ -4382,7 +4635,7 @@
             "_last_commit_date": "2021-08-12T00:00:00.000Z",
             "_created_at": "2013-01-04T00:00:00.000Z",
             "_age_weeks": 449,
-            "_stars_per_week": 5.8663067641
+            "_stars_per_week": 5.868529692
         },
         {
             "index": 139,
@@ -4551,7 +4804,7 @@
             "description": null,
             "_repopath": "huggingface/neuralcoref",
             "_reponame": "neuralcoref",
-            "_stars": 2361,
+            "_stars": 2362,
             "_forks": 416,
             "_watches": 82,
             "_topics": [
@@ -4570,11 +4823,11 @@
             "_homepage": "https://huggingface.co/coref/",
             "_description": "\u2728Fast Coreference Resolution in spaCy with Neural Networks",
             "_organization": "huggingface",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-06-22T00:00:00.000Z",
             "_created_at": "2017-07-03T00:00:00.000Z",
             "_age_weeks": 215,
-            "_stars_per_week": 10.9595490716
+            "_stars_per_week": 10.9641909814
         },
         {
             "index": 184,
@@ -4991,7 +5244,7 @@
             "description": null,
             "_repopath": "life4/textdistance",
             "_reponame": "textdistance",
-            "_stars": 2022,
+            "_stars": 2024,
             "_forks": 170,
             "_watches": 52,
             "_topics": [
@@ -5013,11 +5266,11 @@
             "_homepage": "",
             "_description": "Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.",
             "_organization": "life4",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-07-29T00:00:00.000Z",
             "_created_at": "2017-05-05T00:00:00.000Z",
             "_age_weeks": 223,
-            "_stars_per_week": 9.0325462668
+            "_stars_per_week": 9.0414805361
         },
         {
             "index": 130,
@@ -5055,7 +5308,7 @@
             "description": null,
             "_repopath": "liiight/notifiers",
             "_reponame": "notifiers",
-            "_stars": 1950,
+            "_stars": 1951,
             "_forks": 76,
             "_watches": 37,
             "_topics": [
@@ -5069,11 +5322,72 @@
             "_homepage": "http://notifiers.readthedocs.io/",
             "_description": "The easy way to send notifications",
             "_organization": "liiight",
-            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-07-19T00:00:00.000Z",
             "_created_at": "2017-06-01T00:00:00.000Z",
             "_age_weeks": 220,
-            "_stars_per_week": 8.8636363636
+            "_stars_per_week": 8.8681818182
+        },
+        {
+            "index": 230,
+            "category": "ml",
+            "githuburl": "https://github.com/online-ml/river",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "online-ml/river",
+            "_reponame": "river",
+            "_stars": 1855,
+            "_forks": 234,
+            "_watches": 65,
+            "_topics": [
+                "incremental-learning",
+                "machine-learning",
+                "python",
+                "online-learning",
+                "online-statistics",
+                "data-science",
+                "streaming",
+                "online-machine-learning",
+                "streaming-data",
+                "concept-drift"
+            ],
+            "_language": "Python",
+            "_homepage": "https://riverml.xyz",
+            "_description": "\ud83c\udf0a Online machine learning in Python",
+            "_organization": "online-ml",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_created_at": "2019-01-24T00:00:00.000Z",
+            "_age_weeks": 134,
+            "_stars_per_week": 13.8432835821
+        },
+        {
+            "index": 224,
+            "category": "data",
+            "githuburl": "https://github.com/pynamodb/PynamoDB",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "pynamodb/PynamoDB",
+            "_reponame": "PynamoDB",
+            "_stars": 1698,
+            "_forks": 369,
+            "_watches": 41,
+            "_topics": [
+                "python",
+                "dynamodb",
+                "aws"
+            ],
+            "_language": "Python",
+            "_homepage": "http://pynamodb.readthedocs.io",
+            "_description": "A pythonic interface to Amazon's DynamoDB",
+            "_organization": "pynamodb",
+            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-09T00:00:00.000Z",
+            "_created_at": "2014-01-20T00:00:00.000Z",
+            "_age_weeks": 395,
+            "_stars_per_week": 4.2940751445
         },
         {
             "index": 202,
@@ -5200,8 +5514,8 @@
             "description": null,
             "_repopath": "nmslib/hnswlib",
             "_reponame": "hnswlib",
-            "_stars": 1654,
-            "_forks": 300,
+            "_stars": 1655,
+            "_forks": 301,
             "_watches": 55,
             "_topics": [],
             "_language": "C++",
@@ -5212,7 +5526,32 @@
             "_last_commit_date": "2021-06-30T00:00:00.000Z",
             "_created_at": "2017-07-06T00:00:00.000Z",
             "_age_weeks": 215,
-            "_stars_per_week": 7.6930232558
+            "_stars_per_week": 7.6976744186
+        },
+        {
+            "index": 211,
+            "category": "web",
+            "githuburl": "https://github.com/pywebio/PyWebIO",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pywebio/PyWebIO",
+            "_reponame": "PyWebIO",
+            "_stars": 1642,
+            "_forks": 106,
+            "_watches": 28,
+            "_topics": [
+                "pywebio"
+            ],
+            "_language": "Python",
+            "_homepage": "https://pywebio.readthedocs.io",
+            "_description": "Write interactive web app in script way.",
+            "_organization": "pywebio",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-08T00:00:00.000Z",
+            "_created_at": "2020-02-29T00:00:00.000Z",
+            "_age_weeks": 76,
+            "_stars_per_week": 21.4040968343
         },
         {
             "index": 115,
@@ -5236,6 +5575,37 @@
             "_created_at": "2012-09-21T00:00:00.000Z",
             "_age_weeks": 464,
             "_stars_per_week": 3.3644744929
+        },
+        {
+            "index": 223,
+            "category": "util",
+            "githuburl": "https://github.com/jupyterlite/jupyterlite",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "jupyterlite/jupyterlite",
+            "_reponame": "jupyterlite",
+            "_stars": 1550,
+            "_forks": 61,
+            "_watches": 27,
+            "_topics": [
+                "jupyter",
+                "jupyterlab",
+                "jupyterlab-extension",
+                "lite",
+                "webassembly",
+                "wasm",
+                "pyodide"
+            ],
+            "_language": "Python",
+            "_homepage": "https://jupyterlite.rtfd.io/en/latest/try/lab",
+            "_description": "Wasm powered Jupyter running in the browser \ud83d\udca1",
+            "_organization": "jupyterlite",
+            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-16T00:00:00.000Z",
+            "_created_at": "2021-03-27T00:00:00.000Z",
+            "_age_weeks": 20,
+            "_stars_per_week": 74.8275862069
         },
         {
             "index": 32,
@@ -5350,7 +5720,7 @@
             "description": null,
             "_repopath": "ourownstory/neural_prophet",
             "_reponame": "neural_prophet",
-            "_stars": 1363,
+            "_stars": 1364,
             "_forks": 173,
             "_watches": 43,
             "_topics": [
@@ -5377,11 +5747,11 @@
             "_homepage": "https://ourownstory.github.io/neural_prophet/",
             "_description": "NeuralProphet - A simple forecasting model based on Neural Networks in PyTorch",
             "_organization": "ourownstory",
-            "_updated_at": "2021-08-17T00:00:00.000Z",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
             "_last_commit_date": "2021-08-09T00:00:00.000Z",
             "_created_at": "2020-05-04T00:00:00.000Z",
             "_age_weeks": 67,
-            "_stars_per_week": 20.2139830508
+            "_stars_per_week": 20.2288135593
         },
         {
             "index": 25,
@@ -5499,6 +5869,29 @@
             "_created_at": "2020-04-29T00:00:00.000Z",
             "_age_weeks": 68,
             "_stars_per_week": 18.8867924528
+        },
+        {
+            "index": 219,
+            "category": "ml",
+            "githuburl": "https://github.com/linkedin/greykite",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "linkedin/greykite",
+            "_reponame": "greykite",
+            "_stars": 1262,
+            "_forks": 54,
+            "_watches": 36,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "A flexible, intuitive and fast forecasting library",
+            "_organization": "linkedin",
+            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-08-14T00:00:00.000Z",
+            "_created_at": "2021-04-27T00:00:00.000Z",
+            "_age_weeks": 16,
+            "_stars_per_week": 77.4912280702
         },
         {
             "index": 137,
@@ -5783,6 +6176,34 @@
             "_stars_per_week": 4.0778658976
         },
         {
+            "index": 226,
+            "category": "sim",
+            "githuburl": "https://github.com/google/brax",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "google/brax",
+            "_reponame": "brax",
+            "_stars": 797,
+            "_forks": 54,
+            "_watches": 18,
+            "_topics": [
+                "jax",
+                "reinforcement-learning",
+                "robotics",
+                "physics-simulation"
+            ],
+            "_language": "Jupyter Notebook",
+            "_homepage": "",
+            "_description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
+            "_organization": "google",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_created_at": "2021-06-02T00:00:00.000Z",
+            "_age_weeks": 11,
+            "_stars_per_week": 71.5256410256
+        },
+        {
             "index": 193,
             "category": "ml",
             "githuburl": "https://github.com/awslabs/dgl-ke",
@@ -5833,6 +6254,29 @@
             "_created_at": "2020-01-20T00:00:00.000Z",
             "_age_weeks": 82,
             "_stars_per_week": 8.9046793761
+        },
+        {
+            "index": 229,
+            "category": "sim",
+            "githuburl": "https://github.com/facebookresearch/droidlet",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "facebookresearch/droidlet",
+            "_reponame": "droidlet",
+            "_stars": 642,
+            "_forks": 46,
+            "_watches": 32,
+            "_topics": [],
+            "_language": "Jupyter Notebook",
+            "_homepage": "",
+            "_description": "A modular embodied agent architecture and platform for building embodied agents",
+            "_organization": "facebookresearch",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-19T00:00:00.000Z",
+            "_created_at": "2020-11-02T00:00:00.000Z",
+            "_age_weeks": 41,
+            "_stars_per_week": 15.4965517241
         },
         {
             "index": 196,
@@ -5977,7 +6421,7 @@
             "description": null,
             "_repopath": "fredrik-johansson/mpmath",
             "_reponame": "mpmath",
-            "_stars": 558,
+            "_stars": 559,
             "_forks": 128,
             "_watches": 31,
             "_topics": [
@@ -6001,7 +6445,7 @@
             "_last_commit_date": "2021-03-27T00:00:00.000Z",
             "_created_at": "2011-12-07T00:00:00.000Z",
             "_age_weeks": 506,
-            "_stars_per_week": 1.1024555461
+            "_stars_per_week": 1.1044312729
         },
         {
             "index": 166,
@@ -6037,6 +6481,84 @@
             "_created_at": "2019-01-31T00:00:00.000Z",
             "_age_weeks": 133,
             "_stars_per_week": 4.1654135338
+        },
+        {
+            "index": 227,
+            "category": "ml",
+            "githuburl": "https://github.com/sberbank-ai-lab/LightAutoML",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "sberbank-ai-lab/LightAutoML",
+            "_reponame": "LightAutoML",
+            "_stars": 508,
+            "_forks": 50,
+            "_watches": 31,
+            "_topics": [
+                "automl",
+                "classification",
+                "regression",
+                "multiclass",
+                "pytorch",
+                "nlp",
+                "model-selection",
+                "parameter-tuning",
+                "automated-machine-learning",
+                "lama",
+                "pipeline",
+                "data-science",
+                "feature-engineering",
+                "ensembling",
+                "stacking",
+                "kaggle",
+                "gradient-boosting",
+                "linear-model",
+                "blackbox",
+                "whitebox"
+            ],
+            "_language": "Jupyter Notebook",
+            "_homepage": "",
+            "_description": "LAMA - automatic model creation framework",
+            "_organization": "sberbank-ai-lab",
+            "_updated_at": "2021-08-18T00:00:00.000Z",
+            "_last_commit_date": "2021-07-16T00:00:00.000Z",
+            "_created_at": "2020-02-13T00:00:00.000Z",
+            "_age_weeks": 79,
+            "_stars_per_week": 6.4303797468
+        },
+        {
+            "index": 221,
+            "category": "util",
+            "githuburl": "https://github.com/TezRomacH/python-package-template",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "TezRomacH/python-package-template",
+            "_reponame": "python-package-template",
+            "_stars": 507,
+            "_forks": 34,
+            "_watches": 4,
+            "_topics": [
+                "python",
+                "cookiecutter",
+                "best-practices",
+                "semantic-versions",
+                "python-packages",
+                "codestyle",
+                "formatters",
+                "makefile",
+                "poetry",
+                "template"
+            ],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "\ud83d\ude80 Your next Python package needs a bleeding-edge project structure.",
+            "_organization": "TezRomacH",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-12T00:00:00.000Z",
+            "_created_at": "2020-04-15T00:00:00.000Z",
+            "_age_weeks": 70,
+            "_stars_per_week": 7.2281059063
         },
         {
             "index": 117,
@@ -6137,6 +6659,66 @@
             "_created_at": "2020-06-23T00:00:00.000Z",
             "_age_weeks": 60,
             "_stars_per_week": 6.9004739336
+        },
+        {
+            "index": 214,
+            "category": "data",
+            "githuburl": "https://github.com/sfu-db/connector-x",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "sfu-db/connector-x",
+            "_reponame": "connector-x",
+            "_stars": 375,
+            "_forks": 16,
+            "_watches": 17,
+            "_topics": [
+                "rust",
+                "python",
+                "database",
+                "sql",
+                "dataframe"
+            ],
+            "_language": "Rust",
+            "_homepage": "",
+            "_description": "Fastest library to load data from DB to DataFrames in Rust and Python",
+            "_organization": "sfu-db",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_created_at": "2021-01-13T00:00:00.000Z",
+            "_age_weeks": 31,
+            "_stars_per_week": 12.0412844037
+        },
+        {
+            "index": 213,
+            "category": "ml",
+            "githuburl": "https://github.com/firmai/atspy",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "firmai/atspy",
+            "_reponame": "atspy",
+            "_stars": 370,
+            "_forks": 75,
+            "_watches": 19,
+            "_topics": [
+                "time-series",
+                "time-series-analysis",
+                "automated",
+                "python",
+                "forecasting",
+                "forecasting-models",
+                "finance"
+            ],
+            "_language": "Python",
+            "_homepage": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631",
+            "_description": "AtsPy: Automated Time Series Models in Python (by @firmai)",
+            "_organization": "firmai",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2020-11-12T00:00:00.000Z",
+            "_created_at": "2020-01-28T00:00:00.000Z",
+            "_age_weeks": 81,
+            "_stars_per_week": 4.5518453427
         },
         {
             "index": 162,
@@ -6301,6 +6883,40 @@
             "_stars_per_week": 0.537067012
         },
         {
+            "index": 218,
+            "category": "pipeline",
+            "githuburl": "https://github.com/nccr-itmo/FEDOT",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "nccr-itmo/FEDOT",
+            "_reponame": "FEDOT",
+            "_stars": 207,
+            "_forks": 26,
+            "_watches": 7,
+            "_topics": [
+                "automl",
+                "machine-learning",
+                "evolutionary-algorithms",
+                "genetic-programming",
+                "structural-learning",
+                "automated-machine-learning",
+                "hyperparameter-optimization",
+                "parameter-tuning",
+                "automation",
+                "multimodality"
+            ],
+            "_language": "Python",
+            "_homepage": "https://fedot.readthedocs.io",
+            "_description": "Automated modeling and machine learning framework FEDOT",
+            "_organization": "nccr-itmo",
+            "_updated_at": "2021-08-17T00:00:00.000Z",
+            "_last_commit_date": "2021-08-17T00:00:00.000Z",
+            "_created_at": "2020-01-13T00:00:00.000Z",
+            "_age_weeks": 83,
+            "_stars_per_week": 2.4811643836
+        },
+        {
             "index": 187,
             "category": "math",
             "githuburl": "https://github.com/WillianFuks/tfcausalimpact",
@@ -6364,6 +6980,40 @@
             "_stars_per_week": 0.7889250814
         },
         {
+            "index": 232,
+            "category": "data",
+            "githuburl": "https://github.com/microsoft/genalog",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "microsoft/genalog",
+            "_reponame": "genalog",
+            "_stars": 150,
+            "_forks": 16,
+            "_watches": 9,
+            "_topics": [
+                "ner",
+                "ocr-recognition",
+                "python",
+                "text-alignment",
+                "data-generation",
+                "data-science",
+                "machine-learning",
+                "synthetic-data",
+                "synthetic-images",
+                "synthetic-data-generation"
+            ],
+            "_language": "Jupyter Notebook",
+            "_homepage": "https://microsoft.github.io/genalog/",
+            "_description": "Genalog is an open source, cross-platform python package allowing generation of synthetic document images with custom degradations and text alignment capabilities.",
+            "_organization": "microsoft",
+            "_updated_at": "2021-08-19T00:00:00.000Z",
+            "_last_commit_date": "2021-08-18T00:00:00.000Z",
+            "_created_at": "2020-06-15T00:00:00.000Z",
+            "_age_weeks": 61,
+            "_stars_per_week": 2.4418604651
+        },
+        {
             "index": 33,
             "category": "data",
             "githuburl": "https://github.com/jasonrig/address-net",
@@ -6390,6 +7040,36 @@
             "_created_at": "2018-12-05T00:00:00.000Z",
             "_age_weeks": 141,
             "_stars_per_week": 0.8856275304
+        },
+        {
+            "index": 212,
+            "category": "util",
+            "githuburl": "https://github.com/tiangolo/poetry-version-plugin",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "tiangolo/poetry-version-plugin",
+            "_reponame": "poetry-version-plugin",
+            "_stars": 124,
+            "_forks": 9,
+            "_watches": 2,
+            "_topics": [
+                "python-poetry",
+                "packaging",
+                "python",
+                "python3",
+                "pypi",
+                "packaging-for-pypi"
+            ],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.",
+            "_organization": "tiangolo",
+            "_updated_at": "2021-08-08T00:00:00.000Z",
+            "_last_commit_date": "2021-05-28T00:00:00.000Z",
+            "_created_at": "2021-05-27T00:00:00.000Z",
+            "_age_weeks": 12,
+            "_stars_per_week": 10.3333333333
         },
         {
             "index": 148,
@@ -6443,6 +7123,29 @@
             "_stars_per_week": 0.5132681564
         },
         {
+            "index": 209,
+            "category": "util",
+            "githuburl": "https://github.com/aws/aws-lambda-python-runtime-interface-client",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "aws/aws-lambda-python-runtime-interface-client",
+            "_reponame": "aws-lambda-python-runtime-interface-client",
+            "_stars": 103,
+            "_forks": 20,
+            "_watches": 8,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": null,
+            "_organization": "aws",
+            "_updated_at": "2021-08-16T00:00:00.000Z",
+            "_last_commit_date": "2021-07-22T00:00:00.000Z",
+            "_created_at": "2020-09-02T00:00:00.000Z",
+            "_age_weeks": 50,
+            "_stars_per_week": 2.0541310541
+        },
+        {
             "index": 37,
             "category": "math",
             "githuburl": "https://github.com/jszymon/pacal",
@@ -6466,29 +7169,6 @@
             "_stars_per_week": 0.0517107309
         },
         {
-            "index": 182,
-            "category": "sim",
-            "githuburl": "https://github.com/artemyk/dynpy",
-            "featured": null,
-            "links": null,
-            "description": null,
-            "_repopath": "artemyk/dynpy",
-            "_reponame": "dynpy",
-            "_stars": 4,
-            "_forks": 6,
-            "_watches": 3,
-            "_topics": [],
-            "_language": "Python",
-            "_homepage": null,
-            "_description": "Dynamical systems for Python",
-            "_organization": "artemyk",
-            "_updated_at": "2021-07-03T00:00:00.000Z",
-            "_last_commit_date": "2018-09-28T00:00:00.000Z",
-            "_created_at": "2014-09-12T00:00:00.000Z",
-            "_age_weeks": 361,
-            "_stars_per_week": 0.0110540861
-        },
-        {
             "index": 204,
             "category": "crypto",
             "githuburl": "https://github.com/Nerolation/ethereum-datafarm",
@@ -6510,6 +7190,29 @@
             "_created_at": "2021-03-13T00:00:00.000Z",
             "_age_weeks": 22,
             "_stars_per_week": 0.1761006289
+        },
+        {
+            "index": 182,
+            "category": "sim",
+            "githuburl": "https://github.com/artemyk/dynpy",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "artemyk/dynpy",
+            "_reponame": "dynpy",
+            "_stars": 4,
+            "_forks": 6,
+            "_watches": 3,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "Dynamical systems for Python",
+            "_organization": "artemyk",
+            "_updated_at": "2021-07-03T00:00:00.000Z",
+            "_last_commit_date": "2018-09-28T00:00:00.000Z",
+            "_created_at": "2014-09-12T00:00:00.000Z",
+            "_age_weeks": 361,
+            "_stars_per_week": 0.0110540861
         },
         {
             "index": 126,

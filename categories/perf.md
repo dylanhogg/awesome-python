@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://docs.celeryproject.org/en/stable/index.html](https://docs.celeryproject.org/en/stable/index.html)  
 Distributed Task Queue (development branch)  
 27 stars per week over 642 weeks  
-17772 stars, 4074 forks, 488 watches  
+17773 stars, 4074 forks, 488 watches  
 created 2009-04-24, last commit 2021-08-18, main language Python  
 <sub><sup>amqp, python, python-library, python3, queue-tasks, queue-workers, queued-jobs, redis, sqs, sqs-queue, task-manager, task-runner, task-scheduler</sup></sub>
 
@@ -18,7 +18,7 @@ created 2009-04-24, last commit 2021-08-18, main language Python
 [https://dask.org](https://dask.org)  
 Parallel computing with task scheduling  
 25 stars per week over 345 weeks  
-8668 stars, 1322 forks, 232 watches  
+8669 stars, 1323 forks, 232 watches  
 created 2015-01-04, last commit 2021-08-19, main language Python  
 <sub><sup>dask, numpy, pandas, pydata, python, scikit-learn, scipy</sup></sub>
 

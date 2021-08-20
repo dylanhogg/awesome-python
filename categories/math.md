@@ -27,7 +27,7 @@ created 2010-04-30, last commit 2021-08-18, main language Python
 [http://mpmath.org](http://mpmath.org)  
 Python library for arbitrary-precision floating-point arithmetic  
 1.1 stars per week over 506 weeks  
-558 stars, 128 forks, 31 watches  
+559 stars, 128 forks, 31 watches  
 created 2011-12-07, last commit 2021-03-27, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 

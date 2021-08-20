@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 33 nlp Python libraries and frameworks ordered by stars.  
+A selection of 35 nlp Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.  
 342 stars per week over 146 weeks  
-50107 stars, 11885 forks, 768 watches  
+50113 stars, 11885 forks, 768 watches  
 created 2018-10-29, last commit 2021-08-18, main language Python  
 <sub><sup>bert, flax, gpt, jax, language-model, language-models, model-hub, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, nlp-library, pretrained-models, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer, xlnet</sup></sub>
 
@@ -18,7 +18,7 @@ created 2018-10-29, last commit 2021-08-18, main language Python
 [https://spacy.io](https://spacy.io)  
 💫 Industrial-strength Natural Language Processing (NLP) in Python  
 56 stars per week over 372 weeks  
-21120 stars, 3551 forks, 583 watches  
+21122 stars, 3551 forks, 582 watches  
 created 2014-07-03, last commit 2021-08-18, main language Python  
 <sub><sup>ai, artificial-intelligence, cython, data-science, deep-learning, entity-linking, machine-learning, named-entity-recognition, natural-language-processing, neural-network, neural-networks, nlp, nlp-library, python, spacy, text-classification, tokenization</sup></sub>
 
@@ -36,7 +36,7 @@ created 2019-02-11, last commit 2020-12-02, main language Python
 [https://radimrehurek.com/gensim](https://radimrehurek.com/gensim)  
 Topic Modelling for Humans  
 22 stars per week over 549 weeks  
-12353 stars, 4050 forks, 433 watches  
+12354 stars, 4050 forks, 433 watches  
 created 2011-02-10, last commit 2021-08-18, main language Python  
 <sub><sup>data-mining, data-science, document-similarity, fasttext, gensim, information-retrieval, machine-learning, natural-language-processing, neural-network, nlp, python, topic-modeling, word-embeddings, word-similarity, word2vec</sup></sub>
 
@@ -63,7 +63,7 @@ created 2017-05-15, last commit 2021-08-18, main language Python
 [http://nltk.org/](http://nltk.org/)  
 NLTK Source  
 16 stars per week over 623 weeks  
-10054 stars, 2491 forks, 484 watches  
+10055 stars, 2491 forks, 484 watches  
 created 2009-09-07, last commit 2021-08-18, main language Python  
 <sub><sup>machine-learning, natural-language-processing, nlp, nltk, python</sup></sub>
 
@@ -72,8 +72,8 @@ created 2009-09-07, last commit 2021-08-18, main language Python
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools  
 120 stars per week over 73 weeks  
-8785 stars, 1090 forks, 215 watches  
-created 2020-03-26, last commit 2021-08-18, main language Python  
+8785 stars, 1091 forks, 215 watches  
+created 2020-03-26, last commit 2021-08-19, main language Python  
 <sub><sup>computer-vision, datasets, evaluation, machine-learning, metrics, natural-language-processing, nlp, numpy, pandas, pytorch, tensorflow</sup></sub>
 
 
@@ -107,7 +107,7 @@ created 2013-06-30, last commit 2021-05-10, main language Python
 [https://www.SBERT.net](https://www.SBERT.net)  
 Multilingual Sentence & Image Embeddings with BERT  
 53 stars per week over 108 weeks  
-5836 stars, 1129 forks, 104 watches  
+5838 stars, 1129 forks, 104 watches  
 created 2019-07-24, last commit 2021-08-14, main language Python  
 
 
@@ -124,7 +124,7 @@ created 2020-07-05, last commit 2021-08-14, main language Python
 [https://doccano.herokuapp.com](https://doccano.herokuapp.com)  
 Open source annotation tool for machine learning practitioners.  
 30 stars per week over 171 weeks  
-5141 stars, 1106 forks, 115 watches  
+5145 stars, 1106 forks, 115 watches  
 created 2018-05-09, last commit 2021-08-03, main language Python  
 <sub><sup>annotation-tool, data-labeling, dataset, datasets, machine-learning, natural-language-processing, nuxt, nuxtjs, python, text-annotation, vue, vuejs</sup></sub>
 
@@ -146,6 +146,23 @@ Reading Wikipedia to Answer Open-Domain Questions
 created 2017-07-07, last commit 2021-05-18, main language Python  
 
 
+### [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) by [kingoflolz](https://github.com/kingoflolz)  
+[https://github.com/kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)  
+Model parallel transformers in JAX and Haiku  
+126 stars per week over 22 weeks  
+2863 stars, 282 forks, 62 watches  
+created 2021-03-13, last commit 2021-08-18, main language Python  
+
+
+### [speechbrain](https://github.com/speechbrain/speechbrain)  
+[http://speechbrain.github.io](http://speechbrain.github.io)  
+A PyTorch-based Speech Toolkit  
+41 stars per week over 68 weeks  
+2825 stars, 438 forks, 110 watches  
+created 2020-04-28, last commit 2021-08-16, main language Python  
+<sub><sup>asr, audio, audio-processing, huggingface, language-model, pytorch, speaker-diarization, speaker-recognition, speaker-verification, speech-enhancement, speech-processing, speech-recognition, speech-separation, speech-to-text, speech-toolkit, speechbrain, speechrecognition, spoken-language-understanding, transformers, voice-recognition</sup></sub>
+
+
 ### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  
 [https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
 The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.  
@@ -159,7 +176,7 @@ created 2020-07-28, last commit 2021-04-05, main language TypeScript
 [https://huggingface.co/coref/](https://huggingface.co/coref/)  
 ✨Fast Coreference Resolution in spaCy with Neural Networks  
 10 stars per week over 215 weeks  
-2361 stars, 416 forks, 82 watches  
+2362 stars, 416 forks, 82 watches  
 created 2017-07-03, last commit 2021-06-22, main language C  
 <sub><sup>coreference, coreference-resolution, machine-learning, neural-networks, nlp, python, pytorch, spacy, spacy-extension, spacy-pipeline</sup></sub>
 
@@ -176,8 +193,8 @@ created 2020-04-06, last commit 2021-07-19, main language Python
 ### [textdistance](https://github.com/life4/textdistance) by [life4](https://github.com/life4)  
 [https://github.com/life4/textdistance](https://github.com/life4/textdistance)  
 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.  
-9.03 stars per week over 223 weeks  
-2022 stars, 170 forks, 52 watches  
+9.04 stars per week over 223 weeks  
+2024 stars, 170 forks, 52 watches  
 created 2017-05-05, last commit 2021-07-29, main language Python  
 <sub><sup>algorithm, algorithms, damerau-levenshtein, damerau-levenshtein-distance, diff, distance, distance-calculation, hamming-distance, jellyfish, levenshtein, levenshtein-distance, python, textdistance</sup></sub>
 
