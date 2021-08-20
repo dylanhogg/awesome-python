@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 [https://streamlit.io](https://streamlit.io)  
 Streamlit — The fastest way to build data apps in Python  
 150 stars per week over 103 weeks  
-15612 stars, 1368 forks, 259 watches  
-created 2019-08-24, last commit 2021-08-17, main language TypeScript  
+15618 stars, 1369 forks, 258 watches  
+created 2019-08-24, last commit 2021-08-19, main language TypeScript  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
 
@@ -18,7 +18,7 @@ created 2019-08-24, last commit 2021-08-17, main language TypeScript
 [https://bokeh.org](https://bokeh.org)  
 Interactive Data Visualization in the browser, from  Python  
 31 stars per week over 490 weeks  
-15396 stars, 3770 forks, 468 watches  
+15400 stars, 3771 forks, 468 watches  
 created 2012-03-26, last commit 2021-08-19, main language Python  
 <sub><sup>bokeh, data-visualisation, interactive-plots, javascript, jupyter, notebooks, numfocus, plots, plotting, python, visualisation, visualization</sup></sub>
 
@@ -26,8 +26,8 @@ created 2012-03-26, last commit 2021-08-19, main language Python
 ### [dash](https://github.com/plotly/dash) by [plotly](https://github.com/plotly)  
 [https://plotly.com/dash](https://plotly.com/dash)  
 Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.  
-45 stars per week over 331 weeks  
-14985 stars, 1535 forks, 398 watches  
+45 stars per week over 332 weeks  
+14988 stars, 1533 forks, 398 watches  
 created 2015-04-10, last commit 2021-08-18, main language Python  
 <sub><sup>bioinformatics, charting, dash, data-science, data-visualization, finance, flask, gui-framework, julia, jupyter, modeling, plotly, plotly-dash, productivity, python, r, react, rstats, technical-computing, web-app</sup></sub>
 
@@ -36,7 +36,7 @@ created 2015-04-10, last commit 2021-08-18, main language Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 matplotlib: plotting with Python  
 25 stars per week over 547 weeks  
-14075 stars, 5969 forks, 585 watches  
+14080 stars, 5973 forks, 584 watches  
 created 2011-02-19, last commit 2021-08-19, main language Python  
 <sub><sup>data-science, data-visualization, gtk, matplotlib, plotting, python, qt, tk, wx</sup></sub>
 
@@ -45,7 +45,7 @@ created 2011-02-19, last commit 2021-08-19, main language Python
 [https://plotly.com/python/](https://plotly.com/python/)  
 The interactive graphing library for Python (includes Plotly Express) :sparkles:  
 24 stars per week over 404 weeks  
-10019 stars, 1869 forks, 270 watches  
+10022 stars, 1869 forks, 270 watches  
 created 2013-11-21, last commit 2021-08-14, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -54,7 +54,7 @@ created 2013-11-21, last commit 2021-08-14, main language Python
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 Statistical data visualization in Python  
 18 stars per week over 478 weeks  
-8678 stars, 1468 forks, 241 watches  
+8677 stars, 1467 forks, 241 watches  
 created 2012-06-18, last commit 2021-08-15, main language Python  
 <sub><sup>data-science, data-visualization, matplotlib, pandas, python</sup></sub>
 
@@ -63,7 +63,7 @@ created 2012-06-18, last commit 2021-08-15, main language Python
 [https://altair-viz.github.io/](https://altair-viz.github.io/)  
 Declarative statistical visualization library for Python  
 22 stars per week over 308 weeks  
-6859 stars, 616 forks, 152 watches  
+6860 stars, 616 forks, 152 watches  
 created 2015-09-19, last commit 2021-08-18, main language Python  
 
 
@@ -79,7 +79,7 @@ created 2013-05-09, last commit 2021-06-19, main language Python
 [https://github.com/voila-dashboards/voila](https://github.com/voila-dashboards/voila)  
 Voilà turns Jupyter notebooks into standalone web applications  
 21 stars per week over 156 weeks  
-3436 stars, 338 forks, 78 watches  
+3439 stars, 338 forks, 78 watches  
 created 2018-08-21, last commit 2021-07-01, main language Python  
 
 
@@ -87,7 +87,7 @@ created 2018-08-21, last commit 2021-07-01, main language Python
 [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
 Python API for Intelligent Visual Data Discovery  
 32 stars per week over 84 weeks  
-2731 stars, 219 forks, 72 watches  
+2733 stars, 219 forks, 72 watches  
 created 2020-01-08, last commit 2021-08-01, main language Python  
 <sub><sup>data-science, exploratory-data-analysis, jupyter, pandas, python, visualization, visualization-tools</sup></sub>
 
@@ -131,7 +131,7 @@ created 2019-06-12, last commit 2021-08-14, main language Python
 ### [hiplot](https://github.com/facebookresearch/hiplot) by [facebookresearch](https://github.com/facebookresearch)  
 [https://facebookresearch.github.io/hiplot/](https://facebookresearch.github.io/hiplot/)  
 HiPlot makes understanding high dimensional data easy  
-23 stars per week over 92 weeks  
+23 stars per week over 93 weeks  
 2166 stars, 98 forks, 29 watches  
 created 2019-11-08, last commit 2021-08-13, main language TypeScript  
 
@@ -139,8 +139,8 @@ created 2019-11-08, last commit 2021-08-13, main language TypeScript
 ### [holoviews](https://github.com/holoviz/holoviews) by [holoviz](https://github.com/holoviz)  
 [https://holoviews.org](https://holoviews.org)  
 With Holoviews, your data visualizes itself.  
-5.17 stars per week over 380 weeks  
-1966 stars, 326 forks, 64 watches  
+5.18 stars per week over 380 weeks  
+1968 stars, 326 forks, 64 watches  
 created 2014-05-07, last commit 2021-08-09, main language Python  
 <sub><sup>holoviews, holoviz, plotting</sup></sub>
 
@@ -154,7 +154,7 @@ created 2016-12-21, last commit 2021-06-18, main language TypeScript
 <sub><sup>dataviz, ipython-widget, jupyter, jupyter-notebook, plotting, python, quiver, rendering-3d-volumes, scientific-visualization, threejs, virtual-reality, visualisation, volume-rendering, webgl</sup></sub>
 
 
-This file was automatically generated on 2021-08-19.  
+This file was automatically generated on 2021-08-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

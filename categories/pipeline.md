@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
 68 stars per week over 331 weeks  
-22824 stars, 9031 forks, 746 watches  
-created 2015-04-13, last commit 2021-08-19, main language Python  
+22833 stars, 9037 forks, 746 watches  
+created 2015-04-13, last commit 2021-08-20, main language Python  
 <sub><sup>airflow, apache, apache-airflow, python, scheduler, workflow</sup></sub>
 
 
@@ -18,7 +18,7 @@ created 2015-04-13, last commit 2021-08-19, main language Python
 [https://github.com/spotify/luigi](https://github.com/spotify/luigi)  
 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.   
 32 stars per week over 465 weeks  
-14887 stars, 2282 forks, 499 watches  
+14894 stars, 2282 forks, 498 watches  
 created 2012-09-20, last commit 2021-07-07, main language Python  
 <sub><sup>hadoop, luigi, orchestration-framework, python, scheduling</sup></sub>
 
@@ -27,7 +27,7 @@ created 2012-09-20, last commit 2021-07-07, main language Python
 [https://mlflow.org](https://mlflow.org)  
 Open source platform for the machine learning lifecycle  
 59 stars per week over 167 weeks  
-9950 stars, 2217 forks, 264 watches  
+9954 stars, 2218 forks, 263 watches  
 created 2018-06-05, last commit 2021-08-19, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
@@ -35,9 +35,9 @@ created 2018-06-05, last commit 2021-08-19, main language Python
 ### [prefect](https://github.com/PrefectHQ/prefect) by [PrefectHQ](https://github.com/PrefectHQ)  
 [https://prefect.io](https://prefect.io)  
 The easiest way to automate your data  
-40 stars per week over 163 weeks  
-6703 stars, 636 forks, 140 watches  
-created 2018-06-29, last commit 2021-08-17, main language Python  
+40 stars per week over 164 weeks  
+6704 stars, 639 forks, 139 watches  
+created 2018-06-29, last commit 2021-08-19, main language Python  
 <sub><sup>automation, data-engineering, data-ops, data-science, infrastructure, ml-ops, prefect, python, workflow, workflow-engine</sup></sub>
 
 
@@ -45,8 +45,8 @@ created 2018-06-29, last commit 2021-08-17, main language Python
 [https://kedro.readthedocs.io/](https://kedro.readthedocs.io/)  
 A Python framework for creating reproducible, maintainable and modular data science code.  
 34 stars per week over 122 weeks  
-4246 stars, 482 forks, 99 watches  
-created 2019-04-18, last commit 2021-08-18, main language Python  
+4250 stars, 484 forks, 99 watches  
+created 2019-04-18, last commit 2021-08-19, main language Python  
 <sub><sup>cookiecutter-data-science, data-abstraction, data-versioning, hacktoberfest, kedro, mlops, pipeline, pipelines-as-code</sup></sub>
 
 
@@ -54,7 +54,7 @@ created 2019-04-18, last commit 2021-08-18, main language Python
 [https://dagster.io](https://dagster.io)  
 A data orchestrator for machine learning, analytics, and ETL.  
 21 stars per week over 172 weeks  
-3672 stars, 427 forks, 72 watches  
+3674 stars, 430 forks, 72 watches  
 created 2018-04-30, last commit 2021-08-19, main language Python  
 <sub><sup>analytics, dagster, data-orchestrator, data-pipelines, data-science, etl, python, scheduler, workflow, workflow-automation</sup></sub>
 
@@ -68,7 +68,7 @@ created 2020-01-13, last commit 2021-08-17, main language Python
 <sub><sup>automated-machine-learning, automation, automl, evolutionary-algorithms, genetic-programming, hyperparameter-optimization, machine-learning, multimodality, parameter-tuning, structural-learning</sup></sub>
 
 
-This file was automatically generated on 2021-08-19.  
+This file was automatically generated on 2021-08-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

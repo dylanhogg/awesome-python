@@ -9,25 +9,25 @@ Checkout the interactive version that you can filter and sort:
 [https://numpy.org](https://numpy.org)  
 The fundamental package for scientific computing with Python.  
 31 stars per week over 570 weeks  
-17970 stars, 5786 forks, 562 watches  
-created 2010-09-13, last commit 2021-08-18, main language Python  
+17982 stars, 5793 forks, 563 watches  
+created 2010-09-13, last commit 2021-08-19, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
 ### [sympy](https://github.com/sympy/sympy)  
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
-14 stars per week over 589 weeks  
-8298 stars, 3442 forks, 290 watches  
-created 2010-04-30, last commit 2021-08-18, main language Python  
+14 stars per week over 590 weeks  
+8300 stars, 3443 forks, 291 watches  
+created 2010-04-30, last commit 2021-08-19, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
 ### [mpmath](https://github.com/fredrik-johansson/mpmath) by [fredrik-johansson](https://github.com/fredrik-johansson)  
 [http://mpmath.org](http://mpmath.org)  
 Python library for arbitrary-precision floating-point arithmetic  
-1.1 stars per week over 506 weeks  
-559 stars, 128 forks, 31 watches  
+1.11 stars per week over 506 weeks  
+560 stars, 128 forks, 31 watches  
 created 2011-12-07, last commit 2021-03-27, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
@@ -44,8 +44,8 @@ created 2013-09-29, last commit 2021-05-06, main language Python
 ### [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) by [WillianFuks](https://github.com/WillianFuks)  
 [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
-3.38 stars per week over 52 weeks  
-177 stars, 27 forks, 10 watches  
+3.39 stars per week over 52 weeks  
+178 stars, 27 forks, 10 watches  
 created 2020-08-17, last commit 2021-08-16, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
 
@@ -58,7 +58,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-04-18, main language Python  
 
 
-This file was automatically generated on 2021-08-19.  
+This file was automatically generated on 2021-08-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

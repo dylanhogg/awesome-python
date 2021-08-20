@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [mypy](https://github.com/python/mypy) by [python](https://github.com/python)  
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 Optional static typing for Python 3 and 2 (PEP 484)  
-24 stars per week over 453 weeks  
-11156 stars, 1854 forks, 210 watches  
+24 stars per week over 454 weeks  
+11161 stars, 1856 forks, 210 watches  
 created 2012-12-07, last commit 2021-08-19, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
@@ -17,9 +17,9 @@ created 2012-12-07, last commit 2021-08-19, main language Python
 ### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
 [https://pyre-check.org/](https://pyre-check.org/)  
 Performant type-checking for python.  
-28 stars per week over 196 weeks  
-5525 stars, 347 forks, 101 watches  
-created 2017-11-10, last commit 2021-08-19, main language OCaml  
+28 stars per week over 197 weeks  
+5526 stars, 347 forks, 101 watches  
+created 2017-11-10, last commit 2021-08-20, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 
 
@@ -27,12 +27,12 @@ created 2017-11-10, last commit 2021-08-19, main language OCaml
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 A static type analyzer for Python code  
 10 stars per week over 335 weeks  
-3384 stars, 202 forks, 59 watches  
-created 2015-03-18, last commit 2021-08-19, main language Python  
+3386 stars, 204 forks, 59 watches  
+created 2015-03-18, last commit 2021-08-20, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
-This file was automatically generated on 2021-08-19.  
+This file was automatically generated on 2021-08-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
