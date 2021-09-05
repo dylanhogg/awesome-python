@@ -4,7 +4,7 @@ $(document).ready( function () {
     $('#table').DataTable( {
         ajax: {
             // url: '/github_data_local.json',
-            url: 'http://prd-s3-crazy-awesome-python-api.s3-website-us-east-1.amazonaws.com/github_data.json',
+            url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
         order: [[ 4, "desc" ]],

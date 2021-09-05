@@ -31,6 +31,9 @@ s3-deploy-app:
 s3-delete-app:
 	aws s3 rm s3://${BUCKET_NAME} --recursive
 
+## AWS Cloudfront invalidation (limit 1000 free calls per month)
+cf-invalidation:
+	aws cloudfront create-invalidation --distribution-id E1VXP77O89KVKO --paths "/*"
 
 # Terraform
 
