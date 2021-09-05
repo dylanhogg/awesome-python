@@ -1,5 +1,6 @@
 .EXPORT_ALL_VARIABLES:
 APP_NAME=crazy-awesome-python-api
+BUCKET_NAME=crazy-awesome-python-api.infocruncher.com
 ENV=prd
 AWS_PROFILE=prd-non-tf-905234897161
 AWS_ACCOUNT_ID=905234897161
@@ -7,40 +8,43 @@ AWS_REGION=us-east-1
 
 # AWS Command Tools
 
-## AWS S3 cp generated_files to S3 bucket
+## AWS S3 cp json data to S3 bucket
 s3-deploy-files:
-	aws s3 cp ../github_data.json s3://${ENV}-s3-${APP_NAME}/github_data.json --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.json s3://${BUCKET_NAME}/github_data.json --profile ${AWS_PROFILE}
 
 ## AWS S3 rm bucket
 s3-remove-files:
-	aws s3 rm s3://${ENV}-s3-${APP_NAME} --recursive
+	aws s3 rm s3://${BUCKET_NAME} --recursive
 
 ## Browse to public S3 url
 s3-browse:
-	open http://${ENV}-s3-${APP_NAME}.s3-website-${AWS_REGION}.amazonaws.com/github_data.json
+	open http://${BUCKET_NAME}.s3-website-${AWS_REGION}.amazonaws.com/github_data.json
 
+## Browse to public Route53 api url
+r53-browse:
+	open https://${BUCKET_NAME}/github_data.json
 
 # Terraform
 
 ## TF init
 tf-init:
-	cd infra/s3; terraform init -var-file=variables.tfvars; cd -
+	cd infra; terraform init -var-file=variables.tfvars; cd -
 
 ## TF validate
 tf-validate:
-	cd infra/s3; terraform validate; cd -
+	cd infra; terraform validate; cd -
 
 ## TF plan
 tf-plan:
-	cd infra/s3; terraform plan -var-file=variables.tfvars; cd -
+	cd infra; terraform plan -var-file=variables.tfvars; cd -
 
 ## TF apply
 tf-apply: tf-plan
-	cd infra/s3; terraform apply -var-file=variables.tfvars -auto-approve; cd -
+	cd infra; terraform apply -var-file=variables.tfvars -auto-approve; cd -
 
 ## TF destroy
 tf-destroy:
-	cd infra/s3; terraform destroy -var-file=variables.tfvars -auto-approve; cd -
+	cd infra; terraform destroy -var-file=variables.tfvars -auto-approve; cd -
 
 
 #################################################################################

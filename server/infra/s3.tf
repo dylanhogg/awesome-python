@@ -1,14 +1,15 @@
-# https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#static-website-hosting
-
 resource "aws_s3_bucket" "s3_bucket" {
   // Bucket name must be unique and must not contain spaces, uppercase letters or underscores.
-  bucket = "${var.env}-s3-${var.app_name}"
+  bucket = var.domain
   acl    = "public-read"
 
-  // routing_rules
+  versioning {
+    enabled = true
+  }
+
   website {
-    index_document = "index.html"
-    error_document = "error.html"
+    index_document = var.index_document
+    error_document = var.error_document
   }
 
   cors_rule {
@@ -19,12 +20,7 @@ resource "aws_s3_bucket" "s3_bucket" {
     max_age_seconds = 3000
   }
 
-  tags = {
-    tag_version = "1.0"
-    deployment  = "tf"
-    app_name    = var.app_name
-    env         = var.env
-  }
+  tags = var.common_tags
 }
 
 resource "aws_s3_bucket_policy" "s3_bucket_policy" {
