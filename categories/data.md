@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 27 data Python libraries and frameworks ordered by stars.  
+A selection of 29 data Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://scrapy.org](https://scrapy.org)  
 Scrapy, a fast high-level web crawling & scraping framework for Python.  
 68 stars per week over 604 weeks  
-41610 stars, 9316 forks, 1827 watches  
+41612 stars, 9316 forks, 1827 watches  
 created 2010-02-22, last commit 2021-08-24, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -18,7 +18,7 @@ created 2010-02-22, last commit 2021-08-24, main language Python
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
 53 stars per week over 578 weeks  
-31081 stars, 13187 forks, 1125 watches  
+31082 stars, 13187 forks, 1125 watches  
 created 2010-08-24, last commit 2021-09-20, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
@@ -45,7 +45,7 @@ created 2012-11-12, last commit 2021-09-15, main language Python
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
 158 stars per week over 79 weeks  
-12585 stars, 1558 forks, 267 watches  
+12587 stars, 1558 forks, 267 watches  
 created 2020-03-14, last commit 2021-09-11, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -54,7 +54,7 @@ created 2020-03-14, last commit 2021-09-11, main language Python
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 51 stars per week over 223 weeks  
-11521 stars, 1704 forks, 289 watches  
+11523 stars, 1706 forks, 289 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -63,7 +63,7 @@ created 2017-06-10, last commit 2021-03-02, main language Python
 [https://dvc.org](https://dvc.org)  
 🦉Data Version Control | Git for Data & Models | ML Experiments Management  
 36 stars per week over 237 weeks  
-8607 stars, 830 forks, 125 watches  
+8608 stars, 830 forks, 125 watches  
 created 2017-03-04, last commit 2021-09-21, main language Python  
 <sub><sup>ai, collaboration, data-science, data-version-control, developer-tools, git, hacktoberfest, machine-learning, python, reproducibility</sup></sub>
 
@@ -95,11 +95,20 @@ created 2016-01-09, last commit 2021-09-16, main language Jupyter Notebook
 <sub><sup>artificial-intelligence, big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, python, statistics</sup></sub>
 
 
+### [sqlmodel](https://github.com/tiangolo/sqlmodel) by [tiangolo](https://github.com/tiangolo)  
+[https://sqlmodel.tiangolo.com/](https://sqlmodel.tiangolo.com/)  
+SQL databases in Python, designed for simplicity, compatibility, and robustness.  
+1287 stars per week over 4 weeks  
+5148 stars, 168 forks, 85 watches  
+created 2021-08-24, last commit 2021-08-25, main language Python  
+<sub><sup>fastapi, json, json-schema, pydantic, python, sql, sqlalchemy</sup></sub>
+
+
 ### [great_expectations](https://github.com/great-expectations/great_expectations) by [great-expectations](https://github.com/great-expectations)  
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 Always know what to expect from your data.  
 23 stars per week over 210 weeks  
-5015 stars, 673 forks, 61 watches  
+5016 stars, 673 forks, 61 watches  
 created 2017-09-11, last commit 2021-09-21, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
 
@@ -117,7 +126,7 @@ created 2017-08-15, last commit 2020-05-03, main language Python
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 The Database Toolkit for Python  
 29 stars per week over 147 weeks  
-4273 stars, 694 forks, 77 watches  
+4274 stars, 694 forks, 78 watches  
 created 2018-11-27, last commit 2021-09-20, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
 
@@ -159,8 +168,8 @@ created 2013-01-04, last commit 2021-09-06, main language Python
 ### [sqlparse](https://github.com/andialbrecht/sqlparse) by [andialbrecht](https://github.com/andialbrecht)  
 [https://github.com/andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse)  
 A non-validating SQL parser module for Python  
-5.2 stars per week over 491 weeks  
-2560 stars, 514 forks, 92 watches  
+5.21 stars per week over 491 weeks  
+2561 stars, 514 forks, 92 watches  
 created 2012-04-18, last commit 2021-09-10, main language Python  
 
 
@@ -176,7 +185,7 @@ created 2013-08-20, last commit 2020-10-09, main language Python
 [https://aws-data-wrangler.readthedocs.io](https://aws-data-wrangler.readthedocs.io)  
 Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).  
 15 stars per week over 134 weeks  
-2142 stars, 350 forks, 58 watches  
+2143 stars, 350 forks, 58 watches  
 created 2019-02-26, last commit 2021-09-17, main language Python  
 <sub><sup>amazon-athena, amazon-sagemaker-notebook, apache-arrow, apache-parquet, athena, aws, aws-glue, aws-lambda, data-engineering, data-science, emr, etl, glue-catalog, lambda, mysql, pandas, python, redshift</sup></sub>
 
@@ -206,6 +215,15 @@ A very simple Salesforce.com REST API client for Python
 1174 stars, 533 forks, 88 watches  
 created 2013-01-17, last commit 2021-09-09, main language Python  
 <sub><sup>api, api-client, python, salesforce</sup></sub>
+
+
+### [sqlite-utils](https://github.com/simonw/sqlite-utils) by [simonw](https://github.com/simonw)  
+[https://sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)  
+Python CLI utility and library for manipulating SQLite databases  
+3.36 stars per week over 166 weeks  
+559 stars, 49 forks, 14 watches  
+created 2018-07-14, last commit 2021-08-24, main language Python  
+<sub><sup>cli, click, datasette, datasette-io, datasette-tool, python, sqlite, sqlite-database</sup></sub>
 
 
 ### [connector-x](https://github.com/sfu-db/connector-x) by [sfu-db](https://github.com/sfu-db)  

@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://www.pygame.org](https://www.pygame.org)  
 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.  
 16 stars per week over 234 weeks  
-3826 stars, 1690 forks, 149 watches  
+3826 stars, 1691 forks, 149 watches  
 created 2017-03-26, last commit 2021-09-17, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
@@ -18,7 +18,7 @@ created 2017-03-26, last commit 2021-09-17, main language C
 [https://www.panda3d.org/](https://www.panda3d.org/)  
 Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
 7.04 stars per week over 416 weeks  
-2928 stars, 640 forks, 185 watches  
+2930 stars, 640 forks, 185 watches  
 created 2013-09-30, last commit 2021-08-31, main language C++  
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 

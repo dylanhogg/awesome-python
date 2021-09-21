@@ -18,7 +18,7 @@ created 2009-04-24, last commit 2021-09-17, main language Python
 [https://dask.org](https://dask.org)  
 Parallel computing with task scheduling  
 25 stars per week over 350 weeks  
-8786 stars, 1348 forks, 233 watches  
+8787 stars, 1348 forks, 233 watches  
 created 2015-01-04, last commit 2021-09-17, main language Python  
 <sub><sup>dask, numpy, pandas, pydata, python, scikit-learn, scipy</sup></sub>
 
@@ -27,7 +27,7 @@ created 2015-01-04, last commit 2021-09-17, main language Python
 [http://numba.pydata.org/](http://numba.pydata.org/)  
 NumPy aware dynamic Python compiler using LLVM  
 13 stars per week over 497 weeks  
-6844 stars, 843 forks, 207 watches  
+6845 stars, 844 forks, 207 watches  
 created 2012-03-08, last commit 2021-09-20, main language Python  
 <sub><sup>compiler, cuda, llvm, numpy, parallel, python, rocm</sup></sub>
 

@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://numpy.org](https://numpy.org)  
 The fundamental package for scientific computing with Python.  
 31 stars per week over 575 weeks  
-18256 stars, 5924 forks, 562 watches  
+18256 stars, 5925 forks, 562 watches  
 created 2010-09-13, last commit 2021-09-20, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
@@ -18,7 +18,7 @@ created 2010-09-13, last commit 2021-09-20, main language Python
 [https://sympy.org/](https://sympy.org/)  
 A computer algebra system written in pure Python  
 14 stars per week over 594 weeks  
-8412 stars, 3465 forks, 292 watches  
+8413 stars, 3466 forks, 292 watches  
 created 2010-04-30, last commit 2021-09-20, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 

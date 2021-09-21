@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 [https://streamlit.io](https://streamlit.io)  
 Streamlit — The fastest way to build data apps in Python  
 147 stars per week over 108 weeks  
-15962 stars, 1404 forks, 258 watches  
+15963 stars, 1404 forks, 258 watches  
 created 2019-08-24, last commit 2021-09-21, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -45,7 +45,7 @@ created 2011-02-19, last commit 2021-09-20, main language Python
 [https://plotly.com/python/](https://plotly.com/python/)  
 The interactive graphing library for Python (includes Plotly Express) :sparkles:  
 24 stars per week over 408 weeks  
-10212 stars, 1893 forks, 269 watches  
+10213 stars, 1893 forks, 269 watches  
 created 2013-11-21, last commit 2021-09-16, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -71,7 +71,7 @@ created 2015-09-19, last commit 2021-08-18, main language Python
 [https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)  
 Python Data. Leaflet.js Maps.   
 12 stars per week over 436 weeks  
-5425 stars, 1996 forks, 177 watches  
+5426 stars, 1996 forks, 177 watches  
 created 2013-05-09, last commit 2021-06-19, main language Python  
 
 
@@ -79,7 +79,7 @@ created 2013-05-09, last commit 2021-06-19, main language Python
 [https://github.com/voila-dashboards/voila](https://github.com/voila-dashboards/voila)  
 Voilà turns Jupyter notebooks into standalone web applications  
 22 stars per week over 161 weeks  
-3575 stars, 344 forks, 76 watches  
+3576 stars, 344 forks, 76 watches  
 created 2018-08-21, last commit 2021-09-17, main language Python  
 
 

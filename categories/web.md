@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 12 web Python libraries and frameworks ordered by stars.  
+A selection of 13 web Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 The Web framework for perfectionists with deadlines.  
 121 stars per week over 490 weeks  
-59741 stars, 25484 forks, 2323 watches  
-created 2012-04-28, last commit 2021-09-20, main language Python  
+59743 stars, 25486 forks, 2323 watches  
+created 2012-04-28, last commit 2021-09-21, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
 
@@ -18,7 +18,7 @@ created 2012-04-28, last commit 2021-09-20, main language Python
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 The Python micro framework for building web applications.  
 94 stars per week over 598 weeks  
-56672 stars, 14585 forks, 2226 watches  
+56673 stars, 14585 forks, 2226 watches  
 created 2010-04-06, last commit 2021-09-08, main language Python  
 <sub><sup>flask, jinja, pallets, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -36,7 +36,7 @@ created 2011-02-13, last commit 2021-09-15, main language Python
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)  
 FastAPI framework, high performance, easy to learn, fast to code, ready for production  
 247 stars per week over 145 weeks  
-36002 stars, 2622 forks, 547 watches  
+36007 stars, 2623 forks, 546 watches  
 created 2018-12-08, last commit 2021-09-13, main language Python  
 <sub><sup>api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web</sup></sub>
 
@@ -92,6 +92,15 @@ uWSGI application server container
 5.84 stars per week over 519 weeks  
 3032 stars, 632 forks, 111 watches  
 created 2011-10-09, last commit 2021-07-15, main language C  
+
+
+### [websocket-client](https://github.com/websocket-client/websocket-client)  
+[https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
+WebSocket client for Python  
+4.87 stars per week over 560 weeks  
+2726 stars, 669 forks, 87 watches  
+created 2010-12-28, last commit 2021-08-31, main language HTML  
+<sub><sup>python, rfc-6455, websocket, websocket-client, websockets, websockets-client</sup></sub>
 
 
 ### [PyWebIO](https://github.com/pywebio/PyWebIO) by [pywebio](https://github.com/pywebio)  

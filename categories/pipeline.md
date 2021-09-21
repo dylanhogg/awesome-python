@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
 68 stars per week over 336 weeks  
-23154 stars, 9240 forks, 742 watches  
-created 2015-04-13, last commit 2021-09-20, main language Python  
+23155 stars, 9241 forks, 742 watches  
+created 2015-04-13, last commit 2021-09-21, main language Python  
 <sub><sup>airflow, apache, apache-airflow, python, scheduler, workflow</sup></sub>
 
 
@@ -45,7 +45,7 @@ created 2018-06-29, last commit 2021-09-20, main language Python
 [https://kedro.readthedocs.io/](https://kedro.readthedocs.io/)  
 A Python framework for creating reproducible, maintainable and modular data science code.  
 34 stars per week over 126 weeks  
-4367 stars, 496 forks, 99 watches  
+4368 stars, 496 forks, 99 watches  
 created 2019-04-18, last commit 2021-09-20, main language Python  
 <sub><sup>cookiecutter-data-science, data-abstraction, data-versioning, hacktoberfest, kedro, mlops, pipeline, pipelines-as-code</sup></sub>
 
@@ -55,7 +55,7 @@ created 2019-04-18, last commit 2021-09-20, main language Python
 A data orchestrator for machine learning, analytics, and ETL.  
 21 stars per week over 177 weeks  
 3793 stars, 442 forks, 76 watches  
-created 2018-04-30, last commit 2021-09-18, main language Python  
+created 2018-04-30, last commit 2021-09-21, main language Python  
 <sub><sup>analytics, dagster, data-orchestrator, data-pipelines, data-science, etl, python, scheduler, workflow, workflow-automation</sup></sub>
 
 

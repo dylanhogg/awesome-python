@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 2 crypto Python libraries and frameworks ordered by stars.  
+A selection of 4 crypto Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
@@ -11,6 +11,24 @@ This is a fully functioning Binance trading bot that measures the volatility of 
 145 stars per week over 19 weeks  
 2832 stars, 577 forks, 123 watches  
 created 2021-05-08, last commit 2021-06-10, main language Python  
+
+
+### [py-evm](https://github.com/ethereum/py-evm) by [ethereum](https://github.com/ethereum)  
+[https://py-evm.readthedocs.io/en/latest/](https://py-evm.readthedocs.io/en/latest/)  
+A Python implementation of the Ethereum Virtual Machine  
+5.38 stars per week over 247 weeks  
+1328 stars, 463 forks, 95 watches  
+created 2016-12-27, last commit 2021-09-20, main language Python  
+<sub><sup>ethereum, ethereum-virtual-machine, evm, python</sup></sub>
+
+
+### [in3](https://github.com/blockchainsllc/in3) by [blockchainsllc](https://github.com/blockchainsllc)  
+[https://in3.readthedocs.io/en/develop/index.html](https://in3.readthedocs.io/en/develop/index.html)  
+The IN3 client (written in C).  
+0.49 stars per week over 105 weeks  
+51 stars, 14 forks, 13 watches  
+created 2019-09-17, last commit 2021-07-31, main language C  
+<sub><sup>blockchain, crypto-economic, ethereum, ipfs, verify</sup></sub>
 
 
 ### [ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) by [Nerolation](https://github.com/Nerolation)  
