@@ -1,14 +1,20 @@
-var version = "v0.0.1";
+var version = "v0.0.2";
 
 $(document).ready( function () {
-    $('#table').DataTable( {
+    $("#table").DataTable( {
         ajax: {
-            // url: '/github_data_local.json',
-            url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
+            url: '/github_data.json',  // Local testing
+            // url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
-        order: [[ 4, "desc" ]],
+        order: [[ 5, "desc" ]],
         columns: [
+          { data: "_readme_localurl", title: "Info",
+            render: function(data, type, row, meta) {
+                var url = "/data/" +  data + "";
+                return "<a class='modal-ajax' href='#' data-localurl='"+url+"'>info</a>";
+            }
+          },
           { data: "category", title: "Category" },
           { data: "_description", title: "Description" },
           { data: "_repopath", title: "Github",
@@ -20,10 +26,10 @@ $(document).ready( function () {
                 try { return "<a href='" + data + "'>" + new URL(data).hostname + "</a>"; }
                 catch { return ""; }
               }
-                    },
+          },
 //          { data: "_topics", title: "Tags",
 //            render: function(data, type, row, meta) { return data.join(", "); }
-//          },a
+//          },
           { data: "_stars", title: "Stars", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_stars_per_week", title: "Stars\nper&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
@@ -38,6 +44,36 @@ $(document).ready( function () {
           },
         ],
         paging: false,
+    });
+
+    var showdown_converter = new showdown.Converter();
+    $('#table').on('click', '.modal-ajax', function(e) {
+        var localurl = $(this).data('localurl');
+        console.log(localurl);
+        e.preventDefault();
+
+        $.get(localurl, function(content) {
+            var html = "";
+            if (localurl.toLowerCase().endsWith(".md")) {
+                html = showdown_converter.makeHtml(content);
+                html = "<div class='modal'>"
+                    + "TEMP: I've been processed by showdown from "+localurl+"<br />"
+                    + html
+                    + "</div>";
+                $(html).appendTo("#container").modal();
+            } else {
+                var htmlurl = localurl+ ".html";
+                $.get(htmlurl, function(html) {
+                    html = "<div class='modal'>"
+                        + "TEMP: I'm direct from " + htmlurl + "<br />"
+                        + html
+                        + "</div>";
+                    $(html).appendTo("#container").modal();
+                });
+            }
+        });
+
+        return false;
     });
 });
 

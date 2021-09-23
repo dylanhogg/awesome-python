@@ -6,13 +6,17 @@ from library import log, env, render
 
 def write_files(csv_location, token, output_csv_filename, output_json_filename):
     start = datetime.now()
-    df_input = render.get_input_data(csv_location)
-    # df_input = df_input.head(3)  # Testing
 
+    # Read github urls from google docs
+    df_input = render.get_input_data(csv_location)
+    df_input = df_input.head(2)  # Testing
+
+    # Augment repo name with metadata from Github
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
     df_results = render.process(df_input, token)
 
     # Write raw results to csv
+    logger.info(f"Write raw results to csv...")
     df_results.to_csv(output_csv_filename)
 
     # Write raw results to json table format
@@ -22,6 +26,7 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
         json.dump(data, f, indent=4)
 
     # Add markdown columns
+    logger.info(f"Add markdown columns...")
     df_results = render.add_markdown(df_results)
 
     # Write all results to README.md

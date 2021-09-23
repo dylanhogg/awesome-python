@@ -1,5 +1,7 @@
 PyGithub
 pandas
+markdown
+beautifulsoup4
 python-dotenv
 black
 loguru
