@@ -31,7 +31,7 @@ def save_content(repopath, branch, filename, content):
     folder = "data/"
     Path(folder).mkdir(parents=True, exist_ok=True)
 
-    # Original readme
+    # Original file contents
     out_filename = folder + repopath.replace("/", "-") + f"-{filename}"
     with open(out_filename, "w") as f:
         f.write(content)
@@ -44,24 +44,26 @@ def save_content(repopath, branch, filename, content):
     pips = []
     for m in re.findall(pip_pattern, content):
         pips.append(m.strip())
-    pips_html = "<br />".join(pips)
 
     # TODO: analyse requrements.txt, setup.py etc
 
     # Get HTML from content
     if filename.lower().endswith(".rst"):
-        html = rst2html(content)
+        html_content = rst2html(content)
     else:
         # TODO: how to handle non markdown/non rst?
-        html = markdown.markdown(content)
+        html_content = markdown.markdown(content)
 
     # TODO: fix relative images/links
     #  e.g. <img src="docs/img/logo.svg">
     #  to <img src="https://raw.githubusercontent.com/<repopath>/<branch>/docs/img/logo.svg"
 
-    html = f"<a href='{readme_url}'>{readme_url}</a><br />" \
-           + pips_html + "<br />" \
-           + html
+    html = f"README: <a href='{readme_url}'>{readme_url}</a><br />"
+    if len(pips) > 0:
+        html = html + "<br />pip install command(s) from README:<br /><pre><code>" \
+                    + "<br />".join(pips) \
+                    + "</code></pre>"
+    html = html + "<hr />" + html_content
 
     with open(f"{out_filename}.html", "w") as f:
         f.write(html)

@@ -1,7 +1,7 @@
 import json
 from datetime import datetime
 from loguru import logger
-from library import render, readme
+from library import render, readme, requirements
 
 
 def write_files(csv_location, token, output_csv_filename, output_json_filename):
@@ -9,7 +9,8 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
 
     # Read github urls from google docs
     df_input = render.get_input_data(csv_location)
-    df_input = df_input.head(4)  # Testing
+    # df_input = df_input.head(4)  # Testing
+    df_input = df_input.iloc[9:13]  # Testing
 
     # Augment repo name with metadata from Github
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
@@ -18,16 +19,6 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
     # Write raw results to csv
     logger.info(f"Write raw results to csv...")
     df.to_csv(output_csv_filename)
-
-    # Write raw results to json table format
-    with open(output_json_filename, "w") as f:
-        json_results = df.to_json(orient="table")
-        data = json.loads(json_results)
-        json.dump(data, f, indent=4)
-
-    # Add markdown columns for local README.md and categories/*.md file lists.
-    logger.info(f"Add markdown columns...")
-    df = render.add_markdown(df)
 
     logger.info("Crawling readme files...")
     df["_readme_filename"] = df["_repopath"].apply(
@@ -43,6 +34,21 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
         # TODO: get from readme.get_readme above as tuple and zip as per https://stackoverflow.com/questions/16236684/apply-pandas-function-to-column-to-create-multiple-new-columns
         lambda row: f"{row['_repopath'].replace('/', '-')}-{row['_readme_filename']}", axis=1
     )
+
+    logger.info("Crawling requirements files...")
+    df["_requirements_filename"] = df["_repopath"].apply(
+        lambda x: requirements.get_requirements(x)
+    )
+
+    # Write raw results to json table format
+    with open(output_json_filename, "w") as f:
+        json_results = df.to_json(orient="table")
+        data = json.loads(json_results)
+        json.dump(data, f, indent=4)
+
+    # Add markdown columns for local README.md and categories/*.md file lists.
+    logger.info(f"Add markdown columns...")
+    df = render.add_markdown(df)
 
     # Write all results to README.md
     lines_footer = [
