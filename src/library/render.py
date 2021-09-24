@@ -3,9 +3,8 @@ import pandas as pd
 from datetime import datetime
 from typing import List
 from loguru import logger
-from library.ghw import GithubWrapper
-from library import readme
 from urllib.parse import urlparse
+from library.ghw import GithubWrapper
 
 
 def get_input_data(csv_location) -> pd.DataFrame:
@@ -113,21 +112,6 @@ def process(df_input, token) -> pd.DataFrame:
     )
     df["_stars_per_week"] = df["_repopath"].apply(
         lambda x: ghw.get_repo(x).stargazers_count * 7 / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
-    )
-
-    logger.info("Crawling readme files...")
-    # TODO: move this into app below "df_results = render.add_markdown(df_results)" ???
-    df["_readme_filename"] = df["_repopath"].apply(
-        lambda x: readme.get_readme(x)
-    )
-
-    # TODO: handle 'main' master branches also:
-    df["_readme_giturl"] = df.apply(
-        lambda row: f"https://raw.githubusercontent.com/{row['_repopath']}/master/{row['_readme_filename']}", axis=1
-    )
-
-    df["_readme_localurl"] = df.apply(
-        lambda row: f"{row['_repopath'].replace('/', '-')}-{row['_readme_filename']}", axis=1
     )
 
     return df.sort_values("_stars", ascending=False)
