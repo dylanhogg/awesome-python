@@ -1,58 +1,80 @@
 import re
 import markdown
-import html2text
 import urllib.request
 import urllib.error
-from bs4 import BeautifulSoup
+import docutils.io
+import docutils.core
 from pathlib import Path
 from loguru import logger
 
 
-def safe_get_url(repopath, filename):
-    Path("data/").mkdir(parents=True, exist_ok=True)
+# https://stackoverflow.com/questions/47337009/rst2html-on-full-python-project
+def rst2html_old(content):
+    pub = docutils.core.Publisher(
+        source_class=docutils.io.StringInput,
+        destination_class=docutils.io.StringOutput)
+    pub.set_components('standalone', 'restructuredtext', 'html')
+    pub.process_programmatic_settings(None, None, None)
+    pub.set_source(source=content)
+    pub.publish()
+    html = pub.writer.parts['whole']
+    return html
 
+
+# https://www.kite.com/python/docs/docutils.core.publish_parts
+def rst2html(content):
+    parts = docutils.core.publish_parts(content, writer_name="html")
+    return parts["html_body"]
+
+
+def save_content(repopath, branch, filename, content):
+    folder = "data/"
+    Path(folder).mkdir(parents=True, exist_ok=True)
+
+    # Original readme
+    out_filename = folder + repopath.replace("/", "-") + f"-{filename}"
+    with open(out_filename, "w") as f:
+        f.write(content)
+
+    # Link to readme file
+    readme_url = f"https://github.com/{repopath}/blob/{branch}/{filename}"
+
+    # Find pip installs
+    pip_pattern = re.compile(r'(pip[3]*[ ]+install[ ]+[a-zA-Z0-9 \-_<>=\"\'.,+:/\[\]]+)')  # TODO: review
+    pips = []
+    for m in re.findall(pip_pattern, content):
+        pips.append(m.strip())
+    pips_html = "<br />".join(pips)
+
+    # TODO: analyse requrements.txt, setup.py etc
+
+    # Get HTML from content
+    if filename.lower().endswith(".rst"):
+        html = rst2html(content)
+    else:
+        # TODO: how to handle non markdown/non rst?
+        html = markdown.markdown(content)
+
+    # TODO: fix relative images/links
+    #  e.g. <img src="docs/img/logo.svg">
+    #  to <img src="https://raw.githubusercontent.com/<repopath>/<branch>/docs/img/logo.svg"
+
+    html = f"<a href='{readme_url}'>{readme_url}</a><br />" \
+           + pips_html + "<br />" \
+           + html
+
+    with open(f"{out_filename}.html", "w") as f:
+        f.write(html)
+
+    logger.info(f"Saved file {out_filename}")
+
+
+def safe_get_url(repopath, branch, filename):
     try:
-        url = f"https://raw.githubusercontent.com/{repopath}/master/{filename}"
+        url = f"https://raw.githubusercontent.com/{repopath}/{branch}/{filename}"
         resource = urllib.request.urlopen(url)
         charset = resource.headers.get_content_charset()
-        content = resource.read().decode(charset).strip()
-        # content_no_nl = content.replace("\n", "\\n").replace("\r", "\\r")
-
-        out_filename = "data/" + repopath.replace("/", "-") + f"-{filename}"
-        with open(out_filename, "w") as f:
-            f.write(content)
-
-        html = markdown.markdown(content)
-        # html = re.sub(r'<pre>(.*?)</pre>', ' ', html)
-        # html = re.sub(r'<code>(.*?)</code >', ' ', html)
-        # html = re.sub("(<!--.*?-->)", "", html, flags=re.DOTALL)
-        out_html_filename = "data/" + repopath.replace("/", "-") + f"-{filename}.html"
-        with open(out_html_filename, "w") as f:
-            f.write(html)
-
-        # soup = BeautifulSoup(html, features="html.parser")
-        soup = BeautifulSoup(content, features="html.parser")   # Best? MD content, strip any html
-        # for element in soup:
-        #     element.extract()
-        # txt = "".join(BeautifulSoup(html_content, features="html.parser").findAll(text=True))
-        txt = soup.get_text()
-        txt = re.sub(r'\n{2,}', '\n\n', txt)
-        txt = txt.strip()
-        out_txt_filename = "data/" + repopath.replace("/", "-") + f"-{filename}.txt"
-        with open(out_txt_filename, "w") as f:
-            f.write(txt)
-
-        h = html2text.HTML2Text()
-        h.ignore_links = True
-        txt_output2 = h.handle(html)
-        txt_output2 = txt_output2.strip()
-        out_txt_filename2 = "data/" + repopath.replace("/", "-") + f"-{filename}.2.txt"
-        with open(out_txt_filename2, "w") as f:
-            f.write(txt_output2)
-
-        # return url + ": " + content
-        logger.info(f"Saved file {out_filename}")
-        return filename
+        return resource.read().decode(charset).strip()
     except urllib.error.HTTPError as ex:
         return ""
 
@@ -66,9 +88,13 @@ def get_readme(repopath):
         "readme.rst",
         "readme.txt"
     ]
-    for f in filenames:
-        content = safe_get_url(repopath, f)
-        if len(content) > 0:
-            return content
 
+    for branch in ["master", "main"]:
+        for filename in filenames:
+            content = safe_get_url(repopath, branch, filename)
+            if len(content) > 0:
+                save_content(repopath, branch, filename, content)
+                return filename  # TODO:  return tuple (repopath, branch, filename, local_filename)
+
+    # Did not locate any readme files in repo
     return ""
