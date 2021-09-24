@@ -46,31 +46,24 @@ $(document).ready( function () {
         paging: false,
     });
 
-    var showdown_converter = new showdown.Converter();
     $('#table').on('click', '.modal-ajax', function(e) {
-        var localurl = $(this).data('localurl');
-        console.log(localurl);
+        var localurl = $(this).data('localurl') + ".html";
         e.preventDefault();
 
-        $.get(localurl, function(content) {
-            var html = "";
-            if (localurl.toLowerCase().endsWith(".md")) {
-                html = showdown_converter.makeHtml(content);
+        $.ajax({
+           type: "GET",
+           url: localurl,
+           success: function(html)
+           {
                 html = "<div class='modal'>"
-                    + "TEMP: I've been processed by showdown from "+localurl+"<br />"
                     + html
                     + "</div>";
                 $(html).appendTo("#container").modal();
-            } else {
-                var htmlurl = localurl+ ".html";
-                $.get(htmlurl, function(html) {
-                    html = "<div class='modal'>"
-                        + "TEMP: I'm direct from " + htmlurl + "<br />"
-                        + html
-                        + "</div>";
-                    $(html).appendTo("#container").modal();
-                });
-            }
+           },
+           error: function(html)
+           {
+                console.log("ERROR getting localurl: " + localurl);
+           },
         });
 
         return false;

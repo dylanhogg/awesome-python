@@ -14,3 +14,7 @@
     top: 10px;
     right: 10px;
 }
+
+.jquery-modal .modal img {
+    max-width: 800px;
+}
