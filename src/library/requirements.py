@@ -8,7 +8,7 @@ def save_content(repopath, branch, filename, content):
     folder = "data/"
     Path(folder).mkdir(parents=True, exist_ok=True)
 
-    out_filename = folder + repopath.replace("/", "-") + f"-{filename}"
+    out_filename = folder + repopath.replace("/", "~") + f"~{filename}"
     with open(out_filename, "w") as f:
         f.write(content)
 
@@ -28,16 +28,16 @@ def safe_get_url(repopath, branch, filename):
 def get_requirements(repopath):
     filenames = [
         "requirements.txt",
-        # "setup.py"  # TODO: needs postprocessing for install_requires etc.
-        # toml?
+        "setup.py",  # TODO: needs postprocessing for install_requires etc.
+        "pyproject.toml"  # TODO: postprocessing for [build-system] / requires | [tool.poetry] / packages etc
     ]
 
-    for branch in ["master", "main"]:
+    saved_filenames = []
+    for branch in ["master"]:  # NOTE: master redirects to main as at Sep 2021.
         for filename in filenames:
             content = safe_get_url(repopath, branch, filename)
             if len(content) > 0:
                 save_content(repopath, branch, filename, content)
-                return filename  # TODO:  return tuple (repopath, branch, filename, local_filename)
+                saved_filenames.append(filename)
 
-    # Did not locate any readme files in repo
-    return ""
+    return saved_filenames  # TODO:  return list of tuples (repopath, branch, filename, local_filename)

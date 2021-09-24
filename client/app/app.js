@@ -7,12 +7,41 @@ $(document).ready( function () {
             // url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
-        order: [[ 5, "desc" ]],
+        order: [[ 6, "desc" ]],
         columns: [
-          { data: "_readme_localurl", title: "Info",
+          { data: "_readme_localurl", title: "Readme",
             render: function(data, type, row, meta) {
-                var url = "/data/" +  data + "";
-                return "<a class='modal-ajax' href='#' data-localurl='"+url+"'>info</a>";
+                if (data.length > 0) {
+                    var url = "/data/" + data + "";
+                    return "<a class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'>info</a>";
+                } else {
+                    return "";
+                }
+
+            }
+          },
+          { data: "_requirements_localurls", title: "Requrements",
+            render: function(data, type, row, meta) {
+                if (data.length > 0) {
+                    var links = "";
+                    for (var i=0; i<data.length; i++) {
+                        var filename = data[i];
+                        var url = "/data/" + filename + "";
+                        var title = "unknown";
+                        if (filename.indexOf("requirements.txt") > 0) {
+                            title = "requirements.txt";
+                        } else if (filename.indexOf("setup.py") > 0) {
+                            title = "setup.py";
+                        } else if (filename.indexOf("pyproject.toml") > 0) {
+                            title = "pyproject.toml";
+                        }
+                        links = links + "<a class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='' data-title='"+title+"' data-replace-lf='true'>"+title+"</a><br />";
+                    }
+                    return links;
+                } else {
+                    return "";
+                }
+
             }
           },
           { data: "category", title: "Category" },
@@ -47,17 +76,25 @@ $(document).ready( function () {
     });
 
     $('#table').on('click', '.modal-ajax', function(e) {
-        var localurl = $(this).data('localurl') + ".html";
+        var localurl = $(this).data('localurl') + $(this).data('ext');
         e.preventDefault();
 
         $.ajax({
            type: "GET",
            url: localurl,
-           success: function(html)
+           title: $(this).data('title'),
+           replace_lf: $(this).data('replace-lf'),
+           success: function(content)
            {
-                html = "<div class='modal'>"
-                    + html
-                    + "</div>";
+                if (this.replace_lf) {
+                    content = content.replace(/\n/g, '<br />');
+                }
+
+                var html = "<div class='modal'>";
+                if (this.title.length > 0) {
+                    html = html + "<b>" + this.title + "</b><br /><br />";
+                }
+                html = html + content + "</div>";
                 $(html).appendTo("#container").modal();
            },
            error: function(html)

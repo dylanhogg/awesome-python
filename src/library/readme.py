@@ -32,7 +32,7 @@ def save_content(repopath, branch, filename, content):
     Path(folder).mkdir(parents=True, exist_ok=True)
 
     # Original file contents
-    out_filename = folder + repopath.replace("/", "-") + f"-{filename}"
+    out_filename = folder + repopath.replace("/", "~") + f"~{filename}"
     with open(out_filename, "w") as f:
         f.write(content)
 
@@ -60,7 +60,7 @@ def save_content(repopath, branch, filename, content):
 
     html = f"README: <a href='{readme_url}'>{readme_url}</a><br />"
     if len(pips) > 0:
-        html = html + "<br />pip install command(s) from README:<br /><pre><code>" \
+        html = html + "<br /><pre><code>README pip install(s):<br />" \
                     + "<br />".join(pips) \
                     + "</code></pre>"
     html = html + "<hr />" + html_content
