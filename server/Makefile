@@ -11,6 +11,7 @@ AWS_REGION=us-east-1
 ## AWS S3 cp json data to S3 bucket
 s3-deploy-files:
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME}/github_data.json --profile ${AWS_PROFILE}
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
 
 ## AWS S3 rm bucket
 s3-remove-files:

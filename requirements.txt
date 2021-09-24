@@ -1,5 +1,8 @@
 PyGithub
 pandas
+markdown
+docutils
+Pygments
 python-dotenv
 black
 loguru

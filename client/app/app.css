@@ -2,3 +2,19 @@
     padding-left: 5px;
     padding-right: 5px;
 }
+
+.jquery-modal .modal {
+    overflow-y:auto;
+    width: 90%;
+    max-width:1024px;
+}
+
+.jquery-modal .modal a.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.jquery-modal .modal img {
+    max-width: 800px;
+}

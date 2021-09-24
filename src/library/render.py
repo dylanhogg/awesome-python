@@ -3,8 +3,8 @@ import pandas as pd
 from datetime import datetime
 from typing import List
 from loguru import logger
-from library.ghw import GithubWrapper
 from urllib.parse import urlparse
+from library.ghw import GithubWrapper
 
 
 def get_input_data(csv_location) -> pd.DataFrame:
@@ -113,6 +113,7 @@ def process(df_input, token) -> pd.DataFrame:
     df["_stars_per_week"] = df["_repopath"].apply(
         lambda x: ghw.get_repo(x).stargazers_count * 7 / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
     )
+
     return df.sort_values("_stars", ascending=False)
 
 
