@@ -26,6 +26,8 @@ browse-s3:
 ## AWS S3 cp app to S3
 s3-deploy-app:
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
 
 ## AWS S3 rm static_files from S3
 s3-delete-app:

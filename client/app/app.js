@@ -1,49 +1,49 @@
-var version = "v0.0.2";
+var version = "v0.0.3";
 
 $(document).ready( function () {
     $("#table").DataTable( {
         ajax: {
-            url: '/github_data.json',  // Local testing
-            // url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
+            // url: '/github_data.json',  // Local testing
+            url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
-        order: [[ 6, "desc" ]],
+        order: [[ 5, "desc" ]],
         columns: [
-          { data: "_readme_localurl", title: "Readme",
+          { data: "_readme_localurl", title: "",
+            orderable: false,
             render: function(data, type, row, meta) {
                 if (data.length > 0) {
                     var url = "/data/" + data + "";
-                    return "<a class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'>info</a>";
+                    return "<img src='img/info.png' alt='info' class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
                 } else {
                     return "";
                 }
-
             }
           },
-          { data: "_requirements_localurls", title: "Requrements",
-            render: function(data, type, row, meta) {
-                if (data.length > 0) {
-                    var links = "";
-                    for (var i=0; i<data.length; i++) {
-                        var filename = data[i];
-                        var url = "/data/" + filename + "";
-                        var title = "unknown";
-                        if (filename.indexOf("requirements.txt") > 0) {
-                            title = "requirements.txt";
-                        } else if (filename.indexOf("setup.py") > 0) {
-                            title = "setup.py";
-                        } else if (filename.indexOf("pyproject.toml") > 0) {
-                            title = "pyproject.toml";
-                        }
-                        links = links + "<a class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='' data-title='"+title+"' data-replace-lf='true'>"+title+"</a><br />";
-                    }
-                    return links;
-                } else {
-                    return "";
-                }
-
-            }
-          },
+//          { data: "_requirements_localurls", title: "Requrements",
+//            render: function(data, type, row, meta) {
+//                if (data.length > 0) {
+//                    var links = "";
+//                    for (var i=0; i<data.length; i++) {
+//                        var filename = data[i];
+//                        var url = "/data/" + filename + "";
+//                        var title = "unknown";
+//                        if (filename.indexOf("requirements.txt") > 0) {
+//                            title = "requirements.txt";
+//                        } else if (filename.indexOf("setup.py") > 0) {
+//                            title = "setup.py";
+//                        } else if (filename.indexOf("pyproject.toml") > 0) {
+//                            title = "pyproject.toml";
+//                        }
+//                        links = links + "<a class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='' data-title='"+title+"' data-replace-lf='true'>"+title+"</a><br />";
+//                    }
+//                    return links;
+//                } else {
+//                    return "";
+//                }
+//
+//            }
+//          },
           { data: "category", title: "Category" },
           { data: "_description", title: "Description" },
           { data: "_repopath", title: "Github",
@@ -89,7 +89,6 @@ $(document).ready( function () {
                 if (this.replace_lf) {
                     content = content.replace(/\n/g, '<br />');
                 }
-
                 var html = "<div class='modal'>";
                 if (this.title.length > 0) {
                     html = html + "<b>" + this.title + "</b><br /><br />";

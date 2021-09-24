@@ -58,12 +58,11 @@ def save_content(repopath, branch, filename, content):
     #  e.g. <img src="docs/img/logo.svg">
     #  to <img src="https://raw.githubusercontent.com/<repopath>/<branch>/docs/img/logo.svg"
 
-    html = f"README: <a href='{readme_url}'>{readme_url}</a><br />"
+    html = "<pre><code>"
+    html = html + f"README: <a href='{readme_url}'>{readme_url}</a><br />"
     if len(pips) > 0:
-        html = html + "<br /><pre><code>README pip install(s):<br />" \
-                    + "<br />".join(pips) \
-                    + "</code></pre>"
-    html = html + "<hr />" + html_content
+        html = html + "<br />pip install(s):<br />" + "<br />".join(pips)
+    html = html + "</code></pre><hr />" + html_content
 
     with open(f"{out_filename}.html", "w") as f:
         f.write(html)
