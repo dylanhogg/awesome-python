@@ -12,6 +12,16 @@ BUCKET_NAME=awesome-python.infocruncher.com
 serve-local-app:
 	cd app; python3 -m http.server 8002
 
+## Copy processed data to local client for testing
+copy-data-local-app:
+	cp ../github_data.json app/
+	cp -r ../data app/data
+
+## Remove processed data from local client for testing
+remove-data-local-app:
+	rm app/github_data.json
+	rm -rf app/data
+
 ## Browse local js client
 browse-s3-app:
 	open http://${BUCKET_NAME}/
