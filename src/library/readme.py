@@ -44,6 +44,7 @@ def save_content(repopath, branch, filename, content):
     pips = []
     for m in re.findall(pip_pattern, content):
         pips.append(m.strip())
+    pips = sorted(list(set(pips)))
 
     # TODO: analyse requrements.txt, setup.py etc
 
