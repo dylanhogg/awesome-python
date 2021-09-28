@@ -15,7 +15,11 @@ class GithubWrapper:
         cached = self.cache.get(key, None)
         if cached is None or not use_cache:
             logger.info(f"get_repo: [{name}]")
-            self.cache[key] = self.gh.get_repo(name)
+            try:
+                self.cache[key] = self.gh.get_repo(name)
+            except Exception as ex:
+                logger.error(f"Exception for name: {name}")
+                raise ex
             return self.cache[key]
         else:
             logger.info(f"get_repo: [{name}] (cached)")
