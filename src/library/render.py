@@ -90,7 +90,9 @@ def process(df_input, token) -> pd.DataFrame:
     df["_topics"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).get_topics())
     df["_language"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).language)
     df["_homepage"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).homepage)
-    df["_description"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).description)
+    df["_description"] = df["_repopath"].apply(
+        lambda x: "" if ghw.get_repo(x).description is None else ghw.get_repo(x).description
+    )
     df["_organization"] = df["_repopath"].apply(
         lambda x: x.split("/")[0]
     )
