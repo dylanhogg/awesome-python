@@ -13,6 +13,10 @@ s3-deploy-files:
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME}/github_data.json --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
 
+## AWS Cloudfront invalidation (limit 1000 free calls per month)
+cf-invalidation:
+	aws cloudfront create-invalidation --distribution-id E26Q4ZZ472AR35 --paths "/*"
+
 ## AWS S3 rm bucket
 s3-remove-files:
 	aws s3 rm s3://${BUCKET_NAME} --recursive
