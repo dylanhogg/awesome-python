@@ -2,19 +2,20 @@
 A selection of 1 sci Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[http://awesome-python.infocruncher.com/](http://awesome-python.infocruncher.com/)  
+[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
 
 
 ### [zenodo](https://github.com/zenodo/zenodo)  
-[https://zenodo.org](https://zenodo.org)  
 Research. Shared.  
-1.3 stars per week over 449 weeks  
-584 stars, 201 forks, 42 watches  
-created 2013-02-11, last commit 2021-09-21, main language Python  
+[https://zenodo.org](https://zenodo.org)  
+[https://github.com/zenodo/zenodo](https://github.com/zenodo/zenodo)  
+1.3 stars per week over 450 weeks  
+585 stars, 202 forks, 42 watches  
+created 2013-02-11, last commit 2021-09-24, main language Python  
 <sub><sup>digital-library, elasticsearch, flask, invenio, inveniosoftware, library-management, open-access, open-science, postgresql, python, research-data-management, research-data-repository, scientific-publications, zenodo</sup></sub>
 
 
-This file was automatically generated on 2021-09-24.  
+This file was automatically generated on 2021-09-29.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
