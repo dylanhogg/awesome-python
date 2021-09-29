@@ -91,6 +91,10 @@ def get_readme(repopath):
         "readme.rst",
         "readme.txt",
         "readme.adoc",
+        "Readme.md",
+        "Readme.rst",
+        "Readme.txt",
+        "Readme.adoc",
     ]
 
     for branch in ["master", "main"]:
