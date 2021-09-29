@@ -7,14 +7,14 @@ $(document).ready( function () {
             url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
             dataSrc: 'data'
         },
-        order: [[ 5, "desc" ]],
+        order: [[ 4, "desc" ]],
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
             render: function(data, type, row, meta) {
                 if (data.length > 0) {
                     var url = "/data/" + data + "";
-                    return "<img src='img/info.png' alt='info' class='modal-ajax' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
+                    return "<img src='img/info2.png' alt='info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
                 } else {
                     return "";
                 }
@@ -45,17 +45,17 @@ $(document).ready( function () {
 //            }
 //          },
           { data: "category", title: "Category" },
-          { data: "_description", title: "Description" },
-          { data: "_repopath", title: "Github",
-            render: function(data, type, row, meta) { return "<a href='https://github.com/" + data + "'>" + data + "</a>"; }
+          { data: "_description", title: "Description",
+            render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
           },
-          { data: "_homepage", title: "Homepage",
-              render: function(data, type, row, meta)
-              {
-                try { return "<a href='" + data + "'>" + new URL(data).hostname + "</a>"; }
-                catch { return ""; }
-              }
-          },
+          { title: "Links",
+            render: function(data, type, row, meta) {
+                var repoUrl = "<a href='https://github.com/" + row._repopath + "' target='_blank'>" + "<img src='img/github.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._repopath + "'>" + row._repopath + "</a>";
+                var homepageUrl = "";
+                try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web.png' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
+                return repoUrl + homepageUrl;
+             }
+           },
 //          { data: "_topics", title: "Tags",
 //            render: function(data, type, row, meta) { return data.join(", "); }
 //          },
@@ -64,6 +64,10 @@ $(document).ready( function () {
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
           },
           { data: "_forks", title: "Forks", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+          { data: "_updated_at", title: "Updated",
+            className: "text-nowrap",
+            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+          },
           { data: "_created_at", title: "Created",
             className: "text-nowrap",
             render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }

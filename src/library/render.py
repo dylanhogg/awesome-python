@@ -33,9 +33,9 @@ def make_markdown(row, include_category=False) -> str:
     organization = row["_organization"]
     homepage = row["_homepage"]
     homepage_display = (
-        f"\n[{homepage}]({homepage})  "
+        f"[{homepage}]({homepage})  \n[{url}]({url})"
         if homepage is not None and len(homepage) > 0
-        else f"\n[{url}]({url})  "
+        else f"[{url}]({url})"
     )
     category = row["category"]
     category_display = (
@@ -69,10 +69,10 @@ def make_markdown(row, include_category=False) -> str:
 
     return (
         f"### {header}  "
-        f"{homepage_display}"
         f"\n{description}  "
+        f"\n{homepage_display}  "
         f"\n{stars_per_week} stars per week over {age_weeks} weeks  "
-        f"\n{stars} stars, {forks} forks, {watches} watches  "
+        f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
         f"\n{category_display}created {created}, last commit {last_commit_date}, main language {language}  "
         f"{topics_display}"
         f"\n\n"
