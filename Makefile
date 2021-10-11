@@ -17,10 +17,6 @@ clean:
 run:
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
-## Deploy server json data
-s3-deploy-files:
-	cd server; make s3-deploy-files
-
 ## Run black code formatter
 black:
 	source venv/bin/activate ; black .
@@ -31,7 +27,11 @@ serve-local-client:
 
 ## AWS S3 cp client app to S3
 s3-deploy-app:
-	aws s3 cp client/app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+	cd client; make s3-deploy-app; make cf-invalidation
+
+## Deploy server json data
+s3-deploy-files:
+	cd server; make s3-deploy-files; make cf-invalidation
 
 
 #################################################################################
