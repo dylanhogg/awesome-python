@@ -37,7 +37,7 @@ browse-s3:
 s3-deploy-app: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
-	# NOTE: Remember to invalidate Cloudfront cache to materialise changes
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 rm static_files from S3
 s3-delete-app:
