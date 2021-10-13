@@ -50,25 +50,26 @@ $(document).ready( function () {
           },
           { title: "Links",
             render: function(data, type, row, meta) {
-                var repoUrl = "<a href='https://github.com/" + row._repopath + "' target='_blank'>" + "<img src='img/github.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._repopath + "'>" + row._repopath + "</a>";
+                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+                var orgUrl = "<br /><a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
                 try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web.png' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
-                return repoUrl + homepageUrl;
+                return repoUrl + orgUrl + homepageUrl;
              }
            },
 //          { data: "_topics", title: "Tags",
 //            render: function(data, type, row, meta) { return data.join(", "); }
 //          },
-          { data: "_stars", title: "Stars", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+          { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
           },
-          { data: "_forks", title: "Forks", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-          { data: "_updated_at", title: "Updated",
+          { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+          { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
             className: "text-nowrap",
             render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
           },
-          { data: "_created_at", title: "Created",
+          { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
             className: "text-nowrap",
             render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
           },
