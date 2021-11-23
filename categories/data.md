@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 38 data Python libraries and frameworks ordered by stars.  
+A selection of 40 data Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
@@ -10,7 +10,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 [https://scrapy.org](https://scrapy.org)  
 [https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)  
 68 stars per week over 613 weeks  
-42,190 stars, 9,408 forks, 1,815 watches  
+42,189 stars, 9,408 forks, 1,815 watches  
 created 2010-02-22, last commit 2021-11-16, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -20,7 +20,7 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 54 stars per week over 587 weeks  
-31,770 stars, 13,512 forks, 1,111 watches  
+31,770 stars, 13,513 forks, 1,111 watches  
 created 2010-08-24, last commit 2021-11-23, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
@@ -40,7 +40,7 @@ Faker is a Python package that generates fake data for you.
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 [https://github.com/joke2k/faker](https://github.com/joke2k/faker)  
 28 stars per week over 471 weeks  
-13,296 stars, 1,531 forks, 221 watches  
+13,295 stars, 1,531 forks, 221 watches  
 created 2012-11-12, last commit 2021-11-22, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -50,7 +50,7 @@ Ready-to-use OCR with 80+ supported languages and all popular writing scripts in
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 148 stars per week over 88 weeks  
-13,104 stars, 1,690 forks, 265 watches  
+13,105 stars, 1,691 forks, 265 watches  
 created 2020-03-14, last commit 2021-10-15, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -59,7 +59,7 @@ created 2020-03-14, last commit 2021-10-15, main language Python
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 51 stars per week over 232 weeks  
-11,939 stars, 1,812 forks, 292 watches  
+11,940 stars, 1,812 forks, 292 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -69,7 +69,7 @@ created 2017-06-10, last commit 2021-03-02, main language Python
 [https://dvc.org](https://dvc.org)  
 [https://github.com/iterative/dvc](https://github.com/iterative/dvc)  
 36 stars per week over 246 weeks  
-8,894 stars, 862 forks, 124 watches  
+8,894 stars, 863 forks, 124 watches  
 created 2017-03-04, last commit 2021-11-23, main language Python  
 <sub><sup>ai, collaboration, data-science, data-version-control, developer-tools, git, hacktoberfest, machine-learning, python, reproducibility</sup></sub>
 
@@ -79,7 +79,7 @@ Apache Arrow is a multi-language toolbox for accelerated data interchange and in
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
 28 stars per week over 300 weeks  
-8,695 stars, 2,103 forks, 330 watches  
+8,696 stars, 2,103 forks, 330 watches  
 created 2016-02-17, last commit 2021-11-23, main language C++  
 <sub><sup>arrow</sup></sub>
 
@@ -156,9 +156,17 @@ The Database Toolkit for Python
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 [https://github.com/sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
 28 stars per week over 156 weeks  
-4,514 stars, 747 forks, 82 watches  
+4,513 stars, 747 forks, 82 watches  
 created 2018-11-27, last commit 2021-11-22, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
+
+
+### [kaggle-api](https://github.com/Kaggle/kaggle-api) by [Kaggle](https://github.com/Kaggle)  
+Official Kaggle API  
+[https://github.com/Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)  
+22 stars per week over 199 weeks  
+4,419 stars, 870 forks, 180 watches  
+created 2018-01-25, last commit 2021-03-15, main language Python  
 
 
 ### [AugLy](https://github.com/facebookresearch/AugLy) by [facebookresearch](https://github.com/facebookresearch)  
@@ -239,7 +247,7 @@ A Pythonic wrapper for the Wikipedia API
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 [https://github.com/goldsmith/Wikipedia](https://github.com/goldsmith/Wikipedia)  
 5.46 stars per week over 431 weeks  
-2,354 stars, 477 forks, 79 watches  
+2,355 stars, 477 forks, 80 watches  
 created 2013-08-20, last commit 2020-10-09, main language Python  
 
 
@@ -319,6 +327,14 @@ Fastest library to load data from DB to DataFrames in Rust and Python
 491 stars, 25 forks, 18 watches  
 created 2021-01-13, last commit 2021-11-21, main language Rust  
 <sub><sup>database, dataframe, python, rust, sql</sup></sub>
+
+
+### [hamilton](https://github.com/stitchfix/hamilton) by [stitchfix](https://github.com/stitchfix)  
+Library for creating dataframes from functions.  
+[https://github.com/stitchfix/hamilton](https://github.com/stitchfix/hamilton)  
+3.33 stars per week over 78 weeks  
+260 stars, 7 forks, 11 watches  
+created 2020-05-26, last commit 2021-10-23, main language Python  
 
 
 ### [sql-metadata](https://github.com/macbre/sql-metadata) by [macbre](https://github.com/macbre)  

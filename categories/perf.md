@@ -20,7 +20,7 @@ Parallel computing with task scheduling
 [https://dask.org](https://dask.org)  
 [https://github.com/dask/dask](https://github.com/dask/dask)  
 25 stars per week over 359 weeks  
-9,203 stars, 1,393 forks, 232 watches  
+9,205 stars, 1,393 forks, 232 watches  
 created 2015-01-04, last commit 2021-11-22, main language Python  
 <sub><sup>dask, hacktoberfest, numpy, pandas, pydata, python, scikit-learn, scipy</sup></sub>
 
@@ -41,7 +41,7 @@ Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and ex
 [https://github.com/vaexio/vaex](https://github.com/vaexio/vaex)  
 18 stars per week over 373 weeks  
 6,737 stars, 528 forks, 141 watches  
-created 2014-09-27, last commit 2021-11-19, main language Python  
+created 2014-09-27, last commit 2021-11-23, main language Python  
 <sub><sup>bigdata, dataframe, hdf5, machine-learning, machinelearning, memory-mapped-file, python, tabular-data, visualization</sup></sub>
 
 

@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 12 sim Python libraries and frameworks ordered by stars.  
+A selection of 13 sim Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
@@ -10,7 +10,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 [https://gym.openai.com/](https://gym.openai.com/)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 88 stars per week over 290 weeks  
-25,748 stars, 7,377 forks, 987 watches  
+25,748 stars, 7,379 forks, 987 watches  
 created 2016-04-27, last commit 2021-11-22, main language Python  
 
 
@@ -19,7 +19,7 @@ Python sample codes for robotics algorithms.
 [https://pythonrobotics.readthedocs.io/en/latest/](https://pythonrobotics.readthedocs.io/en/latest/)  
 [https://github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 46 stars per week over 296 weeks  
-13,705 stars, 4,498 forks, 502 watches  
+13,707 stars, 4,498 forks, 502 watches  
 created 2016-03-21, last commit 2021-11-22, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -29,9 +29,17 @@ Bullet Physics SDK: real-time collision detection and multi-physics simulation f
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
 15 stars per week over 554 weeks  
-8,596 stars, 2,337 forks, 413 watches  
+8,597 stars, 2,337 forks, 413 watches  
 created 2011-04-12, last commit 2021-11-19, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
+
+
+### [mujoco-py](https://github.com/openai/mujoco-py) by [openai](https://github.com/openai)  
+MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
+[https://github.com/openai/mujoco-py](https://github.com/openai/mujoco-py)  
+6.33 stars per week over 291 weeks  
+1,843 stars, 590 forks, 135 watches  
+created 2016-04-24, last commit 2021-11-19, main language Cython  
 
 
 ### [mesa](https://github.com/projectmesa/mesa) by [projectmesa](https://github.com/projectmesa)  

@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 13 crypto Python libraries and frameworks ordered by stars.  
+A selection of 16 crypto Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
@@ -19,7 +19,7 @@ Free, open source crypto trading bot
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 57 stars per week over 235 weeks  
-13,592 stars, 2,982 forks, 527 watches  
+13,607 stars, 2,982 forks, 526 watches  
 created 2017-05-17, last commit 2021-11-23, main language Python  
 <sub><sup>algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency, freqtrade, python, telegram-bot, trade, trading-bot</sup></sub>
 
@@ -28,7 +28,7 @@ created 2017-05-17, last commit 2021-11-23, main language Python
 This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
 [https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)  
 103 stars per week over 28 weeks  
-2,952 stars, 659 forks, 130 watches  
+2,952 stars, 660 forks, 130 watches  
 created 2021-05-08, last commit 2021-06-10, main language Python  
 
 
@@ -37,7 +37,7 @@ A python interface for interacting with the Ethereum blockchain and ecosystem.
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
 8.64 stars per week over 292 weeks  
-2,528 stars, 859 forks, 91 watches  
+2,529 stars, 859 forks, 91 watches  
 created 2016-04-14, last commit 2021-11-19, main language Python  
 
 
@@ -86,6 +86,26 @@ created 2018-01-23, last commit 2021-06-03, main language Python
 <sub><sup>bitcoin, bitcoin-api, bitcoin-price, cryptocurrency, cryptocurrency-exchanges, cryptocurrency-price-ticker, cryptocurrency-prices, dash, ethereum, ethereum-blockchain, ethereum-price, gdax, gdax-api, gdax-python, litecoin, litecoin-price, plotly, plotly-dash, python, python3</sup></sub>
 
 
+### [Blankly](https://github.com/Blankly-Finance/Blankly) by [Blankly-Finance](https://github.com/Blankly-Finance)  
+🚀 💸  Trade stocks, cryptos, and forex w/ one package. Easily build, backtest, trade, and deploy across exchanges in a few lines of code.  
+[https://blankly.finance](https://blankly.finance)  
+[https://github.com/Blankly-Finance/Blankly](https://github.com/Blankly-Finance/Blankly)  
+9.35 stars per week over 37 weeks  
+346 stars, 42 forks, 13 watches  
+created 2021-03-09, last commit 2021-11-20, main language Python  
+<sub><sup>binance, blankly, bot, bot-framework, bots, coinbase, coinbase-pro, coinbase-pro-api, cryptocurrency, framework, investment, platform, stocks, trading, trading-bot, trading-strategies</sup></sub>
+
+
+### [eth-utils](https://github.com/ethereum/eth-utils) by [ethereum](https://github.com/ethereum)  
+Utility functions for working with ethereum related codebases.  
+[https://eth-utils.readthedocs.io/en/latest/](https://eth-utils.readthedocs.io/en/latest/)  
+[https://github.com/ethereum/eth-utils](https://github.com/ethereum/eth-utils)  
+0.83 stars per week over 250 weeks  
+207 stars, 112 forks, 18 watches  
+created 2017-02-07, last commit 2021-11-18, main language Python  
+<sub><sup>ethereum, python, utility-library</sup></sub>
+
+
 ### [ethtx](https://github.com/EthTx/ethtx) by [EthTx](https://github.com/EthTx)  
 Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
@@ -93,6 +113,14 @@ Python package with core transaction decoding functions.
 8.18 stars per week over 21 weeks  
 173 stars, 20 forks, 9 watches  
 created 2021-06-28, last commit 2021-11-08, main language Python  
+
+
+### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
+Ethereum decompiler  
+[https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
+1.6 stars per week over 92 weeks  
+147 stars, 39 forks, 12 watches  
+created 2020-02-17, last commit 2020-08-22, main language Python  
 
 
 ### [ethtx_ce](https://github.com/EthTx/ethtx_ce) by [EthTx](https://github.com/EthTx)  

@@ -10,7 +10,7 @@ Optional static typing for Python
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
 25 stars per week over 467 weeks  
-11,855 stars, 1,971 forks, 210 watches  
+11,855 stars, 1,972 forks, 210 watches  
 created 2012-12-07, last commit 2021-11-22, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
@@ -31,7 +31,7 @@ A static type analyzer for Python code
 [https://github.com/google/pytype](https://github.com/google/pytype)  
 10 stars per week over 348 weeks  
 3,518 stars, 220 forks, 58 watches  
-created 2015-03-18, last commit 2021-11-19, main language Python  
+created 2015-03-18, last commit 2021-11-23, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 

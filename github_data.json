@@ -126,7 +126,7 @@
             "_repopath": "tensorflow/tensorflow",
             "_reponame": "tensorflow",
             "_stars": 160786,
-            "_forks": 85822,
+            "_forks": 85823,
             "_watches": 7973,
             "_topics": [
                 "tensorflow",
@@ -163,8 +163,8 @@
             "description": null,
             "_repopath": "django/django",
             "_reponame": "django",
-            "_stars": 60820,
-            "_forks": 25968,
+            "_stars": 60819,
+            "_forks": 25971,
             "_watches": 2308,
             "_topics": [
                 "python",
@@ -185,7 +185,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2012-04-28T00:00:00.000Z",
             "_age_weeks": 499,
-            "_stars_per_week": 121.7791762014,
+            "_stars_per_week": 121.777173913,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/django/django/master/README.rst",
             "_readme_localurl": "django~django~README.rst",
@@ -211,8 +211,8 @@
             "description": null,
             "_repopath": "pallets/flask",
             "_reponame": "flask",
-            "_stars": 57203,
-            "_forks": 14709,
+            "_stars": 57201,
+            "_forks": 14708,
             "_watches": 2207,
             "_topics": [
                 "python",
@@ -231,7 +231,7 @@
             "_last_commit_date": "2021-11-16T00:00:00.000Z",
             "_created_at": "2010-04-06T00:00:00.000Z",
             "_age_weeks": 607,
-            "_stars_per_week": 94.2388797364,
+            "_stars_per_week": 94.2355848435,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/pallets/flask/master/README.rst",
             "_readme_localurl": "pallets~flask~README.rst",
@@ -254,8 +254,8 @@
             "description": null,
             "_repopath": "huggingface/transformers",
             "_reponame": "transformers",
-            "_stars": 54501,
-            "_forks": 12893,
+            "_stars": 54510,
+            "_forks": 12894,
             "_watches": 772,
             "_topics": [
                 "nlp",
@@ -287,7 +287,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2018-10-29T00:00:00.000Z",
             "_age_weeks": 160,
-            "_stars_per_week": 340.3273862623,
+            "_stars_per_week": 340.3835860839,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/huggingface/transformers/master/README.md",
             "_readme_localurl": "huggingface~transformers~README.md",
@@ -313,8 +313,8 @@
             "description": null,
             "_repopath": "keras-team/keras",
             "_reponame": "keras",
-            "_stars": 53252,
-            "_forks": 18897,
+            "_stars": 53253,
+            "_forks": 18896,
             "_watches": 1997,
             "_topics": [
                 "deep-learning",
@@ -332,7 +332,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2015-03-28T00:00:00.000Z",
             "_age_weeks": 347,
-            "_stars_per_week": 153.2746710526,
+            "_stars_per_week": 153.2775493421,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/keras-team/keras/master/README.md",
             "_readme_localurl": "keras-team~keras~README.md",
@@ -355,8 +355,8 @@
             "description": null,
             "_repopath": "pytorch/pytorch",
             "_reponame": "pytorch",
-            "_stars": 52284,
-            "_forks": 14317,
+            "_stars": 52285,
+            "_forks": 14318,
             "_watches": 1595,
             "_topics": [
                 "neural-network",
@@ -376,7 +376,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2016-08-13T00:00:00.000Z",
             "_age_weeks": 275,
-            "_stars_per_week": 189.8278008299,
+            "_stars_per_week": 189.8314315353,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/pytorch/pytorch/master/README.md",
             "_readme_localurl": "pytorch~pytorch~README.md",
@@ -402,7 +402,7 @@
             "description": null,
             "_repopath": "scikit-learn/scikit-learn",
             "_reponame": "scikit-learn",
-            "_stars": 48038,
+            "_stars": 48039,
             "_forks": 22291,
             "_watches": 2221,
             "_topics": [
@@ -420,7 +420,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2010-08-17T00:00:00.000Z",
             "_age_weeks": 588,
-            "_stars_per_week": 81.6972789116,
+            "_stars_per_week": 81.6989795918,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/README.rst",
             "_readme_localurl": "scikit-learn~scikit-learn~README.rst",
@@ -446,8 +446,8 @@
             "description": null,
             "_repopath": "home-assistant/core",
             "_reponame": "core",
-            "_stars": 47638,
-            "_forks": 15855,
+            "_stars": 47639,
+            "_forks": 15859,
             "_watches": 1342,
             "_topics": [
                 "python",
@@ -467,7 +467,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2013-09-17T00:00:00.000Z",
             "_age_weeks": 427,
-            "_stars_per_week": 111.5644028103,
+            "_stars_per_week": 111.5667447307,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/home-assistant/core/master/README.rst",
             "_readme_localurl": "home-assistant~core~README.rst",
@@ -496,8 +496,8 @@
             "description": null,
             "_repopath": "psf/requests",
             "_reponame": "requests",
-            "_stars": 46437,
-            "_forks": 8552,
+            "_stars": 46438,
+            "_forks": 8553,
             "_watches": 1376,
             "_topics": [
                 "python",
@@ -517,7 +517,7 @@
             "_last_commit_date": "2021-10-21T00:00:00.000Z",
             "_created_at": "2011-02-13T00:00:00.000Z",
             "_age_weeks": 562,
-            "_stars_per_week": 82.5861280488,
+            "_stars_per_week": 82.5879065041,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/psf/requests/master/README.md",
             "_readme_localurl": "psf~requests~README.md",
@@ -540,7 +540,7 @@
             "description": null,
             "_repopath": "scrapy/scrapy",
             "_reponame": "scrapy",
-            "_stars": 42190,
+            "_stars": 42189,
             "_forks": 9408,
             "_watches": 1815,
             "_topics": [
@@ -559,7 +559,7 @@
             "_last_commit_date": "2021-11-16T00:00:00.000Z",
             "_created_at": "2010-02-22T00:00:00.000Z",
             "_age_weeks": 613,
-            "_stars_per_week": 68.8094128611,
+            "_stars_per_week": 68.8077819199,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/scrapy/scrapy/master/README.rst",
             "_readme_localurl": "scrapy~scrapy~README.rst",
@@ -582,9 +582,9 @@
             "description": null,
             "_repopath": "tiangolo/fastapi",
             "_reponame": "fastapi",
-            "_stars": 38607,
+            "_stars": 38608,
             "_forks": 2840,
-            "_watches": 560,
+            "_watches": 561,
             "_topics": [
                 "python",
                 "json",
@@ -615,7 +615,7 @@
             "_last_commit_date": "2021-10-26T00:00:00.000Z",
             "_created_at": "2018-12-08T00:00:00.000Z",
             "_age_weeks": 154,
-            "_stars_per_week": 249.9990749306,
+            "_stars_per_week": 250.0055504163,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/tiangolo/fastapi/master/README.md",
             "_readme_localurl": "tiangolo~fastapi~README.md",
@@ -639,7 +639,7 @@
             "_repopath": "pandas-dev/pandas",
             "_reponame": "pandas",
             "_stars": 31770,
-            "_forks": 13512,
+            "_forks": 13513,
             "_watches": 1111,
             "_topics": [
                 "data-analysis",
@@ -736,7 +736,7 @@
             "description": null,
             "_repopath": "sherlock-project/sherlock",
             "_reponame": "sherlock",
-            "_stars": 28230,
+            "_stars": 28232,
             "_forks": 3040,
             "_watches": 894,
             "_topics": [
@@ -761,7 +761,7 @@
             "_last_commit_date": "2021-11-21T00:00:00.000Z",
             "_created_at": "2018-12-24T00:00:00.000Z",
             "_age_weeks": 152,
-            "_stars_per_week": 185.5492957746,
+            "_stars_per_week": 185.5624413146,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/sherlock-project/sherlock/master/README.md",
             "_readme_localurl": "sherlock-project~sherlock~README.md",
@@ -785,7 +785,7 @@
             "_repopath": "openai/gym",
             "_reponame": "gym",
             "_stars": 25748,
-            "_forks": 7377,
+            "_forks": 7379,
             "_watches": 987,
             "_topics": [],
             "_language": "Python",
@@ -825,7 +825,7 @@
             "description": null,
             "_repopath": "pyenv/pyenv",
             "_reponame": "pyenv",
-            "_stars": 25311,
+            "_stars": 25310,
             "_forks": 2244,
             "_watches": 375,
             "_topics": [
@@ -839,7 +839,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2012-08-31T00:00:00.000Z",
             "_age_weeks": 481,
-            "_stars_per_week": 52.5591812519,
+            "_stars_per_week": 52.5571047167,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/pyenv/pyenv/master/README.md",
             "_readme_localurl": "pyenv~pyenv~README.md",
@@ -856,9 +856,9 @@
             "description": null,
             "_repopath": "apache/airflow",
             "_reponame": "airflow",
-            "_stars": 23838,
-            "_forks": 9623,
-            "_watches": 729,
+            "_stars": 23841,
+            "_forks": 9625,
+            "_watches": 730,
             "_topics": [
                 "airflow",
                 "apache",
@@ -873,10 +873,10 @@
             "_description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
             "_organization": "apache",
             "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2015-04-13T00:00:00.000Z",
             "_age_weeks": 345,
-            "_stars_per_week": 69.0670529801,
+            "_stars_per_week": 69.0757450331,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/apache/airflow/master/README.md",
             "_readme_localurl": "apache~airflow~README.md",
@@ -902,7 +902,7 @@
             "description": null,
             "_repopath": "psf/black",
             "_reponame": "black",
-            "_stars": 23688,
+            "_stars": 23687,
             "_forks": 1524,
             "_watches": 197,
             "_topics": [
@@ -923,7 +923,7 @@
             "_last_commit_date": "2021-11-21T00:00:00.000Z",
             "_created_at": "2018-03-14T00:00:00.000Z",
             "_age_weeks": 192,
-            "_stars_per_week": 122.8266666667,
+            "_stars_per_week": 122.8214814815,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/psf/black/master/README.md",
             "_readme_localurl": "psf~black~README.md",
@@ -1234,7 +1234,7 @@
             "description": null,
             "_repopath": "apache/incubator-mxnet",
             "_reponame": "incubator-mxnet",
-            "_stars": 19751,
+            "_stars": 19752,
             "_forks": 6879,
             "_watches": 1110,
             "_topics": [
@@ -1248,7 +1248,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2015-04-30T00:00:00.000Z",
             "_age_weeks": 342,
-            "_stars_per_week": 57.6310962901,
+            "_stars_per_week": 57.6340141726,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/apache/incubator-mxnet/master/README.md",
             "_readme_localurl": "apache~incubator-mxnet~README.md",
@@ -1265,7 +1265,7 @@
             "description": null,
             "_repopath": "numpy/numpy",
             "_reponame": "numpy",
-            "_stars": 18873,
+            "_stars": 18872,
             "_forks": 6179,
             "_watches": 560,
             "_topics": [
@@ -1280,7 +1280,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2010-09-13T00:00:00.000Z",
             "_age_weeks": 584,
-            "_stars_per_week": 32.3088774762,
+            "_stars_per_week": 32.3071655662,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/numpy/numpy/master/README.md",
             "_readme_localurl": "numpy~numpy~README.md",
@@ -1404,7 +1404,7 @@
             "description": null,
             "_repopath": "streamlit/streamlit",
             "_reponame": "streamlit",
-            "_stars": 16608,
+            "_stars": 16609,
             "_forks": 1482,
             "_watches": 258,
             "_topics": [
@@ -1425,7 +1425,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2019-08-24T00:00:00.000Z",
             "_age_weeks": 117,
-            "_stars_per_week": 141.4306569343,
+            "_stars_per_week": 141.4391727494,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/streamlit/streamlit/master/README.md",
             "_readme_localurl": "streamlit~streamlit~README.md",
@@ -1442,7 +1442,7 @@
             "description": null,
             "_repopath": "PyTorchLightning/pytorch-lightning",
             "_reponame": "pytorch-lightning",
-            "_stars": 16296,
+            "_stars": 16298,
             "_forks": 1981,
             "_watches": 221,
             "_topics": [
@@ -1462,7 +1462,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2019-03-31T00:00:00.000Z",
             "_age_weeks": 138,
-            "_stars_per_week": 117.8429752066,
+            "_stars_per_week": 117.8574380165,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/README.md",
             "_readme_localurl": "PyTorchLightning~pytorch-lightning~README.md",
@@ -1776,7 +1776,7 @@
             "_reponame": "jax",
             "_stars": 15095,
             "_forks": 1403,
-            "_watches": 255,
+            "_watches": 254,
             "_topics": [
                 "jax"
             ],
@@ -1892,7 +1892,7 @@
             "description": null,
             "_repopath": "google/mediapipe",
             "_reponame": "mediapipe",
-            "_stars": 14749,
+            "_stars": 14752,
             "_forks": 3024,
             "_watches": 465,
             "_topics": [
@@ -1922,7 +1922,7 @@
             "_last_commit_date": "2021-11-16T00:00:00.000Z",
             "_created_at": "2019-06-13T00:00:00.000Z",
             "_age_weeks": 127,
-            "_stars_per_week": 115.4843400447,
+            "_stars_per_week": 115.5078299776,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/google/mediapipe/master/README.md",
             "_readme_localurl": "google~mediapipe~README.md",
@@ -1948,7 +1948,7 @@
             "description": null,
             "_repopath": "slundberg/shap",
             "_reponame": "shap",
-            "_stars": 14662,
+            "_stars": 14663,
             "_forks": 2194,
             "_watches": 246,
             "_topics": [
@@ -1968,7 +1968,7 @@
             "_last_commit_date": "2021-10-20T00:00:00.000Z",
             "_created_at": "2016-11-22T00:00:00.000Z",
             "_age_weeks": 261,
-            "_stars_per_week": 56.1762452107,
+            "_stars_per_week": 56.1800766284,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/slundberg/shap/master/README.md",
             "_readme_localurl": "slundberg~shap~README.md",
@@ -1989,6 +1989,107 @@
             ]
         },
         {
+            "index": 293,
+            "category": "ml",
+            "githuburl": "https://github.com/rwightman/pytorch-image-models",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "rwightman/pytorch-image-models",
+            "_reponame": "pytorch-image-models",
+            "_stars": 14648,
+            "_forks": 2320,
+            "_watches": 251,
+            "_topics": [
+                "pytorch",
+                "imagenet-classifier",
+                "resnet",
+                "dual-path-networks",
+                "cnn-classification",
+                "pretrained-models",
+                "pretrained-weights",
+                "distributed-training",
+                "mobile-deep-learning",
+                "mobilenet-v2",
+                "mnasnet",
+                "mobilenetv3",
+                "efficientnet",
+                "augmix",
+                "randaugment",
+                "mixnet",
+                "efficientnet-training",
+                "vision-transformer-models",
+                "nfnets",
+                "normalization-free-training"
+            ],
+            "_language": "Python",
+            "_homepage": "https://rwightman.github.io/pytorch-image-models/",
+            "_description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+            "_organization": "rwightman",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_created_at": "2019-02-02T00:00:00.000Z",
+            "_age_weeks": 146,
+            "_stars_per_week": 100.0351219512,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/rwightman/pytorch-image-models/master/README.md",
+            "_readme_localurl": "rwightman~pytorch-image-models~README.md",
+            "_requirements_filenames": [
+                "requirements.txt",
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/rwightman/pytorch-image-models/master/requirements.txt",
+                "https://raw.githubusercontent.com/rwightman/pytorch-image-models/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "rwightman~pytorch-image-models~requirements.txt",
+                "rwightman~pytorch-image-models~setup.py"
+            ]
+        },
+        {
+            "index": 75,
+            "category": "ml",
+            "githuburl": "https://github.com/pytorch/fairseq",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pytorch/fairseq",
+            "_reponame": "fairseq",
+            "_stars": 14591,
+            "_forks": 3796,
+            "_watches": 324,
+            "_topics": [
+                "python",
+                "pytorch",
+                "artificial-intelligence"
+            ],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "_organization": "pytorch",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-20T00:00:00.000Z",
+            "_created_at": "2017-08-29T00:00:00.000Z",
+            "_age_weeks": 221,
+            "_stars_per_week": 66.0226244344,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/pytorch/fairseq/master/README.md",
+            "_readme_localurl": "pytorch~fairseq~README.md",
+            "_requirements_filenames": [
+                "setup.py",
+                "pyproject.toml"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/pytorch/fairseq/master/setup.py",
+                "https://raw.githubusercontent.com/pytorch/fairseq/master/pyproject.toml"
+            ],
+            "_requirements_localurls": [
+                "pytorch~fairseq~setup.py",
+                "pytorch~fairseq~pyproject.toml"
+            ]
+        },
+        {
             "index": 48,
             "category": "viz",
             "githuburl": "https://github.com/matplotlib/matplotlib",
@@ -1997,7 +2098,7 @@
             "description": null,
             "_repopath": "matplotlib/matplotlib",
             "_reponame": "matplotlib",
-            "_stars": 14591,
+            "_stars": 14590,
             "_forks": 6154,
             "_watches": 576,
             "_topics": [
@@ -2020,7 +2121,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2011-02-19T00:00:00.000Z",
             "_age_weeks": 561,
-            "_stars_per_week": 25.9890585242,
+            "_stars_per_week": 25.9872773537,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/matplotlib/matplotlib/master/README.rst",
             "_readme_localurl": "matplotlib~matplotlib~README.rst",
@@ -2032,48 +2133,6 @@
             ],
             "_requirements_localurls": [
                 "matplotlib~matplotlib~setup.py"
-            ]
-        },
-        {
-            "index": 75,
-            "category": "ml",
-            "githuburl": "https://github.com/pytorch/fairseq",
-            "featured": null,
-            "links": null,
-            "description": null,
-            "_repopath": "pytorch/fairseq",
-            "_reponame": "fairseq",
-            "_stars": 14590,
-            "_forks": 3795,
-            "_watches": 324,
-            "_topics": [
-                "python",
-                "pytorch",
-                "artificial-intelligence"
-            ],
-            "_language": "Python",
-            "_homepage": null,
-            "_description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
-            "_organization": "pytorch",
-            "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-20T00:00:00.000Z",
-            "_created_at": "2017-08-29T00:00:00.000Z",
-            "_age_weeks": 221,
-            "_stars_per_week": 66.0180995475,
-            "_readme_filename": "README.md",
-            "_readme_giturl": "https://raw.githubusercontent.com/pytorch/fairseq/master/README.md",
-            "_readme_localurl": "pytorch~fairseq~README.md",
-            "_requirements_filenames": [
-                "setup.py",
-                "pyproject.toml"
-            ],
-            "_requirements_giturls": [
-                "https://raw.githubusercontent.com/pytorch/fairseq/master/setup.py",
-                "https://raw.githubusercontent.com/pytorch/fairseq/master/pyproject.toml"
-            ],
-            "_requirements_localurls": [
-                "pytorch~fairseq~setup.py",
-                "pytorch~fairseq~pyproject.toml"
             ]
         },
         {
@@ -2117,7 +2176,7 @@
             "description": null,
             "_repopath": "AtsushiSakai/PythonRobotics",
             "_reponame": "PythonRobotics",
-            "_stars": 13705,
+            "_stars": 13707,
             "_forks": 4498,
             "_watches": 502,
             "_topics": [
@@ -2146,7 +2205,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2016-03-21T00:00:00.000Z",
             "_age_weeks": 296,
-            "_stars_per_week": 46.2783405692,
+            "_stars_per_week": 46.2850940666,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/AtsushiSakai/PythonRobotics/master/README.md",
             "_readme_localurl": "AtsushiSakai~PythonRobotics~README.md",
@@ -2250,9 +2309,9 @@
             "description": null,
             "_repopath": "freqtrade/freqtrade",
             "_reponame": "freqtrade",
-            "_stars": 13592,
+            "_stars": 13607,
             "_forks": 2982,
-            "_watches": 527,
+            "_watches": 526,
             "_topics": [
                 "python",
                 "cryptocurrencies",
@@ -2272,7 +2331,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2017-05-17T00:00:00.000Z",
             "_age_weeks": 235,
-            "_stars_per_week": 57.6281041793,
+            "_stars_per_week": 57.6917019988,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/freqtrade/freqtrade/master/README.md",
             "_readme_localurl": "freqtrade~freqtrade~README.md",
@@ -2301,7 +2360,7 @@
             "description": null,
             "_repopath": "joke2k/faker",
             "_reponame": "faker",
-            "_stars": 13296,
+            "_stars": 13295,
             "_forks": 1531,
             "_watches": 221,
             "_topics": [
@@ -2321,7 +2380,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2012-11-12T00:00:00.000Z",
             "_age_weeks": 471,
-            "_stars_per_week": 28.2207398423,
+            "_stars_per_week": 28.2186173438,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/joke2k/faker/master/README.rst",
             "_readme_localurl": "joke2k~faker~README.rst",
@@ -2344,8 +2403,8 @@
             "description": null,
             "_repopath": "JaidedAI/EasyOCR",
             "_reponame": "EasyOCR",
-            "_stars": 13104,
-            "_forks": 1690,
+            "_stars": 13105,
+            "_forks": 1691,
             "_watches": 265,
             "_topics": [
                 "ocr",
@@ -2372,7 +2431,7 @@
             "_last_commit_date": "2021-10-15T00:00:00.000Z",
             "_created_at": "2020-03-14T00:00:00.000Z",
             "_age_weeks": 88,
-            "_stars_per_week": 148.1873990307,
+            "_stars_per_week": 148.1987075929,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/JaidedAI/EasyOCR/master/README.md",
             "_readme_localurl": "JaidedAI~EasyOCR~README.md",
@@ -2449,7 +2508,7 @@
             "description": null,
             "_repopath": "twintproject/twint",
             "_reponame": "twint",
-            "_stars": 11939,
+            "_stars": 11940,
             "_forks": 1812,
             "_watches": 292,
             "_topics": [
@@ -2474,7 +2533,7 @@
             "_last_commit_date": "2021-03-02T00:00:00.000Z",
             "_created_at": "2017-06-10T00:00:00.000Z",
             "_age_weeks": 232,
-            "_stars_per_week": 51.3663183774,
+            "_stars_per_week": 51.3706207744,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/twintproject/twint/master/README.md",
             "_readme_localurl": "twintproject~twint~README.md",
@@ -2501,7 +2560,7 @@
             "_repopath": "python/mypy",
             "_reponame": "mypy",
             "_stars": 11855,
-            "_forks": 1971,
+            "_forks": 1972,
             "_watches": 210,
             "_topics": [
                 "python",
@@ -2544,7 +2603,7 @@
             "description": null,
             "_repopath": "onnx/onnx",
             "_reponame": "onnx",
-            "_stars": 11702,
+            "_stars": 11703,
             "_forks": 2230,
             "_watches": 429,
             "_topics": [
@@ -2569,7 +2628,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2017-09-07T00:00:00.000Z",
             "_age_weeks": 219,
-            "_stars_per_week": 53.2600780234,
+            "_stars_per_week": 53.2646293888,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/onnx/onnx/master/README.md",
             "_readme_localurl": "onnx~onnx~README.md",
@@ -2646,8 +2705,8 @@
             "_homepage": "https://jupyterlab.readthedocs.io/",
             "_description": "JupyterLab computational environment.",
             "_organization": "jupyterlab",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
-            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2016-06-03T00:00:00.000Z",
             "_age_weeks": 285,
             "_stars_per_week": 40.651825913,
@@ -2676,7 +2735,7 @@
             "description": null,
             "_repopath": "huggingface/datasets",
             "_reponame": "datasets",
-            "_stars": 11352,
+            "_stars": 11356,
             "_forks": 1326,
             "_watches": 234,
             "_topics": [
@@ -2700,7 +2759,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2020-03-26T00:00:00.000Z",
             "_age_weeks": 86,
-            "_stars_per_week": 130.9126853377,
+            "_stars_per_week": 130.9588138386,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/huggingface/datasets/master/README.md",
             "_readme_localurl": "huggingface~datasets~README.md",
@@ -2776,7 +2835,7 @@
             "description": null,
             "_repopath": "mlflow/mlflow",
             "_reponame": "mlflow",
-            "_stars": 10704,
+            "_stars": 10706,
             "_forks": 2382,
             "_watches": 274,
             "_topics": [
@@ -2795,7 +2854,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2018-06-05T00:00:00.000Z",
             "_age_weeks": 181,
-            "_stars_per_week": 59.138121547,
+            "_stars_per_week": 59.1491712707,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/mlflow/mlflow/master/README.rst",
             "_readme_localurl": "mlflow~mlflow~README.rst",
@@ -2866,8 +2925,8 @@
             "description": null,
             "_repopath": "microsoft/nni",
             "_reponame": "nni",
-            "_stars": 10583,
-            "_forks": 1475,
+            "_stars": 10586,
+            "_forks": 1476,
             "_watches": 271,
             "_topics": [
                 "automl",
@@ -2898,7 +2957,7 @@
             "_last_commit_date": "2021-11-19T00:00:00.000Z",
             "_created_at": "2018-06-01T00:00:00.000Z",
             "_age_weeks": 181,
-            "_stars_per_week": 58.2856018883,
+            "_stars_per_week": 58.3021243116,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/microsoft/nni/master/README.md",
             "_readme_localurl": "microsoft~nni~README.md",
@@ -2921,7 +2980,7 @@
             "description": null,
             "_repopath": "plotly/plotly.py",
             "_reponame": "plotly.py",
-            "_stars": 10564,
+            "_stars": 10563,
             "_forks": 2049,
             "_watches": 268,
             "_topics": [
@@ -2948,7 +3007,7 @@
             "_last_commit_date": "2021-11-15T00:00:00.000Z",
             "_created_at": "2013-11-21T00:00:00.000Z",
             "_age_weeks": 417,
-            "_stars_per_week": 25.2900136799,
+            "_stars_per_week": 25.287619699,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/plotly/plotly.py/master/README.md",
             "_readme_localurl": "plotly~plotly.py~README.md",
@@ -3177,7 +3236,7 @@
             "description": null,
             "_repopath": "dask/dask",
             "_reponame": "dask",
-            "_stars": 9203,
+            "_stars": 9205,
             "_forks": 1393,
             "_watches": 232,
             "_topics": [
@@ -3198,7 +3257,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2015-01-04T00:00:00.000Z",
             "_age_weeks": 359,
-            "_stars_per_week": 25.6147117296,
+            "_stars_per_week": 25.62027833,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/dask/dask/master/README.rst",
             "_readme_localurl": "dask~dask~README.rst",
@@ -3264,7 +3323,7 @@
             "description": null,
             "_repopath": "python-pillow/Pillow",
             "_reponame": "Pillow",
-            "_stars": 9148,
+            "_stars": 9149,
             "_forks": 1745,
             "_watches": 213,
             "_topics": [
@@ -3285,7 +3344,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2012-07-24T00:00:00.000Z",
             "_age_weeks": 487,
-            "_stars_per_week": 18.7843942505,
+            "_stars_per_week": 18.7864476386,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/python-pillow/Pillow/master/README.md",
             "_readme_localurl": "python-pillow~Pillow~README.md",
@@ -3311,7 +3370,7 @@
             "description": null,
             "_repopath": "mwaskom/seaborn",
             "_reponame": "seaborn",
-            "_stars": 8939,
+            "_stars": 8938,
             "_forks": 1526,
             "_watches": 242,
             "_topics": [
@@ -3325,11 +3384,11 @@
             "_homepage": "https://seaborn.pydata.org",
             "_description": "Statistical data visualization in Python",
             "_organization": "mwaskom",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
             "_last_commit_date": "2021-10-31T00:00:00.000Z",
             "_created_at": "2012-06-18T00:00:00.000Z",
             "_age_weeks": 492,
-            "_stars_per_week": 18.163425254,
+            "_stars_per_week": 18.1613933237,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/mwaskom/seaborn/master/README.md",
             "_readme_localurl": "mwaskom~seaborn~README.md",
@@ -3353,7 +3412,7 @@
             "_repopath": "iterative/dvc",
             "_reponame": "dvc",
             "_stars": 8894,
-            "_forks": 862,
+            "_forks": 863,
             "_watches": 124,
             "_topics": [
                 "data-science",
@@ -3474,7 +3533,7 @@
             "description": null,
             "_repopath": "apache/arrow",
             "_reponame": "arrow",
-            "_stars": 8695,
+            "_stars": 8696,
             "_forks": 2103,
             "_watches": 330,
             "_topics": [
@@ -3488,7 +3547,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2016-02-17T00:00:00.000Z",
             "_age_weeks": 300,
-            "_stars_per_week": 28.9007597341,
+            "_stars_per_week": 28.9040835708,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/apache/arrow/master/README.md",
             "_readme_localurl": "apache~arrow~README.md",
@@ -3505,7 +3564,7 @@
             "description": null,
             "_repopath": "jupyter/notebook",
             "_reponame": "notebook",
-            "_stars": 8673,
+            "_stars": 8674,
             "_forks": 3600,
             "_watches": 316,
             "_topics": [
@@ -3518,11 +3577,11 @@
             "_homepage": "https://jupyter-notebook.readthedocs.io/",
             "_description": "Jupyter Interactive Notebook",
             "_organization": "jupyter",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
             "_last_commit_date": "2021-11-18T00:00:00.000Z",
             "_created_at": "2015-04-09T00:00:00.000Z",
             "_age_weeks": 345,
-            "_stars_per_week": 25.0871900826,
+            "_stars_per_week": 25.0900826446,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/jupyter/notebook/master/README.md",
             "_readme_localurl": "jupyter~notebook~README.md",
@@ -3562,8 +3621,8 @@
             "_homepage": "https://sympy.org/",
             "_description": "A computer algebra system written in pure Python",
             "_organization": "sympy",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
-            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2010-04-30T00:00:00.000Z",
             "_age_weeks": 603,
             "_stars_per_week": 14.28,
@@ -3589,7 +3648,7 @@
             "description": null,
             "_repopath": "bulletphysics/bullet3",
             "_reponame": "bullet3",
-            "_stars": 8596,
+            "_stars": 8597,
             "_forks": 2337,
             "_watches": 413,
             "_topics": [
@@ -3611,7 +3670,7 @@
             "_last_commit_date": "2021-11-19T00:00:00.000Z",
             "_created_at": "2011-04-12T00:00:00.000Z",
             "_age_weeks": 554,
-            "_stars_per_week": 15.5162454874,
+            "_stars_per_week": 15.5180505415,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/bulletphysics/bullet3/master/README.md",
             "_readme_localurl": "bulletphysics~bullet3~README.md",
@@ -3801,7 +3860,7 @@
             "description": null,
             "_repopath": "aws/serverless-application-model",
             "_reponame": "serverless-application-model",
-            "_stars": 8271,
+            "_stars": 8272,
             "_forks": 2127,
             "_watches": 316,
             "_topics": [
@@ -3822,7 +3881,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2016-10-10T00:00:00.000Z",
             "_age_weeks": 267,
-            "_stars_per_week": 30.9609625668,
+            "_stars_per_week": 30.9647058824,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/aws/serverless-application-model/master/README.md",
             "_readme_localurl": "aws~serverless-application-model~README.md",
@@ -4139,7 +4198,7 @@
             "_repopath": "pytest-dev/pytest",
             "_reponame": "pytest",
             "_stars": 7964,
-            "_forks": 1874,
+            "_forks": 1876,
             "_watches": 195,
             "_topics": [
                 "unit-testing",
@@ -4320,7 +4379,7 @@
             "description": null,
             "_repopath": "arrow-py/arrow",
             "_reponame": "arrow",
-            "_stars": 7663,
+            "_stars": 7664,
             "_forks": 605,
             "_watches": 134,
             "_topics": [
@@ -4341,7 +4400,7 @@
             "_last_commit_date": "2021-11-05T00:00:00.000Z",
             "_created_at": "2012-11-18T00:00:00.000Z",
             "_age_weeks": 470,
-            "_stars_per_week": 16.2943499392,
+            "_stars_per_week": 16.2964763062,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/arrow-py/arrow/master/README.rst",
             "_readme_localurl": "arrow-py~arrow~README.rst",
@@ -4364,8 +4423,8 @@
             "description": null,
             "_repopath": "tiangolo/full-stack-fastapi-postgresql",
             "_reponame": "full-stack-fastapi-postgresql",
-            "_stars": 7394,
-            "_forks": 1248,
+            "_stars": 7396,
+            "_forks": 1249,
             "_watches": 150,
             "_topics": [
                 "python",
@@ -4397,13 +4456,48 @@
             "_last_commit_date": "2020-06-05T00:00:00.000Z",
             "_created_at": "2019-02-23T00:00:00.000Z",
             "_age_weeks": 143,
-            "_stars_per_week": 51.5517928287,
+            "_stars_per_week": 51.5657370518,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/tiangolo/full-stack-fastapi-postgresql/master/README.md",
             "_readme_localurl": "tiangolo~full-stack-fastapi-postgresql~README.md",
             "_requirements_filenames": [],
             "_requirements_giturls": [],
             "_requirements_localurls": []
+        },
+        {
+            "index": 298,
+            "category": "util",
+            "githuburl": "https://github.com/paramiko/paramiko",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "paramiko/paramiko",
+            "_reponame": "paramiko",
+            "_stars": 7335,
+            "_forks": 1745,
+            "_watches": 327,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "http://paramiko.org",
+            "_description": "The leading native Python SSHv2 protocol library.",
+            "_organization": "paramiko",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-10-15T00:00:00.000Z",
+            "_created_at": "2009-02-02T00:00:00.000Z",
+            "_age_weeks": 668,
+            "_stars_per_week": 10.9781911482,
+            "_readme_filename": "README.rst",
+            "_readme_giturl": "https://raw.githubusercontent.com/paramiko/paramiko/master/README.rst",
+            "_readme_localurl": "paramiko~paramiko~README.rst",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/paramiko/paramiko/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "paramiko~paramiko~setup.py"
+            ]
         },
         {
             "index": 129,
@@ -4501,7 +4595,7 @@
             "description": null,
             "_repopath": "pyodide/pyodide",
             "_reponame": "pyodide",
-            "_stars": 6925,
+            "_stars": 6926,
             "_forks": 437,
             "_watches": 131,
             "_topics": [
@@ -4516,7 +4610,7 @@
             "_last_commit_date": "2021-11-21T00:00:00.000Z",
             "_created_at": "2018-02-23T00:00:00.000Z",
             "_age_weeks": 195,
-            "_stars_per_week": 35.4090577064,
+            "_stars_per_week": 35.4141709277,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/pyodide/pyodide/master/README.md",
             "_readme_localurl": "pyodide~pyodide~README.md",
@@ -4651,7 +4745,7 @@
             "_description": "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second \ud83d\ude80",
             "_organization": "vaexio",
             "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-19T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2014-09-27T00:00:00.000Z",
             "_age_weeks": 373,
             "_stars_per_week": 18.0409334353,
@@ -4677,7 +4771,7 @@
             "description": null,
             "_repopath": "tiangolo/typer",
             "_reponame": "typer",
-            "_stars": 6620,
+            "_stars": 6621,
             "_forks": 245,
             "_watches": 58,
             "_topics": [
@@ -4698,7 +4792,7 @@
             "_last_commit_date": "2021-08-30T00:00:00.000Z",
             "_created_at": "2019-12-24T00:00:00.000Z",
             "_age_weeks": 100,
-            "_stars_per_week": 66.2,
+            "_stars_per_week": 66.21,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/tiangolo/typer/master/README.md",
             "_readme_localurl": "tiangolo~typer~README.md",
@@ -5107,7 +5201,7 @@
             "description": null,
             "_repopath": "microsoft/DeepSpeed",
             "_reponame": "DeepSpeed",
-            "_stars": 5900,
+            "_stars": 5903,
             "_forks": 658,
             "_watches": 122,
             "_topics": [
@@ -5127,7 +5221,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2020-01-23T00:00:00.000Z",
             "_age_weeks": 95,
-            "_stars_per_week": 61.6417910448,
+            "_stars_per_week": 61.6731343284,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/microsoft/DeepSpeed/master/README.md",
             "_readme_localurl": "microsoft~DeepSpeed~README.md",
@@ -5139,6 +5233,53 @@
             ],
             "_requirements_localurls": [
                 "microsoft~DeepSpeed~setup.py"
+            ]
+        },
+        {
+            "index": 142,
+            "category": "ml",
+            "githuburl": "https://github.com/FeatureLabs/featuretools",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "FeatureLabs/featuretools",
+            "_reponame": "featuretools",
+            "_stars": 5864,
+            "_forks": 769,
+            "_watches": 156,
+            "_topics": [
+                "feature-engineering",
+                "machine-learning",
+                "data-science",
+                "automated-machine-learning",
+                "automl",
+                "python",
+                "scikit-learn",
+                "automated-feature-engineering"
+            ],
+            "_language": "Python",
+            "_homepage": "https://www.featuretools.com",
+            "_description": "An open source python library for automated feature engineering",
+            "_organization": "FeatureLabs",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-20T00:00:00.000Z",
+            "_created_at": "2017-09-08T00:00:00.000Z",
+            "_age_weeks": 219,
+            "_stars_per_week": 26.7065712427,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/FeatureLabs/featuretools/master/README.md",
+            "_readme_localurl": "FeatureLabs~featuretools~README.md",
+            "_requirements_filenames": [
+                "requirements.txt",
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/FeatureLabs/featuretools/master/requirements.txt",
+                "https://raw.githubusercontent.com/FeatureLabs/featuretools/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "FeatureLabs~featuretools~requirements.txt",
+                "FeatureLabs~featuretools~setup.py"
             ]
         },
         {
@@ -5188,53 +5329,6 @@
             "_requirements_localurls": [
                 "automl~auto-sklearn~requirements.txt",
                 "automl~auto-sklearn~setup.py"
-            ]
-        },
-        {
-            "index": 142,
-            "category": "ml",
-            "githuburl": "https://github.com/FeatureLabs/featuretools",
-            "featured": 1.0,
-            "links": null,
-            "description": null,
-            "_repopath": "FeatureLabs/featuretools",
-            "_reponame": "featuretools",
-            "_stars": 5863,
-            "_forks": 769,
-            "_watches": 156,
-            "_topics": [
-                "feature-engineering",
-                "machine-learning",
-                "data-science",
-                "automated-machine-learning",
-                "automl",
-                "python",
-                "scikit-learn",
-                "automated-feature-engineering"
-            ],
-            "_language": "Python",
-            "_homepage": "https://www.featuretools.com",
-            "_description": "An open source python library for automated feature engineering",
-            "_organization": "FeatureLabs",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
-            "_last_commit_date": "2021-11-20T00:00:00.000Z",
-            "_created_at": "2017-09-08T00:00:00.000Z",
-            "_age_weeks": 219,
-            "_stars_per_week": 26.7020169161,
-            "_readme_filename": "README.md",
-            "_readme_giturl": "https://raw.githubusercontent.com/FeatureLabs/featuretools/master/README.md",
-            "_readme_localurl": "FeatureLabs~featuretools~README.md",
-            "_requirements_filenames": [
-                "requirements.txt",
-                "setup.py"
-            ],
-            "_requirements_giturls": [
-                "https://raw.githubusercontent.com/FeatureLabs/featuretools/master/requirements.txt",
-                "https://raw.githubusercontent.com/FeatureLabs/featuretools/master/setup.py"
-            ],
-            "_requirements_localurls": [
-                "FeatureLabs~featuretools~requirements.txt",
-                "FeatureLabs~featuretools~setup.py"
             ]
         },
         {
@@ -6086,7 +6180,7 @@
             "description": null,
             "_repopath": "minimaxir/textgenrnn",
             "_reponame": "textgenrnn",
-            "_stars": 4565,
+            "_stars": 4566,
             "_forks": 732,
             "_watches": 144,
             "_topics": [
@@ -6104,7 +6198,7 @@
             "_last_commit_date": "2020-07-14T00:00:00.000Z",
             "_created_at": "2017-08-07T00:00:00.000Z",
             "_age_weeks": 224,
-            "_stars_per_week": 20.3664754621,
+            "_stars_per_week": 20.3709369025,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/minimaxir/textgenrnn/master/README.md",
             "_readme_localurl": "minimaxir~textgenrnn~README.md",
@@ -6130,7 +6224,7 @@
             "description": null,
             "_repopath": "sqlalchemy/sqlalchemy",
             "_reponame": "sqlalchemy",
-            "_stars": 4514,
+            "_stars": 4513,
             "_forks": 747,
             "_watches": 82,
             "_topics": [
@@ -6146,7 +6240,7 @@
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2018-11-27T00:00:00.000Z",
             "_age_weeks": 156,
-            "_stars_per_week": 28.9358974359,
+            "_stars_per_week": 28.9294871795,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/sqlalchemy/sqlalchemy/master/README.rst",
             "_readme_localurl": "sqlalchemy~sqlalchemy~README.rst",
@@ -6217,6 +6311,41 @@
             ]
         },
         {
+            "index": 306,
+            "category": "data",
+            "githuburl": "https://github.com/Kaggle/kaggle-api",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "Kaggle/kaggle-api",
+            "_reponame": "kaggle-api",
+            "_stars": 4419,
+            "_forks": 870,
+            "_watches": 180,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Official Kaggle API",
+            "_organization": "Kaggle",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-03-15T00:00:00.000Z",
+            "_created_at": "2018-01-25T00:00:00.000Z",
+            "_age_weeks": 199,
+            "_stars_per_week": 22.1266094421,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/Kaggle/kaggle-api/master/README.md",
+            "_readme_localurl": "Kaggle~kaggle-api~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/Kaggle/kaggle-api/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "Kaggle~kaggle-api~setup.py"
+            ]
+        },
+        {
             "index": 65,
             "category": "ml",
             "githuburl": "https://github.com/pycaret/pycaret",
@@ -6226,7 +6355,7 @@
             "_repopath": "pycaret/pycaret",
             "_reponame": "pycaret",
             "_stars": 4356,
-            "_forks": 1003,
+            "_forks": 1004,
             "_watches": 101,
             "_topics": [
                 "data-science",
@@ -6277,7 +6406,7 @@
             "description": null,
             "_repopath": "PyCQA/isort",
             "_reponame": "isort",
-            "_stars": 4321,
+            "_stars": 4320,
             "_forks": 428,
             "_watches": 35,
             "_topics": [
@@ -6297,11 +6426,11 @@
             "_homepage": "https://pycqa.github.io/isort/",
             "_description": "A Python utility / library to sort imports.",
             "_organization": "PyCQA",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
             "_last_commit_date": "2021-11-22T00:00:00.000Z",
             "_created_at": "2013-09-02T00:00:00.000Z",
             "_age_weeks": 429,
-            "_stars_per_week": 10.0689081225,
+            "_stars_per_week": 10.0665778961,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/PyCQA/isort/master/README.md",
             "_readme_localurl": "PyCQA~isort~README.md",
@@ -6364,7 +6493,7 @@
             "description": null,
             "_repopath": "dnouri/skorch",
             "_reponame": "skorch",
-            "_stars": 4223,
+            "_stars": 4224,
             "_forks": 298,
             "_watches": 83,
             "_topics": [
@@ -6376,11 +6505,11 @@
             "_homepage": "",
             "_description": "A scikit-learn compatible neural network library that wraps PyTorch",
             "_organization": "dnouri",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
             "_last_commit_date": "2021-11-09T00:00:00.000Z",
             "_created_at": "2017-07-18T00:00:00.000Z",
             "_age_weeks": 227,
-            "_stars_per_week": 18.6035242291,
+            "_stars_per_week": 18.6079295154,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/dnouri/skorch/master/README.rst",
             "_readme_localurl": "dnouri~skorch~README.rst",
@@ -6479,7 +6608,7 @@
             "description": null,
             "_repopath": "pygame/pygame",
             "_reponame": "pygame",
-            "_stars": 4093,
+            "_stars": 4094,
             "_forks": 1795,
             "_watches": 150,
             "_topics": [
@@ -6499,7 +6628,7 @@
             "_last_commit_date": "2021-11-20T00:00:00.000Z",
             "_created_at": "2017-03-26T00:00:00.000Z",
             "_age_weeks": 243,
-            "_stars_per_week": 16.8238402819,
+            "_stars_per_week": 16.8279506753,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/pygame/pygame/master/README.rst",
             "_readme_localurl": "pygame~pygame~README.rst",
@@ -6524,7 +6653,7 @@
             "_reponame": "transitions",
             "_stars": 4038,
             "_forks": 469,
-            "_watches": 98,
+            "_watches": 97,
             "_topics": [
                 "python",
                 "state-machine",
@@ -6781,6 +6910,41 @@
             ]
         },
         {
+            "index": 297,
+            "category": "util",
+            "githuburl": "https://github.com/pytoolz/toolz",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pytoolz/toolz",
+            "_reponame": "toolz",
+            "_stars": 3725,
+            "_forks": 229,
+            "_watches": 81,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "http://toolz.readthedocs.org/",
+            "_description": "A functional standard library for Python.",
+            "_organization": "pytoolz",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-11-06T00:00:00.000Z",
+            "_created_at": "2013-09-13T00:00:00.000Z",
+            "_age_weeks": 427,
+            "_stars_per_week": 8.7119946542,
+            "_readme_filename": "README.rst",
+            "_readme_giturl": "https://raw.githubusercontent.com/pytoolz/toolz/master/README.rst",
+            "_readme_localurl": "pytoolz~toolz~README.rst",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/pytoolz/toolz/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "pytoolz~toolz~setup.py"
+            ]
+        },
+        {
             "index": 183,
             "category": "util",
             "githuburl": "https://github.com/PyCQA/bandit",
@@ -6881,7 +7045,7 @@
             "description": null,
             "_repopath": "PyCQA/pylint",
             "_reponame": "pylint",
-            "_stars": 3688,
+            "_stars": 3687,
             "_forks": 793,
             "_watches": 72,
             "_topics": [
@@ -6897,10 +7061,10 @@
             "_description": "It's not just a linter that annoys you!",
             "_organization": "PyCQA",
             "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2015-12-09T00:00:00.000Z",
             "_age_weeks": 310,
-            "_stars_per_week": 11.8639705882,
+            "_stars_per_week": 11.8607536765,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/PyCQA/pylint/master/README.rst",
             "_readme_localurl": "PyCQA~pylint~README.rst",
@@ -7016,7 +7180,7 @@
             "_description": "A static type analyzer for Python code",
             "_organization": "google",
             "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-19T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2015-03-18T00:00:00.000Z",
             "_age_weeks": 348,
             "_stars_per_week": 10.0843570844,
@@ -7311,7 +7475,7 @@
             "_repopath": "unbit/uwsgi",
             "_reponame": "uwsgi",
             "_stars": 3067,
-            "_forks": 637,
+            "_forks": 636,
             "_watches": 110,
             "_topics": [],
             "_language": "C",
@@ -7387,7 +7551,7 @@
             "_repopath": "CyberPunkMetalHead/Binance-volatility-trading-bot",
             "_reponame": "Binance-volatility-trading-bot",
             "_stars": 2952,
-            "_forks": 659,
+            "_forks": 660,
             "_watches": 130,
             "_topics": [],
             "_language": "Python",
@@ -7421,8 +7585,8 @@
             "description": null,
             "_repopath": "online-ml/river",
             "_reponame": "river",
-            "_stars": 2900,
-            "_forks": 313,
+            "_stars": 2901,
+            "_forks": 314,
             "_watches": 77,
             "_topics": [
                 "incremental-learning",
@@ -7444,7 +7608,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2019-01-24T00:00:00.000Z",
             "_age_weeks": 147,
-            "_stars_per_week": 19.6324951644,
+            "_stars_per_week": 19.6392649903,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/online-ml/river/master/README.md",
             "_readme_localurl": "online-ml~river~README.md",
@@ -7635,7 +7799,7 @@
             "description": null,
             "_repopath": "vispy/vispy",
             "_reponame": "vispy",
-            "_stars": 2761,
+            "_stars": 2762,
             "_forks": 583,
             "_watches": 126,
             "_topics": [
@@ -7653,7 +7817,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2013-03-21T00:00:00.000Z",
             "_age_weeks": 452,
-            "_stars_per_week": 6.0987693279,
+            "_stars_per_week": 6.1009782266,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/vispy/vispy/master/README.rst",
             "_readme_localurl": "vispy~vispy~README.rst",
@@ -7713,6 +7877,39 @@
             "_requirements_localurls": [
                 "jmcnamara~XlsxWriter~setup.py"
             ]
+        },
+        {
+            "index": 303,
+            "category": "nlp",
+            "githuburl": "https://github.com/PAIR-code/lit",
+            "featured": 1.0,
+            "links": null,
+            "description": null,
+            "_repopath": "PAIR-code/lit",
+            "_reponame": "lit",
+            "_stars": 2708,
+            "_forks": 273,
+            "_watches": 72,
+            "_topics": [
+                "machine-learning",
+                "natural-language-processing",
+                "visualization"
+            ],
+            "_language": "Python",
+            "_homepage": "https://pair-code.github.io/lit",
+            "_description": "The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.",
+            "_organization": "PAIR-code",
+            "_updated_at": "2021-11-20T00:00:00.000Z",
+            "_last_commit_date": "2021-11-14T00:00:00.000Z",
+            "_created_at": "2020-07-28T00:00:00.000Z",
+            "_age_weeks": 69,
+            "_stars_per_week": 39.2463768116,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/PAIR-code/lit/master/README.md",
+            "_readme_localurl": "PAIR-code~lit~README.md",
+            "_requirements_filenames": [],
+            "_requirements_giturls": [],
+            "_requirements_localurls": []
         },
         {
             "index": 139,
@@ -7933,7 +8130,7 @@
             "description": null,
             "_repopath": "ethereum/web3.py",
             "_reponame": "web3.py",
-            "_stars": 2528,
+            "_stars": 2529,
             "_forks": 859,
             "_watches": 91,
             "_topics": [],
@@ -7945,7 +8142,7 @@
             "_last_commit_date": "2021-11-19T00:00:00.000Z",
             "_created_at": "2016-04-14T00:00:00.000Z",
             "_age_weeks": 292,
-            "_stars_per_week": 8.6364080039,
+            "_stars_per_week": 8.6398243045,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/ethereum/web3.py/master/README.md",
             "_readme_localurl": "ethereum~web3.py~README.md",
@@ -8450,19 +8647,19 @@
             "description": null,
             "_repopath": "goldsmith/Wikipedia",
             "_reponame": "Wikipedia",
-            "_stars": 2354,
+            "_stars": 2355,
             "_forks": 477,
-            "_watches": 79,
+            "_watches": 80,
             "_topics": [],
             "_language": "Python",
             "_homepage": "https://wikipedia.readthedocs.org/",
             "_description": "A Pythonic wrapper for the Wikipedia API",
             "_organization": "goldsmith",
-            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
             "_last_commit_date": "2020-10-09T00:00:00.000Z",
             "_created_at": "2013-08-20T00:00:00.000Z",
             "_age_weeks": 431,
-            "_stars_per_week": 5.4617169374,
+            "_stars_per_week": 5.464037123,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/goldsmith/Wikipedia/master/README.rst",
             "_readme_localurl": "goldsmith~Wikipedia~README.rst",
@@ -8867,7 +9064,7 @@
             "description": null,
             "_repopath": "liiight/notifiers",
             "_reponame": "notifiers",
-            "_stars": 2022,
+            "_stars": 2021,
             "_forks": 78,
             "_watches": 36,
             "_topics": [
@@ -8885,7 +9082,7 @@
             "_last_commit_date": "2021-09-22T00:00:00.000Z",
             "_created_at": "2017-06-01T00:00:00.000Z",
             "_age_weeks": 233,
-            "_stars_per_week": 8.6515892421,
+            "_stars_per_week": 8.6473105134,
             "_readme_filename": "",
             "_readme_giturl": "",
             "_readme_localurl": "",
@@ -8911,7 +9108,7 @@
             "description": null,
             "_repopath": "huggingface/accelerate",
             "_reponame": "accelerate",
-            "_stars": 1985,
+            "_stars": 1986,
             "_forks": 110,
             "_watches": 35,
             "_topics": [],
@@ -8923,7 +9120,7 @@
             "_last_commit_date": "2021-11-12T00:00:00.000Z",
             "_created_at": "2020-10-30T00:00:00.000Z",
             "_age_weeks": 55,
-            "_stars_per_week": 35.7197943445,
+            "_stars_per_week": 35.7377892031,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/huggingface/accelerate/master/README.md",
             "_readme_localurl": "huggingface~accelerate~README.md",
@@ -8978,6 +9175,47 @@
             "_requirements_localurls": [
                 "pywebio~PyWebIO~requirements.txt",
                 "pywebio~PyWebIO~setup.py"
+            ]
+        },
+        {
+            "index": 300,
+            "category": "sim",
+            "githuburl": "https://github.com/openai/mujoco-py",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "openai/mujoco-py",
+            "_reponame": "mujoco-py",
+            "_stars": 1843,
+            "_forks": 590,
+            "_watches": 135,
+            "_topics": [],
+            "_language": "Cython",
+            "_homepage": "",
+            "_description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+            "_organization": "openai",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-11-19T00:00:00.000Z",
+            "_created_at": "2016-04-24T00:00:00.000Z",
+            "_age_weeks": 291,
+            "_stars_per_week": 6.3271211378,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/openai/mujoco-py/master/README.md",
+            "_readme_localurl": "openai~mujoco-py~README.md",
+            "_requirements_filenames": [
+                "requirements.txt",
+                "setup.py",
+                "pyproject.toml"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/openai/mujoco-py/master/requirements.txt",
+                "https://raw.githubusercontent.com/openai/mujoco-py/master/setup.py",
+                "https://raw.githubusercontent.com/openai/mujoco-py/master/pyproject.toml"
+            ],
+            "_requirements_localurls": [
+                "openai~mujoco-py~requirements.txt",
+                "openai~mujoco-py~setup.py",
+                "openai~mujoco-py~pyproject.toml"
             ]
         },
         {
@@ -9048,6 +9286,45 @@
             ],
             "_requirements_localurls": [
                 "pyston~pyston~setup.py"
+            ]
+        },
+        {
+            "index": 313,
+            "category": "util",
+            "githuburl": "https://github.com/Legrandin/pycryptodome",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "Legrandin/pycryptodome",
+            "_reponame": "pycryptodome",
+            "_stars": 1785,
+            "_forks": 325,
+            "_watches": 53,
+            "_topics": [
+                "cryptography",
+                "security",
+                "python"
+            ],
+            "_language": "C",
+            "_homepage": "https://www.pycryptodome.org",
+            "_description": "A self-contained cryptographic library for Python",
+            "_organization": "Legrandin",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_created_at": "2014-05-02T00:00:00.000Z",
+            "_age_weeks": 394,
+            "_stars_per_week": 4.5238957277,
+            "_readme_filename": "README.rst",
+            "_readme_giturl": "https://raw.githubusercontent.com/Legrandin/pycryptodome/master/README.rst",
+            "_readme_localurl": "Legrandin~pycryptodome~README.rst",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/Legrandin/pycryptodome/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "Legrandin~pycryptodome~setup.py"
             ]
         },
         {
@@ -9450,6 +9727,50 @@
             ]
         },
         {
+            "index": 299,
+            "category": "util",
+            "githuburl": "https://github.com/PyFilesystem/pyfilesystem2",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "PyFilesystem/pyfilesystem2",
+            "_reponame": "pyfilesystem2",
+            "_stars": 1555,
+            "_forks": 160,
+            "_watches": 45,
+            "_topics": [
+                "filesystem",
+                "pyfilesystem",
+                "pyfilesystem2",
+                "python",
+                "ftp",
+                "tar",
+                "zip",
+                "filesystem-library"
+            ],
+            "_language": "Python",
+            "_homepage": "https://www.pyfilesystem.org",
+            "_description": "Python's Filesystem abstraction layer",
+            "_organization": "PyFilesystem",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-16T00:00:00.000Z",
+            "_created_at": "2016-10-14T00:00:00.000Z",
+            "_age_weeks": 266,
+            "_stars_per_week": 5.8333333333,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/PyFilesystem/pyfilesystem2/master/README.md",
+            "_readme_localurl": "PyFilesystem~pyfilesystem2~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/PyFilesystem/pyfilesystem2/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "PyFilesystem~pyfilesystem2~setup.py"
+            ]
+        },
+        {
             "index": 32,
             "category": "nlp",
             "githuburl": "https://github.com/jamesturk/jellyfish",
@@ -9502,7 +9823,7 @@
             "description": null,
             "_repopath": "ourownstory/neural_prophet",
             "_reponame": "neural_prophet",
-            "_stars": 1531,
+            "_stars": 1532,
             "_forks": 191,
             "_watches": 41,
             "_topics": [
@@ -9535,7 +9856,7 @@
             "_last_commit_date": "2021-11-16T00:00:00.000Z",
             "_created_at": "2020-05-04T00:00:00.000Z",
             "_age_weeks": 81,
-            "_stars_per_week": 18.8679577465,
+            "_stars_per_week": 18.8802816901,
             "_readme_filename": "README.md",
             "_readme_giturl": "https://raw.githubusercontent.com/ourownstory/neural_prophet/master/README.md",
             "_readme_localurl": "ourownstory~neural_prophet~README.md",
@@ -9763,7 +10084,7 @@
             "_description": "\ud83d\udd05 Shapash makes Machine Learning models transparent and understandable by everyone",
             "_organization": "MAIF",
             "_updated_at": "2021-11-22T00:00:00.000Z",
-            "_last_commit_date": "2021-11-17T00:00:00.000Z",
+            "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2020-04-29T00:00:00.000Z",
             "_age_weeks": 81,
             "_stars_per_week": 17.2251308901,
@@ -10129,6 +10450,53 @@
             ]
         },
         {
+            "index": 301,
+            "category": "util",
+            "githuburl": "https://github.com/pyparsing/pyparsing",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pyparsing/pyparsing",
+            "_reponame": "pyparsing",
+            "_stars": 1310,
+            "_forks": 193,
+            "_watches": 20,
+            "_topics": [
+                "python",
+                "python2",
+                "python3",
+                "python-2",
+                "python-3",
+                "parser-combinators",
+                "parsing-expression-grammar",
+                "parsing",
+                "parsing-library",
+                "text-processing",
+                "peg-parsers"
+            ],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Python library for creating PEG parsers",
+            "_organization": "pyparsing",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-11-13T00:00:00.000Z",
+            "_created_at": "2017-05-14T00:00:00.000Z",
+            "_age_weeks": 236,
+            "_stars_per_week": 5.5441354293,
+            "_readme_filename": "README.rst",
+            "_readme_giturl": "https://raw.githubusercontent.com/pyparsing/pyparsing/master/README.rst",
+            "_readme_localurl": "pyparsing~pyparsing~README.rst",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/pyparsing/pyparsing/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "pyparsing~pyparsing~setup.py"
+            ]
+        },
+        {
             "index": 203,
             "category": "util",
             "githuburl": "https://github.com/camelot-dev/camelot",
@@ -10200,6 +10568,53 @@
             ],
             "_requirements_localurls": [
                 "sdispater~orator~pyproject.toml"
+            ]
+        },
+        {
+            "index": 307,
+            "category": "util",
+            "githuburl": "https://github.com/pyscaffold/pyscaffold",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "pyscaffold/pyscaffold",
+            "_reponame": "pyscaffold",
+            "_stars": 1276,
+            "_forks": 131,
+            "_watches": 40,
+            "_topics": [
+                "python",
+                "release-automation",
+                "git",
+                "distribution",
+                "package-creation",
+                "template-project",
+                "project-template",
+                "package"
+            ],
+            "_language": "Python",
+            "_homepage": "https://pyscaffold.org",
+            "_description": "\ud83d\udee0 Python project template generator with batteries included",
+            "_organization": "pyscaffold",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-21T00:00:00.000Z",
+            "_created_at": "2014-04-02T00:00:00.000Z",
+            "_age_weeks": 398,
+            "_stars_per_week": 3.1991404011,
+            "_readme_filename": "README.rst",
+            "_readme_giturl": "https://raw.githubusercontent.com/pyscaffold/pyscaffold/master/README.rst",
+            "_readme_localurl": "pyscaffold~pyscaffold~README.rst",
+            "_requirements_filenames": [
+                "setup.py",
+                "pyproject.toml"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/pyscaffold/pyscaffold/master/setup.py",
+                "https://raw.githubusercontent.com/pyscaffold/pyscaffold/master/pyproject.toml"
+            ],
+            "_requirements_localurls": [
+                "pyscaffold~pyscaffold~setup.py",
+                "pyscaffold~pyscaffold~pyproject.toml"
             ]
         },
         {
@@ -10381,6 +10796,46 @@
             ]
         },
         {
+            "index": 226,
+            "category": "sim",
+            "githuburl": "https://github.com/google/brax",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "google/brax",
+            "_reponame": "brax",
+            "_stars": 1058,
+            "_forks": 86,
+            "_watches": 21,
+            "_topics": [
+                "jax",
+                "reinforcement-learning",
+                "robotics",
+                "physics-simulation"
+            ],
+            "_language": "Jupyter Notebook",
+            "_homepage": "",
+            "_description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
+            "_organization": "google",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-19T00:00:00.000Z",
+            "_created_at": "2021-06-02T00:00:00.000Z",
+            "_age_weeks": 24,
+            "_stars_per_week": 42.5632183908,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/google/brax/master/README.md",
+            "_readme_localurl": "google~brax~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/google/brax/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "google~brax~setup.py"
+            ]
+        },
+        {
             "index": 259,
             "category": "crypto",
             "githuburl": "https://github.com/bmoscon/cryptofeed",
@@ -10442,43 +10897,41 @@
             ]
         },
         {
-            "index": 226,
-            "category": "sim",
-            "githuburl": "https://github.com/google/brax",
+            "index": 304,
+            "category": "util",
+            "githuburl": "https://github.com/JulienPalard/Pipe",
             "featured": null,
             "links": null,
             "description": null,
-            "_repopath": "google/brax",
-            "_reponame": "brax",
-            "_stars": 1058,
-            "_forks": 86,
-            "_watches": 21,
-            "_topics": [
-                "jax",
-                "reinforcement-learning",
-                "robotics",
-                "physics-simulation"
-            ],
-            "_language": "Jupyter Notebook",
+            "_repopath": "JulienPalard/Pipe",
+            "_reponame": "Pipe",
+            "_stars": 991,
+            "_forks": 87,
+            "_watches": 20,
+            "_topics": [],
+            "_language": "Python",
             "_homepage": "",
-            "_description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
-            "_organization": "google",
-            "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-19T00:00:00.000Z",
-            "_created_at": "2021-06-02T00:00:00.000Z",
-            "_age_weeks": 24,
-            "_stars_per_week": 42.5632183908,
+            "_description": "A Python library to use infix notation in Python",
+            "_organization": "JulienPalard",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-06-27T00:00:00.000Z",
+            "_created_at": "2010-04-08T00:00:00.000Z",
+            "_age_weeks": 606,
+            "_stars_per_week": 1.6333882741,
             "_readme_filename": "README.md",
-            "_readme_giturl": "https://raw.githubusercontent.com/google/brax/master/README.md",
-            "_readme_localurl": "google~brax~README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/JulienPalard/Pipe/master/README.md",
+            "_readme_localurl": "JulienPalard~Pipe~README.md",
             "_requirements_filenames": [
+                "requirements.txt",
                 "setup.py"
             ],
             "_requirements_giturls": [
-                "https://raw.githubusercontent.com/google/brax/master/setup.py"
+                "https://raw.githubusercontent.com/JulienPalard/Pipe/master/requirements.txt",
+                "https://raw.githubusercontent.com/JulienPalard/Pipe/master/setup.py"
             ],
             "_requirements_localurls": [
-                "google~brax~setup.py"
+                "JulienPalard~Pipe~requirements.txt",
+                "JulienPalard~Pipe~setup.py"
             ]
         },
         {
@@ -11296,6 +11749,51 @@
             ]
         },
         {
+            "index": 309,
+            "category": "nlp",
+            "githuburl": "https://github.com/featureform/embeddinghub",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "featureform/embeddinghub",
+            "_reponame": "embeddinghub",
+            "_stars": 521,
+            "_forks": 13,
+            "_watches": 6,
+            "_topics": [
+                "machine-learning",
+                "data-science",
+                "vector-database",
+                "embeddings-similarity",
+                "embeddings",
+                "hacktoberfest"
+            ],
+            "_language": "JavaScript",
+            "_homepage": "https://www.featureform.com",
+            "_description": "A vector database for machine learning embeddings.",
+            "_organization": "featureform",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-18T00:00:00.000Z",
+            "_created_at": "2020-10-16T00:00:00.000Z",
+            "_age_weeks": 57,
+            "_stars_per_week": 9.0496277916,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/featureform/embeddinghub/master/README.md",
+            "_readme_localurl": "featureform~embeddinghub~README.md",
+            "_requirements_filenames": [
+                "setup.py",
+                "pyproject.toml"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/featureform/embeddinghub/master/setup.py",
+                "https://raw.githubusercontent.com/featureform/embeddinghub/master/pyproject.toml"
+            ],
+            "_requirements_localurls": [
+                "featureform~embeddinghub~setup.py",
+                "featureform~embeddinghub~pyproject.toml"
+            ]
+        },
+        {
             "index": 117,
             "category": "nlp",
             "githuburl": "https://github.com/ICLRandD/Blackstone",
@@ -11658,6 +12156,58 @@
             ]
         },
         {
+            "index": 302,
+            "category": "crypto",
+            "githuburl": "https://github.com/Blankly-Finance/Blankly",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "Blankly-Finance/Blankly",
+            "_reponame": "Blankly",
+            "_stars": 346,
+            "_forks": 42,
+            "_watches": 13,
+            "_topics": [
+                "cryptocurrency",
+                "bot-framework",
+                "investment",
+                "bots",
+                "bot",
+                "coinbase-pro",
+                "coinbase",
+                "binance",
+                "blankly",
+                "coinbase-pro-api",
+                "stocks",
+                "platform",
+                "framework",
+                "trading",
+                "trading-bot",
+                "trading-strategies"
+            ],
+            "_language": "Python",
+            "_homepage": "https://blankly.finance",
+            "_description": "\ud83d\ude80 \ud83d\udcb8  Trade stocks, cryptos, and forex w/ one package. Easily build, backtest, trade, and deploy across exchanges in a few lines of code.",
+            "_organization": "Blankly-Finance",
+            "_updated_at": "2021-11-21T00:00:00.000Z",
+            "_last_commit_date": "2021-11-20T00:00:00.000Z",
+            "_created_at": "2021-03-09T00:00:00.000Z",
+            "_age_weeks": 37,
+            "_stars_per_week": 9.3513513514,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/Blankly-Finance/Blankly/master/README.md",
+            "_readme_localurl": "Blankly-Finance~Blankly~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/Blankly-Finance/Blankly/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "Blankly-Finance~Blankly~setup.py"
+            ]
+        },
+        {
             "index": 12,
             "category": "nlp",
             "githuburl": "https://github.com/dialogflow/dialogflow-python-client-v2",
@@ -11726,41 +12276,44 @@
             "_requirements_localurls": []
         },
         {
-            "index": 49,
+            "index": 296,
             "category": "util",
-            "githuburl": "https://github.com/mozillazg/pypy",
+            "githuburl": "https://github.com/fastai/ghapi",
             "featured": null,
             "links": null,
             "description": null,
-            "_repopath": "mozillazg/pypy",
-            "_reponame": "pypy",
-            "_stars": 263,
-            "_forks": 41,
-            "_watches": 10,
+            "_repopath": "fastai/ghapi",
+            "_reponame": "ghapi",
+            "_stars": 278,
+            "_forks": 25,
+            "_watches": 7,
             "_topics": [
-                "pypy",
-                "github-mirror"
+                "github-api",
+                "github",
+                "nbdev",
+                "openapi",
+                "api-client"
             ],
-            "_language": "Python",
-            "_homepage": "https://foss.heptapod.net/pypy/pypy",
-            "_description": "The unofficial GitHub mirror of PyPy",
-            "_organization": "mozillazg",
-            "_updated_at": "2021-11-23T00:00:00.000Z",
-            "_last_commit_date": "2021-11-22T00:00:00.000Z",
-            "_created_at": "2015-08-03T00:00:00.000Z",
-            "_age_weeks": 329,
-            "_stars_per_week": 0.7990451389,
-            "_readme_filename": "README.rst",
-            "_readme_giturl": "https://raw.githubusercontent.com/mozillazg/pypy/master/README.rst",
-            "_readme_localurl": "mozillazg~pypy~README.rst",
+            "_language": "Jupyter Notebook",
+            "_homepage": "https://ghapi.fast.ai/",
+            "_description": "A delightful and complete interface to GitHub's amazing API",
+            "_organization": "fastai",
+            "_updated_at": "2021-11-21T00:00:00.000Z",
+            "_last_commit_date": "2021-09-18T00:00:00.000Z",
+            "_created_at": "2020-11-21T00:00:00.000Z",
+            "_age_weeks": 52,
+            "_stars_per_week": 5.3024523161,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/fastai/ghapi/master/README.md",
+            "_readme_localurl": "fastai~ghapi~README.md",
             "_requirements_filenames": [
-                "requirements.txt"
+                "setup.py"
             ],
             "_requirements_giturls": [
-                "https://raw.githubusercontent.com/mozillazg/pypy/master/requirements.txt"
+                "https://raw.githubusercontent.com/fastai/ghapi/master/setup.py"
             ],
             "_requirements_localurls": [
-                "mozillazg~pypy~requirements.txt"
+                "fastai~ghapi~setup.py"
             ]
         },
         {
@@ -11812,6 +12365,82 @@
             ]
         },
         {
+            "index": 49,
+            "category": "util",
+            "githuburl": "https://github.com/mozillazg/pypy",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "mozillazg/pypy",
+            "_reponame": "pypy",
+            "_stars": 263,
+            "_forks": 41,
+            "_watches": 10,
+            "_topics": [
+                "pypy",
+                "github-mirror"
+            ],
+            "_language": "Python",
+            "_homepage": "https://foss.heptapod.net/pypy/pypy",
+            "_description": "The unofficial GitHub mirror of PyPy",
+            "_organization": "mozillazg",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_created_at": "2015-08-03T00:00:00.000Z",
+            "_age_weeks": 329,
+            "_stars_per_week": 0.7990451389,
+            "_readme_filename": "README.rst",
+            "_readme_giturl": "https://raw.githubusercontent.com/mozillazg/pypy/master/README.rst",
+            "_readme_localurl": "mozillazg~pypy~README.rst",
+            "_requirements_filenames": [
+                "requirements.txt"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/mozillazg/pypy/master/requirements.txt"
+            ],
+            "_requirements_localurls": [
+                "mozillazg~pypy~requirements.txt"
+            ]
+        },
+        {
+            "index": 295,
+            "category": "data",
+            "githuburl": "https://github.com/stitchfix/hamilton",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "stitchfix/hamilton",
+            "_reponame": "hamilton",
+            "_stars": 260,
+            "_forks": 7,
+            "_watches": 11,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "Library for creating dataframes from functions.",
+            "_organization": "stitchfix",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-10-23T00:00:00.000Z",
+            "_created_at": "2020-05-26T00:00:00.000Z",
+            "_age_weeks": 78,
+            "_stars_per_week": 3.3333333333,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/stitchfix/hamilton/master/README.md",
+            "_readme_localurl": "stitchfix~hamilton~README.md",
+            "_requirements_filenames": [
+                "requirements.txt",
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/stitchfix/hamilton/master/requirements.txt",
+                "https://raw.githubusercontent.com/stitchfix/hamilton/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "stitchfix~hamilton~requirements.txt",
+                "stitchfix~hamilton~setup.py"
+            ]
+        },
+        {
             "index": 218,
             "category": "pipeline",
             "githuburl": "https://github.com/nccr-itmo/FEDOT",
@@ -11820,8 +12449,8 @@
             "description": null,
             "_repopath": "nccr-itmo/FEDOT",
             "_reponame": "FEDOT",
-            "_stars": 258,
-            "_forks": 31,
+            "_stars": 259,
+            "_forks": 32,
             "_watches": 7,
             "_topics": [
                 "automl",
@@ -11844,7 +12473,7 @@
             "_last_commit_date": "2021-11-23T00:00:00.000Z",
             "_created_at": "2020-01-13T00:00:00.000Z",
             "_age_weeks": 97,
-            "_stars_per_week": 2.6558823529,
+            "_stars_per_week": 2.6661764706,
             "_readme_filename": "README.rst",
             "_readme_giturl": "https://raw.githubusercontent.com/nccr-itmo/FEDOT/master/README.rst",
             "_readme_localurl": "nccr-itmo~FEDOT~README.rst",
@@ -12181,6 +12810,83 @@
             ]
         },
         {
+            "index": 312,
+            "category": "crypto",
+            "githuburl": "https://github.com/ethereum/eth-utils",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "ethereum/eth-utils",
+            "_reponame": "eth-utils",
+            "_stars": 207,
+            "_forks": 112,
+            "_watches": 18,
+            "_topics": [
+                "ethereum",
+                "python",
+                "utility-library"
+            ],
+            "_language": "Python",
+            "_homepage": "https://eth-utils.readthedocs.io/en/latest/",
+            "_description": "Utility functions for working with ethereum related codebases.",
+            "_organization": "ethereum",
+            "_updated_at": "2021-11-19T00:00:00.000Z",
+            "_last_commit_date": "2021-11-18T00:00:00.000Z",
+            "_created_at": "2017-02-07T00:00:00.000Z",
+            "_age_weeks": 250,
+            "_stars_per_week": 0.828,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/ethereum/eth-utils/master/README.md",
+            "_readme_localurl": "ethereum~eth-utils~README.md",
+            "_requirements_filenames": [
+                "setup.py",
+                "pyproject.toml"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/ethereum/eth-utils/master/setup.py",
+                "https://raw.githubusercontent.com/ethereum/eth-utils/master/pyproject.toml"
+            ],
+            "_requirements_localurls": [
+                "ethereum~eth-utils~setup.py",
+                "ethereum~eth-utils~pyproject.toml"
+            ]
+        },
+        {
+            "index": 308,
+            "category": "util",
+            "githuburl": "https://github.com/airbnb/ottr",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "airbnb/ottr",
+            "_reponame": "ottr",
+            "_stars": 203,
+            "_forks": 11,
+            "_watches": 8,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Serverless Public Key Infrastructure Framework",
+            "_organization": "airbnb",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2021-11-13T00:00:00.000Z",
+            "_created_at": "2021-08-27T00:00:00.000Z",
+            "_age_weeks": 12,
+            "_stars_per_week": 16.1477272727,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/airbnb/ottr/master/README.md",
+            "_readme_localurl": "airbnb~ottr~README.md",
+            "_requirements_filenames": [
+                "requirements.txt"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/airbnb/ottr/master/requirements.txt"
+            ],
+            "_requirements_localurls": [
+                "airbnb~ottr~requirements.txt"
+            ]
+        },
+        {
             "index": 277,
             "category": "data",
             "githuburl": "https://github.com/amzn/ion-python",
@@ -12386,6 +13092,41 @@
             ]
         },
         {
+            "index": 311,
+            "category": "crypto",
+            "githuburl": "https://github.com/palkeo/panoramix",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "palkeo/panoramix",
+            "_reponame": "panoramix",
+            "_stars": 147,
+            "_forks": 39,
+            "_watches": 12,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": "",
+            "_description": "Ethereum decompiler",
+            "_organization": "palkeo",
+            "_updated_at": "2021-11-22T00:00:00.000Z",
+            "_last_commit_date": "2020-08-22T00:00:00.000Z",
+            "_created_at": "2020-02-17T00:00:00.000Z",
+            "_age_weeks": 92,
+            "_stars_per_week": 1.5953488372,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/palkeo/panoramix/master/README.md",
+            "_readme_localurl": "palkeo~panoramix~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/palkeo/panoramix/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "palkeo~panoramix~setup.py"
+            ]
+        },
+        {
             "index": 33,
             "category": "data",
             "githuburl": "https://github.com/jasonrig/address-net",
@@ -12423,6 +13164,41 @@
             ],
             "_requirements_localurls": [
                 "jasonrig~address-net~setup.py"
+            ]
+        },
+        {
+            "index": 305,
+            "category": "nlp",
+            "githuburl": "https://github.com/openai/grade-school-math",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "openai/grade-school-math",
+            "_reponame": "grade-school-math",
+            "_stars": 138,
+            "_forks": 16,
+            "_watches": 1,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "",
+            "_organization": "openai",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-19T00:00:00.000Z",
+            "_created_at": "2021-10-20T00:00:00.000Z",
+            "_age_weeks": 4,
+            "_stars_per_week": 28.4117647059,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/openai/grade-school-math/master/README.md",
+            "_readme_localurl": "openai~grade-school-math~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/openai/grade-school-math/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "openai~grade-school-math~setup.py"
             ]
         },
         {
@@ -12512,6 +13288,41 @@
             ]
         },
         {
+            "index": 209,
+            "category": "util",
+            "githuburl": "https://github.com/aws/aws-lambda-python-runtime-interface-client",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "aws/aws-lambda-python-runtime-interface-client",
+            "_reponame": "aws-lambda-python-runtime-interface-client",
+            "_stars": 116,
+            "_forks": 25,
+            "_watches": 10,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "",
+            "_organization": "aws",
+            "_updated_at": "2021-11-20T00:00:00.000Z",
+            "_last_commit_date": "2021-09-29T00:00:00.000Z",
+            "_created_at": "2020-09-02T00:00:00.000Z",
+            "_age_weeks": 63,
+            "_stars_per_week": 1.8165548098,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/aws/aws-lambda-python-runtime-interface-client/master/README.md",
+            "_readme_localurl": "aws~aws-lambda-python-runtime-interface-client~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/aws/aws-lambda-python-runtime-interface-client/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "aws~aws-lambda-python-runtime-interface-client~setup.py"
+            ]
+        },
+        {
             "index": 269,
             "category": "nlp",
             "githuburl": "https://github.com/allenai/s2orc-doc2json",
@@ -12547,41 +13358,6 @@
             "_requirements_localurls": [
                 "allenai~s2orc-doc2json~requirements.txt",
                 "allenai~s2orc-doc2json~setup.py"
-            ]
-        },
-        {
-            "index": 209,
-            "category": "util",
-            "githuburl": "https://github.com/aws/aws-lambda-python-runtime-interface-client",
-            "featured": null,
-            "links": null,
-            "description": null,
-            "_repopath": "aws/aws-lambda-python-runtime-interface-client",
-            "_reponame": "aws-lambda-python-runtime-interface-client",
-            "_stars": 116,
-            "_forks": 25,
-            "_watches": 10,
-            "_topics": [],
-            "_language": "Python",
-            "_homepage": null,
-            "_description": "",
-            "_organization": "aws",
-            "_updated_at": "2021-11-20T00:00:00.000Z",
-            "_last_commit_date": "2021-09-29T00:00:00.000Z",
-            "_created_at": "2020-09-02T00:00:00.000Z",
-            "_age_weeks": 63,
-            "_stars_per_week": 1.8165548098,
-            "_readme_filename": "README.md",
-            "_readme_giturl": "https://raw.githubusercontent.com/aws/aws-lambda-python-runtime-interface-client/master/README.md",
-            "_readme_localurl": "aws~aws-lambda-python-runtime-interface-client~README.md",
-            "_requirements_filenames": [
-                "setup.py"
-            ],
-            "_requirements_giturls": [
-                "https://raw.githubusercontent.com/aws/aws-lambda-python-runtime-interface-client/master/setup.py"
-            ],
-            "_requirements_localurls": [
-                "aws~aws-lambda-python-runtime-interface-client~setup.py"
             ]
         },
         {
@@ -12696,6 +13472,79 @@
             "_requirements_localurls": [
                 "EthTx~ethtx_ce~Pipfile"
             ]
+        },
+        {
+            "index": 310,
+            "category": "util",
+            "githuburl": "https://github.com/xrudelis/pytrait",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "xrudelis/pytrait",
+            "_reponame": "pytrait",
+            "_stars": 76,
+            "_forks": 2,
+            "_watches": 2,
+            "_topics": [],
+            "_language": "Python",
+            "_homepage": null,
+            "_description": "Traits for Python3",
+            "_organization": "xrudelis",
+            "_updated_at": "2021-11-23T00:00:00.000Z",
+            "_last_commit_date": "2021-11-22T00:00:00.000Z",
+            "_created_at": "2021-11-21T00:00:00.000Z",
+            "_age_weeks": 0,
+            "_stars_per_week": 266.0,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/xrudelis/pytrait/master/README.md",
+            "_readme_localurl": "xrudelis~pytrait~README.md",
+            "_requirements_filenames": [
+                "setup.py"
+            ],
+            "_requirements_giturls": [
+                "https://raw.githubusercontent.com/xrudelis/pytrait/master/setup.py"
+            ],
+            "_requirements_localurls": [
+                "xrudelis~pytrait~setup.py"
+            ]
+        },
+        {
+            "index": 294,
+            "category": "util",
+            "githuburl": "https://github.com/eugeneyan/python-collab-template",
+            "featured": null,
+            "links": null,
+            "description": null,
+            "_repopath": "eugeneyan/python-collab-template",
+            "_reponame": "python-collab-template",
+            "_stars": 71,
+            "_forks": 23,
+            "_watches": 2,
+            "_topics": [
+                "python",
+                "unit-testing",
+                "linting",
+                "type-checking",
+                "github-actions",
+                "makefile",
+                "coverage",
+                "hacktoberfest"
+            ],
+            "_language": "Python",
+            "_homepage": "https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/",
+            "_description": "\ud83d\udee0 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.",
+            "_organization": "eugeneyan",
+            "_updated_at": "2021-11-19T00:00:00.000Z",
+            "_last_commit_date": "2020-10-01T00:00:00.000Z",
+            "_created_at": "2020-06-21T00:00:00.000Z",
+            "_age_weeks": 74,
+            "_stars_per_week": 0.9557692308,
+            "_readme_filename": "README.md",
+            "_readme_giturl": "https://raw.githubusercontent.com/eugeneyan/python-collab-template/master/README.md",
+            "_readme_localurl": "eugeneyan~python-collab-template~README.md",
+            "_requirements_filenames": [],
+            "_requirements_giturls": [],
+            "_requirements_localurls": []
         },
         {
             "index": 234,

@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 39 nlp Python libraries and frameworks ordered by stars.  
+A selection of 42 nlp Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
@@ -10,7 +10,7 @@ Checkout the interactive version that you can filter and sort:
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)  
 340 stars per week over 160 weeks  
-54,501 stars, 12,893 forks, 772 watches  
+54,510 stars, 12,894 forks, 772 watches  
 created 2018-10-29, last commit 2021-11-22, main language Python  
 <sub><sup>bert, flax, hacktoberfest, jax, language-model, language-models, model-hub, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, nlp-library, pretrained-models, python, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer</sup></sub>
 
@@ -50,7 +50,7 @@ created 2011-02-10, last commit 2021-10-28, main language Python
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 [https://github.com/huggingface/datasets](https://github.com/huggingface/datasets)  
 130 stars per week over 86 weeks  
-11,352 stars, 1,326 forks, 234 watches  
+11,356 stars, 1,326 forks, 234 watches  
 created 2020-03-26, last commit 2021-11-22, main language Python  
 <sub><sup>computer-vision, datasets, evaluation, machine-learning, metrics, natural-language-processing, nlp, numpy, pandas, pytorch, tensorflow</sup></sub>
 
@@ -146,7 +146,7 @@ created 2018-05-09, last commit 2021-11-21, main language Python
 Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.  
 [https://github.com/minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn)  
 20 stars per week over 224 weeks  
-4,565 stars, 732 forks, 144 watches  
+4,566 stars, 732 forks, 144 watches  
 created 2017-08-07, last commit 2020-07-14, main language Python  
 <sub><sup>deep-learning, keras, python, tensorflow, text-generation</sup></sub>
 
@@ -175,6 +175,16 @@ A PyTorch-based Speech Toolkit
 3,326 stars, 578 forks, 107 watches  
 created 2020-04-28, last commit 2021-11-22, main language Python  
 <sub><sup>asr, audio, audio-processing, huggingface, language-model, pytorch, speaker-diarization, speaker-recognition, speaker-verification, speech-enhancement, speech-processing, speech-recognition, speech-separation, speech-to-text, speech-toolkit, speechbrain, speechrecognition, spoken-language-understanding, transformers, voice-recognition</sup></sub>
+
+
+### [lit](https://github.com/PAIR-code/lit) by [PAIR-code](https://github.com/PAIR-code)  
+The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.  
+[https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
+[https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit)  
+39 stars per week over 69 weeks  
+2,708 stars, 273 forks, 72 watches  
+created 2020-07-28, last commit 2021-11-14, main language Python  
+<sub><sup>machine-learning, natural-language-processing, visualization</sup></sub>
 
 
 ### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  
@@ -312,6 +322,16 @@ created 2019-01-31, last commit 2021-11-09, main language Python
 <sub><sup>corenlp, data-science, machine-learning, natural-language-processing, nlp, spacy, spacy-pipeline, stanford-corenlp, stanford-machine-learning, stanford-nlp, stanza</sup></sub>
 
 
+### [embeddinghub](https://github.com/featureform/embeddinghub) by [featureform](https://github.com/featureform)  
+A vector database for machine learning embeddings.  
+[https://www.featureform.com](https://www.featureform.com)  
+[https://github.com/featureform/embeddinghub](https://github.com/featureform/embeddinghub)  
+9.05 stars per week over 57 weeks  
+521 stars, 13 forks, 6 watches  
+created 2020-10-16, last commit 2021-11-18, main language JavaScript  
+<sub><sup>data-science, embeddings, embeddings-similarity, hacktoberfest, machine-learning, vector-database</sup></sub>
+
+
 ### [Blackstone](https://github.com/ICLRandD/Blackstone) by [ICLRandD](https://github.com/ICLRandD)  
 :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.  
 [https://research.iclr.co.uk](https://research.iclr.co.uk)  
@@ -368,6 +388,14 @@ Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
 254 stars, 38 forks, 12 watches  
 created 2021-08-16, last commit 2021-11-15, main language Python  
 <sub><sup>code-intelligence, language-model, nlp, programming-language, representation-learning</sup></sub>
+
+
+### [grade-school-math](https://github.com/openai/grade-school-math) by [openai](https://github.com/openai)  
+  
+[https://github.com/openai/grade-school-math](https://github.com/openai/grade-school-math)  
+28 stars per week over 4 weeks  
+138 stars, 16 forks, 1 watches  
+created 2021-10-20, last commit 2021-11-19, main language Python  
 
 
 ### [s2orc-doc2json](https://github.com/allenai/s2orc-doc2json) by [allenai](https://github.com/allenai)  

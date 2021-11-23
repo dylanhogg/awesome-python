@@ -10,7 +10,7 @@ Streamlit — The fastest way to build data apps in Python
 [https://streamlit.io](https://streamlit.io)  
 [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)  
 141 stars per week over 117 weeks  
-16,608 stars, 1,482 forks, 258 watches  
+16,609 stars, 1,482 forks, 258 watches  
 created 2019-08-24, last commit 2021-11-23, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -40,7 +40,7 @@ matplotlib: plotting with Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 [https://github.com/matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)  
 25 stars per week over 561 weeks  
-14,591 stars, 6,154 forks, 576 watches  
+14,590 stars, 6,154 forks, 576 watches  
 created 2011-02-19, last commit 2021-11-23, main language Python  
 <sub><sup>data-science, data-visualization, gtk, hacktoberfest, matplotlib, plotting, python, qt, tk, wx</sup></sub>
 
@@ -50,7 +50,7 @@ The interactive graphing library for Python (includes Plotly Express) :sparkles:
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
 25 stars per week over 417 weeks  
-10,564 stars, 2,049 forks, 268 watches  
+10,563 stars, 2,049 forks, 268 watches  
 created 2013-11-21, last commit 2021-11-15, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -60,7 +60,7 @@ Statistical data visualization in Python
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 [https://github.com/mwaskom/seaborn](https://github.com/mwaskom/seaborn)  
 18 stars per week over 492 weeks  
-8,939 stars, 1,526 forks, 242 watches  
+8,938 stars, 1,526 forks, 242 watches  
 created 2012-06-18, last commit 2021-10-31, main language Python  
 <sub><sup>data-science, data-visualization, matplotlib, pandas, python</sup></sub>
 
@@ -115,7 +115,7 @@ Main repository for Vispy
 [http://vispy.org](http://vispy.org)  
 [https://github.com/vispy/vispy](https://github.com/vispy/vispy)  
 6.1 stars per week over 452 weeks  
-2,761 stars, 583 forks, 126 watches  
+2,762 stars, 583 forks, 126 watches  
 created 2013-03-21, last commit 2021-11-23, main language Python  
 <sub><sup>closember, hacktoberfest, opengl, python, visualization</sup></sub>
 

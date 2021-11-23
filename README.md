@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 293 Python libraries and frameworks ordered by stars.  
+A selection of 314 Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
@@ -10,7 +10,7 @@ An Open Source Machine Learning Framework for Everyone
 [https://tensorflow.org](https://tensorflow.org)  
 [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)  
 509 stars per week over 315 weeks  
-160,786 stars, 85,822 forks, 7,973 watches  
+160,786 stars, 85,823 forks, 7,973 watches  
 [ml](categories/ml.md) category, created 2015-11-07, last commit 2021-11-23, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow</sup></sub>
 
@@ -20,7 +20,7 @@ The Web framework for perfectionists with deadlines.
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 [https://github.com/django/django](https://github.com/django/django)  
 121 stars per week over 499 weeks  
-60,820 stars, 25,968 forks, 2,308 watches  
+60,819 stars, 25,971 forks, 2,308 watches  
 [web](categories/web.md) category, created 2012-04-28, last commit 2021-11-23, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
@@ -30,7 +30,7 @@ The Python micro framework for building web applications.
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 [https://github.com/pallets/flask](https://github.com/pallets/flask)  
 94 stars per week over 607 weeks  
-57,203 stars, 14,709 forks, 2,207 watches  
+57,201 stars, 14,708 forks, 2,207 watches  
 [web](categories/web.md) category, created 2010-04-06, last commit 2021-11-16, main language Python  
 <sub><sup>flask, jinja, pallets, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -40,7 +40,7 @@ The Python micro framework for building web applications.
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)  
 340 stars per week over 160 weeks  
-54,501 stars, 12,893 forks, 772 watches  
+54,510 stars, 12,894 forks, 772 watches  
 [nlp](categories/nlp.md) category, created 2018-10-29, last commit 2021-11-22, main language Python  
 <sub><sup>bert, flax, hacktoberfest, jax, language-model, language-models, model-hub, natural-language-generation, natural-language-processing, natural-language-understanding, nlp, nlp-library, pretrained-models, python, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer</sup></sub>
 
@@ -50,7 +50,7 @@ Deep Learning for humans
 [http://keras.io/](http://keras.io/)  
 [https://github.com/keras-team/keras](https://github.com/keras-team/keras)  
 153 stars per week over 347 weeks  
-53,252 stars, 18,897 forks, 1,997 watches  
+53,253 stars, 18,896 forks, 1,997 watches  
 [ml](categories/ml.md) category, created 2015-03-28, last commit 2021-11-22, main language Python  
 <sub><sup>data-science, deep-learning, machine-learning, neural-networks, python, tensorflow</sup></sub>
 
@@ -60,7 +60,7 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 [https://pytorch.org](https://pytorch.org)  
 [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)  
 189 stars per week over 275 weeks  
-52,284 stars, 14,317 forks, 1,595 watches  
+52,285 stars, 14,318 forks, 1,595 watches  
 [ml](categories/ml.md) category, created 2016-08-13, last commit 2021-11-23, main language C++  
 <sub><sup>autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor</sup></sub>
 
@@ -70,7 +70,7 @@ scikit-learn: machine learning in Python
 [https://scikit-learn.org](https://scikit-learn.org)  
 [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)  
 81 stars per week over 588 weeks  
-48,038 stars, 22,291 forks, 2,221 watches  
+48,039 stars, 22,291 forks, 2,221 watches  
 [ml](categories/ml.md) category, created 2010-08-17, last commit 2021-11-22, main language Python  
 <sub><sup>data-analysis, data-science, machine-learning, python, statistics</sup></sub>
 
@@ -80,7 +80,7 @@ scikit-learn: machine learning in Python
 [https://www.home-assistant.io](https://www.home-assistant.io)  
 [https://github.com/home-assistant/core](https://github.com/home-assistant/core)  
 111 stars per week over 427 weeks  
-47,638 stars, 15,855 forks, 1,342 watches  
+47,639 stars, 15,859 forks, 1,342 watches  
 [util](categories/util.md) category, created 2013-09-17, last commit 2021-11-23, main language Python  
 <sub><sup>asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi</sup></sub>
 
@@ -90,7 +90,7 @@ A simple, yet elegant, HTTP library.
 [https://requests.readthedocs.io](https://requests.readthedocs.io)  
 [https://github.com/psf/requests](https://github.com/psf/requests)  
 82 stars per week over 562 weeks  
-46,437 stars, 8,552 forks, 1,376 watches  
+46,438 stars, 8,553 forks, 1,376 watches  
 [web](categories/web.md) category, created 2011-02-13, last commit 2021-10-21, main language Python  
 <sub><sup>client, cookies, forhumans, http, humans, python, python-requests, requests</sup></sub>
 
@@ -100,7 +100,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 [https://scrapy.org](https://scrapy.org)  
 [https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)  
 68 stars per week over 613 weeks  
-42,190 stars, 9,408 forks, 1,815 watches  
+42,189 stars, 9,408 forks, 1,815 watches  
 [data](categories/data.md) category, created 2010-02-22, last commit 2021-11-16, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -109,8 +109,8 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 FastAPI framework, high performance, easy to learn, fast to code, ready for production  
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)  
 [https://github.com/tiangolo/fastapi](https://github.com/tiangolo/fastapi)  
-249 stars per week over 154 weeks  
-38,607 stars, 2,840 forks, 560 watches  
+250 stars per week over 154 weeks  
+38,608 stars, 2,840 forks, 561 watches  
 [web](categories/web.md) category, created 2018-12-08, last commit 2021-10-26, main language Python  
 <sub><sup>api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web</sup></sub>
 
@@ -120,7 +120,7 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 54 stars per week over 587 weeks  
-31,770 stars, 13,512 forks, 1,111 watches  
+31,770 stars, 13,513 forks, 1,111 watches  
 [data](categories/data.md) category, created 2010-08-24, last commit 2021-11-23, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
@@ -140,7 +140,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 [http://sherlock-project.github.io](http://sherlock-project.github.io)  
 [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)  
 185 stars per week over 152 weeks  
-28,230 stars, 3,040 forks, 894 watches  
+28,232 stars, 3,040 forks, 894 watches  
 [web](categories/web.md) category, created 2018-12-24, last commit 2021-11-21, main language Python  
 <sub><sup>cli, hacktoberfest, information-gathering, linux, macos, osint, python3, reconnaissance, redteam, sherlock, tools, windows</sup></sub>
 
@@ -150,7 +150,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 [https://gym.openai.com/](https://gym.openai.com/)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 88 stars per week over 290 weeks  
-25,748 stars, 7,377 forks, 987 watches  
+25,748 stars, 7,379 forks, 987 watches  
 [sim](categories/sim.md) category, created 2016-04-27, last commit 2021-11-22, main language Python  
 
 
@@ -158,7 +158,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 Simple Python version management  
 [https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv)  
 52 stars per week over 481 weeks  
-25,311 stars, 2,244 forks, 375 watches  
+25,310 stars, 2,244 forks, 375 watches  
 [util](categories/util.md) category, created 2012-08-31, last commit 2021-11-22, main language Shell  
 <sub><sup>hacktoberfest</sup></sub>
 
@@ -168,8 +168,8 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 [https://github.com/apache/airflow](https://github.com/apache/airflow)  
 69 stars per week over 345 weeks  
-23,838 stars, 9,623 forks, 729 watches  
-[pipeline](categories/pipeline.md) category, created 2015-04-13, last commit 2021-11-22, main language Python  
+23,841 stars, 9,625 forks, 730 watches  
+[pipeline](categories/pipeline.md) category, created 2015-04-13, last commit 2021-11-23, main language Python  
 <sub><sup>airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow</sup></sub>
 
 
@@ -178,7 +178,7 @@ The uncompromising Python code formatter
 [https://black.readthedocs.io/en/stable/](https://black.readthedocs.io/en/stable/)  
 [https://github.com/psf/black](https://github.com/psf/black)  
 122 stars per week over 192 weeks  
-23,688 stars, 1,524 forks, 197 watches  
+23,687 stars, 1,524 forks, 197 watches  
 [util](categories/util.md) category, created 2018-03-14, last commit 2021-11-21, main language Python  
 <sub><sup>autopep8, code, codeformatter, formatter, gofmt, pre-commit-hook, python, yapf</sup></sub>
 
@@ -246,7 +246,7 @@ Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, M
 [https://mxnet.apache.org](https://mxnet.apache.org)  
 [https://github.com/apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)  
 57 stars per week over 342 weeks  
-19,751 stars, 6,879 forks, 1,110 watches  
+19,752 stars, 6,879 forks, 1,110 watches  
 [ml](categories/ml.md) category, created 2015-04-30, last commit 2021-11-22, main language C++  
 <sub><sup>mxnet</sup></sub>
 
@@ -256,7 +256,7 @@ The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 32 stars per week over 584 weeks  
-18,873 stars, 6,179 forks, 560 watches  
+18,872 stars, 6,179 forks, 560 watches  
 [math](categories/math.md) category, created 2010-09-13, last commit 2021-11-22, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
@@ -286,7 +286,7 @@ Streamlit — The fastest way to build data apps in Python
 [https://streamlit.io](https://streamlit.io)  
 [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)  
 141 stars per week over 117 weeks  
-16,608 stars, 1,482 forks, 258 watches  
+16,609 stars, 1,482 forks, 258 watches  
 [viz](categories/viz.md) category, created 2019-08-24, last commit 2021-11-23, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -296,7 +296,7 @@ The lightweight PyTorch wrapper for high-performance AI research. Scale your mod
 [https://pytorchlightning.ai](https://pytorchlightning.ai)  
 [https://github.com/PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)  
 117 stars per week over 138 weeks  
-16,296 stars, 1,981 forks, 221 watches  
+16,298 stars, 1,981 forks, 221 watches  
 [ml](categories/ml.md) category, created 2019-03-31, last commit 2021-11-23, main language Python  
 <sub><sup>ai, artificial-intelligence, data-science, deep-learning, machine-learning, python, pytorch</sup></sub>
 
@@ -363,7 +363,7 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs. I
 Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more  
 [https://github.com/google/jax](https://github.com/google/jax)  
 93 stars per week over 160 weeks  
-15,095 stars, 1,403 forks, 255 watches  
+15,095 stars, 1,403 forks, 254 watches  
 [ml](categories/ml.md) category, created 2018-10-25, last commit 2021-11-23, main language Python  
 <sub><sup>jax</sup></sub>
 
@@ -392,7 +392,7 @@ Cross-platform, customizable ML solutions for live and streaming media.
 [https://mediapipe.dev](https://mediapipe.dev)  
 [https://github.com/google/mediapipe](https://github.com/google/mediapipe)  
 115 stars per week over 127 weeks  
-14,749 stars, 3,024 forks, 465 watches  
+14,752 stars, 3,024 forks, 465 watches  
 [ml](categories/ml.md) category, created 2019-06-13, last commit 2021-11-16, main language C++  
 <sub><sup>android, audio-processing, c-plus-plus, calculator, computer-vision, deep-learning, framework, graph-based, graph-framework, inference, machine-learning, mediapipe, mobile-development, perception, pipeline-framework, stream-processing, video-processing</sup></sub>
 
@@ -401,9 +401,28 @@ Cross-platform, customizable ML solutions for live and streaming media.
 A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
 56 stars per week over 261 weeks  
-14,662 stars, 2,194 forks, 246 watches  
+14,663 stars, 2,194 forks, 246 watches  
 [ml](categories/ml.md) category, created 2016-11-22, last commit 2021-10-20, main language Jupyter Notebook  
 <sub><sup>deep-learning, explainability, gradient-boosting, interpretability, machine-learning, shap, shapley</sup></sub>
+
+
+### [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) by [rwightman](https://github.com/rwightman)  
+PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more  
+[https://rwightman.github.io/pytorch-image-models/](https://rwightman.github.io/pytorch-image-models/)  
+[https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)  
+100 stars per week over 146 weeks  
+14,648 stars, 2,320 forks, 251 watches  
+[ml](categories/ml.md) category, created 2019-02-02, last commit 2021-11-22, main language Python  
+<sub><sup>augmix, cnn-classification, distributed-training, dual-path-networks, efficientnet, efficientnet-training, imagenet-classifier, mixnet, mnasnet, mobile-deep-learning, mobilenet-v2, mobilenetv3, nfnets, normalization-free-training, pretrained-models, pretrained-weights, pytorch, randaugment, resnet, vision-transformer-models</sup></sub>
+
+
+### [fairseq](https://github.com/pytorch/fairseq) by [pytorch](https://github.com/pytorch)  
+Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
+[https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq)  
+66 stars per week over 221 weeks  
+14,591 stars, 3,796 forks, 324 watches  
+[ml](categories/ml.md) category, created 2017-08-29, last commit 2021-11-20, main language Python  
+<sub><sup>artificial-intelligence, python, pytorch</sup></sub>
 
 
 ### [matplotlib](https://github.com/matplotlib/matplotlib)  
@@ -411,18 +430,9 @@ matplotlib: plotting with Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 [https://github.com/matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)  
 25 stars per week over 561 weeks  
-14,591 stars, 6,154 forks, 576 watches  
+14,590 stars, 6,154 forks, 576 watches  
 [viz](categories/viz.md) category, created 2011-02-19, last commit 2021-11-23, main language Python  
 <sub><sup>data-science, data-visualization, gtk, hacktoberfest, matplotlib, plotting, python, qt, tk, wx</sup></sub>
-
-
-### [fairseq](https://github.com/pytorch/fairseq) by [pytorch](https://github.com/pytorch)  
-Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
-[https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq)  
-66 stars per week over 221 weeks  
-14,590 stars, 3,795 forks, 324 watches  
-[ml](categories/ml.md) category, created 2017-08-29, last commit 2021-11-20, main language Python  
-<sub><sup>artificial-intelligence, python, pytorch</sup></sub>
 
 
 ### [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) by [HarisIqbal88](https://github.com/HarisIqbal88)  
@@ -439,7 +449,7 @@ Python sample codes for robotics algorithms.
 [https://pythonrobotics.readthedocs.io/en/latest/](https://pythonrobotics.readthedocs.io/en/latest/)  
 [https://github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 46 stars per week over 296 weeks  
-13,705 stars, 4,498 forks, 502 watches  
+13,707 stars, 4,498 forks, 502 watches  
 [sim](categories/sim.md) category, created 2016-03-21, last commit 2021-11-22, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -469,7 +479,7 @@ Free, open source crypto trading bot
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 57 stars per week over 235 weeks  
-13,592 stars, 2,982 forks, 527 watches  
+13,607 stars, 2,982 forks, 526 watches  
 [crypto](categories/crypto.md) category, created 2017-05-17, last commit 2021-11-23, main language Python  
 <sub><sup>algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency, freqtrade, python, telegram-bot, trade, trading-bot</sup></sub>
 
@@ -479,7 +489,7 @@ Faker is a Python package that generates fake data for you.
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 [https://github.com/joke2k/faker](https://github.com/joke2k/faker)  
 28 stars per week over 471 weeks  
-13,296 stars, 1,531 forks, 221 watches  
+13,295 stars, 1,531 forks, 221 watches  
 [data](categories/data.md) category, created 2012-11-12, last commit 2021-11-22, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -489,7 +499,7 @@ Ready-to-use OCR with 80+ supported languages and all popular writing scripts in
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 148 stars per week over 88 weeks  
-13,104 stars, 1,690 forks, 265 watches  
+13,105 stars, 1,691 forks, 265 watches  
 [data](categories/data.md) category, created 2020-03-14, last commit 2021-10-15, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -508,7 +518,7 @@ Topic Modelling for Humans
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 51 stars per week over 232 weeks  
-11,939 stars, 1,812 forks, 292 watches  
+11,940 stars, 1,812 forks, 292 watches  
 [data](categories/data.md) category, created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -518,7 +528,7 @@ Optional static typing for Python
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
 25 stars per week over 467 weeks  
-11,855 stars, 1,971 forks, 210 watches  
+11,855 stars, 1,972 forks, 210 watches  
 [typing](categories/typing.md) category, created 2012-12-07, last commit 2021-11-22, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
@@ -528,7 +538,7 @@ Open standard for machine learning interoperability
 [https://onnx.ai/](https://onnx.ai/)  
 [https://github.com/onnx/onnx](https://github.com/onnx/onnx)  
 53 stars per week over 219 weeks  
-11,702 stars, 2,230 forks, 429 watches  
+11,703 stars, 2,230 forks, 429 watches  
 [ml](categories/ml.md) category, created 2017-09-07, last commit 2021-11-22, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, dnn, keras, machine-learning, ml, mxnet, neural-network, onnx, pytorch, scikit-learn, tensorflow</sup></sub>
 
@@ -549,7 +559,7 @@ JupyterLab computational environment.
 [https://github.com/jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)  
 40 stars per week over 285 weeks  
 11,609 stars, 2,161 forks, 331 watches  
-[util](categories/util.md) category, created 2016-06-03, last commit 2021-11-22, main language TypeScript  
+[util](categories/util.md) category, created 2016-06-03, last commit 2021-11-23, main language TypeScript  
 <sub><sup>jupyter, jupyterlab</sup></sub>
 
 
@@ -558,7 +568,7 @@ JupyterLab computational environment.
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 [https://github.com/huggingface/datasets](https://github.com/huggingface/datasets)  
 130 stars per week over 86 weeks  
-11,352 stars, 1,326 forks, 234 watches  
+11,356 stars, 1,326 forks, 234 watches  
 [nlp](categories/nlp.md) category, created 2020-03-26, last commit 2021-11-22, main language Python  
 <sub><sup>computer-vision, datasets, evaluation, machine-learning, metrics, natural-language-processing, nlp, numpy, pandas, pytorch, tensorflow</sup></sub>
 
@@ -577,7 +587,7 @@ Open source platform for the machine learning lifecycle
 [https://mlflow.org](https://mlflow.org)  
 [https://github.com/mlflow/mlflow](https://github.com/mlflow/mlflow)  
 59 stars per week over 181 weeks  
-10,704 stars, 2,382 forks, 274 watches  
+10,706 stars, 2,382 forks, 274 watches  
 [pipeline](categories/pipeline.md) category, created 2018-06-05, last commit 2021-11-23, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
@@ -597,7 +607,7 @@ An open source AutoML toolkit for automate machine learning lifecycle, including
 [https://nni.readthedocs.io](https://nni.readthedocs.io)  
 [https://github.com/microsoft/nni](https://github.com/microsoft/nni)  
 58 stars per week over 181 weeks  
-10,583 stars, 1,475 forks, 271 watches  
+10,586 stars, 1,476 forks, 271 watches  
 [ml](categories/ml.md) category, created 2018-06-01, last commit 2021-11-19, main language Python  
 <sub><sup>automated-machine-learning, automl, bayesian-optimization, data-science, deep-learning, deep-neural-network, distributed, feature-engineering, feature-extraction, hyperparameter-optimization, machine-learning, machine-learning-algorithms, model-compression, nas, neural-architecture-search, neural-network, python, pytorch, tensorflow</sup></sub>
 
@@ -607,7 +617,7 @@ The interactive graphing library for Python (includes Plotly Express) :sparkles:
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
 25 stars per week over 417 weeks  
-10,564 stars, 2,049 forks, 268 watches  
+10,563 stars, 2,049 forks, 268 watches  
 [viz](categories/viz.md) category, created 2013-11-21, last commit 2021-11-15, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -664,7 +674,7 @@ Parallel computing with task scheduling
 [https://dask.org](https://dask.org)  
 [https://github.com/dask/dask](https://github.com/dask/dask)  
 25 stars per week over 359 weeks  
-9,203 stars, 1,393 forks, 232 watches  
+9,205 stars, 1,393 forks, 232 watches  
 [perf](categories/perf.md) category, created 2015-01-04, last commit 2021-11-22, main language Python  
 <sub><sup>dask, hacktoberfest, numpy, pandas, pydata, python, scikit-learn, scipy</sup></sub>
 
@@ -683,7 +693,7 @@ The friendly PIL fork (Python Imaging Library)
 [https://python-pillow.org](https://python-pillow.org)  
 [https://github.com/python-pillow/Pillow](https://github.com/python-pillow/Pillow)  
 18 stars per week over 487 weeks  
-9,148 stars, 1,745 forks, 213 watches  
+9,149 stars, 1,745 forks, 213 watches  
 [util](categories/util.md) category, created 2012-07-24, last commit 2021-11-22, main language Python  
 <sub><sup>c, cross-platform, image, image-processing, pil, pillow, python, python-3</sup></sub>
 
@@ -693,7 +703,7 @@ Statistical data visualization in Python
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 [https://github.com/mwaskom/seaborn](https://github.com/mwaskom/seaborn)  
 18 stars per week over 492 weeks  
-8,939 stars, 1,526 forks, 242 watches  
+8,938 stars, 1,526 forks, 242 watches  
 [viz](categories/viz.md) category, created 2012-06-18, last commit 2021-10-31, main language Python  
 <sub><sup>data-science, data-visualization, matplotlib, pandas, python</sup></sub>
 
@@ -703,7 +713,7 @@ Statistical data visualization in Python
 [https://dvc.org](https://dvc.org)  
 [https://github.com/iterative/dvc](https://github.com/iterative/dvc)  
 36 stars per week over 246 weeks  
-8,894 stars, 862 forks, 124 watches  
+8,894 stars, 863 forks, 124 watches  
 [data](categories/data.md) category, created 2017-03-04, last commit 2021-11-23, main language Python  
 <sub><sup>ai, collaboration, data-science, data-version-control, developer-tools, git, hacktoberfest, machine-learning, python, reproducibility</sup></sub>
 
@@ -731,7 +741,7 @@ Apache Arrow is a multi-language toolbox for accelerated data interchange and in
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
 28 stars per week over 300 weeks  
-8,695 stars, 2,103 forks, 330 watches  
+8,696 stars, 2,103 forks, 330 watches  
 [data](categories/data.md) category, created 2016-02-17, last commit 2021-11-23, main language C++  
 <sub><sup>arrow</sup></sub>
 
@@ -741,7 +751,7 @@ Jupyter Interactive Notebook
 [https://jupyter-notebook.readthedocs.io/](https://jupyter-notebook.readthedocs.io/)  
 [https://github.com/jupyter/notebook](https://github.com/jupyter/notebook)  
 25 stars per week over 345 weeks  
-8,673 stars, 3,600 forks, 316 watches  
+8,674 stars, 3,600 forks, 316 watches  
 [util](categories/util.md) category, created 2015-04-09, last commit 2021-11-18, main language JavaScript  
 <sub><sup>closember, jupyter, jupyter-notebook, notebook</sup></sub>
 
@@ -752,7 +762,7 @@ A computer algebra system written in pure Python
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
 14 stars per week over 603 weeks  
 8,619 stars, 3,515 forks, 291 watches  
-[math](categories/math.md) category, created 2010-04-30, last commit 2021-11-22, main language Python  
+[math](categories/math.md) category, created 2010-04-30, last commit 2021-11-23, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -761,7 +771,7 @@ Bullet Physics SDK: real-time collision detection and multi-physics simulation f
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
 15 stars per week over 554 weeks  
-8,596 stars, 2,337 forks, 413 watches  
+8,597 stars, 2,337 forks, 413 watches  
 [sim](categories/sim.md) category, created 2011-04-12, last commit 2021-11-19, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -809,7 +819,7 @@ AWS Serverless Application Model (SAM) is an open-source framework for building 
 [https://aws.amazon.com/serverless/sam/](https://aws.amazon.com/serverless/sam/)  
 [https://github.com/aws/serverless-application-model](https://github.com/aws/serverless-application-model)  
 30 stars per week over 267 weeks  
-8,271 stars, 2,127 forks, 316 watches  
+8,272 stars, 2,127 forks, 316 watches  
 [util](categories/util.md) category, created 2016-10-10, last commit 2021-11-23, main language Python  
 <sub><sup>aws, aws-sam, lambda, sam, sam-specification, serverless, serverless-application-model, serverless-applications</sup></sub>
 
@@ -879,7 +889,7 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 [https://pytest.org](https://pytest.org)  
 [https://github.com/pytest-dev/pytest](https://github.com/pytest-dev/pytest)  
 23 stars per week over 336 weeks  
-7,964 stars, 1,874 forks, 195 watches  
+7,964 stars, 1,876 forks, 195 watches  
 [util](categories/util.md) category, created 2015-06-15, last commit 2021-11-21, main language Python  
 <sub><sup>hacktoberfest, python, test, testing, unit-testing</sup></sub>
 
@@ -919,7 +929,7 @@ Better dates & times for Python
 [https://arrow.readthedocs.io](https://arrow.readthedocs.io)  
 [https://github.com/arrow-py/arrow](https://github.com/arrow-py/arrow)  
 16 stars per week over 470 weeks  
-7,663 stars, 605 forks, 134 watches  
+7,664 stars, 605 forks, 134 watches  
 [util](categories/util.md) category, created 2012-11-18, last commit 2021-11-05, main language Python  
 <sub><sup>arrow, date, datetime, hacktoberfest, python, time, timestamp, timezones</sup></sub>
 
@@ -928,9 +938,18 @@ Better dates & times for Python
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 51 stars per week over 143 weeks  
-7,394 stars, 1,248 forks, 150 watches  
+7,396 stars, 1,249 forks, 150 watches  
 [web](categories/web.md) category, created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
+
+
+### [paramiko](https://github.com/paramiko/paramiko)  
+The leading native Python SSHv2 protocol library.  
+[http://paramiko.org](http://paramiko.org)  
+[https://github.com/paramiko/paramiko](https://github.com/paramiko/paramiko)  
+10 stars per week over 668 weeks  
+7,335 stars, 1,745 forks, 327 watches  
+[util](categories/util.md) category, created 2009-02-02, last commit 2021-10-15, main language Python  
 
 
 ### [altair](https://github.com/altair-viz/altair) by [altair-viz](https://github.com/altair-viz)  
@@ -957,7 +976,7 @@ Python with the scientific stack, compiled to WebAssembly.
 [https://pyodide.org/en/stable/](https://pyodide.org/en/stable/)  
 [https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)  
 35 stars per week over 195 weeks  
-6,925 stars, 437 forks, 131 watches  
+6,926 stars, 437 forks, 131 watches  
 [util](categories/util.md) category, created 2018-02-23, last commit 2021-11-21, main language Python  
 <sub><sup>python, webassembly</sup></sub>
 
@@ -988,7 +1007,7 @@ Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and ex
 [https://github.com/vaexio/vaex](https://github.com/vaexio/vaex)  
 18 stars per week over 373 weeks  
 6,737 stars, 528 forks, 141 watches  
-[perf](categories/perf.md) category, created 2014-09-27, last commit 2021-11-19, main language Python  
+[perf](categories/perf.md) category, created 2014-09-27, last commit 2021-11-23, main language Python  
 <sub><sup>bigdata, dataframe, hdf5, machine-learning, machinelearning, memory-mapped-file, python, tabular-data, visualization</sup></sub>
 
 
@@ -997,7 +1016,7 @@ Typer, build great CLIs. Easy to code. Based on Python type hints.
 [https://typer.tiangolo.com/](https://typer.tiangolo.com/)  
 [https://github.com/tiangolo/typer](https://github.com/tiangolo/typer)  
 66 stars per week over 100 weeks  
-6,620 stars, 245 forks, 58 watches  
+6,621 stars, 245 forks, 58 watches  
 [util](categories/util.md) category, created 2019-12-24, last commit 2021-08-30, main language Python  
 <sub><sup>cli, click, python, python3, shell, terminal, typehints, typer</sup></sub>
 
@@ -1093,9 +1112,19 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 [https://www.deepspeed.ai/](https://www.deepspeed.ai/)  
 [https://github.com/microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)  
 61 stars per week over 95 weeks  
-5,900 stars, 658 forks, 122 watches  
+5,903 stars, 658 forks, 122 watches  
 [ml](categories/ml.md) category, created 2020-01-23, last commit 2021-11-23, main language Python  
 <sub><sup>billion-parameters, data-parallelism, deep-learning, gpu, machine-learning, model-parallelism, pytorch</sup></sub>
+
+
+### [featuretools](https://github.com/FeatureLabs/featuretools) by [FeatureLabs](https://github.com/FeatureLabs)  
+An open source python library for automated feature engineering  
+[https://www.featuretools.com](https://www.featuretools.com)  
+[https://github.com/FeatureLabs/featuretools](https://github.com/FeatureLabs/featuretools)  
+26 stars per week over 219 weeks  
+5,864 stars, 769 forks, 156 watches  
+[ml](categories/ml.md) category, created 2017-09-08, last commit 2021-11-20, main language Python  
+<sub><sup>automated-feature-engineering, automated-machine-learning, automl, data-science, feature-engineering, machine-learning, python, scikit-learn</sup></sub>
 
 
 ### [auto-sklearn](https://github.com/automl/auto-sklearn) by [automl](https://github.com/automl)  
@@ -1106,16 +1135,6 @@ Automated Machine Learning with scikit-learn
 5,864 stars, 1,091 forks, 216 watches  
 [ml](categories/ml.md) category, created 2015-07-02, last commit 2021-11-09, main language Python  
 <sub><sup>automated-machine-learning, automl, bayesian-optimization, hyperparameter-optimization, hyperparameter-search, hyperparameter-tuning, meta-learning, metalearning, scikit-learn, smac</sup></sub>
-
-
-### [featuretools](https://github.com/FeatureLabs/featuretools) by [FeatureLabs](https://github.com/FeatureLabs)  
-An open source python library for automated feature engineering  
-[https://www.featuretools.com](https://www.featuretools.com)  
-[https://github.com/FeatureLabs/featuretools](https://github.com/FeatureLabs/featuretools)  
-26 stars per week over 219 weeks  
-5,863 stars, 769 forks, 156 watches  
-[ml](categories/ml.md) category, created 2017-09-08, last commit 2021-11-20, main language Python  
-<sub><sup>automated-feature-engineering, automated-machine-learning, automl, data-science, feature-engineering, machine-learning, python, scikit-learn</sup></sub>
 
 
 ### [gpt-neo](https://github.com/EleutherAI/gpt-neo) by [EleutherAI](https://github.com/EleutherAI)  
@@ -1306,7 +1325,7 @@ Python datetimes made easy
 Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.  
 [https://github.com/minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn)  
 20 stars per week over 224 weeks  
-4,565 stars, 732 forks, 144 watches  
+4,566 stars, 732 forks, 144 watches  
 [nlp](categories/nlp.md) category, created 2017-08-07, last commit 2020-07-14, main language Python  
 <sub><sup>deep-learning, keras, python, tensorflow, text-generation</sup></sub>
 
@@ -1316,7 +1335,7 @@ The Database Toolkit for Python
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 [https://github.com/sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
 28 stars per week over 156 weeks  
-4,514 stars, 747 forks, 82 watches  
+4,513 stars, 747 forks, 82 watches  
 [data](categories/data.md) category, created 2018-11-27, last commit 2021-11-22, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
 
@@ -1331,12 +1350,20 @@ The Database Toolkit for Python
 <sub><sup>julia, jupyter, notebook, notebook-generator, notebooks, nteract, pipeline, publishing, python, r, scala</sup></sub>
 
 
+### [kaggle-api](https://github.com/Kaggle/kaggle-api) by [Kaggle](https://github.com/Kaggle)  
+Official Kaggle API  
+[https://github.com/Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)  
+22 stars per week over 199 weeks  
+4,419 stars, 870 forks, 180 watches  
+[data](categories/data.md) category, created 2018-01-25, last commit 2021-03-15, main language Python  
+
+
 ### [pycaret](https://github.com/pycaret/pycaret)  
 An open-source, low-code machine learning library in Python  
 [https://www.pycaret.org](https://www.pycaret.org)  
 [https://github.com/pycaret/pycaret](https://github.com/pycaret/pycaret)  
 41 stars per week over 104 weeks  
-4,356 stars, 1,003 forks, 101 watches  
+4,356 stars, 1,004 forks, 101 watches  
 [ml](categories/ml.md) category, created 2019-11-23, last commit 2021-11-19, main language Jupyter Notebook  
 <sub><sup>anomaly-detection, citizen-data-scientists, classification, clustering, data-science, gpu, machine-learning, ml, nlp, pycaret, python, regression, time-series</sup></sub>
 
@@ -1346,7 +1373,7 @@ A Python utility / library to sort imports.
 [https://pycqa.github.io/isort/](https://pycqa.github.io/isort/)  
 [https://github.com/PyCQA/isort](https://github.com/PyCQA/isort)  
 10 stars per week over 429 weeks  
-4,321 stars, 428 forks, 35 watches  
+4,320 stars, 428 forks, 35 watches  
 [util](categories/util.md) category, created 2013-09-02, last commit 2021-11-22, main language Python  
 <sub><sup>auto-formatter, cleaner, cli, formatter, hacktoberfest, isort, linter, python, python-utility, python3, sorting-imports</sup></sub>
 
@@ -1365,7 +1392,7 @@ Main repository for the Sphinx documentation builder
 A scikit-learn compatible neural network library that wraps PyTorch  
 [https://github.com/dnouri/skorch](https://github.com/dnouri/skorch)  
 18 stars per week over 227 weeks  
-4,223 stars, 298 forks, 83 watches  
+4,224 stars, 298 forks, 83 watches  
 [ml](categories/ml.md) category, created 2017-07-18, last commit 2021-11-09, main language Jupyter Notebook  
 <sub><sup>machine-learning, pytorch, scikit-learn</sup></sub>
 
@@ -1391,7 +1418,7 @@ pygame (the library) is a Free and Open Source python programming language libra
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 16 stars per week over 243 weeks  
-4,093 stars, 1,795 forks, 150 watches  
+4,094 stars, 1,795 forks, 150 watches  
 [gamedev](categories/gamedev.md) category, created 2017-03-26, last commit 2021-11-20, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
@@ -1400,7 +1427,7 @@ pygame (the library) is a Free and Open Source python programming language libra
 A lightweight, object-oriented finite state machine implementation in Python with many extensions  
 [https://github.com/pytransitions/transitions](https://github.com/pytransitions/transitions)  
 10 stars per week over 371 weeks  
-4,038 stars, 469 forks, 98 watches  
+4,038 stars, 469 forks, 97 watches  
 [util](categories/util.md) category, created 2014-10-12, last commit 2021-10-04, main language Python  
 <sub><sup>hierarchical-state-machine, nested-states, python, state-diagram, state-machine</sup></sub>
 
@@ -1452,6 +1479,15 @@ GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 <sub><sup>deep-learning, face-restoration, gan, gfpgan, image-restoration, pytorch, super-resolution</sup></sub>
 
 
+### [toolz](https://github.com/pytoolz/toolz) by [pytoolz](https://github.com/pytoolz)  
+A functional standard library for Python.  
+[http://toolz.readthedocs.org/](http://toolz.readthedocs.org/)  
+[https://github.com/pytoolz/toolz](https://github.com/pytoolz/toolz)  
+8.71 stars per week over 427 weeks  
+3,725 stars, 229 forks, 81 watches  
+[util](categories/util.md) category, created 2013-09-13, last commit 2021-11-06, main language Python  
+
+
 ### [bandit](https://github.com/PyCQA/bandit) by [PyCQA](https://github.com/PyCQA)  
 Bandit is a tool designed to find common security issues in Python code.  
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
@@ -1477,8 +1513,8 @@ It's not just a linter that annoys you!
 [http://pylint.pycqa.org](http://pylint.pycqa.org)  
 [https://github.com/PyCQA/pylint](https://github.com/PyCQA/pylint)  
 11 stars per week over 310 weeks  
-3,688 stars, 793 forks, 72 watches  
-[util](categories/util.md) category, created 2015-12-09, last commit 2021-11-22, main language Python  
+3,687 stars, 793 forks, 72 watches  
+[util](categories/util.md) category, created 2015-12-09, last commit 2021-11-23, main language Python  
 <sub><sup>closember, code-quality, linter, pep8, static-analysis, static-code-analysis</sup></sub>
 
 
@@ -1504,7 +1540,7 @@ A static type analyzer for Python code
 [https://github.com/google/pytype](https://github.com/google/pytype)  
 10 stars per week over 348 weeks  
 3,518 stars, 220 forks, 58 watches  
-[typing](categories/typing.md) category, created 2015-03-18, last commit 2021-11-19, main language Python  
+[typing](categories/typing.md) category, created 2015-03-18, last commit 2021-11-23, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
@@ -1562,7 +1598,7 @@ uWSGI application server container
 [http://projects.unbit.it/uwsgi](http://projects.unbit.it/uwsgi)  
 [https://github.com/unbit/uwsgi](https://github.com/unbit/uwsgi)  
 5.81 stars per week over 528 weeks  
-3,067 stars, 637 forks, 110 watches  
+3,067 stars, 636 forks, 110 watches  
 [web](categories/web.md) category, created 2011-10-09, last commit 2021-10-13, main language C  
 
 
@@ -1580,7 +1616,7 @@ Powerful, mature open-source cross-platform game engine for Python and C++, deve
 This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
 [https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)  
 103 stars per week over 28 weeks  
-2,952 stars, 659 forks, 130 watches  
+2,952 stars, 660 forks, 130 watches  
 [crypto](categories/crypto.md) category, created 2021-05-08, last commit 2021-06-10, main language Python  
 
 
@@ -1589,7 +1625,7 @@ This is a fully functioning Binance trading bot that measures the volatility of 
 [https://riverml.xyz](https://riverml.xyz)  
 [https://github.com/online-ml/river](https://github.com/online-ml/river)  
 19 stars per week over 147 weeks  
-2,900 stars, 313 forks, 77 watches  
+2,901 stars, 314 forks, 77 watches  
 [ml](categories/ml.md) category, created 2019-01-24, last commit 2021-11-23, main language Python  
 <sub><sup>concept-drift, data-science, incremental-learning, machine-learning, online-learning, online-machine-learning, online-statistics, python, streaming, streaming-data</sup></sub>
 
@@ -1636,7 +1672,7 @@ Main repository for Vispy
 [http://vispy.org](http://vispy.org)  
 [https://github.com/vispy/vispy](https://github.com/vispy/vispy)  
 6.1 stars per week over 452 weeks  
-2,761 stars, 583 forks, 126 watches  
+2,762 stars, 583 forks, 126 watches  
 [viz](categories/viz.md) category, created 2013-03-21, last commit 2021-11-23, main language Python  
 <sub><sup>closember, hacktoberfest, opengl, python, visualization</sup></sub>
 
@@ -1649,6 +1685,16 @@ A Python module for creating Excel XLSX files.
 2,742 stars, 555 forks, 120 watches  
 [data](categories/data.md) category, created 2013-01-04, last commit 2021-11-13, main language Python  
 <sub><sup>charts, libxlsxwriter, pandas, python, spreadsheet, xlsx, xlsx-files, xlsxwriter</sup></sub>
+
+
+### [lit](https://github.com/PAIR-code/lit) by [PAIR-code](https://github.com/PAIR-code)  
+The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.  
+[https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
+[https://github.com/PAIR-code/lit](https://github.com/PAIR-code/lit)  
+39 stars per week over 69 weeks  
+2,708 stars, 273 forks, 72 watches  
+[nlp](categories/nlp.md) category, created 2020-07-28, last commit 2021-11-14, main language Python  
+<sub><sup>machine-learning, natural-language-processing, visualization</sup></sub>
 
 
 ### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  
@@ -1703,7 +1749,7 @@ A python interface for interacting with the Ethereum blockchain and ecosystem.
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
 8.64 stars per week over 292 weeks  
-2,528 stars, 859 forks, 91 watches  
+2,529 stars, 859 forks, 91 watches  
 [crypto](categories/crypto.md) category, created 2016-04-14, last commit 2021-11-19, main language Python  
 
 
@@ -1809,7 +1855,7 @@ A Pythonic wrapper for the Wikipedia API
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 [https://github.com/goldsmith/Wikipedia](https://github.com/goldsmith/Wikipedia)  
 5.46 stars per week over 431 weeks  
-2,354 stars, 477 forks, 79 watches  
+2,355 stars, 477 forks, 80 watches  
 [data](categories/data.md) category, created 2013-08-20, last commit 2020-10-09, main language Python  
 
 
@@ -1902,7 +1948,7 @@ The easy way to send notifications
 [http://notifiers.readthedocs.io/](http://notifiers.readthedocs.io/)  
 [https://github.com/liiight/notifiers](https://github.com/liiight/notifiers)  
 8.65 stars per week over 233 weeks  
-2,022 stars, 78 forks, 36 watches  
+2,021 stars, 78 forks, 36 watches  
 [util](categories/util.md) category, created 2017-06-01, last commit 2021-09-22, main language Python  
 <sub><sup>notification-service, notifications, notifier, python, python3</sup></sub>
 
@@ -1912,7 +1958,7 @@ The easy way to send notifications
 [https://huggingface.co/docs/accelerate](https://huggingface.co/docs/accelerate)  
 [https://github.com/huggingface/accelerate](https://github.com/huggingface/accelerate)  
 35 stars per week over 55 weeks  
-1,985 stars, 110 forks, 35 watches  
+1,986 stars, 110 forks, 35 watches  
 [ml](categories/ml.md) category, created 2020-10-30, last commit 2021-11-12, main language Python  
 
 
@@ -1924,6 +1970,14 @@ Write interactive web app in script way.
 1,982 stars, 148 forks, 33 watches  
 [web](categories/web.md) category, created 2020-02-29, last commit 2021-11-09, main language Python  
 <sub><sup>pywebio</sup></sub>
+
+
+### [mujoco-py](https://github.com/openai/mujoco-py) by [openai](https://github.com/openai)  
+MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
+[https://github.com/openai/mujoco-py](https://github.com/openai/mujoco-py)  
+6.33 stars per week over 291 weeks  
+1,843 stars, 590 forks, 135 watches  
+[sim](categories/sim.md) category, created 2016-04-24, last commit 2021-11-19, main language Cython  
 
 
 ### [coveragepy](https://github.com/nedbat/coveragepy) by [nedbat](https://github.com/nedbat)  
@@ -1942,6 +1996,16 @@ A faster and highly-compatible implementation of the Python programming language
 47 stars per week over 38 weeks  
 1,798 stars, 60 forks, 32 watches  
 [util](categories/util.md) category, created 2021-03-01, last commit 2021-11-15, main language Python  
+
+
+### [pycryptodome](https://github.com/Legrandin/pycryptodome) by [Legrandin](https://github.com/Legrandin)  
+A self-contained cryptographic library for Python  
+[https://www.pycryptodome.org](https://www.pycryptodome.org)  
+[https://github.com/Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)  
+4.52 stars per week over 394 weeks  
+1,785 stars, 325 forks, 53 watches  
+[util](categories/util.md) category, created 2014-05-02, last commit 2021-11-22, main language C  
+<sub><sup>cryptography, python, security</sup></sub>
 
 
 ### [PynamoDB](https://github.com/pynamodb/PynamoDB) by [pynamodb](https://github.com/pynamodb)  
@@ -2030,6 +2094,16 @@ A fast and lightweight AutoML library.
 <sub><sup>automated-machine-learning, automl, data-science, deep-learning, hyperparam, hyperparameter-optimization, jupyter-notebook, machine-learning, python, random-forest, scikit-learn</sup></sub>
 
 
+### [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) by [PyFilesystem](https://github.com/PyFilesystem)  
+Python's Filesystem abstraction layer  
+[https://www.pyfilesystem.org](https://www.pyfilesystem.org)  
+[https://github.com/PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2)  
+5.83 stars per week over 266 weeks  
+1,555 stars, 160 forks, 45 watches  
+[util](categories/util.md) category, created 2016-10-14, last commit 2021-11-16, main language Python  
+<sub><sup>filesystem, filesystem-library, ftp, pyfilesystem, pyfilesystem2, python, tar, zip</sup></sub>
+
+
 ### [jellyfish](https://github.com/jamesturk/jellyfish) by [jamesturk](https://github.com/jamesturk)  
 🎐 a python library for doing approximate and phonetic matching of strings.  
 [https://jamesturk.github.io/jellyfish/](https://jamesturk.github.io/jellyfish/)  
@@ -2045,7 +2119,7 @@ NeuralProphet: A simple forecasting package
 [https://neuralprophet.com](https://neuralprophet.com)  
 [https://github.com/ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet)  
 18 stars per week over 81 weeks  
-1,531 stars, 191 forks, 41 watches  
+1,532 stars, 191 forks, 41 watches  
 [ml](categories/ml.md) category, created 2020-05-04, last commit 2021-11-16, main language Python  
 <sub><sup>artificial-intelligence, autoregression, deep-learning, fbprophet, forecast, forecasting, forecasting-algorithm, forecasting-model, machine-learning, neural, neural-network, neuralprophet, prediction, prophet, python, pytorch, seasonality, time-series, timeseries, trend</sup></sub>
 
@@ -2093,7 +2167,7 @@ VizTracer is a low-overhead logging/debugging/profiling tool that can trace and 
 [https://github.com/MAIF/shapash](https://github.com/MAIF/shapash)  
 17 stars per week over 81 weeks  
 1,410 stars, 191 forks, 33 watches  
-[ml](categories/ml.md) category, created 2020-04-29, last commit 2021-11-17, main language Jupyter Notebook  
+[ml](categories/ml.md) category, created 2020-04-29, last commit 2021-11-23, main language Jupyter Notebook  
 <sub><sup>ethical-artificial-intelligence, explainability, explainable-ml, interpretability, lime, machine-learning, python, shap, transparency</sup></sub>
 
 
@@ -2170,6 +2244,15 @@ Simple real time visualisation of the execution of a Python program.
 <sub><sup>debugger, python, visualization</sup></sub>
 
 
+### [pyparsing](https://github.com/pyparsing/pyparsing)  
+Python library for creating PEG parsers  
+[https://github.com/pyparsing/pyparsing](https://github.com/pyparsing/pyparsing)  
+5.54 stars per week over 236 weeks  
+1,310 stars, 193 forks, 20 watches  
+[util](categories/util.md) category, created 2017-05-14, last commit 2021-11-13, main language Python  
+<sub><sup>parser-combinators, parsing, parsing-expression-grammar, parsing-library, peg-parsers, python, python-2, python-3, python2, python3, text-processing</sup></sub>
+
+
 ### [camelot](https://github.com/camelot-dev/camelot) by [camelot-dev](https://github.com/camelot-dev)  
 A Python library to extract tabular data from PDFs  
 [https://camelot-py.readthedocs.io](https://camelot-py.readthedocs.io)  
@@ -2187,6 +2270,16 @@ The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
 1,302 stars, 155 forks, 48 watches  
 [data](categories/data.md) category, created 2015-05-24, last commit 2020-01-06, main language Python  
 <sub><sup>database, orm, python</sup></sub>
+
+
+### [pyscaffold](https://github.com/pyscaffold/pyscaffold)  
+🛠 Python project template generator with batteries included  
+[https://pyscaffold.org](https://pyscaffold.org)  
+[https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
+3.2 stars per week over 398 weeks  
+1,276 stars, 131 forks, 40 watches  
+[util](categories/util.md) category, created 2014-04-02, last commit 2021-11-21, main language Python  
+<sub><sup>distribution, git, package, package-creation, project-template, python, release-automation, template-project</sup></sub>
 
 
 ### [arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity)  
@@ -2228,6 +2321,15 @@ Concurrent networking library for Python
 <sub><sup>bert, google, gpt-2, huggingface, language-model, machine-learning, natural-language-processing, natural-language-understanding, nlp, openai, pytorch, pytorch-model, spacy, spacy-extension, spacy-pipeline, transfer-learning, xlnet</sup></sub>
 
 
+### [brax](https://github.com/google/brax) by [google](https://github.com/google)  
+Massively parallel rigidbody physics simulation on accelerator hardware.  
+[https://github.com/google/brax](https://github.com/google/brax)  
+42 stars per week over 24 weeks  
+1,058 stars, 86 forks, 21 watches  
+[sim](categories/sim.md) category, created 2021-06-02, last commit 2021-11-19, main language Jupyter Notebook  
+<sub><sup>jax, physics-simulation, reinforcement-learning, robotics</sup></sub>
+
+
 ### [cryptofeed](https://github.com/bmoscon/cryptofeed) by [bmoscon](https://github.com/bmoscon)  
 Cryptocurrency Exchange Websocket Data Feed Handler  
 [https://github.com/bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed)  
@@ -2237,13 +2339,12 @@ Cryptocurrency Exchange Websocket Data Feed Handler
 <sub><sup>asyncio, binance, bitcoin, btc, coinbase, coinbase-api, crypto, cryptocurrencies, cryptocurrency, ethereum, exchange, ftx-exchange, influxdb, market-data, python, trading, trading-platform, websocket, websockets</sup></sub>
 
 
-### [brax](https://github.com/google/brax) by [google](https://github.com/google)  
-Massively parallel rigidbody physics simulation on accelerator hardware.  
-[https://github.com/google/brax](https://github.com/google/brax)  
-42 stars per week over 24 weeks  
-1,058 stars, 86 forks, 21 watches  
-[sim](categories/sim.md) category, created 2021-06-02, last commit 2021-11-19, main language Jupyter Notebook  
-<sub><sup>jax, physics-simulation, reinforcement-learning, robotics</sup></sub>
+### [Pipe](https://github.com/JulienPalard/Pipe) by [JulienPalard](https://github.com/JulienPalard)  
+A Python library to use infix notation in Python  
+[https://github.com/JulienPalard/Pipe](https://github.com/JulienPalard/Pipe)  
+1.63 stars per week over 606 weeks  
+991 stars, 87 forks, 20 watches  
+[util](categories/util.md) category, created 2010-04-08, last commit 2021-06-27, main language Python  
 
 
 ### [spacy-models](https://github.com/explosion/spacy-models) by [explosion](https://github.com/explosion)  
@@ -2414,6 +2515,16 @@ Python library for arbitrary-precision floating-point arithmetic
 <sub><sup>corenlp, data-science, machine-learning, natural-language-processing, nlp, spacy, spacy-pipeline, stanford-corenlp, stanford-machine-learning, stanford-nlp, stanza</sup></sub>
 
 
+### [embeddinghub](https://github.com/featureform/embeddinghub) by [featureform](https://github.com/featureform)  
+A vector database for machine learning embeddings.  
+[https://www.featureform.com](https://www.featureform.com)  
+[https://github.com/featureform/embeddinghub](https://github.com/featureform/embeddinghub)  
+9.05 stars per week over 57 weeks  
+521 stars, 13 forks, 6 watches  
+[nlp](categories/nlp.md) category, created 2020-10-16, last commit 2021-11-18, main language JavaScript  
+<sub><sup>data-science, embeddings, embeddings-similarity, hacktoberfest, machine-learning, vector-database</sup></sub>
+
+
 ### [Blackstone](https://github.com/ICLRandD/Blackstone) by [ICLRandD](https://github.com/ICLRandD)  
 :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.  
 [https://research.iclr.co.uk](https://research.iclr.co.uk)  
@@ -2490,6 +2601,16 @@ Python package for information theory.
 <sub><sup>information-theory, python</sup></sub>
 
 
+### [Blankly](https://github.com/Blankly-Finance/Blankly) by [Blankly-Finance](https://github.com/Blankly-Finance)  
+🚀 💸  Trade stocks, cryptos, and forex w/ one package. Easily build, backtest, trade, and deploy across exchanges in a few lines of code.  
+[https://blankly.finance](https://blankly.finance)  
+[https://github.com/Blankly-Finance/Blankly](https://github.com/Blankly-Finance/Blankly)  
+9.35 stars per week over 37 weeks  
+346 stars, 42 forks, 13 watches  
+[crypto](categories/crypto.md) category, created 2021-03-09, last commit 2021-11-20, main language Python  
+<sub><sup>binance, blankly, bot, bot-framework, bots, coinbase, coinbase-pro, coinbase-pro-api, cryptocurrency, framework, investment, platform, stocks, trading, trading-bot, trading-strategies</sup></sub>
+
+
 ### [python-dialogflow](https://github.com/dialogflow/dialogflow-python-client-v2) by [dialogflow](https://github.com/dialogflow)  
 Python client for Dialogflow: Design and integrate a conversational user interface into your applications and devices.  
 [https://dialogflow.com/](https://dialogflow.com/)  
@@ -2508,14 +2629,14 @@ Official code for our NeurIPS 2021 Spotlight "Focal Self-attention for Local-Glo
 [ml](categories/ml.md) category, created 2021-07-10, last commit 2021-10-04, main language Python  
 
 
-### [pypy](https://github.com/mozillazg/pypy) by [mozillazg](https://github.com/mozillazg)  
-The unofficial GitHub mirror of PyPy  
-[https://foss.heptapod.net/pypy/pypy](https://foss.heptapod.net/pypy/pypy)  
-[https://github.com/mozillazg/pypy](https://github.com/mozillazg/pypy)  
-0.8 stars per week over 329 weeks  
-263 stars, 41 forks, 10 watches  
-[util](categories/util.md) category, created 2015-08-03, last commit 2021-11-22, main language Python  
-<sub><sup>github-mirror, pypy</sup></sub>
+### [ghapi](https://github.com/fastai/ghapi) by [fastai](https://github.com/fastai)  
+A delightful and complete interface to GitHub's amazing API  
+[https://ghapi.fast.ai/](https://ghapi.fast.ai/)  
+[https://github.com/fastai/ghapi](https://github.com/fastai/ghapi)  
+5.3 stars per week over 52 weeks  
+278 stars, 25 forks, 7 watches  
+[util](categories/util.md) category, created 2020-11-21, last commit 2021-09-18, main language Jupyter Notebook  
+<sub><sup>api-client, github, github-api, nbdev, openapi</sup></sub>
 
 
 ### [testbook](https://github.com/nteract/testbook) by [nteract](https://github.com/nteract)  
@@ -2528,12 +2649,30 @@ The unofficial GitHub mirror of PyPy
 <sub><sup>jupyter-notebook, nteract, pytest, python, testbook, unit-testing</sup></sub>
 
 
+### [pypy](https://github.com/mozillazg/pypy) by [mozillazg](https://github.com/mozillazg)  
+The unofficial GitHub mirror of PyPy  
+[https://foss.heptapod.net/pypy/pypy](https://foss.heptapod.net/pypy/pypy)  
+[https://github.com/mozillazg/pypy](https://github.com/mozillazg/pypy)  
+0.8 stars per week over 329 weeks  
+263 stars, 41 forks, 10 watches  
+[util](categories/util.md) category, created 2015-08-03, last commit 2021-11-22, main language Python  
+<sub><sup>github-mirror, pypy</sup></sub>
+
+
+### [hamilton](https://github.com/stitchfix/hamilton) by [stitchfix](https://github.com/stitchfix)  
+Library for creating dataframes from functions.  
+[https://github.com/stitchfix/hamilton](https://github.com/stitchfix/hamilton)  
+3.33 stars per week over 78 weeks  
+260 stars, 7 forks, 11 watches  
+[data](categories/data.md) category, created 2020-05-26, last commit 2021-10-23, main language Python  
+
+
 ### [FEDOT](https://github.com/nccr-itmo/FEDOT) by [nccr-itmo](https://github.com/nccr-itmo)  
 Automated modeling and machine learning framework FEDOT  
 [https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
 [https://github.com/nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT)  
-2.66 stars per week over 97 weeks  
-258 stars, 31 forks, 7 watches  
+2.67 stars per week over 97 weeks  
+259 stars, 32 forks, 7 watches  
 [pipeline](categories/pipeline.md) category, created 2020-01-13, last commit 2021-11-23, main language Python  
 <sub><sup>automated-machine-learning, automation, automl, evolutionary-algorithms, fedot, genetic-programming, hyperparameter-optimization, machine-learning, multimodality, parameter-tuning, structural-learning</sup></sub>
 
@@ -2611,6 +2750,24 @@ PECOS - Prediction for Enormous and Correlated Spaces
 <sub><sup>extreme-multi-label-classification, extreme-multi-label-ranking, machine-learning-algorithms, transformers</sup></sub>
 
 
+### [eth-utils](https://github.com/ethereum/eth-utils) by [ethereum](https://github.com/ethereum)  
+Utility functions for working with ethereum related codebases.  
+[https://eth-utils.readthedocs.io/en/latest/](https://eth-utils.readthedocs.io/en/latest/)  
+[https://github.com/ethereum/eth-utils](https://github.com/ethereum/eth-utils)  
+0.83 stars per week over 250 weeks  
+207 stars, 112 forks, 18 watches  
+[crypto](categories/crypto.md) category, created 2017-02-07, last commit 2021-11-18, main language Python  
+<sub><sup>ethereum, python, utility-library</sup></sub>
+
+
+### [ottr](https://github.com/airbnb/ottr) by [airbnb](https://github.com/airbnb)  
+Serverless Public Key Infrastructure Framework  
+[https://github.com/airbnb/ottr](https://github.com/airbnb/ottr)  
+16 stars per week over 12 weeks  
+203 stars, 11 forks, 8 watches  
+[util](categories/util.md) category, created 2021-08-27, last commit 2021-11-13, main language Python  
+
+
 ### [ion-python](https://github.com/amzn/ion-python) by [amzn](https://github.com/amzn)  
 A Python implementation of Amazon Ion.  
 [http://amzn.github.io/ion-docs/](http://amzn.github.io/ion-docs/)  
@@ -2656,6 +2813,14 @@ Poetry plugin for dynamically extracting the package version from a __version__ 
 <sub><sup>packaging, packaging-for-pypi, pypi, python, python-poetry, python3</sup></sub>
 
 
+### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
+Ethereum decompiler  
+[https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
+1.6 stars per week over 92 weeks  
+147 stars, 39 forks, 12 watches  
+[crypto](categories/crypto.md) category, created 2020-02-17, last commit 2020-08-22, main language Python  
+
+
 ### [address-net](https://github.com/jasonrig/address-net) by [jasonrig](https://github.com/jasonrig)  
 A package to structure Australian addresses  
 [https://github.com/jasonrig/address-net](https://github.com/jasonrig/address-net)  
@@ -2663,6 +2828,14 @@ A package to structure Australian addresses
 138 stars, 57 forks, 9 watches  
 [data](categories/data.md) category, created 2018-12-05, last commit 2020-09-09, main language Python  
 <sub><sup>address-parser, deep-learning, machine-learning, rnn</sup></sub>
+
+
+### [grade-school-math](https://github.com/openai/grade-school-math) by [openai](https://github.com/openai)  
+  
+[https://github.com/openai/grade-school-math](https://github.com/openai/grade-school-math)  
+28 stars per week over 4 weeks  
+138 stars, 16 forks, 1 watches  
+[nlp](categories/nlp.md) category, created 2021-10-20, last commit 2021-11-19, main language Python  
 
 
 ### [pystan](https://github.com/stan-dev/pystan) by [stan-dev](https://github.com/stan-dev)  
@@ -2682,20 +2855,20 @@ CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Exp
 <sub><sup>artificial-intelligence, benchmark, benchmarking, counterfactual, counterfactual-explanations, counterfactuals, explainability, explainable-ai, explainable-ml, machine-learning, python, pytorch, recourse, tensorflow, tensorflow2</sup></sub>
 
 
-### [s2orc-doc2json](https://github.com/allenai/s2orc-doc2json) by [allenai](https://github.com/allenai)  
-Parsers for scientific papers (PDF2JSON and TEX2JSON)  
-[https://github.com/allenai/s2orc-doc2json](https://github.com/allenai/s2orc-doc2json)  
-2.33 stars per week over 49 weeks  
-116 stars, 13 forks, 8 watches  
-[nlp](categories/nlp.md) category, created 2020-12-10, last commit 2021-09-17, main language Python  
-
-
 ### [aws-lambda-python-runtime-interface-client](https://github.com/aws/aws-lambda-python-runtime-interface-client) by [aws](https://github.com/aws)  
   
 [https://github.com/aws/aws-lambda-python-runtime-interface-client](https://github.com/aws/aws-lambda-python-runtime-interface-client)  
 1.82 stars per week over 63 weeks  
 116 stars, 25 forks, 10 watches  
 [util](categories/util.md) category, created 2020-09-02, last commit 2021-09-29, main language Python  
+
+
+### [s2orc-doc2json](https://github.com/allenai/s2orc-doc2json) by [allenai](https://github.com/allenai)  
+Parsers for scientific papers (PDF2JSON and TEX2JSON)  
+[https://github.com/allenai/s2orc-doc2json](https://github.com/allenai/s2orc-doc2json)  
+2.33 stars per week over 49 weeks  
+116 stars, 13 forks, 8 watches  
+[nlp](categories/nlp.md) category, created 2020-12-10, last commit 2021-09-17, main language Python  
 
 
 ### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
@@ -2722,6 +2895,24 @@ Ethereum transaction decoder (community version).
 5.95 stars per week over 17 weeks  
 102 stars, 15 forks, 8 watches  
 [crypto](categories/crypto.md) category, created 2021-07-26, last commit 2021-10-14, main language HTML  
+
+
+### [pytrait](https://github.com/xrudelis/pytrait) by [xrudelis](https://github.com/xrudelis)  
+Traits for Python3  
+[https://github.com/xrudelis/pytrait](https://github.com/xrudelis/pytrait)  
+266 stars per week over 0 weeks  
+76 stars, 2 forks, 2 watches  
+[util](categories/util.md) category, created 2021-11-21, last commit 2021-11-22, main language Python  
+
+
+### [python-collab-template](https://github.com/eugeneyan/python-collab-template) by [eugeneyan](https://github.com/eugeneyan)  
+🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
+[https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)  
+[https://github.com/eugeneyan/python-collab-template](https://github.com/eugeneyan/python-collab-template)  
+0.96 stars per week over 74 weeks  
+71 stars, 23 forks, 2 watches  
+[util](categories/util.md) category, created 2020-06-21, last commit 2020-10-01, main language Python  
+<sub><sup>coverage, github-actions, hacktoberfest, linting, makefile, python, type-checking, unit-testing</sup></sub>
 
 
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  

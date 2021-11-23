@@ -10,8 +10,8 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 [https://github.com/apache/airflow](https://github.com/apache/airflow)  
 69 stars per week over 345 weeks  
-23,838 stars, 9,623 forks, 729 watches  
-created 2015-04-13, last commit 2021-11-22, main language Python  
+23,841 stars, 9,625 forks, 730 watches  
+created 2015-04-13, last commit 2021-11-23, main language Python  
 <sub><sup>airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow</sup></sub>
 
 
@@ -29,7 +29,7 @@ Open source platform for the machine learning lifecycle
 [https://mlflow.org](https://mlflow.org)  
 [https://github.com/mlflow/mlflow](https://github.com/mlflow/mlflow)  
 59 stars per week over 181 weeks  
-10,704 stars, 2,382 forks, 274 watches  
+10,706 stars, 2,382 forks, 274 watches  
 created 2018-06-05, last commit 2021-11-23, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
@@ -68,8 +68,8 @@ created 2018-04-30, last commit 2021-11-23, main language Python
 Automated modeling and machine learning framework FEDOT  
 [https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
 [https://github.com/nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT)  
-2.66 stars per week over 97 weeks  
-258 stars, 31 forks, 7 watches  
+2.67 stars per week over 97 weeks  
+259 stars, 32 forks, 7 watches  
 created 2020-01-13, last commit 2021-11-23, main language Python  
 <sub><sup>automated-machine-learning, automation, automl, evolutionary-algorithms, fedot, genetic-programming, hyperparameter-optimization, machine-learning, multimodality, parameter-tuning, structural-learning</sup></sub>
 

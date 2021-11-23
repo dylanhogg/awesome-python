@@ -10,7 +10,7 @@ pygame (the library) is a Free and Open Source python programming language libra
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 16 stars per week over 243 weeks  
-4,093 stars, 1,795 forks, 150 watches  
+4,094 stars, 1,795 forks, 150 watches  
 created 2017-03-26, last commit 2021-11-20, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
