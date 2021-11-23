@@ -9,19 +9,19 @@ Checkout the interactive version that you can filter and sort:
 The Web framework for perfectionists with deadlines.  
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 [https://github.com/django/django](https://github.com/django/django)  
-121 stars per week over 493 weeks  
-60,091 stars, 25,629 forks, 2,324 watches  
-created 2012-04-28, last commit 2021-10-08, main language Python  
-<sub><sup>apps, django, framework, hacktoberfest, models, orm, python, templates, views, web</sup></sub>
+121 stars per week over 499 weeks  
+60,820 stars, 25,968 forks, 2,308 watches  
+created 2012-04-28, last commit 2021-11-23, main language Python  
+<sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
 
 ### [flask](https://github.com/pallets/flask) by [pallets](https://github.com/pallets)  
 The Python micro framework for building web applications.  
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 [https://github.com/pallets/flask](https://github.com/pallets/flask)  
-94 stars per week over 600 weeks  
-56,846 stars, 14,634 forks, 2,222 watches  
-created 2010-04-06, last commit 2021-10-05, main language Python  
+94 stars per week over 607 weeks  
+57,203 stars, 14,709 forks, 2,207 watches  
+created 2010-04-06, last commit 2021-11-16, main language Python  
 <sub><sup>flask, jinja, pallets, python, web-framework, werkzeug, wsgi</sup></sub>
 
 
@@ -29,9 +29,9 @@ created 2010-04-06, last commit 2021-10-05, main language Python
 A simple, yet elegant, HTTP library.  
 [https://requests.readthedocs.io](https://requests.readthedocs.io)  
 [https://github.com/psf/requests](https://github.com/psf/requests)  
-83 stars per week over 556 weeks  
-46,164 stars, 8,478 forks, 1,382 watches  
-created 2011-02-13, last commit 2021-10-09, main language Python  
+82 stars per week over 562 weeks  
+46,437 stars, 8,552 forks, 1,376 watches  
+created 2011-02-13, last commit 2021-10-21, main language Python  
 <sub><sup>client, cookies, forhumans, http, humans, python, python-requests, requests</sup></sub>
 
 
@@ -39,9 +39,9 @@ created 2011-02-13, last commit 2021-10-09, main language Python
 FastAPI framework, high performance, easy to learn, fast to code, ready for production  
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)  
 [https://github.com/tiangolo/fastapi](https://github.com/tiangolo/fastapi)  
-248 stars per week over 148 weeks  
-36,817 stars, 2,690 forks, 550 watches  
-created 2018-12-08, last commit 2021-10-07, main language Python  
+249 stars per week over 154 weeks  
+38,607 stars, 2,840 forks, 560 watches  
+created 2018-12-08, last commit 2021-10-26, main language Python  
 <sub><sup>api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web</sup></sub>
 
 
@@ -49,19 +49,19 @@ created 2018-12-08, last commit 2021-10-07, main language Python
 🔎 Hunt down social media accounts by username across social networks  
 [http://sherlock-project.github.io](http://sherlock-project.github.io)  
 [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)  
-186 stars per week over 146 weeks  
-27,283 stars, 2,940 forks, 893 watches  
-created 2018-12-24, last commit 2021-09-06, main language Python  
-<sub><sup>cli, information-gathering, linux, macos, osint, python3, reconnaissance, redteam, sherlock, tools, windows</sup></sub>
+185 stars per week over 152 weeks  
+28,230 stars, 3,040 forks, 894 watches  
+created 2018-12-24, last commit 2021-11-21, main language Python  
+<sub><sup>cli, hacktoberfest, information-gathering, linux, macos, osint, python3, reconnaissance, redteam, sherlock, tools, windows</sup></sub>
 
 
 ### [tornado](https://github.com/tornadoweb/tornado) by [tornadoweb](https://github.com/tornadoweb)  
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
 [http://www.tornadoweb.org/](http://www.tornadoweb.org/)  
 [https://github.com/tornadoweb/tornado](https://github.com/tornadoweb/tornado)  
-32 stars per week over 630 weeks  
-20,225 stars, 5,416 forks, 1,027 watches  
-created 2009-09-09, last commit 2021-08-26, main language Python  
+31 stars per week over 636 weeks  
+20,275 stars, 5,427 forks, 1,019 watches  
+created 2009-09-09, last commit 2021-11-03, main language Python  
 <sub><sup>asynchronous, python</sup></sub>
 
 
@@ -69,9 +69,9 @@ created 2009-09-09, last commit 2021-08-26, main language Python
 Async Python 3.7+ web server/framework | Build fast. Run fast.  
 [https://sanicframework.org/](https://sanicframework.org/)  
 [https://github.com/huge-success/sanic](https://github.com/huge-success/sanic)  
-55 stars per week over 280 weeks  
-15,492 stars, 1,389 forks, 426 watches  
-created 2016-05-26, last commit 2021-10-10, main language Python  
+54 stars per week over 286 weeks  
+15,603 stars, 1,393 forks, 422 watches  
+created 2016-05-26, last commit 2021-11-21, main language Python  
 <sub><sup>api-server, asgi, asyncio, framework, hacktoberfest, python, sanic, web, web-framework, web-server</sup></sub>
 
 
@@ -79,8 +79,8 @@ created 2016-05-26, last commit 2021-10-10, main language Python
 gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.  
 [http://www.gunicorn.org](http://www.gunicorn.org)  
 [https://github.com/benoitc/gunicorn](https://github.com/benoitc/gunicorn)  
-12 stars per week over 619 weeks  
-7,876 stars, 1,479 forks, 224 watches  
+12 stars per week over 625 weeks  
+7,955 stars, 1,493 forks, 222 watches  
 created 2009-11-30, last commit 2021-09-06, main language Python  
 <sub><sup>http, http-server, python, wsgi, wsgi-server</sup></sub>
 
@@ -88,8 +88,8 @@ created 2009-11-30, last commit 2021-09-06, main language Python
 ### [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) by [tiangolo](https://github.com/tiangolo)  
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
-51 stars per week over 137 weeks  
-7,048 stars, 1,173 forks, 147 watches  
+51 stars per week over 143 weeks  
+7,394 stars, 1,248 forks, 150 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
 
@@ -98,9 +98,9 @@ created 2019-02-23, last commit 2020-06-05, main language Python
 REST API framework designed for human beings  
 [https://python-eve.org](https://python-eve.org)  
 [https://github.com/pyeve/eve](https://github.com/pyeve/eve)  
-13 stars per week over 468 weeks  
-6,391 stars, 738 forks, 234 watches  
-created 2012-10-22, last commit 2021-03-14, main language Python  
+13 stars per week over 474 weeks  
+6,411 stars, 739 forks, 235 watches  
+created 2012-10-22, last commit 2021-11-06, main language Python  
 <sub><sup>flask, mongodb, python, rest</sup></sub>
 
 
@@ -108,18 +108,18 @@ created 2012-10-22, last commit 2021-03-14, main language Python
 uWSGI application server container  
 [http://projects.unbit.it/uwsgi](http://projects.unbit.it/uwsgi)  
 [https://github.com/unbit/uwsgi](https://github.com/unbit/uwsgi)  
-5.82 stars per week over 522 weeks  
-3,038 stars, 632 forks, 110 watches  
-created 2011-10-09, last commit 2021-10-05, main language C  
+5.81 stars per week over 528 weeks  
+3,067 stars, 637 forks, 110 watches  
+created 2011-10-09, last commit 2021-10-13, main language C  
 
 
 ### [websocket-client](https://github.com/websocket-client/websocket-client)  
 WebSocket client for Python  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
-4.87 stars per week over 562 weeks  
-2,741 stars, 671 forks, 87 watches  
-created 2010-12-28, last commit 2021-10-08, main language HTML  
+4.89 stars per week over 569 weeks  
+2,784 stars, 672 forks, 87 watches  
+created 2010-12-28, last commit 2021-11-22, main language Python  
 <sub><sup>python, rfc-6455, websocket, websocket-client, websockets, websockets-client</sup></sub>
 
 
@@ -127,9 +127,9 @@ created 2010-12-28, last commit 2021-10-08, main language HTML
 Write interactive web app in script way.  
 [https://pywebio.readthedocs.io](https://pywebio.readthedocs.io)  
 [https://github.com/pywebio/PyWebIO](https://github.com/pywebio/PyWebIO)  
-20 stars per week over 84 weeks  
-1,688 stars, 114 forks, 29 watches  
-created 2020-02-29, last commit 2021-10-05, main language Python  
+21 stars per week over 90 weeks  
+1,982 stars, 148 forks, 33 watches  
+created 2020-02-29, last commit 2021-11-09, main language Python  
 <sub><sup>pywebio</sup></sub>
 
 
@@ -137,22 +137,22 @@ created 2020-02-29, last commit 2021-10-05, main language Python
 A new GraphQL library for Python 🍓  
 [https://strawberry.rocks](https://strawberry.rocks)  
 [https://github.com/strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry)  
-10 stars per week over 146 weeks  
-1,510 stars, 169 forks, 34 watches  
-created 2018-12-21, last commit 2021-10-07, main language Python  
+11 stars per week over 152 weeks  
+1,681 stars, 195 forks, 35 watches  
+created 2018-12-21, last commit 2021-11-22, main language Python  
 <sub><sup>asgi, asyncio, django, graphql, graphql-library, graphql-schema, graphql-server, hacktoberfest, mypy, python, starlette, strawberry</sup></sub>
 
 
 ### [mangum](https://github.com/jordaneremieff/mangum) by [jordaneremieff](https://github.com/jordaneremieff)  
 AWS Lambda & API Gateway support for ASGI  
 [https://github.com/jordaneremieff/mangum](https://github.com/jordaneremieff/mangum)  
-4.79 stars per week over 143 weeks  
-685 stars, 51 forks, 16 watches  
+4.89 stars per week over 149 weeks  
+730 stars, 56 forks, 16 watches  
 created 2019-01-14, last commit 2021-10-06, main language Python  
 <sub><sup>api-gateway, asgi, asyncio, aws, aws-lambda, django, fastapi, lambda, python, quart, sanic, serverless, starlette</sup></sub>
 
 
-This file was automatically generated on 2021-10-11.  
+This file was automatically generated on 2021-11-23.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
