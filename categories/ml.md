@@ -10,8 +10,8 @@ An Open Source Machine Learning Framework for Everyone
 [https://tensorflow.org](https://tensorflow.org)  
 [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)  
 508 stars per week over 316 weeks  
-160,969 stars, 85,872 forks, 7,974 watches  
-created 2015-11-07, last commit 2021-12-01, main language C++  
+160,976 stars, 85,871 forks, 7,973 watches  
+created 2015-11-07, last commit 2021-12-02, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow</sup></sub>
 
 
@@ -20,8 +20,8 @@ Deep Learning for humans
 [http://keras.io/](http://keras.io/)  
 [https://github.com/keras-team/keras](https://github.com/keras-team/keras)  
 152 stars per week over 348 weeks  
-53,329 stars, 18,912 forks, 1,996 watches  
-created 2015-03-28, last commit 2021-12-01, main language Python  
+53,329 stars, 18,910 forks, 1,996 watches  
+created 2015-03-28, last commit 2021-12-02, main language Python  
 <sub><sup>data-science, deep-learning, machine-learning, neural-networks, python, tensorflow</sup></sub>
 
 
@@ -30,8 +30,8 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 [https://pytorch.org](https://pytorch.org)  
 [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)  
 189 stars per week over 276 weeks  
-52,461 stars, 14,393 forks, 1,593 watches  
-created 2016-08-13, last commit 2021-12-01, main language C++  
+52,475 stars, 14,396 forks, 1,592 watches  
+created 2016-08-13, last commit 2021-12-02, main language C++  
 <sub><sup>autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor</sup></sub>
 
 
@@ -40,8 +40,8 @@ scikit-learn: machine learning in Python
 [https://scikit-learn.org](https://scikit-learn.org)  
 [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)  
 81 stars per week over 589 weeks  
-48,127 stars, 22,342 forks, 2,219 watches  
-created 2010-08-17, last commit 2021-12-01, main language Python  
+48,128 stars, 22,340 forks, 2,219 watches  
+created 2010-08-17, last commit 2021-12-02, main language Python  
 <sub><sup>data-analysis, data-science, machine-learning, python, statistics</sup></sub>
 
 
@@ -50,7 +50,7 @@ Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library
 [https://xgboost.ai/](https://xgboost.ai/)  
 [https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)  
 53 stars per week over 408 weeks  
-21,939 stars, 8,243 forks, 939 watches  
+21,941 stars, 8,246 forks, 939 watches  
 created 2014-02-06, last commit 2021-11-27, main language C++  
 <sub><sup>distributed-systems, gbdt, gbm, gbrt, machine-learning, xgboost</sup></sub>
 
@@ -70,8 +70,8 @@ The lightweight PyTorch wrapper for high-performance AI research. Scale your mod
 [https://pytorchlightning.ai](https://pytorchlightning.ai)  
 [https://github.com/PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)  
 117 stars per week over 139 weeks  
-16,406 stars, 2,006 forks, 222 watches  
-created 2019-03-31, last commit 2021-12-01, main language Python  
+16,414 stars, 2,007 forks, 222 watches  
+created 2019-03-31, last commit 2021-12-02, main language Python  
 <sub><sup>ai, artificial-intelligence, data-science, deep-learning, machine-learning, python, pytorch</sup></sub>
 
 
@@ -79,7 +79,7 @@ created 2019-03-31, last commit 2021-12-01, main language Python
 Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more  
 [https://github.com/google/jax](https://github.com/google/jax)  
 93 stars per week over 162 weeks  
-15,201 stars, 1,410 forks, 254 watches  
+15,204 stars, 1,410 forks, 255 watches  
 created 2018-10-25, last commit 2021-12-01, main language Python  
 <sub><sup>jax</sup></sub>
 
@@ -89,7 +89,7 @@ Cross-platform, customizable ML solutions for live and streaming media.
 [https://mediapipe.dev](https://mediapipe.dev)  
 [https://github.com/google/mediapipe](https://github.com/google/mediapipe)  
 115 stars per week over 129 weeks  
-14,898 stars, 3,060 forks, 464 watches  
+14,904 stars, 3,064 forks, 464 watches  
 created 2019-06-13, last commit 2021-11-16, main language C++  
 <sub><sup>android, audio-processing, c-plus-plus, calculator, computer-vision, deep-learning, framework, graph-based, graph-framework, inference, machine-learning, mediapipe, mobile-development, perception, pipeline-framework, stream-processing, video-processing</sup></sub>
 
@@ -99,7 +99,7 @@ PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientN
 [https://rwightman.github.io/pytorch-image-models/](https://rwightman.github.io/pytorch-image-models/)  
 [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)  
 100 stars per week over 147 weeks  
-14,884 stars, 2,353 forks, 255 watches  
+14,903 stars, 2,354 forks, 256 watches  
 created 2019-02-02, last commit 2021-11-24, main language Python  
 <sub><sup>augmix, cnn-classification, distributed-training, dual-path-networks, efficientnet, efficientnet-training, imagenet-classifier, mixnet, mnasnet, mobile-deep-learning, mobilenet-v2, mobilenetv3, nfnets, normalization-free-training, pretrained-models, pretrained-weights, pytorch, randaugment, resnet, vision-transformer-models</sup></sub>
 
@@ -108,7 +108,7 @@ created 2019-02-02, last commit 2021-11-24, main language Python
 A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
 56 stars per week over 262 weeks  
-14,766 stars, 2,212 forks, 246 watches  
+14,774 stars, 2,211 forks, 246 watches  
 created 2016-11-22, last commit 2021-12-01, main language Jupyter Notebook  
 <sub><sup>deep-learning, explainability, gradient-boosting, interpretability, machine-learning, shap, shapley</sup></sub>
 
@@ -117,7 +117,7 @@ created 2016-11-22, last commit 2021-12-01, main language Jupyter Notebook
 Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
 [https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq)  
 66 stars per week over 222 weeks  
-14,704 stars, 3,827 forks, 323 watches  
+14,707 stars, 3,828 forks, 323 watches  
 created 2017-08-29, last commit 2021-11-29, main language Python  
 <sub><sup>artificial-intelligence, python, pytorch</sup></sub>
 
@@ -125,8 +125,8 @@ created 2017-08-29, last commit 2021-11-29, main language Python
 ### [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) by [HarisIqbal88](https://github.com/HarisIqbal88)  
 Latex code for making neural networks diagrams  
 [https://github.com/HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)  
-80 stars per week over 175 weeks  
-14,195 stars, 2,001 forks, 193 watches  
+81 stars per week over 175 weeks  
+14,200 stars, 2,002 forks, 193 watches  
 created 2018-07-24, last commit 2020-11-06, main language TeX  
 <sub><sup>deep-neural-networks, latex</sup></sub>
 
@@ -136,7 +136,7 @@ Tool for producing high quality forecasts for time series data that has multiple
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
 [https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
 52 stars per week over 263 weeks  
-13,745 stars, 3,939 forks, 415 watches  
+13,751 stars, 3,942 forks, 415 watches  
 created 2016-11-16, last commit 2021-10-03, main language Python  
 <sub><sup>forecasting, python, r</sup></sub>
 
@@ -146,7 +146,7 @@ Open standard for machine learning interoperability
 [https://onnx.ai/](https://onnx.ai/)  
 [https://github.com/onnx/onnx](https://github.com/onnx/onnx)  
 53 stars per week over 221 weeks  
-11,748 stars, 2,255 forks, 430 watches  
+11,751 stars, 2,256 forks, 430 watches  
 created 2017-09-07, last commit 2021-11-22, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, dnn, keras, machine-learning, ml, mxnet, neural-network, onnx, pytorch, scikit-learn, tensorflow</sup></sub>
 
@@ -156,7 +156,7 @@ An open source AutoML toolkit for automate machine learning lifecycle, including
 [https://nni.readthedocs.io](https://nni.readthedocs.io)  
 [https://github.com/microsoft/nni](https://github.com/microsoft/nni)  
 58 stars per week over 182 weeks  
-10,619 stars, 1,480 forks, 271 watches  
+10,621 stars, 1,482 forks, 271 watches  
 created 2018-06-01, last commit 2021-12-01, main language Python  
 <sub><sup>automated-machine-learning, automl, bayesian-optimization, data-science, deep-learning, deep-neural-network, distributed, feature-engineering, feature-extraction, hyperparameter-optimization, machine-learning, machine-learning-algorithms, model-compression, nas, neural-architecture-search, neural-network, python, pytorch, tensorflow</sup></sub>
 
@@ -166,7 +166,7 @@ Dopamine is a research framework for fast prototyping of reinforcement learning 
 [https://github.com/google/dopamine](https://github.com/google/dopamine)  
 [https://github.com/google/dopamine](https://github.com/google/dopamine)  
 55 stars per week over 175 weeks  
-9,655 stars, 1,299 forks, 446 watches  
+9,654 stars, 1,298 forks, 446 watches  
 created 2018-07-26, last commit 2021-11-09, main language Jupyter Notebook  
 <sub><sup>ai, google, ml, rl, tensorflow</sup></sub>
 
@@ -175,7 +175,7 @@ created 2018-07-26, last commit 2021-11-09, main language Jupyter Notebook
 Lime: Explaining the predictions of any machine learning classifier  
 [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)  
 31 stars per week over 298 weeks  
-9,347 stars, 1,540 forks, 275 watches  
+9,351 stars, 1,540 forks, 275 watches  
 created 2016-03-15, last commit 2021-07-29, main language JavaScript  
 
 
@@ -183,7 +183,7 @@ created 2016-03-15, last commit 2021-07-29, main language JavaScript
 Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk  
 [https://github.com/spotify/annoy](https://github.com/spotify/annoy)  
 20 stars per week over 452 weeks  
-9,219 stars, 973 forks, 320 watches  
+9,220 stars, 973 forks, 320 watches  
 created 2013-04-01, last commit 2021-10-18, main language C++  
 <sub><sup>approximate-nearest-neighbor-search, c-plus-plus, golang, locality-sensitive-hashing, lua, nearest-neighbor-search, python</sup></sub>
 
@@ -192,7 +192,7 @@ created 2013-04-01, last commit 2021-10-18, main language C++
 This repository contains implementations and illustrative code to accompany DeepMind publications  
 [https://github.com/deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)  
 59 stars per week over 150 weeks  
-8,935 stars, 1,784 forks, 298 watches  
+8,937 stars, 1,786 forks, 299 watches  
 created 2019-01-15, last commit 2021-11-09, main language Jupyter Notebook  
 
 
@@ -201,8 +201,8 @@ SciPy library main repository
 [https://scipy.org](https://scipy.org)  
 [https://github.com/scipy/scipy](https://github.com/scipy/scipy)  
 15 stars per week over 560 weeks  
-8,895 stars, 3,987 forks, 331 watches  
-created 2011-03-09, last commit 2021-12-01, main language Python  
+8,897 stars, 3,988 forks, 331 watches  
+created 2011-03-09, last commit 2021-12-02, main language Python  
 <sub><sup>algorithms, closember, python, scientific-computing, scipy</sup></sub>
 
 
@@ -211,8 +211,8 @@ Python package built to ease deep learning on graph, on top of existing DL frame
 [http://dgl.ai](http://dgl.ai)  
 [https://github.com/dmlc/dgl](https://github.com/dmlc/dgl)  
 45 stars per week over 188 weeks  
-8,552 stars, 1,899 forks, 173 watches  
-created 2018-04-20, last commit 2021-11-30, main language Python  
+8,555 stars, 1,901 forks, 173 watches  
+created 2018-04-20, last commit 2021-12-02, main language Python  
 <sub><sup>deep-learning, graph-neural-networks</sup></sub>
 
 
@@ -231,7 +231,7 @@ AutoML library for deep learning
 [http://autokeras.com/](http://autokeras.com/)  
 [https://github.com/keras-team/autokeras](https://github.com/keras-team/autokeras)  
 39 stars per week over 210 weeks  
-8,250 stars, 1,333 forks, 314 watches  
+8,251 stars, 1,334 forks, 314 watches  
 created 2017-11-19, last commit 2021-10-20, main language Python  
 <sub><sup>autodl, automated-machine-learning, automl, deep-learning, keras, machine-learning, neural-architecture-search, python, tensorflow</sup></sub>
 
@@ -241,8 +241,8 @@ Data-centric declarative deep learning framework
 [http://ludwig.ai](http://ludwig.ai)  
 [https://github.com/uber/ludwig](https://github.com/uber/ludwig)  
 52 stars per week over 153 weeks  
-7,997 stars, 957 forks, 186 watches  
-created 2018-12-27, last commit 2021-12-01, main language Python  
+7,997 stars, 958 forks, 186 watches  
+created 2018-12-27, last commit 2021-12-02, main language Python  
 <sub><sup>computer-vision, data-centric, data-science, datascience, deep, deep-learning, deeplearning, learning, machine, machine-learning, machinelearning, ml, natural-language, natural-language-processing, neural-network, python, pytorch</sup></sub>
 
 
@@ -251,7 +251,7 @@ Statsmodels: statistical modeling and econometrics in Python
 [http://www.statsmodels.org/devel/](http://www.statsmodels.org/devel/)  
 [https://github.com/statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)  
 12 stars per week over 546 weeks  
-6,886 stars, 2,366 forks, 260 watches  
+6,889 stars, 2,366 forks, 260 watches  
 created 2011-06-12, last commit 2021-11-30, main language Python  
 <sub><sup>data-analysis, econometrics, generalized-linear-models, python, regression-models, statistics, timeseries-analysis</sup></sub>
 
@@ -260,7 +260,7 @@ created 2011-06-12, last commit 2021-11-30, main language Python
 Trax — Deep Learning with Clear Code and Speed  
 [https://github.com/google/trax](https://github.com/google/trax)  
 58 stars per week over 112 weeks  
-6,626 stars, 668 forks, 146 watches  
+6,628 stars, 669 forks, 146 watches  
 created 2019-10-05, last commit 2021-11-16, main language Python  
 <sub><sup>deep-learning, deep-reinforcement-learning, jax, machine-learning, numpy, reinforcement-learning, transformer</sup></sub>
 
@@ -270,8 +270,8 @@ A fast, scalable, high performance Gradient Boosting on Decision Trees library, 
 [https://catboost.ai](https://catboost.ai)  
 [https://github.com/catboost/catboost](https://github.com/catboost/catboost)  
 27 stars per week over 228 weeks  
-6,235 stars, 942 forks, 191 watches  
-created 2017-07-18, last commit 2021-12-01, main language C  
+6,237 stars, 942 forks, 191 watches  
+created 2017-07-18, last commit 2021-12-02, main language C  
 <sub><sup>big-data, catboost, categorical-features, coreml, cuda, data-mining, data-science, decision-trees, gbdt, gbm, gpu, gpu-computing, gradient-boosting, kaggle, machine-learning, python, r, tutorial</sup></sub>
 
 
@@ -280,7 +280,7 @@ Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine
 [https://docs.pymc.io/](https://docs.pymc.io/)  
 [https://github.com/pymc-devs/pymc3](https://github.com/pymc-devs/pymc3)  
 9.43 stars per week over 656 weeks  
-6,190 stars, 1,489 forks, 238 watches  
+6,191 stars, 1,490 forks, 238 watches  
 created 2009-05-05, last commit 2021-12-01, main language Python  
 <sub><sup>aesara, bayesian-inference, hacktoberfest, mcmc, probabilistic-programming, python, statistical-analysis, variational-inference</sup></sub>
 
@@ -290,7 +290,7 @@ Distributed Asynchronous Hyperparameter Optimization in Python
 [http://hyperopt.github.io/hyperopt](http://hyperopt.github.io/hyperopt)  
 [https://github.com/hyperopt/hyperopt](https://github.com/hyperopt/hyperopt)  
 11 stars per week over 534 weeks  
-5,961 stars, 931 forks, 130 watches  
+5,962 stars, 931 forks, 130 watches  
 created 2011-09-06, last commit 2021-11-29, main language Python  
 
 
@@ -299,8 +299,8 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 [https://www.deepspeed.ai/](https://www.deepspeed.ai/)  
 [https://github.com/microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)  
 61 stars per week over 97 weeks  
-5,946 stars, 663 forks, 122 watches  
-created 2020-01-23, last commit 2021-12-01, main language Python  
+5,951 stars, 667 forks, 122 watches  
+created 2020-01-23, last commit 2021-12-02, main language Python  
 <sub><sup>billion-parameters, data-parallelism, deep-learning, gpu, machine-learning, model-parallelism, pytorch</sup></sub>
 
 
@@ -309,7 +309,7 @@ Automated Machine Learning with scikit-learn
 [https://automl.github.io/auto-sklearn](https://automl.github.io/auto-sklearn)  
 [https://github.com/automl/auto-sklearn](https://github.com/automl/auto-sklearn)  
 17 stars per week over 335 weeks  
-5,880 stars, 1,093 forks, 216 watches  
+5,882 stars, 1,094 forks, 216 watches  
 created 2015-07-02, last commit 2021-11-09, main language Python  
 <sub><sup>automated-machine-learning, automl, bayesian-optimization, hyperparameter-optimization, hyperparameter-search, hyperparameter-tuning, meta-learning, metalearning, scikit-learn, smac</sup></sub>
 
@@ -329,7 +329,7 @@ PyTorch3D is FAIR's library of reusable components for deep learning with 3D dat
 [https://pytorch3d.org/](https://pytorch3d.org/)  
 [https://github.com/facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)  
 49 stars per week over 109 weeks  
-5,422 stars, 750 forks, 142 watches  
+5,427 stars, 750 forks, 142 watches  
 created 2019-10-25, last commit 2021-11-29, main language Python  
 
 
@@ -347,7 +347,7 @@ A Python scikit for building and analyzing recommender systems
 [http://surpriselib.com](http://surpriselib.com)  
 [https://github.com/NicolasHug/Surprise](https://github.com/NicolasHug/Surprise)  
 19 stars per week over 266 weeks  
-5,124 stars, 904 forks, 151 watches  
+5,125 stars, 904 forks, 151 watches  
 created 2016-10-23, last commit 2020-08-05, main language Python  
 <sub><sup>factorization, matrix, recommendation, recommender, svd, systems</sup></sub>
 
@@ -357,7 +357,7 @@ An open-source, low-code machine learning library in Python
 [https://www.pycaret.org](https://www.pycaret.org)  
 [https://github.com/pycaret/pycaret](https://github.com/pycaret/pycaret)  
 41 stars per week over 105 weeks  
-4,437 stars, 1,030 forks, 101 watches  
+4,439 stars, 1,031 forks, 101 watches  
 created 2019-11-23, last commit 2021-11-30, main language Jupyter Notebook  
 <sub><sup>anomaly-detection, citizen-data-scientists, classification, clustering, data-science, gpu, machine-learning, ml, nlp, pycaret, python, regression, time-series</sup></sub>
 
@@ -366,7 +366,7 @@ created 2019-11-23, last commit 2021-11-30, main language Jupyter Notebook
 A scikit-learn compatible neural network library that wraps PyTorch  
 [https://github.com/dnouri/skorch](https://github.com/dnouri/skorch)  
 18 stars per week over 228 weeks  
-4,231 stars, 298 forks, 83 watches  
+4,232 stars, 298 forks, 83 watches  
 created 2017-07-18, last commit 2021-11-28, main language Jupyter Notebook  
 <sub><sup>machine-learning, pytorch, scikit-learn</sup></sub>
 
@@ -384,7 +384,7 @@ created 2021-01-17, last commit 2021-10-19, main language Python
 GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.  
 [https://github.com/TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)  
 104 stars per week over 36 weeks  
-3,842 stars, 547 forks, 91 watches  
+3,865 stars, 552 forks, 91 watches  
 created 2021-03-19, last commit 2021-11-28, main language Python  
 <sub><sup>deep-learning, face-restoration, gan, gfpgan, image-restoration, pytorch, super-resolution</sup></sub>
 
@@ -394,7 +394,7 @@ AutoGluon: AutoML for Text, Image, and Tabular Data
 [https://auto.gluon.ai/](https://auto.gluon.ai/)  
 [https://github.com/awslabs/autogluon](https://github.com/awslabs/autogluon)  
 31 stars per week over 122 weeks  
-3,842 stars, 500 forks, 81 watches  
+3,843 stars, 500 forks, 81 watches  
 created 2019-07-29, last commit 2021-11-26, main language Python  
 <sub><sup>autogluon, automated-machine-learning, automl, computer-vision, data-science, deep-learning, ensemble-learning, gluon, hyperparameter-optimization, image-classification, machine-learning, mxnet, natural-language-processing, neural-architecture-search, object-detection, pytorch, scikit-learn, structured-data, tabular-data, transfer-learning</sup></sub>
 
@@ -404,7 +404,7 @@ A library of extension and helper modules for Python's data analysis and machine
 [http://rasbt.github.io/mlxtend/](http://rasbt.github.io/mlxtend/)  
 [https://github.com/rasbt/mlxtend](https://github.com/rasbt/mlxtend)  
 9.73 stars per week over 381 weeks  
-3,706 stars, 735 forks, 122 watches  
+3,706 stars, 734 forks, 122 watches  
 created 2014-08-14, last commit 2021-11-29, main language Python  
 <sub><sup>association-rules, data-mining, data-science, machine-learning, python, supervised-learning, unsupervised-learning</sup></sub>
 
@@ -414,7 +414,7 @@ created 2014-08-14, last commit 2021-11-29, main language Python
 [http://wandb.ai](http://wandb.ai)  
 [https://github.com/wandb/client](https://github.com/wandb/client)  
 14 stars per week over 244 weeks  
-3,531 stars, 280 forks, 33 watches  
+3,535 stars, 280 forks, 33 watches  
 created 2017-03-24, last commit 2021-11-29, main language Python  
 <sub><sup>deep-learning, experiment-track, hyperparameter-search, keras, machine-learning, pytorch, reinforcement-learning, tensorflow</sup></sub>
 
@@ -424,7 +424,7 @@ Visual analysis and diagnostic tools to facilitate machine learning model select
 [http://www.scikit-yb.org/](http://www.scikit-yb.org/)  
 [https://github.com/DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)  
 11 stars per week over 289 weeks  
-3,420 stars, 507 forks, 106 watches  
+3,422 stars, 507 forks, 106 watches  
 created 2016-05-18, last commit 2021-11-10, main language Python  
 <sub><sup>anaconda, estimator, machine-learning, matplotlib, model-selection, python, scikit-learn, visual-analysis, visualization, visualizer</sup></sub>
 
@@ -434,7 +434,7 @@ created 2016-05-18, last commit 2021-11-10, main language Python
 [https://riverml.xyz](https://riverml.xyz)  
 [https://github.com/online-ml/river](https://github.com/online-ml/river)  
 19 stars per week over 149 weeks  
-2,931 stars, 316 forks, 78 watches  
+2,932 stars, 316 forks, 78 watches  
 created 2019-01-24, last commit 2021-12-01, main language Python  
 <sub><sup>concept-drift, data-science, incremental-learning, machine-learning, online-learning, online-machine-learning, online-statistics, python, streaming, streaming-data</sup></sub>
 
@@ -472,8 +472,8 @@ created 2014-10-16, last commit 2021-11-08, main language Python
 Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  
 [https://pypi.org/project/opencv-python/](https://pypi.org/project/opencv-python/)  
 [https://github.com/skvark/opencv-python](https://github.com/skvark/opencv-python)  
-8.09 stars per week over 294 weeks  
-2,384 stars, 472 forks, 77 watches  
+8.08 stars per week over 294 weeks  
+2,383 stars, 472 forks, 77 watches  
 created 2016-04-08, last commit 2021-11-29, main language Shell  
 <sub><sup>manylinux, opencv, opencv-contrib-python, opencv-python, precompiled, pypi, python, python-3, wheel</sup></sub>
 
@@ -482,7 +482,7 @@ created 2016-04-08, last commit 2021-11-29, main language Shell
 Flax is a neural network library for JAX that is designed for flexibility.  
 [https://github.com/google/flax](https://github.com/google/flax)  
 23 stars per week over 98 weeks  
-2,338 stars, 272 forks, 71 watches  
+2,339 stars, 273 forks, 71 watches  
 created 2020-01-10, last commit 2021-12-01, main language Python  
 <sub><sup>jax</sup></sub>
 
@@ -501,7 +501,7 @@ created 2021-07-28, last commit 2021-11-10, main language Python
 [https://huggingface.co/docs/accelerate](https://huggingface.co/docs/accelerate)  
 [https://github.com/huggingface/accelerate](https://github.com/huggingface/accelerate)  
 35 stars per week over 56 weeks  
-2,001 stars, 111 forks, 36 watches  
+2,003 stars, 112 forks, 36 watches  
 created 2020-10-30, last commit 2021-11-12, main language Python  
 
 
@@ -510,7 +510,7 @@ Header-only C++/python library for fast approximate nearest neighbors
 [https://github.com/nmslib/hnswlib](https://github.com/nmslib/hnswlib)  
 [https://github.com/nmslib/hnswlib](https://github.com/nmslib/hnswlib)  
 7.76 stars per week over 230 weeks  
-1,784 stars, 337 forks, 58 watches  
+1,785 stars, 337 forks, 58 watches  
 created 2017-07-06, last commit 2021-06-30, main language C++  
 
 
@@ -519,18 +519,9 @@ A Python toolbox for gaining geometric insights into high-dimensional data
 [http://hypertools.readthedocs.io/en/latest/](http://hypertools.readthedocs.io/en/latest/)  
 [https://github.com/ContextLab/hypertools](https://github.com/ContextLab/hypertools)  
 6.19 stars per week over 270 weeks  
-1,672 stars, 157 forks, 58 watches  
+1,674 stars, 157 forks, 58 watches  
 created 2016-09-27, last commit 2021-07-19, main language Python  
 <sub><sup>data-visualization, data-wrangling, high-dimensional-data, python, text-vectorization, time-series, topic-modeling, visualization</sup></sub>
-
-
-### [FLAML](https://github.com/microsoft/FLAML) by [microsoft](https://github.com/microsoft)  
-A fast and lightweight AutoML library.  
-[https://github.com/microsoft/FLAML](https://github.com/microsoft/FLAML)  
-24 stars per week over 67 weeks  
-1,609 stars, 206 forks, 38 watches  
-created 2020-08-20, last commit 2021-11-28, main language Jupyter Notebook  
-<sub><sup>automated-machine-learning, automl, data-science, deep-learning, hyperparam, hyperparameter-optimization, jupyter-notebook, machine-learning, python, random-forest, scikit-learn</sup></sub>
 
 
 ### [neural_prophet](https://github.com/ourownstory/neural_prophet) by [ourownstory](https://github.com/ourownstory)  
@@ -538,9 +529,18 @@ NeuralProphet: A simple forecasting package
 [https://neuralprophet.com](https://neuralprophet.com)  
 [https://github.com/ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet)  
 19 stars per week over 82 weeks  
-1,584 stars, 196 forks, 42 watches  
+1,613 stars, 198 forks, 42 watches  
 created 2020-05-04, last commit 2021-12-01, main language Python  
 <sub><sup>artificial-intelligence, autoregression, deep-learning, fbprophet, forecast, forecasting, forecasting-algorithm, forecasting-model, machine-learning, neural, neural-network, neuralprophet, prediction, prophet, python, pytorch, seasonality, time-series, timeseries, trend</sup></sub>
+
+
+### [FLAML](https://github.com/microsoft/FLAML) by [microsoft](https://github.com/microsoft)  
+A fast and lightweight AutoML library.  
+[https://github.com/microsoft/FLAML](https://github.com/microsoft/FLAML)  
+24 stars per week over 67 weeks  
+1,610 stars, 206 forks, 37 watches  
+created 2020-08-20, last commit 2021-11-28, main language Jupyter Notebook  
+<sub><sup>automated-machine-learning, automl, data-science, deep-learning, hyperparam, hyperparameter-optimization, jupyter-notebook, machine-learning, python, random-forest, scikit-learn</sup></sub>
 
 
 ### [shapash](https://github.com/MAIF/shapash) by [MAIF](https://github.com/MAIF)  
@@ -593,8 +593,8 @@ created 2020-06-15, last commit 2021-11-30, main language Python
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 [https://github.com/firmai/atspy](https://github.com/firmai/atspy)  
-4.09 stars per week over 96 weeks  
-394 stars, 78 forks, 21 watches  
+4.1 stars per week over 96 weeks  
+395 stars, 78 forks, 21 watches  
 created 2020-01-28, last commit 2021-08-30, main language Python  
 <sub><sup>automated, finance, forecasting, forecasting-models, python, time-series, time-series-analysis</sup></sub>
 
@@ -611,16 +611,16 @@ created 2021-07-10, last commit 2021-10-04, main language Python
 Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU  
 [https://github.com/salesforce/warp-drive](https://github.com/salesforce/warp-drive)  
 16 stars per week over 14 weeks  
-229 stars, 38 forks, 13 watches  
-created 2021-08-25, last commit 2021-10-29, main language Python  
+229 stars, 38 forks, 12 watches  
+created 2021-08-25, last commit 2021-12-02, main language Python  
 <sub><sup>cuda, deep-learning, gpu, high-throughput, multiagent-reinforcement-learning, reinforcement-learning</sup></sub>
 
 
 ### [pecos](https://github.com/amzn/pecos) by [amzn](https://github.com/amzn)  
 PECOS - Prediction for Enormous and Correlated Spaces  
 [https://github.com/amzn/pecos](https://github.com/amzn/pecos)  
-3.17 stars per week over 68 weeks  
-216 stars, 48 forks, 14 watches  
+3.18 stars per week over 68 weeks  
+217 stars, 48 forks, 14 watches  
 created 2020-08-12, last commit 2021-11-24, main language Python  
 <sub><sup>extreme-multi-label-classification, extreme-multi-label-ranking, machine-learning-algorithms, transformers</sup></sub>
 

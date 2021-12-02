@@ -10,7 +10,7 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 [https://github.com/apache/airflow](https://github.com/apache/airflow)  
 69 stars per week over 346 weeks  
-23,924 stars, 9,664 forks, 729 watches  
+23,929 stars, 9,668 forks, 730 watches  
 created 2015-04-13, last commit 2021-12-01, main language Python  
 <sub><sup>airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow</sup></sub>
 
@@ -29,8 +29,8 @@ Open source platform for the machine learning lifecycle
 [https://mlflow.org](https://mlflow.org)  
 [https://github.com/mlflow/mlflow](https://github.com/mlflow/mlflow)  
 59 stars per week over 182 weeks  
-10,797 stars, 2,398 forks, 274 watches  
-created 2018-06-05, last commit 2021-12-01, main language Python  
+10,801 stars, 2,397 forks, 274 watches  
+created 2018-06-05, last commit 2021-12-02, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
 
@@ -39,7 +39,7 @@ The easiest way to automate your data
 [https://prefect.io](https://prefect.io)  
 [https://github.com/PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)  
 43 stars per week over 178 weeks  
-7,841 stars, 743 forks, 142 watches  
+7,844 stars, 743 forks, 142 watches  
 created 2018-06-29, last commit 2021-12-01, main language Python  
 <sub><sup>automation, data-engineering, data-ops, data-science, infrastructure, ml-ops, orchestration, orion, prefect, python, workflow, workflow-engine</sup></sub>
 
@@ -49,8 +49,8 @@ A Python framework for creating reproducible, maintainable and modular data scie
 [https://kedro.readthedocs.io/](https://kedro.readthedocs.io/)  
 [https://github.com/quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro)  
 34 stars per week over 137 weeks  
-4,712 stars, 533 forks, 93 watches  
-created 2019-04-18, last commit 2021-12-01, main language Python  
+4,713 stars, 533 forks, 93 watches  
+created 2019-04-18, last commit 2021-11-23, main language Python  
 <sub><sup>cookiecutter-data-science, data-abstraction, data-versioning, hacktoberfest, kedro, mlops, pipeline, pipelines-as-code</sup></sub>
 
 
@@ -59,8 +59,8 @@ An orchestration platform for the development, production, and observation of da
 [https://dagster.io](https://dagster.io)  
 [https://github.com/dagster-io/dagster](https://github.com/dagster-io/dagster)  
 21 stars per week over 187 weeks  
-4,040 stars, 486 forks, 75 watches  
-created 2018-04-30, last commit 2021-12-01, main language Python  
+4,041 stars, 486 forks, 75 watches  
+created 2018-04-30, last commit 2021-12-02, main language Python  
 <sub><sup>analytics, dagster, data-orchestrator, data-pipelines, data-science, etl, python, scheduler, workflow, workflow-automation</sup></sub>
 
 

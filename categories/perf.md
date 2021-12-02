@@ -10,7 +10,7 @@ Distributed Task Queue (development branch)
 [https://docs.celeryproject.org/en/stable/index.html](https://docs.celeryproject.org/en/stable/index.html)  
 [https://github.com/celery/celery](https://github.com/celery/celery)  
 27 stars per week over 657 weeks  
-18,284 stars, 4,147 forks, 479 watches  
+18,287 stars, 4,148 forks, 479 watches  
 created 2009-04-24, last commit 2021-11-30, main language Python  
 <sub><sup>amqp, python, python-library, python3, queue-tasks, queue-workers, queued-jobs, redis, sqs, sqs-queue, task-manager, task-runner, task-scheduler</sup></sub>
 
@@ -20,7 +20,7 @@ Parallel computing with task scheduling
 [https://dask.org](https://dask.org)  
 [https://github.com/dask/dask](https://github.com/dask/dask)  
 25 stars per week over 360 weeks  
-9,237 stars, 1,399 forks, 232 watches  
+9,238 stars, 1,399 forks, 232 watches  
 created 2015-01-04, last commit 2021-11-30, main language Python  
 <sub><sup>dask, hacktoberfest, numpy, pandas, pydata, python, scikit-learn, scipy</sup></sub>
 
@@ -30,7 +30,7 @@ NumPy aware dynamic Python compiler using LLVM
 [http://numba.pydata.org/](http://numba.pydata.org/)  
 [https://github.com/numba/numba](https://github.com/numba/numba)  
 13 stars per week over 508 weeks  
-7,045 stars, 862 forks, 206 watches  
+7,046 stars, 863 forks, 206 watches  
 created 2012-03-08, last commit 2021-11-30, main language Python  
 <sub><sup>compiler, cuda, llvm, numpy, parallel, python, rocm</sup></sub>
 
@@ -40,7 +40,7 @@ Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and ex
 [https://vaex.io](https://vaex.io)  
 [https://github.com/vaexio/vaex](https://github.com/vaexio/vaex)  
 18 stars per week over 374 weeks  
-6,760 stars, 530 forks, 142 watches  
+6,761 stars, 530 forks, 142 watches  
 created 2014-09-27, last commit 2021-11-30, main language Python  
 <sub><sup>bigdata, dataframe, hdf5, machine-learning, machinelearning, memory-mapped-file, python, tabular-data, visualization</sup></sub>
 
@@ -67,8 +67,8 @@ created 2012-09-21, last commit 2021-11-24, main language Python
 ### [heartrate](https://github.com/alexmojaki/heartrate) by [alexmojaki](https://github.com/alexmojaki)  
 Simple real time visualisation of the execution of a Python program.  
 [https://github.com/alexmojaki/heartrate](https://github.com/alexmojaki/heartrate)  
-9.69 stars per week over 136 weeks  
-1,319 stars, 115 forks, 31 watches  
+9.7 stars per week over 136 weeks  
+1,320 stars, 115 forks, 31 watches  
 created 2019-04-24, last commit 2021-11-13, main language Python  
 <sub><sup>debugger, python, visualization</sup></sub>
 

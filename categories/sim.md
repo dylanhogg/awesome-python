@@ -10,7 +10,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 [https://gym.openai.com/](https://gym.openai.com/)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 88 stars per week over 292 weeks  
-25,815 stars, 7,404 forks, 988 watches  
+25,819 stars, 7,406 forks, 988 watches  
 created 2016-04-27, last commit 2021-11-22, main language Python  
 
 
@@ -19,7 +19,7 @@ Python sample codes for robotics algorithms.
 [https://pythonrobotics.readthedocs.io/en/latest/](https://pythonrobotics.readthedocs.io/en/latest/)  
 [https://github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 46 stars per week over 297 weeks  
-13,787 stars, 4,533 forks, 498 watches  
+13,792 stars, 4,538 forks, 498 watches  
 created 2016-03-21, last commit 2021-12-01, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -29,7 +29,7 @@ Bullet Physics SDK: real-time collision detection and multi-physics simulation f
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
 15 stars per week over 555 weeks  
-8,638 stars, 2,346 forks, 412 watches  
+8,642 stars, 2,347 forks, 412 watches  
 created 2011-04-12, last commit 2021-12-01, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -46,7 +46,7 @@ created 2016-04-24, last commit 2021-11-19, main language Cython
 Mesa is an agent-based modeling framework in Python  
 [https://github.com/projectmesa/mesa](https://github.com/projectmesa/mesa)  
 3.99 stars per week over 375 weeks  
-1,498 stars, 632 forks, 93 watches  
+1,499 stars, 631 forks, 93 watches  
 created 2014-09-19, last commit 2021-12-01, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
 
@@ -55,8 +55,8 @@ created 2014-09-19, last commit 2021-12-01, main language Python
 A community based Python library for quantitative economics  
 [https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
 [https://github.com/QuantEcon/QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)  
-3.07 stars per week over 453 weeks  
-1,392 stars, 1,923 forks, 157 watches  
+3.06 stars per week over 453 weeks  
+1,391 stars, 1,923 forks, 157 watches  
 created 2013-03-22, last commit 2021-11-16, main language Python  
 
 
@@ -81,9 +81,9 @@ created 2020-01-20, last commit 2021-12-01, main language Python
 Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 [https://github.com/salesforce/ai-economist](https://github.com/salesforce/ai-economist)  
-9.77 stars per week over 74 weeks  
-723 stars, 137 forks, 40 watches  
-created 2020-07-02, last commit 2021-11-03, main language Python  
+9.78 stars per week over 74 weeks  
+724 stars, 137 forks, 40 watches  
+created 2020-07-02, last commit 2021-12-02, main language Python  
 <sub><sup>ai, deep-reinforcement-learning, economics, ml, multi-agent, multi-agent-reinforcement-learning, python-3, reinforcement-learning-environments, simulation-framework</sup></sub>
 
 
@@ -92,7 +92,7 @@ A modular embodied agent architecture and platform for building embodied agents
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
 12 stars per week over 56 weeks  
 697 stars, 57 forks, 32 watches  
-created 2020-11-02, last commit 2021-12-01, main language Jupyter Notebook  
+created 2020-11-02, last commit 2021-12-02, main language Jupyter Notebook  
 
 
 ### [GameGAN_code](https://github.com/nv-tlabs/GameGAN_code) by [nv-tlabs](https://github.com/nv-tlabs)  

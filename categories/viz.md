@@ -10,7 +10,7 @@ Streamlit — The fastest way to build data apps in Python
 [https://streamlit.io](https://streamlit.io)  
 [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)  
 140 stars per week over 118 weeks  
-16,711 stars, 1,494 forks, 257 watches  
+16,718 stars, 1,495 forks, 257 watches  
 created 2019-08-24, last commit 2021-11-30, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -20,7 +20,7 @@ Interactive Data Visualization in the browser, from  Python
 [https://bokeh.org](https://bokeh.org)  
 [https://github.com/bokeh/bokeh](https://github.com/bokeh/bokeh)  
 31 stars per week over 505 weeks  
-15,751 stars, 3,834 forks, 462 watches  
+15,752 stars, 3,834 forks, 462 watches  
 created 2012-03-26, last commit 2021-11-30, main language Python  
 <sub><sup>bokeh, data-visualisation, interactive-plots, javascript, jupyter, notebooks, numfocus, plots, plotting, python, visualisation, visualization</sup></sub>
 
@@ -40,7 +40,7 @@ matplotlib: plotting with Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 [https://github.com/matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)  
 26 stars per week over 562 weeks  
-14,631 stars, 6,162 forks, 577 watches  
+14,634 stars, 6,161 forks, 576 watches  
 created 2011-02-19, last commit 2021-12-01, main language Python  
 <sub><sup>data-science, data-visualization, gtk, hacktoberfest, matplotlib, plotting, python, qt, tk, wx</sup></sub>
 
@@ -50,7 +50,7 @@ The interactive graphing library for Python (includes Plotly Express) :sparkles:
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
 25 stars per week over 419 weeks  
-10,618 stars, 2,062 forks, 269 watches  
+10,620 stars, 2,062 forks, 269 watches  
 created 2013-11-21, last commit 2021-11-23, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -79,7 +79,7 @@ Python Data. Leaflet.js Maps.
 [https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)  
 [https://github.com/python-visualization/folium](https://github.com/python-visualization/folium)  
 12 stars per week over 447 weeks  
-5,516 stars, 2,033 forks, 172 watches  
+5,517 stars, 2,032 forks, 172 watches  
 created 2013-05-09, last commit 2021-11-30, main language Python  
 
 
@@ -88,14 +88,14 @@ Voilà turns Jupyter notebooks into standalone web applications
 [https://github.com/voila-dashboards/voila](https://github.com/voila-dashboards/voila)  
 21 stars per week over 171 weeks  
 3,705 stars, 365 forks, 76 watches  
-created 2018-08-21, last commit 2021-11-17, main language Python  
+created 2018-08-21, last commit 2021-12-02, main language Python  
 
 
 ### [lux](https://github.com/lux-org/lux) by [lux-org](https://github.com/lux-org)  
 Automatically visualize your pandas dataframe via a single print! 📊 💡  
 [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
 31 stars per week over 99 weeks  
-3,138 stars, 263 forks, 71 watches  
+3,140 stars, 263 forks, 71 watches  
 created 2020-01-08, last commit 2021-11-13, main language Python  
 <sub><sup>data-science, exploratory-data-analysis, jupyter, pandas, python, visualization, visualization-tools</sup></sub>
 
@@ -105,7 +105,7 @@ Visualizer for pandas data structures
 [http://alphatechadmin.pythonanywhere.com](http://alphatechadmin.pythonanywhere.com)  
 [https://github.com/man-group/dtale](https://github.com/man-group/dtale)  
 22 stars per week over 124 weeks  
-2,807 stars, 222 forks, 58 watches  
+2,809 stars, 222 forks, 59 watches  
 created 2019-07-15, last commit 2021-11-24, main language JavaScript  
 <sub><sup>data-analysis, data-science, data-visualization, flask, ipython, jupyter-notebook, pandas, plotly-dash, python27, python3, react, react-virtualized, visualization, xarray</sup></sub>
 
@@ -124,7 +124,7 @@ created 2013-03-21, last commit 2021-11-29, main language Python
 A GUI for Pandas DataFrames  
 [https://github.com/adamerose/pandasgui](https://github.com/adamerose/pandasgui)  
 19 stars per week over 129 weeks  
-2,472 stars, 155 forks, 49 watches  
+2,475 stars, 155 forks, 49 watches  
 created 2019-06-12, last commit 2021-09-25, main language Python  
 <sub><sup>dataframe, gui, pandas, viewer</sup></sub>
 
@@ -134,7 +134,7 @@ created 2019-06-12, last commit 2021-09-25, main language Python
 [https://opyrator-playground.mltooling.org](https://opyrator-playground.mltooling.org)  
 [https://github.com/ml-tooling/opyrator](https://github.com/ml-tooling/opyrator)  
 72 stars per week over 34 weeks  
-2,470 stars, 108 forks, 43 watches  
+2,470 stars, 108 forks, 44 watches  
 created 2021-04-06, last commit 2021-05-06, main language Python  
 <sub><sup>deployment, faas, fastapi, functions, machine-learning, microservices, pydantic, python, python-functions, serverless, streamlit, type-hints</sup></sub>
 

@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
 [https://github.com/ccxt/ccxt](https://github.com/ccxt/ccxt)  
 93 stars per week over 237 weeks  
-22,256 stars, 5,467 forks, 955 watches  
-created 2017-05-14, last commit 2021-12-01, main language JavaScript  
+22,261 stars, 5,468 forks, 954 watches  
+created 2017-05-14, last commit 2021-12-02, main language JavaScript  
 <sub><sup>altcoin, api, arbitrage, bitcoin, bot, btc, crypto, cryptocurrency, e-commerce, eth, ethereum, exchange, invest, library, market-data, merchant, strategy, trade, trading</sup></sub>
 
 
@@ -19,8 +19,8 @@ Free, open source crypto trading bot
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 58 stars per week over 237 weeks  
-13,808 stars, 3,024 forks, 524 watches  
-created 2017-05-17, last commit 2021-12-01, main language Python  
+13,814 stars, 3,028 forks, 524 watches  
+created 2017-05-17, last commit 2021-12-02, main language Python  
 <sub><sup>algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency, freqtrade, python, telegram-bot, trade, trading-bot</sup></sub>
 
 
@@ -36,8 +36,8 @@ created 2021-05-08, last commit 2021-06-10, main language Python
 A python interface for interacting with the Ethereum blockchain and ecosystem.  
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
-8.89 stars per week over 294 weeks  
-2,613 stars, 875 forks, 91 watches  
+8.9 stars per week over 294 weeks  
+2,617 stars, 876 forks, 91 watches  
 created 2016-04-14, last commit 2021-12-01, main language Python  
 
 
@@ -45,7 +45,7 @@ created 2016-04-14, last commit 2021-12-01, main language Python
 Ethereum Proof-of-Stake Consensus Specifications  
 [https://github.com/ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)  
 13 stars per week over 167 weeks  
-2,187 stars, 539 forks, 220 watches  
+2,188 stars, 539 forks, 220 watches  
 created 2018-09-20, last commit 2021-12-01, main language Python  
 
 
@@ -55,7 +55,7 @@ Static Analyzer for Solidity
 [https://github.com/crytic/slither](https://github.com/crytic/slither)  
 8.47 stars per week over 169 weeks  
 1,433 stars, 290 forks, 50 watches  
-created 2018-09-05, last commit 2021-11-29, main language Python  
+created 2018-09-05, last commit 2021-12-02, main language Python  
 <sub><sup>ethereum, solidity, static-analysis</sup></sub>
 
 
@@ -63,8 +63,8 @@ created 2018-09-05, last commit 2021-11-29, main language Python
 A Python implementation of the Ethereum Virtual Machine  
 [https://py-evm.readthedocs.io/en/latest/](https://py-evm.readthedocs.io/en/latest/)  
 [https://github.com/ethereum/py-evm](https://github.com/ethereum/py-evm)  
-5.45 stars per week over 257 weeks  
-1,403 stars, 492 forks, 91 watches  
+5.46 stars per week over 257 weeks  
+1,405 stars, 492 forks, 91 watches  
 created 2016-12-27, last commit 2021-10-13, main language Python  
 <sub><sup>ethereum, ethereum-virtual-machine, evm, python</sup></sub>
 
@@ -111,7 +111,7 @@ Utility functions for working with ethereum related codebases.
 [https://eth-utils.readthedocs.io/en/latest/](https://eth-utils.readthedocs.io/en/latest/)  
 [https://github.com/ethereum/eth-utils](https://github.com/ethereum/eth-utils)  
 0.84 stars per week over 251 weeks  
-212 stars, 112 forks, 18 watches  
+211 stars, 112 forks, 18 watches  
 created 2017-02-07, last commit 2021-11-18, main language Python  
 <sub><sup>ethereum, python, utility-library</sup></sub>
 
@@ -120,16 +120,16 @@ created 2017-02-07, last commit 2021-11-18, main language Python
 Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/EthTx/ethtx](https://github.com/EthTx/ethtx)  
-7.89 stars per week over 22 weeks  
-177 stars, 20 forks, 9 watches  
+7.94 stars per week over 22 weeks  
+178 stars, 20 forks, 9 watches  
 created 2021-06-28, last commit 2021-11-08, main language Python  
 
 
 ### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
 Ethereum decompiler  
 [https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
-1.69 stars per week over 93 weeks  
-158 stars, 40 forks, 12 watches  
+1.71 stars per week over 93 weeks  
+160 stars, 40 forks, 12 watches  
 created 2020-02-17, last commit 2020-08-22, main language Python  
 
 

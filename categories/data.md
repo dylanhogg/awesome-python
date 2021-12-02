@@ -10,7 +10,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 [https://scrapy.org](https://scrapy.org)  
 [https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)  
 68 stars per week over 614 weeks  
-42,249 stars, 9,418 forks, 1,815 watches  
+42,251 stars, 9,419 forks, 1,814 watches  
 created 2010-02-22, last commit 2021-11-16, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -20,8 +20,8 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 54 stars per week over 588 weeks  
-31,850 stars, 13,543 forks, 1,111 watches  
-created 2010-08-24, last commit 2021-12-01, main language Python  
+31,853 stars, 13,544 forks, 1,111 watches  
+created 2010-08-24, last commit 2021-12-02, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
 
@@ -40,7 +40,7 @@ Faker is a Python package that generates fake data for you.
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 [https://github.com/joke2k/faker](https://github.com/joke2k/faker)  
 28 stars per week over 472 weeks  
-13,330 stars, 1,534 forks, 222 watches  
+13,331 stars, 1,534 forks, 222 watches  
 created 2012-11-12, last commit 2021-11-29, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -49,8 +49,8 @@ created 2012-11-12, last commit 2021-11-29, main language Python
 Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)  
-146 stars per week over 89 weeks  
-13,187 stars, 1,702 forks, 266 watches  
+147 stars per week over 89 weeks  
+13,193 stars, 1,706 forks, 266 watches  
 created 2020-03-14, last commit 2021-10-15, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -59,7 +59,7 @@ created 2020-03-14, last commit 2021-10-15, main language Python
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 51 stars per week over 233 weeks  
-11,989 stars, 1,825 forks, 290 watches  
+11,993 stars, 1,827 forks, 290 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -69,8 +69,8 @@ created 2017-06-10, last commit 2021-03-02, main language Python
 [https://dvc.org](https://dvc.org)  
 [https://github.com/iterative/dvc](https://github.com/iterative/dvc)  
 36 stars per week over 247 weeks  
-8,929 stars, 865 forks, 123 watches  
-created 2017-03-04, last commit 2021-11-29, main language Python  
+8,932 stars, 866 forks, 123 watches  
+created 2017-03-04, last commit 2021-12-02, main language Python  
 <sub><sup>ai, collaboration, data-science, data-version-control, developer-tools, git, hacktoberfest, machine-learning, python, reproducibility</sup></sub>
 
 
@@ -79,8 +79,8 @@ Apache Arrow is a multi-language toolbox for accelerated data interchange and in
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
 28 stars per week over 302 weeks  
-8,748 stars, 2,119 forks, 333 watches  
-created 2016-02-17, last commit 2021-12-01, main language C++  
+8,751 stars, 2,119 forks, 333 watches  
+created 2016-02-17, last commit 2021-12-02, main language C++  
 <sub><sup>arrow</sup></sub>
 
 
@@ -88,7 +88,7 @@ created 2016-02-17, last commit 2021-12-01, main language C++
 Incredibly fast crawler designed for OSINT.  
 [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)  
 43 stars per week over 191 weeks  
-8,309 stars, 1,218 forks, 315 watches  
+8,310 stars, 1,218 forks, 315 watches  
 created 2018-03-30, last commit 2019-12-06, main language Python  
 <sub><sup>crawler, information-gathering, osint, python, spider</sup></sub>
 
@@ -108,7 +108,7 @@ SQL databases in Python, designed for simplicity, compatibility, and robustness.
 [https://sqlmodel.tiangolo.com/](https://sqlmodel.tiangolo.com/)  
 [https://github.com/tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)  
 407 stars per week over 14 weeks  
-5,820 stars, 222 forks, 101 watches  
+5,821 stars, 222 forks, 101 watches  
 created 2021-08-24, last commit 2021-11-30, main language Python  
 <sub><sup>fastapi, json, json-schema, pydantic, python, sql, sqlalchemy</sup></sub>
 
@@ -117,8 +117,8 @@ created 2021-08-24, last commit 2021-11-30, main language Python
 Always know what to expect from your data.  
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 [https://github.com/great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)  
-25 stars per week over 220 weeks  
-5,731 stars, 766 forks, 66 watches  
+26 stars per week over 220 weeks  
+5,732 stars, 766 forks, 66 watches  
 created 2017-09-11, last commit 2021-12-01, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
 
@@ -165,7 +165,7 @@ created 2018-11-27, last commit 2021-12-01, main language Python
 Official Kaggle API  
 [https://github.com/Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)  
 22 stars per week over 201 weeks  
-4,430 stars, 872 forks, 181 watches  
+4,431 stars, 873 forks, 181 watches  
 created 2018-01-25, last commit 2021-03-15, main language Python  
 
 
@@ -183,7 +183,7 @@ Mimesis is a high-performance fake data generator for Python, which provides dat
 [https://mimesis.name](https://mimesis.name)  
 [https://github.com/lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis)  
 12 stars per week over 272 weeks  
-3,424 stars, 280 forks, 67 watches  
+3,425 stars, 280 forks, 67 watches  
 created 2016-09-09, last commit 2021-11-30, main language Python  
 <sub><sup>api-mock, data, datascience, dummy, fake, faker, fixtures, generator, json, json-generator, mimesis, mock, python, schema, synthetic-data, testing</sup></sub>
 
@@ -193,7 +193,7 @@ Python tools for geographic data
 [http://geopandas.readthedocs.io/](http://geopandas.readthedocs.io/)  
 [https://github.com/geopandas/geopandas](https://github.com/geopandas/geopandas)  
 6.57 stars per week over 440 weeks  
-2,891 stars, 649 forks, 109 watches  
+2,892 stars, 649 forks, 109 watches  
 created 2013-06-27, last commit 2021-11-27, main language Python  
 
 
@@ -210,7 +210,7 @@ A Python module for creating Excel XLSX files.
 [https://xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io)  
 [https://github.com/jmcnamara/XlsxWriter](https://github.com/jmcnamara/XlsxWriter)  
 5.91 stars per week over 464 weeks  
-2,748 stars, 557 forks, 120 watches  
+2,748 stars, 557 forks, 119 watches  
 created 2013-01-04, last commit 2021-11-26, main language Python  
 <sub><sup>charts, libxlsxwriter, pandas, python, spreadsheet, xlsx, xlsx-files, xlsxwriter</sup></sub>
 
@@ -229,7 +229,7 @@ created 2010-08-19, last commit 2021-11-23, main language Python
 A non-validating SQL parser module for Python  
 [https://github.com/andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse)  
 5.28 stars per week over 502 weeks  
-2,650 stars, 532 forks, 92 watches  
+2,651 stars, 532 forks, 92 watches  
 created 2012-04-18, last commit 2021-09-10, main language Python  
 
 
@@ -238,8 +238,8 @@ Manipulation and analysis of geometric objects
 [https://shapely.readthedocs.io/en/latest/](https://shapely.readthedocs.io/en/latest/)  
 [https://github.com/Toblerity/Shapely](https://github.com/Toblerity/Shapely)  
 4.87 stars per week over 517 weeks  
-2,520 stars, 443 forks, 84 watches  
-created 2011-12-31, last commit 2021-12-01, main language Python  
+2,521 stars, 443 forks, 84 watches  
+created 2011-12-31, last commit 2021-12-02, main language Python  
 
 
 ### [Wikipedia](https://github.com/goldsmith/Wikipedia) by [goldsmith](https://github.com/goldsmith)  
@@ -314,7 +314,7 @@ python async orm with fastapi in mind and pydantic validation
 [https://collerek.github.io/ormar/](https://collerek.github.io/ormar/)  
 [https://github.com/collerek/ormar](https://github.com/collerek/ormar)  
 10 stars per week over 69 weeks  
-725 stars, 32 forks, 12 watches  
+727 stars, 32 forks, 12 watches  
 created 2020-08-02, last commit 2021-11-24, main language Python  
 <sub><sup>alembic, async-orm, databases, fastapi, orm, pydantic, python-orm, sqlalchemy</sup></sub>
 
@@ -386,8 +386,8 @@ created 2020-06-15, last commit 2021-08-18, main language Jupyter Notebook
 ### [address-net](https://github.com/jasonrig/address-net) by [jasonrig](https://github.com/jasonrig)  
 A package to structure Australian addresses  
 [https://github.com/jasonrig/address-net](https://github.com/jasonrig/address-net)  
-0.88 stars per week over 156 weeks  
-138 stars, 59 forks, 9 watches  
+0.89 stars per week over 156 weeks  
+139 stars, 59 forks, 9 watches  
 created 2018-12-05, last commit 2020-09-09, main language Python  
 <sub><sup>address-parser, deep-learning, machine-learning, rnn</sup></sub>
 
