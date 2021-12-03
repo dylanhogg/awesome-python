@@ -10,7 +10,7 @@ The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 32 stars per week over 585 weeks  
-18,951 stars, 6,210 forks, 561 watches  
+18,955 stars, 6,209 forks, 561 watches  
 created 2010-09-13, last commit 2021-12-02, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
@@ -19,8 +19,8 @@ created 2010-09-13, last commit 2021-12-02, main language Python
 A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-14 stars per week over 604 weeks  
-8,646 stars, 3,522 forks, 292 watches  
+14 stars per week over 605 weeks  
+8,650 stars, 3,521 forks, 291 watches  
 created 2010-04-30, last commit 2021-12-02, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
@@ -48,7 +48,7 @@ created 2013-09-29, last commit 2021-05-06, main language Python
 ### [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) by [WillianFuks](https://github.com/WillianFuks)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact)  
-3.34 stars per week over 67 weeks  
+3.33 stars per week over 67 weeks  
 225 stars, 31 forks, 8 watches  
 created 2020-08-17, last commit 2021-10-08, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
@@ -62,7 +62,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-11-05, main language Python  
 
 
-This file was automatically generated on 2021-12-02.  
+This file was automatically generated on 2021-12-03.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

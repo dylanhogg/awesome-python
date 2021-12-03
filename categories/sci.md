@@ -15,7 +15,7 @@ created 2013-02-11, last commit 2021-11-29, main language Python
 <sub><sup>digital-library, elasticsearch, flask, invenio, inveniosoftware, library-management, open-access, open-science, postgresql, python, research-data-management, research-data-repository, scientific-publications, zenodo</sup></sub>
 
 
-This file was automatically generated on 2021-12-02.  
+This file was automatically generated on 2021-12-03.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

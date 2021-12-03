@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 2 gamedev Python libraries and frameworks ordered by stars.  
+A selection of 4 gamedev Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
@@ -10,7 +10,7 @@ pygame (the library) is a Free and Open Source python programming language libra
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 16 stars per week over 244 weeks  
-4,116 stars, 1,813 forks, 151 watches  
+4,118 stars, 1,812 forks, 152 watches  
 created 2017-03-26, last commit 2021-12-01, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
@@ -25,7 +25,27 @@ created 2013-09-30, last commit 2021-12-01, main language C++
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 
 
-This file was automatically generated on 2021-12-02.  
+### [arcade](https://github.com/pythonarcade/arcade) by [pythonarcade](https://github.com/pythonarcade)  
+Easy to use Python library for creating 2D arcade games.  
+[http://arcade.academy](http://arcade.academy)  
+[https://github.com/pythonarcade/arcade](https://github.com/pythonarcade/arcade)  
+3.48 stars per week over 308 weeks  
+1,073 stars, 197 forks, 56 watches  
+created 2016-01-04, last commit 2021-12-02, main language Python  
+<sub><sup>arcade-api, arcade-framework, arcade-learning-environment, educational-resources, educational-technology, opengl, python, python3</sup></sub>
+
+
+### [pyglet](https://github.com/pyglet/pyglet)  
+pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.  
+[http://pyglet.org](http://pyglet.org)  
+[https://github.com/pyglet/pyglet](https://github.com/pyglet/pyglet)  
+7.59 stars per week over 129 weeks  
+984 stars, 196 forks, 31 watches  
+created 2019-06-09, last commit 2021-12-02, main language Python  
+<sub><sup>gamedev, hacktoberfest, hacktoberfest-2021, hacktoberfest2021, opengl, pyglet, python, scientific-visualization</sup></sub>
+
+
+This file was automatically generated on 2021-12-03.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
