@@ -10,7 +10,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 [https://gym.openai.com/](https://gym.openai.com/)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 88 stars per week over 292 weeks  
-25,829 stars, 7,407 forks, 989 watches  
+25,857 stars, 7,419 forks, 990 watches  
 created 2016-04-27, last commit 2021-11-22, main language Python  
 
 
@@ -18,9 +18,9 @@ created 2016-04-27, last commit 2021-11-22, main language Python
 Python sample codes for robotics algorithms.  
 [https://pythonrobotics.readthedocs.io/en/latest/](https://pythonrobotics.readthedocs.io/en/latest/)  
 [https://github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
-46 stars per week over 297 weeks  
-13,795 stars, 4,539 forks, 498 watches  
-created 2016-03-21, last commit 2021-12-01, main language Python  
+46 stars per week over 298 weeks  
+13,829 stars, 4,552 forks, 497 watches  
+created 2016-03-21, last commit 2021-12-06, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
 
@@ -28,8 +28,8 @@ created 2016-03-21, last commit 2021-12-01, main language Python
 Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.  
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
-15 stars per week over 555 weeks  
-8,642 stars, 2,347 forks, 412 watches  
+15 stars per week over 556 weeks  
+8,657 stars, 2,355 forks, 410 watches  
 created 2011-04-12, last commit 2021-12-01, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -37,8 +37,8 @@ created 2011-04-12, last commit 2021-12-01, main language C++
 ### [mujoco-py](https://github.com/openai/mujoco-py) by [openai](https://github.com/openai)  
 MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
 [https://github.com/openai/mujoco-py](https://github.com/openai/mujoco-py)  
-6.36 stars per week over 292 weeks  
-1,861 stars, 594 forks, 136 watches  
+6.36 stars per week over 293 weeks  
+1,865 stars, 594 forks, 137 watches  
 created 2016-04-24, last commit 2021-11-19, main language Cython  
 
 
@@ -46,8 +46,8 @@ created 2016-04-24, last commit 2021-11-19, main language Cython
 Mesa is an agent-based modeling framework in Python  
 [https://github.com/projectmesa/mesa](https://github.com/projectmesa/mesa)  
 3.99 stars per week over 376 weeks  
-1,500 stars, 633 forks, 94 watches  
-created 2014-09-19, last commit 2021-12-01, main language Python  
+1,504 stars, 636 forks, 94 watches  
+created 2014-09-19, last commit 2021-12-06, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
 
 
@@ -56,15 +56,15 @@ A community based Python library for quantitative economics
 [https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
 [https://github.com/QuantEcon/QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)  
 3.06 stars per week over 454 weeks  
-1,391 stars, 1,924 forks, 157 watches  
+1,392 stars, 1,924 forks, 157 watches  
 created 2013-03-22, last commit 2021-11-16, main language Python  
 
 
 ### [brax](https://github.com/google/brax) by [google](https://github.com/google)  
 Massively parallel rigidbody physics simulation on accelerator hardware.  
 [https://github.com/google/brax](https://github.com/google/brax)  
-40 stars per week over 26 weeks  
-1,071 stars, 86 forks, 24 watches  
+39 stars per week over 26 weeks  
+1,074 stars, 87 forks, 24 watches  
 created 2021-06-02, last commit 2021-11-29, main language Jupyter Notebook  
 <sub><sup>jax, physics-simulation, reinforcement-learning, robotics</sup></sub>
 
@@ -72,42 +72,42 @@ created 2021-06-02, last commit 2021-11-29, main language Jupyter Notebook
 ### [PettingZoo](https://github.com/PettingZoo-Team/PettingZoo) by [PettingZoo-Team](https://github.com/PettingZoo-Team)  
 Gym for multi-agent reinforcement learning  
 [https://github.com/PettingZoo-Team/PettingZoo](https://github.com/PettingZoo-Team/PettingZoo)  
-9.49 stars per week over 97 weeks  
-926 stars, 125 forks, 13 watches  
-created 2020-01-20, last commit 2021-12-01, main language Python  
+9.49 stars per week over 98 weeks  
+931 stars, 126 forks, 13 watches  
+created 2020-01-20, last commit 2021-12-05, main language Python  
 
 
 ### [ai-economist](https://github.com/salesforce/ai-economist) by [salesforce](https://github.com/salesforce)  
 Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 [https://github.com/salesforce/ai-economist](https://github.com/salesforce/ai-economist)  
-9.76 stars per week over 74 weeks  
-724 stars, 137 forks, 40 watches  
-created 2020-07-02, last commit 2021-12-02, main language Python  
+9.73 stars per week over 74 weeks  
+727 stars, 137 forks, 40 watches  
+created 2020-07-02, last commit 2021-12-06, main language Python  
 <sub><sup>ai, deep-reinforcement-learning, economics, ml, multi-agent, multi-agent-reinforcement-learning, python-3, reinforcement-learning-environments, simulation-framework</sup></sub>
 
 
 ### [fairo](https://github.com/facebookresearch/droidlet) by [facebookresearch](https://github.com/facebookresearch)  
 A modular embodied agent architecture and platform for building embodied agents  
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
-12 stars per week over 56 weeks  
-697 stars, 57 forks, 32 watches  
-created 2020-11-02, last commit 2021-12-02, main language Jupyter Notebook  
+12 stars per week over 57 weeks  
+698 stars, 57 forks, 32 watches  
+created 2020-11-02, last commit 2021-12-06, main language Jupyter Notebook  
 
 
 ### [GameGAN_code](https://github.com/nv-tlabs/GameGAN_code) by [nv-tlabs](https://github.com/nv-tlabs)  
 Learning to Simulate Dynamic Environments with GameGAN (CVPR 2020)  
 [https://github.com/nv-tlabs/GameGAN_code](https://github.com/nv-tlabs/GameGAN_code)  
-3.29 stars per week over 51 weeks  
-168 stars, 27 forks, 9 watches  
+3.3 stars per week over 51 weeks  
+170 stars, 27 forks, 9 watches  
 created 2020-12-11, last commit 2021-11-11, main language Python  
 
 
 ### [trafficSimulator](https://github.com/BilHim/trafficSimulator) by [BilHim](https://github.com/BilHim)  
   
 [https://github.com/BilHim/trafficSimulator](https://github.com/BilHim/trafficSimulator)  
-9.2 stars per week over 12 weeks  
-117 stars, 30 forks, 12 watches  
+9.03 stars per week over 13 weeks  
+120 stars, 30 forks, 12 watches  
 created 2021-09-05, last commit 2021-09-07, main language Python  
 
 
@@ -119,7 +119,7 @@ Dynamical systems for Python
 created 2014-09-12, last commit 2018-09-28, main language Python  
 
 
-This file was automatically generated on 2021-12-03.  
+This file was automatically generated on 2021-12-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
