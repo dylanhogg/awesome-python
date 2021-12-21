@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A package for getting cloud products and product descriptions from a cloud provider website.  
 [https://pypi.org/project/cloud-products/](https://pypi.org/project/cloud-products/)  
 [https://github.com/dylanhogg/cloud-products](https://github.com/dylanhogg/cloud-products)  
-0.01 stars per week over 70 weeks  
+0.01 stars per week over 72 weeks  
 1 stars, 0 forks, 1 watches  
 created 2020-08-01, last commit 2021-09-06, main language Python  
 <sub><sup>aws, cloud-products, crawler, data, text-processing</sup></sub>
@@ -18,13 +18,13 @@ created 2020-08-01, last commit 2021-09-06, main language Python
 ### [legaldata](https://github.com/dylanhogg/legaldata) by [dylanhogg](https://github.com/dylanhogg)  
 Provides access to Australian legal data  
 [https://github.com/dylanhogg/legaldata](https://github.com/dylanhogg/legaldata)  
-0.0 stars per week over 60 weeks  
+0.0 stars per week over 62 weeks  
 0 stars, 0 forks, 1 watches  
 created 2020-10-12, last commit 2020-11-03, main language Python  
 <sub><sup>crawler, data, law, lawtech, legal, legaltech</sup></sub>
 
 
-This file was automatically generated on 2021-12-07.  
+This file was automatically generated on 2021-12-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
