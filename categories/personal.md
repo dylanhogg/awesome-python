@@ -24,7 +24,7 @@ created 2020-10-12, last commit 2020-11-03, main language Python
 <sub><sup>crawler, data, law, lawtech, legal, legaltech</sup></sub>
 
 
-This file was automatically generated on 2021-12-21.  
+This file was automatically generated on 2021-12-23.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
