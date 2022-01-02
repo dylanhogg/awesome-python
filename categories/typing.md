@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Optional static typing for Python  
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
-25 stars per week over 471 weeks  
-12,022 stars, 2,015 forks, 207 watches  
-created 2012-12-07, last commit 2021-12-22, main language Python  
+25 stars per week over 473 weeks  
+12,082 stars, 2,019 forks, 209 watches  
+created 2012-12-07, last commit 2022-01-01, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2012-12-07, last commit 2021-12-22, main language Python
 Performant type-checking for python.  
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
-26 stars per week over 214 weeks  
-5,721 stars, 376 forks, 100 watches  
-created 2017-11-10, last commit 2021-12-23, main language OCaml  
+26 stars per week over 216 weeks  
+5,728 stars, 375 forks, 100 watches  
+created 2017-11-10, last commit 2021-12-31, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 
 
@@ -29,13 +29,13 @@ created 2017-11-10, last commit 2021-12-23, main language OCaml
 A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-10 stars per week over 353 weeks  
-3,548 stars, 224 forks, 56 watches  
+10 stars per week over 354 weeks  
+3,562 stars, 226 forks, 56 watches  
 created 2015-03-18, last commit 2021-12-21, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
-This file was automatically generated on 2021-12-23.  
+This file was automatically generated on 2022-01-02.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
