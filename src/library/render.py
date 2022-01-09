@@ -128,7 +128,7 @@ def lines_header(count, category="") -> List[str]:
         f"# Crazy Awesome Python",
         category_line,
         f"Checkout the interactive version that you can filter and sort: ",
-        f"[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  \n\n",
+        f"[https://www.awesomepython.org/](https://www.awesomepython.org/)  \n\n",
     ]
 
 

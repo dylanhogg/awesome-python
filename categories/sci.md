@@ -2,7 +2,7 @@
 A selection of 1 sci Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
+[https://www.awesomepython.org/](https://www.awesomepython.org/)  
 
 
 ### [zenodo](https://github.com/zenodo/zenodo)  

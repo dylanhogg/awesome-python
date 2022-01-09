@@ -2,7 +2,7 @@
 A selection of 2 personal Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
+[https://www.awesomepython.org/](https://www.awesomepython.org/)  
 
 
 ### [cloud-products](https://github.com/dylanhogg/cloud-products) by [dylanhogg](https://github.com/dylanhogg)  

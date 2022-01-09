@@ -2,7 +2,7 @@
 A selection of 51 nlp Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
+[https://www.awesomepython.org/](https://www.awesomepython.org/)  
 
 
 ### [transformers](https://github.com/huggingface/transformers) by [huggingface](https://github.com/huggingface)  

@@ -2,7 +2,7 @@
 A selection of 21 ml-ops Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
+[https://www.awesomepython.org/](https://www.awesomepython.org/)  
 
 
 ### [airflow](https://github.com/apache/airflow) by [apache](https://github.com/apache)  

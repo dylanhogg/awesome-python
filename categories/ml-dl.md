@@ -2,7 +2,7 @@
 A selection of 16 ml-dl Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
-[https://awesome-python.infocruncher.com/](https://awesome-python.infocruncher.com/)  
+[https://www.awesomepython.org/](https://www.awesomepython.org/)  
 
 
 ### [keras](https://github.com/keras-team/keras) by [keras-team](https://github.com/keras-team)  
