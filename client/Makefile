@@ -37,6 +37,8 @@ browse-s3:
 s3-deploy-app: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.csv s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 rm static_files from S3
@@ -45,7 +47,12 @@ s3-delete-app:
 
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)
 cf-invalidation:
+	# awesome-python.infocruncher.com:
 	aws cloudfront create-invalidation --distribution-id E1VXP77O89KVKO --paths "/*"
+	# www.awesomepython.org:
+	aws cloudfront create-invalidation --distribution-id EJHF3POVTKFJ4 --paths "/*"
+	# awesomepython.org:
+	aws cloudfront create-invalidation --distribution-id EUNSHU4X9PVCT --paths "/*"
 
 # Terraform
 
