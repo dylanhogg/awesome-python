@@ -120,9 +120,9 @@ def process(df_input, token) -> pd.DataFrame:
 
 
 def lines_header(count, category="") -> List[str]:
-    category_line = f"A selection of {count} Python libraries and frameworks ordered by stars.  \n"
+    category_line = f"A selection of {count} curated Python libraries and frameworks ordered by stars.  \n"
     if len(category) > 0:
-        category_line = f"A selection of {count} {category} Python libraries and frameworks ordered by stars.  \n"
+        category_line = f"A selection of {count} curated {category} Python libraries and frameworks ordered by stars.  \n"
 
     return [
         f"# Crazy Awesome Python",
