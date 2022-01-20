@@ -41,6 +41,11 @@ s3-deploy-app: remove-data-local-app
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
+## AWS S3 cp app to S3
+s3-deploy-app-metadata:
+	aws s3 cp app/sitemap.xml s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
+
 ## AWS S3 rm static_files from S3
 s3-delete-app:
 	aws s3 rm s3://${BUCKET_NAME} --recursive
