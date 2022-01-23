@@ -10,8 +10,8 @@ The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 32 stars per week over 592 weeks  
-19,380 stars, 6,388 forks, 561 watches  
-created 2010-09-13, last commit 2022-01-19, main language Python  
+19,431 stars, 6,418 forks, 561 watches  
+created 2010-09-13, last commit 2022-01-23, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2010-09-13, last commit 2022-01-19, main language Python
 A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-14 stars per week over 611 weeks  
-8,788 stars, 3,576 forks, 288 watches  
-created 2010-04-30, last commit 2022-01-19, main language Python  
+14 stars per week over 612 weeks  
+8,787 stars, 3,581 forks, 288 watches  
+created 2010-04-30, last commit 2022-01-21, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -29,8 +29,8 @@ created 2010-04-30, last commit 2022-01-19, main language Python
 Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
-1.15 stars per week over 528 weeks  
-609 stars, 133 forks, 33 watches  
+1.16 stars per week over 528 weeks  
+611 stars, 134 forks, 33 watches  
 created 2011-12-07, last commit 2021-03-27, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
@@ -39,8 +39,8 @@ created 2011-12-07, last commit 2021-03-27, main language Python
 Python package for information theory.  
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
-0.84 stars per week over 433 weeks  
-365 stars, 71 forks, 24 watches  
+0.85 stars per week over 434 weeks  
+367 stars, 71 forks, 24 watches  
 created 2013-09-29, last commit 2022-01-14, main language Python  
 <sub><sup>information-theory, python</sup></sub>
 
@@ -49,7 +49,7 @@ created 2013-09-29, last commit 2022-01-14, main language Python
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact)  
 3.29 stars per week over 74 weeks  
-245 stars, 35 forks, 9 watches  
+246 stars, 35 forks, 9 watches  
 created 2020-08-17, last commit 2021-10-08, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
 
@@ -62,7 +62,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-11-05, main language Python  
 
 
-This file was automatically generated on 2022-01-20.  
+This file was automatically generated on 2022-01-23.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
