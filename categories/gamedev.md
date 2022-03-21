@@ -10,7 +10,7 @@ pygame (the library) is a Free and Open Source python programming language libra
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 17 stars per week over 260 weeks  
-4,570 stars, 2,017 forks, 155 watches  
+4,571 stars, 2,017 forks, 155 watches  
 created 2017-03-26, last commit 2022-03-20, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
@@ -29,8 +29,8 @@ created 2013-09-30, last commit 2022-03-17, main language C++
 Easy to use Python library for creating 2D arcade games.  
 [http://arcade.academy](http://arcade.academy)  
 [https://github.com/pythonarcade/arcade](https://github.com/pythonarcade/arcade)  
-3.57 stars per week over 324 weeks  
-1,158 stars, 216 forks, 53 watches  
+3.58 stars per week over 324 weeks  
+1,159 stars, 216 forks, 53 watches  
 created 2016-01-04, last commit 2022-03-21, main language Python  
 <sub><sup>arcade-api, arcade-framework, arcade-learning-environment, educational-resources, educational-technology, opengl, python, python3</sup></sub>
 

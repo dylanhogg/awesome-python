@@ -10,7 +10,7 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 [https://github.com/apache/airflow](https://github.com/apache/airflow)  
 69 stars per week over 362 weeks  
-25,190 stars, 10,245 forks, 742 watches  
+25,194 stars, 10,248 forks, 742 watches  
 created 2015-04-13, last commit 2022-03-21, main language Python  
 <sub><sup>airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow</sup></sub>
 
@@ -19,7 +19,7 @@ created 2015-04-13, last commit 2022-03-21, main language Python
 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.   
 [https://github.com/spotify/luigi](https://github.com/spotify/luigi)  
 31 stars per week over 495 weeks  
-15,482 stars, 2,325 forks, 488 watches  
+15,482 stars, 2,326 forks, 488 watches  
 created 2012-09-20, last commit 2022-03-12, main language Python  
 <sub><sup>hadoop, luigi, orchestration-framework, python, scheduling</sup></sub>
 
@@ -29,8 +29,8 @@ Open source platform for the machine learning lifecycle
 [https://mlflow.org](https://mlflow.org)  
 [https://github.com/mlflow/mlflow](https://github.com/mlflow/mlflow)  
 58 stars per week over 197 weeks  
-11,485 stars, 2,561 forks, 279 watches  
-created 2018-06-05, last commit 2022-03-19, main language Python  
+11,487 stars, 2,561 forks, 279 watches  
+created 2018-06-05, last commit 2022-03-21, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
 
@@ -39,7 +39,7 @@ The easiest way to automate your data
 [https://prefect.io](https://prefect.io)  
 [https://github.com/PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)  
 44 stars per week over 194 weeks  
-8,571 stars, 832 forks, 146 watches  
+8,572 stars, 832 forks, 146 watches  
 created 2018-06-29, last commit 2022-03-16, main language Python  
 <sub><sup>automation, data-engineering, data-ops, data-science, infrastructure, ml-ops, orchestration, orion, prefect, python, workflow, workflow-engine</sup></sub>
 
@@ -49,7 +49,7 @@ Data-centric declarative deep learning framework
 [http://ludwig.ai](http://ludwig.ai)  
 [https://github.com/uber/ludwig](https://github.com/uber/ludwig)  
 48 stars per week over 168 weeks  
-8,172 stars, 974 forks, 187 watches  
+8,173 stars, 974 forks, 187 watches  
 created 2018-12-27, last commit 2022-03-21, main language Python  
 <sub><sup>computer-vision, data-centric, data-science, datascience, deep, deep-learning, deeplearning, learning, machine, machine-learning, machinelearning, ml, natural-language, natural-language-processing, neural-network, python, pytorch</sup></sub>
 
@@ -59,7 +59,7 @@ A Python framework for creating reproducible, maintainable and modular data scie
 [https://kedro.readthedocs.io/](https://kedro.readthedocs.io/)  
 [https://github.com/quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro)  
 44 stars per week over 152 weeks  
-6,732 stars, 636 forks, 104 watches  
+6,733 stars, 636 forks, 104 watches  
 created 2019-04-18, last commit 2022-03-16, main language Python  
 <sub><sup>experiment-tracking, hacktoberfest, kedro, machine-learning, mlops, pipeline, python</sup></sub>
 
@@ -69,7 +69,7 @@ Always know what to expect from your data.
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 [https://github.com/great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)  
 26 stars per week over 236 weeks  
-6,295 stars, 885 forks, 67 watches  
+6,298 stars, 885 forks, 67 watches  
 created 2017-09-11, last commit 2022-03-19, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
 
@@ -80,7 +80,7 @@ created 2017-09-11, last commit 2022-03-19, main language Python
 [https://github.com/Netflix/metaflow](https://github.com/Netflix/metaflow)  
 41 stars per week over 130 weeks  
 5,394 stars, 492 forks, 232 watches  
-created 2019-09-17, last commit 2022-03-16, main language Python  
+created 2019-09-17, last commit 2022-03-21, main language Python  
 <sub><sup>ai, cli, data-science, datascience, deep-learning, high-performance-computing, machine-learning, ml, ml-infrastructure, ml-platform, mlops, model-management, productivity, python, r, r-package, reproducible-research, rstats</sup></sub>
 
 
@@ -99,7 +99,7 @@ dbt enables data analysts and engineers to transform their data using the same p
 [https://getdbt.com](https://getdbt.com)  
 [https://github.com/dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)  
 13 stars per week over 314 weeks  
-4,393 stars, 813 forks, 102 watches  
+4,395 stars, 814 forks, 102 watches  
 created 2016-03-10, last commit 2022-03-18, main language Python  
 <sub><sup>analytics, business-intelligence, data-modeling, dbt-viewpoint, elt, pypa, slack</sup></sub>
 
@@ -119,7 +119,7 @@ Dataset format for AI. Build, manage, query & visualize datasets for deep learni
 [https://activeloop.ai](https://activeloop.ai)  
 [https://github.com/activeloopai/Hub](https://github.com/activeloopai/Hub)  
 31 stars per week over 136 weeks  
-4,351 stars, 361 forks, 61 watches  
+4,352 stars, 361 forks, 61 watches  
 created 2019-08-09, last commit 2022-03-18, main language Python  
 <sub><sup>ai, cloud-computing, collaboration, computer-vision, cv, data-centric, data-pipelines, data-processing, data-science, data-version-control, datasets, deep-learning, gsoc, image-processing, machine-learning, ml, mlops, python, pytorch, tensorflow</sup></sub>
 
@@ -129,7 +129,7 @@ ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager,
 [https://clear.ml/docs](https://clear.ml/docs)  
 [https://github.com/allegroai/clearml](https://github.com/allegroai/clearml)  
 21 stars per week over 145 weeks  
-3,053 stars, 422 forks, 74 watches  
+3,054 stars, 422 forks, 74 watches  
 created 2019-06-10, last commit 2022-03-20, main language Python  
 <sub><sup>ai, clearml, control, deep-learning, deeplearning, devops, experiment, experiment-manager, k8s, machine-learning, machinelearning, mlops, trains, trainsai, version, version-control</sup></sub>
 
@@ -149,7 +149,7 @@ Feature Store for Machine Learning
 [https://feast.dev](https://feast.dev)  
 [https://github.com/feast-dev/feast](https://github.com/feast-dev/feast)  
 17 stars per week over 171 weeks  
-3,011 stars, 524 forks, 67 watches  
+3,012 stars, 524 forks, 67 watches  
 created 2018-12-10, last commit 2022-03-17, main language Python  
 <sub><sup>big-data, data-engineering, data-quality, data-science, feature-engineering, feature-store, features, machine-learning, ml, mlops, python</sup></sub>
 
@@ -160,7 +160,7 @@ Machine Learning Pipelines for Kubeflow
 [https://github.com/kubeflow/pipelines](https://github.com/kubeflow/pipelines)  
 13 stars per week over 201 weeks  
 2,747 stars, 1,189 forks, 107 watches  
-created 2018-05-12, last commit 2022-03-18, main language Python  
+created 2018-05-12, last commit 2022-03-21, main language Python  
 <sub><sup>data-science, kubeflow, kubeflow-pipelines, kubernetes, machine-learning, mlops, pipeline</sup></sub>
 
 
@@ -170,7 +170,7 @@ Aim — an easy-to-use and performant open-source experiment tracker.
 [https://github.com/aimhubio/aim](https://github.com/aimhubio/aim)  
 15 stars per week over 146 weeks  
 2,258 stars, 137 forks, 32 watches  
-created 2019-05-31, last commit 2022-03-20, main language TypeScript  
+created 2019-05-31, last commit 2022-03-21, main language TypeScript  
 <sub><sup>experiment-tracking, keras, machine-learning, mlops, nlp, pytorch, pytorch-lightning, reinforcement-learning, tensorflow, training-tracking</sup></sub>
 
 
@@ -178,7 +178,7 @@ created 2019-05-31, last commit 2022-03-20, main language TypeScript
 Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b  
 [https://github.com/evidentlyai/evidently](https://github.com/evidentlyai/evidently)  
 32 stars per week over 68 weeks  
-2,207 stars, 194 forks, 28 watches  
+2,208 stars, 195 forks, 28 watches  
 created 2020-11-25, last commit 2022-03-12, main language Python  
 <sub><sup>data-drift, data-science, html-report, jupyter-notebook, machine-learning, machine-learning-operations, mlops, model-monitoring, pandas-dataframe, production-machine-learning</sup></sub>
 

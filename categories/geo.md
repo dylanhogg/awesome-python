@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 18 curated geo Python libraries and frameworks ordered by stars.  
+A selection of 29 curated geo Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -67,9 +67,19 @@ A Python package for interactive mapping and geospatial analysis  with minimal c
 [https://leafmap.org](https://leafmap.org)  
 [https://github.com/giswqs/leafmap](https://github.com/giswqs/leafmap)  
 22 stars per week over 53 weeks  
-1,187 stars, 132 forks, 39 watches  
+1,187 stars, 133 forks, 39 watches  
 created 2021-03-10, last commit 2022-03-20, main language Python  
 <sub><sup>data-science, dataviz, folium, geopython, geospatial, geospatial-analysis, gis, ipyleaflet, jupyter, jupyter-notebook, keplergl, leafmap, mapping, plotly, pydeck, python, streamlit, streamlit-webapp, whiteboxtools</sup></sub>
+
+
+### [cartopy](https://github.com/SciTools/cartopy) by [SciTools](https://github.com/SciTools)  
+Cartopy - a cartographic python library with matplotlib support  
+[https://scitools.org.uk/cartopy/docs/latest](https://scitools.org.uk/cartopy/docs/latest)  
+[https://github.com/SciTools/cartopy](https://github.com/SciTools/cartopy)  
+2.03 stars per week over 502 weeks  
+1,020 stars, 308 forks, 58 watches  
+created 2012-08-03, last commit 2022-01-29, main language Python  
+<sub><sup>cartopy, geometry, maps, matplotlib, projections, python, spatial</sup></sub>
 
 
 ### [pysal](https://github.com/pysal/pysal)  
@@ -101,6 +111,25 @@ created 2011-12-31, last commit 2022-03-01, main language Python
 <sub><sup>cli, cython, gdal, gis, ogr, python, vector</sup></sub>
 
 
+### [eo-learn](https://github.com/sentinel-hub/eo-learn) by [sentinel-hub](https://github.com/sentinel-hub)  
+Earth observation processing framework for machine learning in Python  
+[https://github.com/sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn)  
+4.34 stars per week over 198 weeks  
+862 stars, 260 forks, 54 watches  
+created 2018-05-31, last commit 2022-02-09, main language Python  
+<sub><sup>eo-data, eo-research, machine-learning, python-package</sup></sub>
+
+
+### [sentinelsat](https://github.com/sentinelsat/sentinelsat)  
+Search and download Copernicus Sentinel satellite images  
+[https://sentinelsat.readthedocs.io](https://sentinelsat.readthedocs.io)  
+[https://github.com/sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat)  
+2.05 stars per week over 356 weeks  
+731 stars, 211 forks, 58 watches  
+created 2015-05-22, last commit 2022-01-05, main language Python  
+<sub><sup>copernicus, esa, geographic-data, hacktoberfest, open-data, remote-sensing, satellite-imagery, sentinel</sup></sub>
+
+
 ### [pyproj](https://github.com/pyproj4/pyproj) by [pyproj4](https://github.com/pyproj4)  
 Python interface to PROJ (cartographic projections and coordinate transformations library)  
 [https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)  
@@ -115,7 +144,7 @@ created 2014-12-29, last commit 2022-03-06, main language Python
 TorchGeo: datasets, transforms, and models for geospatial data  
 [https://github.com/microsoft/torchgeo](https://github.com/microsoft/torchgeo)  
 15 stars per week over 43 weeks  
-681 stars, 71 forks, 28 watches  
+682 stars, 71 forks, 28 watches  
 created 2021-05-21, last commit 2022-03-20, main language Python  
 <sub><sup>datasets, deep-learning, models, pytorch, remote-sensing, torchvision, transforms</sup></sub>
 
@@ -129,12 +158,81 @@ created 2016-06-23, last commit 2021-02-01, main language Python
 <sub><sup>geocoding, geonames, geoparsing, nlp, spacy, toponym-resolution</sup></sub>
 
 
+### [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) by [sentinel-hub](https://github.com/sentinel-hub)  
+Download and process satellite imagery in Python using Sentinel Hub services.  
+[http://sentinelhub-py.readthedocs.io/en/latest/](http://sentinelhub-py.readthedocs.io/en/latest/)  
+[https://github.com/sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py)  
+2.33 stars per week over 252 weeks  
+589 stars, 191 forks, 50 watches  
+created 2017-05-17, last commit 2022-02-16, main language Python  
+<sub><sup>aws, ogc-services, python-library, satellite-imagery, sentinel-hub</sup></sub>
+
+
+### [verde](https://github.com/fatiando/verde) by [fatiando](https://github.com/fatiando)  
+Processing and interpolating spatial data with a twist of machine learning  
+[https://www.fatiando.org/verde](https://www.fatiando.org/verde)  
+[https://github.com/fatiando/verde](https://github.com/fatiando/verde)  
+1.98 stars per week over 203 weeks  
+404 stars, 52 forks, 22 watches  
+created 2018-04-25, last commit 2022-03-18, main language Python  
+<sub><sup>earth-science, fatiando-a-terra, geophysics, geoscience, geospatial, interpolation, python, python3, scipy, scipy-stack</sup></sub>
+
+
+### [geoviews](https://github.com/holoviz/geoviews) by [holoviz](https://github.com/holoviz)  
+Simple, concise geographical visualization in Python  
+[http://geoviews.org](http://geoviews.org)  
+[https://github.com/holoviz/geoviews](https://github.com/holoviz/geoviews)  
+1.28 stars per week over 308 weeks  
+396 stars, 68 forks, 28 watches  
+created 2016-04-19, last commit 2022-03-08, main language Python  
+<sub><sup>cartopy, geographic-visualizations, geoviews, holoviews, holoviz, plotting</sup></sub>
+
+
+### [earthpy](https://github.com/earthlab/earthpy) by [earthlab](https://github.com/earthlab)  
+A package built to support working with spatial data using open source python  
+[https://earthpy.readthedocs.io](https://earthpy.readthedocs.io)  
+[https://github.com/earthlab/earthpy](https://github.com/earthlab/earthpy)  
+1.62 stars per week over 212 weeks  
+345 stars, 132 forks, 21 watches  
+created 2018-02-20, last commit 2021-12-20, main language Python  
+<sub><sup>education, python, raster, spatial-data, vector</sup></sub>
+
+
+### [rio-tiler](https://github.com/cogeotiff/rio-tiler) by [cogeotiff](https://github.com/cogeotiff)  
+User friendly Rasterio plugin to read raster datasets.  
+[https://cogeotiff.github.io/rio-tiler/](https://cogeotiff.github.io/rio-tiler/)  
+[https://github.com/cogeotiff/rio-tiler](https://github.com/cogeotiff/rio-tiler)  
+1.32 stars per week over 232 weeks  
+306 stars, 73 forks, 66 watches  
+created 2017-10-06, last commit 2022-03-17, main language Python  
+<sub><sup>cog, cogeotiff, gdal, maptile, mercator, raster, raster-processing, rasterio, satellite, slippy-map, tile</sup></sub>
+
+
 ### [pyesridump](https://github.com/openaddresses/pyesridump) by [openaddresses](https://github.com/openaddresses)  
 Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.  
 [https://github.com/openaddresses/pyesridump](https://github.com/openaddresses/pyesridump)  
 0.49 stars per week over 432 weeks  
 214 stars, 53 forks, 15 watches  
 created 2013-12-06, last commit 2022-01-16, main language Python  
+
+
+### [spatialpandas](https://github.com/holoviz/spatialpandas) by [holoviz](https://github.com/holoviz)  
+Pandas extension arrays for spatial/geometric operations  
+[https://github.com/holoviz/spatialpandas](https://github.com/holoviz/spatialpandas)  
+1.59 stars per week over 125 weeks  
+199 stars, 16 forks, 17 watches  
+created 2019-10-28, last commit 2021-08-07, main language Python  
+<sub><sup>geographic-data, geopandas, holoviz, pandas, spatialpandas</sup></sub>
+
+
+### [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) by [cogeotiff](https://github.com/cogeotiff)  
+Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
+[https://cogeotiff.github.io/rio-cogeo/](https://cogeotiff.github.io/rio-cogeo/)  
+[https://github.com/cogeotiff/rio-cogeo](https://github.com/cogeotiff/rio-cogeo)  
+0.87 stars per week over 210 weeks  
+184 stars, 29 forks, 43 watches  
+created 2018-03-09, last commit 2022-02-18, main language Python  
+<sub><sup>cog, cogeotiff, geotiff, rasterio, satellite</sup></sub>
 
 
 ### [address-net](https://github.com/jasonrig/address-net) by [jasonrig](https://github.com/jasonrig)  
@@ -164,6 +262,14 @@ Spatial Optimization
 133 stars, 28 forks, 13 watches  
 created 2019-03-01, last commit 2022-03-18, main language Python  
 <sub><sup>facility-location, location-allocation, location-modeling, python, regionalization, resource-planning, routing, spatial-analysis, spatial-optimization, transportation</sup></sub>
+
+
+### [area](https://github.com/scisco/area) by [scisco](https://github.com/scisco)  
+Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python  
+[https://github.com/scisco/area](https://github.com/scisco/area)  
+0.23 stars per week over 329 weeks  
+77 stars, 16 forks, 2 watches  
+created 2015-11-25, last commit 2018-10-31, main language Python  
 
 
 ### [dataflow-geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam) by [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)  

@@ -10,7 +10,7 @@ Optional static typing for Python
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
 26 stars per week over 484 weeks  
-12,726 stars, 2,093 forks, 211 watches  
+12,727 stars, 2,095 forks, 211 watches  
 created 2012-12-07, last commit 2022-03-21, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 

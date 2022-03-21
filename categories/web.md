@@ -10,7 +10,7 @@ The Web framework for perfectionists with deadlines.
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 [https://github.com/django/django](https://github.com/django/django)  
 121 stars per week over 516 weeks  
-62,971 stars, 26,768 forks, 2,292 watches  
+62,977 stars, 26,768 forks, 2,290 watches  
 created 2012-04-28, last commit 2022-03-19, main language Python  
 <sub><sup>apps, django, framework, models, orm, python, templates, views, web</sup></sub>
 
@@ -20,7 +20,7 @@ The Python micro framework for building web applications.
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 [https://github.com/pallets/flask](https://github.com/pallets/flask)  
 93 stars per week over 623 weeks  
-58,350 stars, 14,949 forks, 2,188 watches  
+58,352 stars, 14,949 forks, 2,187 watches  
 created 2010-04-06, last commit 2022-03-15, main language Python  
 <sub><sup>flask, jinja, pallets, python, web-framework, werkzeug, wsgi</sup></sub>
 
@@ -30,7 +30,7 @@ A simple, yet elegant, HTTP library.
 [https://requests.readthedocs.io](https://requests.readthedocs.io)  
 [https://github.com/psf/requests](https://github.com/psf/requests)  
 81 stars per week over 579 weeks  
-47,086 stars, 8,678 forks, 1,367 watches  
+47,088 stars, 8,678 forks, 1,367 watches  
 created 2011-02-13, last commit 2022-02-26, main language Python  
 <sub><sup>client, cookies, forhumans, http, humans, python, python-requests, requests</sup></sub>
 
@@ -40,7 +40,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)  
 [https://github.com/tiangolo/fastapi](https://github.com/tiangolo/fastapi)  
 251 stars per week over 171 weeks  
-43,114 stars, 3,282 forks, 582 watches  
+43,117 stars, 3,282 forks, 582 watches  
 created 2018-12-08, last commit 2022-03-18, main language Python  
 <sub><sup>api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web</sup></sub>
 
@@ -50,7 +50,7 @@ created 2018-12-08, last commit 2022-03-18, main language Python
 [http://sherlock-project.github.io](http://sherlock-project.github.io)  
 [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)  
 177 stars per week over 169 weeks  
-30,068 stars, 3,413 forks, 913 watches  
+30,070 stars, 3,413 forks, 913 watches  
 created 2018-12-24, last commit 2022-03-10, main language Python  
 <sub><sup>cli, hacktoberfest, information-gathering, linux, macos, osint, python3, reconnaissance, redteam, sherlock, tools, windows</sup></sub>
 
@@ -99,7 +99,7 @@ created 2012-12-06, last commit 2022-03-15, main language Python
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 52 stars per week over 160 weeks  
-8,386 stars, 1,493 forks, 159 watches  
+8,387 stars, 1,493 forks, 159 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
 
@@ -129,7 +129,7 @@ The little ASGI framework that shines. 🌟
 [https://www.starlette.io/](https://www.starlette.io/)  
 [https://github.com/encode/starlette](https://github.com/encode/starlette)  
 34 stars per week over 195 weeks  
-6,742 stars, 593 forks, 115 watches  
+6,743 stars, 593 forks, 115 watches  
 created 2018-06-25, last commit 2022-03-09, main language Python  
 <sub><sup>async, graphql, http, python, websockets</sup></sub>
 
@@ -149,7 +149,7 @@ An ASGI web server, for Python. 🦄
 [https://www.uvicorn.org/](https://www.uvicorn.org/)  
 [https://github.com/encode/uvicorn](https://github.com/encode/uvicorn)  
 20 stars per week over 250 weeks  
-5,032 stars, 424 forks, 81 watches  
+5,034 stars, 424 forks, 81 watches  
 created 2017-05-31, last commit 2022-03-20, main language Python  
 <sub><sup>asgi, asyncio, http, http-server, python</sup></sub>
 
@@ -159,7 +159,7 @@ uWSGI application server container
 [http://projects.unbit.it/uwsgi](http://projects.unbit.it/uwsgi)  
 [https://github.com/unbit/uwsgi](https://github.com/unbit/uwsgi)  
 5.7 stars per week over 545 weeks  
-3,107 stars, 647 forks, 109 watches  
+3,108 stars, 647 forks, 109 watches  
 created 2011-10-09, last commit 2022-02-02, main language C  
 
 
@@ -178,7 +178,7 @@ Write interactive web app in script way.
 [https://pywebio.readthedocs.io](https://pywebio.readthedocs.io)  
 [https://github.com/pywebio/PyWebIO](https://github.com/pywebio/PyWebIO)  
 26 stars per week over 107 weeks  
-2,799 stars, 246 forks, 42 watches  
+2,800 stars, 246 forks, 42 watches  
 created 2020-02-29, last commit 2022-03-10, main language Python  
 <sub><sup>pywebio</sup></sub>
 
@@ -188,7 +188,7 @@ created 2020-02-29, last commit 2022-03-10, main language Python
 [https://django-ninja.rest-framework.com](https://django-ninja.rest-framework.com)  
 [https://github.com/vitalik/django-ninja](https://github.com/vitalik/django-ninja)  
 28 stars per week over 95 weeks  
-2,730 stars, 157 forks, 56 watches  
+2,731 stars, 157 forks, 56 watches  
 created 2020-05-19, last commit 2022-03-10, main language Python  
 <sub><sup>django, openapi, pydantic, python, rest-api, swagger, swagger-ui</sup></sub>
 
@@ -198,7 +198,7 @@ A new GraphQL library for Python 🍓
 [https://strawberry.rocks](https://strawberry.rocks)  
 [https://github.com/strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry)  
 12 stars per week over 169 weeks  
-2,067 stars, 247 forks, 39 watches  
+2,068 stars, 248 forks, 39 watches  
 created 2018-12-21, last commit 2022-03-18, main language Python  
 <sub><sup>asgi, asyncio, django, graphql, graphql-library, graphql-schema, graphql-server, hacktoberfest, mypy, python, starlette, strawberry</sup></sub>
 

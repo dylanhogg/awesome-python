@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
 56 stars per week over 277 weeks  
-15,754 stars, 2,379 forks, 251 watches  
+15,755 stars, 2,379 forks, 251 watches  
 created 2016-11-22, last commit 2021-12-04, main language Jupyter Notebook  
 <sub><sup>deep-learning, explainability, gradient-boosting, interpretability, machine-learning, shap, shapley</sup></sub>
 

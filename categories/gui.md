@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.  
 [https://github.com/PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)  
 50 stars per week over 192 weeks  
-9,665 stars, 1,449 forks, 216 watches  
+9,667 stars, 1,449 forks, 216 watches  
 created 2018-07-11, last commit 2022-03-19, main language Python  
 <sub><sup>beginner-friendly, datavisualization, games, gui, gui-framework, gui-programming, gui-window, popup-window, progress-meter, pyside2, pysimplegui, python, qt, qt-gui, remi, systemtray, tkinter, tkinter-gui, tkinter-python, wxpython</sup></sub>
 
@@ -19,7 +19,7 @@ Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with
 [https://dearpygui.readthedocs.io/en/latest/](https://dearpygui.readthedocs.io/en/latest/)  
 [https://github.com/hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)  
 78 stars per week over 94 weeks  
-7,451 stars, 380 forks, 121 watches  
+7,452 stars, 380 forks, 121 watches  
 created 2020-05-28, last commit 2022-03-17, main language C++  
 <sub><sup>cpp, cross-platform, dearpygui, graphics, gui, imgui, linux, macos, native, python, python-gui, toolkit, tools, ui, windows</sup></sub>
 
@@ -37,8 +37,8 @@ created 2014-03-20, last commit 2022-03-14, main language Python
 Build GUI for your Python program with JavaScript, HTML, and CSS  
 [https://pywebview.flowrl.com](https://pywebview.flowrl.com)  
 [https://github.com/r0x0r/pywebview](https://github.com/r0x0r/pywebview)  
-7.32 stars per week over 382 weeks  
-2,802 stars, 374 forks, 54 watches  
+7.33 stars per week over 382 weeks  
+2,803 stars, 374 forks, 54 watches  
 created 2014-11-20, last commit 2022-03-05, main language Python  
 <sub><sup>cef, cocoa, gtk, gui, html, javascript, linux, osx, python, qt, webkit, windows</sup></sub>
 

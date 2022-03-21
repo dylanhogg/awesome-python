@@ -19,7 +19,7 @@ created 2019-11-10, last commit 2022-03-18, main language Python
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 83 stars per week over 264 weeks  
-22,064 stars, 1,279 forks, 380 watches  
+22,065 stars, 1,279 forks, 380 watches  
 created 2017-02-21, last commit 2021-06-17, main language Python  
 <sub><sup>cli, python</sup></sub>
 
@@ -29,7 +29,7 @@ A Fast, Extensible Progress Bar for Python and CLI
 [https://tqdm.github.io](https://tqdm.github.io)  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 60 stars per week over 354 weeks  
-21,492 stars, 1,102 forks, 203 watches  
+21,493 stars, 1,102 forks, 202 watches  
 created 2015-06-03, last commit 2022-02-28, main language Python  
 <sub><sup>cli, closember, console, discord, gui, jupyter, keras, meter, pandas, parallel, progress, progress-bar, progressbar, progressmeter, python, rate, telegram, terminal, time, utilities</sup></sub>
 
@@ -39,7 +39,7 @@ Python composable command line interface toolkit
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 [https://github.com/pallets/click](https://github.com/pallets/click)  
 29 stars per week over 412 weeks  
-12,190 stars, 1,226 forks, 182 watches  
+12,191 stars, 1,226 forks, 182 watches  
 created 2014-04-24, last commit 2022-03-19, main language Python  
 <sub><sup>cli, click, pallets, python</sup></sub>
 
@@ -48,7 +48,7 @@ created 2014-04-24, last commit 2022-03-19, main language Python
 Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.  
 [https://github.com/willmcgugan/textual](https://github.com/willmcgugan/textual)  
 178 stars per week over 49 weeks  
-8,835 stars, 228 forks, 121 watches  
+8,836 stars, 228 forks, 121 watches  
 created 2021-04-08, last commit 2022-03-18, main language Python  
 <sub><sup>python, rich, terminal, tui</sup></sub>
 

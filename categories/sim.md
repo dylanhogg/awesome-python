@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 14 curated sim Python libraries and frameworks ordered by stars.  
+A selection of 15 curated sim Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,7 +10,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 [https://www.gymlibrary.ml](https://www.gymlibrary.ml)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 87 stars per week over 307 weeks  
-26,969 stars, 7,687 forks, 998 watches  
+26,972 stars, 7,686 forks, 998 watches  
 created 2016-04-27, last commit 2022-03-20, main language Python  
 
 
@@ -19,7 +19,7 @@ Python sample codes for robotics algorithms.
 [https://pythonrobotics.readthedocs.io/en/latest/](https://pythonrobotics.readthedocs.io/en/latest/)  
 [https://github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 47 stars per week over 313 weeks  
-14,726 stars, 4,805 forks, 490 watches  
+14,728 stars, 4,805 forks, 490 watches  
 created 2016-03-21, last commit 2022-03-15, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -29,7 +29,7 @@ Unity Machine Learning Agents Toolkit
 [https://unity3d.ai](https://unity3d.ai)  
 [https://github.com/Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)  
 53 stars per week over 236 weeks  
-12,599 stars, 3,366 forks, 539 watches  
+12,600 stars, 3,366 forks, 539 watches  
 created 2017-09-08, last commit 2022-01-18, main language C#  
 <sub><sup>deep-learning, deep-reinforcement-learning, neural-networks, reinforcement-learning, unity, unity3d</sup></sub>
 
@@ -82,8 +82,8 @@ created 2021-06-02, last commit 2022-03-16, main language Jupyter Notebook
 ### [PettingZoo](https://github.com/PettingZoo-Team/PettingZoo) by [PettingZoo-Team](https://github.com/PettingZoo-Team)  
 Gym for multi-agent reinforcement learning  
 [https://github.com/PettingZoo-Team/PettingZoo](https://github.com/PettingZoo-Team/PettingZoo)  
-9.89 stars per week over 113 weeks  
-1,118 stars, 170 forks, 12 watches  
+9.91 stars per week over 113 weeks  
+1,120 stars, 170 forks, 12 watches  
 created 2020-01-20, last commit 2022-03-15, main language Python  
 
 
@@ -103,6 +103,15 @@ A modular embodied agent architecture and platform for building embodied agents
 9.97 stars per week over 72 weeks  
 718 stars, 64 forks, 32 watches  
 created 2020-11-02, last commit 2022-03-18, main language Jupyter Notebook  
+
+
+### [urbansim](https://github.com/UDST/urbansim) by [UDST](https://github.com/UDST)  
+Platform for building statistical models of cities and regions  
+[https://udst.github.io/urbansim/](https://udst.github.io/urbansim/)  
+[https://github.com/UDST/urbansim](https://github.com/UDST/urbansim)  
+0.89 stars per week over 448 weeks  
+400 stars, 116 forks, 78 watches  
+created 2013-08-15, last commit 2020-05-11, main language Python  
 
 
 ### [GameGAN_code](https://github.com/nv-tlabs/GameGAN_code) by [nv-tlabs](https://github.com/nv-tlabs)  

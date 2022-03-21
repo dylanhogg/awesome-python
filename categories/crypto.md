@@ -10,7 +10,7 @@ A JavaScript / Python / PHP cryptocurrency trading API with support for more tha
 [https://github.com/ccxt/ccxt](https://github.com/ccxt/ccxt)  
 93 stars per week over 253 weeks  
 23,703 stars, 5,847 forks, 933 watches  
-created 2017-05-14, last commit 2022-03-20, main language JavaScript  
+created 2017-05-14, last commit 2022-03-21, main language JavaScript  
 <sub><sup>altcoin, api, arbitrage, bitcoin, bot, btc, crypto, cryptocurrency, e-commerce, eth, ethereum, exchange, invest, library, market-data, merchant, strategy, trade, trading</sup></sub>
 
 
@@ -19,8 +19,8 @@ Free, open source crypto trading bot
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 66 stars per week over 252 weeks  
-16,721 stars, 3,540 forks, 561 watches  
-created 2017-05-17, last commit 2022-03-20, main language Python  
+16,723 stars, 3,540 forks, 561 watches  
+created 2017-05-17, last commit 2022-03-21, main language Python  
 <sub><sup>algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency, freqtrade, python, telegram-bot, trade, trading-bot</sup></sub>
 
 
@@ -28,7 +28,7 @@ created 2017-05-17, last commit 2022-03-20, main language Python
 This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
 [https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot)  
 68 stars per week over 45 weeks  
-3,115 stars, 733 forks, 142 watches  
+3,115 stars, 732 forks, 142 watches  
 created 2021-05-08, last commit 2021-06-10, main language Python  
 
 
@@ -45,7 +45,7 @@ created 2016-04-14, last commit 2022-03-14, main language Python
 Ethereum Proof-of-Stake Consensus Specifications  
 [https://github.com/ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)  
 13 stars per week over 182 weeks  
-2,448 stars, 575 forks, 232 watches  
+2,449 stars, 576 forks, 232 watches  
 created 2018-09-20, last commit 2022-03-16, main language Python  
 
 
@@ -54,7 +54,7 @@ Static Analyzer for Solidity
 [https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)  
 [https://github.com/crytic/slither](https://github.com/crytic/slither)  
 10 stars per week over 184 weeks  
-1,975 stars, 378 forks, 56 watches  
+1,978 stars, 378 forks, 56 watches  
 created 2018-09-05, last commit 2022-03-18, main language Python  
 <sub><sup>ethereum, solidity, static-analysis</sup></sub>
 
@@ -110,16 +110,16 @@ created 2018-01-23, last commit 2021-06-03, main language Python
 Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/EthTx/ethtx](https://github.com/EthTx/ethtx)  
-6.47 stars per week over 38 weeks  
-246 stars, 35 forks, 10 watches  
+6.5 stars per week over 38 weeks  
+247 stars, 35 forks, 10 watches  
 created 2021-06-28, last commit 2022-03-03, main language Python  
 
 
 ### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
 Ethereum decompiler  
 [https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
-2.19 stars per week over 109 weeks  
-239 stars, 60 forks, 17 watches  
+2.2 stars per week over 109 weeks  
+240 stars, 60 forks, 17 watches  
 created 2020-02-17, last commit 2020-08-22, main language Python  
 
 

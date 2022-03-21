@@ -10,7 +10,7 @@ JupyterLab computational environment.
 [https://jupyterlab.readthedocs.io/](https://jupyterlab.readthedocs.io/)  
 [https://github.com/jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)  
 39 stars per week over 302 weeks  
-11,901 stars, 2,272 forks, 321 watches  
+11,900 stars, 2,272 forks, 321 watches  
 created 2016-06-03, last commit 2022-03-20, main language TypeScript  
 <sub><sup>jupyter, jupyterlab</sup></sub>
 
@@ -20,7 +20,7 @@ Jupyter Interactive Notebook
 [https://jupyter-notebook.readthedocs.io/](https://jupyter-notebook.readthedocs.io/)  
 [https://github.com/jupyter/notebook](https://github.com/jupyter/notebook)  
 24 stars per week over 362 weeks  
-8,886 stars, 3,710 forks, 314 watches  
+8,886 stars, 3,711 forks, 314 watches  
 created 2015-04-09, last commit 2022-03-19, main language Jupyter Notebook  
 <sub><sup>closember, jupyter, jupyter-notebook, notebook</sup></sub>
 
@@ -31,7 +31,7 @@ Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 [https://github.com/mwouts/jupytext](https://github.com/mwouts/jupytext)  
 26 stars per week over 196 weeks  
 5,261 stars, 332 forks, 70 watches  
-created 2018-06-15, last commit 2022-03-20, main language Python  
+created 2018-06-15, last commit 2022-03-21, main language Python  
 <sub><sup>hydrogen, jupyter-notebook, jupyterlab, jupyterlab-extension, knitr, markdown, notebooks, python, rmarkdown, rstudio, version-control</sup></sub>
 
 
@@ -67,8 +67,8 @@ created 2014-09-30, last commit 2020-04-07, main language Python
 Wasm powered Jupyter running in the browser 💡  
 [https://jupyterlite.rtfd.io/en/latest/try/lab](https://jupyterlite.rtfd.io/en/latest/try/lab)  
 [https://github.com/jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)  
-36 stars per week over 51 weeks  
-1,897 stars, 100 forks, 32 watches  
+37 stars per week over 51 weeks  
+1,898 stars, 100 forks, 32 watches  
 created 2021-03-27, last commit 2022-03-18, main language Python  
 <sub><sup>jupyter, jupyterlab, jupyterlab-extension, lite, pyodide, wasm, webassembly</sup></sub>
 

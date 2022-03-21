@@ -10,8 +10,8 @@ The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 33 stars per week over 601 weeks  
-19,923 stars, 6,689 forks, 559 watches  
-created 2010-09-13, last commit 2022-03-17, main language Python  
+19,925 stars, 6,690 forks, 559 watches  
+created 2010-09-13, last commit 2022-03-21, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
@@ -20,7 +20,7 @@ A computer algebra system written in pure Python
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
 14 stars per week over 620 weeks  
-8,970 stars, 3,620 forks, 291 watches  
+8,969 stars, 3,620 forks, 291 watches  
 created 2010-04-30, last commit 2022-03-19, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 

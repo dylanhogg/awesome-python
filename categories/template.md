@@ -19,7 +19,7 @@ A logical, reasonably standardized, but flexible project structure for doing and
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 16 stars per week over 333 weeks  
-5,561 stars, 1,810 forks, 103 watches  
+5,562 stars, 1,810 forks, 103 watches  
 created 2015-10-30, last commit 2022-03-11, main language Python  
 <sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
 
@@ -29,7 +29,7 @@ created 2015-10-30, last commit 2022-03-11, main language Python
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
 3.41 stars per week over 415 weeks  
-1,418 stars, 149 forks, 40 watches  
+1,419 stars, 149 forks, 40 watches  
 created 2014-04-02, last commit 2022-03-16, main language Python  
 <sub><sup>distribution, git, package, package-creation, project-template, python, release-automation, template-project</sup></sub>
 

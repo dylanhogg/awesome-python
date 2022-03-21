@@ -10,7 +10,7 @@ Network Analysis in Python
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
 17 stars per week over 602 weeks  
-10,469 stars, 2,539 forks, 275 watches  
+10,470 stars, 2,541 forks, 275 watches  
 created 2010-09-06, last commit 2022-03-19, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 

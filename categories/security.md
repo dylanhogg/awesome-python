@@ -10,7 +10,7 @@ Scanner for vulnerabilities in container images, file systems, and Git repositor
 [https://aquasecurity.github.io/trivy/](https://aquasecurity.github.io/trivy/)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 72 stars per week over 153 weeks  
-11,077 stars, 1,046 forks, 119 watches  
+11,078 stars, 1,046 forks, 119 watches  
 created 2019-04-11, last commit 2022-03-20, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
@@ -20,7 +20,7 @@ Bandit is a tool designed to find common security issues in Python code.
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)  
 19 stars per week over 203 weeks  
-3,980 stars, 409 forks, 61 watches  
+3,979 stars, 409 forks, 61 watches  
 created 2018-04-26, last commit 2022-03-20, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 

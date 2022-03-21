@@ -10,7 +10,7 @@ Distributed Task Queue (development branch)
 [https://docs.celeryq.dev](https://docs.celeryq.dev)  
 [https://github.com/celery/celery](https://github.com/celery/celery)  
 27 stars per week over 673 weeks  
-18,832 stars, 4,232 forks, 473 watches  
+18,833 stars, 4,232 forks, 473 watches  
 created 2009-04-24, last commit 2022-03-19, main language Python  
 <sub><sup>amqp, python, python-library, python3, queue-tasks, queue-workers, queued-jobs, redis, redis-queue, sqs, sqs-queue, task-manager, task-runner, task-scheduler</sup></sub>
 
@@ -40,7 +40,7 @@ NumPy aware dynamic Python compiler using LLVM
 [http://numba.pydata.org/](http://numba.pydata.org/)  
 [https://github.com/numba/numba](https://github.com/numba/numba)  
 14 stars per week over 523 weeks  
-7,352 stars, 899 forks, 203 watches  
+7,354 stars, 899 forks, 203 watches  
 created 2012-03-08, last commit 2022-03-18, main language Python  
 <sub><sup>compiler, cuda, llvm, numpy, parallel, python, rocm</sup></sub>
 
@@ -50,7 +50,7 @@ Modin: Speed up your Pandas workflows by changing a single line of code
 [http://modin.readthedocs.io](http://modin.readthedocs.io)  
 [https://github.com/modin-project/modin](https://github.com/modin-project/modin)  
 35 stars per week over 195 weeks  
-6,985 stars, 495 forks, 106 watches  
+6,986 stars, 495 forks, 106 watches  
 created 2018-06-21, last commit 2022-03-18, main language Python  
 <sub><sup>dataframe, datascience, distributed, modin, pandas, pandas-on-ray, python, ray, sql</sup></sub>
 
@@ -70,7 +70,7 @@ Real-time monitor and web admin for Celery distributed task queue
 [https://flower.readthedocs.io](https://flower.readthedocs.io)  
 [https://github.com/mher/flower](https://github.com/mher/flower)  
 10 stars per week over 506 weeks  
-5,132 stars, 916 forks, 142 watches  
+5,133 stars, 916 forks, 142 watches  
 created 2012-07-08, last commit 2021-11-25, main language Python  
 <sub><sup>administration, asynchronous, celery, monitoring, python, rabbitmq, redis, task-queue, workers</sup></sub>
 
@@ -164,7 +164,7 @@ Perf monitoring CLI tool for Apple Silicon
 [https://tlkh.github.io/asitop/](https://tlkh.github.io/asitop/)  
 [https://github.com/tlkh/asitop](https://github.com/tlkh/asitop)  
 21 stars per week over 20 weeks  
-445 stars, 24 forks, 5 watches  
+448 stars, 24 forks, 5 watches  
 created 2021-10-27, last commit 2022-03-19, main language Python  
 <sub><sup>apple-silicon, cli, cpu, gpu, m1, macos</sup></sub>
 

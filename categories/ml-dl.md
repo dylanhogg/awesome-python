@@ -10,7 +10,7 @@ An Open Source Machine Learning Framework for Everyone
 [https://tensorflow.org](https://tensorflow.org)  
 [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)  
 492 stars per week over 332 weeks  
-163,716 stars, 86,511 forks, 7,895 watches  
+163,724 stars, 86,513 forks, 7,896 watches  
 created 2015-11-07, last commit 2022-03-21, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow</sup></sub>
 
@@ -20,8 +20,8 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration
 [https://pytorch.org](https://pytorch.org)  
 [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)  
 187 stars per week over 292 weeks  
-54,744 stars, 15,140 forks, 1,599 watches  
-created 2016-08-13, last commit 2022-03-19, main language C++  
+54,748 stars, 15,144 forks, 1,599 watches  
+created 2016-08-13, last commit 2022-03-21, main language C++  
 <sub><sup>autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor</sup></sub>
 
 
@@ -30,7 +30,7 @@ Deep Learning for humans
 [http://keras.io/](http://keras.io/)  
 [https://github.com/keras-team/keras](https://github.com/keras-team/keras)  
 150 stars per week over 364 weeks  
-54,679 stars, 19,032 forks, 1,972 watches  
+54,679 stars, 19,031 forks, 1,972 watches  
 created 2015-03-28, last commit 2022-03-18, main language Python  
 <sub><sup>data-science, deep-learning, machine-learning, neural-networks, python, tensorflow</sup></sub>
 
@@ -50,7 +50,7 @@ PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial P
 [http://www.paddlepaddle.org/](http://www.paddlepaddle.org/)  
 [https://github.com/PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)  
 60 stars per week over 292 weeks  
-17,808 stars, 4,353 forks, 734 watches  
+17,808 stars, 4,355 forks, 733 watches  
 created 2016-08-15, last commit 2022-03-21, main language C++  
 <sub><sup>deep-learning, distributed-training, efficiency, machine-learning, neural-network, paddlepaddle, python, scalability</sup></sub>
 
@@ -60,7 +60,7 @@ The lightweight PyTorch wrapper for high-performance AI research. Scale your mod
 [https://pytorchlightning.ai](https://pytorchlightning.ai)  
 [https://github.com/PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)  
 114 stars per week over 155 weeks  
-17,711 stars, 2,232 forks, 223 watches  
+17,714 stars, 2,234 forks, 223 watches  
 created 2019-03-31, last commit 2022-03-19, main language Python  
 <sub><sup>ai, artificial-intelligence, data-science, deep-learning, machine-learning, python, pytorch</sup></sub>
 
@@ -70,7 +70,7 @@ PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientN
 [https://rwightman.github.io/pytorch-image-models/](https://rwightman.github.io/pytorch-image-models/)  
 [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)  
 104 stars per week over 163 weeks  
-17,102 stars, 2,834 forks, 266 watches  
+17,113 stars, 2,836 forks, 266 watches  
 created 2019-02-02, last commit 2022-02-02, main language Python  
 <sub><sup>augmix, cnn-classification, distributed-training, dual-path-networks, efficientnet, efficientnet-training, imagenet-classifier, mixnet, mnasnet, mobile-deep-learning, mobilenet-v2, mobilenetv3, nfnets, normalization-free-training, pretrained-models, pretrained-weights, pytorch, randaugment, resnet, vision-transformer-models</sup></sub>
 
@@ -79,7 +79,7 @@ created 2019-02-02, last commit 2022-02-02, main language Python
 Jupyter notebooks for the code samples of the book "Deep Learning with Python"  
 [https://github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)  
 63 stars per week over 236 weeks  
-15,015 stars, 7,406 forks, 642 watches  
+15,016 stars, 7,407 forks, 642 watches  
 created 2017-09-05, last commit 2022-02-10, main language Jupyter Notebook  
 
 
@@ -88,7 +88,7 @@ Graph Neural Network Library for PyTorch
 [https://pytorch-geometric.readthedocs.io/](https://pytorch-geometric.readthedocs.io/)  
 [https://github.com/pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)  
 60 stars per week over 232 weeks  
-14,117 stars, 2,498 forks, 243 watches  
+14,118 stars, 2,497 forks, 243 watches  
 created 2017-10-06, last commit 2022-03-19, main language Python  
 <sub><sup>deep-learning, geometric-deep-learning, graph-convolutional-networks, graph-neural-networks, pytorch</sup></sub>
 
@@ -98,7 +98,7 @@ Fast image augmentation library and an easy-to-use wrapper around other librarie
 [https://albumentations.ai](https://albumentations.ai)  
 [https://github.com/albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)  
 49 stars per week over 197 weeks  
-9,870 stars, 1,270 forks, 124 watches  
+9,871 stars, 1,270 forks, 124 watches  
 created 2018-06-06, last commit 2022-02-13, main language Python  
 <sub><sup>augmentation, deep-learning, detection, fast-augmentations, image-augmentation, image-classification, image-processing, image-segmentation, machine-learning, object-detection, python, segmentation</sup></sub>
 
@@ -117,7 +117,7 @@ created 2018-04-20, last commit 2022-03-14, main language Python
 End-to-End Object Detection with Transformers  
 [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)  
 89 stars per week over 94 weeks  
-8,507 stars, 1,509 forks, 147 watches  
+8,513 stars, 1,511 forks, 147 watches  
 created 2020-05-26, last commit 2022-03-07, main language Python  
 
 
@@ -146,7 +146,7 @@ Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 [http://tensorlayer.org](http://tensorlayer.org)  
 [https://github.com/tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)  
 22 stars per week over 301 weeks  
-6,940 stars, 1,556 forks, 463 watches  
+6,939 stars, 1,555 forks, 463 watches  
 created 2016-06-07, last commit 2021-10-29, main language Python  
 <sub><sup>a3c, artificial-intelligence, chatbot, deep-learning, dqn, gan, google, imagenet, neural-network, object-detection, python, reinforcement-learning, tensorflow, tensorflow-tutorial, tensorflow-tutorials, tensorlayer</sup></sub>
 
@@ -155,7 +155,7 @@ created 2016-06-07, last commit 2021-10-29, main language Python
 Trax — Deep Learning with Clear Code and Speed  
 [https://github.com/google/trax](https://github.com/google/trax)  
 53 stars per week over 128 weeks  
-6,820 stars, 699 forks, 149 watches  
+6,821 stars, 699 forks, 149 watches  
 created 2019-10-05, last commit 2022-02-02, main language Python  
 <sub><sup>deep-learning, deep-reinforcement-learning, jax, machine-learning, numpy, reinforcement-learning, transformer</sup></sub>
 
@@ -165,7 +165,7 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 [https://www.deepspeed.ai/](https://www.deepspeed.ai/)  
 [https://github.com/microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)  
 57 stars per week over 112 weeks  
-6,453 stars, 751 forks, 126 watches  
+6,457 stars, 751 forks, 126 watches  
 created 2020-01-23, last commit 2022-03-18, main language Python  
 <sub><sup>billion-parameters, data-parallelism, deep-learning, gpu, inference, machine-learning, model-parallelism, pipeline-parallelism, pytorch</sup></sub>
 
@@ -185,7 +185,7 @@ PyTorch3D is FAIR's library of reusable components for deep learning with 3D dat
 [https://pytorch3d.org/](https://pytorch3d.org/)  
 [https://github.com/facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)  
 45 stars per week over 125 weeks  
-5,756 stars, 838 forks, 137 watches  
+5,759 stars, 838 forks, 137 watches  
 created 2019-10-25, last commit 2022-03-17, main language Python  
 
 
@@ -212,7 +212,7 @@ created 2020-01-10, last commit 2022-03-18, main language Python
 [https://thinc.ai](https://thinc.ai)  
 [https://github.com/explosion/thinc](https://github.com/explosion/thinc)  
 6.4 stars per week over 387 weeks  
-2,480 stars, 243 forks, 83 watches  
+2,481 stars, 243 forks, 84 watches  
 created 2014-10-16, last commit 2022-03-18, main language Python  
 <sub><sup>ai, artificial-intelligence, deep-learning, functional-programming, jax, machine-learning, machine-learning-library, mxnet, natural-language-processing, nlp, python, pytorch, spacy, tensorflow, type-checking</sup></sub>
 
@@ -260,6 +260,15 @@ Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)
 created 2021-10-21, last commit 2022-02-03, main language Python  
 
 
+### [ModernConvNets](https://github.com/Nyandwi/ModernConvNets) by [Nyandwi](https://github.com/Nyandwi)  
+Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
+[https://github.com/Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets)  
+25 stars per week over 5 weeks  
+140 stars, 14 forks, 5 watches  
+created 2022-02-10, last commit 2022-03-13, main language Jupyter Notebook  
+<sub><sup>cnns, computer-vision, convnets, convolutional-neural-networks, deep-learning-algorithms, image-classification, keras, neural-networks, tensorflow</sup></sub>
+
+
 ### [auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow) by [rafiqhasan](https://github.com/rafiqhasan)  
 Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - https://www.linkedin.com/in/sam04/  
 [https://github.com/rafiqhasan/auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow)  
@@ -267,15 +276,6 @@ Build Low Code Automated Tensorflow explainable models in just 3 lines of code. 
 136 stars, 28 forks, 9 watches  
 created 2021-07-05, last commit 2021-11-29, main language Python  
 <sub><sup>auto-tensorflow, automl, autotensorflow, deeplearning, machine-learning, machinelearning, neural-networks, tensorflow, tfx</sup></sub>
-
-
-### [ModernConvNets](https://github.com/Nyandwi/ModernConvNets) by [Nyandwi](https://github.com/Nyandwi)  
-Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
-[https://github.com/Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets)  
-23 stars per week over 5 weeks  
-131 stars, 14 forks, 3 watches  
-created 2022-02-10, last commit 2022-03-13, main language Jupyter Notebook  
-<sub><sup>cnns, computer-vision, convnets, convolutional-neural-networks, deep-learning-algorithms, image-classification, keras, neural-networks, tensorflow</sup></sub>
 
 
 This file was automatically generated on 2022-03-21.  

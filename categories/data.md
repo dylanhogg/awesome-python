@@ -20,7 +20,7 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 54 stars per week over 603 weeks  
-33,089 stars, 14,140 forks, 1,098 watches  
+33,093 stars, 14,142 forks, 1,099 watches  
 created 2010-08-24, last commit 2022-03-20, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
@@ -40,7 +40,7 @@ Ready-to-use OCR with 80+ supported languages and all popular writing scripts in
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 133 stars per week over 105 weeks  
-14,068 stars, 1,927 forks, 271 watches  
+14,071 stars, 1,927 forks, 272 watches  
 created 2020-03-14, last commit 2022-03-02, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -50,7 +50,7 @@ Faker is a Python package that generates fake data for you.
 [http://faker.rtfd.org](http://faker.rtfd.org)  
 [https://github.com/joke2k/faker](https://github.com/joke2k/faker)  
 28 stars per week over 488 weeks  
-13,892 stars, 1,588 forks, 215 watches  
+13,893 stars, 1,588 forks, 215 watches  
 created 2012-11-12, last commit 2022-03-14, main language Python  
 <sub><sup>dataset, fake, fake-data, python, test-data, test-data-generator, testing</sup></sub>
 
@@ -59,7 +59,7 @@ created 2012-11-12, last commit 2022-03-14, main language Python
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 51 stars per week over 249 weeks  
-12,732 stars, 2,110 forks, 292 watches  
+12,734 stars, 2,111 forks, 292 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -79,7 +79,7 @@ Apache Arrow is a multi-language toolbox for accelerated data interchange and in
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
 29 stars per week over 317 weeks  
-9,256 stars, 2,273 forks, 340 watches  
+9,256 stars, 2,274 forks, 340 watches  
 created 2016-02-17, last commit 2022-03-19, main language C++  
 <sub><sup>arrow</sup></sub>
 
@@ -89,7 +89,7 @@ Create HTML profiling reports from pandas DataFrame objects
 [https://pandas-profiling.ydata.ai](https://pandas-profiling.ydata.ai)  
 [https://github.com/pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
 26 stars per week over 323 weeks  
-8,660 stars, 1,267 forks, 152 watches  
+8,661 stars, 1,267 forks, 152 watches  
 created 2016-01-09, last commit 2022-03-01, main language Jupyter Notebook  
 <sub><sup>big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, hacktoberfest, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, python, statistics</sup></sub>
 
@@ -98,7 +98,7 @@ created 2016-01-09, last commit 2022-03-01, main language Jupyter Notebook
 Incredibly fast crawler designed for OSINT.  
 [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)  
 41 stars per week over 207 weeks  
-8,511 stars, 1,272 forks, 317 watches  
+8,512 stars, 1,272 forks, 316 watches  
 created 2018-03-30, last commit 2022-03-16, main language Python  
 <sub><sup>crawler, information-gathering, osint, python, spider</sup></sub>
 
@@ -118,7 +118,7 @@ An open source multi-tool for exploring and publishing data
 [https://datasette.io](https://datasette.io)  
 [https://github.com/simonw/datasette](https://github.com/simonw/datasette)  
 25 stars per week over 230 weeks  
-5,876 stars, 408 forks, 95 watches  
+5,878 stars, 408 forks, 95 watches  
 created 2017-10-23, last commit 2022-03-20, main language Python  
 <sub><sup>asgi, automatic-api, csv, datasets, datasette, datasette-io, docker, json, python, sql, sqlite</sup></sub>
 
@@ -128,7 +128,7 @@ created 2017-10-23, last commit 2022-03-20, main language Python
 [http://pyod.readthedocs.io](http://pyod.readthedocs.io)  
 [https://github.com/yzhao062/pyod](https://github.com/yzhao062/pyod)  
 23 stars per week over 232 weeks  
-5,371 stars, 1,053 forks, 150 watches  
+5,372 stars, 1,054 forks, 150 watches  
 created 2017-10-03, last commit 2022-03-05, main language Python  
 <sub><sup>anomaly, anomaly-detection, autoencoder, data-analysis, data-mining, data-science, deep-learning, fraud-detection, machine-learning, neural-networks, outlier-detection, outlier-ensembles, outliers, python, python2, python3, unsupervised-learning</sup></sub>
 
@@ -138,7 +138,7 @@ The Database Toolkit for Python
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 [https://github.com/sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
 29 stars per week over 172 weeks  
-5,124 stars, 834 forks, 86 watches  
+5,125 stars, 835 forks, 86 watches  
 created 2018-11-27, last commit 2022-03-20, main language Python  
 <sub><sup>python, sql, sqlalchemy</sup></sub>
 
@@ -147,7 +147,7 @@ created 2018-11-27, last commit 2022-03-20, main language Python
 Extract Keywords from sentence or Replace keywords in sentences.  
 [https://github.com/vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext)  
 21 stars per week over 239 weeks  
-5,082 stars, 584 forks, 141 watches  
+5,083 stars, 585 forks, 141 watches  
 created 2017-08-15, last commit 2020-05-03, main language Python  
 <sub><sup>data-extraction, keyword-extraction, nlp, search-in-text, word2vec</sup></sub>
 
@@ -156,7 +156,7 @@ created 2017-08-15, last commit 2020-05-03, main language Python
 A next-generation curated knowledge sharing platform for data scientists and other technical professions.  
 [https://github.com/airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo)  
 17 stars per week over 291 weeks  
-5,041 stars, 688 forks, 187 watches  
+5,043 stars, 688 forks, 187 watches  
 created 2016-08-17, last commit 2022-03-21, main language Python  
 <sub><sup>data, data-analysis, data-science, knowledge</sup></sub>
 
@@ -174,7 +174,7 @@ A data augmentations library for audio, image, text, and video.
 [https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)  
 [https://github.com/facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)  
 107 stars per week over 40 weeks  
-4,358 stars, 231 forks, 59 watches  
+4,359 stars, 231 forks, 59 watches  
 created 2021-06-09, last commit 2022-03-12, main language Python  
 
 
@@ -192,7 +192,7 @@ Mimesis is a high-performance fake data generator for Python, which provides dat
 [https://mimesis.name](https://mimesis.name)  
 [https://github.com/lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis)  
 12 stars per week over 288 weeks  
-3,507 stars, 288 forks, 66 watches  
+3,506 stars, 288 forks, 66 watches  
 created 2016-09-09, last commit 2022-03-18, main language Python  
 <sub><sup>api-mock, data, datascience, dummy, fake, faker, fixtures, generator, json, json-generator, mimesis, mock, python, schema, synthetic-data, testing</sup></sub>
 
@@ -230,7 +230,7 @@ PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allow
 [http://praw.readthedocs.io/](http://praw.readthedocs.io/)  
 [https://github.com/praw-dev/praw](https://github.com/praw-dev/praw)  
 4.52 stars per week over 604 weeks  
-2,733 stars, 436 forks, 69 watches  
+2,734 stars, 436 forks, 69 watches  
 created 2010-08-19, last commit 2022-03-05, main language Python  
 <sub><sup>api, oauth, praw, python, reddit, reddit-api</sup></sub>
 
@@ -288,7 +288,7 @@ created 2014-01-20, last commit 2022-03-07, main language Python
 PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer  
 [https://github.com/graphistry/pygraphistry](https://github.com/graphistry/pygraphistry)  
 4.39 stars per week over 354 weeks  
-1,557 stars, 155 forks, 45 watches  
+1,558 stars, 155 forks, 45 watches  
 created 2015-06-02, last commit 2022-03-17, main language Python  
 <sub><sup>analytics, blazingsql, csv, cuda, cudf, cugraph, dashboards, gpu, graph, graphistry, neo4j, networkx, notebooks, pandas, python, rapids, splunk, tigergraph, visualization, webgl</sup></sub>
 
@@ -336,7 +336,7 @@ python async orm with fastapi in mind and pydantic validation
 [https://collerek.github.io/ormar/](https://collerek.github.io/ormar/)  
 [https://github.com/collerek/ormar](https://github.com/collerek/ormar)  
 10 stars per week over 85 weeks  
-864 stars, 44 forks, 13 watches  
+866 stars, 44 forks, 13 watches  
 created 2020-08-02, last commit 2022-02-25, main language Python  
 <sub><sup>alembic, async-orm, databases, fastapi, orm, pydantic, python-orm, sqlalchemy</sup></sub>
 
@@ -377,7 +377,7 @@ Python CLI utility and library for manipulating SQLite databases
 [https://github.com/simonw/sqlite-utils](https://github.com/simonw/sqlite-utils)  
 3.77 stars per week over 192 weeks  
 725 stars, 61 forks, 15 watches  
-created 2018-07-14, last commit 2022-03-11, main language Python  
+created 2018-07-14, last commit 2022-03-21, main language Python  
 <sub><sup>cli, click, datasette, datasette-io, datasette-tool, python, sqlite, sqlite-database</sup></sub>
 
 
@@ -386,7 +386,7 @@ created 2018-07-14, last commit 2022-03-11, main language Python
 [https://docs.whale.cx](https://docs.whale.cx)  
 [https://github.com/hyperqueryhq/whale](https://github.com/hyperqueryhq/whale)  
 7.14 stars per week over 94 weeks  
-676 stars, 36 forks, 39 watches  
+676 stars, 36 forks, 40 watches  
 created 2020-05-27, last commit 2022-01-04, main language Python  
 <sub><sup>data-catalog, data-discovery, data-documentation</sup></sub>
 
@@ -395,8 +395,8 @@ created 2020-05-27, last commit 2022-01-04, main language Python
 Fastest library to load data from DB to DataFrames in Rust and Python  
 [https://sfu-db.github.io/connector-x/intro.html](https://sfu-db.github.io/connector-x/intro.html)  
 [https://github.com/sfu-db/connector-x](https://github.com/sfu-db/connector-x)  
-9.41 stars per week over 61 weeks  
-581 stars, 41 forks, 18 watches  
+9.43 stars per week over 61 weeks  
+582 stars, 41 forks, 18 watches  
 created 2021-01-13, last commit 2022-03-19, main language Rust  
 <sub><sup>database, dataframe, python, rust, sql</sup></sub>
 
@@ -417,7 +417,7 @@ A scalable general purpose micro-framework for defining dataflows. You can use i
 [https://github.com/stitchfix/hamilton](https://github.com/stitchfix/hamilton)  
 4.24 stars per week over 94 weeks  
 402 stars, 15 forks, 12 watches  
-created 2020-05-26, last commit 2022-03-07, main language Python  
+created 2020-05-26, last commit 2022-03-21, main language Python  
 <sub><sup>dag, data-engineering, data-platform, data-science, dataframe, etl, etl-framework, etl-pipeline, feature-engineering, featurization, hamilton, hamiltonian, machine-learning, numpy, pandas, python, software-engineering, stitch-fix</sup></sub>
 
 
