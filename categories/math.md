@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 6 curated math Python libraries and frameworks ordered by stars.  
+A selection of 7 curated math Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 The fundamental package for scientific computing with Python.  
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
-32 stars per week over 595 weeks  
-19,617 stars, 6,529 forks, 561 watches  
-created 2010-09-13, last commit 2022-02-13, main language Python  
+33 stars per week over 601 weeks  
+19,923 stars, 6,689 forks, 559 watches  
+created 2010-09-13, last commit 2022-03-17, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2010-09-13, last commit 2022-02-13, main language Python
 A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-14 stars per week over 615 weeks  
-8,862 stars, 3,599 forks, 289 watches  
-created 2010-04-30, last commit 2022-02-12, main language Python  
+14 stars per week over 620 weeks  
+8,970 stars, 3,620 forks, 291 watches  
+created 2010-04-30, last commit 2022-03-19, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -29,9 +29,9 @@ created 2010-04-30, last commit 2022-02-12, main language Python
 Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
-1.16 stars per week over 531 weeks  
-616 stars, 135 forks, 35 watches  
-created 2011-12-07, last commit 2021-03-27, main language Python  
+1.18 stars per week over 536 weeks  
+634 stars, 136 forks, 36 watches  
+created 2011-12-07, last commit 2022-02-14, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
 
@@ -39,30 +39,40 @@ created 2011-12-07, last commit 2021-03-27, main language Python
 Python package for information theory.  
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
-0.84 stars per week over 437 weeks  
-367 stars, 72 forks, 24 watches  
-created 2013-09-29, last commit 2022-02-06, main language Python  
+0.84 stars per week over 442 weeks  
+372 stars, 73 forks, 24 watches  
+created 2013-09-29, last commit 2022-03-20, main language Python  
 <sub><sup>information-theory, python</sup></sub>
 
 
 ### [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) by [WillianFuks](https://github.com/WillianFuks)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact)  
-3.24 stars per week over 77 weeks  
-252 stars, 35 forks, 9 watches  
+3.3 stars per week over 83 weeks  
+274 stars, 39 forks, 10 watches  
 created 2020-08-17, last commit 2021-10-08, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
+
+
+### [PyNeuraLogic](https://github.com/LukasZahradnik/PyNeuraLogic) by [LukasZahradnik](https://github.com/LukasZahradnik)  
+PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
+[https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
+[https://github.com/LukasZahradnik/PyNeuraLogic](https://github.com/LukasZahradnik/PyNeuraLogic)  
+0.74 stars per week over 67 weeks  
+50 stars, 6 forks, 3 watches  
+created 2020-12-06, last commit 2022-03-20, main language Python  
+<sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, python, pytorch, relational-learning</sup></sub>
 
 
 ### [pacal](https://github.com/jszymon/pacal) by [jszymon](https://github.com/jszymon)  
 PaCAL - ProbAbilistic CALculator  
 [https://github.com/jszymon/pacal](https://github.com/jszymon/pacal)  
-0.05 stars per week over 392 weeks  
+0.05 stars per week over 398 weeks  
 20 stars, 8 forks, 6 watches  
 created 2014-08-04, last commit 2021-11-05, main language Python  
 
 
-This file was automatically generated on 2022-02-14.  
+This file was automatically generated on 2022-03-21.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
