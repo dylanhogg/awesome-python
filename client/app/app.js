@@ -1,4 +1,4 @@
-var version = "v0.0.3";
+var version = "v0.0.4";
 
 $(document).ready( function () {
     $("#table").DataTable( {
@@ -8,6 +8,10 @@ $(document).ready( function () {
             dataSrc: 'data'
         },
         order: [[ 4, "desc" ]],
+        paging: true,
+        lengthChange: false,
+        lengthMenu: [ 10, 100, 1000, 10000 ],
+        pageLength: 10,
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
@@ -77,7 +81,6 @@ $(document).ready( function () {
             render: function(data, type, row, meta) { return data.toFixed(0); }
           },
         ],
-        paging: false,
     });
 
     $('#table').on('click', '.modal-ajax', function(e) {
