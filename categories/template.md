@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
 36 stars per week over 455 weeks  
-16,536 stars, 1,617 forks, 243 watches  
+16,548 stars, 1,619 forks, 243 watches  
 created 2013-07-14, last commit 2022-03-18, main language Python  
 <sub><sup>cookiecutter, cookiecutter-, python</sup></sub>
 
@@ -19,7 +19,7 @@ A logical, reasonably standardized, but flexible project structure for doing and
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 16 stars per week over 335 weeks  
-5,595 stars, 1,820 forks, 104 watches  
+5,598 stars, 1,821 forks, 104 watches  
 created 2015-10-30, last commit 2022-03-11, main language Python  
 <sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
 
@@ -28,7 +28,7 @@ created 2015-10-30, last commit 2022-03-11, main language Python
 🛠 Python project template generator with batteries included  
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
-3.43 stars per week over 417 weeks  
+3.42 stars per week over 417 weeks  
 1,431 stars, 150 forks, 40 watches  
 created 2014-04-02, last commit 2022-03-28, main language Python  
 <sub><sup>distribution, git, package, package-creation, project-template, python, release-automation, template-project</sup></sub>
@@ -37,8 +37,8 @@ created 2014-04-02, last commit 2022-03-28, main language Python
 ### [python-package-template](https://github.com/TezRomacH/python-package-template) by [TezRomacH](https://github.com/TezRomacH)  
 🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template)  
-6.84 stars per week over 102 weeks  
-703 stars, 56 forks, 4 watches  
+6.85 stars per week over 102 weeks  
+705 stars, 56 forks, 4 watches  
 created 2020-04-15, last commit 2021-11-16, main language Python  
 <sub><sup>best-practices, codestyle, cookiecutter, formatters, makefile, poetry, python, python-packages, semantic-versions, template</sup></sub>
 
@@ -71,7 +71,7 @@ created 2020-02-12, last commit 2022-01-22, main language Makefile
 <sub><sup>cookiecutter, jupyterlab, python, template</sup></sub>
 
 
-This file was automatically generated on 2022-04-04.  
+This file was automatically generated on 2022-04-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

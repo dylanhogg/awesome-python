@@ -10,8 +10,8 @@ Scanner for vulnerabilities in container images, file systems, and Git repositor
 [https://aquasecurity.github.io/trivy/](https://aquasecurity.github.io/trivy/)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 72 stars per week over 155 weeks  
-11,257 stars, 1,068 forks, 121 watches  
-created 2019-04-11, last commit 2022-03-31, main language Go  
+11,269 stars, 1,070 forks, 121 watches  
+created 2019-04-11, last commit 2022-04-04, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
@@ -20,7 +20,7 @@ Bandit is a tool designed to find common security issues in Python code.
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)  
 19 stars per week over 205 weeks  
-4,008 stars, 414 forks, 61 watches  
+4,009 stars, 414 forks, 61 watches  
 created 2018-04-26, last commit 2022-04-02, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
@@ -29,8 +29,8 @@ created 2018-04-26, last commit 2022-04-02, main language Python
 Safety checks your installed dependencies for known security vulnerabilities  
 [https://pyup.io/safety/](https://pyup.io/safety/)  
 [https://github.com/pyupio/safety](https://github.com/pyupio/safety)  
-4.31 stars per week over 284 weeks  
-1,228 stars, 111 forks, 29 watches  
+4.32 stars per week over 284 weeks  
+1,230 stars, 111 forks, 29 watches  
 created 2016-10-19, last commit 2021-04-28, main language Python  
 <sub><sup>python, security, security-vulnerability, travis, vulnerability-detection, vulnerability-scanners</sup></sub>
 
@@ -65,7 +65,7 @@ created 2019-02-03, last commit 2022-03-30, main language Python
 <sub><sup>api, python, snyk</sup></sub>
 
 
-This file was automatically generated on 2022-04-04.  
+This file was automatically generated on 2022-04-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

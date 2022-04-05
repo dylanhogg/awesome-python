@@ -10,8 +10,8 @@ The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 33 stars per week over 603 weeks  
-20,037 stars, 6,754 forks, 560 watches  
-created 2010-09-13, last commit 2022-04-03, main language Python  
+20,052 stars, 6,759 forks, 559 watches  
+created 2010-09-13, last commit 2022-04-04, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
@@ -20,7 +20,7 @@ A computer algebra system written in pure Python
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
 14 stars per week over 622 weeks  
-9,009 stars, 3,629 forks, 291 watches  
+9,016 stars, 3,629 forks, 291 watches  
 created 2010-04-30, last commit 2022-04-03, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
@@ -72,7 +72,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-11-05, main language Python  
 
 
-This file was automatically generated on 2022-04-04.  
+This file was automatically generated on 2022-04-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
