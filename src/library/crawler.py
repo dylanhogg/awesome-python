@@ -58,9 +58,19 @@ def write_files(csv_location, token, output_csv_filename, output_json_filename):
 
     # Write raw results to json table format
     with open(output_json_filename, "w") as f:
-        json_results = df.to_json(orient="table")
+        json_results = df.to_json(orient="table", double_precision=2)
         data = json.loads(json_results)
         json.dump(data, f, indent=4)
+
+    # Write raw results to minimised json
+    output_minjson_filename = output_json_filename.replace(".json", ".min.json") \
+        if ".json" in output_json_filename \
+        else output_json_filename + ".min.json"
+
+    with open(output_minjson_filename, "w") as f:
+        json_results = df.to_json(orient="table", double_precision=2)
+        data = json.loads(json_results)
+        json.dump(data, f, separators=(',', ':'))
 
     # Add markdown columns for local README.md and categories/*.md file lists.
     logger.info(f"Add markdown columns...")
