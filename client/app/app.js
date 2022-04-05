@@ -22,7 +22,8 @@ function getUrlQuery() {
 }
 
 $(document).ready( function () {
-    var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
+    var ajax_url = './github_data.min.json';
+    // var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
     if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
         // Use local testing json data
         ajax_url = '/github_data.json';
