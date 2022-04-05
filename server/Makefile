@@ -11,6 +11,7 @@ AWS_REGION=us-east-1
 ## AWS S3 cp json data to S3 bucket
 s3-deploy-files:
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME}/github_data.json --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME}/github_data.min.json --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)

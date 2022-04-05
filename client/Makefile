@@ -15,11 +15,13 @@ serve-local-app:
 ## Copy processed data to local client for testing
 copy-data-local-app: remove-data-local-app
 	cp ../github_data.json app/
+	cp ../github_data.min.json app/
 	cp -r ../data app/data
 
 ## Remove processed data from local client for testing
 remove-data-local-app:
 	rm app/github_data.json || true
+	rm app/github_data.min.json || true
 	rm -rf app/data
 
 ## Browse local js client
@@ -36,9 +38,10 @@ browse-s3:
 ## AWS S3 cp app to S3
 s3-deploy-app: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
-	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.csv s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp app to S3

@@ -22,11 +22,16 @@ function getUrlQuery() {
 }
 
 $(document).ready( function () {
+    var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
+    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+        // Use local testing json data
+        ajax_url = '/github_data.json';
+    }
+
     var initialSearchTerm = getUrlQuery();
     $("#table").DataTable( {
         ajax: {
-            // url: '/github_data.json',  // Local testing
-            url: 'https://crazy-awesome-python-api.infocruncher.com/github_data.json',
+            url: ajax_url,
             dataSrc: 'data'
         },
         order: [[ 4, "desc" ]],
