@@ -1,6 +1,28 @@
-var version = "v0.0.4";
+var version = "v0.0.5";
+
+function getUrlParams() {
+    // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++) {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars;
+}
+
+function getUrlQuery() {
+    try {
+        var params = getUrlParams();
+        if ("q" in params) { return decodeURI(params["q"]); } else { return ""; }
+    } catch(err) {
+        return "";
+    }
+}
 
 $(document).ready( function () {
+    var initialSearchTerm = getUrlQuery();
     $("#table").DataTable( {
         ajax: {
             // url: '/github_data.json',  // Local testing
@@ -12,6 +34,9 @@ $(document).ready( function () {
         lengthChange: false,
         lengthMenu: [ 10, 100, 1000, 10000 ],
         pageLength: 10,
+        search: {
+           search: initialSearchTerm
+        },
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
