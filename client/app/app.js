@@ -1,4 +1,4 @@
-var version = "v0.0.5";
+var version = "v0.0.6";
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -37,12 +37,14 @@ $(document).ready( function () {
         },
         order: [[ 4, "desc" ]],
         paging: true,
-        lengthChange: false,
-        lengthMenu: [ 10, 100, 1000, 10000 ],
+        lengthChange: true,
+        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
         pageLength: 10,
         search: {
            search: initialSearchTerm
         },
+        // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
+        dom: 'frtilp',
         columns: [
           { data: "_readme_localurl", title: "",
             orderable: false,
@@ -55,7 +57,7 @@ $(document).ready( function () {
                 }
             }
           },
-//          { data: "_requirements_localurls", title: "Requrements",
+//          { data: "_requirements_localurls", title: "Requirements",
 //            render: function(data, type, row, meta) {
 //                if (data.length > 0) {
 //                    var links = "";

@@ -1,6 +1,8 @@
 #container {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .jquery-modal .modal {
@@ -46,3 +48,15 @@
 img.info-img:hover {
   opacity: 0.5;
 }
+
+.dataTables_filter {
+    float: left !important;
+    text-align: left;
+    margin-top: 10px;
+}
+
+/*.dataTables_paginate {
+    float: left !important;
+    text-align: left;
+    margin-top: 10px;
+}*/
