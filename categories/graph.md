@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
-17 stars per week over 604 weeks  
-10,546 stars, 2,574 forks, 274 watches  
-created 2010-09-06, last commit 2022-04-05, main language Python  
+17 stars per week over 606 weeks  
+10,640 stars, 2,599 forks, 274 watches  
+created 2010-09-06, last commit 2022-04-20, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2010-09-06, last commit 2022-04-05, main language Python
 StellarGraph - Machine Learning on Graphs  
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
 [https://github.com/stellargraph/stellargraph](https://github.com/stellargraph/stellargraph)  
-11 stars per week over 207 weeks  
-2,341 stars, 355 forks, 61 watches  
+11 stars per week over 210 weeks  
+2,355 stars, 359 forks, 61 watches  
 created 2018-04-13, last commit 2021-10-29, main language Python  
 <sub><sup>data-science, deep-learning, gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, python, saliency-map, stellargraph-library</sup></sub>
 
@@ -28,13 +28,13 @@ created 2018-04-13, last commit 2021-10-29, main language Python
 ### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
 markov clustering in python  
 [https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
-0.5 stars per week over 235 weeks  
-117 stars, 34 forks, 8 watches  
+0.5 stars per week over 238 weeks  
+119 stars, 34 forks, 8 watches  
 created 2017-09-27, last commit 2018-12-11, main language Python  
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2022-04-05.  
+This file was automatically generated on 2022-04-23.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

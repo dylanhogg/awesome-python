@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 JupyterLab computational environment.  
 [https://jupyterlab.readthedocs.io/](https://jupyterlab.readthedocs.io/)  
 [https://github.com/jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)  
-39 stars per week over 304 weeks  
-11,946 stars, 2,290 forks, 320 watches  
-created 2016-06-03, last commit 2022-04-04, main language TypeScript  
+39 stars per week over 307 weeks  
+11,998 stars, 2,316 forks, 320 watches  
+created 2016-06-03, last commit 2022-04-21, main language TypeScript  
 <sub><sup>jupyter, jupyterlab</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2016-06-03, last commit 2022-04-04, main language TypeScript
 Jupyter Interactive Notebook  
 [https://jupyter-notebook.readthedocs.io/](https://jupyter-notebook.readthedocs.io/)  
 [https://github.com/jupyter/notebook](https://github.com/jupyter/notebook)  
-24 stars per week over 364 weeks  
-8,932 stars, 3,731 forks, 314 watches  
-created 2015-04-09, last commit 2022-04-04, main language Jupyter Notebook  
+24 stars per week over 367 weeks  
+8,978 stars, 3,755 forks, 315 watches  
+created 2015-04-09, last commit 2022-04-20, main language Jupyter Notebook  
 <sub><sup>closember, jupyter, jupyter-notebook, notebook</sup></sub>
 
 
@@ -29,8 +29,8 @@ created 2015-04-09, last commit 2022-04-04, main language Jupyter Notebook
 Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts  
 [https://jupytext.readthedocs.io](https://jupytext.readthedocs.io)  
 [https://github.com/mwouts/jupytext](https://github.com/mwouts/jupytext)  
-26 stars per week over 198 weeks  
-5,290 stars, 335 forks, 69 watches  
+26 stars per week over 201 weeks  
+5,334 stars, 341 forks, 69 watches  
 created 2018-06-15, last commit 2022-04-04, main language Python  
 <sub><sup>hydrogen, jupyter-notebook, jupyterlab, jupyterlab-extension, knitr, markdown, notebooks, python, rmarkdown, rstudio, version-control</sup></sub>
 
@@ -39,8 +39,8 @@ created 2018-06-15, last commit 2022-04-04, main language Python
 📚 Parameterize, execute, and analyze notebooks  
 [http://papermill.readthedocs.io/en/latest/](http://papermill.readthedocs.io/en/latest/)  
 [https://github.com/nteract/papermill](https://github.com/nteract/papermill)  
-18 stars per week over 247 weeks  
-4,629 stars, 361 forks, 94 watches  
+18 stars per week over 250 weeks  
+4,656 stars, 365 forks, 94 watches  
 created 2017-07-06, last commit 2022-02-18, main language Python  
 <sub><sup>julia, jupyter, notebook, notebook-generator, notebooks, nteract, pipeline, publishing, python, r, scala</sup></sub>
 
@@ -49,17 +49,17 @@ created 2017-07-06, last commit 2022-02-18, main language Python
 Voilà turns Jupyter notebooks into standalone web applications  
 [https://voila.readthedocs.io](https://voila.readthedocs.io)  
 [https://github.com/voila-dashboards/voila](https://github.com/voila-dashboards/voila)  
-21 stars per week over 189 weeks  
-4,010 stars, 389 forks, 78 watches  
-created 2018-08-21, last commit 2022-03-30, main language Python  
+21 stars per week over 191 weeks  
+4,034 stars, 398 forks, 78 watches  
+created 2018-08-21, last commit 2022-04-20, main language Python  
 <sub><sup>dashboarding, jupyter, jupyter-notebook, jupyterlab-extension</sup></sub>
 
 
 ### [qgrid](https://github.com/quantopian/qgrid) by [quantopian](https://github.com/quantopian)  
 An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks  
 [https://github.com/quantopian/qgrid](https://github.com/quantopian/qgrid)  
-7.22 stars per week over 392 weeks  
-2,829 stars, 398 forks, 89 watches  
+7.2 stars per week over 394 weeks  
+2,841 stars, 403 forks, 89 watches  
 created 2014-09-30, last commit 2020-04-07, main language Python  
 
 
@@ -67,26 +67,26 @@ created 2014-09-30, last commit 2020-04-07, main language Python
 Wasm powered Jupyter running in the browser 💡  
 [https://jupyterlite.rtfd.io/en/latest/try/lab](https://jupyterlite.rtfd.io/en/latest/try/lab)  
 [https://github.com/jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)  
-36 stars per week over 53 weeks  
-1,931 stars, 101 forks, 34 watches  
-created 2021-03-27, last commit 2022-03-31, main language Python  
+35 stars per week over 56 weeks  
+1,972 stars, 102 forks, 37 watches  
+created 2021-03-27, last commit 2022-04-15, main language Python  
 <sub><sup>jupyter, jupyterlab, jupyterlab-extension, lite, pyodide, wasm, webassembly</sup></sub>
 
 
 ### [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) by [jupyterlab](https://github.com/jupyterlab)  
 JupyterLab desktop application, based on Electron.  
 [https://github.com/jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop)  
-6.86 stars per week over 256 weeks  
-1,760 stars, 180 forks, 47 watches  
-created 2017-05-04, last commit 2022-03-28, main language TypeScript  
+6.85 stars per week over 259 weeks  
+1,777 stars, 187 forks, 47 watches  
+created 2017-05-04, last commit 2022-04-22, main language TypeScript  
 <sub><sup>jupyter, jupyter-notebook, jupyterlab</sup></sub>
 
 
 ### [ipyvolume](https://github.com/maartenbreddels/ipyvolume) by [maartenbreddels](https://github.com/maartenbreddels)  
 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL  
 [https://github.com/maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)  
-6.32 stars per week over 275 weeks  
-1,744 stars, 222 forks, 53 watches  
+6.27 stars per week over 278 weeks  
+1,746 stars, 224 forks, 53 watches  
 created 2016-12-21, last commit 2021-11-01, main language TypeScript  
 <sub><sup>dataviz, ipython-widget, jupyter, jupyter-notebook, plotting, python, quiver, rendering-3d-volumes, scientific-visualization, threejs, virtual-reality, visualisation, volume-rendering, webgl</sup></sub>
 
@@ -94,8 +94,8 @@ created 2016-12-21, last commit 2021-11-01, main language TypeScript
 ### [jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) by [jupyter-lsp](https://github.com/jupyter-lsp)  
 Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol  
 [https://github.com/jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp)  
-8.88 stars per week over 137 weeks  
-1,220 stars, 96 forks, 20 watches  
+8.79 stars per week over 140 weeks  
+1,230 stars, 97 forks, 20 watches  
 created 2019-08-17, last commit 2022-03-22, main language TypeScript  
 <sub><sup>autocompletion, ipython, julia-language, jupyter, jupyter-lab, jupyter-notebook, jupyterlab, jupyterlab-extension, language-server-protocol, linter, lsp, notebook, notebook-jupyter, r</sup></sub>
 
@@ -104,8 +104,8 @@ created 2019-08-17, last commit 2022-03-22, main language TypeScript
 🧪 📗  Unit test your Jupyter Notebooks the right way  
 [https://testbook.readthedocs.io](https://testbook.readthedocs.io)  
 [https://github.com/nteract/testbook](https://github.com/nteract/testbook)  
-2.68 stars per week over 109 weeks  
-294 stars, 28 forks, 15 watches  
+2.63 stars per week over 112 weeks  
+296 stars, 29 forks, 15 watches  
 created 2020-02-26, last commit 2021-09-21, main language Python  
 <sub><sup>jupyter-notebook, nteract, pytest, python, testbook, unit-testing</sup></sub>
 
@@ -113,13 +113,13 @@ created 2020-02-26, last commit 2021-09-21, main language Python
 ### [jupyterlab_tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard) by [chaoleili](https://github.com/chaoleili)  
 Tensorboard extension for jupyterlab.  
 [https://github.com/chaoleili/jupyterlab_tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard)  
-1.52 stars per week over 190 weeks  
-288 stars, 30 forks, 11 watches  
+1.49 stars per week over 192 weeks  
+287 stars, 30 forks, 11 watches  
 created 2018-08-14, last commit 2021-02-24, main language TypeScript  
 <sub><sup>jupyterlab, jupyterlab-extension, tensorboard</sup></sub>
 
 
-This file was automatically generated on 2022-04-05.  
+This file was automatically generated on 2022-04-23.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
