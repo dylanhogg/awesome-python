@@ -10,7 +10,7 @@ Streamlit — The fastest way to build data apps in Python
 [https://streamlit.io](https://streamlit.io)  
 [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)  
 134 stars per week over 139 weeks  
-18,707 stars, 1,687 forks, 262 watches  
+18,708 stars, 1,687 forks, 262 watches  
 created 2019-08-24, last commit 2022-04-22, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit</sup></sub>
 
@@ -20,7 +20,7 @@ Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 [https://plotly.com/dash](https://plotly.com/dash)  
 [https://github.com/plotly/dash](https://github.com/plotly/dash)  
 44 stars per week over 367 weeks  
-16,283 stars, 1,682 forks, 401 watches  
+16,283 stars, 1,681 forks, 401 watches  
 created 2015-04-10, last commit 2022-04-22, main language Python  
 <sub><sup>bioinformatics, charting, dash, data-science, data-visualization, finance, flask, gui-framework, julia, jupyter, modeling, plotly, plotly-dash, productivity, python, r, react, rstats, technical-computing, web-app</sup></sub>
 
@@ -40,7 +40,7 @@ matplotlib: plotting with Python
 [https://matplotlib.org/stable](https://matplotlib.org/stable)  
 [https://github.com/matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)  
 26 stars per week over 583 weeks  
-15,367 stars, 6,359 forks, 579 watches  
+15,368 stars, 6,359 forks, 579 watches  
 created 2011-02-19, last commit 2022-04-22, main language Python  
 <sub><sup>data-science, data-visualization, gtk, hacktoberfest, matplotlib, plotting, python, qt, tk, wx</sup></sub>
 
@@ -50,7 +50,7 @@ The interactive graphing library for Python (includes Plotly Express) :sparkles:
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
 25 stars per week over 439 weeks  
-11,361 stars, 2,139 forks, 271 watches  
+11,362 stars, 2,139 forks, 271 watches  
 created 2013-11-21, last commit 2022-04-05, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, python, regl, sparkles, visualization, webgl</sup></sub>
 
@@ -88,7 +88,7 @@ Create UIs for your machine learning model in Python in 3 minutes
 [http://www.gradio.app](http://www.gradio.app)  
 [https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)  
 34 stars per week over 174 weeks  
-5,967 stars, 394 forks, 71 watches  
+5,970 stars, 394 forks, 71 watches  
 created 2018-12-19, last commit 2022-04-22, main language Python  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components</sup></sub>
 
@@ -135,7 +135,7 @@ created 2013-03-21, last commit 2022-04-18, main language Python
 A GUI for Pandas DataFrames  
 [https://github.com/adamerose/pandasgui](https://github.com/adamerose/pandasgui)  
 17 stars per week over 149 weeks  
-2,612 stars, 175 forks, 52 watches  
+2,613 stars, 175 forks, 52 watches  
 created 2019-06-12, last commit 2022-03-16, main language Python  
 <sub><sup>dataframe, gui, pandas, viewer</sup></sub>
 

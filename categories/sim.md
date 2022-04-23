@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 15 curated sim Python libraries and frameworks ordered by stars.  
+A selection of 17 curated sim Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,7 +10,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 [https://www.gymlibrary.ml](https://www.gymlibrary.ml)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 87 stars per week over 312 weeks  
-27,285 stars, 7,780 forks, 998 watches  
+27,286 stars, 7,779 forks, 998 watches  
 created 2016-04-27, last commit 2022-04-21, main language Python  
 
 
@@ -19,7 +19,7 @@ Python sample codes for robotics algorithms.
 [https://pythonrobotics.readthedocs.io/en/latest/](https://pythonrobotics.readthedocs.io/en/latest/)  
 [https://github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 47 stars per week over 317 weeks  
-15,092 stars, 4,924 forks, 492 watches  
+15,093 stars, 4,924 forks, 492 watches  
 created 2016-03-21, last commit 2022-04-19, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -29,7 +29,7 @@ Unity Machine Learning Agents Toolkit
 [https://unity3d.ai](https://unity3d.ai)  
 [https://github.com/Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)  
 52 stars per week over 241 weeks  
-12,776 stars, 3,404 forks, 535 watches  
+12,778 stars, 3,404 forks, 535 watches  
 created 2017-09-08, last commit 2022-01-18, main language C#  
 <sub><sup>deep-learning, deep-reinforcement-learning, neural-networks, reinforcement-learning, unity, unity3d</sup></sub>
 
@@ -39,7 +39,7 @@ Bullet Physics SDK: real-time collision detection and multi-physics simulation f
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
 15 stars per week over 575 weeks  
-9,197 stars, 2,480 forks, 404 watches  
+9,197 stars, 2,479 forks, 404 watches  
 created 2011-04-12, last commit 2022-04-15, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -102,7 +102,17 @@ A modular embodied agent architecture and platform for building embodied agents
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
 9.58 stars per week over 76 weeks  
 735 stars, 68 forks, 34 watches  
-created 2020-11-02, last commit 2022-04-22, main language Jupyter Notebook  
+created 2020-11-02, last commit 2022-04-23, main language Jupyter Notebook  
+
+
+### [pynamical](https://github.com/gboeing/pynamical) by [gboeing](https://github.com/gboeing)  
+Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.  
+[https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/](https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/)  
+[https://github.com/gboeing/pynamical](https://github.com/gboeing/pynamical)  
+1.3 stars per week over 394 weeks  
+513 stars, 108 forks, 33 watches  
+created 2014-09-28, last commit 2021-04-16, main language Python  
+<sub><sup>animation, bifurcation-diagram, chaos, cobweb-plot, fractal, fractals, ipynb, logistic, math, matplotlib, modeling, nonlinear, numba, numpy, pandas, phase-diagram, physics, python, systems, visualization</sup></sub>
 
 
 ### [urbansim](https://github.com/UDST/urbansim) by [UDST](https://github.com/UDST)  
@@ -128,6 +138,15 @@ created 2020-12-11, last commit 2021-11-11, main language Python
 4.96 stars per week over 32 weeks  
 163 stars, 56 forks, 11 watches  
 created 2021-09-05, last commit 2021-09-07, main language Python  
+
+
+### [street-network-models](https://github.com/gboeing/street-network-models) by [gboeing](https://github.com/gboeing)  
+Street network models and indicators for every urban area in the world  
+[https://osf.io/f2dqc](https://osf.io/f2dqc)  
+[https://github.com/gboeing/street-network-models](https://github.com/gboeing/street-network-models)  
+0.54 stars per week over 105 weeks  
+57 stars, 4 forks, 2 watches  
+created 2020-04-13, last commit 2021-03-05, main language Python  
 
 
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  

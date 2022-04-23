@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 12 curated jupyter Python libraries and frameworks ordered by stars.  
+A selection of 14 curated jupyter Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -30,7 +30,7 @@ Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 [https://jupytext.readthedocs.io](https://jupytext.readthedocs.io)  
 [https://github.com/mwouts/jupytext](https://github.com/mwouts/jupytext)  
 26 stars per week over 201 weeks  
-5,334 stars, 341 forks, 69 watches  
+5,335 stars, 341 forks, 69 watches  
 created 2018-06-15, last commit 2022-04-04, main language Python  
 <sub><sup>hydrogen, jupyter-notebook, jupyterlab, jupyterlab-extension, knitr, markdown, notebooks, python, rmarkdown, rstudio, version-control</sup></sub>
 
@@ -50,7 +50,7 @@ Voilà turns Jupyter notebooks into standalone web applications
 [https://voila.readthedocs.io](https://voila.readthedocs.io)  
 [https://github.com/voila-dashboards/voila](https://github.com/voila-dashboards/voila)  
 21 stars per week over 191 weeks  
-4,034 stars, 398 forks, 78 watches  
+4,035 stars, 398 forks, 78 watches  
 created 2018-08-21, last commit 2022-04-20, main language Python  
 <sub><sup>dashboarding, jupyter, jupyter-notebook, jupyterlab-extension</sup></sub>
 
@@ -61,6 +61,16 @@ An interactive grid for sorting, filtering, and editing DataFrames in Jupyter no
 7.2 stars per week over 394 weeks  
 2,841 stars, 403 forks, 89 watches  
 created 2014-09-30, last commit 2020-04-07, main language Python  
+
+
+### [jupyter-book](https://github.com/executablebooks/jupyter-book) by [executablebooks](https://github.com/executablebooks)  
+Create beautiful, publication-quality books and documents from computational content.  
+[http://jupyterbook.org](http://jupyterbook.org)  
+[https://github.com/executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)  
+13 stars per week over 201 weeks  
+2,788 stars, 487 forks, 62 watches  
+created 2018-06-14, last commit 2022-04-21, main language Python  
+<sub><sup>documentation-generator, jupyter, sphinx-doc</sup></sub>
 
 
 ### [jupyterlite](https://github.com/jupyterlite/jupyterlite)  
@@ -117,6 +127,15 @@ Tensorboard extension for jupyterlab.
 287 stars, 30 forks, 11 watches  
 created 2018-08-14, last commit 2021-02-24, main language TypeScript  
 <sub><sup>jupyterlab, jupyterlab-extension, tensorboard</sup></sub>
+
+
+### [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) by [vizzuhq](https://github.com/vizzuhq)  
+ipyvizzu is the Jupyter Notebook integration of Vizzu.  
+[https://github.com/vizzuhq/ipyvizzu](https://github.com/vizzuhq/ipyvizzu)  
+12 stars per week over 15 weeks  
+199 stars, 12 forks, 1 watches  
+created 2022-01-05, last commit 2022-04-18, main language Python  
+<sub><sup>animation, chart, charting, charts, data-visualization, dataviz, graphing, graphs, ipython, jupyter, jupyter-notebook, plotting, python, storytelling, vizzu</sup></sub>
 
 
 This file was automatically generated on 2022-04-23.  

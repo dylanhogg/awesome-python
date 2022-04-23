@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.  
 [https://github.com/PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)  
 49 stars per week over 197 weeks  
-9,837 stars, 1,485 forks, 214 watches  
+9,840 stars, 1,485 forks, 214 watches  
 created 2018-07-11, last commit 2022-04-22, main language Python  
 <sub><sup>beginner-friendly, datavisualization, games, gui, gui-framework, gui-programming, gui-window, popup-window, progress-meter, pyside2, pysimplegui, python, qt, qt-gui, remi, systemtray, tkinter, tkinter-gui, tkinter-python, wxpython</sup></sub>
 

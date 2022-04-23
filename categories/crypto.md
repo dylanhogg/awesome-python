@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
 [https://github.com/ccxt/ccxt](https://github.com/ccxt/ccxt)  
 93 stars per week over 257 weeks  
-24,081 stars, 5,941 forks, 929 watches  
+24,084 stars, 5,941 forks, 929 watches  
 created 2017-05-14, last commit 2022-04-23, main language JavaScript  
 <sub><sup>altcoin, api, arbitrage, bitcoin, bot, btc, crypto, cryptocurrency, e-commerce, eth, ethereum, exchange, invest, library, market-data, merchant, strategy, trade, trading</sup></sub>
 
@@ -19,8 +19,8 @@ Free, open source crypto trading bot
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 66 stars per week over 257 weeks  
-17,142 stars, 3,661 forks, 564 watches  
-created 2017-05-17, last commit 2022-04-18, main language Python  
+17,143 stars, 3,661 forks, 564 watches  
+created 2017-05-17, last commit 2022-04-23, main language Python  
 <sub><sup>algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency, freqtrade, python, telegram-bot, trade, trading-bot</sup></sub>
 
 
@@ -29,7 +29,7 @@ A python interface for interacting with the Ethereum blockchain and ecosystem.
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
 10 stars per week over 314 weeks  
-3,239 stars, 1,047 forks, 98 watches  
+3,242 stars, 1,047 forks, 98 watches  
 created 2016-04-14, last commit 2022-04-21, main language Python  
 
 
@@ -73,7 +73,7 @@ created 2016-12-27, last commit 2022-02-07, main language Python
 Cryptocurrency Exchange Websocket Data Feed Handler  
 [https://github.com/bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed)  
 5.78 stars per week over 227 weeks  
-1,311 stars, 455 forks, 70 watches  
+1,312 stars, 455 forks, 70 watches  
 created 2017-12-16, last commit 2022-04-19, main language Python  
 <sub><sup>asyncio, binance, bitcoin, btc, coinbase, coinbase-api, crypto, cryptocurrencies, cryptocurrency, ethereum, exchange, ftx-exchange, influxdb, market-data, python, trading, trading-platform, websocket, websockets</sup></sub>
 

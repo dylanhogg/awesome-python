@@ -10,7 +10,7 @@ Distributed Task Queue (development branch)
 [https://docs.celeryq.dev](https://docs.celeryq.dev)  
 [https://github.com/celery/celery](https://github.com/celery/celery)  
 28 stars per week over 678 weeks  
-19,168 stars, 4,264 forks, 477 watches  
+19,169 stars, 4,264 forks, 477 watches  
 created 2009-04-24, last commit 2022-04-22, main language Python  
 <sub><sup>amqp, python, python-library, python3, queue-tasks, queue-workers, queued-jobs, redis, redis-queue, sqs, sqs-queue, task-manager, task-runner, task-scheduler</sup></sub>
 
@@ -20,7 +20,7 @@ FlatBuffers: Memory Efficient Serialization Library
 [http://google.github.io/flatbuffers/](http://google.github.io/flatbuffers/)  
 [https://github.com/google/flatbuffers](https://github.com/google/flatbuffers)  
 42 stars per week over 413 weeks  
-17,770 stars, 2,764 forks, 638 watches  
+17,771 stars, 2,764 forks, 638 watches  
 created 2014-05-19, last commit 2022-04-22, main language C++  
 <sub><sup>c, c-plus-plus, c-sharp, cross-platform, flatbuffers, go, grpc, java, javascript, json-parser, marshalling, mmap, protobuf, python, rpc, rust, serialization, serialization-library, typescript, zero-copy</sup></sub>
 
@@ -30,7 +30,7 @@ Parallel computing with task scheduling
 [https://dask.org](https://dask.org)  
 [https://github.com/dask/dask](https://github.com/dask/dask)  
 25 stars per week over 380 weeks  
-9,788 stars, 1,473 forks, 224 watches  
+9,788 stars, 1,474 forks, 224 watches  
 created 2015-01-04, last commit 2022-04-22, main language Python  
 <sub><sup>dask, hacktoberfest, numpy, pandas, pydata, python, scikit-learn, scipy</sup></sub>
 
@@ -50,7 +50,7 @@ Modin: Speed up your Pandas workflows by changing a single line of code
 [http://modin.readthedocs.io](http://modin.readthedocs.io)  
 [https://github.com/modin-project/modin](https://github.com/modin-project/modin)  
 35 stars per week over 200 weeks  
-7,132 stars, 500 forks, 110 watches  
+7,132 stars, 501 forks, 110 watches  
 created 2018-06-21, last commit 2022-04-21, main language Python  
 <sub><sup>dataframe, datascience, distributed, modin, pandas, pandas-on-ray, python, ray, sql</sup></sub>
 
@@ -69,8 +69,8 @@ created 2014-09-27, last commit 2022-04-13, main language Python
 Memray is a memory profiler for Python  
 [https://bloomberg.github.io/memray/](https://bloomberg.github.io/memray/)  
 [https://github.com/bloomberg/memray](https://github.com/bloomberg/memray)  
-2834 stars per week over 2 weeks  
-6,073 stars, 119 forks, 34 watches  
+2863 stars per week over 2 weeks  
+6,135 stars, 126 forks, 34 watches  
 created 2022-04-08, last commit 2022-04-23, main language Python  
 <sub><sup>memory, memory-leak, memory-leak-detection, memory-profiler, profiler, python</sup></sub>
 

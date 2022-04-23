@@ -10,7 +10,7 @@ Optional static typing for Python
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
 26 stars per week over 489 weeks  
-12,944 stars, 2,142 forks, 216 watches  
+12,945 stars, 2,143 forks, 216 watches  
 created 2012-12-07, last commit 2022-04-22, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
@@ -28,7 +28,7 @@ Performant type-checking for python.
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
 25 stars per week over 232 weeks  
-5,859 stars, 380 forks, 100 watches  
+5,858 stars, 380 forks, 100 watches  
 created 2017-11-10, last commit 2022-04-23, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 

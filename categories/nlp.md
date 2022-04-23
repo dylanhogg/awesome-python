@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)  
-337 stars per week over 181 weeks  
-61,416 stars, 14,592 forks, 800 watches  
-created 2018-10-29, last commit 2022-04-22, main language Python  
+338 stars per week over 181 weeks  
+61,422 stars, 14,595 forks, 800 watches  
+created 2018-10-29, last commit 2022-04-23, main language Python  
 <sub><sup>bert, deep-learning, flax, hacktoberfest, jax, language-model, language-models, machine-learning, model-hub, natural-language-processing, nlp, nlp-library, pretrained-models, python, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer</sup></sub>
 
 
@@ -20,7 +20,7 @@ created 2018-10-29, last commit 2022-04-22, main language Python
 [https://spacy.io](https://spacy.io)  
 [https://github.com/explosion/spaCy](https://github.com/explosion/spaCy)  
 56 stars per week over 407 weeks  
-23,185 stars, 3,813 forks, 559 watches  
+23,186 stars, 3,813 forks, 559 watches  
 created 2014-07-03, last commit 2022-04-22, main language Python  
 <sub><sup>ai, artificial-intelligence, cython, data-science, deep-learning, entity-linking, machine-learning, named-entity-recognition, natural-language-processing, neural-network, neural-networks, nlp, nlp-library, python, spacy, text-classification, tokenization</sup></sub>
 
@@ -28,8 +28,8 @@ created 2014-07-03, last commit 2022-04-22, main language Python
 ### [fairseq](https://github.com/pytorch/fairseq) by [pytorch](https://github.com/pytorch)  
 Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
 [https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq)  
-68 stars per week over 242 weeks  
-16,736 stars, 4,415 forks, 333 watches  
+69 stars per week over 242 weeks  
+16,739 stars, 4,415 forks, 333 watches  
 created 2017-08-29, last commit 2022-04-20, main language Python  
 <sub><sup>artificial-intelligence, python, pytorch</sup></sub>
 
@@ -39,7 +39,7 @@ Code for the paper "Language Models are Unsupervised Multitask Learners"
 [https://openai.com/blog/better-language-models/](https://openai.com/blog/better-language-models/)  
 [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)  
 91 stars per week over 166 weeks  
-15,332 stars, 3,915 forks, 587 watches  
+15,333 stars, 3,915 forks, 587 watches  
 created 2019-02-11, last commit 2020-12-02, main language Python  
 <sub><sup>paper</sup></sub>
 
@@ -59,8 +59,8 @@ created 2011-02-10, last commit 2022-04-22, main language Python
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 [https://github.com/huggingface/datasets](https://github.com/huggingface/datasets)  
 120 stars per week over 108 weeks  
-13,091 stars, 1,634 forks, 246 watches  
-created 2020-03-26, last commit 2022-04-22, main language Python  
+13,092 stars, 1,634 forks, 247 watches  
+created 2020-03-26, last commit 2022-04-23, main language Python  
 <sub><sup>computer-vision, datasets, deep-learning, evaluation, machine-learning, metrics, natural-language-processing, nlp, numpy, pandas, pytorch, speech, tensorflow</sup></sub>
 
 
@@ -88,7 +88,7 @@ NLTK Source
 [https://www.nltk.org](https://www.nltk.org)  
 [https://github.com/nltk/nltk](https://github.com/nltk/nltk)  
 16 stars per week over 658 weeks  
-10,669 stars, 2,590 forks, 475 watches  
+10,670 stars, 2,591 forks, 475 watches  
 created 2009-09-07, last commit 2022-04-13, main language Python  
 <sub><sup>machine-learning, natural-language-processing, nlp, nltk, python</sup></sub>
 
@@ -98,7 +98,7 @@ A framework for training and evaluating AI models on a variety of openly availab
 [https://parl.ai](https://parl.ai)  
 [https://github.com/facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)  
 33 stars per week over 260 weeks  
-8,774 stars, 1,831 forks, 287 watches  
+8,775 stars, 1,831 forks, 287 watches  
 created 2017-04-24, last commit 2022-04-20, main language Python  
 
 
@@ -155,8 +155,8 @@ created 2018-05-09, last commit 2022-04-15, main language Python
 Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities  
 [https://github.com/microsoft/unilm](https://github.com/microsoft/unilm)  
 36 stars per week over 143 weeks  
-5,198 stars, 1,015 forks, 143 watches  
-created 2019-07-23, last commit 2022-04-21, main language Python  
+5,199 stars, 1,015 forks, 143 watches  
+created 2019-07-23, last commit 2022-04-23, main language Python  
 <sub><sup>beit, document-ai, document-image-transformers, infoxlm, language-generation, language-understanding, layoutlm, layoutxlm, markuplm, minilm, multimodal-pre-trained-model, nlp, ocr, pre-trained-model, s2s-ft, small-pre-trained-model, trocr, unilm, vlmo, wavlm</sup></sub>
 
 
@@ -192,7 +192,7 @@ NeMo: a toolkit for conversational AI
 [https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/)  
 [https://github.com/NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)  
 29 stars per week over 141 weeks  
-4,118 stars, 958 forks, 127 watches  
+4,118 stars, 959 forks, 127 watches  
 created 2019-08-05, last commit 2022-04-22, main language Jupyter Notebook  
 <sub><sup>deep-learning, language-model, machine-translation, neural-network, nlp, nlp-machine-learning, nmt, speech-recognition, speech-synthesis, speech-to-text, text-to-speech</sup></sub>
 
@@ -201,7 +201,7 @@ created 2019-08-05, last commit 2022-04-22, main language Jupyter Notebook
 Model parallel transformers in JAX and Haiku  
 [https://github.com/kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)  
 69 stars per week over 58 weeks  
-4,045 stars, 520 forks, 68 watches  
+4,047 stars, 521 forks, 68 watches  
 created 2021-03-13, last commit 2022-01-28, main language Python  
 
 
@@ -210,7 +210,7 @@ A PyTorch-based Speech Toolkit
 [http://speechbrain.github.io](http://speechbrain.github.io)  
 [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)  
 38 stars per week over 103 weeks  
-3,939 stars, 756 forks, 109 watches  
+3,940 stars, 756 forks, 109 watches  
 created 2020-04-28, last commit 2022-04-20, main language Python  
 <sub><sup>asr, audio, audio-processing, deep-learning, huggingface, language-model, pytorch, speaker-diarization, speaker-recognition, speaker-verification, speech-enhancement, speech-processing, speech-recognition, speech-separation, speech-to-text, speech-toolkit, speechrecognition, spoken-language-understanding, transformers, voice-recognition</sup></sub>
 
@@ -296,7 +296,7 @@ created 2019-12-02, last commit 2022-03-31, main language Python
 LightSeq: A High Performance Library for Sequence Processing and Generation  
 [https://github.com/bytedance/lightseq](https://github.com/bytedance/lightseq)  
 16 stars per week over 124 weeks  
-2,096 stars, 223 forks, 45 watches  
+2,097 stars, 223 forks, 45 watches  
 created 2019-12-06, last commit 2022-04-21, main language Cuda  
 <sub><sup>accelerate, bart, beam-search, bert, cuda, diverse-decoding, gpt, inference, multilingual-nmt, sampling, training, transformer</sup></sub>
 
@@ -306,7 +306,7 @@ created 2019-12-06, last commit 2022-04-21, main language Cuda
 [https://neuml.github.io/txtai](https://neuml.github.io/txtai)  
 [https://github.com/neuml/txtai](https://github.com/neuml/txtai)  
 23 stars per week over 88 weeks  
-2,078 stars, 202 forks, 44 watches  
+2,083 stars, 202 forks, 44 watches  
 created 2020-08-09, last commit 2022-04-20, main language Python  
 <sub><sup>api, audio-search, cloud-native, contextual-search, deep-learning, document-search, image-search, machine-learning, machine-learning-pipelines, machine-learning-workflows, microservice, neural-search, nlp, python, search, semantic-search, similarity-search, txtai, vector-search, video-search</sup></sub>
 
@@ -412,7 +412,7 @@ created 2017-03-14, last commit 2022-04-21, main language Python
 [https://docs.rubrix.ml](https://docs.rubrix.ml)  
 [https://github.com/recognai/rubrix](https://github.com/recognai/rubrix)  
 19 stars per week over 51 weeks  
-999 stars, 88 forks, 14 watches  
+1,003 stars, 88 forks, 14 watches  
 created 2021-04-28, last commit 2022-04-21, main language Python  
 <sub><sup>active-learning, annotation-tool, artificial-intelligence, data-science, dataops, developer-tools, elasticsearch, human-in-the-loop, knowledge-graph, machine-learning, mlops, natural-language-processing, nlp, python, spacy, text-annotation, text-classification, text-labeling, weak-supervision, weakly-supervised-learning</sup></sub>
 
@@ -473,6 +473,15 @@ created 2020-06-23, last commit 2022-04-07, main language Python
 <sub><sup>dependency-parsing, machine-learning, named-entity-recognition, natural-language-processing, ner, nlp, part-of-speech-tagging, spacy, streamlit, text-classification, tokenization, visualizer, visualizers, word-vectors</sup></sub>
 
 
+### [deepsparse](https://github.com/neuralmagic/deepsparse) by [neuralmagic](https://github.com/neuralmagic)  
+Neural network inference engine that delivers GPU-class performance for sparsified models on CPUs  
+[https://github.com/neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse)  
+7.58 stars per week over 70 weeks  
+536 stars, 40 forks, 20 watches  
+created 2020-12-14, last commit 2022-04-22, main language Python  
+<sub><sup>auto-ml, computer-vision, cpu-inference-api, cpus, deepsparse-engine, inference, machinelearning, ml, nlp, object-detection, onnx, pretrained-models, pruning, pytorch, quantization, sparsification, sparsification-recipe, sparsified-models, tensorflow, yolov3</sup></sub>
+
+
 ### [Blackstone](https://github.com/ICLRandD/Blackstone) by [ICLRandD](https://github.com/ICLRandD)  
 :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.  
 [https://research.iclr.co.uk](https://research.iclr.co.uk)  
@@ -481,15 +490,6 @@ created 2020-06-23, last commit 2022-04-07, main language Python
 535 stars, 85 forks, 36 watches  
 created 2019-03-25, last commit 2021-01-31, main language Python  
 <sub><sup>caselaw, law, legaltech, nlp, spacy-models</sup></sub>
-
-
-### [deepsparse](https://github.com/neuralmagic/deepsparse) by [neuralmagic](https://github.com/neuralmagic)  
-Neural network inference engine that delivers GPU-class performance for sparsified models on CPUs  
-[https://github.com/neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse)  
-7.57 stars per week over 70 weeks  
-535 stars, 40 forks, 20 watches  
-created 2020-12-14, last commit 2022-04-22, main language Python  
-<sub><sup>auto-ml, computer-vision, cpu-inference-api, cpus, deepsparse-engine, inference, machinelearning, ml, nlp, object-detection, onnx, pretrained-models, pruning, pytorch, quantization, sparsification, sparsification-recipe, sparsified-models, tensorflow, yolov3</sup></sub>
 
 
 ### [lexpredict-lexnlp](https://github.com/LexPredict/lexpredict-lexnlp) by [LexPredict](https://github.com/LexPredict)  
@@ -532,8 +532,8 @@ created 2021-05-26, last commit 2022-03-02, main language Python
 Code for CodeT5: a new code-aware pre-trained encoder-decoder model.  
 [https://arxiv.org/abs/2109.00859](https://arxiv.org/abs/2109.00859)  
 [https://github.com/salesforce/CodeT5](https://github.com/salesforce/CodeT5)  
-9.94 stars per week over 35 weeks  
-355 stars, 63 forks, 11 watches  
+9.97 stars per week over 35 weeks  
+356 stars, 63 forks, 11 watches  
 created 2021-08-16, last commit 2022-04-04, main language Python  
 <sub><sup>code-intelligence, language-model, nlp, programming-language, representation-learning</sup></sub>
 
@@ -593,8 +593,8 @@ created 2018-03-23, last commit 2020-05-27, main language Jupyter Notebook
 ### [zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text) by [yoadtew](https://github.com/yoadtew)  
 Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic  
 [https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)  
-3.26 stars per week over 21 weeks  
-69 stars, 9 forks, 7 watches  
+3.36 stars per week over 21 weeks  
+71 stars, 9 forks, 7 watches  
 created 2021-11-26, last commit 2022-03-31, main language Python  
 
 

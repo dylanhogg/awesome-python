@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 58 curated data Python libraries and frameworks ordered by stars.  
+A selection of 59 curated data Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,7 +10,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 [https://scrapy.org](https://scrapy.org)  
 [https://github.com/scrapy/scrapy](https://github.com/scrapy/scrapy)  
 68 stars per week over 634 weeks  
-43,321 stars, 9,597 forks, 1,808 watches  
+43,322 stars, 9,597 forks, 1,808 watches  
 created 2010-02-22, last commit 2022-04-15, main language Python  
 <sub><sup>crawler, crawling, framework, hacktoberfest, python, scraping</sup></sub>
 
@@ -20,7 +20,7 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 55 stars per week over 608 weeks  
-33,497 stars, 14,329 forks, 1,109 watches  
+33,497 stars, 14,330 forks, 1,109 watches  
 created 2010-08-24, last commit 2022-04-22, main language Python  
 <sub><sup>alignment, data-analysis, flexible, pandas, python</sup></sub>
 
@@ -30,7 +30,7 @@ A Powerful Spider(Web Crawler) System in Python.
 [http://docs.pyspider.org/](http://docs.pyspider.org/)  
 [https://github.com/binux/pyspider](https://github.com/binux/pyspider)  
 36 stars per week over 426 weeks  
-15,387 stars, 3,637 forks, 902 watches  
+15,388 stars, 3,637 forks, 902 watches  
 created 2014-02-21, last commit 2020-08-02, main language Python  
 <sub><sup>crawler, python</sup></sub>
 
@@ -40,7 +40,7 @@ Ready-to-use OCR with 80+ supported languages and all popular writing scripts in
 [https://www.jaided.ai/easyocr](https://www.jaided.ai/easyocr)  
 [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)  
 131 stars per week over 110 weeks  
-14,443 stars, 2,007 forks, 275 watches  
+14,444 stars, 2,007 forks, 275 watches  
 created 2020-03-14, last commit 2022-04-09, main language Python  
 <sub><sup>cnn, crnn, data-mining, deep-learning, easyocr, image-processing, information-retrieval, lstm, machine-learning, ocr, optical-character-recognition, python, pytorch, scene-text, scene-text-recognition</sup></sub>
 
@@ -59,7 +59,7 @@ created 2012-11-12, last commit 2022-04-22, main language Python
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 50 stars per week over 254 weeks  
-12,943 stars, 2,163 forks, 290 watches  
+12,945 stars, 2,163 forks, 290 watches  
 created 2017-06-10, last commit 2021-03-02, main language Python  
 <sub><sup>elasticsearch, kibana, osint, python, scrape, scrape-followers, scrape-following, scrape-likes, tweep, tweets, twint, twitter</sup></sub>
 
@@ -79,7 +79,7 @@ Apache Arrow is a multi-language toolbox for accelerated data interchange and in
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
 29 stars per week over 322 weeks  
-9,394 stars, 2,311 forks, 337 watches  
+9,395 stars, 2,312 forks, 337 watches  
 created 2016-02-17, last commit 2022-04-23, main language C++  
 <sub><sup>arrow</sup></sub>
 
@@ -89,7 +89,7 @@ Create HTML profiling reports from pandas DataFrame objects
 [https://pandas-profiling.ydata.ai](https://pandas-profiling.ydata.ai)  
 [https://github.com/pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
 26 stars per week over 328 weeks  
-8,818 stars, 1,296 forks, 151 watches  
+8,819 stars, 1,296 forks, 151 watches  
 created 2016-01-09, last commit 2022-04-06, main language Jupyter Notebook  
 <sub><sup>big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, hacktoberfest, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, python, statistics</sup></sub>
 
@@ -98,7 +98,7 @@ created 2016-01-09, last commit 2022-04-06, main language Jupyter Notebook
 Incredibly fast crawler designed for OSINT.  
 [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)  
 40 stars per week over 212 weeks  
-8,591 stars, 1,283 forks, 315 watches  
+8,592 stars, 1,283 forks, 315 watches  
 created 2018-03-30, last commit 2022-03-16, main language Python  
 <sub><sup>crawler, information-gathering, osint, python, spider</sup></sub>
 
@@ -128,7 +128,7 @@ A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detec
 [http://pyod.readthedocs.io](http://pyod.readthedocs.io)  
 [https://github.com/yzhao062/pyod](https://github.com/yzhao062/pyod)  
 23 stars per week over 237 weeks  
-5,499 stars, 1,085 forks, 149 watches  
+5,500 stars, 1,085 forks, 149 watches  
 created 2017-10-03, last commit 2022-04-04, main language Python  
 <sub><sup>anomaly, anomaly-detection, autoencoder, data-analysis, data-mining, data-science, deep-learning, fraud-detection, machine-learning, neural-networks, outlier-detection, outlier-ensembles, outliers, python, python2, python3, unsupervised-learning</sup></sub>
 
@@ -166,7 +166,7 @@ DuckDB is an in-process SQL OLAP Database Management System
 [http://www.duckdb.org](http://www.duckdb.org)  
 [https://github.com/duckdb/duckdb](https://github.com/duckdb/duckdb)  
 23 stars per week over 199 weeks  
-4,750 stars, 450 forks, 93 watches  
+4,751 stars, 450 forks, 93 watches  
 created 2018-06-26, last commit 2022-04-22, main language C++  
 <sub><sup>analytics, database, embedded-database, olap, sql</sup></sub>
 
@@ -192,7 +192,7 @@ created 2021-06-09, last commit 2022-04-16, main language Python
 A Smart, Automatic, Fast and Lightweight Web Scraper for Python  
 [https://github.com/alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  
 50 stars per week over 85 weeks  
-4,354 stars, 467 forks, 121 watches  
+4,355 stars, 467 forks, 121 watches  
 created 2020-08-31, last commit 2021-02-03, main language Python  
 <sub><sup>ai, artificial-intelligence, automation, crawler, machine-learning, python, scrape, scraper, scraping, web-scraping, webautomation, webscraping</sup></sub>
 
@@ -222,7 +222,7 @@ A Python module for creating Excel XLSX files.
 [https://xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io)  
 [https://github.com/jmcnamara/XlsxWriter](https://github.com/jmcnamara/XlsxWriter)  
 5.94 stars per week over 485 weeks  
-2,882 stars, 565 forks, 120 watches  
+2,883 stars, 565 forks, 120 watches  
 created 2013-01-04, last commit 2022-03-30, main language Python  
 <sub><sup>charts, libxlsxwriter, pandas, python, spreadsheet, xlsx, xlsx-files, xlsxwriter</sup></sub>
 
@@ -303,6 +303,15 @@ created 2015-06-02, last commit 2022-04-12, main language Python
 <sub><sup>analytics, blazingsql, csv, cuda, cudf, cugraph, dashboards, gpu, graph, graphistry, neo4j, networkx, notebooks, pandas, python, rapids, splunk, tigergraph, visualization, webgl</sup></sub>
 
 
+### [alembic](https://github.com/sqlalchemy/alembic) by [sqlalchemy](https://github.com/sqlalchemy)  
+A database migrations tool for SQLAlchemy.  
+[https://github.com/sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)  
+7.51 stars per week over 177 weeks  
+1,334 stars, 140 forks, 20 watches  
+created 2018-11-27, last commit 2022-04-21, main language Python  
+<sub><sup>python, sql, sqlalchemy</sup></sub>
+
+
 ### [orator](https://github.com/sdispater/orator) by [sdispater](https://github.com/sdispater)  
 The Orator ORM provides a simple yet beautiful ActiveRecord implementation.  
 [https://orator-orm.com](https://orator-orm.com)  
@@ -363,8 +372,8 @@ created 2020-08-02, last commit 2022-03-29, main language Python
 Clean APIs for data cleaning. Python implementation of R package Janitor  
 [https://pyjanitor-devs.github.io/pyjanitor](https://pyjanitor-devs.github.io/pyjanitor)  
 [https://github.com/pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor)  
-4.13 stars per week over 215 weeks  
-892 stars, 142 forks, 23 watches  
+4.14 stars per week over 215 weeks  
+893 stars, 143 forks, 23 watches  
 created 2018-03-04, last commit 2022-04-17, main language Python  
 <sub><sup>cleaning-data, data, data-engineering, dataframe, hacktoberfest, pandas, pydata</sup></sub>
 
@@ -413,8 +422,8 @@ created 2020-05-27, last commit 2022-01-04, main language Python
 Fastest library to load data from DB to DataFrames in Rust and Python  
 [https://sfu-db.github.io/connector-x/intro.html](https://sfu-db.github.io/connector-x/intro.html)  
 [https://github.com/sfu-db/connector-x](https://github.com/sfu-db/connector-x)  
-9.27 stars per week over 66 weeks  
-616 stars, 45 forks, 19 watches  
+9.29 stars per week over 66 weeks  
+617 stars, 45 forks, 19 watches  
 created 2021-01-13, last commit 2022-04-21, main language Rust  
 <sub><sup>database, dataframe, python, rust, sql</sup></sub>
 

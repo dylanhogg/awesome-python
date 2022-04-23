@@ -10,7 +10,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 [https://rich.readthedocs.io/en/latest/](https://rich.readthedocs.io/en/latest/)  
 [https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)  
 286 stars per week over 127 weeks  
-36,670 stars, 1,198 forks, 522 watches  
+36,672 stars, 1,198 forks, 522 watches  
 created 2019-11-10, last commit 2022-04-22, main language Python  
 <sub><sup>ansi-colors, emoji, markdown, progress-bar, progress-bar-python, python, python-library, python3, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich</sup></sub>
 
@@ -19,7 +19,7 @@ created 2019-11-10, last commit 2022-04-22, main language Python
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 82 stars per week over 269 weeks  
-22,236 stars, 1,297 forks, 375 watches  
+22,239 stars, 1,297 forks, 375 watches  
 created 2017-02-21, last commit 2022-04-16, main language Python  
 <sub><sup>cli, python</sup></sub>
 
@@ -29,7 +29,7 @@ A Fast, Extensible Progress Bar for Python and CLI
 [https://tqdm.github.io](https://tqdm.github.io)  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 60 stars per week over 359 weeks  
-21,793 stars, 1,121 forks, 202 watches  
+21,794 stars, 1,121 forks, 202 watches  
 created 2015-06-03, last commit 2022-04-04, main language Python  
 <sub><sup>cli, closember, console, discord, gui, jupyter, keras, meter, pandas, parallel, progress, progress-bar, progressbar, progressmeter, python, rate, telegram, terminal, time, utilities</sup></sub>
 
@@ -39,7 +39,7 @@ Python composable command line interface toolkit
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 [https://github.com/pallets/click](https://github.com/pallets/click)  
 29 stars per week over 417 weeks  
-12,338 stars, 1,244 forks, 181 watches  
+12,339 stars, 1,244 forks, 181 watches  
 created 2014-04-24, last commit 2022-04-01, main language Python  
 <sub><sup>cli, click, pallets, python</sup></sub>
 

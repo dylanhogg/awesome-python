@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
 36 stars per week over 457 weeks  
-16,739 stars, 1,633 forks, 243 watches  
+16,740 stars, 1,633 forks, 243 watches  
 created 2013-07-14, last commit 2022-03-18, main language Python  
 <sub><sup>cookiecutter, cookiecutter-, python</sup></sub>
 

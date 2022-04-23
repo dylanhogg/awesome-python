@@ -1,8 +1,18 @@
 # Crazy Awesome Python
-A selection of 41 curated geo Python libraries and frameworks ordered by stars.  
+A selection of 49 curated geo Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
+
+
+### [osmnx](https://github.com/gboeing/osmnx) by [gboeing](https://github.com/gboeing)  
+OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.  
+[https://geoffboeing.com/publications/osmnx-complex-street-networks/](https://geoffboeing.com/publications/osmnx-complex-street-networks/)  
+[https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)  
+11 stars per week over 299 weeks  
+3,548 stars, 683 forks, 116 watches  
+created 2016-07-24, last commit 2022-03-17, main language Python  
+<sub><sup>accessibility, amenities, footprints, geography, geospatial, gis, graphs, maps, network-topology, networks, networkx, openstreetmap, osmnx, overpass-api, spatial-analysis, spatial-data, street-networks, transportation, urban-planning, visualization</sup></sub>
 
 
 ### [geopandas](https://github.com/geopandas/geopandas)  
@@ -11,7 +21,7 @@ Python tools for geographic data
 [https://github.com/geopandas/geopandas](https://github.com/geopandas/geopandas)  
 6.73 stars per week over 460 weeks  
 3,099 stars, 701 forks, 107 watches  
-created 2013-06-27, last commit 2022-04-21, main language Python  
+created 2013-06-27, last commit 2022-04-23, main language Python  
 
 
 ### [gdal](https://github.com/OSGeo/gdal) by [OSGeo](https://github.com/OSGeo)  
@@ -75,9 +85,19 @@ A Python package for interactive mapping and geospatial analysis  with minimal c
 [https://leafmap.org](https://leafmap.org)  
 [https://github.com/giswqs/leafmap](https://github.com/giswqs/leafmap)  
 20 stars per week over 58 weeks  
-1,220 stars, 138 forks, 38 watches  
+1,220 stars, 137 forks, 38 watches  
 created 2021-03-10, last commit 2022-04-19, main language Python  
 <sub><sup>data-science, dataviz, folium, geopython, geospatial, geospatial-analysis, gis, ipyleaflet, jupyter, jupyter-notebook, keplergl, leafmap, mapping, plotly, pydeck, python, streamlit, streamlit-webapp, whiteboxtools</sup></sub>
+
+
+### [osmnx-examples](https://github.com/gboeing/osmnx-examples) by [gboeing](https://github.com/gboeing)  
+Usage examples, demos, and tutorials for OSMnx.  
+[https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)  
+[https://github.com/gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples)  
+4.2 stars per week over 248 weeks  
+1,041 stars, 373 forks, 55 watches  
+created 2017-07-22, last commit 2021-11-17, main language Jupyter Notebook  
+<sub><sup>accessibility, binder, cities, city, jupyter-notebook, network-analysis, notebooks, openstreetmap, street-networks, transport, transportation, urban-analytics, urban-data-science, urban-planning</sup></sub>
 
 
 ### [cartopy](https://github.com/SciTools/cartopy) by [SciTools](https://github.com/SciTools)  
@@ -138,16 +158,6 @@ created 2018-12-16, last commit 2022-04-19, main language Python
 <sub><sup>geopandas, movement-data, python, spatial-data-analysis, trajectory, trajectory-analysis</sup></sub>
 
 
-### [pyproj](https://github.com/pyproj4/pyproj) by [pyproj4](https://github.com/pyproj4)  
-Python interface to PROJ (cartographic projections and coordinate transformations library)  
-[https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)  
-[https://github.com/pyproj4/pyproj](https://github.com/pyproj4/pyproj)  
-1.95 stars per week over 381 weeks  
-743 stars, 177 forks, 29 watches  
-created 2014-12-29, last commit 2022-04-22, main language Python  
-<sub><sup>cartographic-projection, coordinate-systems, coordinate-transformation, geodesic, geospatial, hacktoberfest, python</sup></sub>
-
-
 ### [sentinelsat](https://github.com/sentinelsat/sentinelsat)  
 Search and download Copernicus Sentinel satellite images  
 [https://sentinelsat.readthedocs.io](https://sentinelsat.readthedocs.io)  
@@ -156,6 +166,16 @@ Search and download Copernicus Sentinel satellite images
 743 stars, 212 forks, 58 watches  
 created 2015-05-22, last commit 2022-01-05, main language Python  
 <sub><sup>copernicus, esa, geographic-data, hacktoberfest, open-data, remote-sensing, satellite-imagery, sentinel</sup></sub>
+
+
+### [pyproj](https://github.com/pyproj4/pyproj) by [pyproj4](https://github.com/pyproj4)  
+Python interface to PROJ (cartographic projections and coordinate transformations library)  
+[https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)  
+[https://github.com/pyproj4/pyproj](https://github.com/pyproj4/pyproj)  
+1.95 stars per week over 381 weeks  
+743 stars, 177 forks, 29 watches  
+created 2014-12-29, last commit 2022-04-22, main language Python  
+<sub><sup>cartographic-projection, coordinate-systems, coordinate-transformation, geodesic, geospatial, hacktoberfest, python</sup></sub>
 
 
 ### [torchgeo](https://github.com/microsoft/torchgeo) by [microsoft](https://github.com/microsoft)  
@@ -236,6 +256,16 @@ created 2018-02-20, last commit 2021-12-20, main language Python
 <sub><sup>education, python, raster, spatial-data, vector</sup></sub>
 
 
+### [contextily](https://github.com/geopandas/contextily) by [geopandas](https://github.com/geopandas)  
+Context geo-tiles in Python  
+[https://contextily.readthedocs.io/en/latest/](https://contextily.readthedocs.io/en/latest/)  
+[https://github.com/geopandas/contextily](https://github.com/geopandas/contextily)  
+1.14 stars per week over 293 weeks  
+333 stars, 61 forks, 14 watches  
+created 2016-09-08, last commit 2022-01-13, main language Jupyter Notebook  
+<sub><sup>cartography, geography, mapping, matplotlib, openstreetmap, osm, python, stamen, stamen-maps, tile, tiles, webtiles</sup></sub>
+
+
 ### [pygeos](https://github.com/pygeos/pygeos)  
 Wraps GEOS geometry functions in numpy ufuncs.  
 [https://pygeos.readthedocs.io](https://pygeos.readthedocs.io)  
@@ -265,13 +295,23 @@ created 2016-03-28, last commit 2022-04-21, main language Jupyter Notebook
 <sub><sup>cgal, geometric-algorithms, geometry, python, wrapper</sup></sub>
 
 
-### [spatialpandas](https://github.com/holoviz/spatialpandas) by [holoviz](https://github.com/holoviz)  
-Pandas extension arrays for spatial/geometric operations  
-[https://github.com/holoviz/spatialpandas](https://github.com/holoviz/spatialpandas)  
-1.67 stars per week over 129 weeks  
-217 stars, 19 forks, 17 watches  
-created 2019-10-28, last commit 2021-08-07, main language Python  
-<sub><sup>geographic-data, geopandas, holoviz, pandas, spatialpandas</sup></sub>
+### [dask-geopandas](https://github.com/geopandas/dask-geopandas) by [geopandas](https://github.com/geopandas)  
+Parallel GeoPandas with Dask  
+[https://dask-geopandas.readthedocs.io/](https://dask-geopandas.readthedocs.io/)  
+[https://github.com/geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)  
+2.4 stars per week over 114 weeks  
+274 stars, 27 forks, 22 watches  
+created 2020-02-13, last commit 2022-04-19, main language Python  
+
+
+### [rioxarray](https://github.com/corteva/rioxarray) by [corteva](https://github.com/corteva)  
+geospatial xarray extension powered by rasterio  
+[https://corteva.github.io/rioxarray](https://corteva.github.io/rioxarray)  
+[https://github.com/corteva/rioxarray](https://github.com/corteva/rioxarray)  
+1.71 stars per week over 157 weeks  
+270 stars, 45 forks, 11 watches  
+created 2019-04-16, last commit 2022-04-22, main language Python  
+<sub><sup>gdal, geospatial, gis, hacktoberfest, netcdf, python, raster, rasterio, xarray</sup></sub>
 
 
 ### [pyesridump](https://github.com/openaddresses/pyesridump) by [openaddresses](https://github.com/openaddresses)  
@@ -280,6 +320,15 @@ Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodat
 0.5 stars per week over 437 weeks  
 217 stars, 56 forks, 16 watches  
 created 2013-12-06, last commit 2022-04-01, main language Python  
+
+
+### [spatialpandas](https://github.com/holoviz/spatialpandas) by [holoviz](https://github.com/holoviz)  
+Pandas extension arrays for spatial/geometric operations  
+[https://github.com/holoviz/spatialpandas](https://github.com/holoviz/spatialpandas)  
+1.67 stars per week over 129 weeks  
+217 stars, 19 forks, 17 watches  
+created 2019-10-28, last commit 2021-08-07, main language Python  
+<sub><sup>geographic-data, geopandas, holoviz, pandas, spatialpandas</sup></sub>
 
 
 ### [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) by [cogeotiff](https://github.com/cogeotiff)  
@@ -330,6 +379,25 @@ created 2019-03-01, last commit 2022-04-05, main language Python
 <sub><sup>facility-location, location-allocation, location-modeling, python, regionalization, resource-planning, routing, spatial-analysis, spatial-optimization, transportation</sup></sub>
 
 
+### [gds_env](https://github.com/darribas/gds_env) by [darribas](https://github.com/darribas)  
+A containerised platform for Geographic Data Science  
+[https://darribas.org/gds_env](https://darribas.org/gds_env)  
+[https://github.com/darribas/gds_env](https://github.com/darribas/gds_env)  
+0.3 stars per week over 297 weeks  
+89 stars, 31 forks, 8 watches  
+created 2016-08-12, last commit 2022-04-13, main language Jupyter Notebook  
+<sub><sup>docker, geographic-data-science, jupyter-lab, latex, python, r</sup></sub>
+
+
+### [pyogrio](https://github.com/geopandas/pyogrio) by [geopandas](https://github.com/geopandas)  
+Vectorized vector I/O using OGR  
+[https://pyogrio.readthedocs.io](https://pyogrio.readthedocs.io)  
+[https://github.com/geopandas/pyogrio](https://github.com/geopandas/pyogrio)  
+0.72 stars per week over 108 weeks  
+78 stars, 6 forks, 6 watches  
+created 2020-03-27, last commit 2022-04-23, main language Python  
+
+
 ### [area](https://github.com/scisco/area) by [scisco](https://github.com/scisco)  
 Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python  
 [https://github.com/scisco/area](https://github.com/scisco/area)  
@@ -341,17 +409,18 @@ created 2015-11-25, last commit 2018-10-31, main language Python
 ### [LOD2BuildingModel](https://github.com/GDAOSU/LOD2BuildingModel) by [GDAOSU](https://github.com/GDAOSU)  
 SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite-derived DSM and Orthophoto  
 [https://github.com/GDAOSU/LOD2BuildingModel](https://github.com/GDAOSU/LOD2BuildingModel)  
-2.17 stars per week over 33 weeks  
-73 stars, 18 forks, 5 watches  
+2.19 stars per week over 33 weeks  
+74 stars, 18 forks, 5 watches  
 created 2021-08-30, last commit 2022-04-19, main language Python  
 
 
-### [dataflow-geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam) by [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)  
-  
-[https://github.com/GoogleCloudPlatform/dataflow-geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam)  
-0.76 stars per week over 63 weeks  
-48 stars, 18 forks, 8 watches  
-created 2021-02-04, last commit 2022-04-11, main language Python  
+### [xyzservices](https://github.com/geopandas/xyzservices) by [geopandas](https://github.com/geopandas)  
+Source of XYZ tiles providers  
+[https://xyzservices.readthedocs.io/](https://xyzservices.readthedocs.io/)  
+[https://github.com/geopandas/xyzservices](https://github.com/geopandas/xyzservices)  
+1.5 stars per week over 48 weeks  
+72 stars, 16 forks, 10 watches  
+created 2021-05-21, last commit 2022-04-15, main language Python  
 
 
 ### [mapalignment](https://github.com/Lydorn/mapalignment) by [Lydorn](https://github.com/Lydorn)  
@@ -360,6 +429,14 @@ Aligning and Updating Cadaster Maps with Remote Sensing Images
 0.25 stars per week over 189 weeks  
 48 stars, 12 forks, 4 watches  
 created 2018-09-05, last commit 2020-09-03, main language Python  
+
+
+### [dataflow-geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam) by [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)  
+  
+[https://github.com/GoogleCloudPlatform/dataflow-geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam)  
+0.76 stars per week over 63 weeks  
+48 stars, 18 forks, 8 watches  
+created 2021-02-04, last commit 2022-04-11, main language Python  
 
 
 ### [easystac](https://github.com/cloudsen12/easystac) by [cloudsen12](https://github.com/cloudsen12)  
