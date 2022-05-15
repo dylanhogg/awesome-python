@@ -1,3 +1,4 @@
+import time
 import github
 from loguru import logger
 from typing import List
@@ -18,8 +19,13 @@ class GithubWrapper:
             try:
                 self.cache[key] = self.gh.get_repo(name)
             except Exception as ex:
-                logger.error(f"Exception for name: {name}")
-                raise ex
+                logger.warning(f"Exception for get_repo with name (will re-try once): {name}")
+                try:
+                    time.sleep(30)
+                    self.cache[key] = self.gh.get_repo(name)
+                except Exception as ex:
+                    logger.error(f"Exception for get_repo after re-try with name: {name}")
+                    raise ex
             return self.cache[key]
         else:
             logger.info(f"get_repo: [{name}] (cached)")
