@@ -8,8 +8,8 @@ Checkout the interactive version that you can filter and sort:
 ### [shap](https://github.com/slundberg/shap) by [slundberg](https://github.com/slundberg)  
 A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
-57 stars per week over 285 weeks  
-16,249 stars, 2,462 forks, 248 watches  
+56 stars per week over 285 weeks  
+16,284 stars, 2,472 forks, 248 watches  
 created 2016-11-22, last commit 2022-04-01, main language Jupyter Notebook  
 <sub><sup>deep-learning, explainability, gradient-boosting, interpretability, machine-learning, shap, shapley</sup></sub>
 
@@ -18,7 +18,7 @@ created 2016-11-22, last commit 2022-04-01, main language Jupyter Notebook
 Lime: Explaining the predictions of any machine learning classifier  
 [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)  
 30 stars per week over 321 weeks  
-9,771 stars, 1,603 forks, 273 watches  
+9,790 stars, 1,606 forks, 273 watches  
 created 2016-03-15, last commit 2021-07-29, main language JavaScript  
 
 
@@ -27,8 +27,8 @@ Model interpretability and understanding for PyTorch
 [https://captum.ai](https://captum.ai)  
 [https://github.com/pytorch/captum](https://github.com/pytorch/captum)  
 22 stars per week over 141 weeks  
-3,153 stars, 338 forks, 201 watches  
-created 2019-08-27, last commit 2022-04-19, main language Python  
+3,162 stars, 339 forks, 201 watches  
+created 2019-08-27, last commit 2022-05-12, main language Python  
 <sub><sup>feature-attribution, feature-importance, interpretability, interpretable-ai, interpretable-ml</sup></sub>
 
 
@@ -37,7 +37,7 @@ The Language Interpretability Tool: Interactively analyze NLP models for model u
 [https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
 [https://github.com/pair-code/lit](https://github.com/pair-code/lit)  
 31 stars per week over 93 weeks  
-2,922 stars, 304 forks, 73 watches  
+2,924 stars, 305 forks, 73 watches  
 created 2020-07-28, last commit 2022-03-15, main language Python  
 <sub><sup>machine-learning, natural-language-processing, visualization</sup></sub>
 
@@ -47,8 +47,8 @@ Algorithms for explaining machine learning models
 [https://docs.seldon.io/projects/alibi/en/latest/](https://docs.seldon.io/projects/alibi/en/latest/)  
 [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi)  
 9.56 stars per week over 167 weeks  
-1,596 stars, 185 forks, 42 watches  
-created 2019-02-26, last commit 2022-05-10, main language Python  
+1,603 stars, 185 forks, 42 watches  
+created 2019-02-26, last commit 2022-05-13, main language Python  
 <sub><sup>counterfactual, explanations, interpretability, machine-learning, xai</sup></sub>
 
 
@@ -56,8 +56,8 @@ created 2019-02-26, last commit 2022-05-10, main language Python
 Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
 [https://ecco.readthedocs.io](https://ecco.readthedocs.io)  
 [https://github.com/jalammar/ecco](https://github.com/jalammar/ecco)  
-17 stars per week over 78 weeks  
-1,389 stars, 94 forks, 16 watches  
+17 stars per week over 79 weeks  
+1,408 stars, 96 forks, 17 watches  
 created 2020-11-07, last commit 2022-01-18, main language Jupyter Notebook  
 <sub><sup>explorables, language-models, natural-language-processing, nlp, pytorch, visualization</sup></sub>
 
@@ -66,8 +66,8 @@ created 2020-11-07, last commit 2022-01-18, main language Jupyter Notebook
 Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
 [https://github.com/oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard)  
-9.18 stars per week over 131 weeks  
-1,210 stars, 155 forks, 14 watches  
+9.22 stars per week over 132 weeks  
+1,222 stars, 157 forks, 14 watches  
 created 2019-10-30, last commit 2022-05-10, main language Python  
 <sub><sup>dash, dashboard, data-scientists, explainer, inner-workings, interactive-dashboards, interactive-plots, model-predictions, permutation-importances, plotly, shap, shap-values, xai, xai-library</sup></sub>
 
@@ -75,13 +75,13 @@ created 2019-10-30, last commit 2022-05-10, main language Python
 ### [transformers-interpret](https://github.com/cdpierse/transformers-interpret) by [cdpierse](https://github.com/cdpierse)  
 Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
 [https://github.com/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)  
-6.07 stars per week over 101 weeks  
-618 stars, 59 forks, 16 watches  
+6.05 stars per week over 102 weeks  
+621 stars, 59 forks, 16 watches  
 created 2020-05-27, last commit 2022-03-19, main language Python  
 <sub><sup>captum, deep-learning, explainable-ai, interpretability, machine-learning, model-explainability, natural-language-processing, neural-network, nlp, transformers, transformers-model</sup></sub>
 
 
-This file was automatically generated on 2022-05-10.  
+This file was automatically generated on 2022-05-15.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

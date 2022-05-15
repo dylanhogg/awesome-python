@@ -10,8 +10,8 @@ The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 33 stars per week over 608 weeks  
-20,389 stars, 6,865 forks, 562 watches  
-created 2010-09-13, last commit 2022-05-10, main language Python  
+20,423 stars, 6,873 forks, 563 watches  
+created 2010-09-13, last commit 2022-05-14, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2010-09-13, last commit 2022-05-10, main language Python
 A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-14 stars per week over 627 weeks  
-9,169 stars, 3,658 forks, 290 watches  
-created 2010-04-30, last commit 2022-05-10, main language Python  
+14 stars per week over 628 weeks  
+9,193 stars, 3,662 forks, 289 watches  
+created 2010-04-30, last commit 2022-05-13, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -29,8 +29,8 @@ created 2010-04-30, last commit 2022-05-10, main language Python
 Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
-1.19 stars per week over 543 weeks  
-649 stars, 139 forks, 37 watches  
+1.19 stars per week over 544 weeks  
+650 stars, 139 forks, 37 watches  
 created 2011-12-07, last commit 2022-02-14, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
@@ -39,8 +39,8 @@ created 2011-12-07, last commit 2022-02-14, main language Python
 Python package for information theory.  
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
-0.85 stars per week over 449 weeks  
-381 stars, 74 forks, 24 watches  
+0.85 stars per week over 450 weeks  
+383 stars, 74 forks, 24 watches  
 created 2013-09-29, last commit 2022-03-20, main language Python  
 <sub><sup>information-theory, python</sup></sub>
 
@@ -48,8 +48,8 @@ created 2013-09-29, last commit 2022-03-20, main language Python
 ### [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) by [WillianFuks](https://github.com/WillianFuks)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact)  
-3.37 stars per week over 90 weeks  
-304 stars, 41 forks, 8 watches  
+3.38 stars per week over 90 weeks  
+307 stars, 42 forks, 8 watches  
 created 2020-08-17, last commit 2022-05-03, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
 
@@ -58,9 +58,9 @@ created 2020-08-17, last commit 2022-05-03, main language Python
 PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
 [https://github.com/LukasZahradnik/PyNeuraLogic](https://github.com/LukasZahradnik/PyNeuraLogic)  
-1.71 stars per week over 74 weeks  
-127 stars, 8 forks, 3 watches  
-created 2020-12-06, last commit 2022-05-05, main language Python  
+1.72 stars per week over 75 weeks  
+129 stars, 8 forks, 3 watches  
+created 2020-12-06, last commit 2022-05-13, main language Python  
 <sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, python, pytorch, relational-learning</sup></sub>
 
 
@@ -72,7 +72,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-11-05, main language Python  
 
 
-This file was automatically generated on 2022-05-10.  
+This file was automatically generated on 2022-05-15.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
