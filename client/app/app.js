@@ -51,7 +51,7 @@ $(document).ready( function () {
             render: function(data, type, row, meta) {
                 if (data.length > 0) {
                     var url = "/data/" + data + "";
-                    return "<img src='img/info2.png' alt='info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
+                    return "<img src='img/github.png' alt='info' title='View install and GitHub info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
                 } else {
                     return "";
                 }

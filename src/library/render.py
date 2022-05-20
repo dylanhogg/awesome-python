@@ -79,6 +79,18 @@ def make_markdown(row, include_category=False) -> str:
     )
 
 
+def _display_description(ghw, name) -> str:
+    repo = ghw.get_repo(name)
+    if repo.description is None:
+        return f"{name}"
+    else:
+        assert repo.name is not None
+        if repo.description.lower().startswith(repo.name.lower()) or f"{repo.name.lower()}:" in repo.description.lower():
+            return f"{repo.description}"
+        else:
+            return f"{repo.name}: {repo.description}"
+
+
 def process(df_input, token) -> pd.DataFrame:
     ghw = GithubWrapper(token)
     df = df_input.copy()
@@ -91,7 +103,7 @@ def process(df_input, token) -> pd.DataFrame:
     df["_language"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).language)
     df["_homepage"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).homepage)
     df["_description"] = df["_repopath"].apply(
-        lambda x: "" if ghw.get_repo(x).description is None else ghw.get_repo(x).description
+        lambda x: _display_description(ghw, x)
     )
     df["_organization"] = df["_repopath"].apply(
         lambda x: x.split("/")[0]
