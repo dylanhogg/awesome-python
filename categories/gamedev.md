@@ -10,28 +10,28 @@ pygame (the library) is a Free and Open Source python programming language libra
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 17 stars per week over 268 weeks  
-4,797 stars, 2,103 forks, 158 watches  
-created 2017-03-26, last commit 2022-05-12, main language C  
+4,813 stars, 2,115 forks, 159 watches  
+created 2017-03-26, last commit 2022-05-18, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
 
 ### [panda3d](https://github.com/panda3d/panda3d)  
-Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
+panda3d: Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
 [https://www.panda3d.org/](https://www.panda3d.org/)  
 [https://github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)  
-7.32 stars per week over 449 weeks  
-3,291 stars, 688 forks, 195 watches  
-created 2013-09-30, last commit 2022-05-10, main language C++  
+7.33 stars per week over 450 weeks  
+3,302 stars, 689 forks, 196 watches  
+created 2013-09-30, last commit 2022-05-19, main language C++  
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 
 
 ### [arcade](https://github.com/pythonarcade/arcade) by [pythonarcade](https://github.com/pythonarcade)  
-Easy to use Python library for creating 2D arcade games.  
+arcade: Easy to use Python library for creating 2D arcade games.  
 [http://arcade.academy](http://arcade.academy)  
 [https://github.com/pythonarcade/arcade](https://github.com/pythonarcade/arcade)  
-3.67 stars per week over 331 weeks  
-1,219 stars, 233 forks, 54 watches  
-created 2016-01-04, last commit 2022-05-08, main language Python  
+3.68 stars per week over 332 weeks  
+1,224 stars, 230 forks, 54 watches  
+created 2016-01-04, last commit 2022-05-18, main language Python  
 <sub><sup>arcade-api, arcade-framework, arcade-learning-environment, educational-resources, educational-technology, opengl, python, python3</sup></sub>
 
 
@@ -39,13 +39,13 @@ created 2016-01-04, last commit 2022-05-08, main language Python
 pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.  
 [http://pyglet.org](http://pyglet.org)  
 [https://github.com/pyglet/pyglet](https://github.com/pyglet/pyglet)  
-7.35 stars per week over 153 weeks  
-1,124 stars, 225 forks, 29 watches  
-created 2019-06-09, last commit 2022-05-13, main language Python  
+7.34 stars per week over 153 weeks  
+1,129 stars, 225 forks, 29 watches  
+created 2019-06-09, last commit 2022-05-18, main language Python  
 <sub><sup>gamedev, opengl, pyglet, python, scientific-visualization</sup></sub>
 
 
-This file was automatically generated on 2022-05-15.  
+This file was automatically generated on 2022-05-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

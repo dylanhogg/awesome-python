@@ -6,52 +6,52 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [mypy](https://github.com/python/mypy) by [python](https://github.com/python)  
-Optional static typing for Python  
+mypy: Optional static typing for Python  
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
-26 stars per week over 492 weeks  
-13,081 stars, 2,169 forks, 217 watches  
-created 2012-12-07, last commit 2022-05-13, main language Python  
+26 stars per week over 493 weeks  
+13,116 stars, 2,177 forks, 218 watches  
+created 2012-12-07, last commit 2022-05-19, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
 
 ### [pyright](https://github.com/microsoft/pyright) by [microsoft](https://github.com/microsoft)  
-Static type checker for Python  
+pyright: Static type checker for Python  
 [https://github.com/microsoft/pyright](https://github.com/microsoft/pyright)  
-48 stars per week over 165 weeks  
-7,955 stars, 467 forks, 77 watches  
-created 2019-03-12, last commit 2022-05-14, main language Python  
+47 stars per week over 166 weeks  
+7,978 stars, 468 forks, 77 watches  
+created 2019-03-12, last commit 2022-05-20, main language Python  
 
 
 ### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
-Performant type-checking for python.  
+pyre-check: Performant type-checking for python.  
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
-25 stars per week over 235 weeks  
-5,898 stars, 381 forks, 101 watches  
-created 2017-11-10, last commit 2022-05-13, main language OCaml  
+25 stars per week over 236 weeks  
+5,906 stars, 382 forks, 101 watches  
+created 2017-11-10, last commit 2022-05-20, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 
 
 ### [pytype](https://github.com/google/pytype) by [google](https://github.com/google)  
-A static type analyzer for Python code  
+pytype: A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-9.99 stars per week over 373 weeks  
-3,731 stars, 243 forks, 58 watches  
-created 2015-03-18, last commit 2022-05-13, main language Python  
+10.0 stars per week over 374 weeks  
+3,742 stars, 244 forks, 58 watches  
+created 2015-03-18, last commit 2022-05-19, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
 ### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
-Run-time type checker for Python  
+typeguard: Run-time type checker for Python  
 [https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
 2.62 stars per week over 333 weeks  
-873 stars, 74 forks, 18 watches  
+876 stars, 74 forks, 18 watches  
 created 2015-12-27, last commit 2022-05-11, main language Python  
 
 
-This file was automatically generated on 2022-05-15.  
+This file was automatically generated on 2022-05-20.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
