@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Awesome Python</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="A list of curated Python libraries and frameworks, with a bias towards data and ML"/>
+    <meta name="keywords" content="python, awesome, frameworks, data, libraries, pip, machine learning"/>
+    <meta name="author" content="Dylan Hogg">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap5.min.css"/>
+    <link rel="stylesheet" type="text/css" href="app.css?v=0.0.0.7" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" />
+
+    <meta property="og:title" content="Awesome Python">
+    <meta property="og:description" content="A list of curated Python libraries and frameworks, with a bias towards data and ML">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.awesomepython.org/">
+
+    <link rel="canonical" href="https://www.awesomepython.org/" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap5.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
+    <!--    <script type="text/javascript" src="app.js?v=0.0.0.10"></script>-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VP3W2NGZN5"></script>
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-VP3W2NGZN5');
+    </script>
+</head>
+<body>
+<div id="container">
+    <h4>The Python Standard Library</h4>
+    <span>Selected summary of <a target="_blank" href="https://docs.python.org/3/library/index.html">The Python Standard Library</a> that is distributed with Python</span><br />
+    <span>Also see <a target="_blank" href="https://docs.python.org/3/reference/index.html">The Python Language Reference</a> for the  “core semantics” of the language and <a target="_blank" href="https://peps.python.org/#finished-peps-done-with-a-stable-interface">Python Enhancement Proposals (PEPs)</a></span>
+
+    <br /><br />
+
+    <table id="table" class="table table-striped" style="width:100%">
+        <tr><th>Category</th><th>Standard and 3rd party modules</th></tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/stdtypes.html">Built-in Types</a></td>
+            <td>
+                The principal built-in types are functions, constants, exceptions, numerics, sequences, mappings, classes and instances.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/functions.html">Built-in Functions</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/constants.html">Built-in Constants</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/exceptions.html">Built-in Exceptions</a><br />
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex">int, float, complex</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range">list, tuple, range</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str">str</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview">bytes, bytearray, memoryview</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset">set, frozenset</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#mapping-types-dict">dict</a><br />
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#type-annotation-types-generic-alias-union">Type Annotations: Generic Alias, Union</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stdtypes.html#other-built-in-types">Other built-ins</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/datatypes.html">Specialized Data Types</a></td>
+            <td>
+                Specialized data types such as dates and times, fixed-type arrays, heap queues, double-ended queues, and enumerations.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/datetime.html">datetime</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/zoneinfo.html">zoneinfo</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/calendar.html">calendar</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/collections.html">collections</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/collections.abc.html">collections.abc</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/array.html">array</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/heapq.html">heapq</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/enum.html">enum</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/pprint.html">pprint</a><br />
+                <a target="_blank" href="https://docs.python.org/3/library/bisect.html">bisect</a> — Maintaining a sorted list after each insertion using array bisection<br />
+                <a target="_blank" href="https://docs.python.org/3/library/weakref.html">weakref</a> — Weak object reference allowing garbage collection<br />
+                <a target="_blank" href="https://docs.python.org/3/library/types.html">types</a> — Dynamic type creation and names for built-in types<br />
+                <a target="_blank" href="https://docs.python.org/3/library/copy.html">copy</a> — Shallow and deep copy operations<br />
+                <a target="_blank" href="https://docs.python.org/3/library/reprlib.html">reprlib</a> — Object representations with string size limits<br />
+                <a target="_blank" href="https://docs.python.org/3/library/graphlib.html">graphlib</a> — Functionality to topologically sort a graph<br />
+                3rd party data-type libraries: TODO???
+                <a target="_blank" href="https://github.com/pydata/xarray">xarray</a>,
+                <a target="_blank" href="https://github.com/samuelcolvin/pydantic">pydantic</a>,
+                <a target="_blank" href="https://pypi.org/project/vaex">vaex</a>,
+
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/text.html">Text Processing Services</a></td>
+            <td>
+                String manipulation operations and other text processing services.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/string.html">string</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/re.html">re</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/difflib.html">difflib</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/textwrap.html">textwrap</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/unicodedata.html">unicodedata</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/stringprep.html">stringprep</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/readline.html">readline</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/rlcompleter.html">rlcompleter</a><br />
+                3rd party text libraries:
+                <a target="_blank" href="https://github.com/huggingface/transformers">transformers</a>,
+                <a target="_blank" href="https://github.com/explosion/spaCy">spacy</a>,
+                <a target="_blank" href="https://github.com/RaRe-Technologies/gensim">gensim</a>,
+                <a target="_blank" href="https://github.com/nltk/nltk">nltk</a>
+
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/binary.html">Binary Data Services</a></td>
+            <td>
+                Basic services operations for manipulation of binary data<br />
+                <a target="_blank" href="https://docs.python.org/3/library/struct.html">struct</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/codecs.html">codecs</a><br />
+                3rd party binary libraries:
+                <a target="_blank" href="https://github.com/h5py/h5py">h5py</a>,
+                <a target="_blank" href="https://github.com/apache/arrow">pyarrow</a>,
+                <a target="_blank" href="https://github.com/apache/avro">avro</a>,
+                <a target="_blank" href="https://github.com/google/flatbuffers">flatbuffers</a>,
+                <a target="_blank" href="https://github.com/lidatong/dataclasses-json">dataclasses-json</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/numeric.html">Numeric and Mathematical Modules</a></td>
+            <td>
+                The numbers module defines an abstract hierarchy of numeric types.<br />
+                The math and cmath modules contain mathematical functions for floating-point and complex numbers.<br />
+                The decimal module supports exact representations of decimal numbers, using arbitrary precision arithmetic.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/numbers.html">numbers</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/math.html">math</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/cmath.html">cmath</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/decimal.html">decimal</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/fractions.html">fractions</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/random.html">random</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/statistics.html">statistics</a><br />
+                3rd party math libraries:
+                <a target="_blank" href="https://github.com/numpy/numpy">numpy</a>,
+                <a target="_blank" href="https://github.com/sympy/sympy">sympy</a>,
+                <a target="_blank" href="https://github.com/scipy/scipy">scipy</a>,
+                <a target="_blank" href="https://github.com/scikit-learn/scikit-learn">scikit-learn</a>,
+                <a target="_blank" href="https://github.com/tensorflow/tensorflow">tensorflow</a>,
+                <a target="_blank" href="https://github.com/pytorch/pytorch">pytorch</a>
+
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/functional.html">Functional Programming Modules</a></td>
+            <td>
+                Classes that support a functional programming style, and general operations on callables.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/itertools.html">itertools</a> — Functions creating iterators for efficient looping<br />
+                <a target="_blank" href="https://docs.python.org/3/library/functools.html">functools</a> — Higher-order functions and operations on callable objects<br />
+                <a target="_blank" href="https://docs.python.org/3/library/operator.html">operator</a> — Standard operators as functions<br />
+                3rd party functional libraries:
+                <a target="_blank" href="https://github.com/pytoolz/toolz">toolz</a>,
+                <a target="_blank" href="https://github.com/suor/funcy">funcy</a>,
+                <a target="_blank" href="https://github.com/more-itertools/more-itertools">more-itertools</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/crypto.html">Cryptographic Services</a></td>
+            <td>
+                Cryptographic algorithms; available at the discretion of the installation.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/hashlib.html">hashlib</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/hmac.html">hmac</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/secrets.html">secrets</a><br />
+                3rd party cryptographic libraries:
+                <a target="_blank" href="https://github.com/pyca/cryptography">cryptography</a>,
+                <a target="_blank" href="https://github.com/pyca/pynacl">pynacl</a>,
+                <a target="_blank" href="https://github.com/pyca/bcrypt">bcrypt</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/allos.html">Generic Operating System Services</a></td>
+            <td>OS features, such as files, datetime, argument parsing, logging etc.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/os.html">os</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/io.html">io</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/time.html">time</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/argparse.html">argparse</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/getopt.html">getopt</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/logging.html">logging</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/getpass.html">getpass</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/curses.html">curses</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/platform.html">platform</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/errno.html">errno</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/ctypes.html">ctypes</a><br />
+                3rd party datetime libraries:
+                <a target="_blank" href="https://github.com/arrow-py/arrow">arrow</a>,
+                <a target="_blank" href="https://github.com/sdispater/pendulum">pendulum</a><br />
+                3rd party argparse libraries:
+                <a target="_blank" href="https://github.com/pallets/click">click</a>,
+                <a target="_blank" href="https://github.com/google/python-fire">python-fire</a>,
+                <a target="_blank" href="https://github.com/tiangolo/typer">typer</a><br />
+                3rd party logging/env/C++ libraries:
+                <a target="_blank" href="https://github.com/Delgan/loguru">loguru</a>,
+                <a target="_blank" href="https://github.com/theskumar/python-dotenv">python-dotenv</a>,
+                <a target="_blank" href="https://github.com/pybind/pybind11">pybind11</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/concurrency.html">Concurrent Execution</a></td>
+            <td>
+                Concurrent execution of code.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/threading.html">threading</a> — Thread-based parallelism<br />
+                <a target="_blank" href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing</a> — Process-based parallelism<br />
+                <a target="_blank" href="https://docs.python.org/3/library/multiprocessing.shared_memory.html">multiprocessing.shared_memory</a> —  Provides shared memory for direct access across processes<br />
+                <a target="_blank" href="https://docs.python.org/3/library/concurrent.futures.html">concurrent.futures</a> — Launching parallel tasks<br />
+                <a target="_blank" href="https://docs.python.org/3/library/subprocess.html">subprocess</a> — Subprocess management<br />
+                <a target="_blank" href="https://docs.python.org/3/library/sched.html">sched</a> — Event scheduler<br />
+                <a target="_blank" href="https://docs.python.org/3/library/queue.html">queue</a> — A synchronized queue class<br />
+                <a target="_blank" href="https://docs.python.org/3/library/contextvars.html">contextvars</a> — Context Variables<br />
+                <a target="_blank" href="https://docs.python.org/3/library/_thread.html">_thread</a> — Low-level threading API<br />
+                3rd party (distributed) concurrency libraries:
+                <a target="_blank" href="https://github.com/dask/dask">dask</a>,
+                <a target="_blank" href="https://github.com/dask/distributed">dask.distributed</a>,
+                <a target="_blank" href="https://github.com/celery/celery">celery</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/ipc.html">Networking and Interprocess Communication</a></td>
+            <td>
+                Networking and inter-processes communication.<br />
+                Some modules only work for two processes that are on the same machine, e.g. signal and mmap.<br />
+                Other modules support networking protocols that two or more processes can use to communicate across machines.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/asyncio.html">asyncio</a> — Asynchronous I/O<br />
+                <a target="_blank" href="https://docs.python.org/3/library/socket.html">socket</a> — Low-level networking interface<br />
+                <a target="_blank" href="https://docs.python.org/3/library/ssl.html">ssl</a> — TLS/SSL wrapper for socket objects<br />
+                <a target="_blank" href="https://docs.python.org/3/library/select.html">select</a> — Waiting for I/O completion<br />
+                <a target="_blank" href="https://docs.python.org/3/library/selectors.html">selectors</a> — High-level I/O multiplexing<br />
+                <a target="_blank" href="https://docs.python.org/3/library/signal.html">signal</a> — Set handlers for asynchronous events<br />
+                <a target="_blank" href="https://docs.python.org/3/library/mmap.html">mmap</a> — Memory-mapped file support<br />
+                3rd party asyncio libraries:
+                <a target="_blank" href="https://github.com/python-trio/trio">trio</a>,
+                <a target="_blank" href="https://github.com/dabeaz/curio">curio</a>,
+                <a target="_blank" href="https://github.com/agronholm/anyio">anyio</a>,
+                <a target="_blank" href="https://github.com/tiangolo/asyncer">asyncer</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/tk.html">Graphical User Interfaces with Tk</a></td>
+            <td>
+                tkinter is fast and usually comes bundled with Python.<br />
+                3rd party GUI libraries:
+                <a target="_blank" href="https://github.com/PySimpleGUI/PySimpleGUI">PySimpleGUI</a>,
+                <a target="_blank" href="https://github.com/hoffstadt/DearPyGui">DearPyGui</a>,
+                <a target="_blank" href="https://github.com/rawpython/remi">remi</a>,
+                <a target="_blank" href="https://github.com/pygame/pygame">pygame</a>,
+                <a target="_blank" href="https://github.com/panda3d/panda3d">panda3d</a>,
+                <a target="_blank" href="https://github.com/pythonarcade/arcade">arcade</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/development.html">Development Tools</a></td>
+            <td>
+                Modules to help you write software<br />
+                <a target="_blank" href="https://docs.python.org/3/library/typing.html">typing</a> — Support for type hints<br />
+                <a target="_blank" href="https://docs.python.org/3/library/pydoc.html">pydoc</a> — Documentation generator and online help system<br />
+                <a target="_blank" href="https://docs.python.org/3/library/doctest.html">doctest</a> — Test interactive Python examples<br />
+                <a target="_blank" href="https://docs.python.org/3/library/unittest.html">unittest</a> — Unit testing framework<br />
+                <a target="_blank" href="https://docs.python.org/3/library/unittest.mock.html">unittest.mock</a> — mock object library<br />
+                <a target="_blank" href="https://docs.python.org/3/library/unittest.mock-examples.html">unittest.mock</a> — getting started<br />
+                <a target="_blank" href="https://docs.python.org/3/library/test.html">test</a> — Regression tests package for Python (internal)<br />
+                <a target="_blank" href="https://docs.python.org/3/library/devmode.html">Python Development Mode</a><br />
+                3rd party typing libraries:
+                <a target="_blank" href="https://github.com/python/mypy">mypy</a>,
+                <a target="_blank" href="https://github.com/microsoft/pyright">pyright</a>,
+                <a target="_blank" href="https://github.com/facebook/pyre-check">pyre-check</a>,
+                <a target="_blank" href="https://github.com/google/pytype">pytype</a><br />
+                3rd party testing libraries:
+                <a target="_blank" href="https://github.com/pytest-dev/pytest">pytest</a>,
+                <a target="_blank" href="https://github.com/wolever/parameterized">parameterized</a>,
+                <a target="_blank" href="https://github.com/HypothesisWorks/hypothesis">hypothesis</a>,
+                <a target="_blank" href="https://github.com/behave/behave">behave</a><br />
+                3rd party coverage libraries:
+                <a target="_blank" href="https://github.com/nedbat/coveragepy">coveragepy</a>,
+                <a target="_blank" href="https://github.com/pytest-dev/pytest-cov">pytest-cov</a><br />
+                3rd party style libraries:
+                <a target="_blank" href="https://github.com/pycqa/pylint">pylint</a>,
+                <a target="_blank" href="https://github.com/pycqa/flake8">flake8</a>,
+                <a target="_blank" href="https://github.com/pycqa/isort">isort</a>,
+                <a target="_blank" href="https://github.com/pycqa/pycodestyle">pycodestyle</a>,
+                <a target="_blank" href="https://github.com/pycqa/pyflakes">pyflakes</a>,
+                <a target="_blank" href="https://github.com/pycqa/pydocstyle">pydocstyle</a>,
+                <a target="_blank" href="https://github.com/psf/black">pytest</a><br />
+                3rd party doc libraries:
+                <a target="_blank" href="https://github.com/squidfunk/mkdocs-material">mkdocs-material</a>,
+                <a target="_blank" href="https://github.com/sphinx-doc/sphinx">sphinx</a>,
+                <a target="_blank" href="https://docs.readthedocs.io/en/stable/index.html">readthedocs</a><br />
+            </td>
+        </tr>
+
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/debug.html">Debugging and Profiling</a></td>
+            <td>
+                The debugger enables you to step through code, analyze stack frames and set breakpoints etc<br />
+                Profilers run code and give you a detailed breakdown of execution times, allowing you to identify bottlenecks<br />
+                Auditing events provide visibility into runtime behaviors that would otherwise require intrusive debugging or patching<br />
+                <a target="_blank" href="https://docs.python.org/3/library/bdb.html">bdb</a> — Debugger framework<br />
+                <a target="_blank" href="https://docs.python.org/3/library/faulthandler.html">faulthandler</a> — Dump the Python traceback<br />
+                <a target="_blank" href="https://docs.python.org/3/library/pdb.html">pdb</a> — The Python Debugger<br />
+                <a target="_blank" href="https://docs.python.org/3/library/timeit.html">timeit</a> — Measure execution time of small code snippets<br />
+                <a target="_blank" href="https://docs.python.org/3/library/trace.html">trace</a> — Trace or track Python statement execution<br />
+                <a target="_blank" href="https://docs.python.org/3/library/tracemalloc.html">tracemalloc</a> — Trace memory allocations<br />
+                <a target="_blank" href="https://docs.python.org/3/library/audit_events.html">Audit events table</a><br />
+                <a target="_blank" href="https://docs.python.org/3/library/profile.html">The Python Profilers</a><br />
+                3rd party debugging libraries:
+                <a target="_blank" href="https://github.com/cool-RR/PySnooper">PySnooper</a>,
+                <a target="_blank" href="https://github.com/gruns/icecream">icecream</a>,
+                <a target="_blank" href="https://github.com/alexmojaki/snoop">snoop</a>,
+                <a target="_blank" href="https://github.com/alexmojaki/birdseye">birdseye</a><br />
+                3rd party profiling libraries:
+                <a target="_blank" href="https://github.com/bloomberg/memray">memray</a>,
+                <a target="_blank" href="https://github.com/gaogaotiantian/viztracer">viztracer</a>,
+                <a target="_blank" href="https://github.com/csurfer/pyheat">pyheat</a><br />
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/distribution.html">Software Packaging and Distribution</a></td>
+            <td>
+                These libraries help you with publishing and installing Python software.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/distutils.html">distutils</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/ensurepip.html">ensurepip</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/venv.html">venv</a>,
+                <a target="_blank" href="https://docs.python.org/3/library/zipapp.html">zipapp</a><br />
+                3rd party packaging libraries:
+                <a target="_blank" href="https://github.com/pyinstaller/pyinstaller">pyinstaller</a>,
+                <a target="_blank" href="https://github.com/indygreg/PyOxidizer">pyOxidizer</a><br />
+                3rd party venv libraries:
+                <a target="_blank" href="https://github.com/python-poetry/poetry">poetry</a>,
+                <a target="_blank" href="https://github.com/pypa/pipenv">pipenv</a>,
+                <a target="_blank" href="https://github.com/pypa/pipx">pipx</a>
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/python.html">Python Runtime Services</a></td>
+            <td>
+                Services related to the Python interpreter and its interaction with its environment.<br />
+                <a target="_blank" href="https://docs.python.org/3/library/sys.html">sys</a> — System-specific parameters and functions<br />
+                <a target="_blank" href="https://docs.python.org/3/library/sysconfig.html">sysconfig</a> — Provide access to Python’s configuration information<br />
+                <a target="_blank" href="https://docs.python.org/3/library/builtins.html">builtins</a> — Built-in objects<br />
+                <a target="_blank" href="https://docs.python.org/3/library/__main__.html">__main__</a> — Top-level code environment<br />
+                <a target="_blank" href="https://docs.python.org/3/library/warnings.html">warnings</a> — Warning control<br />
+                <a target="_blank" href="https://docs.python.org/3/library/dataclasses.html">dataclasses</a> — Data Classes<br />
+                <a target="_blank" href="https://docs.python.org/3/library/contextlib.html">contextlib</a> — Utilities for with-statement contexts<br />
+                <a target="_blank" href="https://docs.python.org/3/library/abc.html">abc</a> — Abstract Base Classes<br />
+                <a target="_blank" href="https://docs.python.org/3/library/atexit.html">atexit</a> — Exit handlers<br />
+                <a target="_blank" href="https://docs.python.org/3/library/traceback.html">traceback</a> — Print or retrieve a stack traceback<br />
+                <a target="_blank" href="https://docs.python.org/3/library/__future__.html">__future__</a> — Future statement definitions<br />
+                <a target="_blank" href="https://docs.python.org/3/library/gc.html">gc</a> — Garbage Collector interface<br />
+                <a target="_blank" href="https://docs.python.org/3/library/inspect.html">inspect</a> — Inspect live objects<br />
+                <a target="_blank" href="https://docs.python.org/3/library/site.html">site</a> — Site-specific configuration hook<br />
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/netdata.html">Internet Data Handling</a></td>
+            <td>
+                email, json, mailbox, mimetypes, base64, binhex, binascii, quopri.<br />
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/markup.html">Structured Markup Processing Tools</a></td>
+            <td>
+                html and xml.<br />
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/internet.html">Internet Protocols and Support</a></td>
+            <td>
+                webbrowser, wsgiref, urllib, http, ftplib, poplib, imaplib, smtplib, uuid, socketserver, xmlrpc, ipaddress etc.<br />
+            </td>
+        </tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/modules.html">Importing Modules</a></td><td>Modules that provide new ways to import Python modules and hooks for customizing the import process.</td></tr>
+        <tr><td><a target="_blank" href="https://docs.python.org/3/library/language.html">Python Language Services</a></td><td>These modules support tokenizing, parsing, syntax analysis, bytecode disassembly etc.</td></tr>
+    </table>
+
+    <!--
+    <h4>All Python Standard Library</h4>
+    <div class="toctree-wrapper compound">
+        <ul>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/intro.html">Introduction</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/intro.html#notes-on-availability">Notes on availability</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/functions.html">Built-in Functions</a></li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/constants.html">Built-in Constants</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/constants.html#constants-added-by-the-site-module">Constants added by the <code class="xref py py-mod docutils literal notranslate"><span class="pre">site</span></code> module</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html">Built-in Types</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#truth-value-testing">Truth Value Testing</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not">Boolean Operations — <code class="xref std std-keyword docutils literal notranslate"><span class="pre">and</span></code>, <code class="xref std std-keyword docutils literal notranslate"><span class="pre">or</span></code>, <code class="xref std std-keyword docutils literal notranslate"><span class="pre">not</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#comparisons">Comparisons</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex">Numeric Types — <code class="xref py py-class docutils literal notranslate"><span class="pre">int</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">float</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">complex</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#iterator-types">Iterator Types</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range">Sequence Types — <code class="xref py py-class docutils literal notranslate"><span class="pre">list</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">tuple</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">range</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str">Text Sequence Type — <code class="xref py py-class docutils literal notranslate"><span class="pre">str</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview">Binary Sequence Types — <code class="xref py py-class docutils literal notranslate"><span class="pre">bytes</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">bytearray</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">memoryview</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset">Set Types — <code class="xref py py-class docutils literal notranslate"><span class="pre">set</span></code>, <code class="xref py py-class docutils literal notranslate"><span class="pre">frozenset</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#mapping-types-dict">Mapping Types — <code class="xref py py-class docutils literal notranslate"><span class="pre">dict</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#context-manager-types">Context Manager Types</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#type-annotation-types-generic-alias-union">Type Annotation Types — <span class="xref std std-ref">Generic Alias</span>, <span class="xref std std-ref">Union</span></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#other-built-in-types">Other Built-in Types</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stdtypes.html#special-attributes">Special Attributes</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html">Built-in Exceptions</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html#exception-context">Exception context</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html#inheriting-from-built-in-exceptions">Inheriting from built-in exceptions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html#base-classes">Base classes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html#concrete-exceptions">Concrete exceptions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html#warnings">Warnings</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/exceptions.html#exception-hierarchy">Exception hierarchy</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/text.html">Text Processing Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/string.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">string</span></code> — Common string operations</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/re.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">re</span></code> — Regular expression operations</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/difflib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">difflib</span></code> — Helpers for computing deltas</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/textwrap.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">textwrap</span></code> — Text wrapping and filling</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/unicodedata.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">unicodedata</span></code> — Unicode Database</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stringprep.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">stringprep</span></code> — Internet String Preparation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/readline.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">readline</span></code> — GNU readline interface</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/rlcompleter.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">rlcompleter</span></code> — Completion function for GNU readline</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/binary.html">Binary Data Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/struct.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">struct</span></code> — Interpret bytes as packed binary data</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/codecs.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">codecs</span></code> — Codec registry and base classes</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/datatypes.html">Data Types</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/datetime.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">datetime</span></code> — Basic date and time types</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/zoneinfo.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">zoneinfo</span></code> — IANA time zone support</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/calendar.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">calendar</span></code> — General calendar-related functions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/collections.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">collections</span></code> — Container datatypes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/collections.abc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">collections.abc</span></code> — Abstract Base Classes for Containers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/heapq.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">heapq</span></code> — Heap queue algorithm</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/bisect.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">bisect</span></code> — Array bisection algorithm</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/array.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">array</span></code> — Efficient arrays of numeric values</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/weakref.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">weakref</span></code> — Weak references</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/types.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">types</span></code> — Dynamic type creation and names for built-in types</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/copy.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">copy</span></code> — Shallow and deep copy operations</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pprint.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pprint</span></code> — Data pretty printer</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/reprlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">reprlib</span></code> — Alternate <code class="xref py py-func docutils literal notranslate"><span class="pre">repr()</span></code> implementation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/enum.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">enum</span></code> — Support for enumerations</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/graphlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">graphlib</span></code> — Functionality to operate with graph-like structures</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/numeric.html">Numeric and Mathematical Modules</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/numbers.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">numbers</span></code> — Numeric abstract base classes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/math.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">math</span></code> — Mathematical functions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/cmath.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">cmath</span></code> — Mathematical functions for complex numbers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/decimal.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">decimal</span></code> — Decimal fixed point and floating point arithmetic</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/fractions.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">fractions</span></code> — Rational numbers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/random.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">random</span></code> — Generate pseudo-random numbers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/statistics.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">statistics</span></code> — Mathematical statistics functions</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/functional.html">Functional Programming Modules</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/itertools.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">itertools</span></code> — Functions creating iterators for efficient looping</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/functools.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">functools</span></code> — Higher-order functions and operations on callable objects</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/operator.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">operator</span></code> — Standard operators as functions</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/filesys.html">File and Directory Access</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pathlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pathlib</span></code> — Object-oriented filesystem paths</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/os.path.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">os.path</span></code> — Common pathname manipulations</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/fileinput.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">fileinput</span></code> — Iterate over lines from multiple input streams</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/stat.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">stat</span></code> — Interpreting <code class="xref py py-func docutils literal notranslate"><span class="pre">stat()</span></code> results</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/filecmp.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">filecmp</span></code> — File and Directory Comparisons</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tempfile.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tempfile</span></code> — Generate temporary files and directories</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/glob.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">glob</span></code> — Unix style pathname pattern expansion</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/fnmatch.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">fnmatch</span></code> — Unix filename pattern matching</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/linecache.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">linecache</span></code> — Random access to text lines</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/shutil.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">shutil</span></code> — High-level file operations</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/persistence.html">Data Persistence</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pickle.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pickle</span></code> — Python object serialization</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/copyreg.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">copyreg</span></code> — Register <code class="xref py py-mod docutils literal notranslate"><span class="pre">pickle</span></code> support functions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/shelve.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">shelve</span></code> — Python object persistence</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/marshal.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">marshal</span></code> — Internal Python object serialization</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/dbm.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">dbm</span></code> — Interfaces to Unix “databases”</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/sqlite3.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sqlite3</span></code> — DB-API 2.0 interface for SQLite databases</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/archiving.html">Data Compression and Archiving</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/zlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">zlib</span></code> — Compression compatible with <strong class="program">gzip</strong></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/gzip.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">gzip</span></code> — Support for <strong class="program">gzip</strong> files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/bz2.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">bz2</span></code> — Support for <strong class="program">bzip2</strong> compression</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/lzma.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">lzma</span></code> — Compression using the LZMA algorithm</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/zipfile.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">zipfile</span></code> — Work with ZIP archives</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tarfile.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tarfile</span></code> — Read and write tar archive files</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/fileformats.html">File Formats</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/csv.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">csv</span></code> — CSV File Reading and Writing</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/configparser.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">configparser</span></code> — Configuration file parser</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/netrc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">netrc</span></code> — netrc file processing</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/plistlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">plistlib</span></code> — Generate and parse Apple <code class="docutils literal notranslate"><span class="pre">.plist</span></code> files</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/crypto.html">Cryptographic Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/hashlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">hashlib</span></code> — Secure hashes and message digests</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/hmac.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">hmac</span></code> — Keyed-Hashing for Message Authentication</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/secrets.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">secrets</span></code> — Generate secure random numbers for managing secrets</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/allos.html">Generic Operating System Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/os.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">os</span></code> — Miscellaneous operating system interfaces</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/io.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">io</span></code> — Core tools for working with streams</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/time.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">time</span></code> — Time access and conversions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/argparse.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">argparse</span></code> — Parser for command-line options, arguments and sub-commands</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/getopt.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">getopt</span></code> — C-style parser for command line options</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/logging.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">logging</span></code> — Logging facility for Python</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/logging.config.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">logging.config</span></code> — Logging configuration</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/logging.handlers.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">logging.handlers</span></code> — Logging handlers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/getpass.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">getpass</span></code> — Portable password input</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/curses.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">curses</span></code> — Terminal handling for character-cell displays</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/curses.html#module-curses.textpad"><code class="xref py py-mod docutils literal notranslate"><span class="pre">curses.textpad</span></code> — Text input widget for curses programs</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/curses.ascii.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">curses.ascii</span></code> — Utilities for ASCII characters</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/curses.panel.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">curses.panel</span></code> — A panel stack extension for curses</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/platform.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">platform</span></code> —  Access to underlying platform’s identifying data</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/errno.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">errno</span></code> — Standard errno system symbols</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ctypes.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ctypes</span></code> — A foreign function library for Python</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/concurrency.html">Concurrent Execution</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/threading.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">threading</span></code> — Thread-based parallelism</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/multiprocessing.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">multiprocessing</span></code> — Process-based parallelism</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/multiprocessing.shared_memory.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">multiprocessing.shared_memory</span></code> —  Provides shared memory for direct access across processes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/concurrent.html">The <code class="xref py py-mod docutils literal notranslate"><span class="pre">concurrent</span></code> package</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/concurrent.futures.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">concurrent.futures</span></code> — Launching parallel tasks</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/subprocess.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">subprocess</span></code> — Subprocess management</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/sched.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sched</span></code> — Event scheduler</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/queue.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">queue</span></code> — A synchronized queue class</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/contextvars.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">contextvars</span></code> — Context Variables</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/_thread.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">_thread</span></code> — Low-level threading API</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ipc.html">Networking and Interprocess Communication</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/asyncio.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">asyncio</span></code> — Asynchronous I/O</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/socket.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">socket</span></code> — Low-level networking interface</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ssl.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ssl</span></code> — TLS/SSL wrapper for socket objects</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/select.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">select</span></code> — Waiting for I/O completion</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/selectors.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">selectors</span></code> — High-level I/O multiplexing</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/signal.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">signal</span></code> — Set handlers for asynchronous events</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/mmap.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">mmap</span></code> — Memory-mapped file support</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/netdata.html">Internet Data Handling</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/email.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">email</span></code> — An email and MIME handling package</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/json.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">json</span></code> — JSON encoder and decoder</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/mailbox.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">mailbox</span></code> — Manipulate mailboxes in various formats</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/mimetypes.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">mimetypes</span></code> — Map filenames to MIME types</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/base64.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">base64</span></code> — Base16, Base32, Base64, Base85 Data Encodings</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/binhex.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">binhex</span></code> — Encode and decode binhex4 files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/binascii.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">binascii</span></code> — Convert between binary and ASCII</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/quopri.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">quopri</span></code> — Encode and decode MIME quoted-printable data</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/markup.html">Structured Markup Processing Tools</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/html.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">html</span></code> — HyperText Markup Language support</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/html.parser.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">html.parser</span></code> — Simple HTML and XHTML parser</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/html.entities.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">html.entities</span></code> — Definitions of HTML general entities</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.html">XML Processing Modules</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.etree.elementtree.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.etree.ElementTree</span></code> — The ElementTree XML API</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.dom.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.dom</span></code> — The Document Object Model API</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.dom.minidom.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.dom.minidom</span></code> — Minimal DOM implementation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.dom.pulldom.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.dom.pulldom</span></code> — Support for building partial DOM trees</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.sax.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.sax</span></code> — Support for SAX2 parsers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.sax.handler.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.sax.handler</span></code> — Base classes for SAX handlers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.sax.utils.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.sax.saxutils</span></code> — SAX Utilities</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xml.sax.reader.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.sax.xmlreader</span></code> — Interface for XML parsers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pyexpat.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xml.parsers.expat</span></code> — Fast XML parsing using Expat</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/internet.html">Internet Protocols and Support</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/webbrowser.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">webbrowser</span></code> — Convenient web-browser controller</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/wsgiref.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">wsgiref</span></code> — WSGI Utilities and Reference Implementation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/urllib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">urllib</span></code> — URL handling modules</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/urllib.request.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">urllib.request</span></code> — Extensible library for opening URLs</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/urllib.request.html#module-urllib.response"><code class="xref py py-mod docutils literal notranslate"><span class="pre">urllib.response</span></code> — Response classes used by urllib</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/urllib.parse.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">urllib.parse</span></code> — Parse URLs into components</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/urllib.error.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">urllib.error</span></code> — Exception classes raised by urllib.request</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/urllib.robotparser.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">urllib.robotparser</span></code> —  Parser for robots.txt</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/http.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">http</span></code> — HTTP modules</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/http.client.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">http.client</span></code> — HTTP protocol client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ftplib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ftplib</span></code> — FTP protocol client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/poplib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">poplib</span></code> — POP3 protocol client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/imaplib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">imaplib</span></code> — IMAP4 protocol client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/smtplib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">smtplib</span></code> — SMTP protocol client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/uuid.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">uuid</span></code> — UUID objects according to <strong>RFC 4122</strong></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/socketserver.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">socketserver</span></code> — A framework for network servers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/http.server.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">http.server</span></code> — HTTP servers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/http.cookies.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">http.cookies</span></code> — HTTP state management</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/http.cookiejar.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">http.cookiejar</span></code> — Cookie handling for HTTP clients</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xmlrpc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xmlrpc</span></code> — XMLRPC server and client modules</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xmlrpc.client.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xmlrpc.client</span></code> — XML-RPC client access</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xmlrpc.server.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xmlrpc.server</span></code> — Basic XML-RPC servers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ipaddress.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ipaddress</span></code> — IPv4/IPv6 manipulation library</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/mm.html">Multimedia Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/wave.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">wave</span></code> — Read and write WAV files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/colorsys.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">colorsys</span></code> — Conversions between color systems</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/i18n.html">Internationalization</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/gettext.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">gettext</span></code> — Multilingual internationalization services</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/locale.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">locale</span></code> — Internationalization services</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/frameworks.html">Program Frameworks</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/turtle.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">turtle</span></code> — Turtle graphics</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/cmd.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">cmd</span></code> — Support for line-oriented command interpreters</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/shlex.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">shlex</span></code> — Simple lexical analysis</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tk.html">Graphical User Interfaces with Tk</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter</span></code> — Python interface to Tcl/Tk</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.colorchooser.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.colorchooser</span></code> — Color choosing dialog</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.font.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.font</span></code> — Tkinter font wrapper</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/dialog.html">Tkinter Dialogs</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.messagebox.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.messagebox</span></code> — Tkinter message prompts</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.scrolledtext.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.scrolledtext</span></code> — Scrolled Text Widget</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.dnd.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.dnd</span></code> — Drag and drop support</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.ttk.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.ttk</span></code> — Tk themed widgets</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tkinter.tix.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tkinter.tix</span></code> — Extension widgets for Tk</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/idle.html">IDLE</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/development.html">Development Tools</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/typing.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">typing</span></code> — Support for type hints</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pydoc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pydoc</span></code> — Documentation generator and online help system</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/devmode.html">Python Development Mode</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/devmode.html#effects-of-the-python-development-mode">Effects of the Python Development Mode</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/devmode.html#resourcewarning-example">ResourceWarning Example</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/devmode.html#bad-file-descriptor-error-example">Bad file descriptor error example</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/doctest.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">doctest</span></code> — Test interactive Python examples</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/unittest.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">unittest</span></code> — Unit testing framework</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/unittest.mock.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">unittest.mock</span></code> — mock object library</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/unittest.mock-examples.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">unittest.mock</span></code> — getting started</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/2to3.html">2to3 - Automated Python 2 to 3 code translation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test</span></code> — Regression tests package for Python</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support</span></code> — Utilities for the Python test suite</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.socket_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.socket_helper</span></code> — Utilities for socket tests</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.script_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.script_helper</span></code> — Utilities for the Python execution tests</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.bytecode_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.bytecode_helper</span></code> — Support tools for testing correct bytecode generation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.threading_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.threading_helper</span></code> — Utilities for threading tests</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.os_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.os_helper</span></code> — Utilities for os tests</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.import_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.import_helper</span></code> — Utilities for import tests</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/test.html#module-test.support.warnings_helper"><code class="xref py py-mod docutils literal notranslate"><span class="pre">test.support.warnings_helper</span></code> — Utilities for warnings tests</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/debug.html">Debugging and Profiling</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/audit_events.html">Audit events table</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/bdb.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">bdb</span></code> — Debugger framework</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/faulthandler.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">faulthandler</span></code> — Dump the Python traceback</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pdb.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pdb</span></code> — The Python Debugger</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/profile.html">The Python Profilers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/timeit.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">timeit</span></code> — Measure execution time of small code snippets</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/trace.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">trace</span></code> — Trace or track Python statement execution</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tracemalloc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tracemalloc</span></code> — Trace memory allocations</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/distribution.html">Software Packaging and Distribution</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/distutils.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">distutils</span></code> — Building and installing Python modules</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ensurepip.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ensurepip</span></code> — Bootstrapping the <code class="docutils literal notranslate"><span class="pre">pip</span></code> installer</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/venv.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">venv</span></code> — Creation of virtual environments</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/zipapp.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">zipapp</span></code> — Manage executable Python zip archives</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/python.html">Python Runtime Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/sys.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sys</span></code> — System-specific parameters and functions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/sysconfig.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sysconfig</span></code> — Provide access to Python’s configuration information</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/builtins.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">builtins</span></code> — Built-in objects</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/__main__.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">__main__</span></code> — Top-level code environment</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/warnings.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">warnings</span></code> — Warning control</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/dataclasses.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">dataclasses</span></code> — Data Classes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/contextlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">contextlib</span></code> — Utilities for <code class="xref std std-keyword docutils literal notranslate"><span class="pre">with</span></code>-statement contexts</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/abc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">abc</span></code> — Abstract Base Classes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/atexit.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">atexit</span></code> — Exit handlers</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/traceback.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">traceback</span></code> — Print or retrieve a stack traceback</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/__future__.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">__future__</span></code> — Future statement definitions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/gc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">gc</span></code> — Garbage Collector interface</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/inspect.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">inspect</span></code> — Inspect live objects</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/site.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">site</span></code> — Site-specific configuration hook</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/custominterp.html">Custom Python Interpreters</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/code.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">code</span></code> — Interpreter base classes</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/codeop.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">codeop</span></code> — Compile Python code</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/modules.html">Importing Modules</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/zipimport.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">zipimport</span></code> — Import modules from Zip archives</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pkgutil.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pkgutil</span></code> — Package extension utility</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/modulefinder.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">modulefinder</span></code> — Find modules used by a script</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/runpy.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">runpy</span></code> — Locating and executing Python modules</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/importlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">importlib</span></code> — The implementation of <code class="xref std std-keyword docutils literal notranslate"><span class="pre">import</span></code></a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/importlib.metadata.html">Using <code class="xref py py-mod docutils literal notranslate"><span class="pre">importlib.metadata</span></code></a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/language.html">Python Language Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ast.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ast</span></code> — Abstract Syntax Trees</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/symtable.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">symtable</span></code> — Access to the compiler’s symbol tables</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/token.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">token</span></code> — Constants used with Python parse trees</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/keyword.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">keyword</span></code> — Testing for Python keywords</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tokenize.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tokenize</span></code> — Tokenizer for Python source</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tabnanny.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tabnanny</span></code> — Detection of ambiguous indentation</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pyclbr.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pyclbr</span></code> — Python module browser support</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/py_compile.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">py_compile</span></code> — Compile Python source files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/compileall.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">compileall</span></code> — Byte-compile Python libraries</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/dis.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">dis</span></code> — Disassembler for Python bytecode</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pickletools.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pickletools</span></code> — Tools for pickle developers</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/windows.html">MS Windows Specific Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/msvcrt.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">msvcrt</span></code> — Useful routines from the MS VC++ runtime</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/winreg.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">winreg</span></code> — Windows registry access</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/winsound.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">winsound</span></code> — Sound-playing interface for Windows</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/unix.html">Unix Specific Services</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/posix.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">posix</span></code> — The most common POSIX system calls</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pwd.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pwd</span></code> — The password database</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/grp.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">grp</span></code> — The group database</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/termios.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">termios</span></code> — POSIX style tty control</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/tty.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">tty</span></code> — Terminal control functions</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pty.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pty</span></code> — Pseudo-terminal utilities</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/fcntl.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">fcntl</span></code> — The <code class="docutils literal notranslate"><span class="pre">fcntl</span></code> and <code class="docutils literal notranslate"><span class="pre">ioctl</span></code> system calls</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/resource.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">resource</span></code> — Resource usage information</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/syslog.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">syslog</span></code> — Unix syslog library routines</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/superseded.html">Superseded Modules</a><ul>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/aifc.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">aifc</span></code> — Read and write AIFF and AIFC files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/asynchat.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">asynchat</span></code> — Asynchronous socket command/response handler</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/asyncore.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">asyncore</span></code> — Asynchronous socket handler</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/audioop.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">audioop</span></code> — Manipulate raw audio data</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/cgi.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">cgi</span></code> — Common Gateway Interface support</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/cgitb.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">cgitb</span></code> — Traceback manager for CGI scripts</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/chunk.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">chunk</span></code> — Read IFF chunked data</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/crypt.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">crypt</span></code> — Function to check Unix passwords</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/imghdr.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">imghdr</span></code> — Determine the type of an image</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/imp.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">imp</span></code> — Access the <span class="xref std std-ref">import</span> internals</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/mailcap.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">mailcap</span></code> — Mailcap file handling</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/msilib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">msilib</span></code> — Read and write Microsoft Installer files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/nis.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">nis</span></code> — Interface to Sun’s NIS (Yellow Pages)</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/nntplib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">nntplib</span></code> — NNTP protocol client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/optparse.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">optparse</span></code> — Parser for command line options</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/ossaudiodev.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">ossaudiodev</span></code> — Access to OSS-compatible audio devices</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/pipes.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">pipes</span></code> — Interface to shell pipelines</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/smtpd.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">smtpd</span></code> — SMTP Server</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/sndhdr.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sndhdr</span></code> — Determine type of sound file</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/spwd.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">spwd</span></code> — The shadow password database</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/sunau.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sunau</span></code> — Read and write Sun AU files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/telnetlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">telnetlib</span></code> — Telnet client</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/uu.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">uu</span></code> — Encode and decode uuencode files</a></li>
+                <li class="toctree-l2"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/xdrlib.html"><code class="xref py py-mod docutils literal notranslate"><span class="pre">xdrlib</span></code> — Encode and decode XDR data</a></li>
+            </ul>
+            </li>
+            <li class="toctree-l1"><a class="reference internal" target="_blank" href="https://docs.python.org/3/library/security_warnings.html">Security Considerations</a></li>
+        </ul>
+    </div>
+    -->
+
+
+
+
+</div>
+</body>
+</html>
