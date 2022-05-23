@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 networkx: Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
-17 stars per week over 610 weeks  
-10,754 stars, 2,621 forks, 275 watches  
-created 2010-09-06, last commit 2022-05-19, main language Python  
+17 stars per week over 611 weeks  
+10,769 stars, 2,623 forks, 275 watches  
+created 2010-09-06, last commit 2022-05-21, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 
@@ -34,7 +34,7 @@ created 2017-09-27, last commit 2018-12-11, main language Python
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2022-05-20.  
+This file was automatically generated on 2022-05-23.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
