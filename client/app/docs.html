@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Awesome Python</title>
+    <title>Awesome Python - The Python Standard Library</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <meta name="description" content="A list of curated Python libraries and frameworks, with a bias towards data and ML"/>
+    <meta name="description" content="Selected summary of The Python Standard Library that is distributed with Python"/>
     <meta name="keywords" content="python, awesome, frameworks, data, libraries, pip, machine learning"/>
     <meta name="author" content="Dylan Hogg">
 
@@ -15,8 +15,8 @@
     <link rel="stylesheet" type="text/css" href="app.css?v=0.0.0.7" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" />
 
-    <meta property="og:title" content="Awesome Python">
-    <meta property="og:description" content="A list of curated Python libraries and frameworks, with a bias towards data and ML">
+    <meta property="og:title" content="Awesome Python - The Python Standard Library">
+    <meta property="og:description" content="Selected summary of The Python Standard Library that is distributed with Python">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
     <meta property="og:url" content="https://www.awesomepython.org/">
@@ -45,21 +45,15 @@
     <h4>The Python Standard Library</h4>
     <span>Selected summary of <a href="https://docs.python.org/3/library/index.html">The Python Standard Library</a> that is distributed with Python</span><br />
     <span>Also see <a href="https://docs.python.org/3/reference/index.html">The Python Language Reference</a> for the  “core semantics” of the language and <a href="https://peps.python.org/#finished-peps-done-with-a-stable-interface">Python Enhancement Proposals (PEPs)</a></span>
-
     <br /><br />
 
-    <!-- TODO:
-    https://github.com/marshmallow-code/marshmallow
-
-    -->
-
     <table id="table" class="table table-striped" style="width:100%">
-        <tr><th>Category</th><th>Standard and 3rd party modules</th></tr>
-        <tr><td><a href="https://docs.python.org/3/library/stdtypes.html">Built-in Types, Functions, Constants, Exceptions</a></td>
+        <tr><th>Core Library</th><th>Modules</th></tr>
+        <tr><td><a href="https://docs.python.org/3/library/stdtypes.html">Built-ins</a></td>
             <td>
                 The principal built-in types are functions, constants, exceptions, numerics, sequences, mappings, classes and instances.<br />
-                <a href="https://docs.python.org/3/library/functions.html">Built-in Functions</a>,
-                <a href="https://docs.python.org/3/library/constants.html">Built-in Constants</a>,
+                <a href="https://docs.python.org/3/library/functions.html">Built-in Functions</a> -
+                <a href="https://docs.python.org/3/library/constants.html">Built-in Constants</a> -
                 <a href="https://docs.python.org/3/library/exceptions.html">Built-in Exceptions</a><br />
                 <a href="https://docs.python.org/3/library/stdtypes.html">Built-in Types</a>:<br />
                 <a href="https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex">int, float, complex</a>,
@@ -95,7 +89,7 @@
                 <a href="https://github.com/sdispater/pendulum">pendulum</a><br />
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/text.html">Text Processing Services</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/text.html">Text Processing</a></td>
             <td>
                 String manipulation operations and other text processing services.<br />
                 <a href="https://docs.python.org/3/library/string.html">string</a>,
@@ -114,7 +108,7 @@
 
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/binary.html">Binary Data Services</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/binary.html">Binary Data</a></td>
             <td>
                 Basic services operations for manipulation of binary data<br />
                 <a href="https://docs.python.org/3/library/struct.html">struct</a>,
@@ -126,7 +120,7 @@
                 <a href="https://github.com/dask/fastparquet">fastparquet</a>
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/numeric.html">Numeric and Mathematical Modules</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/numeric.html">Numeric and Mathematical</a></td>
             <td>
                 The numbers module defines an abstract hierarchy of numeric types.<br />
                 The math and cmath modules contain mathematical functions for floating-point and complex numbers.<br />
@@ -148,7 +142,7 @@
 
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/functional.html">Functional Programming Modules</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/functional.html">Functional Programming</a></td>
             <td>
                 Classes that support a functional programming style, and general operations on callables.<br />
                 <a href="https://docs.python.org/3/library/itertools.html">itertools</a> — Functions creating iterators for efficient looping<br />
@@ -161,21 +155,42 @@
                 <a href="https://github.com/more-itertools/more-itertools">more-itertools</a>
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/filesys.html">File and Directory Access</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/concurrency.html">Concurrent Execution</a></td>
             <td>
-                Disk files and directories.<br />
-                <a href="https://docs.python.org/3/library/pathlib.html">pathlib</a>,
-                <a href="https://docs.python.org/3/library/os.path.html">os.path</a>,
-                <a href="https://docs.python.org/3/library/fileinput.html">fileinput</a>,
-                <a href="https://docs.python.org/3/library/stat.html">stat</a>,
-                <a href="https://docs.python.org/3/library/filecmp.html">filecmp</a>,
-                <a href="https://docs.python.org/3/library/tempfile.html">tempfile</a>,
-                <a href="https://docs.python.org/3/library/glob.html">glob</a>,
-                <a href="https://docs.python.org/3/library/fnmatch.html">fnmatch</a>,
-                <a href="https://docs.python.org/3/library/linecache.html">linecache</a>,
-                <a href="https://docs.python.org/3/library/shutil.html">shutil</a><br />
-                3rd party functional libraries:
-                <a href="https://github.com/PyFilesystem/pyfilesystem2">pyfilesystem2</a>
+                Concurrent execution of code.<br />
+                <a href="https://docs.python.org/3/library/threading.html">threading</a> — Thread-based parallelism<br />
+                <a href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing</a> — Process-based parallelism<br />
+                <a href="https://docs.python.org/3/library/multiprocessing.shared_memory.html">multiprocessing.shared_memory</a> —  Provides shared memory for direct access across processes<br />
+                <a href="https://docs.python.org/3/library/concurrent.futures.html">concurrent.futures</a> — Launching parallel tasks<br />
+                <a href="https://docs.python.org/3/library/subprocess.html">subprocess</a> — Subprocess management<br />
+                <a href="https://docs.python.org/3/library/sched.html">sched</a> — Event scheduler<br />
+                <a href="https://docs.python.org/3/library/queue.html">queue</a> — A synchronized queue class<br />
+                <a href="https://docs.python.org/3/library/contextvars.html">contextvars</a> — Context Variables<br />
+                <a href="https://docs.python.org/3/library/_thread.html">_thread</a> — Low-level threading API<br />
+                3rd party (distributed) concurrency libraries:
+                <a href="https://github.com/dask/dask">dask</a>,
+                <a href="https://github.com/dask/distributed">dask.distributed</a>,
+                <a href="https://github.com/celery/celery">celery</a>
+            </td>
+        </tr>
+        <tr><td><a href="https://docs.python.org/3/library/ipc.html">Networking and Interprocess</a></td>
+            <td>
+                Networking and inter-processes communication.<br />
+                Some modules only work for two processes that are on the same machine, e.g. signal and mmap.<br />
+                Other modules support networking protocols that two or more processes can use to communicate across machines.<br />
+                <a href="https://docs.python.org/3/library/asyncio.html">asyncio</a> — Asynchronous I/O<br />
+                <a href="https://docs.python.org/3/library/socket.html">socket</a> — Low-level networking interface<br />
+                <a href="https://docs.python.org/3/library/ssl.html">ssl</a> — TLS/SSL wrapper for socket objects<br />
+                <a href="https://docs.python.org/3/library/select.html">select</a> — Waiting for I/O completion<br />
+                <a href="https://docs.python.org/3/library/selectors.html">selectors</a> — High-level I/O multiplexing<br />
+                <a href="https://docs.python.org/3/library/signal.html">signal</a> — Set handlers for asynchronous events<br />
+                <a href="https://docs.python.org/3/library/mmap.html">mmap</a> — Memory-mapped file support<br />
+                3rd party asyncio libraries:
+                <a href="https://github.com/MagicStack/uvloop">uvloop</a>,
+                <a href="https://github.com/python-trio/trio">trio</a>,
+                <a href="https://github.com/dabeaz/curio">curio</a>,
+                <a href="https://github.com/agronholm/anyio">anyio</a>,
+                <a href="https://github.com/tiangolo/asyncer">asyncer</a>
             </td>
         </tr>
         <tr><td><a href="https://docs.python.org/3/library/persistence.html">Data Serialization and Persistence</a></td>
@@ -205,7 +220,59 @@
                 <a href="https://github.com/simonw/sqlite-utils">sqlite-utils</a>
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/archiving.html">Data Compression and Archiving</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/allos.html">Operating System Services</a></td>
+            <td>OS features, such as files, datetime, argument parsing, logging etc.<br />
+                <a href="https://docs.python.org/3/library/os.html">os</a>,
+                <a href="https://docs.python.org/3/library/io.html">io</a>,
+                <a href="https://docs.python.org/3/library/time.html">time</a>,
+                <a href="https://docs.python.org/3/library/argparse.html">argparse</a>,
+                <a href="https://docs.python.org/3/library/getopt.html">getopt</a>,
+                <a href="https://docs.python.org/3/library/logging.html">logging</a>,
+                <a href="https://docs.python.org/3/library/getpass.html">getpass</a>,
+                <a href="https://docs.python.org/3/library/curses.html">curses</a>,
+                <a href="https://docs.python.org/3/library/platform.html">platform</a>,
+                <a href="https://docs.python.org/3/library/errno.html">errno</a>,
+                <a href="https://docs.python.org/3/library/ctypes.html">ctypes</a><br />
+                3rd party argparse libraries:
+                <a href="https://github.com/pallets/click">click</a>,
+                <a href="https://github.com/google/python-fire">python-fire</a>,
+                <a href="https://github.com/tiangolo/typer">typer</a><br />
+                3rd party logging/env/C++ libraries:
+                <a href="https://github.com/Delgan/loguru">loguru</a>,
+                <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>,
+                <a href="https://github.com/pybind/pybind11">pybind11</a>
+            </td>
+        </tr>
+        <tr><td><a href="https://docs.python.org/3/library/tk.html">Graphical User Interfaces</a></td>
+            <td>
+                tkinter is fast and usually comes bundled with Python.<br />
+                3rd party GUI libraries:
+                <a href="https://github.com/PySimpleGUI/PySimpleGUI">PySimpleGUI</a>,
+                <a href="https://github.com/hoffstadt/DearPyGui">DearPyGui</a>,
+                <a href="https://github.com/rawpython/remi">remi</a>,
+                <a href="https://github.com/pygame/pygame">pygame</a>,
+                <a href="https://github.com/panda3d/panda3d">panda3d</a>,
+                <a href="https://github.com/pythonarcade/arcade">arcade</a>
+            </td>
+        </tr>
+        <tr><td><a href="https://docs.python.org/3/library/filesys.html">File and Directory Access</a></td>
+            <td>
+                Disk files and directories.<br />
+                <a href="https://docs.python.org/3/library/pathlib.html">pathlib</a>,
+                <a href="https://docs.python.org/3/library/os.path.html">os.path</a>,
+                <a href="https://docs.python.org/3/library/fileinput.html">fileinput</a>,
+                <a href="https://docs.python.org/3/library/stat.html">stat</a>,
+                <a href="https://docs.python.org/3/library/filecmp.html">filecmp</a>,
+                <a href="https://docs.python.org/3/library/tempfile.html">tempfile</a>,
+                <a href="https://docs.python.org/3/library/glob.html">glob</a>,
+                <a href="https://docs.python.org/3/library/fnmatch.html">fnmatch</a>,
+                <a href="https://docs.python.org/3/library/linecache.html">linecache</a>,
+                <a href="https://docs.python.org/3/library/shutil.html">shutil</a><br />
+                3rd party functional libraries:
+                <a href="https://github.com/PyFilesystem/pyfilesystem2">pyfilesystem2</a>
+            </td>
+        </tr>
+        <tr><td><a href="https://docs.python.org/3/library/archiving.html">Data Compression</a></td>
             <td>
                 Data compression with the zlib, gzip, bzip2 and lzma algorithms, and the creation of zip and tar archives.<br />
                 <a href="https://docs.python.org/3/library/zlib.html">zlib</a>,
@@ -242,79 +309,24 @@
                 <a href="https://github.com/pyca/bcrypt">bcrypt</a>
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/allos.html">Generic Operating System Services</a></td>
-            <td>OS features, such as files, datetime, argument parsing, logging etc.<br />
-                <a href="https://docs.python.org/3/library/os.html">os</a>,
-                <a href="https://docs.python.org/3/library/io.html">io</a>,
-                <a href="https://docs.python.org/3/library/time.html">time</a>,
-                <a href="https://docs.python.org/3/library/argparse.html">argparse</a>,
-                <a href="https://docs.python.org/3/library/getopt.html">getopt</a>,
-                <a href="https://docs.python.org/3/library/logging.html">logging</a>,
-                <a href="https://docs.python.org/3/library/getpass.html">getpass</a>,
-                <a href="https://docs.python.org/3/library/curses.html">curses</a>,
-                <a href="https://docs.python.org/3/library/platform.html">platform</a>,
-                <a href="https://docs.python.org/3/library/errno.html">errno</a>,
-                <a href="https://docs.python.org/3/library/ctypes.html">ctypes</a><br />
-                3rd party argparse libraries:
-                <a href="https://github.com/pallets/click">click</a>,
-                <a href="https://github.com/google/python-fire">python-fire</a>,
-                <a href="https://github.com/tiangolo/typer">typer</a><br />
-                3rd party logging/env/C++ libraries:
-                <a href="https://github.com/Delgan/loguru">loguru</a>,
-                <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>,
-                <a href="https://github.com/pybind/pybind11">pybind11</a>
-            </td>
-        </tr>
-        <tr><td><a href="https://docs.python.org/3/library/concurrency.html">Concurrent Execution</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/netdata.html">Internet Data Handling</a></td>
             <td>
-                Concurrent execution of code.<br />
-                <a href="https://docs.python.org/3/library/threading.html">threading</a> — Thread-based parallelism<br />
-                <a href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing</a> — Process-based parallelism<br />
-                <a href="https://docs.python.org/3/library/multiprocessing.shared_memory.html">multiprocessing.shared_memory</a> —  Provides shared memory for direct access across processes<br />
-                <a href="https://docs.python.org/3/library/concurrent.futures.html">concurrent.futures</a> — Launching parallel tasks<br />
-                <a href="https://docs.python.org/3/library/subprocess.html">subprocess</a> — Subprocess management<br />
-                <a href="https://docs.python.org/3/library/sched.html">sched</a> — Event scheduler<br />
-                <a href="https://docs.python.org/3/library/queue.html">queue</a> — A synchronized queue class<br />
-                <a href="https://docs.python.org/3/library/contextvars.html">contextvars</a> — Context Variables<br />
-                <a href="https://docs.python.org/3/library/_thread.html">_thread</a> — Low-level threading API<br />
-                3rd party (distributed) concurrency libraries:
-                <a href="https://github.com/dask/dask">dask</a>,
-                <a href="https://github.com/dask/distributed">dask.distributed</a>,
-                <a href="https://github.com/celery/celery">celery</a>
+                email, json, mailbox, mimetypes, base64, binhex, binascii, quopri.<br />
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/ipc.html">Networking and Interprocess Communication</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/markup.html">Structured Markup</a></td>
             <td>
-                Networking and inter-processes communication.<br />
-                Some modules only work for two processes that are on the same machine, e.g. signal and mmap.<br />
-                Other modules support networking protocols that two or more processes can use to communicate across machines.<br />
-                <a href="https://docs.python.org/3/library/asyncio.html">asyncio</a> — Asynchronous I/O<br />
-                <a href="https://docs.python.org/3/library/socket.html">socket</a> — Low-level networking interface<br />
-                <a href="https://docs.python.org/3/library/ssl.html">ssl</a> — TLS/SSL wrapper for socket objects<br />
-                <a href="https://docs.python.org/3/library/select.html">select</a> — Waiting for I/O completion<br />
-                <a href="https://docs.python.org/3/library/selectors.html">selectors</a> — High-level I/O multiplexing<br />
-                <a href="https://docs.python.org/3/library/signal.html">signal</a> — Set handlers for asynchronous events<br />
-                <a href="https://docs.python.org/3/library/mmap.html">mmap</a> — Memory-mapped file support<br />
-                3rd party asyncio libraries:
-                <a href="https://github.com/MagicStack/uvloop">uvloop</a>,
-                <a href="https://github.com/python-trio/trio">trio</a>,
-                <a href="https://github.com/dabeaz/curio">curio</a>,
-                <a href="https://github.com/agronholm/anyio">anyio</a>,
-                <a href="https://github.com/tiangolo/asyncer">asyncer</a>
+                html and xml.<br />
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/tk.html">Graphical User Interfaces with Tk</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/internet.html">Internet Protocols and Support</a></td>
             <td>
-                tkinter is fast and usually comes bundled with Python.<br />
-                3rd party GUI libraries:
-                <a href="https://github.com/PySimpleGUI/PySimpleGUI">PySimpleGUI</a>,
-                <a href="https://github.com/hoffstadt/DearPyGui">DearPyGui</a>,
-                <a href="https://github.com/rawpython/remi">remi</a>,
-                <a href="https://github.com/pygame/pygame">pygame</a>,
-                <a href="https://github.com/panda3d/panda3d">panda3d</a>,
-                <a href="https://github.com/pythonarcade/arcade">arcade</a>
+                webbrowser, wsgiref, urllib, http, ftplib, poplib, imaplib, smtplib, uuid, socketserver, xmlrpc, ipaddress etc.<br />
+                3rd party internet libraries:
+                <a href="https://github.com/psf/requests">requests</a>, TODO: more
             </td>
         </tr>
+        <tr><th>Dev, Packaging and Runtime</th><th></th></tr>
         <tr><td><a href="https://docs.python.org/3/library/development.html">Development Tools</a></td>
             <td>
                 Modules to help you write software<br />
@@ -353,7 +365,6 @@
                 <a href="https://docs.readthedocs.io/en/stable/index.html">readthedocs</a><br />
             </td>
         </tr>
-
         <tr><td><a href="https://docs.python.org/3/library/debug.html">Debugging and Profiling</a></td>
             <td>
                 The debugger enables you to step through code, analyze stack frames and set breakpoints etc<br />
@@ -399,7 +410,7 @@
                 <a href="https://github.com/mamba-org/mamba#micromamba">micromamba</a>
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/python.html">Python Runtime Services</a></td>
+        <tr><td><a href="https://docs.python.org/3/library/python.html">Python Runtime</a></td>
             <td>
                 Services related to the Python interpreter and its interaction with its environment.<br />
                 <a href="https://docs.python.org/3/library/__main__.html">__main__</a> — Top-level code environment<br />
@@ -426,26 +437,11 @@
                 <a href="https://github.com/numba/numba">numba</a>
             </td>
         </tr>
-        <tr><td><a href="https://docs.python.org/3/library/netdata.html">Internet Data Handling</a></td>
-            <td>
-                email, json, mailbox, mimetypes, base64, binhex, binascii, quopri.<br />
-            </td>
-        </tr>
-        <tr><td><a href="https://docs.python.org/3/library/markup.html">Structured Markup Processing Tools</a></td>
-            <td>
-                html and xml.<br />
-            </td>
-        </tr>
-        <tr><td><a href="https://docs.python.org/3/library/internet.html">Internet Protocols and Support</a></td>
-            <td>
-                webbrowser, wsgiref, urllib, http, ftplib, poplib, imaplib, smtplib, uuid, socketserver, xmlrpc, ipaddress etc.<br />
-                3rd party internet libraries:
-                <a href="https://github.com/psf/requests">requests</a>, TODO
-            </td>
-        </tr>
         <tr><td><a href="https://docs.python.org/3/library/modules.html">Importing Modules</a></td><td>Modules that provide new ways to import Python modules and hooks for customizing the import process.</td></tr>
-        <tr><td><a href="https://docs.python.org/3/library/language.html">Python Language Services</a></td><td>These modules support tokenizing, parsing, syntax analysis, bytecode disassembly etc.</td></tr>
+        <tr><td><a href="https://docs.python.org/3/library/language.html">Python Language</a></td><td>These modules support tokenizing, parsing, syntax analysis, bytecode disassembly etc.</td></tr>
     </table>
+
+    <a href="/">Back to Awesome Python</a>
 
     <!--
     <h4>All Python Standard Library</h4>
