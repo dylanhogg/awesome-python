@@ -36,6 +36,9 @@ def save_content(repopath, branch, filename, content):
     with open(out_filename, "w") as f:
         f.write(content)
 
+    # Repo url
+    repo_url = f"https://github.com/{repopath}"
+
     # Link to readme file
     readme_url = f"https://github.com/{repopath}/blob/{branch}/{filename}"
 
@@ -60,9 +63,12 @@ def save_content(repopath, branch, filename, content):
     #  to <img src="https://raw.githubusercontent.com/<repopath>/<branch>/docs/img/logo.svg"
 
     html = "<pre><code>"
-    html = html + f"README: <a href='{readme_url}'>{readme_url}</a><br />"
-    if len(pips) > 0:
-        html = html + "<br />pip install(s):<br />" + "<br />".join(pips)
+    html = html + f"GitHub repo: <a href='{repo_url}' target='_blank'>{repo_url}</a><br />"
+    html = html + f"Readme file: <a href='{readme_url}' target='_blank'>{readme_url}</a><br />"
+    if len(pips) == 1:
+        html = html + "<br />Install command:<br />" + pips[0]
+    if len(pips) > 1:
+        html = html + "<br />Install commands:<br />" + "<br />".join(pips)
     html = html + "</code></pre><hr />" + html_content
 
     with open(f"{out_filename}.html", "w") as f:

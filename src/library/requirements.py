@@ -19,6 +19,17 @@ def safe_get_url(repopath, branch, filename):
     try:
         url = f"https://raw.githubusercontent.com/{repopath}/{branch}/{filename}"
         resource = urllib.request.urlopen(url)
+        # try:
+        #     resource = urllib.request.urlopen(url)
+        # except Exception as ex:
+        #     # NOTE: this can be expected for many missing files (404)
+        #     logger.warning(f"Exception for safe_get_url with repopath (will re-try once): {repopath}")
+        #     try:
+        #         time.sleep(30)
+        #         resource = urllib.request.urlopen(url)
+        #     except Exception as ex:
+        #         logger.error(f"Exception for safe_get_url after re-try with repopath: {repopath}")
+        #         raise ex
         charset = resource.headers.get_content_charset()
         return resource.read().decode(charset).strip()
     except urllib.error.HTTPError as ex:
