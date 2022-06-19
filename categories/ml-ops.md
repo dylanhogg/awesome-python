@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 25 curated ml-ops Python libraries and frameworks ordered by stars.  
+A selection of 26 curated ml-ops Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,17 +9,17 @@ Checkout the interactive version that you can filter and sort:
 airflow: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 [https://github.com/apache/airflow](https://github.com/apache/airflow)  
-70 stars per week over 372 weeks  
-26,199 stars, 10,651 forks, 741 watches  
-created 2015-04-13, last commit 2022-06-04, main language Python  
+70 stars per week over 374 weeks  
+26,373 stars, 10,742 forks, 744 watches  
+created 2015-04-13, last commit 2022-06-18, main language Python  
 <sub><sup>airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow</sup></sub>
 
 
 ### [luigi](https://github.com/spotify/luigi) by [spotify](https://github.com/spotify)  
 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.   
 [https://github.com/spotify/luigi](https://github.com/spotify/luigi)  
-31 stars per week over 506 weeks  
-15,736 stars, 2,336 forks, 490 watches  
+31 stars per week over 508 weeks  
+15,767 stars, 2,342 forks, 491 watches  
 created 2012-09-20, last commit 2022-06-04, main language Python  
 <sub><sup>hadoop, luigi, orchestration-framework, python, scheduling</sup></sub>
 
@@ -28,9 +28,9 @@ created 2012-09-20, last commit 2022-06-04, main language Python
 horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
 [http://horovod.ai](http://horovod.ai)  
 [https://github.com/horovod/horovod](https://github.com/horovod/horovod)  
-49 stars per week over 251 weeks  
-12,467 stars, 2,064 forks, 335 watches  
-created 2017-08-09, last commit 2022-06-03, main language Python  
+49 stars per week over 253 weeks  
+12,506 stars, 2,076 forks, 334 watches  
+created 2017-08-09, last commit 2022-06-17, main language Python  
 <sub><sup>baidu, deep-learning, deeplearning, keras, machine-learning, machinelearning, mpi, mxnet, pytorch, ray, spark, tensorflow, uber</sup></sub>
 
 
@@ -38,9 +38,9 @@ created 2017-08-09, last commit 2022-06-03, main language Python
 mlflow: Open source platform for the machine learning lifecycle  
 [https://mlflow.org](https://mlflow.org)  
 [https://github.com/mlflow/mlflow](https://github.com/mlflow/mlflow)  
-57 stars per week over 208 weeks  
-11,966 stars, 2,750 forks, 275 watches  
-created 2018-06-05, last commit 2022-06-04, main language Python  
+57 stars per week over 210 weeks  
+12,066 stars, 2,774 forks, 274 watches  
+created 2018-06-05, last commit 2022-06-17, main language Python  
 <sub><sup>ai, apache-spark, machine-learning, ml, mlflow, model-management</sup></sub>
 
 
@@ -48,9 +48,9 @@ created 2018-06-05, last commit 2022-06-04, main language Python
 prefect: The easiest way to automate your data  
 [https://prefect.io](https://prefect.io)  
 [https://github.com/PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)  
-44 stars per week over 205 weeks  
-9,205 stars, 914 forks, 147 watches  
-created 2018-06-29, last commit 2022-05-27, main language Python  
+44 stars per week over 207 weeks  
+9,283 stars, 925 forks, 147 watches  
+created 2018-06-29, last commit 2022-06-07, main language Python  
 <sub><sup>automation, data-engineering, data-ops, data-science, infrastructure, ml-ops, orchestration, orion, prefect, python, workflow, workflow-engine</sup></sub>
 
 
@@ -58,9 +58,9 @@ created 2018-06-29, last commit 2022-05-27, main language Python
 ludwig: Data-centric declarative deep learning framework  
 [http://ludwig.ai](http://ludwig.ai)  
 [https://github.com/uber/ludwig](https://github.com/uber/ludwig)  
-46 stars per week over 179 weeks  
-8,342 stars, 986 forks, 187 watches  
-created 2018-12-27, last commit 2022-06-04, main language Python  
+46 stars per week over 181 weeks  
+8,380 stars, 989 forks, 185 watches  
+created 2018-12-27, last commit 2022-06-17, main language Python  
 <sub><sup>computer-vision, data-centric, data-science, datascience, deep, deep-learning, deeplearning, learning, machine, machine-learning, machinelearning, ml, natural-language, natural-language-processing, neural-network, python, pytorch</sup></sub>
 
 
@@ -68,9 +68,9 @@ created 2018-12-27, last commit 2022-06-04, main language Python
 kedro: A Python framework for creating reproducible, maintainable and modular data science code.  
 [https://kedro.org](https://kedro.org)  
 [https://github.com/kedro-org/kedro](https://github.com/kedro-org/kedro)  
-44 stars per week over 163 weeks  
-7,260 stars, 666 forks, 102 watches  
-created 2019-04-18, last commit 2022-06-01, main language Python  
+44 stars per week over 165 weeks  
+7,297 stars, 668 forks, 100 watches  
+created 2019-04-18, last commit 2022-06-16, main language Python  
 <sub><sup>experiment-tracking, hacktoberfest, kedro, machine-learning, mlops, pipeline, python</sup></sub>
 
 
@@ -78,9 +78,9 @@ created 2019-04-18, last commit 2022-06-01, main language Python
 great_expectations: Always know what to expect from your data.  
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 [https://github.com/great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)  
-27 stars per week over 246 weeks  
-6,671 stars, 962 forks, 63 watches  
-created 2017-09-11, last commit 2022-06-03, main language Python  
+27 stars per week over 248 weeks  
+6,734 stars, 970 forks, 64 watches  
+created 2017-09-11, last commit 2022-06-17, main language Python  
 <sub><sup>cleandata, data-engineering, data-profilers, data-profiling, data-quality, data-science, data-unit-tests, datacleaner, datacleaning, dataquality, dataunittest, eda, exploratory-analysis, exploratory-data-analysis, exploratorydataanalysis, mlops, pipeline, pipeline-debt, pipeline-testing, pipeline-tests</sup></sub>
 
 
@@ -88,9 +88,9 @@ created 2017-09-11, last commit 2022-06-03, main language Python
 metaflow: :rocket: Build and manage real-life data science projects with ease!  
 [https://metaflow.org](https://metaflow.org)  
 [https://github.com/Netflix/metaflow](https://github.com/Netflix/metaflow)  
-40 stars per week over 141 weeks  
-5,672 stars, 511 forks, 239 watches  
-created 2019-09-17, last commit 2022-06-01, main language Python  
+39 stars per week over 143 weeks  
+5,721 stars, 519 forks, 238 watches  
+created 2019-09-17, last commit 2022-06-17, main language Python  
 <sub><sup>ai, cli, data-science, datascience, high-performance-computing, kubernetes, machine-learning, ml, ml-infrastructure, ml-platform, mlops, model-management, productivity, python, r, r-package, reproducible-research, rstats</sup></sub>
 
 
@@ -98,9 +98,9 @@ created 2019-09-17, last commit 2022-06-01, main language Python
 dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  
 [https://getdbt.com](https://getdbt.com)  
 [https://github.com/dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)  
-15 stars per week over 325 weeks  
-4,934 stars, 903 forks, 105 watches  
-created 2016-03-10, last commit 2022-06-02, main language Python  
+15 stars per week over 327 weeks  
+5,025 stars, 919 forks, 104 watches  
+created 2016-03-10, last commit 2022-06-17, main language Python  
 <sub><sup>analytics, business-intelligence, data-modeling, dbt-viewpoint, elt, pypa, slack</sup></sub>
 
 
@@ -108,19 +108,19 @@ created 2016-03-10, last commit 2022-06-02, main language Python
 dagster: An orchestration platform for the development, production, and observation of data assets.  
 [https://dagster.io](https://dagster.io)  
 [https://github.com/dagster-io/dagster](https://github.com/dagster-io/dagster)  
-22 stars per week over 213 weeks  
-4,815 stars, 608 forks, 85 watches  
-created 2018-04-30, last commit 2022-06-03, main language Python  
-<sub><sup>analytics, dagster, data-engineering, data-orchestrator, data-pipelines, data-science, etl, mlops, python, scheduler, workflow, workflow-automation</sup></sub>
+22 stars per week over 215 weeks  
+4,881 stars, 616 forks, 86 watches  
+created 2018-04-30, last commit 2022-06-17, main language Python  
+<sub><sup>analytics, dagster, data-engineering, data-integration, data-orchestrator, data-pipelines, data-science, etl, metadata, mlops, orchestration, python, scheduler, workflow, workflow-automation</sup></sub>
 
 
 ### [haystack](https://github.com/deepset-ai/haystack) by [deepset-ai](https://github.com/deepset-ai)  
-haystack: :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.  
+haystack: :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.  
 [https://deepset.ai/haystack](https://deepset.ai/haystack)  
 [https://github.com/deepset-ai/haystack](https://github.com/deepset-ai/haystack)  
-35 stars per week over 133 weeks  
-4,767 stars, 764 forks, 80 watches  
-created 2019-11-14, last commit 2022-06-03, main language Python  
+35 stars per week over 135 weeks  
+4,854 stars, 776 forks, 81 watches  
+created 2019-11-14, last commit 2022-06-17, main language Python  
 <sub><sup>ai, bert, dpr, elasticsearch, information-retrieval, language-model, machine-learning, natural-language-processing, neural-search, nlp, python, pytorch, question-answering, search-engine, semantic-search, squad, summarization, transfer-learning, transformers</sup></sub>
 
 
@@ -128,9 +128,9 @@ created 2019-11-14, last commit 2022-06-03, main language Python
 Hub: Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai   
 [https://activeloop.ai](https://activeloop.ai)  
 [https://github.com/activeloopai/Hub](https://github.com/activeloopai/Hub)  
-31 stars per week over 147 weeks  
-4,586 stars, 380 forks, 62 watches  
-created 2019-08-09, last commit 2022-06-03, main language Python  
+31 stars per week over 149 weeks  
+4,627 stars, 382 forks, 61 watches  
+created 2019-08-09, last commit 2022-06-17, main language Python  
 <sub><sup>ai, cloud-computing, computer-vision, cv, data-centric, data-pipelines, data-processing, data-science, data-version-control, datasets, deep-learning, gsoc, image-processing, jupyter-notebook, machine-learning, ml, mlops, python, pytorch, tensorflow</sup></sub>
 
 
@@ -138,9 +138,9 @@ created 2019-08-09, last commit 2022-06-03, main language Python
 feast: Feature Store for Machine Learning  
 [https://feast.dev](https://feast.dev)  
 [https://github.com/feast-dev/feast](https://github.com/feast-dev/feast)  
-17 stars per week over 181 weeks  
-3,231 stars, 574 forks, 69 watches  
-created 2018-12-10, last commit 2022-06-03, main language Python  
+17 stars per week over 183 weeks  
+3,274 stars, 587 forks, 69 watches  
+created 2018-12-10, last commit 2022-06-17, main language Python  
 <sub><sup>big-data, data-engineering, data-quality, data-science, feature-engineering, feature-store, features, machine-learning, ml, mlops, python</sup></sub>
 
 
@@ -148,9 +148,9 @@ created 2018-12-10, last commit 2022-06-03, main language Python
 ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management  
 [https://clear.ml/docs](https://clear.ml/docs)  
 [https://github.com/allegroai/clearml](https://github.com/allegroai/clearml)  
-20 stars per week over 155 weeks  
-3,205 stars, 443 forks, 75 watches  
-created 2019-06-10, last commit 2022-06-03, main language Python  
+20 stars per week over 157 weeks  
+3,238 stars, 445 forks, 75 watches  
+created 2019-06-10, last commit 2022-06-16, main language Python  
 <sub><sup>ai, clearml, control, deep-learning, deeplearning, devops, experiment, experiment-manager, k8s, machine-learning, machinelearning, mlops, trains, trainsai, version, version-control</sup></sub>
 
 
@@ -158,9 +158,9 @@ created 2019-06-10, last commit 2022-06-03, main language Python
 polyaxon: MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle  
 [https://polyaxon.com](https://polyaxon.com)  
 [https://github.com/polyaxon/polyaxon](https://github.com/polyaxon/polyaxon)  
-10 stars per week over 283 weeks  
-3,094 stars, 304 forks, 77 watches  
-created 2016-12-26, last commit 2022-06-03, main language Python  
+10 stars per week over 285 weeks  
+3,105 stars, 305 forks, 77 watches  
+created 2016-12-26, last commit 2022-06-18, main language Python  
 <sub><sup>artificial-intelligence, caffe, data-science, deep-learning, hyperparameter-optimization, jupyter, jupyterlab, k8s, keras, kubernetes, machine-learning, ml, mlops, mxnet, notebook, pipelines, pytorch, reinforcement-learning, tensorflow, workflow</sup></sub>
 
 
@@ -168,9 +168,9 @@ created 2016-12-26, last commit 2022-06-03, main language Python
 pipelines: Machine Learning Pipelines for Kubeflow  
 [https://www.kubeflow.org/docs/components/pipelines/](https://www.kubeflow.org/docs/components/pipelines/)  
 [https://github.com/kubeflow/pipelines](https://github.com/kubeflow/pipelines)  
-13 stars per week over 212 weeks  
-2,848 stars, 1,255 forks, 105 watches  
-created 2018-05-12, last commit 2022-06-04, main language Python  
+13 stars per week over 214 weeks  
+2,873 stars, 1,259 forks, 105 watches  
+created 2018-05-12, last commit 2022-06-18, main language Python  
 <sub><sup>data-science, kubeflow, kubeflow-pipelines, kubernetes, machine-learning, mlops, pipeline</sup></sub>
 
 
@@ -178,18 +178,18 @@ created 2018-05-12, last commit 2022-06-04, main language Python
 Aim 💫 — easy-to-use and performant open-source ML experiment tracker.  
 [https://aimstack.io](https://aimstack.io)  
 [https://github.com/aimhubio/aim](https://github.com/aimhubio/aim)  
-15 stars per week over 157 weeks  
-2,504 stars, 150 forks, 33 watches  
-created 2019-05-31, last commit 2022-06-03, main language TypeScript  
+15 stars per week over 159 weeks  
+2,535 stars, 151 forks, 33 watches  
+created 2019-05-31, last commit 2022-06-17, main language TypeScript  
 <sub><sup>experiment-tracking, keras, machine-learning, mlops, nlp, pytorch, pytorch-lightning, reinforcement-learning, tensorflow, training-tracking</sup></sub>
 
 
 ### [evidently](https://github.com/evidentlyai/evidently) by [evidentlyai](https://github.com/evidentlyai)  
 evidently: Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b  
 [https://github.com/evidentlyai/evidently](https://github.com/evidentlyai/evidently)  
-30 stars per week over 79 weeks  
-2,385 stars, 230 forks, 28 watches  
-created 2020-11-25, last commit 2022-05-31, main language Python  
+29 stars per week over 81 weeks  
+2,428 stars, 237 forks, 29 watches  
+created 2020-11-25, last commit 2022-06-15, main language Python  
 <sub><sup>data-drift, data-science, html-report, jupyter-notebook, machine-learning, machine-learning-operations, mlops, model-monitoring, pandas-dataframe, production-machine-learning</sup></sub>
 
 
@@ -197,36 +197,36 @@ created 2020-11-25, last commit 2022-05-31, main language Python
 Flower - A Friendly Federated Learning Framework  
 [https://flower.dev](https://flower.dev)  
 [https://github.com/adap/flower](https://github.com/adap/flower)  
-8.84 stars per week over 119 weeks  
-1,058 stars, 261 forks, 20 watches  
-created 2020-02-17, last commit 2022-06-03, main language Python  
+8.96 stars per week over 121 weeks  
+1,091 stars, 267 forks, 20 watches  
+created 2020-02-17, last commit 2022-06-17, main language Python  
 <sub><sup>federated-analytics, federated-learning, federated-learning-framework, fleet-intelligence, fleet-learning, flower, keras-federated-learning, pytorch-federated-learning, tensorflow-federated-learning</sup></sub>
 
 
 ### [data-validation](https://github.com/tensorflow/data-validation) by [tensorflow](https://github.com/tensorflow)  
 data-validation: Library for exploring and validating machine learning data  
 [https://github.com/tensorflow/data-validation](https://github.com/tensorflow/data-validation)  
-3.11 stars per week over 204 weeks  
-636 stars, 127 forks, 46 watches  
-created 2018-07-02, last commit 2022-06-03, main language Python  
+3.1 stars per week over 206 weeks  
+640 stars, 128 forks, 46 watches  
+created 2018-07-02, last commit 2022-06-16, main language Python  
 
 
 ### [ml-metadata](https://github.com/google/ml-metadata) by [google](https://github.com/google)  
 ml-metadata: For recording and retrieving metadata associated with ML developer and data scientist workflows.  
 [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)  
 [https://github.com/google/ml-metadata](https://github.com/google/ml-metadata)  
-2.67 stars per week over 176 weeks  
-471 stars, 101 forks, 28 watches  
-created 2019-01-15, last commit 2022-05-31, main language C++  
+2.64 stars per week over 178 weeks  
+472 stars, 101 forks, 28 watches  
+created 2019-01-15, last commit 2022-06-14, main language C++  
 
 
 ### [kedro-viz](https://github.com/kedro-org/kedro-viz) by [kedro-org](https://github.com/kedro-org)  
 kedro-viz: Visualise your Kedro data and machine-learning pipelines and track your experiments.   
 [https://demo.kedro.org/](https://demo.kedro.org/)  
 [https://github.com/kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz)  
-2.73 stars per week over 160 weeks  
-437 stars, 66 forks, 10 watches  
-created 2019-05-09, last commit 2022-06-02, main language JavaScript  
+2.72 stars per week over 162 weeks  
+441 stars, 69 forks, 10 watches  
+created 2019-05-09, last commit 2022-06-17, main language JavaScript  
 <sub><sup>data-visualization, experiment-tracking, hacktoberfest, kedro, kedro-plugin, python, react</sup></sub>
 
 
@@ -234,21 +234,31 @@ created 2019-05-09, last commit 2022-06-02, main language JavaScript
 FEDOT: Automated modeling and machine learning framework FEDOT  
 [https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
 [https://github.com/nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT)  
-3.14 stars per week over 124 weeks  
-391 stars, 44 forks, 8 watches  
-created 2020-01-13, last commit 2022-06-03, main language Python  
+3.18 stars per week over 126 weeks  
+403 stars, 47 forks, 8 watches  
+created 2020-01-13, last commit 2022-06-17, main language Python  
 <sub><sup>automated-machine-learning, automation, automl, evolutionary-algorithms, fedot, genetic-programming, hyperparameter-optimization, machine-learning, multimodality, parameter-tuning, structural-learning</sup></sub>
+
+
+### [bodywork-core](https://github.com/bodywork-ml/bodywork-core) by [bodywork-ml](https://github.com/bodywork-ml)  
+bodywork-core: ML pipeline orchestration and model deployments on Kubernetes, made really easy.  
+[https://bodywork.readthedocs.io/en/latest/](https://bodywork.readthedocs.io/en/latest/)  
+[https://github.com/bodywork-ml/bodywork-core](https://github.com/bodywork-ml/bodywork-core)  
+4.11 stars per week over 82 weeks  
+339 stars, 17 forks, 9 watches  
+created 2020-11-17, last commit 2022-06-14, main language Python  
+<sub><sup>batch, cicd, continuous-deployment, data-science, devops, framework, kubernetes, machine-learning, mlops, orchestration, pipeline, python, serving</sup></sub>
 
 
 ### [fairing](https://github.com/kubeflow/fairing) by [kubeflow](https://github.com/kubeflow)  
 fairing: Python SDK for building, training, and deploying ML models  
 [https://github.com/kubeflow/fairing](https://github.com/kubeflow/fairing)  
-1.6 stars per week over 195 weeks  
-313 stars, 147 forks, 40 watches  
+1.59 stars per week over 197 weeks  
+314 stars, 147 forks, 40 watches  
 created 2018-09-03, last commit 2021-08-26, main language Jsonnet  
 
 
-This file was automatically generated on 2022-06-04.  
+This file was automatically generated on 2022-06-18.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
