@@ -9,13 +9,13 @@ Checkout the interactive version that you can filter and sort:
 zenodo: Research. Shared.  
 [https://zenodo.org](https://zenodo.org)  
 [https://github.com/zenodo/zenodo](https://github.com/zenodo/zenodo)  
-1.42 stars per week over 495 weeks  
-705 stars, 219 forks, 39 watches  
-created 2013-02-11, last commit 2022-08-10, main language Python  
+1.43 stars per week over 496 weeks  
+708 stars, 219 forks, 39 watches  
+created 2013-02-11, last commit 2022-08-17, main language Python  
 <sub><sup>digital-library, elasticsearch, flask, invenio, inveniosoftware, library-management, open-access, open-science, postgresql, python, research-data-management, research-data-repository, scientific-publications, zenodo</sup></sub>
 
 
-This file was automatically generated on 2022-08-11.  
+This file was automatically generated on 2022-08-19.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

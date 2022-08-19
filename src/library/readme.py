@@ -23,8 +23,12 @@ def rst2html_old(content):
 
 # https://www.kite.com/python/docs/docutils.core.publish_parts
 def rst2html(content):
-    parts = docutils.core.publish_parts(content, writer_name="html")
-    return parts["html_body"]
+    try:
+        parts = docutils.core.publish_parts(content, writer_name="html")
+        return parts["html_body"]
+    except Exception as e:
+        logger.error(f"Error in rst2html: {e}")
+        return ""
 
 
 def save_content(repopath, branch, filename, content):
