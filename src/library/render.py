@@ -13,6 +13,7 @@ def get_input_data(csv_location) -> pd.DataFrame:
     assert "githuburl" in df.columns
     assert "category" in df.columns
 
+    df["githuburl"] = df["githuburl"].apply(lambda x: x.lower())
     duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
     duplicated_count = len(duplicated_githuburls)
     if duplicated_count > 0:
