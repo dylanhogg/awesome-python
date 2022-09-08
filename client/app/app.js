@@ -1,4 +1,4 @@
-var version = "v0.0.6";
+var version = "v0.0.7";
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -35,7 +35,8 @@ $(document).ready( function () {
             url: ajax_url,
             dataSrc: 'data'
         },
-        order: [[ 4, "desc" ]],
+        responsive: true,
+        order: [[ 3, "desc" ]],
         paging: true,
         lengthChange: true,
         lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
@@ -81,11 +82,8 @@ $(document).ready( function () {
 //
 //            }
 //          },
-          { data: "category", title: "Category" },
-          { data: "_description", title: "Description",
-            render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
-          },
-          { title: "Links",
+          { data: null,
+            title: "Project",
             render: function(data, type, row, meta) {
                 var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
                 var orgUrl = "<br /><a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
@@ -93,6 +91,9 @@ $(document).ready( function () {
                 try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web.png' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
                 return repoUrl + orgUrl + homepageUrl;
              }
+           },
+           { data: "_description", title: "Description",
+             render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
            },
 //          { data: "_topics", title: "Tags",
 //            render: function(data, type, row, meta) { return data.join(", "); }
@@ -113,6 +114,7 @@ $(document).ready( function () {
           { data: "_age_weeks", title: "Age in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
           },
+          { data: "category", title: "Category" },
         ],
     });
 
