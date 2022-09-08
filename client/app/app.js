@@ -36,7 +36,7 @@ $(document).ready( function () {
             dataSrc: 'data'
         },
         responsive: true,
-        order: [[ 3, "desc" ]],
+        order: [[ 2, "desc" ]],
         paging: true,
         lengthChange: true,
         lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
@@ -47,17 +47,6 @@ $(document).ready( function () {
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
         columns: [
-          { data: "_readme_localurl", title: "",
-            orderable: false,
-            render: function(data, type, row, meta) {
-                if (data.length > 0) {
-                    var url = "/data/" + data + "";
-                    return "<img src='img/github.png' alt='info' title='View install and GitHub info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
-                } else {
-                    return "";
-                }
-            }
-          },
 //          { data: "_requirements_localurls", title: "Requirements",
 //            render: function(data, type, row, meta) {
 //                if (data.length > 0) {
@@ -95,13 +84,10 @@ $(document).ready( function () {
            { data: "_description", title: "Description",
              render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
            },
-//          { data: "_topics", title: "Tags",
-//            render: function(data, type, row, meta) { return data.join(", "); }
-//          },
-          { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
           },
+          { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
             className: "text-nowrap",
@@ -115,6 +101,20 @@ $(document).ready( function () {
             render: function(data, type, row, meta) { return data.toFixed(0); }
           },
           { data: "category", title: "Category" },
+          { data: "_topics", title: "Tags",
+            render: function(data, type, row, meta) { return data.slice(0, 4).join(", "); }
+          },
+          { data: "_readme_localurl", title: "Docs",
+            orderable: false,
+            render: function(data, type, row, meta) {
+                if (data.length > 0) {
+                    var url = "/data/" + data + "";
+                    return "<img src='img/github.png' alt='info' title='View install and GitHub info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
+                } else {
+                    return "";
+                }
+            }
+          },
         ],
     });
 
