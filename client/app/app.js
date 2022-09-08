@@ -36,7 +36,7 @@ $(document).ready( function () {
             dataSrc: 'data'
         },
         responsive: true,
-        order: [[ 2, "desc" ]],
+        order: [[ 1, "desc" ]],
         paging: true,
         lengthChange: true,
         lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
@@ -81,13 +81,13 @@ $(document).ready( function () {
                 return repoUrl + orgUrl + homepageUrl;
              }
            },
-           { data: "_description", title: "Description",
-             render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
-           },
-          { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
+           { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
           },
           { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+           { data: "_description", title: "Description",
+             render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
+           },
           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
             className: "text-nowrap",
