@@ -9,26 +9,26 @@ Checkout the interactive version that you can filter and sort:
 prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.  
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
 [https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
-49 stars per week over 300 weeks  
-14,811 stars, 4,262 forks, 415 watches  
-created 2016-11-16, last commit 2022-07-07, main language Python  
+49 stars per week over 303 weeks  
+14,867 stars, 4,270 forks, 417 watches  
+created 2016-11-16, last commit 2022-09-05, main language Python  
 <sub><sup>forecasting, python, r</sup></sub>
 
 
-### [Kats](https://github.com/facebookresearch/Kats) by [facebookresearch](https://github.com/facebookresearch)  
+### [Kats](https://github.com/facebookresearch/kats) by [facebookresearch](https://github.com/facebookresearch)  
 Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.   
-[https://github.com/facebookresearch/Kats](https://github.com/facebookresearch/Kats)  
-50 stars per week over 77 weeks  
-3,901 stars, 392 forks, 70 watches  
-created 2021-02-25, last commit 2022-08-18, main language Python  
+[https://github.com/facebookresearch/kats](https://github.com/facebookresearch/kats)  
+49 stars per week over 80 weeks  
+3,943 stars, 401 forks, 70 watches  
+created 2021-02-25, last commit 2022-08-31, main language Python  
 
 
-### [Merlion](https://github.com/salesforce/Merlion) by [salesforce](https://github.com/salesforce)  
+### [Merlion](https://github.com/salesforce/merlion) by [salesforce](https://github.com/salesforce)  
 Merlion: A Machine Learning Framework for Time Series Intelligence  
-[https://github.com/salesforce/Merlion](https://github.com/salesforce/Merlion)  
-48 stars per week over 55 weeks  
-2,658 stars, 217 forks, 43 watches  
-created 2021-07-28, last commit 2022-07-15, main language Python  
+[https://github.com/salesforce/merlion](https://github.com/salesforce/merlion)  
+46 stars per week over 58 weeks  
+2,691 stars, 224 forks, 43 watches  
+created 2021-07-28, last commit 2022-09-01, main language Python  
 <sub><sup>anomaly-detection, automl, benchmarking, ensemble-learning, forecasting, machine-learning, time-series</sup></sub>
 
 
@@ -36,13 +36,13 @@ created 2021-07-28, last commit 2022-07-15, main language Python
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 [https://github.com/firmai/atspy](https://github.com/firmai/atspy)  
-3.38 stars per week over 133 weeks  
-451 stars, 86 forks, 21 watches  
+3.32 stars per week over 136 weeks  
+452 stars, 86 forks, 21 watches  
 created 2020-01-28, last commit 2021-12-18, main language Python  
 <sub><sup>automated, finance, forecasting, forecasting-models, python, time-series, time-series-analysis</sup></sub>
 
 
-This file was automatically generated on 2022-08-19.  
+This file was automatically generated on 2022-09-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
