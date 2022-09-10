@@ -1,4 +1,4 @@
-var version = "v0.0.7";
+var version = "v0.0.8";
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -21,6 +21,14 @@ function getUrlQuery() {
     }
 }
 
+$(document).keydown(function(e) {
+    if (e.keyCode == 39 || e.keyCode == 40) {
+        $("#table").DataTable().page("next").draw("page");
+    } else if (e.keyCode == 37 || e.keyCode == 38) {
+        $("#table").DataTable().page("previous").draw("page");
+    }
+});
+
 $(document).ready( function () {
     var ajax_url = './github_data.min.json';
     // var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
@@ -39,11 +47,15 @@ $(document).ready( function () {
         order: [[ 1, "desc" ]],
         paging: true,
         lengthChange: true,
-        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
-        pageLength: 10,
+        lengthMenu: [[5, 10, 50, 100, -1], [5, 10, 50, 100, "All"]],
+        pageLength: 5,
         search: {
-           search: initialSearchTerm
+           search: initialSearchTerm,
         },
+        language: {
+            searchPlaceholder: "Search",
+            search: "",
+          },
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
         columns: [
@@ -85,7 +97,7 @@ $(document).ready( function () {
            },
            { data: "category", title: "Category" },
            { data: "_topics", title: "Tags",
-            render: function(data, type, row, meta) { return data.slice(0, 4).join(", "); }
+            render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
            },
            { data: "_readme_localurl", title: "Docs",
             orderable: false,

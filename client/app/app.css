@@ -55,8 +55,55 @@ img.info-img:hover {
     margin-top: 10px;
 }
 
-/*.dataTables_paginate {
-    float: left !important;
-    text-align: left;
-    margin-top: 10px;
-}*/
+div.dataTables_filter input {
+    /* override datatables margin-left: 0.5em; */
+    margin-left: 0px !important;
+}
+
+/* --- menu --- */
+
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: #3776ab;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+/*
+.topnav #menu-links {
+  display: none;
+}
+*/
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: #3776ab;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+/*
+.topnav a:hover {
+   background-color: #ddd;
+  color: black;
+}
+*/
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #3776ab;
+  color: white;
+}
