@@ -22,9 +22,9 @@ function getUrlQuery() {
 }
 
 $(document).keydown(function(e) {
-    if (e.keyCode == 39 || e.keyCode == 40) {
+    if (e.keyCode == 39) {
         $("#table").DataTable().page("next").draw("page");
-    } else if (e.keyCode == 37 || e.keyCode == 38) {
+    } else if (e.keyCode == 37) {
         $("#table").DataTable().page("previous").draw("page");
     }
 });
@@ -37,6 +37,10 @@ $(document).ready( function () {
         ajax_url = '/github_data.json';
     }
 
+    $("#menu-icon").click(function(){
+        $('#menu-links').toggle();
+    });
+
     var initialSearchTerm = getUrlQuery();
     $("#table").DataTable( {
         ajax: {
@@ -47,8 +51,8 @@ $(document).ready( function () {
         order: [[ 1, "desc" ]],
         paging: true,
         lengthChange: true,
-        lengthMenu: [[5, 10, 50, 100, -1], [5, 10, 50, 100, "All"]],
-        pageLength: 5,
+        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
+        pageLength: 10,
         search: {
            search: initialSearchTerm,
         },

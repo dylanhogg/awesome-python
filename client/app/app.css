@@ -76,12 +76,16 @@ div.dataTables_filter input {
 }
 */
 
+#menu-links {
+    background: #5292c7;
+    text-align: right;
+}
+
 /* Style navigation menu links */
 .topnav a {
   color: white;
-  padding: 14px 16px;
+  padding: 10px 10px;
   text-decoration: none;
-  font-size: 17px;
   display: block;
 }
 
