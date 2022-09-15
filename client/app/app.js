@@ -70,10 +70,10 @@ $(document).ready( function () {
                 return repoUrl;
              }
            },
+           { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
            { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
-           { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
            { data: "_description", title: "Description",
              render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
            },
