@@ -6,12 +6,12 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [trivy](https://github.com/aquasecurity/trivy) by [aquasecurity](https://github.com/aquasecurity)  
-trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets  
-[https://aquasecurity.github.io/trivy/](https://aquasecurity.github.io/trivy/)  
+trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
+[https://trivy.dev](https://trivy.dev)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
-77 stars per week over 180 weeks  
-13,962 stars, 1,331 forks, 140 watches  
-created 2019-04-11, last commit 2022-09-21, main language Go  
+77 stars per week over 182 weeks  
+14,116 stars, 1,349 forks, 143 watches  
+created 2019-04-11, last commit 2022-10-02, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
@@ -19,8 +19,8 @@ created 2019-04-11, last commit 2022-09-21, main language Go
 Bandit is a tool designed to find common security issues in Python code.  
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/pycqa/bandit](https://github.com/pycqa/bandit)  
-19 stars per week over 230 weeks  
-4,473 stars, 477 forks, 58 watches  
+19 stars per week over 232 weeks  
+4,532 stars, 482 forks, 58 watches  
 created 2018-04-26, last commit 2022-09-14, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
@@ -29,9 +29,9 @@ created 2018-04-26, last commit 2022-09-14, main language Python
 Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 [https://pyup.io/safety/](https://pyup.io/safety/)  
 [https://github.com/pyupio/safety](https://github.com/pyupio/safety)  
-4.41 stars per week over 309 weeks  
-1,363 stars, 120 forks, 31 watches  
-created 2016-10-19, last commit 2022-09-19, main language Python  
+4.42 stars per week over 311 weeks  
+1,376 stars, 120 forks, 31 watches  
+created 2016-10-19, last commit 2022-10-05, main language Python  
 <sub><sup>python, security, security-vulnerability, travis, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
@@ -39,9 +39,9 @@ created 2016-10-19, last commit 2022-09-19, main language Python
 pip-audit: Audits Python environments and dependency trees for known vulnerabilities  
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
-11 stars per week over 55 weeks  
-645 stars, 36 forks, 19 watches  
-created 2021-09-02, last commit 2022-09-16, main language Python  
+11 stars per week over 57 weeks  
+653 stars, 36 forks, 19 watches  
+created 2021-09-02, last commit 2022-10-03, main language Python  
 <sub><sup>pip, python, security, security-audit, supply-chain</sup></sub>
 
 
@@ -49,9 +49,9 @@ created 2021-09-02, last commit 2022-09-16, main language Python
 jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
 [https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
-0.45 stars per week over 154 weeks  
-69 stars, 19 forks, 9 watches  
-created 2019-10-10, last commit 2022-06-09, main language Python  
+0.44 stars per week over 156 weeks  
+69 stars, 18 forks, 9 watches  
+created 2019-10-10, last commit 2022-09-30, main language Python  
 <sub><sup>nexus-iq, ossindex, python, sonatype-iq, vulnerabilities, vulnerability-scanners</sup></sub>
 
 
@@ -59,13 +59,13 @@ created 2019-10-10, last commit 2022-06-09, main language Python
 pysnyk: A Python client for the Snyk API.  
 [https://snyk.docs.apiary.io/](https://snyk.docs.apiary.io/)  
 [https://github.com/snyk-labs/pysnyk](https://github.com/snyk-labs/pysnyk)  
-0.25 stars per week over 189 weeks  
-47 stars, 84 forks, 10 watches  
+0.25 stars per week over 191 weeks  
+47 stars, 85 forks, 10 watches  
 created 2019-02-03, last commit 2022-05-26, main language Python  
 <sub><sup>api, python, snyk</sup></sub>
 
 
-This file was automatically generated on 2022-09-22.  
+This file was automatically generated on 2022-10-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
