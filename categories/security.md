@@ -10,8 +10,8 @@ trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kub
 [https://trivy.dev](https://trivy.dev)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 77 stars per week over 182 weeks  
-14,116 stars, 1,349 forks, 143 watches  
-created 2019-04-11, last commit 2022-10-02, main language Go  
+14,148 stars, 1,350 forks, 144 watches  
+created 2019-04-11, last commit 2022-10-06, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
@@ -20,7 +20,7 @@ Bandit is a tool designed to find common security issues in Python code.
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/pycqa/bandit](https://github.com/pycqa/bandit)  
 19 stars per week over 232 weeks  
-4,532 stars, 482 forks, 58 watches  
+4,545 stars, 483 forks, 58 watches  
 created 2018-04-26, last commit 2022-09-14, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
@@ -41,7 +41,7 @@ pip-audit: Audits Python environments and dependency trees for known vulnerabili
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
 11 stars per week over 57 weeks  
 653 stars, 36 forks, 19 watches  
-created 2021-09-02, last commit 2022-10-03, main language Python  
+created 2021-09-02, last commit 2022-10-07, main language Python  
 <sub><sup>pip, python, security, security-audit, supply-chain</sup></sub>
 
 
@@ -60,12 +60,12 @@ pysnyk: A Python client for the Snyk API.
 [https://snyk.docs.apiary.io/](https://snyk.docs.apiary.io/)  
 [https://github.com/snyk-labs/pysnyk](https://github.com/snyk-labs/pysnyk)  
 0.25 stars per week over 191 weeks  
-47 stars, 85 forks, 10 watches  
+48 stars, 85 forks, 10 watches  
 created 2019-02-03, last commit 2022-05-26, main language Python  
 <sub><sup>api, python, snyk</sup></sub>
 
 
-This file was automatically generated on 2022-10-06.  
+This file was automatically generated on 2022-10-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

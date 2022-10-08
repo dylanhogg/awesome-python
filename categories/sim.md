@@ -10,7 +10,7 @@ gym: A toolkit for developing and comparing reinforcement learning algorithms.
 [https://www.gymlibrary.dev](https://www.gymlibrary.dev)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 85 stars per week over 336 weeks  
-28,727 stars, 8,007 forks, 995 watches  
+28,749 stars, 8,009 forks, 995 watches  
 created 2016-04-27, last commit 2022-10-04, main language Python  
 
 
@@ -19,7 +19,7 @@ PythonRobotics: Python sample codes for robotics algorithms.
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 [https://github.com/atsushisakai/pythonrobotics](https://github.com/atsushisakai/pythonrobotics)  
 48 stars per week over 341 weeks  
-16,392 stars, 5,228 forks, 497 watches  
+16,407 stars, 5,229 forks, 498 watches  
 created 2016-03-21, last commit 2022-10-03, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
@@ -28,8 +28,8 @@ created 2016-03-21, last commit 2022-10-03, main language Python
 ml-agents: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
 [https://unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
 [https://github.com/unity-technologies/ml-agents](https://github.com/unity-technologies/ml-agents)  
-50 stars per week over 264 weeks  
-13,442 stars, 3,569 forks, 542 watches  
+50 stars per week over 265 weeks  
+13,449 stars, 3,573 forks, 542 watches  
 created 2017-09-08, last commit 2022-09-22, main language C#  
 <sub><sup>deep-learning, deep-reinforcement-learning, machine-learning, neural-networks, reinforcement-learning, unity, unity3d</sup></sub>
 
@@ -39,7 +39,7 @@ bullet3: Bullet Physics SDK: real-time collision detection and multi-physics sim
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
 16 stars per week over 599 weeks  
-9,828 stars, 2,594 forks, 406 watches  
+9,836 stars, 2,594 forks, 406 watches  
 created 2011-04-12, last commit 2022-09-25, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -48,8 +48,8 @@ created 2011-04-12, last commit 2022-09-25, main language C++
 Open3D: A Modern Library for 3D Data Processing  
 [http://www.open3d.org](http://www.open3d.org)  
 [https://github.com/isl-org/open3d](https://github.com/isl-org/open3d)  
-24 stars per week over 304 weeks  
-7,482 stars, 1,779 forks, 170 watches  
+24 stars per week over 305 weeks  
+7,488 stars, 1,779 forks, 171 watches  
 created 2016-12-02, last commit 2022-09-30, main language C++  
 <sub><sup>3d, 3d-perception, arm, computer-graphics, cpp, cuda, gpu, gui, machine-learning, mesh-processing, odometry, opengl, pointcloud, python, pytorch, reconstruction, registration, rendering, tensorflow, visualization</sup></sub>
 
@@ -58,8 +58,8 @@ created 2016-12-02, last commit 2022-09-30, main language C++
 Cirq: A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.  
 [https://github.com/quantumlib/cirq](https://github.com/quantumlib/cirq)  
 14 stars per week over 251 weeks  
-3,554 stars, 801 forks, 176 watches  
-created 2017-12-14, last commit 2022-09-29, main language Python  
+3,556 stars, 802 forks, 176 watches  
+created 2017-12-14, last commit 2022-10-07, main language Python  
 <sub><sup>cirq, nisq, quantum-algorithms, quantum-circuits, quantum-computing</sup></sub>
 
 
@@ -68,24 +68,24 @@ Qiskit is an open-source SDK for working with quantum computers at the level of 
 [https://qiskit.org](https://qiskit.org)  
 [https://github.com/qiskit/qiskit](https://github.com/qiskit/qiskit)  
 13 stars per week over 199 weeks  
-2,719 stars, 749 forks, 98 watches  
-created 2018-12-12, last commit 2022-09-26, main language OpenQASM  
+2,721 stars, 749 forks, 98 watches  
+created 2018-12-12, last commit 2022-10-07, main language OpenQASM  
 <sub><sup>documentation, qiskit, quantum-computing, quantum-programming-language</sup></sub>
 
 
 ### [mujoco-py](https://github.com/openai/mujoco-py) by [openai](https://github.com/openai)  
 mujoco-py: MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
 [https://github.com/openai/mujoco-py](https://github.com/openai/mujoco-py)  
-6.58 stars per week over 336 weeks  
-2,216 stars, 696 forks, 163 watches  
+6.59 stars per week over 336 weeks  
+2,219 stars, 696 forks, 164 watches  
 created 2016-04-24, last commit 2021-11-19, main language Cython  
 
 
 ### [mesa](https://github.com/projectmesa/mesa) by [projectmesa](https://github.com/projectmesa)  
 Mesa is an agent-based modeling framework in Python  
 [https://github.com/projectmesa/mesa](https://github.com/projectmesa/mesa)  
-4.08 stars per week over 419 weeks  
-1,711 stars, 736 forks, 93 watches  
+4.08 stars per week over 420 weeks  
+1,714 stars, 738 forks, 94 watches  
 created 2014-09-19, last commit 2022-10-05, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
 
@@ -94,8 +94,8 @@ created 2014-09-19, last commit 2022-10-05, main language Python
 QuantEcon.py: A community based Python library for quantitative economics  
 [https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
 [https://github.com/quantecon/quantecon.py](https://github.com/quantecon/quantecon.py)  
-3.09 stars per week over 497 weeks  
-1,536 stars, 2,091 forks, 152 watches  
+3.09 stars per week over 498 weeks  
+1,537 stars, 2,092 forks, 152 watches  
 created 2013-03-22, last commit 2022-07-01, main language Python  
 
 
@@ -104,8 +104,8 @@ PettingZoo: Gymnasium for multi-agent reinforcement learning
 [https://pettingzoo.farama.org](https://pettingzoo.farama.org)  
 [https://github.com/pettingzoo-team/pettingzoo](https://github.com/pettingzoo-team/pettingzoo)  
 10 stars per week over 141 weeks  
-1,435 stars, 227 forks, 15 watches  
-created 2020-01-20, last commit 2022-10-04, main language Python  
+1,440 stars, 227 forks, 15 watches  
+created 2020-01-20, last commit 2022-10-07, main language Python  
 
 
 ### [brax](https://github.com/google/brax) by [google](https://github.com/google)  
@@ -121,8 +121,8 @@ created 2021-06-02, last commit 2022-10-04, main language Jupyter Notebook
 ai-economist: Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 [https://github.com/salesforce/ai-economist](https://github.com/salesforce/ai-economist)  
-7.54 stars per week over 118 weeks  
-890 stars, 182 forks, 45 watches  
+7.53 stars per week over 118 weeks  
+891 stars, 183 forks, 45 watches  
 created 2020-07-02, last commit 2022-05-09, main language Python  
 <sub><sup>ai, deep-reinforcement-learning, economics, ml, multi-agent, multi-agent-reinforcement-learning, python-3, reinforcement-learning-environments, simulation-framework</sup></sub>
 
@@ -130,9 +130,9 @@ created 2020-07-02, last commit 2022-05-09, main language Python
 ### [fairo](https://github.com/facebookresearch/droidlet) by [facebookresearch](https://github.com/facebookresearch)  
 fairo: A modular embodied agent architecture and platform for building embodied agents  
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
-7.68 stars per week over 100 weeks  
-771 stars, 80 forks, 39 watches  
-created 2020-11-02, last commit 2022-10-05, main language Jupyter Notebook  
+7.66 stars per week over 100 weeks  
+771 stars, 80 forks, 38 watches  
+created 2020-11-02, last commit 2022-10-07, main language Jupyter Notebook  
 
 
 ### [pynamical](https://github.com/gboeing/pynamical) by [gboeing](https://github.com/gboeing)  
@@ -157,7 +157,7 @@ created 2013-08-15, last commit 2020-05-11, main language Python
 ### [trafficSimulator](https://github.com/bilhim/trafficsimulator) by [bilhim](https://github.com/bilhim)  
 bilhim/trafficsimulator  
 [https://github.com/bilhim/trafficsimulator](https://github.com/bilhim/trafficsimulator)  
-3.39 stars per week over 56 weeks  
+3.38 stars per week over 56 weeks  
 192 stars, 69 forks, 12 watches  
 created 2021-09-05, last commit 2021-09-07, main language Python  
 
@@ -165,7 +165,7 @@ created 2021-09-05, last commit 2021-09-07, main language Python
 ### [GameGAN_code](https://github.com/nv-tlabs/gamegan_code) by [nv-tlabs](https://github.com/nv-tlabs)  
 GameGAN_code: Learning to Simulate Dynamic Environments with GameGAN (CVPR 2020)  
 [https://github.com/nv-tlabs/gamegan_code](https://github.com/nv-tlabs/gamegan_code)  
-2.02 stars per week over 94 weeks  
+2.02 stars per week over 95 weeks  
 192 stars, 31 forks, 9 watches  
 created 2020-12-11, last commit 2021-11-11, main language Python  
 
@@ -212,12 +212,12 @@ created 2017-02-14, last commit 2021-11-19, main language Jupyter Notebook
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  
 dynpy: Dynamical systems for Python  
 [https://github.com/artemyk/dynpy](https://github.com/artemyk/dynpy)  
-0.01 stars per week over 420 weeks  
+0.01 stars per week over 421 weeks  
 5 stars, 6 forks, 3 watches  
 created 2014-09-12, last commit 2018-09-28, main language Python  
 
 
-This file was automatically generated on 2022-10-06.  
+This file was automatically generated on 2022-10-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

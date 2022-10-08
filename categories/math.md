@@ -10,8 +10,8 @@ numpy: The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 34 stars per week over 629 weeks  
-21,612 stars, 7,389 forks, 567 watches  
-created 2010-09-13, last commit 2022-10-05, main language Python  
+21,629 stars, 7,394 forks, 568 watches  
+created 2010-09-13, last commit 2022-10-07, main language Python  
 <sub><sup>numpy, python</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2010-09-13, last commit 2022-10-05, main language Python
 sympy: A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-14 stars per week over 648 weeks  
-9,663 stars, 3,744 forks, 282 watches  
-created 2010-04-30, last commit 2022-10-05, main language Python  
+14 stars per week over 649 weeks  
+9,665 stars, 3,749 forks, 282 watches  
+created 2010-04-30, last commit 2022-10-07, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -29,8 +29,8 @@ created 2010-04-30, last commit 2022-10-05, main language Python
 theseus: A library for differentiable nonlinear optimization  
 [https://github.com/facebookresearch/theseus](https://github.com/facebookresearch/theseus)  
 21 stars per week over 46 weeks  
-1,011 stars, 59 forks, 30 watches  
-created 2021-11-18, last commit 2022-10-05, main language Python  
+1,012 stars, 60 forks, 32 watches  
+created 2021-11-18, last commit 2022-10-07, main language Python  
 <sub><sup>bilevel-optimization, computer-vision, deep-learning, differentiable-optimization, embodied-ai, gauss-newton, implicit-differentiation, levenberg-marquardt, nonlinear-least-squares, pytorch, robotics</sup></sub>
 
 
@@ -39,7 +39,7 @@ mpmath: Python library for arbitrary-precision floating-point arithmetic
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
 1.22 stars per week over 565 weeks  
-687 stars, 145 forks, 39 watches  
+688 stars, 145 forks, 39 watches  
 created 2011-12-07, last commit 2022-09-06, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
@@ -49,7 +49,7 @@ dit: Python package for information theory.
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
 0.86 stars per week over 470 weeks  
-406 stars, 74 forks, 24 watches  
+407 stars, 74 forks, 24 watches  
 created 2013-09-29, last commit 2022-07-25, main language Python  
 <sub><sup>information-theory, python</sup></sub>
 
@@ -58,8 +58,8 @@ created 2013-09-29, last commit 2022-07-25, main language Python
 tfcausalimpact: Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
 3.07 stars per week over 111 weeks  
-342 stars, 46 forks, 8 watches  
-created 2020-08-17, last commit 2022-05-03, main language Python  
+343 stars, 46 forks, 8 watches  
+created 2020-08-17, last commit 2022-10-07, main language Python  
 <sub><sup>causal-inference, causalimpact, python, tensorflow-probability</sup></sub>
 
 
@@ -68,8 +68,8 @@ PyNeuraLogic lets you use Python to create Differentiable Logic Programs
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
 [https://github.com/lukaszahradnik/pyneuralogic](https://github.com/lukaszahradnik/pyneuralogic)  
 1.75 stars per week over 95 weeks  
-167 stars, 13 forks, 4 watches  
-created 2020-12-06, last commit 2022-10-01, main language Python  
+168 stars, 13 forks, 4 watches  
+created 2020-12-06, last commit 2022-10-07, main language Python  
 <sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, python, pytorch, relational-learning</sup></sub>
 
 
@@ -81,7 +81,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2021-11-05, main language Python  
 
 
-This file was automatically generated on 2022-10-06.  
+This file was automatically generated on 2022-10-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
