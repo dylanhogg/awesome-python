@@ -22,10 +22,12 @@ function getUrlQuery() {
 }
 
 $(document).keydown(function(e) {
-    if (e.keyCode == 39) {
+    if (e.keyCode == 39) {  // Right arrow
         $("#table").DataTable().page("next").draw("page");
-    } else if (e.keyCode == 37) {
+    } else if (e.keyCode == 37) {  // Left arrow
         $("#table").DataTable().page("previous").draw("page");
+    } else if (e.keyCode == 27) {  // Escape
+        $('#sidenav').width("0px");
     }
 });
 
@@ -38,7 +40,16 @@ $(document).ready( function () {
     }
 
     $("#menu-icon").click(function(){
-        $('#menu-links').toggle();
+        // https://www.w3schools.com/howto/howto_js_sidenav.asp
+        $('#sidenav').width("200px");
+    });
+
+    $("#menu-close-btn").click(function(){
+        $('#sidenav').width("0px");
+    });
+
+    $("#container").click(function(){
+        $('#sidenav').width("0px");
     });
 
     var initialSearchTerm = getUrlQuery();

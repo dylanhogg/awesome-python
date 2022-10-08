@@ -60,28 +60,20 @@ div.dataTables_filter input {
     margin-left: 0px !important;
 }
 
+/* --- books --- */
+
+img.book-image {
+    width: 180px;
+}
+
 /* --- menu --- */
 
-/* Style the navigation menu */
 .topnav {
   overflow: hidden;
   background-color: #3776ab;
   position: relative;
 }
 
-/* Hide the links inside the navigation menu (except for logo/home) */
-/*
-.topnav #menu-links {
-  display: none;
-}
-*/
-
-#menu-links {
-    background: #5292c7; /* 5292c7 659ecd */
-    text-align: right;
-}
-
-/* Style navigation menu links */
 .topnav a {
   color: white;
   padding: 10px 10px;
@@ -98,16 +90,43 @@ div.dataTables_filter input {
   top: 0;
 }
 
-/* Add a grey background color on mouse-over */
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #5292c7;
+  overflow-x: hidden;
+  transition: 0.2s;
+  padding-top: 40px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #3776ab;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 24px;
+  margin-left: 50px;
+}
+
 /*
-.topnav a:hover {
-   background-color: #ddd;
-  color: black;
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 */
-
-/* Style the active link (or home/logo) */
-.active {
-  background-color: #3776ab;
-  color: white;
-}
