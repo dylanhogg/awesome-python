@@ -1,4 +1,4 @@
-var version = "v0.0.7";
+var version = "v0.0.8";
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -21,6 +21,16 @@ function getUrlQuery() {
     }
 }
 
+$(document).keydown(function(e) {
+    if (e.keyCode == 39) {  // Right arrow
+        $("#table").DataTable().page("next").draw("page");
+    } else if (e.keyCode == 37) {  // Left arrow
+        $("#table").DataTable().page("previous").draw("page");
+    } else if (e.keyCode == 27) {  // Escape
+        $('#sidenav').width("0px");
+    }
+});
+
 $(document).ready( function () {
     var ajax_url = './github_data.min.json';
     // var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
@@ -28,6 +38,19 @@ $(document).ready( function () {
         // Use local testing json data
         ajax_url = '/github_data.json';
     }
+
+    $("#menu-icon").click(function(){
+        // https://www.w3schools.com/howto/howto_js_sidenav.asp
+        $('#sidenav').width("200px");
+    });
+
+    $("#menu-close-btn").click(function(){
+        $('#sidenav').width("0px");
+    });
+
+    $("#container").click(function(){
+        $('#sidenav').width("0px");
+    });
 
     var initialSearchTerm = getUrlQuery();
     $("#table").DataTable( {
@@ -42,8 +65,12 @@ $(document).ready( function () {
         lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
         pageLength: 10,
         search: {
-           search: initialSearchTerm
+           search: initialSearchTerm,
         },
+        language: {
+            searchPlaceholder: "Search",
+            search: "",
+          },
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
         columns: [
@@ -85,7 +112,7 @@ $(document).ready( function () {
            },
            { data: "category", title: "Category" },
            { data: "_topics", title: "Tags",
-            render: function(data, type, row, meta) { return data.slice(0, 4).join(", "); }
+            render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
            },
            { data: "_readme_localurl", title: "Docs",
             orderable: false,
