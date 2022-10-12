@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 networkx: Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
-18 stars per week over 630 weeks  
-11,649 stars, 2,729 forks, 278 watches  
-created 2010-09-06, last commit 2022-10-07, main language Python  
+18 stars per week over 631 weeks  
+11,670 stars, 2,744 forks, 279 watches  
+created 2010-09-06, last commit 2022-10-11, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 
@@ -20,7 +20,7 @@ StellarGraph - Machine Learning on Graphs
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
 [https://github.com/stellargraph/stellargraph](https://github.com/stellargraph/stellargraph)  
 10 stars per week over 234 weeks  
-2,503 stars, 384 forks, 61 watches  
+2,511 stars, 387 forks, 61 watches  
 created 2018-04-13, last commit 2021-10-29, main language Python  
 <sub><sup>data-science, deep-learning, gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, python, saliency-map, stellargraph-library</sup></sub>
 
@@ -28,13 +28,13 @@ created 2018-04-13, last commit 2021-10-29, main language Python
 ### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
 markov_clustering: markov clustering in python  
 [https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
-0.49 stars per week over 262 weeks  
+0.49 stars per week over 263 weeks  
 128 stars, 34 forks, 9 watches  
 created 2017-09-27, last commit 2018-12-11, main language Python  
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2022-10-08.  
+This file was automatically generated on 2022-10-12.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

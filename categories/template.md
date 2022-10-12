@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 cookiecutter: A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-37 stars per week over 481 weeks  
-18,133 stars, 1,736 forks, 237 watches  
+37 stars per week over 482 weeks  
+18,163 stars, 1,738 forks, 237 watches  
 created 2013-07-14, last commit 2022-09-09, main language Python  
 <sub><sup>cookiecutter, python</sup></sub>
 
@@ -19,7 +19,7 @@ created 2013-07-14, last commit 2022-09-09, main language Python
 full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 52 stars per week over 189 weeks  
-9,999 stars, 1,799 forks, 171 watches  
+10,025 stars, 1,803 forks, 171 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
 
@@ -29,7 +29,7 @@ cookiecutter-data-science: A logical, reasonably standardized, but flexible proj
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 16 stars per week over 362 weeks  
-6,121 stars, 1,967 forks, 111 watches  
+6,129 stars, 1,972 forks, 111 watches  
 created 2015-10-30, last commit 2022-03-11, main language Python  
 <sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
 
@@ -38,9 +38,9 @@ created 2015-10-30, last commit 2022-03-11, main language Python
 pyscaffold: 🛠 Python project template generator with batteries included  
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
-3.58 stars per week over 444 weeks  
-1,592 stars, 167 forks, 40 watches  
-created 2014-04-02, last commit 2022-10-04, main language Python  
+3.58 stars per week over 445 weeks  
+1,594 stars, 167 forks, 40 watches  
+created 2014-04-02, last commit 2022-10-11, main language Python  
 <sub><sup>distribution, git, package, package-creation, project-template, python, release-automation, template-project</sup></sub>
 
 
@@ -48,7 +48,7 @@ created 2014-04-02, last commit 2022-10-04, main language Python
 fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
 10 stars per week over 133 weeks  
-1,338 stars, 221 forks, 33 watches  
+1,344 stars, 222 forks, 33 watches  
 created 2020-03-21, last commit 2022-02-18, main language Python  
 <sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
 
@@ -56,8 +56,8 @@ created 2020-03-21, last commit 2022-02-18, main language Python
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
 python-package-template: 🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
-6.35 stars per week over 129 weeks  
-822 stars, 78 forks, 6 watches  
+6.34 stars per week over 130 weeks  
+824 stars, 78 forks, 6 watches  
 created 2020-04-15, last commit 2022-05-18, main language Python  
 <sub><sup>best-practices, codestyle, cookiecutter, formatters, makefile, poetry, python, python-packages, semantic-versions, template</sup></sub>
 
@@ -66,7 +66,7 @@ created 2020-04-15, last commit 2022-05-18, main language Python
 Mako Templates for Python  
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 [https://github.com/sqlalchemy/mako](https://github.com/sqlalchemy/mako)  
-1.1 stars per week over 201 weeks  
+1.1 stars per week over 202 weeks  
 222 stars, 43 forks, 10 watches  
 created 2018-11-26, last commit 2022-09-22, main language Python  
 
@@ -74,7 +74,7 @@ created 2018-11-26, last commit 2022-09-22, main language Python
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  
 cookiecutter-modern-datascience: Start a data science project with modern tools  
 [https://github.com/crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience)  
-1.07 stars per week over 117 weeks  
+1.07 stars per week over 118 weeks  
 126 stars, 25 forks, 3 watches  
 created 2020-07-06, last commit 2022-06-10, main language Python  
 <sub><sup>cookiecutter, cookiecutter-data-science, cookiecutter-template, datascience, python</sup></sub>
@@ -84,7 +84,7 @@ created 2020-07-06, last commit 2022-06-10, main language Python
 python-collab-template: 🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
 [https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)  
 [https://github.com/eugeneyan/python-collab-template](https://github.com/eugeneyan/python-collab-template)  
-1.02 stars per week over 119 weeks  
+1.01 stars per week over 120 weeks  
 122 stars, 32 forks, 3 watches  
 created 2020-06-21, last commit 2022-07-02, main language Python  
 <sub><sup>coverage, github-actions, hacktoberfest, linting, makefile, python, type-checking, unit-testing</sup></sub>
@@ -93,13 +93,13 @@ created 2020-06-21, last commit 2022-07-02, main language Python
 ### [python-project-template](https://github.com/dylanhogg/python-project-template) by [dylanhogg](https://github.com/dylanhogg)  
 python-project-template: A quick-start Python project template with helpful functionality and common libraries.  
 [https://github.com/dylanhogg/python-project-template](https://github.com/dylanhogg/python-project-template)  
-0.01 stars per week over 138 weeks  
+0.01 stars per week over 139 weeks  
 1 stars, 0 forks, 2 watches  
 created 2020-02-12, last commit 2022-08-19, main language Python  
 <sub><sup>cookiecutter, jupyterlab, python, template</sup></sub>
 
 
-This file was automatically generated on 2022-10-08.  
+This file was automatically generated on 2022-10-12.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
