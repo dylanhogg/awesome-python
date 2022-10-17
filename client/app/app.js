@@ -21,6 +21,15 @@ function getUrlQuery() {
     }
 }
 
+function getUrlCategoryFilter() {
+    try {
+        var params = getUrlParams();
+        if ("c" in params) { return decodeURI(params["c"]); } else { return ""; }
+    } catch(err) {
+        return "";
+    }
+}
+
 $(document).keydown(function(e) {
     if (e.keyCode == 39) {  // Right arrow
         $("#table").DataTable().page("next").draw("page");
@@ -53,6 +62,7 @@ $(document).ready( function () {
     });
 
     var initialSearchTerm = getUrlQuery();
+    var initialCategoryFilter = getUrlCategoryFilter();
     $("#table").DataTable( {
         ajax: {
             url: ajax_url,
@@ -73,6 +83,34 @@ $(document).ready( function () {
           },
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
+        initComplete: function () {  // https://datatables.net/examples/api/multi_filter_select.html
+            this.api()
+                .columns()
+                .every(function () {
+                    var column = this;
+                    console.log(column);
+                    var select = $('<select><option value=""></option></select>')
+                        .appendTo($(column.footer()).empty())
+                        .on('change', function () {
+                            var val = $.fn.dataTable.util.escapeRegex($(this).val());
+                            column.search(val ? '^' + val + '$' : '', true, false).draw();
+                        });
+                    // console.log(select);
+
+                    column_values = column
+                        .data()
+                        .unique()
+                        .sort();
+
+                    // console.log(column_values);
+
+                    column_values.each(function (d, j) {
+                            select.append('<option value="' + d + '">' + d + '</option>');
+                            // console.log(d);
+                        });
+                    // console.log(select);
+                });
+        },
         columns: [
           { data: null,
             title: "Name",
