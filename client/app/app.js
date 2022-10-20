@@ -41,6 +41,69 @@ $(document).keydown(function(e) {
     }
 });
 
+$(document).on( 'preInit.dt', function (e, settings) {
+    console.log("preInit.dt");
+    var data = {
+        '': 'All Categories',
+        'crypto': 'Crypto',
+        'data': 'Data',
+        'diffusion': 'Diffusion',
+        'gamedev': 'Game Development',
+        'geo': 'GIS',
+        'graph': 'Graph',
+        'gui': 'GUI',
+        'jupyter': 'Jupyter',
+        'math': 'Math',
+        'ml': 'ML - General',
+        'ml-dl': 'ML - Deep Learning',
+        'ml-interpretability': 'ML - Interpretability',
+        'ml-ops': 'ML - Ops',
+        'time-series': 'ML - Time Series',
+        'nlp': 'NLP',
+        'perf': 'Performance',
+        'sci': 'Scientific',
+        'security': 'Security',
+        'sim': 'Simulation',
+        'study': 'Study',
+        'template': 'Template',
+        'term': 'Terminal',
+        'testing': 'Testing',
+        'typing': 'Typing',
+        'util': 'Utility',
+        'viz': 'Vizualisation',
+        'web': 'Web',
+    }
+    var select = $('<select name="category_filter" id="category_filter" class="form-select-sm form-select-sm category_filter" />');
+    for(var val in data) {
+        $('<option />', {value: val, text: data[val]}).appendTo(select);
+    }
+
+    select.appendTo('div.dataTables_filter');
+
+    select.change(function(){
+        category_filter = $("#category_filter").val()
+        console.log("category_filter:" + category_filter);
+        console.log(table);
+
+        var table = $("#table").DataTable();
+
+        if (category_filter == "") {
+            table
+                //.search("")  // Clear full-table search
+                .columns(CATEGORY_COL)
+                .search("")
+                .draw();
+        } else {
+            table
+                // .search("")  // Clear full-table search
+                .columns(CATEGORY_COL)
+                .search("^"+category_filter+"$", true, false)  // regex search
+                .draw();
+        }
+    });
+
+});
+
 $(document).ready( function () {
     var ajax_url = './github_data.min.json';
     // var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
@@ -72,8 +135,8 @@ $(document).ready( function () {
         order: [[ 1, "desc" ]],
         paging: true,
         lengthChange: true,
-        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
-        pageLength: 10,
+        lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
+        pageLength: 5,
         search: {
            search: initialSearchTerm,
         },

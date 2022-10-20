@@ -62,12 +62,10 @@ div.dataTables_filter input {
     width: 200px !important;
 }
 
-div.category_filter {
-    margin-top: 10px;
-}
-
-div.category_filter select {
+div.dataTables_filter select {
     width: 200px;
+    margin-left: 10px;
+    border: 1px solid #ced4da;
 }
 
 /* --- books --- */
