@@ -162,37 +162,29 @@ $(document).ready( function () {
         ],
     });
 
-//    table.on("search.dt", function () {
-//        table_search = table.search();
-//        console.log("table_search:" + table_search);
-////        if (table_search.startsWith("c:")) {
-////            category_filter = table_search.split(":")[1]
-////            console.log("category_filter:" + category_filter);
-////            table.search("")  // Clear full-table search
-////                 .columns(CATEGORY_COL)
-////                 .search(category_filter);
-////        }
-//
-////        else {
-////            table.columns(CATEGORY_COL).search("");  // Clear col search
-////        }
-//    });
-
-    $("#categories").change(function(){
-        category_filter = $("#categories").val()
+    $("#category_filter").change(function(){
+        category_filter = $("#category_filter").val()
         console.log("category_filter:" + category_filter);
         console.log(table);
-        table
-            // .search("")  // Clear full-table search
-            .columns(CATEGORY_COL)
-            .search("^"+category_filter+"$", true, false)  // regex search
-            //.search(category_filter)
-            .draw();
+
+        if (category_filter == "") {
+            table
+                //.search("")  // Clear full-table search
+                .columns(CATEGORY_COL)
+                .search("")
+                .draw();
+        } else {
+            table
+                // .search("")  // Clear full-table search
+                .columns(CATEGORY_COL)
+                .search("^"+category_filter+"$", true, false)  // regex search
+                .draw();
+        }
     });
 
     var initialCategoryFilter = getUrlCategoryFilter();
     if (initialCategoryFilter.length > 0) {
-        $("#categories").val(initialCategoryFilter).change();
+        $("#category_filter").val(initialCategoryFilter).change();
     }
 
     $('#table').on('click', '.modal-ajax', function(e) {
