@@ -1,4 +1,5 @@
 var version = "v0.0.8";
+var CATEGORY_COL = 9;
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -62,8 +63,7 @@ $(document).ready( function () {
     });
 
     var initialSearchTerm = getUrlQuery();
-    var initialCategoryFilter = getUrlCategoryFilter();
-    $("#table").DataTable( {
+    var table = $("#table").DataTable( {
         ajax: {
             url: ajax_url,
             dataSrc: 'data'
@@ -83,34 +83,6 @@ $(document).ready( function () {
           },
         // dom: 'lfrtip',  // Default. https://datatables.net/reference/option/dom
         dom: 'frtilp',
-        initComplete: function () {  // https://datatables.net/examples/api/multi_filter_select.html
-            this.api()
-                .columns()
-                .every(function () {
-                    var column = this;
-                    console.log(column);
-                    var select = $('<select><option value=""></option></select>')
-                        .appendTo($(column.footer()).empty())
-                        .on('change', function () {
-                            var val = $.fn.dataTable.util.escapeRegex($(this).val());
-                            column.search(val ? '^' + val + '$' : '', true, false).draw();
-                        });
-                    // console.log(select);
-
-                    column_values = column
-                        .data()
-                        .unique()
-                        .sort();
-
-                    // console.log(column_values);
-
-                    column_values.each(function (d, j) {
-                            select.append('<option value="' + d + '">' + d + '</option>');
-                            // console.log(d);
-                        });
-                    // console.log(select);
-                });
-        },
         columns: [
           { data: null,
             title: "Name",
@@ -189,6 +161,39 @@ $(document).ready( function () {
 //          },
         ],
     });
+
+//    table.on("search.dt", function () {
+//        table_search = table.search();
+//        console.log("table_search:" + table_search);
+////        if (table_search.startsWith("c:")) {
+////            category_filter = table_search.split(":")[1]
+////            console.log("category_filter:" + category_filter);
+////            table.search("")  // Clear full-table search
+////                 .columns(CATEGORY_COL)
+////                 .search(category_filter);
+////        }
+//
+////        else {
+////            table.columns(CATEGORY_COL).search("");  // Clear col search
+////        }
+//    });
+
+    $("#categories").change(function(){
+        category_filter = $("#categories").val()
+        console.log("category_filter:" + category_filter);
+        console.log(table);
+        table
+            // .search("")  // Clear full-table search
+            .columns(CATEGORY_COL)
+            .search("^"+category_filter+"$", true, false)  // regex search
+            //.search(category_filter)
+            .draw();
+    });
+
+    var initialCategoryFilter = getUrlCategoryFilter();
+    if (initialCategoryFilter.length > 0) {
+        $("#categories").val(initialCategoryFilter).change();
+    }
 
     $('#table').on('click', '.modal-ajax', function(e) {
         var localurl = $(this).data('localurl') + $(this).data('ext');
