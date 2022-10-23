@@ -1,5 +1,6 @@
-var version = "v0.0.8";
-var CATEGORY_COL = 9;
+const version = "v0.0.8";
+const CATEGORY_COL = 9;
+const TAG_COL = 10;
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -41,13 +42,13 @@ $(document).keydown(function(e) {
     }
 });
 
-$(document).on( 'preInit.dt', function (e, settings) {
-    console.log("preInit.dt");
+// Category filter dropdown
+$(document).on("preInit.dt", function (e, settings) {
     var data = {
         '': 'All Categories',
         'crypto': 'Crypto',
         'data': 'Data',
-        'diffusion': 'Diffusion',
+        'diffusion': 'Diffusion Text to Image',
         'gamedev': 'Game Development',
         'geo': 'GIS',
         'graph': 'Graph',
@@ -77,16 +78,11 @@ $(document).on( 'preInit.dt', function (e, settings) {
     for(var val in data) {
         $('<option />', {value: val, text: data[val]}).appendTo(select);
     }
-
     select.appendTo('div.dataTables_filter');
 
     select.change(function(){
         category_filter = $("#category_filter").val()
-        console.log("category_filter:" + category_filter);
-        console.log(table);
-
         var table = $("#table").DataTable();
-
         if (category_filter == "") {
             table
                 //.search("")  // Clear full-table search
@@ -102,7 +98,42 @@ $(document).on( 'preInit.dt', function (e, settings) {
         }
     });
 
+    var initialCategoryFilter = getUrlCategoryFilter();
+    if (initialCategoryFilter.length > 0) {
+        $("#category_filter").val(initialCategoryFilter).change();
+    }
 });
+
+// Tag filter dropdown
+//$(document).on("preInit.dt", function (e, settings) {
+//    var select = $('<select name="tag_filter" id="tag_filter" class="form-select-sm form-select-sm tag_filter">' +
+//                   '<option value="">All Tags</option></select>');
+//    select.appendTo('div.dataTables_filter');
+//
+//    $.getJSON("github_tags_data.json", function( data ) {
+//        $.each( data, function( key, val ) {
+//            $('<option />', {value: key, text: val}).appendTo(select);
+//        });
+//
+//        select.change(function(){
+//            tag_filter = $("#tag_filter").val()
+//            var table = $("#table").DataTable();
+//            if (tag_filter == "") {
+//                table
+//                    //.search("")  // Clear full-table search
+//                    .columns(TAG_COL)
+//                    .search("")
+//                    .draw();
+//            } else {
+//                table
+//                    // .search("")  // Clear full-table search
+//                    .columns(TAG_COL)
+//                    .search(tag_filter)  // TODO: review match single tag
+//                    .draw();
+//            }
+//        });
+//    });
+//});
 
 $(document).ready( function () {
     var ajax_url = './github_data.min.json';
@@ -159,7 +190,15 @@ $(document).ready( function () {
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
            { data: "_description", title: "Description",
-             render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
+             render: function(data, type, row, meta) {
+//                return "<div class='text-wrap description-column'>" + data + "</div>";
+                var maxlen = 200;
+                if(data.length > maxlen) {
+                    return "<div class='text-wrap description-column'>" + data.substr(0, maxlen) + "...</div>";
+                } else {
+                    return data;
+                }
+             }
            },
            { data: null,
             title: "Links",
@@ -225,30 +264,30 @@ $(document).ready( function () {
         ],
     });
 
-    $("#category_filter").change(function(){
-        category_filter = $("#category_filter").val()
-        console.log("category_filter:" + category_filter);
-        console.log(table);
+//    $("#category_filter").change(function(){
+//        category_filter = $("#category_filter").val()
+//        console.log("category_filter:" + category_filter);
+//        console.log(table);
+//
+//        if (category_filter == "") {
+//            table
+//                //.search("")  // Clear full-table search
+//                .columns(CATEGORY_COL)
+//                .search("")
+//                .draw();
+//        } else {
+//            table
+//                // .search("")  // Clear full-table search
+//                .columns(CATEGORY_COL)
+//                .search("^"+category_filter+"$", true, false)  // regex search
+//                .draw();
+//        }
+//    });
 
-        if (category_filter == "") {
-            table
-                //.search("")  // Clear full-table search
-                .columns(CATEGORY_COL)
-                .search("")
-                .draw();
-        } else {
-            table
-                // .search("")  // Clear full-table search
-                .columns(CATEGORY_COL)
-                .search("^"+category_filter+"$", true, false)  // regex search
-                .draw();
-        }
-    });
-
-    var initialCategoryFilter = getUrlCategoryFilter();
-    if (initialCategoryFilter.length > 0) {
-        $("#category_filter").val(initialCategoryFilter).change();
-    }
+//    var initialCategoryFilter = getUrlCategoryFilter();
+//    if (initialCategoryFilter.length > 0) {
+//        $("#category_filter").val(initialCategoryFilter).change();
+//    }
 
     $('#table').on('click', '.modal-ajax', function(e) {
         var localurl = $(this).data('localurl') + $(this).data('ext');
