@@ -157,6 +157,7 @@ $(document).ready( function () {
     });
 
     var initialSearchTerm = getUrlQuery();
+    var description_maxlen = 180;
     var table = $("#table").DataTable( {
         ajax: {
             url: ajax_url,
@@ -192,9 +193,8 @@ $(document).ready( function () {
            { data: "_description", title: "Description",
              render: function(data, type, row, meta) {
 //                return "<div class='text-wrap description-column'>" + data + "</div>";
-                var maxlen = 200;
-                if(data.length > maxlen) {
-                    return "<div class='text-wrap description-column'>" + data.substr(0, maxlen) + "...</div>";
+                if(data.length > description_maxlen) {
+                    return "<div class='text-wrap description-column'>" + data.substr(0, description_maxlen) + "...</div>";
                 } else {
                     return data;
                 }
