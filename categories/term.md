@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 Rich is a Python library for rich text and beautiful formatting in the terminal.  
 [https://rich.readthedocs.io/en/latest/](https://rich.readthedocs.io/en/latest/)  
 [https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)  
-263 stars per week over 152 weeks  
-40,138 stars, 1,377 forks, 537 watches  
+262 stars per week over 153 weeks  
+40,223 stars, 1,385 forks, 538 watches  
 created 2019-11-10, last commit 2022-10-11, main language Python  
 <sub><sup>ansi-colors, emoji, markdown, progress-bar, progress-bar-python, python, python-library, python3, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich</sup></sub>
 
@@ -19,7 +19,7 @@ created 2019-11-10, last commit 2022-10-11, main language Python
 python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 78 stars per week over 294 weeks  
-23,192 stars, 1,340 forks, 377 watches  
+23,207 stars, 1,340 forks, 380 watches  
 created 2017-02-21, last commit 2022-04-16, main language Python  
 <sub><sup>cli, python</sup></sub>
 
@@ -29,7 +29,7 @@ tqdm: A Fast, Extensible Progress Bar for Python and CLI
 [https://tqdm.github.io](https://tqdm.github.io)  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 60 stars per week over 384 weeks  
-23,086 stars, 1,174 forks, 204 watches  
+23,116 stars, 1,177 forks, 205 watches  
 created 2015-06-03, last commit 2022-09-03, main language Python  
 <sub><sup>cli, closember, console, discord, gui, jupyter, keras, meter, pandas, parallel, progress, progress-bar, progressbar, progressmeter, python, rate, telegram, terminal, time, utilities</sup></sub>
 
@@ -37,8 +37,8 @@ created 2015-06-03, last commit 2022-09-03, main language Python
 ### [textual](https://github.com/willmcgugan/textual) by [willmcgugan](https://github.com/willmcgugan)  
 Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.  
 [https://github.com/willmcgugan/textual](https://github.com/willmcgugan/textual)  
-174 stars per week over 78 weeks  
-13,757 stars, 370 forks, 145 watches  
+174 stars per week over 79 weeks  
+13,892 stars, 373 forks, 143 watches  
 created 2021-04-08, last commit 2022-07-26, main language Python  
 <sub><sup>python, rich, terminal, tui</sup></sub>
 
@@ -47,8 +47,8 @@ created 2021-04-08, last commit 2022-07-26, main language Python
 click: Python composable command line interface toolkit  
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 [https://github.com/pallets/click](https://github.com/pallets/click)  
-29 stars per week over 441 weeks  
-13,055 stars, 1,287 forks, 183 watches  
+29 stars per week over 442 weeks  
+13,076 stars, 1,284 forks, 183 watches  
 created 2014-04-24, last commit 2022-10-02, main language Python  
 <sub><sup>cli, click, pallets, python</sup></sub>
 
@@ -57,8 +57,8 @@ created 2014-04-24, last commit 2022-10-02, main language Python
 Blessed is an easy, practical library for making python terminal apps  
 [http://pypi.python.org/pypi/blessed](http://pypi.python.org/pypi/blessed)  
 [https://github.com/jquast/blessed](https://github.com/jquast/blessed)  
-1.89 stars per week over 449 weeks  
-851 stars, 66 forks, 24 watches  
+1.89 stars per week over 450 weeks  
+852 stars, 67 forks, 24 watches  
 created 2014-03-01, last commit 2022-09-27, main language Python  
 <sub><sup>cli, curses, terminal</sup></sub>
 
@@ -67,8 +67,8 @@ created 2014-03-01, last commit 2022-09-27, main language Python
 dashing: Terminal dashboards for Python  
 [https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
 [https://github.com/federicoceratto/dashing](https://github.com/federicoceratto/dashing)  
-1.19 stars per week over 279 weeks  
-334 stars, 28 forks, 9 watches  
+1.2 stars per week over 280 weeks  
+335 stars, 28 forks, 9 watches  
 created 2017-06-03, last commit 2020-09-06, main language Python  
 <sub><sup>charts, dashboard, gauges, python, python3, terminal, terminal-based</sup></sub>
 
@@ -77,8 +77,8 @@ created 2017-06-03, last commit 2020-09-06, main language Python
 Enlighten Progress Bar for Python Console Apps  
 [https://python-enlighten.readthedocs.io](https://python-enlighten.readthedocs.io)  
 [https://github.com/rockhopper-technologies/enlighten](https://github.com/rockhopper-technologies/enlighten)  
-0.97 stars per week over 263 weeks  
-255 stars, 20 forks, 4 watches  
+0.97 stars per week over 264 weeks  
+256 stars, 20 forks, 4 watches  
 created 2017-09-22, last commit 2022-10-10, main language Python  
 <sub><sup>python</sup></sub>
 
@@ -96,12 +96,12 @@ created 2016-05-17, last commit 2021-06-26, main language Python
 terminaltables: Generate simple tables in terminals from a nested list of strings.  
 [https://robpol86.github.io/terminaltables](https://robpol86.github.io/terminaltables)  
 [https://github.com/matthewdeanmartin/terminaltables](https://github.com/matthewdeanmartin/terminaltables)  
-0.36 stars per week over 44 weeks  
+0.35 stars per week over 45 weeks  
 16 stars, 4 forks, 0 watches  
 created 2021-12-04, last commit 2022-01-30, main language Python  
 
 
-This file was automatically generated on 2022-10-12.  
+This file was automatically generated on 2022-10-17.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

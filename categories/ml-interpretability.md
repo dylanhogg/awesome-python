@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 8 curated ml-interpretability Python libraries and frameworks ordered by stars.  
+A selection of 9 curated ml-interpretability Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 shap: A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
 57 stars per week over 307 weeks  
-17,668 stars, 2,663 forks, 257 watches  
+17,701 stars, 2,668 forks, 257 watches  
 created 2016-11-22, last commit 2022-06-16, main language Jupyter Notebook  
 <sub><sup>deep-learning, explainability, gradient-boosting, interpretability, machine-learning, shap, shapley</sup></sub>
 
@@ -18,7 +18,7 @@ created 2016-11-22, last commit 2022-06-16, main language Jupyter Notebook
 Lime: Explaining the predictions of any machine learning classifier  
 [https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)  
 29 stars per week over 343 weeks  
-10,136 stars, 1,662 forks, 275 watches  
+10,152 stars, 1,662 forks, 274 watches  
 created 2016-03-15, last commit 2021-07-29, main language JavaScript  
 
 
@@ -27,8 +27,8 @@ captum: Model interpretability and understanding for PyTorch
 [https://captum.ai](https://captum.ai)  
 [https://github.com/pytorch/captum](https://github.com/pytorch/captum)  
 21 stars per week over 163 weeks  
-3,484 stars, 380 forks, 212 watches  
-created 2019-08-27, last commit 2022-10-03, main language Python  
+3,497 stars, 381 forks, 212 watches  
+created 2019-08-27, last commit 2022-10-14, main language Python  
 <sub><sup>feature-attribution, feature-importance, interpretability, interpretable-ai, interpretable-ml</sup></sub>
 
 
@@ -36,7 +36,7 @@ created 2019-08-27, last commit 2022-10-03, main language Python
 lit: The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.  
 [https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
 [https://github.com/pair-code/lit](https://github.com/pair-code/lit)  
-26 stars per week over 115 weeks  
+25 stars per week over 115 weeks  
 2,994 stars, 313 forks, 73 watches  
 created 2020-07-28, last commit 2022-03-15, main language Python  
 <sub><sup>machine-learning, natural-language-processing, visualization</sup></sub>
@@ -46,9 +46,9 @@ created 2020-07-28, last commit 2022-03-15, main language Python
 alibi: Algorithms for explaining machine learning models  
 [https://docs.seldon.io/projects/alibi/en/stable/](https://docs.seldon.io/projects/alibi/en/stable/)  
 [https://github.com/seldonio/alibi](https://github.com/seldonio/alibi)  
-9.51 stars per week over 189 weeks  
-1,798 stars, 203 forks, 42 watches  
-created 2019-02-26, last commit 2022-10-04, main language Python  
+9.5 stars per week over 189 weeks  
+1,803 stars, 202 forks, 42 watches  
+created 2019-02-26, last commit 2022-10-12, main language Python  
 <sub><sup>counterfactual, explanations, interpretability, machine-learning, xai</sup></sub>
 
 
@@ -56,8 +56,8 @@ created 2019-02-26, last commit 2022-10-04, main language Python
 ecco: Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
 [https://ecco.readthedocs.io](https://ecco.readthedocs.io)  
 [https://github.com/jalammar/ecco](https://github.com/jalammar/ecco)  
-14 stars per week over 100 weeks  
-1,502 stars, 102 forks, 18 watches  
+14 stars per week over 101 weeks  
+1,504 stars, 102 forks, 18 watches  
 created 2020-11-07, last commit 2022-01-18, main language Jupyter Notebook  
 <sub><sup>explorables, language-models, natural-language-processing, nlp, pytorch, visualization</sup></sub>
 
@@ -66,8 +66,8 @@ created 2020-11-07, last commit 2022-01-18, main language Jupyter Notebook
 explainerdashboard: Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
 [https://github.com/oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard)  
-8.6 stars per week over 154 weeks  
-1,324 stars, 176 forks, 13 watches  
+8.59 stars per week over 154 weeks  
+1,329 stars, 176 forks, 14 watches  
 created 2019-10-30, last commit 2022-06-16, main language Python  
 <sub><sup>dash, dashboard, data-scientists, explainer, inner-workings, interactive-dashboards, interactive-plots, model-predictions, permutation-importances, plotly, shap, shap-values, xai, xai-library</sup></sub>
 
@@ -76,12 +76,20 @@ created 2019-10-30, last commit 2022-06-16, main language Python
 transformers-interpret: Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
 [https://github.com/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)  
 6.63 stars per week over 124 weeks  
-822 stars, 75 forks, 16 watches  
-created 2020-05-27, last commit 2022-08-23, main language Jupyter Notebook  
-<sub><sup>captum, deep-learning, explainable-ai, interpretability, machine-learning, model-explainability, natural-language-processing, neural-network, nlp, transformers, transformers-model</sup></sub>
+827 stars, 76 forks, 17 watches  
+created 2020-05-27, last commit 2022-10-13, main language Jupyter Notebook  
+<sub><sup>captum, computer-vision, deep-learning, explainable-ai, interpretability, machine-learning, model-explainability, natural-language-processing, neural-network, nlp, transformers, transformers-model</sup></sub>
 
 
-This file was automatically generated on 2022-10-12.  
+### [PiML-Toolbox](https://github.com/selfexplainml/piml-toolbox) by [selfexplainml](https://github.com/selfexplainml)  
+PiML-Toolbox: PiML (Python Interpretable Machine Learning) toolbox for model development and validation  
+[https://github.com/selfexplainml/piml-toolbox](https://github.com/selfexplainml/piml-toolbox)  
+17 stars per week over 24 weeks  
+424 stars, 45 forks, 11 watches  
+created 2022-04-29, last commit 2022-09-25, main language Jupyter Notebook  
+
+
+This file was automatically generated on 2022-10-17.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

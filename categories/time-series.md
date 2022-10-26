@@ -10,7 +10,7 @@ prophet: Tool for producing high quality forecasts for time series data that has
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
 [https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
 48 stars per week over 308 weeks  
-14,992 stars, 4,294 forks, 423 watches  
+15,015 stars, 4,293 forks, 422 watches  
 created 2016-11-16, last commit 2022-09-21, main language Python  
 <sub><sup>forecasting, python, r</sup></sub>
 
@@ -18,16 +18,16 @@ created 2016-11-16, last commit 2022-09-21, main language Python
 ### [Kats](https://github.com/facebookresearch/kats) by [facebookresearch](https://github.com/facebookresearch)  
 Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.   
 [https://github.com/facebookresearch/kats](https://github.com/facebookresearch/kats)  
-47 stars per week over 84 weeks  
-4,007 stars, 415 forks, 71 watches  
-created 2021-02-25, last commit 2022-10-10, main language Python  
+46 stars per week over 85 weeks  
+4,016 stars, 416 forks, 71 watches  
+created 2021-02-25, last commit 2022-10-15, main language Python  
 
 
 ### [Merlion](https://github.com/salesforce/merlion) by [salesforce](https://github.com/salesforce)  
 Merlion: A Machine Learning Framework for Time Series Intelligence  
 [https://github.com/salesforce/merlion](https://github.com/salesforce/merlion)  
 43 stars per week over 63 weeks  
-2,742 stars, 231 forks, 41 watches  
+2,747 stars, 233 forks, 41 watches  
 created 2021-07-28, last commit 2022-10-03, main language Python  
 <sub><sup>anomaly-detection, automl, benchmarking, ensemble-learning, forecasting, machine-learning, time-series</sup></sub>
 
@@ -36,13 +36,13 @@ created 2021-07-28, last commit 2022-10-03, main language Python
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 [https://github.com/firmai/atspy](https://github.com/firmai/atspy)  
-3.27 stars per week over 141 weeks  
+3.25 stars per week over 141 weeks  
 461 stars, 87 forks, 21 watches  
 created 2020-01-28, last commit 2021-12-18, main language Python  
 <sub><sup>automated, finance, forecasting, forecasting-models, python, time-series, time-series-analysis</sup></sub>
 
 
-This file was automatically generated on 2022-10-12.  
+This file was automatically generated on 2022-10-17.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
