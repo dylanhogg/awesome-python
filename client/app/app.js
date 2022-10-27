@@ -1,6 +1,6 @@
 const version = "v0.0.8";
-const CATEGORY_COL = 9;
-const TAG_COL = 10;
+const CATEGORY_COL = 7;
+const TAG_COL = 8;
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -213,14 +213,14 @@ $(document).ready( function () {
            { data: "_age_weeks", title: "Age in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
            },
-           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
-            className: "text-nowrap",
-            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-           },
-           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
-            className: "text-nowrap",
-            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-           },
+//           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
+//           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
            { data: "category", title: "Category" },
            { data: "_topics", title: "Tags",
             render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
