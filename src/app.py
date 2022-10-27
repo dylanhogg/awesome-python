@@ -13,15 +13,15 @@ def main():
     crawler.write_files(csv_location, token, github_csv_filename, github_json_filename)
 
     github_tags_json_filename = "github_tags_data.json"
-    postprocess.write_tags(github_json_filename, github_tags_json_filename)
+    postprocess.write_tags(github_json_filename, github_tags_json_filename, most_common=200)
 
 
-def test_write_tags():
+def write_tags():
     github_json_filename = "github_data.json"
     github_tags_json_filename = "github_tags_data.json"
     postprocess.write_tags(github_json_filename, github_tags_json_filename, 200)
 
 
 if __name__ == "__main__":
-    # main()
-    test_write_tags()
+    # write_tags()
+    main()
