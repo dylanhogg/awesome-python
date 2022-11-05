@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 61 curated ml-dl Python libraries and frameworks ordered by stars.  
+A selection of 63 curated ml-dl Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 tensorflow: An Open Source Machine Learning Framework for Everyone  
 [https://tensorflow.org](https://tensorflow.org)  
 [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)  
-463 stars per week over 363 weeks  
-168,668 stars, 87,362 forks, 7,800 watches  
-created 2015-11-07, last commit 2022-10-27, main language C++  
+462 stars per week over 365 weeks  
+168,890 stars, 87,443 forks, 7,802 watches  
+created 2015-11-07, last commit 2022-11-05, main language C++  
 <sub><sup>deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2015-11-07, last commit 2022-10-27, main language C++
 pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration  
 [https://pytorch.org](https://pytorch.org)  
 [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)  
-184 stars per week over 323 weeks  
-59,849 stars, 16,690 forks, 1,609 watches  
-created 2016-08-13, last commit 2022-10-27, main language C++  
+184 stars per week over 325 weeks  
+60,076 stars, 16,745 forks, 1,605 watches  
+created 2016-08-13, last commit 2022-11-05, main language C++  
 <sub><sup>autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor</sup></sub>
 
 
@@ -29,9 +29,9 @@ created 2016-08-13, last commit 2022-10-27, main language C++
 keras: Deep Learning for humans  
 [http://keras.io/](http://keras.io/)  
 [https://github.com/keras-team/keras](https://github.com/keras-team/keras)  
-142 stars per week over 395 weeks  
-56,469 stars, 19,184 forks, 1,934 watches  
-created 2015-03-28, last commit 2022-10-27, main language Python  
+142 stars per week over 397 weeks  
+56,534 stars, 19,198 forks, 1,935 watches  
+created 2015-03-28, last commit 2022-11-04, main language Python  
 <sub><sup>data-science, deep-learning, machine-learning, neural-networks, python, tensorflow</sup></sub>
 
 
@@ -39,26 +39,26 @@ created 2015-03-28, last commit 2022-10-27, main language Python
 faceswap: Deepfakes Software For All  
 [https://www.faceswap.dev](https://www.faceswap.dev)  
 [https://github.com/deepfakes/faceswap](https://github.com/deepfakes/faceswap)  
-168 stars per week over 253 weeks  
-42,573 stars, 11,965 forks, 1,504 watches  
-created 2017-12-19, last commit 2022-10-23, main language Python  
+167 stars per week over 254 weeks  
+42,658 stars, 11,977 forks, 1,503 watches  
+created 2017-12-19, last commit 2022-11-04, main language Python  
 <sub><sup>deep-face-swap, deep-learning, deep-neural-networks, deepface, deepfakes, deeplearning, face-swap, faceswap, fakeapp, machine-learning, myfakeapp, neural-nets, neural-networks, openfaceswap</sup></sub>
 
 
 ### [DeepFaceLab](https://github.com/iperov/deepfacelab) by [iperov](https://github.com/iperov)  
 DeepFaceLab is the leading software for creating deepfakes.  
 [https://github.com/iperov/deepfacelab](https://github.com/iperov/deepfacelab)  
-154 stars per week over 229 weeks  
-35,526 stars, 7,998 forks, 1,041 watches  
-created 2018-06-04, last commit 2022-08-12, main language Python  
+154 stars per week over 230 weeks  
+35,622 stars, 8,028 forks, 1,040 watches  
+created 2018-06-04, last commit 2022-10-31, main language Python  
 <sub><sup>arxiv, creating-deepfakes, deep-face-swap, deep-learning, deep-neural-networks, deepface, deepfacelab, deepfakes, deeplearning, face-swap, faceswap, fakeapp, machine-learning, neural-nets, neural-networks</sup></sub>
 
 
 ### [Detectron](https://github.com/facebookresearch/detectron) by [facebookresearch](https://github.com/facebookresearch)  
 Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.  
 [https://github.com/facebookresearch/detectron](https://github.com/facebookresearch/detectron)  
-96 stars per week over 264 weeks  
-25,380 stars, 5,455 forks, 963 watches  
+95 stars per week over 265 weeks  
+25,395 stars, 5,462 forks, 964 watches  
 created 2017-10-05, last commit 2021-03-27, main language Python  
 
 
@@ -66,16 +66,16 @@ created 2017-10-05, last commit 2021-03-27, main language Python
 Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.  
 [https://detectron2.readthedocs.io/en/latest/](https://detectron2.readthedocs.io/en/latest/)  
 [https://github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)  
-138 stars per week over 164 weeks  
-22,645 stars, 6,139 forks, 356 watches  
-created 2019-09-05, last commit 2022-10-20, main language Python  
+137 stars per week over 165 weeks  
+22,742 stars, 6,171 forks, 356 watches  
+created 2019-09-05, last commit 2022-11-03, main language Python  
 
 
 ### [Mask_RCNN](https://github.com/matterport/mask_rcnn) by [matterport](https://github.com/matterport)  
 Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow  
 [https://github.com/matterport/mask_rcnn](https://github.com/matterport/mask_rcnn)  
-85 stars per week over 262 weeks  
-22,347 stars, 11,084 forks, 598 watches  
+84 stars per week over 263 weeks  
+22,378 stars, 11,101 forks, 598 watches  
 created 2017-10-19, last commit 2019-03-31, main language Python  
 <sub><sup>instance-segmentation, keras, mask-rcnn, object-detection, tensorflow</sup></sub>
 
@@ -84,9 +84,9 @@ created 2017-10-19, last commit 2019-03-31, main language Python
 pytorch-image-models: PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more  
 [https://huggingface.co/docs/timm](https://huggingface.co/docs/timm)  
 [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)  
-111 stars per week over 194 weeks  
-21,639 stars, 3,581 forks, 288 watches  
-created 2019-02-02, last commit 2022-10-25, main language Python  
+111 stars per week over 196 weeks  
+21,801 stars, 3,611 forks, 289 watches  
+created 2019-02-02, last commit 2022-11-04, main language Python  
 <sub><sup>augmix, cnn-classification, distributed-training, dual-path-networks, efficientnet, efficientnet-training, imagenet-classifier, mixnet, mnasnet, mobile-deep-learning, mobilenet-v2, mobilenetv3, nfnets, normalization-free-training, pretrained-models, pretrained-weights, pytorch, randaugment, resnet, vision-transformer-models</sup></sub>
 
 
@@ -94,18 +94,18 @@ created 2019-02-02, last commit 2022-10-25, main language Python
 lightning: Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.  
 [https://lightning.ai](https://lightning.ai)  
 [https://github.com/pytorchlightning/pytorch-lightning](https://github.com/pytorchlightning/pytorch-lightning)  
-109 stars per week over 186 weeks  
-20,441 stars, 2,620 forks, 227 watches  
-created 2019-03-31, last commit 2022-10-26, main language Python  
+109 stars per week over 187 weeks  
+20,513 stars, 2,630 forks, 227 watches  
+created 2019-03-31, last commit 2022-11-04, main language Python  
 <sub><sup>ai, artificial-intelligence, data-science, deep-learning, machine-learning, python, pytorch</sup></sub>
 
 
-### [incubator-mxnet](https://github.com/apache/incubator-mxnet) by [apache](https://github.com/apache)  
-incubator-mxnet: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more  
+### [mxnet](https://github.com/apache/incubator-mxnet) by [apache](https://github.com/apache)  
+mxnet: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more  
 [https://mxnet.apache.org](https://mxnet.apache.org)  
 [https://github.com/apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)  
-51 stars per week over 391 weeks  
-20,130 stars, 6,879 forks, 1,091 watches  
+51 stars per week over 392 weeks  
+20,138 stars, 6,881 forks, 1,089 watches  
 created 2015-04-30, last commit 2022-09-26, main language C++  
 <sub><sup>mxnet</sup></sub>
 
@@ -114,55 +114,55 @@ created 2015-04-30, last commit 2022-09-26, main language C++
 Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）  
 [http://www.paddlepaddle.org/](http://www.paddlepaddle.org/)  
 [https://github.com/paddlepaddle/paddle](https://github.com/paddlepaddle/paddle)  
-58 stars per week over 323 weeks  
-19,067 stars, 4,750 forks, 734 watches  
-created 2016-08-15, last commit 2022-10-27, main language C++  
+58 stars per week over 324 weeks  
+19,110 stars, 4,756 forks, 735 watches  
+created 2016-08-15, last commit 2022-11-04, main language C++  
 <sub><sup>deep-learning, distributed-training, efficiency, machine-learning, neural-network, paddlepaddle, python, scalability</sup></sub>
+
+
+### [Real-ESRGAN](https://github.com/xinntao/real-esrgan) by [xinntao](https://github.com/xinntao)  
+Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.  
+[https://github.com/xinntao/real-esrgan](https://github.com/xinntao/real-esrgan)  
+236 stars per week over 67 weeks  
+16,038 stars, 1,722 forks, 175 watches  
+created 2021-07-19, last commit 2022-09-20, main language Python  
+<sub><sup>amine, denoise, esrgan, image-restoration, jpeg-compression, pytorch, real-esrgan, super-resolution</sup></sub>
 
 
 ### [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) by [pyg-team](https://github.com/pyg-team)  
 pytorch_geometric: Graph Neural Network Library for PyTorch  
 [https://pytorch-geometric.readthedocs.io/](https://pytorch-geometric.readthedocs.io/)  
 [https://github.com/pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)  
-60 stars per week over 263 weeks  
-15,915 stars, 2,891 forks, 243 watches  
-created 2017-10-06, last commit 2022-10-26, main language Python  
+60 stars per week over 265 weeks  
+15,992 stars, 2,906 forks, 243 watches  
+created 2017-10-06, last commit 2022-11-04, main language Python  
 <sub><sup>deep-learning, geometric-deep-learning, graph-convolutional-networks, graph-neural-networks, pytorch</sup></sub>
-
-
-### [Real-ESRGAN](https://github.com/xinntao/real-esrgan) by [xinntao](https://github.com/xinntao)  
-Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.  
-[https://github.com/xinntao/real-esrgan](https://github.com/xinntao/real-esrgan)  
-238 stars per week over 66 weeks  
-15,859 stars, 1,703 forks, 175 watches  
-created 2021-07-19, last commit 2022-09-20, main language Python  
-<sub><sup>amine, denoise, esrgan, image-restoration, jpeg-compression, pytorch, real-esrgan, super-resolution</sup></sub>
 
 
 ### [deeplearning-models](https://github.com/rasbt/deeplearning-models) by [rasbt](https://github.com/rasbt)  
 deeplearning-models: A collection of various deep learning architectures, models, and tips  
 [https://github.com/rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)  
-86 stars per week over 177 weeks  
-15,352 stars, 3,800 forks, 602 watches  
-created 2019-06-05, last commit 2022-10-26, main language Jupyter Notebook  
+86 stars per week over 178 weeks  
+15,374 stars, 3,813 forks, 600 watches  
+created 2019-06-05, last commit 2022-11-02, main language Jupyter Notebook  
 
 
 ### [dalle-mini](https://github.com/borisdayma/dalle-mini) by [borisdayma](https://github.com/borisdayma)  
 dalle-mini: DALL·E Mini - Generate images from a text prompt  
 [https://www.craiyon.com](https://www.craiyon.com)  
 [https://github.com/borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)  
-190 stars per week over 68 weeks  
-13,119 stars, 980 forks, 100 watches  
-created 2021-07-03, last commit 2022-10-23, main language Python  
+189 stars per week over 70 weeks  
+13,236 stars, 986 forks, 104 watches  
+created 2021-07-03, last commit 2022-11-02, main language Python  
 
 
 ### [albumentations](https://github.com/albumentations-team/albumentations) by [albumentations-team](https://github.com/albumentations-team)  
 albumentations: Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125  
 [https://albumentations.ai](https://albumentations.ai)  
 [https://github.com/albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)  
-48 stars per week over 229 weeks  
-11,061 stars, 1,428 forks, 125 watches  
-created 2018-06-06, last commit 2022-10-25, main language Python  
+48 stars per week over 230 weeks  
+11,110 stars, 1,430 forks, 125 watches  
+created 2018-06-06, last commit 2022-10-31, main language Python  
 <sub><sup>augmentation, deep-learning, detection, fast-augmentations, image-augmentation, image-classification, image-processing, image-segmentation, machine-learning, object-detection, python, segmentation</sup></sub>
 
 
@@ -170,17 +170,17 @@ created 2018-06-06, last commit 2022-10-25, main language Python
 dgl: Python package built to ease deep learning on graph, on top of existing DL frameworks.  
 [http://dgl.ai](http://dgl.ai)  
 [https://github.com/dmlc/dgl](https://github.com/dmlc/dgl)  
-44 stars per week over 235 weeks  
-10,567 stars, 2,561 forks, 178 watches  
-created 2018-04-20, last commit 2022-10-27, main language Python  
+44 stars per week over 237 weeks  
+10,625 stars, 2,580 forks, 177 watches  
+created 2018-04-20, last commit 2022-11-04, main language Python  
 <sub><sup>deep-learning, graph-neural-networks</sup></sub>
 
 
 ### [detr](https://github.com/facebookresearch/detr) by [facebookresearch](https://github.com/facebookresearch)  
 detr: End-to-End Object Detection with Transformers  
 [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)  
-78 stars per week over 126 weeks  
-9,942 stars, 1,788 forks, 145 watches  
+78 stars per week over 127 weeks  
+10,007 stars, 1,808 forks, 145 watches  
 created 2020-05-26, last commit 2022-03-07, main language Python  
 
 
@@ -188,8 +188,8 @@ created 2020-05-26, last commit 2022-03-07, main language Python
 autokeras: AutoML library for deep learning  
 [http://autokeras.com/](http://autokeras.com/)  
 [https://github.com/keras-team/autokeras](https://github.com/keras-team/autokeras)  
-33 stars per week over 257 weeks  
-8,639 stars, 1,383 forks, 306 watches  
+33 stars per week over 258 weeks  
+8,644 stars, 1,382 forks, 305 watches  
 created 2017-11-19, last commit 2022-10-24, main language Python  
 <sub><sup>autodl, automated-machine-learning, automl, deep-learning, keras, machine-learning, neural-architecture-search, python, tensorflow</sup></sub>
 
@@ -197,9 +197,9 @@ created 2017-11-19, last commit 2022-10-24, main language Python
 ### [DALLE2-pytorch](https://github.com/lucidrains/dalle2-pytorch) by [lucidrains](https://github.com/lucidrains)  
 DALLE2-pytorch: Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch  
 [https://github.com/lucidrains/dalle2-pytorch](https://github.com/lucidrains/dalle2-pytorch)  
-280 stars per week over 29 weeks  
-8,124 stars, 650 forks, 112 watches  
-created 2022-04-07, last commit 2022-10-25, main language Python  
+270 stars per week over 30 weeks  
+8,205 stars, 659 forks, 115 watches  
+created 2022-04-07, last commit 2022-10-29, main language Python  
 <sub><sup>artificial-intelligence, deep-learning, text-to-image</sup></sub>
 
 
@@ -207,9 +207,9 @@ created 2022-04-07, last commit 2022-10-25, main language Python
 DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.  
 [https://www.deepspeed.ai/](https://www.deepspeed.ai/)  
 [https://github.com/microsoft/deepspeed](https://github.com/microsoft/deepspeed)  
-55 stars per week over 144 weeks  
-8,025 stars, 937 forks, 140 watches  
-created 2020-01-23, last commit 2022-10-26, main language Python  
+55 stars per week over 145 weeks  
+8,081 stars, 945 forks, 144 watches  
+created 2020-01-23, last commit 2022-11-05, main language Python  
 <sub><sup>billion-parameters, compression, data-parallelism, deep-learning, gpu, inference, machine-learning, mixture-of-experts, model-parallelism, pipeline-parallelism, pytorch, trillion-parameters, zero</sup></sub>
 
 
@@ -217,9 +217,9 @@ created 2020-01-23, last commit 2022-10-26, main language Python
 pyro: Deep universal probabilistic programming with Python and PyTorch  
 [http://pyro.ai](http://pyro.ai)  
 [https://github.com/pyro-ppl/pyro](https://github.com/pyro-ppl/pyro)  
-27 stars per week over 279 weeks  
-7,652 stars, 934 forks, 201 watches  
-created 2017-06-16, last commit 2022-10-23, main language Python  
+27 stars per week over 281 weeks  
+7,664 stars, 934 forks, 202 watches  
+created 2017-06-16, last commit 2022-11-01, main language Python  
 <sub><sup>bayesian, bayesian-inference, deep-learning, machine-learning, probabilistic-modeling, probabilistic-programming, python, pytorch, variational-inference</sup></sub>
 
 
@@ -227,17 +227,17 @@ created 2017-06-16, last commit 2022-10-23, main language Python
 kornia: Open Source Differentiable Computer Vision Library  
 [https://kornia.github.io/kornia/](https://kornia.github.io/kornia/)  
 [https://github.com/kornia/kornia](https://github.com/kornia/kornia)  
-33 stars per week over 218 weeks  
-7,280 stars, 740 forks, 116 watches  
-created 2018-08-22, last commit 2022-10-26, main language Python  
+33 stars per week over 219 weeks  
+7,333 stars, 743 forks, 117 watches  
+created 2018-08-22, last commit 2022-11-03, main language Python  
 <sub><sup>artificial-intelligence, computer-vision, deep-learning, image-processing, machine-learning, neural-network, python, pytorch</sup></sub>
 
 
 ### [trax](https://github.com/google/trax) by [google](https://github.com/google)  
 Trax — Deep Learning with Clear Code and Speed  
 [https://github.com/google/trax](https://github.com/google/trax)  
-44 stars per week over 159 weeks  
-7,147 stars, 746 forks, 144 watches  
+44 stars per week over 161 weeks  
+7,154 stars, 746 forks, 145 watches  
 created 2019-10-05, last commit 2022-09-09, main language Python  
 <sub><sup>deep-learning, deep-reinforcement-learning, jax, machine-learning, numpy, reinforcement-learning, transformer</sup></sub>
 
@@ -246,8 +246,8 @@ created 2019-10-05, last commit 2022-09-09, main language Python
 TensorLayer: Deep Learning and Reinforcement Learning Library for Scientists and Engineers   
 [http://tensorlayer.org](http://tensorlayer.org)  
 [https://github.com/tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)  
-21 stars per week over 333 weeks  
-7,099 stars, 1,600 forks, 463 watches  
+21 stars per week over 334 weeks  
+7,105 stars, 1,606 forks, 463 watches  
 created 2016-06-07, last commit 2022-04-23, main language Python  
 <sub><sup>a3c, artificial-intelligence, chatbot, deep-learning, dqn, gan, google, imagenet, neural-network, object-detection, python, reinforcement-learning, tensorflow, tensorflow-tutorial, tensorflow-tutorials, tensorlayer</sup></sub>
 
@@ -256,17 +256,26 @@ created 2016-06-07, last commit 2022-04-23, main language Python
 PyTorch3D is FAIR's library of reusable components for deep learning with 3D data  
 [https://pytorch3d.org/](https://pytorch3d.org/)  
 [https://github.com/facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)  
-42 stars per week over 156 weeks  
-6,672 stars, 999 forks, 138 watches  
-created 2019-10-25, last commit 2022-10-26, main language Python  
+42 stars per week over 158 weeks  
+6,702 stars, 1,003 forks, 139 watches  
+created 2019-10-25, last commit 2022-11-03, main language Python  
+
+
+### [rembg](https://github.com/danielgatis/rembg) by [danielgatis](https://github.com/danielgatis)  
+Rembg is a tool to remove images background.  
+[https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg)  
+51 stars per week over 116 weeks  
+6,033 stars, 867 forks, 89 watches  
+created 2020-08-10, last commit 2022-09-16, main language Python  
+<sub><sup>background-removal, image-processing, python</sup></sub>
 
 
 ### [einops](https://github.com/arogozhnikov/einops) by [arogozhnikov](https://github.com/arogozhnikov)  
 einops: Deep learning operations reinvented (for pytorch, tensorflow, jax and others)  
 [https://einops.rocks](https://einops.rocks)  
 [https://github.com/arogozhnikov/einops](https://github.com/arogozhnikov/einops)  
-27 stars per week over 213 weeks  
-5,821 stars, 254 forks, 57 watches  
+27 stars per week over 215 weeks  
+5,867 stars, 255 forks, 59 watches  
 created 2018-09-22, last commit 2022-10-17, main language Python  
 <sub><sup>chainer, cupy, deep-learning, gluon, jax, keras, numpy, pytorch, tensor, tensorflow</sup></sub>
 
@@ -275,8 +284,8 @@ created 2018-09-22, last commit 2022-10-17, main language Python
 mmf: A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)  
 [https://mmf.sh/](https://mmf.sh/)  
 [https://github.com/facebookresearch/mmf](https://github.com/facebookresearch/mmf)  
-22 stars per week over 226 weeks  
-5,049 stars, 887 forks, 114 watches  
+22 stars per week over 227 weeks  
+5,054 stars, 887 forks, 115 watches  
 created 2018-06-27, last commit 2022-10-19, main language Python  
 <sub><sup>captioning, deep-learning, dialog, hateful-memes, multi-tasking, multimodal, pretrained-models, pytorch, textvqa, vqa</sup></sub>
 
@@ -284,8 +293,8 @@ created 2018-06-27, last commit 2022-10-19, main language Python
 ### [skorch](https://github.com/skorch-dev/skorch) by [skorch-dev](https://github.com/skorch-dev)  
 skorch: A scikit-learn compatible neural network library that wraps PyTorch  
 [https://github.com/skorch-dev/skorch](https://github.com/skorch-dev/skorch)  
-17 stars per week over 275 weeks  
-4,770 stars, 325 forks, 79 watches  
+17 stars per week over 276 weeks  
+4,784 stars, 325 forks, 79 watches  
 created 2017-07-18, last commit 2022-10-19, main language Jupyter Notebook  
 <sub><sup>hacktoberfest, machine-learning, pytorch, scikit-learn</sup></sub>
 
@@ -294,9 +303,9 @@ created 2017-07-18, last commit 2022-10-19, main language Jupyter Notebook
 ignite: High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
 [https://pytorch-ignite.ai](https://pytorch-ignite.ai)  
 [https://github.com/pytorch/ignite](https://github.com/pytorch/ignite)  
-15 stars per week over 257 weeks  
-4,099 stars, 555 forks, 59 watches  
-created 2017-11-23, last commit 2022-10-23, main language Python  
+15 stars per week over 258 weeks  
+4,106 stars, 555 forks, 60 watches  
+created 2017-11-23, last commit 2022-11-04, main language Python  
 <sub><sup>deep-learning, hacktoberfest, machine-learning, metrics, neural-network, python, pytorch</sup></sub>
 
 
@@ -304,8 +313,8 @@ created 2017-11-23, last commit 2022-10-23, main language Python
 BasicSR: Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.  
 [https://basicsr.readthedocs.io/en/latest/](https://basicsr.readthedocs.io/en/latest/)  
 [https://github.com/xpixelgroup/basicsr](https://github.com/xpixelgroup/basicsr)  
-16 stars per week over 236 weeks  
-3,965 stars, 842 forks, 85 watches  
+16 stars per week over 237 weeks  
+4,008 stars, 849 forks, 85 watches  
 created 2018-04-19, last commit 2022-09-15, main language Python  
 <sub><sup>basicsr, basicvsr, dfdnet, ecbsr, edsr, edvr, esrgan, pytorch, rcan, restoration, srgan, srresnet, stylegan2, super-resolution, swinir</sup></sub>
 
@@ -314,19 +323,28 @@ created 2018-04-19, last commit 2022-09-15, main language Python
 Flax is a neural network library for JAX that is designed for flexibility.  
 [https://flax.readthedocs.io](https://flax.readthedocs.io)  
 [https://github.com/google/flax](https://github.com/google/flax)  
-25 stars per week over 145 weeks  
-3,685 stars, 423 forks, 73 watches  
-created 2020-01-10, last commit 2022-10-27, main language Python  
+25 stars per week over 147 weeks  
+3,705 stars, 425 forks, 72 watches  
+created 2020-01-10, last commit 2022-11-05, main language Python  
 <sub><sup>jax</sup></sub>
+
+
+### [lama-cleaner](https://github.com/sanster/lama-cleaner) by [sanster](https://github.com/sanster)  
+lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.  
+[https://github.com/sanster/lama-cleaner](https://github.com/sanster/lama-cleaner)  
+53 stars per week over 50 weeks  
+2,737 stars, 234 forks, 31 watches  
+created 2021-11-15, last commit 2022-11-04, main language Python  
+<sub><sup>inpainting, lama, latent-diffusion, mat, pytorch, stable-diffusion, zits</sup></sub>
 
 
 ### [composer](https://github.com/mosaicml/composer) by [mosaicml](https://github.com/mosaicml)  
 composer: Train neural networks up to 7x faster  
 [http://docs.mosaicml.com](http://docs.mosaicml.com)  
 [https://github.com/mosaicml/composer](https://github.com/mosaicml/composer)  
-48 stars per week over 54 weeks  
-2,624 stars, 154 forks, 22 watches  
-created 2021-10-12, last commit 2022-10-26, main language Python  
+47 stars per week over 55 weeks  
+2,644 stars, 158 forks, 21 watches  
+created 2021-10-12, last commit 2022-11-05, main language Python  
 <sub><sup>deep-learning, machine-learning, ml-efficiency, ml-systems, ml-training, neural-network, neural-networks, pytorch</sup></sub>
 
 
@@ -334,17 +352,25 @@ created 2021-10-12, last commit 2022-10-26, main language Python
 thinc: 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries  
 [https://thinc.ai](https://thinc.ai)  
 [https://github.com/explosion/thinc](https://github.com/explosion/thinc)  
-6.23 stars per week over 419 weeks  
-2,609 stars, 262 forks, 84 watches  
-created 2014-10-16, last commit 2022-10-19, main language Python  
+6.22 stars per week over 420 weeks  
+2,616 stars, 261 forks, 85 watches  
+created 2014-10-16, last commit 2022-11-04, main language Python  
 <sub><sup>ai, artificial-intelligence, deep-learning, functional-programming, jax, machine-learning, machine-learning-library, mxnet, natural-language-processing, nlp, python, pytorch, spacy, tensorflow, type-checking</sup></sub>
+
+
+### [AITemplate](https://github.com/facebookincubator/aitemplate) by [facebookincubator](https://github.com/facebookincubator)  
+AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.  
+[https://github.com/facebookincubator/aitemplate](https://github.com/facebookincubator/aitemplate)  
+156 stars per week over 16 weeks  
+2,533 stars, 153 forks, 67 watches  
+created 2022-07-15, last commit 2022-10-26, main language Python  
 
 
 ### [dalle-playground](https://github.com/saharmor/dalle-playground) by [saharmor](https://github.com/saharmor)  
 dalle-playground: A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/  
 [https://github.com/saharmor/dalle-playground](https://github.com/saharmor/dalle-playground)  
-41 stars per week over 58 weeks  
-2,446 stars, 542 forks, 27 watches  
+41 stars per week over 59 weeks  
+2,453 stars, 543 forks, 27 watches  
 created 2021-09-13, last commit 2022-10-06, main language JavaScript  
 <sub><sup>artificial, artificial-intelligence, dall-e, dalle, dalle-mini, gan, machine-learning, openai, text-to-image, transformers</sup></sub>
 
@@ -353,24 +379,16 @@ created 2021-09-13, last commit 2022-10-06, main language JavaScript
 botorch: Bayesian optimization in PyTorch  
 [https://botorch.org/](https://botorch.org/)  
 [https://github.com/pytorch/botorch](https://github.com/pytorch/botorch)  
-10 stars per week over 221 weeks  
-2,433 stars, 288 forks, 51 watches  
-created 2018-07-30, last commit 2022-10-24, main language Jupyter Notebook  
-
-
-### [AITemplate](https://github.com/facebookincubator/aitemplate) by [facebookincubator](https://github.com/facebookincubator)  
-AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.  
-[https://github.com/facebookincubator/aitemplate](https://github.com/facebookincubator/aitemplate)  
-160 stars per week over 14 weeks  
-2,383 stars, 146 forks, 62 watches  
-created 2022-07-15, last commit 2022-10-26, main language Python  
+10 stars per week over 222 weeks  
+2,436 stars, 290 forks, 51 watches  
+created 2018-07-30, last commit 2022-11-03, main language Jupyter Notebook  
 
 
 ### [VQGAN-CLIP](https://github.com/nerdyrodent/vqgan-clip) by [nerdyrodent](https://github.com/nerdyrodent)  
 VQGAN-CLIP: Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.  
 [https://github.com/nerdyrodent/vqgan-clip](https://github.com/nerdyrodent/vqgan-clip)  
-32 stars per week over 68 weeks  
-2,253 stars, 388 forks, 53 watches  
+32 stars per week over 70 weeks  
+2,265 stars, 391 forks, 53 watches  
 created 2021-07-02, last commit 2022-10-02, main language Python  
 <sub><sup>text-to-image, text2image</sup></sub>
 
@@ -379,27 +397,18 @@ created 2021-07-02, last commit 2022-10-02, main language Python
 dm-haiku: JAX-based neural network library  
 [https://dm-haiku.readthedocs.io](https://dm-haiku.readthedocs.io)  
 [https://github.com/deepmind/dm-haiku](https://github.com/deepmind/dm-haiku)  
-15 stars per week over 140 weeks  
-2,213 stars, 178 forks, 37 watches  
-created 2020-02-18, last commit 2022-10-19, main language Python  
+15 stars per week over 141 weeks  
+2,230 stars, 180 forks, 37 watches  
+created 2020-02-18, last commit 2022-11-03, main language Python  
 <sub><sup>deep-learning, deep-neural-networks, jax, machine-learning, neural-networks</sup></sub>
-
-
-### [lama-cleaner](https://github.com/sanster/lama-cleaner) by [sanster](https://github.com/sanster)  
-lama-cleaner: Image inpainting tool powered by SOTA AI Model  
-[https://github.com/sanster/lama-cleaner](https://github.com/sanster/lama-cleaner)  
-32 stars per week over 49 weeks  
-1,619 stars, 175 forks, 23 watches  
-created 2021-11-15, last commit 2022-10-25, main language Python  
-<sub><sup>inpainting, lama, latent-diffusion, mat, pytorch, stable-diffusion, zits</sup></sub>
 
 
 ### [torchio](https://github.com/fepegar/torchio) by [fepegar](https://github.com/fepegar)  
 torchio: Medical imaging toolkit for deep learning  
 [http://www.torchio.org](http://www.torchio.org)  
 [https://github.com/fepegar/torchio](https://github.com/fepegar/torchio)  
-10 stars per week over 152 weeks  
-1,539 stars, 190 forks, 13 watches  
+10 stars per week over 153 weeks  
+1,544 stars, 190 forks, 13 watches  
 created 2019-11-26, last commit 2022-10-11, main language Python  
 <sub><sup>augmentation, data-augmentation, deep-learning, machine-learning, medical-image-analysis, medical-image-computing, medical-image-processing, medical-images, medical-imaging-datasets, medical-imaging-with-deep-learning, python, pytorch</sup></sub>
 
@@ -407,51 +416,51 @@ created 2019-11-26, last commit 2022-10-11, main language Python
 ### [FGVC](https://github.com/vt-vl-lab/fgvc) by [vt-vl-lab](https://github.com/vt-vl-lab)  
 FGVC: [ECCV 2020] Flow-edge Guided Video Completion   
 [https://github.com/vt-vl-lab/fgvc](https://github.com/vt-vl-lab/fgvc)  
-13 stars per week over 111 weeks  
-1,465 stars, 236 forks, 68 watches  
+13 stars per week over 112 weeks  
+1,466 stars, 237 forks, 68 watches  
 created 2020-09-09, last commit 2021-12-14, main language Python  
 
 
 ### [nebullvm](https://github.com/nebuly-ai/nebullvm) by [nebuly-ai](https://github.com/nebuly-ai)  
 nebullvm: Accelerate AI models inference leveraging best-of-breed optimization techniques 🚀  
 [https://github.com/nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)  
-38 stars per week over 36 weeks  
-1,431 stars, 64 forks, 16 watches  
-created 2022-02-12, last commit 2022-10-19, main language Python  
+37 stars per week over 38 weeks  
+1,442 stars, 64 forks, 16 watches  
+created 2022-02-12, last commit 2022-11-02, main language Python  
 <sub><sup>compiler, computing, deep-learning, huggingface, inference, machine-learning, onnx, openvino, pytorch, tensorflow, tensorrt, tvm</sup></sub>
 
 
 ### [sparseml](https://github.com/neuralmagic/sparseml) by [neuralmagic](https://github.com/neuralmagic)  
 sparseml: Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models  
 [https://github.com/neuralmagic/sparseml](https://github.com/neuralmagic/sparseml)  
-13 stars per week over 97 weeks  
-1,352 stars, 100 forks, 32 watches  
-created 2020-12-11, last commit 2022-10-26, main language Python  
+13 stars per week over 99 weeks  
+1,368 stars, 102 forks, 32 watches  
+created 2020-12-11, last commit 2022-11-04, main language Python  
 <sub><sup>automl, computer-vision-algorithms, deep-learning-algorithms, deep-learning-library, deep-learning-models, image-classification, keras, model-sparsification, nlp, object-detection, onnx, pruning, pruning-algorithms, pytorch, recipe-driven-approaches, smaller-models, sparsification, sparsification-recipes, sparsity, tensorflow</sup></sub>
 
 
 ### [mesh](https://github.com/tensorflow/mesh) by [tensorflow](https://github.com/tensorflow)  
 Mesh TensorFlow: Model Parallelism Made Easier  
 [https://github.com/tensorflow/mesh](https://github.com/tensorflow/mesh)  
-6.17 stars per week over 214 weeks  
-1,320 stars, 230 forks, 43 watches  
+6.16 stars per week over 215 weeks  
+1,327 stars, 230 forks, 43 watches  
 created 2018-09-20, last commit 2022-10-04, main language Python  
 
 
 ### [torchrec](https://github.com/pytorch/torchrec) by [pytorch](https://github.com/pytorch)  
 torchrec: Pytorch domain library for recommendation systems  
 [https://github.com/pytorch/torchrec](https://github.com/pytorch/torchrec)  
-17 stars per week over 67 weeks  
-1,166 stars, 173 forks, 22 watches  
-created 2021-07-12, last commit 2022-10-27, main language Python  
+17 stars per week over 68 weeks  
+1,180 stars, 178 forks, 23 watches  
+created 2021-07-12, last commit 2022-11-04, main language Python  
 <sub><sup>cuda, deep-learning, gpu, pytorch, recommendation-system, recommender-system, sharding</sup></sub>
 
 
 ### [pytorch_image_classification](https://github.com/hysts/pytorch_image_classification) by [hysts](https://github.com/hysts)  
 pytorch_image_classification: PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST/ImageNet  
 [https://github.com/hysts/pytorch_image_classification](https://github.com/hysts/pytorch_image_classification)  
-4.47 stars per week over 254 weeks  
-1,138 stars, 289 forks, 27 watches  
+4.46 stars per week over 256 weeks  
+1,142 stars, 289 forks, 27 watches  
 created 2017-12-09, last commit 2021-12-12, main language Python  
 <sub><sup>cifar10, computer-vision, fashion-mnist, imagenet, pytorch</sup></sub>
 
@@ -460,41 +469,49 @@ created 2017-12-09, last commit 2021-12-12, main language Python
 alpa: Training and serving large-scale neural networks  
 [https://alpa.ai](https://alpa.ai)  
 [https://github.com/alpa-projects/alpa](https://github.com/alpa-projects/alpa)  
-12 stars per week over 87 weeks  
-1,095 stars, 116 forks, 18 watches  
-created 2021-02-22, last commit 2022-10-20, main language Python  
+12 stars per week over 88 weeks  
+1,129 stars, 121 forks, 18 watches  
+created 2021-02-22, last commit 2022-11-04, main language Python  
 <sub><sup>alpa, auto-parallelization, compiler, deep-learning, distributed-computing, distributed-training, high-performance-computing, jax, llm, machine-learning</sup></sub>
+
+
+### [WeightWatcher](https://github.com/calculatedcontent/weightwatcher) by [calculatedcontent](https://github.com/calculatedcontent)  
+WeightWatcher: The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks  
+[https://github.com/calculatedcontent/weightwatcher](https://github.com/calculatedcontent/weightwatcher)  
+4.87 stars per week over 205 weeks  
+1,000 stars, 94 forks, 29 watches  
+created 2018-11-28, last commit 2022-11-03, main language Python  
 
 
 ### [similarity](https://github.com/tensorflow/similarity) by [tensorflow](https://github.com/tensorflow)  
 similarity: TensorFlow Similarity is a python package focused on making similarity learning quick and easy.  
 [https://github.com/tensorflow/similarity](https://github.com/tensorflow/similarity)  
-7.22 stars per week over 123 weeks  
-891 stars, 83 forks, 25 watches  
-created 2020-06-15, last commit 2022-10-03, main language Python  
+7.16 stars per week over 124 weeks  
+893 stars, 82 forks, 26 watches  
+created 2020-06-15, last commit 2022-10-30, main language Python  
 <sub><sup>barlow-twins, clustering, contrastive-learning, cosine-similarity, deep-learning, knn, machine-learning, metric-learning, nearest-neighbor-search, nearest-neighbors, python, simclr, simclr2, similarity-learning, similarity-search, simsiam, tensorflow, unsupervised-learning</sup></sub>
 
 
 ### [rq-vae-transformer](https://github.com/kakaobrain/rq-vae-transformer) by [kakaobrain](https://github.com/kakaobrain)  
 rq-vae-transformer: The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)  
 [https://github.com/kakaobrain/rq-vae-transformer](https://github.com/kakaobrain/rq-vae-transformer)  
-14 stars per week over 34 weeks  
-506 stars, 59 forks, 15 watches  
+14 stars per week over 35 weeks  
+509 stars, 59 forks, 15 watches  
 created 2022-03-03, last commit 2022-08-18, main language Jupyter Notebook  
 
 
 ### [ppuda](https://github.com/facebookresearch/ppuda) by [facebookresearch](https://github.com/facebookresearch)  
 ppuda: Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)  
 [https://github.com/facebookresearch/ppuda](https://github.com/facebookresearch/ppuda)  
-8.6 stars per week over 53 weeks  
-456 stars, 61 forks, 17 watches  
+8.42 stars per week over 54 weeks  
+457 stars, 61 forks, 17 watches  
 created 2021-10-21, last commit 2022-07-26, main language Python  
 
 
 ### [Deep-Video-Inpainting](https://github.com/mcahny/deep-video-inpainting) by [mcahny](https://github.com/mcahny)  
 Deep-Video-Inpainting: Official pytorch implementation for "Deep Video Inpainting" (CVPR 2019)  
 [https://github.com/mcahny/deep-video-inpainting](https://github.com/mcahny/deep-video-inpainting)  
-2.46 stars per week over 179 weeks  
+2.44 stars per week over 180 weeks  
 440 stars, 87 forks, 13 watches  
 created 2019-05-22, last commit 2020-12-10, main language Python  
 
@@ -503,7 +520,7 @@ created 2019-05-22, last commit 2020-12-10, main language Python
 [ECCV'2020] STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting  
 [https://arxiv.org/abs/2007.10247](https://arxiv.org/abs/2007.10247)  
 [https://github.com/researchmm/sttn](https://github.com/researchmm/sttn)  
-2.89 stars per week over 119 weeks  
+2.86 stars per week over 121 weeks  
 346 stars, 69 forks, 20 watches  
 created 2020-07-10, last commit 2021-07-26, main language Jupyter Notebook  
 <sub><sup>completing-videos, spatial-temporal, transformer, video-inpainting</sup></sub>
@@ -513,8 +530,8 @@ created 2020-07-10, last commit 2021-07-26, main language Jupyter Notebook
 git-re-basin: Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries"  
 [https://arxiv.org/abs/2209.04836](https://arxiv.org/abs/2209.04836)  
 [https://github.com/samuela/git-re-basin](https://github.com/samuela/git-re-basin)  
-50 stars per week over 6 weeks  
-316 stars, 23 forks, 4 watches  
+42 stars per week over 7 weeks  
+324 stars, 23 forks, 4 watches  
 created 2022-09-13, last commit 2022-10-12, main language Python  
 <sub><sup>deep-learning, deeplearning, jax, machine-learning, neural-networks</sup></sub>
 
@@ -522,7 +539,7 @@ created 2022-09-13, last commit 2022-10-12, main language Python
 ### [ModernConvNets](https://github.com/nyandwi/modernconvnets) by [nyandwi](https://github.com/nyandwi)  
 ModernConvNets: Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
 [https://github.com/nyandwi/modernconvnets](https://github.com/nyandwi/modernconvnets)  
-8.05 stars per week over 37 weeks  
+7.78 stars per week over 38 weeks  
 298 stars, 31 forks, 7 watches  
 created 2022-02-10, last commit 2022-10-05, main language Jupyter Notebook  
 <sub><sup>cnns, computer-vision, convnets, convolutional-neural-networks, deep-learning-algorithms, image-classification, keras, neural-networks, tensorflow</sup></sub>
@@ -531,25 +548,25 @@ created 2022-02-10, last commit 2022-10-05, main language Jupyter Notebook
 ### [keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) by [leondgarse](https://github.com/leondgarse)  
 keras_cv_attention_models: Keras/Tensorflow attention models including beit,botnet,CMT,CoaT,CoAtNet,convnext,cotnet,davit,efficientdet,edgenext,efficientformer,efficientnet,fbnet,gcvit,gmlp,halonet,hornet,lcnet,levit,maxvit,mlp-mixer,mobilevit,nat,nfnets,regnet,resmlp,resnest,resnext,resnetd,swin,tinynet,uniformer,volo,wavemlp,yolor,yolox  
 [https://github.com/leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models)  
-4.42 stars per week over 64 weeks  
-285 stars, 43 forks, 14 watches  
-created 2021-08-02, last commit 2022-10-26, main language Python  
+4.41 stars per week over 65 weeks  
+290 stars, 44 forks, 15 watches  
+created 2021-08-02, last commit 2022-11-03, main language Python  
 <sub><sup>anchor-free, attention, coco, detection, imagenet, keras, model, recognition, tensorflow, tf, tf2, visualizing</sup></sub>
 
 
 ### [auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow) by [rafiqhasan](https://github.com/rafiqhasan)  
 auto-tensorflow: Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - https://www.linkedin.com/in/sam04/  
 [https://github.com/rafiqhasan/auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow)  
-1.99 stars per week over 68 weeks  
-136 stars, 30 forks, 10 watches  
-created 2021-07-05, last commit 2021-11-29, main language Python  
+1.97 stars per week over 69 weeks  
+137 stars, 30 forks, 11 watches  
+created 2021-07-05, last commit 2022-10-31, main language Python  
 <sub><sup>auto-tensorflow, automl, autotensorflow, deeplearning, machine-learning, machinelearning, neural-networks, tensorflow, tfx</sup></sub>
 
 
 ### [tigerlily](https://github.com/benedekrozemberczki/tigerlily) by [benedekrozemberczki](https://github.com/benedekrozemberczki)  
 TigerLily: Finding drug interactions in silico with the Graph.  
 [https://github.com/benedekrozemberczki/tigerlily](https://github.com/benedekrozemberczki/tigerlily)  
-2.61 stars per week over 34 weeks  
+2.52 stars per week over 35 weeks  
 90 stars, 9 forks, 1 watches  
 created 2022-02-28, last commit 2022-04-19, main language Jupyter Notebook  
 <sub><sup>biology, ddi, deep-learning, drug-drug-interaction, embedding, gradient-boosting, graph, graph-database, graph-embedding, graph-machine-learning, heterogeneous-graph, knowledge-graph, machine-learning, network-science, node, node-embedding, pharmaceuticals, tigergraph, unsupervised-learning</sup></sub>
@@ -559,8 +576,8 @@ created 2022-02-28, last commit 2022-04-19, main language Jupyter Notebook
 asyncpraw: Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.  
 [https://asyncpraw.readthedocs.io](https://asyncpraw.readthedocs.io)  
 [https://github.com/praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)  
-0.39 stars per week over 194 weeks  
-76 stars, 14 forks, 2 watches  
+0.39 stars per week over 195 weeks  
+76 stars, 14 forks, 3 watches  
 created 2019-02-05, last commit 2022-10-25, main language Python  
 <sub><sup>api, async, asyncpraw, oauth, praw, python, reddit, reddit-api</sup></sub>
 
@@ -568,13 +585,13 @@ created 2019-02-05, last commit 2022-10-25, main language Python
 ### [valhalla-nmt](https://github.com/jerryyli/valhalla-nmt) by [jerryyli](https://github.com/jerryyli)  
 valhalla-nmt: Code repository for CVPR 2022 paper "VALHALLA: Visual Hallucination for Machine Translation"  
 [https://github.com/jerryyli/valhalla-nmt](https://github.com/jerryyli/valhalla-nmt)  
-0.61 stars per week over 31 weeks  
-19 stars, 3 forks, 1 watches  
+0.64 stars per week over 32 weeks  
+21 stars, 3 forks, 1 watches  
 created 2022-03-22, last commit 2022-06-06, main language Python  
 <sub><sup>computer-vision, machine-translation, multimodal-learning, natural-language-processing</sup></sub>
 
 
-This file was automatically generated on 2022-10-27.  
+This file was automatically generated on 2022-11-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

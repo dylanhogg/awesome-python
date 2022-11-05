@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
 [https://trivy.dev](https://trivy.dev)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
-77 stars per week over 185 weeks  
-14,400 stars, 1,387 forks, 143 watches  
-created 2019-04-11, last commit 2022-10-25, main language Go  
+78 stars per week over 186 weeks  
+14,641 stars, 1,402 forks, 143 watches  
+created 2019-04-11, last commit 2022-10-31, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
@@ -19,9 +19,9 @@ created 2019-04-11, last commit 2022-10-25, main language Go
 Bandit is a tool designed to find common security issues in Python code.  
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/pycqa/bandit](https://github.com/pycqa/bandit)  
-19 stars per week over 235 weeks  
-4,606 stars, 487 forks, 59 watches  
-created 2018-04-26, last commit 2022-09-14, main language Python  
+19 stars per week over 236 weeks  
+4,619 stars, 487 forks, 59 watches  
+created 2018-04-26, last commit 2022-10-28, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
 
@@ -29,8 +29,8 @@ created 2018-04-26, last commit 2022-09-14, main language Python
 Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 [https://pyup.io/safety/](https://pyup.io/safety/)  
 [https://github.com/pyupio/safety](https://github.com/pyupio/safety)  
-4.42 stars per week over 314 weeks  
-1,389 stars, 122 forks, 31 watches  
+4.43 stars per week over 315 weeks  
+1,397 stars, 121 forks, 31 watches  
 created 2016-10-19, last commit 2022-10-10, main language Python  
 <sub><sup>python, security, security-vulnerability, travis, vulnerability-detection, vulnerability-scanners</sup></sub>
 
@@ -39,9 +39,9 @@ created 2016-10-19, last commit 2022-10-10, main language Python
 pip-audit: Audits Python environments and dependency trees for known vulnerabilities  
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
-11 stars per week over 60 weeks  
-663 stars, 36 forks, 19 watches  
-created 2021-09-02, last commit 2022-10-26, main language Python  
+10 stars per week over 61 weeks  
+670 stars, 38 forks, 19 watches  
+created 2021-09-02, last commit 2022-11-04, main language Python  
 <sub><sup>pip, python, security, security-audit, supply-chain</sup></sub>
 
 
@@ -49,8 +49,8 @@ created 2021-09-02, last commit 2022-10-26, main language Python
 jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
 [https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
-0.45 stars per week over 159 weeks  
-71 stars, 18 forks, 9 watches  
+0.45 stars per week over 160 weeks  
+72 stars, 19 forks, 9 watches  
 created 2019-10-10, last commit 2022-09-30, main language Python  
 <sub><sup>nexus-iq, ossindex, python, sonatype-iq, vulnerabilities, vulnerability-scanners</sup></sub>
 
@@ -59,13 +59,13 @@ created 2019-10-10, last commit 2022-09-30, main language Python
 pysnyk: A Python client for the Snyk API.  
 [https://snyk.docs.apiary.io/](https://snyk.docs.apiary.io/)  
 [https://github.com/snyk-labs/pysnyk](https://github.com/snyk-labs/pysnyk)  
-0.25 stars per week over 194 weeks  
-49 stars, 86 forks, 10 watches  
+0.26 stars per week over 195 weeks  
+50 stars, 86 forks, 10 watches  
 created 2019-02-03, last commit 2022-05-26, main language Python  
 <sub><sup>api, python, snyk</sup></sub>
 
 
-This file was automatically generated on 2022-10-27.  
+This file was automatically generated on 2022-11-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
