@@ -58,6 +58,14 @@ img.info-img:hover {
 div.dataTables_filter input {
     /* override datatables margin-left: 0.5em; */
     margin-left: 0px !important;
+    /* override datatables width: auto; */
+    width: 175px !important;
+}
+
+div.dataTables_filter select {
+    width: 175px;
+    margin-left: 10px;
+    border: 1px solid #ced4da;
 }
 
 /* --- books --- */

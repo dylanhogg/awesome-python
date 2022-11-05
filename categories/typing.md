@@ -9,27 +9,27 @@ Checkout the interactive version that you can filter and sort:
 mypy: Optional static typing for Python  
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
-27 stars per week over 514 weeks  
-13,948 stars, 2,324 forks, 219 watches  
-created 2012-12-07, last commit 2022-10-16, main language Python  
+27 stars per week over 515 weeks  
+14,023 stars, 2,333 forks, 223 watches  
+created 2012-12-07, last commit 2022-10-26, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
 
 ### [pyright](https://github.com/microsoft/pyright) by [microsoft](https://github.com/microsoft)  
 pyright: Static type checker for Python  
 [https://github.com/microsoft/pyright](https://github.com/microsoft/pyright)  
-45 stars per week over 187 weeks  
-8,535 stars, 514 forks, 76 watches  
-created 2019-03-12, last commit 2022-10-16, main language Python  
+45 stars per week over 189 weeks  
+8,578 stars, 519 forks, 77 watches  
+created 2019-03-12, last commit 2022-10-26, main language Python  
 
 
 ### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
 pyre-check: Performant type-checking for python.  
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
-23 stars per week over 257 weeks  
-6,081 stars, 399 forks, 106 watches  
-created 2017-11-10, last commit 2022-10-15, main language OCaml  
+23 stars per week over 258 weeks  
+6,100 stars, 398 forks, 106 watches  
+created 2017-11-10, last commit 2022-10-27, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 
 
@@ -37,17 +37,17 @@ created 2017-11-10, last commit 2022-10-15, main language OCaml
 pytype: A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-9.96 stars per week over 395 weeks  
-3,940 stars, 257 forks, 55 watches  
-created 2015-03-18, last commit 2022-10-13, main language Python  
+9.96 stars per week over 397 weeks  
+3,955 stars, 257 forks, 55 watches  
+created 2015-03-18, last commit 2022-10-26, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
 ### [torchtyping](https://github.com/patrick-kidger/torchtyping) by [patrick-kidger](https://github.com/patrick-kidger)  
 torchtyping: Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.  
 [https://github.com/patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping)  
-13 stars per week over 81 weeks  
-1,117 stars, 26 forks, 13 watches  
+13 stars per week over 82 weeks  
+1,125 stars, 26 forks, 13 watches  
 created 2021-03-28, last commit 2022-07-11, main language Python  
 <sub><sup>named-tensors, python-typing, pytorch, shape, tensors, typing</sup></sub>
 
@@ -55,20 +55,20 @@ created 2021-03-28, last commit 2022-07-11, main language Python
 ### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
 typeguard: Run-time type checker for Python  
 [https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
-2.9 stars per week over 355 weeks  
-1,031 stars, 78 forks, 17 watches  
+2.91 stars per week over 356 weeks  
+1,037 stars, 78 forks, 17 watches  
 created 2015-12-27, last commit 2022-10-11, main language Python  
 
 
 ### [docutils-stubs](https://github.com/tk0miya/docutils-stubs) by [tk0miya](https://github.com/tk0miya)  
 tk0miya/docutils-stubs  
 [https://github.com/tk0miya/docutils-stubs](https://github.com/tk0miya/docutils-stubs)  
-0.03 stars per week over 206 weeks  
+0.03 stars per week over 207 weeks  
 7 stars, 5 forks, 6 watches  
 created 2018-11-02, last commit 2022-01-02, main language Python  
 
 
-This file was automatically generated on 2022-10-17.  
+This file was automatically generated on 2022-10-27.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -1,4 +1,6 @@
-var version = "v0.0.8";
+const version = "v0.0.8";
+const CATEGORY_COL = 7;
+const TAG_COL = 8;
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -21,6 +23,15 @@ function getUrlQuery() {
     }
 }
 
+function getUrlCategoryFilter() {
+    try {
+        var params = getUrlParams();
+        if ("c" in params) { return decodeURI(params["c"]); } else { return ""; }
+    } catch(err) {
+        return "";
+    }
+}
+
 $(document).keydown(function(e) {
     if (e.keyCode == 39) {  // Right arrow
         $("#table").DataTable().page("next").draw("page");
@@ -31,12 +42,104 @@ $(document).keydown(function(e) {
     }
 });
 
+// Category filter dropdown
+$(document).on("preInit.dt", function (e, settings) {
+    var data = {
+        '': 'All Categories',
+        'crypto': 'Crypto',
+        'data': 'Data',
+        'diffusion': 'Diffusion Text to Image',
+        'gamedev': 'Game Development',
+        'gis': 'GIS',
+        'graph': 'Graph',
+        'gui': 'GUI',
+        'jupyter': 'Jupyter',
+        'math': 'Math',
+        'ml': 'ML - General',
+        'ml-dl': 'ML - Deep Learning',
+        'ml-interpretability': 'ML - Interpretability',
+        'ml-ops': 'ML - Ops',
+        'time-series': 'ML - Time Series',
+        'nlp': 'NLP',
+        'perf': 'Performance',
+        'security': 'Security',
+        'sim': 'Simulation',
+        'study': 'Study',
+        'template': 'Template',
+        'term': 'Terminal',
+        'testing': 'Testing',
+        'typing': 'Typing',
+        'util': 'Utility',
+        'viz': 'Vizualisation',
+        'web': 'Web',
+    }
+    var select = $('<select name="category_filter" id="category_filter" class="form-select-sm form-select-sm category_filter" />');
+    for(var val in data) {
+        $('<option />', {value: val, text: data[val]}).appendTo(select);
+    }
+    select.appendTo('div.dataTables_filter');
+
+    select.change(function(){
+        category_filter = $("#category_filter").val()
+        var table = $("#table").DataTable();
+        if (category_filter == "") {
+            table
+                //.search("")  // Clear full-table search
+                .columns(CATEGORY_COL)
+                .search("")
+                .draw();
+        } else {
+            table
+                // .search("")  // Clear full-table search
+                .columns(CATEGORY_COL)
+                .search("^"+category_filter+"$", true, false)  // regex search
+                .draw();
+        }
+    });
+
+    var initialCategoryFilter = getUrlCategoryFilter();
+    if (initialCategoryFilter.length > 0) {
+        $("#category_filter").val(initialCategoryFilter).change();
+    }
+});
+
+// Tag filter dropdown
+//$(document).on("preInit.dt", function (e, settings) {
+//    var select = $('<select name="tag_filter" id="tag_filter" class="form-select-sm form-select-sm tag_filter">' +
+//                   '<option value="">All Tags</option></select>');
+//    select.appendTo('div.dataTables_filter');
+//
+//    $.getJSON("github_tags_data.json", function( data ) {
+//        $.each( data, function( key, val ) {
+//            $('<option />', {value: key, text: val}).appendTo(select);
+//        });
+//
+//        select.change(function(){
+//            tag_filter = $("#tag_filter").val()
+//            var table = $("#table").DataTable();
+//            if (tag_filter == "") {
+//                table
+//                    //.search("")  // Clear full-table search
+//                    .columns(TAG_COL)
+//                    .search("")
+//                    .draw();
+//            } else {
+//                table
+//                    // .search("")  // Clear full-table search
+//                    .columns(TAG_COL)
+//                    .search(tag_filter)  // TODO: review match single tag
+//                    .draw();
+//            }
+//        });
+//    });
+//});
+
 $(document).ready( function () {
-    var ajax_url = './github_data.min.json';
+    var ajax_url = './github_data.min.json?v1.0';
     // var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
     if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
         // Use local testing json data
-        ajax_url = '/github_data.json';
+        ajax_url = '/github_data.json?v1.0';
     }
 
     $("#menu-icon").click(function(){
@@ -53,7 +156,8 @@ $(document).ready( function () {
     });
 
     var initialSearchTerm = getUrlQuery();
-    $("#table").DataTable( {
+    var description_maxlen = 180;
+    var table = $("#table").DataTable( {
         ajax: {
             url: ajax_url,
             dataSrc: 'data'
@@ -62,8 +166,8 @@ $(document).ready( function () {
         order: [[ 1, "desc" ]],
         paging: true,
         lengthChange: true,
-        lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]],
-        pageLength: 10,
+        lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
+        pageLength: 5,
         search: {
            search: initialSearchTerm,
         },
@@ -86,7 +190,14 @@ $(document).ready( function () {
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
            { data: "_description", title: "Description",
-             render: function(data, type, row, meta) { return "<div class='text-wrap description-column'>" + data + "</div>"; }
+             render: function(data, type, row, meta) {
+//                return "<div class='text-wrap description-column'>" + data + "</div>";
+                if(data.length > description_maxlen) {
+                    return "<div class='text-wrap description-column'>" + data.substr(0, description_maxlen) + "...</div>";
+                } else {
+                    return data;
+                }
+             }
            },
            { data: null,
             title: "Links",
@@ -102,14 +213,14 @@ $(document).ready( function () {
            { data: "_age_weeks", title: "Age in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
            },
-           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
-            className: "text-nowrap",
-            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-           },
-           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
-            className: "text-nowrap",
-            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-           },
+//           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
+//           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
            { data: "category", title: "Category" },
            { data: "_topics", title: "Tags",
             render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
@@ -151,6 +262,31 @@ $(document).ready( function () {
 //          },
         ],
     });
+
+//    $("#category_filter").change(function(){
+//        category_filter = $("#category_filter").val()
+//        console.log("category_filter:" + category_filter);
+//        console.log(table);
+//
+//        if (category_filter == "") {
+//            table
+//                //.search("")  // Clear full-table search
+//                .columns(CATEGORY_COL)
+//                .search("")
+//                .draw();
+//        } else {
+//            table
+//                // .search("")  // Clear full-table search
+//                .columns(CATEGORY_COL)
+//                .search("^"+category_filter+"$", true, false)  // regex search
+//                .draw();
+//        }
+//    });
+
+//    var initialCategoryFilter = getUrlCategoryFilter();
+//    if (initialCategoryFilter.length > 0) {
+//        $("#category_filter").val(initialCategoryFilter).change();
+//    }
 
     $('#table').on('click', '.modal-ajax', function(e) {
         var localurl = $(this).data('localurl') + $(this).data('ext');
