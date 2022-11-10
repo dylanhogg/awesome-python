@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 9 curated typing Python libraries and frameworks ordered by stars.  
+A selection of 10 curated typing Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,17 +10,17 @@ mypy: Optional static typing for Python
 [http://www.mypy-lang.org/](http://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
 27 stars per week over 517 weeks  
-14,071 stars, 2,336 forks, 222 watches  
-created 2012-12-07, last commit 2022-11-04, main language Python  
+14,097 stars, 2,347 forks, 222 watches  
+created 2012-12-07, last commit 2022-11-09, main language Python  
 <sub><sup>linter, python, typechecker, types, typing</sup></sub>
 
 
 ### [pyright](https://github.com/microsoft/pyright) by [microsoft](https://github.com/microsoft)  
 pyright: Static type checker for Python  
 [https://github.com/microsoft/pyright](https://github.com/microsoft/pyright)  
-45 stars per week over 190 weeks  
-8,611 stars, 524 forks, 76 watches  
-created 2019-03-12, last commit 2022-11-04, main language Python  
+45 stars per week over 191 weeks  
+8,658 stars, 539 forks, 76 watches  
+created 2019-03-12, last commit 2022-11-10, main language Python  
 
 
 ### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
@@ -28,8 +28,8 @@ pyre-check: Performant type-checking for python.
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
 23 stars per week over 260 weeks  
-6,114 stars, 399 forks, 106 watches  
-created 2017-11-10, last commit 2022-11-05, main language OCaml  
+6,116 stars, 399 forks, 106 watches  
+created 2017-11-10, last commit 2022-11-09, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, python, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
 
 
@@ -37,9 +37,9 @@ created 2017-11-10, last commit 2022-11-05, main language OCaml
 attrs: Python Classes Without Boilerplate  
 [https://www.attrs.org/](https://www.attrs.org/)  
 [https://github.com/python-attrs/attrs](https://github.com/python-attrs/attrs)  
-11 stars per week over 405 weeks  
-4,489 stars, 319 forks, 58 watches  
-created 2015-01-27, last commit 2022-10-27, main language Python  
+11 stars per week over 406 weeks  
+4,500 stars, 319 forks, 58 watches  
+created 2015-01-27, last commit 2022-11-08, main language Python  
 <sub><sup>attributes, boilerplate, classes, oop, python, srp</sup></sub>
 
 
@@ -47,17 +47,17 @@ created 2015-01-27, last commit 2022-10-27, main language Python
 pytype: A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-9.95 stars per week over 398 weeks  
-3,965 stars, 257 forks, 55 watches  
-created 2015-03-18, last commit 2022-11-02, main language Python  
+9.96 stars per week over 399 weeks  
+3,975 stars, 258 forks, 55 watches  
+created 2015-03-18, last commit 2022-11-08, main language Python  
 <sub><sup>linter, python, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
 
 
 ### [torchtyping](https://github.com/patrick-kidger/torchtyping) by [patrick-kidger](https://github.com/patrick-kidger)  
 torchtyping: Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.  
 [https://github.com/patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping)  
-13 stars per week over 83 weeks  
-1,132 stars, 27 forks, 13 watches  
+13 stars per week over 84 weeks  
+1,133 stars, 27 forks, 13 watches  
 created 2021-03-28, last commit 2022-07-11, main language Python  
 <sub><sup>named-tensors, python-typing, pytorch, shape, tensors, typing</sup></sub>
 
@@ -65,18 +65,26 @@ created 2021-03-28, last commit 2022-07-11, main language Python
 ### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
 typeguard: Run-time type checker for Python  
 [https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
-2.92 stars per week over 357 weeks  
-1,045 stars, 80 forks, 17 watches  
+2.92 stars per week over 358 weeks  
+1,048 stars, 80 forks, 17 watches  
 created 2015-12-27, last commit 2022-10-11, main language Python  
 
 
 ### [cattrs](https://github.com/python-attrs/cattrs) by [python-attrs](https://github.com/python-attrs)  
 cattrs: Complex custom class converters for attrs.  
 [https://github.com/python-attrs/cattrs](https://github.com/python-attrs/cattrs)  
-1.72 stars per week over 322 weeks  
-556 stars, 82 forks, 16 watches  
+1.73 stars per week over 323 weeks  
+559 stars, 82 forks, 16 watches  
 created 2016-08-28, last commit 2022-11-01, main language Python  
 <sub><sup>attrs, deserialization, serialization</sup></sub>
+
+
+### [autotyping](https://github.com/jellezijlstra/autotyping) by [jellezijlstra](https://github.com/jellezijlstra)  
+jellezijlstra/autotyping  
+[https://github.com/jellezijlstra/autotyping](https://github.com/jellezijlstra/autotyping)  
+1.09 stars per week over 71 weeks  
+78 stars, 6 forks, 3 watches  
+created 2021-06-25, last commit 2022-10-13, main language Python  
 
 
 ### [docutils-stubs](https://github.com/tk0miya/docutils-stubs) by [tk0miya](https://github.com/tk0miya)  
@@ -87,7 +95,7 @@ tk0miya/docutils-stubs
 created 2018-11-02, last commit 2022-01-02, main language Python  
 
 
-This file was automatically generated on 2022-11-05.  
+This file was automatically generated on 2022-11-10.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
