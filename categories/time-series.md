@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 5 curated time-series Python libraries and frameworks ordered by stars.  
+A selection of 7 curated time-series Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,33 +10,53 @@ prophet: Tool for producing high quality forecasts for time series data that has
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
 [https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
 48 stars per week over 312 weeks  
-15,160 stars, 4,312 forks, 423 watches  
+15,170 stars, 4,316 forks, 423 watches  
 created 2016-11-16, last commit 2022-09-21, main language Python  
 <sub><sup>forecasting, python, r</sup></sub>
+
+
+### [tsfresh](https://github.com/blue-yonder/tsfresh) by [blue-yonder](https://github.com/blue-yonder)  
+tsfresh: Automatic extraction of relevant features from time series:  
+[http://tsfresh.readthedocs.io](http://tsfresh.readthedocs.io)  
+[https://github.com/blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)  
+21 stars per week over 315 weeks  
+6,842 stars, 1,076 forks, 158 watches  
+created 2016-10-26, last commit 2021-12-21, main language Jupyter Notebook  
+<sub><sup>data-science, feature-extraction, time-series</sup></sub>
 
 
 ### [Kats](https://github.com/facebookresearch/kats) by [facebookresearch](https://github.com/facebookresearch)  
 Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.   
 [https://github.com/facebookresearch/kats](https://github.com/facebookresearch/kats)  
 45 stars per week over 89 weeks  
-4,065 stars, 421 forks, 70 watches  
-created 2021-02-25, last commit 2022-11-08, main language Python  
+4,074 stars, 424 forks, 70 watches  
+created 2021-02-25, last commit 2022-11-12, main language Python  
 
 
 ### [Merlion](https://github.com/salesforce/merlion) by [salesforce](https://github.com/salesforce)  
 Merlion: A Machine Learning Framework for Time Series Intelligence  
 [https://github.com/salesforce/merlion](https://github.com/salesforce/merlion)  
 41 stars per week over 67 weeks  
-2,772 stars, 233 forks, 42 watches  
+2,775 stars, 235 forks, 42 watches  
 created 2021-07-28, last commit 2022-11-08, main language Python  
 <sub><sup>anomaly-detection, automl, benchmarking, ensemble-learning, forecasting, machine-learning, time-series</sup></sub>
+
+
+### [stumpy](https://github.com/tdameritrade/stumpy) by [tdameritrade](https://github.com/tdameritrade)  
+STUMPY is a powerful and scalable Python library for modern time series analysis  
+[https://stumpy.readthedocs.io/en/latest/](https://stumpy.readthedocs.io/en/latest/)  
+[https://github.com/tdameritrade/stumpy](https://github.com/tdameritrade/stumpy)  
+13 stars per week over 184 weeks  
+2,427 stars, 234 forks, 50 watches  
+created 2019-05-03, last commit 2022-11-12, main language Python  
+<sub><sup>anomaly-detection, dask, data-science, matrix-profile, motif-discovery, numba, pattern-matching, pydata, python, time-series-analysis, time-series-data-mining, time-series-segmentation</sup></sub>
 
 
 ### [atspy](https://github.com/firmai/atspy) by [firmai](https://github.com/firmai)  
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 [https://github.com/firmai/atspy](https://github.com/firmai/atspy)  
-3.17 stars per week over 145 weeks  
+3.16 stars per week over 145 weeks  
 461 stars, 88 forks, 21 watches  
 created 2020-01-28, last commit 2021-12-18, main language Python  
 <sub><sup>automated, finance, forecasting, forecasting-models, python, time-series, time-series-analysis</sup></sub>
@@ -45,13 +65,13 @@ created 2020-01-28, last commit 2021-12-18, main language Python
 ### [DeepTime](https://github.com/salesforce/deeptime) by [salesforce](https://github.com/salesforce)  
 PyTorch code for DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting  
 [https://github.com/salesforce/deeptime](https://github.com/salesforce/deeptime)  
-7.51 stars per week over 19 weeks  
-146 stars, 20 forks, 5 watches  
+7.4 stars per week over 19 weeks  
+147 stars, 21 forks, 5 watches  
 created 2022-06-27, last commit 2022-11-03, main language Python  
 <sub><sup>deep-learning, forecasting, implicit-neural-representation, meta-learning, time-series, time-series-forecasting, time-series-regression</sup></sub>
 
 
-This file was automatically generated on 2022-11-10.  
+This file was automatically generated on 2022-11-13.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
