@@ -170,7 +170,7 @@ $(document).ready( function () {
         paging: true,
         lengthChange: true,
         lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
-        pageLength: 5,
+        pageLength: 10,
         search: {
            search: initialSearchTerm,
         },
