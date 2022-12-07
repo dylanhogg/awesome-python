@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 25 curated sim Python libraries and frameworks ordered by stars.  
+A selection of 28 curated sim Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 gym: A toolkit for developing and comparing reinforcement learning algorithms.  
 [https://www.gymlibrary.dev](https://www.gymlibrary.dev)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
-84 stars per week over 343 weeks  
-29,080 stars, 8,058 forks, 989 watches  
+84 stars per week over 345 weeks  
+29,220 stars, 8,087 forks, 992 watches  
 created 2016-04-27, last commit 2022-10-25, main language Python  
 
 
@@ -18,9 +18,9 @@ created 2016-04-27, last commit 2022-10-25, main language Python
 PythonRobotics: Python sample codes for robotics algorithms.  
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 [https://github.com/atsushisakai/pythonrobotics](https://github.com/atsushisakai/pythonrobotics)  
-48 stars per week over 348 weeks  
-16,835 stars, 5,336 forks, 499 watches  
-created 2016-03-21, last commit 2022-11-22, main language Python  
+48 stars per week over 350 weeks  
+16,924 stars, 5,359 forks, 502 watches  
+created 2016-03-21, last commit 2022-12-05, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, python, robot, robotics, slam</sup></sub>
 
 
@@ -28,9 +28,9 @@ created 2016-03-21, last commit 2022-11-22, main language Python
 ml-agents: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
 [https://unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
 [https://github.com/unity-technologies/ml-agents](https://github.com/unity-technologies/ml-agents)  
-50 stars per week over 272 weeks  
-13,683 stars, 3,611 forks, 537 watches  
-created 2017-09-08, last commit 2022-11-23, main language C#  
+50 stars per week over 273 weeks  
+13,737 stars, 3,625 forks, 539 watches  
+created 2017-09-08, last commit 2022-12-05, main language C#  
 <sub><sup>deep-learning, deep-reinforcement-learning, machine-learning, neural-networks, reinforcement-learning, unity, unity3d</sup></sub>
 
 
@@ -38,8 +38,8 @@ created 2017-09-08, last commit 2022-11-23, main language C#
 bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.  
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
-16 stars per week over 606 weeks  
-9,995 stars, 2,615 forks, 407 watches  
+16 stars per week over 608 weeks  
+10,020 stars, 2,617 forks, 406 watches  
 created 2011-04-12, last commit 2022-09-25, main language C++  
 <sub><sup>computer-animation, game-development, kinematics, pybullet, reinforcement-learning, robotics, simulation, simulator, virtual-reality</sup></sub>
 
@@ -48,17 +48,17 @@ created 2011-04-12, last commit 2022-09-25, main language C++
 Open3D: A Modern Library for 3D Data Processing  
 [http://www.open3d.org](http://www.open3d.org)  
 [https://github.com/isl-org/open3d](https://github.com/isl-org/open3d)  
-24 stars per week over 312 weeks  
-7,748 stars, 1,819 forks, 169 watches  
-created 2016-12-02, last commit 2022-11-22, main language C++  
+24 stars per week over 313 weeks  
+7,773 stars, 1,830 forks, 171 watches  
+created 2016-12-02, last commit 2022-12-02, main language C++  
 <sub><sup>3d, 3d-perception, arm, computer-graphics, cpp, cuda, gpu, gui, machine-learning, mesh-processing, odometry, opengl, pointcloud, python, pytorch, reconstruction, registration, rendering, tensorflow, visualization</sup></sub>
 
 
 ### [Cirq](https://github.com/quantumlib/cirq) by [quantumlib](https://github.com/quantumlib)  
 Cirq: A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.  
 [https://github.com/quantumlib/cirq](https://github.com/quantumlib/cirq)  
-13 stars per week over 258 weeks  
-3,591 stars, 813 forks, 176 watches  
+13 stars per week over 259 weeks  
+3,606 stars, 813 forks, 176 watches  
 created 2017-12-14, last commit 2022-11-22, main language Python  
 <sub><sup>cirq, nisq, quantum-algorithms, quantum-circuits, quantum-computing</sup></sub>
 
@@ -67,52 +67,52 @@ created 2017-12-14, last commit 2022-11-22, main language Python
 Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.  
 [https://qiskit.org](https://qiskit.org)  
 [https://github.com/qiskit/qiskit](https://github.com/qiskit/qiskit)  
-13 stars per week over 206 weeks  
-2,798 stars, 756 forks, 98 watches  
-created 2018-12-12, last commit 2022-11-25, main language OpenQASM  
+13 stars per week over 208 weeks  
+2,805 stars, 759 forks, 97 watches  
+created 2018-12-12, last commit 2022-12-02, main language OpenQASM  
 <sub><sup>documentation, qiskit, quantum-computing, quantum-programming-language</sup></sub>
 
 
 ### [mujoco-py](https://github.com/openai/mujoco-py) by [openai](https://github.com/openai)  
 mujoco-py: MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
 [https://github.com/openai/mujoco-py](https://github.com/openai/mujoco-py)  
-6.6 stars per week over 343 weeks  
-2,269 stars, 708 forks, 155 watches  
+6.61 stars per week over 345 weeks  
+2,283 stars, 711 forks, 157 watches  
 created 2016-04-24, last commit 2022-11-17, main language Cython  
 
 
 ### [mesa](https://github.com/projectmesa/mesa) by [projectmesa](https://github.com/projectmesa)  
 Mesa is an agent-based modeling framework in Python  
 [https://github.com/projectmesa/mesa](https://github.com/projectmesa/mesa)  
-4.12 stars per week over 427 weeks  
-1,760 stars, 748 forks, 89 watches  
-created 2014-09-19, last commit 2022-11-26, main language Python  
+4.14 stars per week over 428 weeks  
+1,774 stars, 756 forks, 90 watches  
+created 2014-09-19, last commit 2022-12-07, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
-
-
-### [QuantEcon.py](https://github.com/quantecon/quantecon.py) by [quantecon](https://github.com/quantecon)  
-QuantEcon.py: A community based Python library for quantitative economics  
-[https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
-[https://github.com/quantecon/quantecon.py](https://github.com/quantecon/quantecon.py)  
-3.08 stars per week over 505 weeks  
-1,557 stars, 2,099 forks, 151 watches  
-created 2013-03-22, last commit 2022-11-26, main language Python  
 
 
 ### [PettingZoo](https://github.com/pettingzoo-team/pettingzoo) by [pettingzoo-team](https://github.com/pettingzoo-team)  
 PettingZoo: Gymnasium for multi-agent reinforcement learning  
 [https://pettingzoo.farama.org](https://pettingzoo.farama.org)  
 [https://github.com/pettingzoo-team/pettingzoo](https://github.com/pettingzoo-team/pettingzoo)  
-10 stars per week over 148 weeks  
-1,542 stars, 245 forks, 16 watches  
+10 stars per week over 150 weeks  
+1,560 stars, 249 forks, 16 watches  
 created 2020-01-20, last commit 2022-11-15, main language Python  
+
+
+### [QuantEcon.py](https://github.com/quantecon/quantecon.py) by [quantecon](https://github.com/quantecon)  
+QuantEcon.py: A community based Python library for quantitative economics  
+[https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
+[https://github.com/quantecon/quantecon.py](https://github.com/quantecon/quantecon.py)  
+3.08 stars per week over 506 weeks  
+1,560 stars, 2,100 forks, 150 watches  
+created 2013-03-22, last commit 2022-12-04, main language Python  
 
 
 ### [brax](https://github.com/google/brax) by [google](https://github.com/google)  
 brax: Massively parallel rigidbody physics simulation on accelerator hardware.  
 [https://github.com/google/brax](https://github.com/google/brax)  
-18 stars per week over 77 weeks  
-1,453 stars, 143 forks, 31 watches  
+18 stars per week over 79 weeks  
+1,471 stars, 146 forks, 31 watches  
 created 2021-06-02, last commit 2022-10-13, main language Jupyter Notebook  
 <sub><sup>jax, physics-simulation, reinforcement-learning, robotics</sup></sub>
 
@@ -121,71 +121,79 @@ created 2021-06-02, last commit 2022-10-13, main language Jupyter Notebook
 ai-economist: Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 [https://github.com/salesforce/ai-economist](https://github.com/salesforce/ai-economist)  
-7.3 stars per week over 125 weeks  
-914 stars, 189 forks, 44 watches  
+7.2 stars per week over 126 weeks  
+913 stars, 189 forks, 44 watches  
 created 2020-07-02, last commit 2022-05-09, main language Python  
 <sub><sup>ai, deep-reinforcement-learning, economics, ml, multi-agent, multi-agent-reinforcement-learning, python-3, reinforcement-learning-environments, simulation-framework</sup></sub>
+
+
+### [pyscf](https://github.com/pyscf/pyscf)  
+pyscf: Python module for quantum chemistry  
+[https://github.com/pyscf/pyscf](https://github.com/pyscf/pyscf)  
+1.82 stars per week over 448 weeks  
+816 stars, 436 forks, 77 watches  
+created 2014-05-02, last commit 2022-11-29, main language Python  
 
 
 ### [fairo](https://github.com/facebookresearch/droidlet) by [facebookresearch](https://github.com/facebookresearch)  
 fairo: A modular embodied agent architecture and platform for building embodied agents  
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
-7.21 stars per week over 107 weeks  
-777 stars, 80 forks, 38 watches  
-created 2020-11-02, last commit 2022-11-04, main language Jupyter Notebook  
+7.16 stars per week over 109 weeks  
+783 stars, 80 forks, 38 watches  
+created 2020-11-02, last commit 2022-12-02, main language Jupyter Notebook  
 
 
 ### [pymunk](https://github.com/viblo/pymunk) by [viblo](https://github.com/viblo)  
 Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python  
 [http://www.pymunk.org](http://www.pymunk.org)  
 [https://github.com/viblo/pymunk](https://github.com/viblo/pymunk)  
-1.51 stars per week over 477 weeks  
-721 stars, 178 forks, 21 watches  
-created 2013-10-02, last commit 2022-11-19, main language Python  
+1.52 stars per week over 479 weeks  
+729 stars, 179 forks, 21 watches  
+created 2013-10-02, last commit 2022-12-05, main language Python  
 <sub><sup>library, physics-2d, physics-engine, physics-simulation, pygame, pyglet, python, python-library</sup></sub>
-
-
-### [pynamical](https://github.com/gboeing/pynamical) by [gboeing](https://github.com/gboeing)  
-Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.  
-[https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/](https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/)  
-[https://github.com/gboeing/pynamical](https://github.com/gboeing/pynamical)  
-1.29 stars per week over 425 weeks  
-550 stars, 107 forks, 32 watches  
-created 2014-09-28, last commit 2022-05-24, main language Python  
-<sub><sup>animation, bifurcation-diagram, chaos, cobweb-plot, fractal, fractals, ipynb, logistic, math, matplotlib, modeling, nonlinear, numba, numpy, pandas, phase-diagram, physics, python, systems, visualization</sup></sub>
 
 
 ### [Gymnasium](https://github.com/farama-foundation/gymnasium) by [farama-foundation](https://github.com/farama-foundation)  
 Gymnasium: A standard API for reinforcement learning and a diverse set of reference environments (formerly Gym)  
 [https://gymnasium.farama.org](https://gymnasium.farama.org)  
 [https://github.com/farama-foundation/gymnasium](https://github.com/farama-foundation/gymnasium)  
-37 stars per week over 11 weeks  
-424 stars, 63 forks, 8 watches  
-created 2022-09-08, last commit 2022-11-24, main language Python  
+43 stars per week over 12 weeks  
+561 stars, 71 forks, 9 watches  
+created 2022-09-08, last commit 2022-12-05, main language Python  
+
+
+### [pynamical](https://github.com/gboeing/pynamical) by [gboeing](https://github.com/gboeing)  
+Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.  
+[https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/](https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/)  
+[https://github.com/gboeing/pynamical](https://github.com/gboeing/pynamical)  
+1.29 stars per week over 427 weeks  
+550 stars, 107 forks, 32 watches  
+created 2014-09-28, last commit 2022-05-24, main language Python  
+<sub><sup>animation, bifurcation-diagram, chaos, cobweb-plot, fractal, fractals, ipynb, logistic, math, matplotlib, modeling, nonlinear, numba, numpy, pandas, phase-diagram, physics, python, systems, visualization</sup></sub>
 
 
 ### [urbansim](https://github.com/udst/urbansim) by [udst](https://github.com/udst)  
 urbansim: Platform for building statistical models of cities and regions  
 [https://udst.github.io/urbansim/](https://udst.github.io/urbansim/)  
 [https://github.com/udst/urbansim](https://github.com/udst/urbansim)  
-0.86 stars per week over 484 weeks  
-418 stars, 124 forks, 78 watches  
+0.86 stars per week over 485 weeks  
+419 stars, 124 forks, 78 watches  
 created 2013-08-15, last commit 2020-05-11, main language Python  
 
 
 ### [trafficSimulator](https://github.com/bilhim/trafficsimulator) by [bilhim](https://github.com/bilhim)  
 bilhim/trafficsimulator  
 [https://github.com/bilhim/trafficsimulator](https://github.com/bilhim/trafficsimulator)  
-3.13 stars per week over 63 weeks  
-200 stars, 75 forks, 12 watches  
+3.1 stars per week over 65 weeks  
+203 stars, 77 forks, 13 watches  
 created 2021-09-05, last commit 2021-09-07, main language Python  
 
 
 ### [GameGAN_code](https://github.com/nv-tlabs/gamegan_code) by [nv-tlabs](https://github.com/nv-tlabs)  
 GameGAN_code: Learning to Simulate Dynamic Environments with GameGAN (CVPR 2020)  
 [https://github.com/nv-tlabs/gamegan_code](https://github.com/nv-tlabs/gamegan_code)  
-1.92 stars per week over 102 weeks  
-196 stars, 32 forks, 9 watches  
+1.9 stars per week over 103 weeks  
+197 stars, 32 forks, 9 watches  
 created 2020-12-11, last commit 2021-11-11, main language Python  
 
 
@@ -193,8 +201,8 @@ created 2020-12-11, last commit 2021-11-11, main language Python
 activitysim: An Open Platform for Activity-Based Travel Modeling  
 [https://activitysim.github.io](https://activitysim.github.io)  
 [https://github.com/activitysim/activitysim](https://github.com/activitysim/activitysim)  
-0.32 stars per week over 440 weeks  
-143 stars, 84 forks, 42 watches  
+0.32 stars per week over 442 weeks  
+143 stars, 86 forks, 42 watches  
 created 2014-06-18, last commit 2022-09-14, main language Jupyter Notebook  
 <sub><sup>activitysim, bsd-3-clause, data-science, microsimulation, python, travel-modeling</sup></sub>
 
@@ -203,17 +211,26 @@ created 2014-06-18, last commit 2022-09-14, main language Jupyter Notebook
 openfisca-core: OpenFisca core engine. See other repositories for countries-specific code & data.  
 [https://openfisca.org](https://openfisca.org)  
 [https://github.com/openfisca/openfisca-core](https://github.com/openfisca/openfisca-core)  
-0.28 stars per week over 464 weeks  
-128 stars, 72 forks, 24 watches  
-created 2013-12-29, last commit 2022-11-23, main language Python  
+0.28 stars per week over 466 weeks  
+131 stars, 72 forks, 24 watches  
+created 2013-12-29, last commit 2022-12-01, main language Python  
 <sub><sup>better-rules, legislation-as-code, microsimulation, rules-as-code</sup></sub>
+
+
+### [socialways](https://github.com/crowdbotp/socialways) by [crowdbotp](https://github.com/crowdbotp)  
+socialways: Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs (CVPR 2019)  
+[https://github.com/crowdbotp/socialways](https://github.com/crowdbotp/socialways)  
+0.58 stars per week over 189 weeks  
+109 stars, 45 forks, 9 watches  
+created 2019-04-23, last commit 2020-03-20, main language Python  
+<sub><sup>crowd-simulation, gan, generative-adversarial-network, human-trajectory-prediction, info-gan, pedestrian, pedestrian-trajectories, prediction-model, self-driving-car, social-gan, social-navigation, social-robots, social-ways, trajectory-forecasting, trajectory-prediction</sup></sub>
 
 
 ### [street-network-models](https://github.com/gboeing/street-network-models) by [gboeing](https://github.com/gboeing)  
 street-network-models: Street network models and indicators for every urban area in the world  
 [https://osf.io/f2dqc](https://osf.io/f2dqc)  
 [https://github.com/gboeing/street-network-models](https://github.com/gboeing/street-network-models)  
-0.45 stars per week over 136 weeks  
+0.45 stars per week over 138 weeks  
 62 stars, 4 forks, 2 watches  
 created 2020-04-13, last commit 2021-03-05, main language Python  
 
@@ -222,21 +239,31 @@ created 2020-04-13, last commit 2021-03-05, main language Python
 populationsim: An Open Platform for Population Synthesis  
 [https://activitysim.github.io/populationsim](https://activitysim.github.io/populationsim)  
 [https://github.com/activitysim/populationsim](https://github.com/activitysim/populationsim)  
-0.12 stars per week over 301 weeks  
+0.12 stars per week over 303 weeks  
 37 stars, 27 forks, 11 watches  
 created 2017-02-14, last commit 2021-11-19, main language Jupyter Notebook  
 <sub><sup>activitysim, bsd-3-clause, data-science, microsimulation, population-synthesis, python</sup></sub>
 
 
+### [crowddynamics](https://github.com/crowddynamics/crowddynamics)  
+crowddynamics: Continuous-time multi-agent crowd simulation engine implemented in Python using Numba and Numpy for performance.  
+[https://jaantollander.com/post/how-to-implement-continuous-time-multi-agent-crowd-simulation/](https://jaantollander.com/post/how-to-implement-continuous-time-multi-agent-crowd-simulation/)  
+[https://github.com/crowddynamics/crowddynamics](https://github.com/crowddynamics/crowddynamics)  
+0.07 stars per week over 350 weeks  
+26 stars, 9 forks, 9 watches  
+created 2016-03-22, last commit 2020-01-02, main language Python  
+<sub><sup>continuous-time, crowd-dynamics, crowd-simulation, multi-agent</sup></sub>
+
+
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  
 dynpy: Dynamical systems for Python  
 [https://github.com/artemyk/dynpy](https://github.com/artemyk/dynpy)  
-0.01 stars per week over 428 weeks  
-5 stars, 6 forks, 3 watches  
+0.01 stars per week over 429 weeks  
+5 stars, 5 forks, 3 watches  
 created 2014-09-12, last commit 2018-09-28, main language Python  
 
 
-This file was automatically generated on 2022-11-26.  
+This file was automatically generated on 2022-12-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
