@@ -21,11 +21,14 @@ run:
 black:
 	source venv/bin/activate ; black .
 
+## Run tests
+test:
+	source venv/bin/activate ; PYTHONPATH='./src' pytest --capture=no tests
+
 ## Serve local client
 serve-local-client:
 	open http://localhost:8002/
 	cd client/app; python3 -m http.server 8002
-
 
 ## AWS S3 cp client app to S3
 s3-deploy-app:
