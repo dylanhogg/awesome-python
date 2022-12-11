@@ -4,7 +4,7 @@ from loguru import logger
 from library import render, readme, requirements
 
 
-def write_files(csv_location, token, output_csv_filename, output_json_filename):
+def write_files(csv_location: str, token: str, output_csv_filename: str, output_json_filename: str):
     start = datetime.now()
 
     # Read github urls from google docs

@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 from library.ghw import GithubWrapper
 
 
-def get_input_data(csv_location) -> pd.DataFrame:
+def get_input_data(csv_location: str) -> pd.DataFrame:
     df = pd.read_csv(csv_location)
     df.columns = map(str.lower, df.columns)
     assert "githuburl" in df.columns
@@ -92,7 +92,7 @@ def _display_description(ghw, name) -> str:
             return f"{repo.name}: {repo.description}"
 
 
-def process(df_input, token) -> pd.DataFrame:
+def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
     ghw = GithubWrapper(token)
     df = df_input.copy()
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
@@ -132,7 +132,7 @@ def process(df_input, token) -> pd.DataFrame:
     return df.sort_values("_stars", ascending=False)
 
 
-def lines_header(count, category="") -> List[str]:
+def lines_header(count: int, category: str = "") -> List[str]:
     category_line = f"A selection of {count} curated Python libraries and frameworks ordered by stars.  \n"
     if len(category) > 0:
         category_line = f"A selection of {count} curated {category} Python libraries and frameworks ordered by stars.  \n"
@@ -145,7 +145,7 @@ def lines_header(count, category="") -> List[str]:
     ]
 
 
-def add_markdown(df) -> pd.DataFrame:
+def add_markdown(df: pd.DataFrame) -> pd.DataFrame:
     df["_doclines_main"] = df.apply(
         lambda x: make_markdown(x, include_category=True), axis=1
     )
