@@ -17,9 +17,7 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
     duplicated_count = len(duplicated_githuburls)
     if duplicated_count > 0:
-        logger.warning(
-            f"Duplicate githuburl values found in csv: {duplicated_count}\n{duplicated_githuburls}"
-        )
+        logger.warning(f"Duplicate githuburl values found in csv: {duplicated_count}\n{duplicated_githuburls}")
         logger.error(f"Fix up {duplicated_count} duplicates from {csv_location} and re-run.")
         sys.exit()
     else:
@@ -54,19 +52,17 @@ def make_markdown(row, include_category=False) -> str:
     last_commit_date = row["_last_commit_date"]
     created = row["_created_at"]
     topics = row["_topics"]
-    topics_display = (
-        "\n<sub><sup>" + ", ".join(sorted(topics)) + "</sup></sub>"
-        if len(topics) > 0
-        else ""
-    )
+    topics_display = "\n<sub><sup>" + ", ".join(sorted(topics)) + "</sup></sub>" if len(topics) > 0 else ""
     description = row["_description"]
     language = row["_language"]
     if language is not None and language.lower() != "python":
         logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
-    header = f"[{name}]({url})" \
-        if name == organization \
+    header = (
+        f"[{name}]({url})"
+        if name == organization
         else f"[{name}]({url}) by [{organization}](https://github.com/{organization})"
+    )
 
     return (
         f"### {header}  "
@@ -86,7 +82,10 @@ def _display_description(ghw, name) -> str:
         return f"{name}"
     else:
         assert repo.name is not None
-        if repo.description.lower().startswith(repo.name.lower()) or f"{repo.name.lower()}:" in repo.description.lower():
+        if (
+            repo.description.lower().startswith(repo.name.lower())
+            or f"{repo.name.lower()}:" in repo.description.lower()
+        ):
             return f"{repo.description}"
         else:
             return f"{repo.name}: {repo.description}"
@@ -103,15 +102,9 @@ def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
     df["_topics"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).get_topics())
     df["_language"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).language)
     df["_homepage"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).homepage)
-    df["_description"] = df["_repopath"].apply(
-        lambda x: _display_description(ghw, x)
-    )
-    df["_organization"] = df["_repopath"].apply(
-        lambda x: x.split("/")[0]
-    )
-    df["_updated_at"] = df["_repopath"].apply(
-        lambda x: ghw.get_repo(x).updated_at.date()
-    )
+    df["_description"] = df["_repopath"].apply(lambda x: _display_description(ghw, x))
+    df["_organization"] = df["_repopath"].apply(lambda x: x.split("/")[0])
+    df["_updated_at"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).updated_at.date())
     df["_last_commit_date"] = df["_repopath"].apply(
         # E.g. Sat, 18 Jul 2020 17:14:09 GMT
         lambda x: datetime.strptime(
@@ -119,14 +112,14 @@ def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
             "%a, %d %b %Y %H:%M:%S %Z",
         ).date()
     )
-    df["_created_at"] = df["_repopath"].apply(
-        lambda x: ghw.get_repo(x).created_at.date()
-    )
+    df["_created_at"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).created_at.date())
     df["_age_weeks"] = df["_repopath"].apply(
         lambda x: (datetime.now().date() - ghw.get_repo(x).created_at.date()).days // 7
     )
     df["_stars_per_week"] = df["_repopath"].apply(
-        lambda x: ghw.get_repo(x).stargazers_count * 7 / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
+        lambda x: ghw.get_repo(x).stargazers_count
+        * 7
+        / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
     )
 
     return df.sort_values("_stars", ascending=False)
@@ -135,7 +128,9 @@ def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
 def lines_header(count: int, category: str = "") -> List[str]:
     category_line = f"A selection of {count} curated Python libraries and frameworks ordered by stars.  \n"
     if len(category) > 0:
-        category_line = f"A selection of {count} curated {category} Python libraries and frameworks ordered by stars.  \n"
+        category_line = (
+            f"A selection of {count} curated {category} Python libraries and frameworks ordered by stars.  \n"
+        )
 
     return [
         f"# Crazy Awesome Python",
@@ -146,10 +141,6 @@ def lines_header(count: int, category: str = "") -> List[str]:
 
 
 def add_markdown(df: pd.DataFrame) -> pd.DataFrame:
-    df["_doclines_main"] = df.apply(
-        lambda x: make_markdown(x, include_category=True), axis=1
-    )
-    df["_doclines_child"] = df.apply(
-        lambda x: make_markdown(x, include_category=False), axis=1
-    )
+    df["_doclines_main"] = df.apply(lambda x: make_markdown(x, include_category=True), axis=1)
+    df["_doclines_child"] = df.apply(lambda x: make_markdown(x, include_category=False), axis=1)
     return df

@@ -19,7 +19,7 @@ run:
 
 ## Run black code formatter
 black:
-	source venv/bin/activate ; black .
+	source venv/bin/activate ; black --line-length 120 .
 
 ## Run tests
 test:

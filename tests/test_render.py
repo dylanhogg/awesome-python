@@ -15,8 +15,25 @@ def test_render_process():
 
     assert df.shape[0] == 1, "Unexpected number of rows"
     assert df.shape[1] == 20, "Unexpected number of columns"
-    assert list(df.columns) == ["category", "githuburl", "featured", "links", "description",
-                                "_repopath", "_reponame", "_stars", "_forks", "_watches", "_topics",
-                                "_language", "_homepage", "_description", "_organization",
-                                "_updated_at", "_last_commit_date", "_created_at", "_age_weeks",
-                                "_stars_per_week"]
+    assert list(df.columns) == [
+        "category",
+        "githuburl",
+        "featured",
+        "links",
+        "description",
+        "_repopath",
+        "_reponame",
+        "_stars",
+        "_forks",
+        "_watches",
+        "_topics",
+        "_language",
+        "_homepage",
+        "_description",
+        "_organization",
+        "_updated_at",
+        "_last_commit_date",
+        "_created_at",
+        "_age_weeks",
+        "_stars_per_week",
+    ]
