@@ -7,3 +7,4 @@ python-dotenv
 black
 loguru
 joblib
+requests
