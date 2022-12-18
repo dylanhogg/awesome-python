@@ -29,7 +29,7 @@ class PopularityMetrics:
     @staticmethod
     @memory.cache
     def contributor_orgs(ghw: GithubWrapper, name: str) -> dict:
-        MAX_CONTRIBUTOR_COUNT = 10  # 15
+        MAX_CONTRIBUTOR_COUNT = 20  # 10
         repo = ghw.get_repo(name)
 
         def _filter_name(org_name):
@@ -59,7 +59,7 @@ class PopularityMetrics:
         return {
             "_pop_contributor_orgs_len": len(orgs),
             "_pop_contributor_orgs_max": MAX_CONTRIBUTOR_COUNT,
-            "_pop_contributor_orgs": orgs,
+            "_pop_contributor_orgs": sorted(orgs),
             "_pop_contributor_orgs_error": None
         }
 
