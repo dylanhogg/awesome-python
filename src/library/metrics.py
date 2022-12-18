@@ -194,8 +194,8 @@ class PopularityMetrics:
                 content = result.content
                 success = True
                 break
-            logger.warning(f"Retry dependents_count #{i}/{FAIL_RETRIES}...")
-            sleep_secs = max(2 ** (i+2), 15*60)
+            sleep_secs = min(2 ** (i + 2), 15 * 60)
+            logger.warning(f"Retry dependents_count #{i}/{FAIL_RETRIES}, sleeping for {sleep_secs} secs...")
             time.sleep(sleep_secs)
 
         if not success:
