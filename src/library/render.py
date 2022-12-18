@@ -5,6 +5,8 @@ from typing import List
 from loguru import logger
 from urllib.parse import urlparse
 from library.ghw import GithubWrapper
+from library.metrics import PopularityMetrics
+from library.scorer import PopularityScorer
 
 
 def get_input_data(csv_location: str) -> pd.DataFrame:
@@ -94,6 +96,8 @@ def _display_description(ghw, name) -> str:
 def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
     ghw = GithubWrapper(token)
     df = df_input.copy()
+
+    # Add standard columns
     df["_repopath"] = df["githuburl"].apply(lambda x: urlparse(x).path.lstrip("/"))
     df["_reponame"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).name)
     df["_stars"] = df["_repopath"].apply(lambda x: ghw.get_repo(x).stargazers_count)
@@ -120,6 +124,54 @@ def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
         lambda x: ghw.get_repo(x).stargazers_count
         * 7
         / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
+    )
+
+    # Add popularity metric columns
+    metrics = PopularityMetrics()
+
+    df["_pop_contributor_count"] = df["_repopath"].apply(
+        lambda x: metrics.contributor_count(ghw, x)
+    )
+
+    df_pop_contributor_orgs = df.apply(lambda row: metrics.contributor_orgs(ghw, row["_repopath"]),
+                                       axis="columns", result_type="expand")
+    df = pd.concat([df, df_pop_contributor_orgs], axis="columns")
+
+    df["_pop_commit_frequency"] = df["_repopath"].apply(
+        lambda x: metrics.commit_frequency(ghw, x)
+    )
+
+    df["_pop_updated_issues_count"] = df["_repopath"].apply(
+        lambda x: metrics.updated_issues_count(ghw, x)
+    )
+
+    df["_pop_closed_issues_count"] = df["_repopath"].apply(
+        lambda x: metrics.closed_issues_count(ghw, x)
+    )
+
+    df["_pop_created_since_days"] = df["_repopath"].apply(
+        lambda x: metrics.created_since_days(ghw, x)
+    )
+
+    df["_pop_updated_since_days"] = df["_repopath"].apply(
+        lambda x: metrics.updated_since_days(ghw, x)
+    )
+
+    df_pop_recent_releases_count = df.apply(lambda row: metrics.recent_releases_count(ghw, row["_repopath"]),
+                                            axis="columns", result_type="expand")
+    df = pd.concat([df, df_pop_recent_releases_count], axis="columns")
+
+    df_pop_comment_frequency = df.apply(lambda row: metrics.comment_frequency(ghw, row["_repopath"]),
+                                        axis="columns", result_type="expand")
+    df = pd.concat([df, df_pop_comment_frequency], axis="columns")
+
+    df["_pop_dependents_count"] = df["_repopath"].apply(
+        lambda x: metrics.dependents_count(ghw, x)
+    )
+
+    scorer = PopularityScorer()
+    df["_pop_score"] = df.apply(
+        lambda row: scorer.score(row), axis="columns"
     )
 
     return df.sort_values("_stars", ascending=False)

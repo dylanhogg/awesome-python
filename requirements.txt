@@ -6,3 +6,4 @@ Pygments
 python-dotenv
 black
 loguru
+joblib

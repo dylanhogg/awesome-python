@@ -1,5 +1,6 @@
 # TEMP
 data/
+.joblib_cache/
 
 .idea/
 .vscode/

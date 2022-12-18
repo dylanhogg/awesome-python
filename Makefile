@@ -23,7 +23,11 @@ black:
 
 ## Run tests
 test:
-	source venv/bin/activate ; PYTHONPATH='./src' pytest --capture=no tests
+	source venv/bin/activate ; PYTHONPATH='./src' pytest -vv --capture=no tests
+
+## Clear joblib cache
+clear-cache:
+	rm -rf .joblib_cache
 
 ## Serve local client
 serve-local-client:
