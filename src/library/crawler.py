@@ -7,12 +7,12 @@ from library import render, readme, requirements
 def write_files(csv_location: str, token: str, output_csv_filename: str, output_json_filename: str):
     start = datetime.now()
 
-    # Read github urls from google docs
+    # Read GitHub urls from google docs
     df_input = render.get_input_data(csv_location)
-    df_input = df_input.head(2)  # Testing
+    # df_input = df_input.head(3)  # Testing
     # df_input = df_input.iloc[9:13]  # Testing
 
-    # Augment repo name with metadata from Github
+    # Augment repo name with metadata from GitHub
     logger.info(f"Processing {len(df_input)} records from {csv_location}")
     df = render.process(df_input, token)
 

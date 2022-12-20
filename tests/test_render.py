@@ -38,6 +38,6 @@ def test_render_process():
         "_pop_updated_since_days", "_pop_recent_releases_count",
         "_pop_recent_releases_estimated_tags",
         "_pop_recent_releases_adjusted_count", "_pop_issue_count",
-        "_pop_comment_count", "_pop_comment_frequency", "_pop_dependents_count",
-        "_pop_score"
+        "_pop_comment_count", "_pop_comment_frequency",
+        "_pop_comment_frequency_lookback_days", "_pop_dependents_count", "_pop_score"
     ]
