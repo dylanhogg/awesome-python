@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 7 curated security Python libraries and frameworks ordered by stars.  
+A selection of 8 curated security Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,9 +10,18 @@ trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kub
 [https://trivy.dev](https://trivy.dev)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 79 stars per week over 196 weeks  
-15,661 stars, 1,508 forks, 147 watches  
-created 2019-04-11, last commit 2023-01-15, main language Go  
+15,707 stars, 1,516 forks, 148 watches  
+created 2019-04-11, last commit 2023-01-17, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
+
+
+### [maltrail](https://github.com/stamparm/maltrail) by [stamparm](https://github.com/stamparm)  
+maltrail: Malicious traffic detection system  
+[https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)  
+11 stars per week over 423 weeks  
+4,920 stars, 922 forks, 218 watches  
+created 2014-12-04, last commit 2023-01-18, main language Python  
+<sub><sup>attack-detection, intrusion-detection, malware, network-monitoring, python, security, sensor</sup></sub>
 
 
 ### [bandit](https://github.com/pycqa/bandit) by [pycqa](https://github.com/pycqa)  
@@ -20,7 +29,7 @@ Bandit is a tool designed to find common security issues in Python code.
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/pycqa/bandit](https://github.com/pycqa/bandit)  
 19 stars per week over 246 weeks  
-4,788 stars, 496 forks, 61 watches  
+4,798 stars, 496 forks, 61 watches  
 created 2018-04-26, last commit 2023-01-04, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
@@ -29,8 +38,8 @@ created 2018-04-26, last commit 2023-01-04, main language Python
 Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 [https://pyup.io/safety/](https://pyup.io/safety/)  
 [https://github.com/pyupio/safety](https://github.com/pyupio/safety)  
-4.42 stars per week over 325 weeks  
-1,439 stars, 123 forks, 32 watches  
+4.42 stars per week over 326 weeks  
+1,440 stars, 122 forks, 32 watches  
 created 2016-10-19, last commit 2022-12-08, main language Python  
 <sub><sup>python, security, security-vulnerability, travis, vulnerability-detection, vulnerability-scanners</sup></sub>
 
@@ -40,8 +49,8 @@ pip-audit: Audits Python environments and dependency trees for known vulnerabili
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
 10 stars per week over 71 weeks  
-727 stars, 47 forks, 19 watches  
-created 2021-09-02, last commit 2023-01-15, main language Python  
+729 stars, 47 forks, 19 watches  
+created 2021-09-02, last commit 2023-01-17, main language Python  
 <sub><sup>pip, python, security, security-audit, supply-chain</sup></sub>
 
 
@@ -58,7 +67,7 @@ created 2019-10-10, last commit 2022-12-14, main language Python
 ### [repository-scanner](https://github.com/abnamro/repository-scanner) by [abnamro](https://github.com/abnamro)  
 repository-scanner: Tool to detect secrets in source code management systems.  
 [https://github.com/abnamro/repository-scanner](https://github.com/abnamro/repository-scanner)  
-2.75 stars per week over 18 weeks  
+2.7 stars per week over 18 weeks  
 51 stars, 2 forks, 5 watches  
 created 2022-09-08, last commit 2022-12-06, main language Python  
 
@@ -73,7 +82,7 @@ created 2019-02-03, last commit 2022-12-12, main language Python
 <sub><sup>api, python, snyk</sup></sub>
 
 
-This file was automatically generated on 2023-01-16.  
+This file was automatically generated on 2023-01-18.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

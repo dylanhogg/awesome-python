@@ -10,8 +10,8 @@ pygame: 🐍🎮 pygame (the library) is a Free and Open Source python programmi
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 18 stars per week over 303 weeks  
-5,642 stars, 2,475 forks, 161 watches  
-created 2017-03-26, last commit 2023-01-15, main language C  
+5,651 stars, 2,478 forks, 161 watches  
+created 2017-03-26, last commit 2023-01-17, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
 
@@ -20,8 +20,8 @@ panda3d: Powerful, mature open-source cross-platform game engine for Python and 
 [https://www.panda3d.org/](https://www.panda3d.org/)  
 [https://github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)  
 7.53 stars per week over 485 weeks  
-3,654 stars, 735 forks, 194 watches  
-created 2013-09-30, last commit 2023-01-14, main language C++  
+3,656 stars, 735 forks, 194 watches  
+created 2013-09-30, last commit 2023-01-16, main language C++  
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 
 
@@ -30,8 +30,8 @@ arcade: Easy to use Python library for creating 2D arcade games.
 [http://arcade.academy](http://arcade.academy)  
 [https://github.com/pythonarcade/arcade](https://github.com/pythonarcade/arcade)  
 3.71 stars per week over 367 weeks  
-1,360 stars, 253 forks, 55 watches  
-created 2016-01-04, last commit 2023-01-15, main language Python  
+1,361 stars, 253 forks, 55 watches  
+created 2016-01-04, last commit 2023-01-16, main language Python  
 <sub><sup>arcade-api, arcade-framework, arcade-learning-environment, educational-resources, educational-technology, opengl, python, python3</sup></sub>
 
 
@@ -39,13 +39,13 @@ created 2016-01-04, last commit 2023-01-15, main language Python
 pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.  
 [http://pyglet.org](http://pyglet.org)  
 [https://github.com/pyglet/pyglet](https://github.com/pyglet/pyglet)  
-7.19 stars per week over 188 weeks  
-1,353 stars, 250 forks, 31 watches  
-created 2019-06-09, last commit 2023-01-16, main language Python  
+7.2 stars per week over 188 weeks  
+1,357 stars, 250 forks, 31 watches  
+created 2019-06-09, last commit 2023-01-18, main language Python  
 <sub><sup>gamedev, opengl, pyglet, python, scientific-visualization</sup></sub>
 
 
-This file was automatically generated on 2023-01-16.  
+This file was automatically generated on 2023-01-18.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
