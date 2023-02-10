@@ -9,18 +9,18 @@ Checkout the interactive version that you can filter and sort:
 trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
 [https://trivy.dev](https://trivy.dev)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
-80 stars per week over 198 weeks  
-15,947 stars, 1,546 forks, 149 watches  
-created 2019-04-11, last commit 2023-01-31, main language Go  
+80 stars per week over 200 weeks  
+16,079 stars, 1,570 forks, 153 watches  
+created 2019-04-11, last commit 2023-02-10, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
 ### [maltrail](https://github.com/stamparm/maltrail) by [stamparm](https://github.com/stamparm)  
 maltrail: Malicious traffic detection system  
 [https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)  
-11 stars per week over 425 weeks  
-4,932 stars, 923 forks, 218 watches  
-created 2014-12-04, last commit 2023-01-31, main language Python  
+11 stars per week over 427 weeks  
+4,956 stars, 926 forks, 217 watches  
+created 2014-12-04, last commit 2023-02-10, main language Python  
 <sub><sup>attack-detection, intrusion-detection, malware, network-monitoring, python, security, sensor</sup></sub>
 
 
@@ -28,8 +28,8 @@ created 2014-12-04, last commit 2023-01-31, main language Python
 Bandit is a tool designed to find common security issues in Python code.  
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/pycqa/bandit](https://github.com/pycqa/bandit)  
-19 stars per week over 248 weeks  
-4,887 stars, 500 forks, 62 watches  
+19 stars per week over 250 weeks  
+4,942 stars, 502 forks, 63 watches  
 created 2018-04-26, last commit 2023-01-04, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
@@ -38,8 +38,8 @@ created 2018-04-26, last commit 2023-01-04, main language Python
 Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 [https://pyup.io/safety/](https://pyup.io/safety/)  
 [https://github.com/pyupio/safety](https://github.com/pyupio/safety)  
-4.4 stars per week over 327 weeks  
-1,444 stars, 122 forks, 32 watches  
+4.4 stars per week over 329 weeks  
+1,448 stars, 122 forks, 31 watches  
 created 2016-10-19, last commit 2022-12-08, main language Python  
 <sub><sup>python, security, security-vulnerability, travis, vulnerability-detection, vulnerability-scanners</sup></sub>
 
@@ -48,9 +48,9 @@ created 2016-10-19, last commit 2022-12-08, main language Python
 pip-audit: Audits Python environments and dependency trees for known vulnerabilities  
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
-9.97 stars per week over 73 weeks  
-735 stars, 48 forks, 19 watches  
-created 2021-09-02, last commit 2023-01-30, main language Python  
+9.89 stars per week over 75 weeks  
+743 stars, 48 forks, 19 watches  
+created 2021-09-02, last commit 2023-02-09, main language Python  
 <sub><sup>pip, python, security, security-audit, supply-chain</sup></sub>
 
 
@@ -58,8 +58,8 @@ created 2021-09-02, last commit 2023-01-30, main language Python
 jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
 [https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
-0.46 stars per week over 172 weeks  
-80 stars, 20 forks, 9 watches  
+0.46 stars per week over 174 weeks  
+80 stars, 21 forks, 8 watches  
 created 2019-10-10, last commit 2022-12-14, main language Python  
 <sub><sup>nexus-iq, ossindex, python, sonatype-iq, vulnerabilities, vulnerability-scanners</sup></sub>
 
@@ -67,22 +67,22 @@ created 2019-10-10, last commit 2022-12-14, main language Python
 ### [repository-scanner](https://github.com/abnamro/repository-scanner) by [abnamro](https://github.com/abnamro)  
 repository-scanner: Tool to detect secrets in source code management systems.  
 [https://github.com/abnamro/repository-scanner](https://github.com/abnamro/repository-scanner)  
-2.56 stars per week over 20 weeks  
-53 stars, 2 forks, 5 watches  
-created 2022-09-08, last commit 2023-01-26, main language Python  
+2.53 stars per week over 22 weeks  
+56 stars, 2 forks, 6 watches  
+created 2022-09-08, last commit 2023-02-08, main language Python  
 
 
 ### [pysnyk](https://github.com/snyk-labs/pysnyk) by [snyk-labs](https://github.com/snyk-labs)  
 pysnyk: A Python client for the Snyk API.  
 [https://snyk.docs.apiary.io/](https://snyk.docs.apiary.io/)  
 [https://github.com/snyk-labs/pysnyk](https://github.com/snyk-labs/pysnyk)  
-0.25 stars per week over 208 weeks  
-52 stars, 91 forks, 11 watches  
+0.25 stars per week over 209 weeks  
+52 stars, 93 forks, 11 watches  
 created 2019-02-03, last commit 2023-01-20, main language Python  
 <sub><sup>api, python, snyk</sup></sub>
 
 
-This file was automatically generated on 2023-01-31.  
+This file was automatically generated on 2023-02-10.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

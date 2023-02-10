@@ -9,17 +9,17 @@ Checkout the interactive version that you can filter and sort:
 Memray is a memory profiler for Python  
 [https://bloomberg.github.io/memray/](https://bloomberg.github.io/memray/)  
 [https://github.com/bloomberg/memray](https://github.com/bloomberg/memray)  
-235 stars per week over 42 weeks  
-10,036 stars, 277 forks, 53 watches  
-created 2022-04-08, last commit 2023-01-19, main language Python  
+229 stars per week over 44 weeks  
+10,090 stars, 280 forks, 53 watches  
+created 2022-04-08, last commit 2023-02-07, main language Python  
 <sub><sup>hacktoberfest, memory, memory-leak, memory-leak-detection, memory-profiler, profiler, python, python3</sup></sub>
 
 
 ### [py-spy](https://github.com/benfred/py-spy) by [benfred](https://github.com/benfred)  
 py-spy: Sampling profiler for Python programs  
 [https://github.com/benfred/py-spy](https://github.com/benfred/py-spy)  
-41 stars per week over 234 weeks  
-9,646 stars, 345 forks, 111 watches  
+41 stars per week over 236 weeks  
+9,693 stars, 347 forks, 111 watches  
 created 2018-08-01, last commit 2022-12-09, main language Rust  
 <sub><sup>performance-analysis, profiler, profiling, python</sup></sub>
 
@@ -27,9 +27,9 @@ created 2018-08-01, last commit 2022-12-09, main language Rust
 ### [scalene](https://github.com/plasma-umass/scalene) by [plasma-umass](https://github.com/plasma-umass)  
 Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals  
 [https://github.com/plasma-umass/scalene](https://github.com/plasma-umass/scalene)  
-44 stars per week over 163 weeks  
-7,236 stars, 240 forks, 71 watches  
-created 2019-12-17, last commit 2023-01-28, main language JavaScript  
+44 stars per week over 164 weeks  
+7,299 stars, 246 forks, 71 watches  
+created 2019-12-17, last commit 2023-02-08, main language JavaScript  
 <sub><sup>cpu, cpu-profiling, gpu, gpu-programming, memory-allocation, memory-consumption, performance-analysis, performance-cpu, profiler, profiles-memory, profiling, python, python-profilers, scalene</sup></sub>
 
 
@@ -37,8 +37,8 @@ created 2019-12-17, last commit 2023-01-28, main language JavaScript
 pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!  
 [https://pyinstrument.readthedocs.io/](https://pyinstrument.readthedocs.io/)  
 [https://github.com/joerick/pyinstrument](https://github.com/joerick/pyinstrument)  
-10 stars per week over 463 weeks  
-5,063 stars, 219 forks, 55 watches  
+10 stars per week over 465 weeks  
+5,086 stars, 220 forks, 55 watches  
 created 2014-03-13, last commit 2022-12-27, main language Python  
 <sub><sup>async, django, performance, profile, profiler, python</sup></sub>
 
@@ -47,8 +47,8 @@ created 2014-03-13, last commit 2022-12-27, main language Python
 memory_profiler: Monitor Memory usage of Python code  
 [http://pypi.python.org/pypi/memory_profiler](http://pypi.python.org/pypi/memory_profiler)  
 [https://github.com/pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler)  
-6.34 stars per week over 589 weeks  
-3,740 stars, 363 forks, 76 watches  
+6.35 stars per week over 591 weeks  
+3,753 stars, 363 forks, 76 watches  
 created 2011-10-14, last commit 2022-12-06, main language Python  
 
 
@@ -56,8 +56,8 @@ created 2011-10-14, last commit 2022-12-06, main language Python
 VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.  
 [https://viztracer.readthedocs.io/](https://viztracer.readthedocs.io/)  
 [https://github.com/gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)  
-22 stars per week over 129 weeks  
-2,938 stars, 283 forks, 40 watches  
+22 stars per week over 131 weeks  
+2,982 stars, 287 forks, 40 watches  
 created 2020-08-05, last commit 2023-01-29, main language Python  
 <sub><sup>debugging, flamegraph, logging, profiling, python, python3, tracer, visualization</sup></sub>
 
@@ -66,8 +66,8 @@ created 2020-08-05, last commit 2023-01-29, main language Python
 reloadium: Advanced Hot Reloading & Profiling for Python  
 [https://reloadium.io](https://reloadium.io)  
 [https://github.com/reloadware/reloadium](https://github.com/reloadware/reloadium)  
-38 stars per week over 54 weeks  
-2,106 stars, 34 forks, 26 watches  
+38 stars per week over 55 weeks  
+2,144 stars, 36 forks, 24 watches  
 created 2022-01-15, last commit 2023-01-27, main language Python  
 <sub><sup>django, edit-and-continue, flask, hot-reload, hot-reloading, pandas, python, python3</sup></sub>
 
@@ -76,24 +76,24 @@ created 2022-01-15, last commit 2023-01-27, main language Python
 snakeviz: An in-browser Python profile viewer  
 [https://jiffyclub.github.io/snakeviz/](https://jiffyclub.github.io/snakeviz/)  
 [https://github.com/jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz)  
-3.35 stars per week over 553 weeks  
-1,855 stars, 129 forks, 22 watches  
-created 2012-06-26, last commit 2021-10-25, main language Python  
+3.37 stars per week over 554 weeks  
+1,867 stars, 129 forks, 22 watches  
+created 2012-06-26, last commit 2023-02-03, main language Python  
 
 
 ### [line_profiler](https://github.com/pyutils/line_profiler) by [pyutils](https://github.com/pyutils)  
 line_profiler: Line-by-line profiling for Python  
 [https://github.com/pyutils/line_profiler](https://github.com/pyutils/line_profiler)  
-9.8 stars per week over 164 weeks  
-1,608 stars, 95 forks, 16 watches  
+9.88 stars per week over 165 weeks  
+1,635 stars, 95 forks, 16 watches  
 created 2019-12-10, last commit 2022-12-09, main language Cython  
 
 
 ### [austin](https://github.com/p403n1x87/austin) by [p403n1x87](https://github.com/p403n1x87)  
 austin: Python frame stack sampler for CPython  
 [https://github.com/p403n1x87/austin](https://github.com/p403n1x87/austin)  
-4.8 stars per week over 227 weeks  
-1,093 stars, 36 forks, 14 watches  
+4.8 stars per week over 229 weeks  
+1,100 stars, 36 forks, 14 watches  
 created 2018-09-20, last commit 2022-10-28, main language C  
 <sub><sup>debugging-tools, performance, profiling, python</sup></sub>
 
@@ -101,8 +101,8 @@ created 2018-09-20, last commit 2022-10-28, main language C
 ### [yappi](https://github.com/sumerc/yappi) by [sumerc](https://github.com/sumerc)  
 yappi: Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.  
 [https://github.com/sumerc/yappi](https://github.com/sumerc/yappi)  
-1.53 stars per week over 694 weeks  
-1,062 stars, 58 forks, 13 watches  
+1.54 stars per week over 696 weeks  
+1,069 stars, 58 forks, 13 watches  
 created 2009-10-07, last commit 2022-11-25, main language Python  
 <sub><sup>asgi, asynchronous, asyncio, coroutine, cpu, gevent, greenlet, multi-threaded-applications, multithreading, performance, profile, profilers, python, thread</sup></sub>
 
@@ -110,8 +110,8 @@ created 2009-10-07, last commit 2022-11-25, main language Python
 ### [pyheat](https://github.com/csurfer/pyheat) by [csurfer](https://github.com/csurfer)  
 pyheat: pprofile + matplotlib = Python program profiled as an awesome heatmap!  
 [https://github.com/csurfer/pyheat](https://github.com/csurfer/pyheat)  
-2.37 stars per week over 312 weeks  
-741 stars, 40 forks, 13 watches  
+2.36 stars per week over 313 weeks  
+742 stars, 40 forks, 13 watches  
 created 2017-02-04, last commit 2021-09-18, main language Python  
 <sub><sup>heatmap, matplotlib, profiling, python</sup></sub>
 
@@ -120,7 +120,7 @@ created 2017-02-04, last commit 2021-09-18, main language Python
 filprofiler: A Python memory profiler for data processing and scientific computing applications  
 [https://pythonspeed.com/products/filmemoryprofiler/](https://pythonspeed.com/products/filmemoryprofiler/)  
 [https://github.com/pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler)  
-5.25 stars per week over 136 weeks  
+5.2 stars per week over 138 weeks  
 718 stars, 21 forks, 9 watches  
 created 2020-06-18, last commit 2023-01-20, main language Rust  
 <sub><sup>memory, memory-, memory-leak, memory-leak-detection, memory-leak-finder, memory-leaks, memory-profiler, memory-profiling, python</sup></sub>
@@ -129,12 +129,12 @@ created 2020-06-18, last commit 2023-01-20, main language Rust
 ### [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) by [kshitij12345](https://github.com/kshitij12345)  
 torchnnprofiler: Context Manager to profile the forward and backward times of PyTorch's nn.Module  
 [https://github.com/kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler)  
-5.13 stars per week over 14 weeks  
+4.67 stars per week over 15 weeks  
 74 stars, 3 forks, 4 watches  
 created 2022-10-22, last commit 2022-11-02, main language Python  
 
 
-This file was automatically generated on 2023-01-31.  
+This file was automatically generated on 2023-02-10.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
