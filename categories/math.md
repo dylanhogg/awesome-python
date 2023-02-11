@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 9 curated math Python libraries and frameworks ordered by stars.  
+A selection of 10 curated math Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,8 +10,8 @@ numpy: The fundamental package for scientific computing with Python.
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 34 stars per week over 647 weeks  
-22,648 stars, 7,727 forks, 570 watches  
-created 2010-09-13, last commit 2023-02-09, main language Python  
+22,652 stars, 7,731 forks, 571 watches  
+created 2010-09-13, last commit 2023-02-10, main language Python  
 <sub><sup>closember, numpy, python</sup></sub>
 
 
@@ -21,7 +21,7 @@ sympy: A computer algebra system written in pure Python
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
 15 stars per week over 667 weeks  
 10,044 stars, 3,845 forks, 287 watches  
-created 2010-04-30, last commit 2023-02-09, main language Python  
+created 2010-04-30, last commit 2023-02-11, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, python, science</sup></sub>
 
 
@@ -38,7 +38,7 @@ created 2021-11-18, last commit 2023-02-06, main language Python
 torchsde: Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
 [https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
 8.88 stars per week over 135 weeks  
-1,204 stars, 142 forks, 32 watches  
+1,205 stars, 142 forks, 33 watches  
 created 2020-07-06, last commit 2021-07-26, main language Python  
 <sub><sup>deep-learning, deep-neural-networks, differential-equations, dynamical-systems, neural-differential-equations, pytorch, stochastic-differential-equations, stochastic-processes, stochastic-volatility-models</sup></sub>
 
@@ -48,7 +48,7 @@ mpmath: Python library for arbitrary-precision floating-point arithmetic
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
 1.24 stars per week over 583 weeks  
-723 stars, 150 forks, 40 watches  
+723 stars, 151 forks, 40 watches  
 created 2011-12-07, last commit 2023-01-10, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, python, special-functions</sup></sub>
 
@@ -58,7 +58,7 @@ dit: Python package for information theory.
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
 0.87 stars per week over 488 weeks  
-426 stars, 77 forks, 24 watches  
+427 stars, 77 forks, 24 watches  
 created 2013-09-29, last commit 2022-07-25, main language Python  
 <sub><sup>information-theory, python</sup></sub>
 
@@ -76,10 +76,18 @@ created 2020-08-17, last commit 2022-12-20, main language Python
 PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
 [https://github.com/lukaszahradnik/pyneuralogic](https://github.com/lukaszahradnik/pyneuralogic)  
-1.78 stars per week over 113 weeks  
+1.77 stars per week over 113 weeks  
 202 stars, 17 forks, 5 watches  
 created 2020-12-06, last commit 2023-01-22, main language Python  
 <sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, python, pytorch, relational-learning</sup></sub>
+
+
+### [pycircular](https://github.com/albahnsen/pycircular) by [albahnsen](https://github.com/albahnsen)  
+pycircular is a Python module for circular data analysis  
+[https://github.com/albahnsen/pycircular](https://github.com/albahnsen/pycircular)  
+2.72 stars per week over 21 weeks  
+59 stars, 3 forks, 5 watches  
+created 2022-09-12, last commit 2023-01-21, main language Python  
 
 
 ### [pacal](https://github.com/jszymon/pacal) by [jszymon](https://github.com/jszymon)  
@@ -90,7 +98,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2022-11-02, main language Python  
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

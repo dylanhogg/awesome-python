@@ -10,7 +10,7 @@ prophet: Tool for producing high quality forecasts for time series data that has
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
 [https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
 47 stars per week over 325 weeks  
-15,479 stars, 4,366 forks, 422 watches  
+15,480 stars, 4,367 forks, 422 watches  
 created 2016-11-16, last commit 2023-01-31, main language Python  
 <sub><sup>forecasting, python, r</sup></sub>
 
@@ -20,7 +20,7 @@ tsfresh: Automatic extraction of relevant features from time series:
 [http://tsfresh.readthedocs.io](http://tsfresh.readthedocs.io)  
 [https://github.com/blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)  
 21 stars per week over 328 weeks  
-7,059 stars, 1,106 forks, 160 watches  
+7,060 stars, 1,107 forks, 160 watches  
 created 2016-10-26, last commit 2022-12-31, main language Jupyter Notebook  
 <sub><sup>data-science, feature-extraction, time-series</sup></sub>
 
@@ -30,8 +30,8 @@ sktime: A unified framework for machine learning with time series
 [https://sktime.org](https://sktime.org)  
 [https://github.com/sktime/sktime](https://github.com/sktime/sktime)  
 27 stars per week over 222 weeks  
-6,103 stars, 1,017 forks, 107 watches  
-created 2018-11-06, last commit 2023-02-06, main language Python  
+6,104 stars, 1,016 forks, 107 watches  
+created 2018-11-06, last commit 2023-02-10, main language Python  
 <sub><sup>data-mining, data-science, forecasting, machine-learning, scikit-learn, time-series, time-series-analysis, time-series-classification, time-series-regression</sup></sub>
 
 
@@ -40,7 +40,7 @@ darts: A python library for user-friendly forecasting and anomaly detection on t
 [https://unit8co.github.io/darts/](https://unit8co.github.io/darts/)  
 [https://github.com/unit8co/darts](https://github.com/unit8co/darts)  
 23 stars per week over 230 weeks  
-5,358 stars, 591 forks, 43 watches  
+5,361 stars, 592 forks, 43 watches  
 created 2018-09-13, last commit 2023-02-10, main language Python  
 <sub><sup>anomaly-detection, data-science, deep-learning, forecasting, machine-learning, python, time-series</sup></sub>
 
@@ -49,7 +49,7 @@ created 2018-09-13, last commit 2023-02-10, main language Python
 Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.   
 [https://github.com/facebookresearch/kats](https://github.com/facebookresearch/kats)  
 41 stars per week over 102 weeks  
-4,203 stars, 442 forks, 71 watches  
+4,205 stars, 443 forks, 71 watches  
 created 2021-02-25, last commit 2023-02-06, main language Python  
 
 
@@ -58,7 +58,7 @@ gluonts: Probabilistic time series modeling in Python
 [https://ts.gluon.ai](https://ts.gluon.ai)  
 [https://github.com/awslabs/gluonts](https://github.com/awslabs/gluonts)  
 17 stars per week over 195 weeks  
-3,335 stars, 671 forks, 70 watches  
+3,338 stars, 671 forks, 70 watches  
 created 2019-05-15, last commit 2023-02-10, main language Python  
 <sub><sup>artificial-intelligence, aws, data-science, deep-learning, forecasting, machine-learning, mxnet, neural-networks, pytorch, sagemaker, time-series, time-series-forecasting, time-series-prediction, timeseries</sup></sub>
 
@@ -67,7 +67,7 @@ created 2019-05-15, last commit 2023-02-10, main language Python
 Merlion: A Machine Learning Framework for Time Series Intelligence  
 [https://github.com/salesforce/merlion](https://github.com/salesforce/merlion)  
 35 stars per week over 80 weeks  
-2,865 stars, 247 forks, 47 watches  
+2,866 stars, 247 forks, 47 watches  
 created 2021-07-28, last commit 2023-02-07, main language Python  
 <sub><sup>anomaly-detection, automl, benchmarking, ensemble-learning, forecasting, machine-learning, time-series</sup></sub>
 
@@ -86,8 +86,8 @@ created 2019-05-03, last commit 2023-01-26, main language Python
 statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.  
 [https://nixtla.github.io/statsforecast/](https://nixtla.github.io/statsforecast/)  
 [https://github.com/nixtla/statsforecast](https://github.com/nixtla/statsforecast)  
-35 stars per week over 63 weeks  
-2,216 stars, 134 forks, 18 watches  
+34 stars per week over 63 weeks  
+2,218 stars, 134 forks, 18 watches  
 created 2021-11-24, last commit 2023-01-27, main language Python  
 <sub><sup>arima, automl, baselines, data-science, econometrics, ets, exponential-smoothing, fbprophet, forecasting, machine-learning, mstl, naive, neuralprophet, predictions, prophet, python, seasonal-naive, statistics, theta, time-series</sup></sub>
 
@@ -134,7 +134,7 @@ created 2019-08-15, last commit 2023-01-18, main language Python
 ### [AutoTS](https://github.com/winedarksea/autots) by [winedarksea](https://github.com/winedarksea)  
 AutoTS: Automated Time Series Forecasting  
 [https://github.com/winedarksea/autots](https://github.com/winedarksea/autots)  
-4.03 stars per week over 167 weeks  
+4.02 stars per week over 167 weeks  
 674 stars, 65 forks, 14 watches  
 created 2019-11-26, last commit 2023-02-02, main language Python  
 <sub><sup>automl, autots, deep-learning, feature-engineering, forecasting, machine-learning, preprocessing, time-series</sup></sub>
@@ -143,7 +143,7 @@ created 2019-11-26, last commit 2023-02-02, main language Python
 ### [Auto_TS](https://github.com/autoviml/auto_ts) by [autoviml](https://github.com/autoviml)  
 Auto_TS: Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.  
 [https://github.com/autoviml/auto_ts](https://github.com/autoviml/auto_ts)  
-3.42 stars per week over 155 weeks  
+3.42 stars per week over 156 weeks  
 533 stars, 95 forks, 17 watches  
 created 2020-02-15, last commit 2022-08-16, main language Jupyter Notebook  
 <sub><sup>arima, auto-arima, auto-sklearn, auto-timeseries, autokeras, automl, autosklearn, prophet, python, python3, sklearn, time-series, time-series-analysis, tpot</sup></sub>
@@ -172,13 +172,13 @@ created 2016-04-15, last commit 2023-02-07, main language Python
 ### [DeepTime](https://github.com/salesforce/deeptime) by [salesforce](https://github.com/salesforce)  
 PyTorch code for DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting  
 [https://github.com/salesforce/deeptime](https://github.com/salesforce/deeptime)  
-6.14 stars per week over 32 weeks  
+6.11 stars per week over 32 weeks  
 200 stars, 31 forks, 7 watches  
 created 2022-06-27, last commit 2022-11-03, main language Python  
 <sub><sup>deep-learning, forecasting, implicit-neural-representation, meta-learning, time-series, time-series-forecasting, time-series-regression</sup></sub>
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

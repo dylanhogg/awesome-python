@@ -10,7 +10,7 @@ cookiecutter: A cross-platform command-line utility that creates projects from c
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
 37 stars per week over 499 weeks  
-18,889 stars, 1,783 forks, 232 watches  
+18,893 stars, 1,783 forks, 232 watches  
 created 2013-07-14, last commit 2022-09-09, main language Python  
 <sub><sup>cookiecutter, python</sup></sub>
 
@@ -18,8 +18,8 @@ created 2013-07-14, last commit 2022-09-09, main language Python
 ### [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) by [tiangolo](https://github.com/tiangolo)  
 full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
-53 stars per week over 206 weeks  
-11,064 stars, 2,017 forks, 180 watches  
+53 stars per week over 207 weeks  
+11,072 stars, 2,017 forks, 180 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
 
@@ -29,7 +29,7 @@ cookiecutter-data-science: A logical, reasonably standardized, but flexible proj
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 17 stars per week over 380 weeks  
-6,481 stars, 2,063 forks, 113 watches  
+6,482 stars, 2,064 forks, 113 watches  
 created 2015-10-30, last commit 2022-03-11, main language Python  
 <sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
 
@@ -47,8 +47,8 @@ created 2014-04-02, last commit 2023-01-23, main language Python
 ### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
 fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
-9.93 stars per week over 150 weeks  
-1,498 stars, 256 forks, 36 watches  
+9.93 stars per week over 151 weeks  
+1,499 stars, 256 forks, 36 watches  
 created 2020-03-21, last commit 2022-02-18, main language Python  
 <sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
 
@@ -99,7 +99,7 @@ created 2020-02-12, last commit 2022-08-19, main language Python
 <sub><sup>cookiecutter, jupyterlab, python, template</sup></sub>
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

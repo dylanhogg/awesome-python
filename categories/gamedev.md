@@ -10,7 +10,7 @@ pygame: 🐍🎮 pygame (the library) is a Free and Open Source python programmi
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 18 stars per week over 306 weeks  
-5,708 stars, 2,499 forks, 158 watches  
+5,710 stars, 2,502 forks, 158 watches  
 created 2017-03-26, last commit 2023-02-09, main language C  
 <sub><sup>game-dev, game-development, gamedev, pygame, python, sdl, sdl2</sup></sub>
 
@@ -19,8 +19,8 @@ created 2017-03-26, last commit 2023-02-09, main language C
 panda3d: Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
 [https://www.panda3d.org/](https://www.panda3d.org/)  
 [https://github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)  
-7.56 stars per week over 488 weeks  
-3,692 stars, 745 forks, 194 watches  
+7.55 stars per week over 488 weeks  
+3,692 stars, 746 forks, 194 watches  
 created 2013-09-30, last commit 2023-02-07, main language C++  
 <sub><sup>c-plus-plus, cross-platform, game-development, game-engine, gamedev, multi-platform, open-source, opengl, panda3d, panda3d-game-engine, python</sup></sub>
 
@@ -29,8 +29,8 @@ created 2013-09-30, last commit 2023-02-07, main language C++
 pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.  
 [http://pyglet.org](http://pyglet.org)  
 [https://github.com/pyglet/pyglet](https://github.com/pyglet/pyglet)  
-7.23 stars per week over 191 weeks  
-1,387 stars, 252 forks, 32 watches  
+7.24 stars per week over 191 weeks  
+1,389 stars, 252 forks, 32 watches  
 created 2019-06-09, last commit 2023-02-09, main language Python  
 <sub><sup>gamedev, opengl, pyglet, python, scientific-visualization</sup></sub>
 
@@ -40,12 +40,12 @@ arcade: Easy to use Python library for creating 2D arcade games.
 [http://arcade.academy](http://arcade.academy)  
 [https://github.com/pythonarcade/arcade](https://github.com/pythonarcade/arcade)  
 3.73 stars per week over 370 weeks  
-1,383 stars, 259 forks, 56 watches  
-created 2016-01-04, last commit 2023-02-09, main language Python  
+1,383 stars, 261 forks, 56 watches  
+created 2016-01-04, last commit 2023-02-11, main language Python  
 <sub><sup>arcade-api, arcade-framework, arcade-learning-environment, educational-resources, educational-technology, opengl, python, python3</sup></sub>
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

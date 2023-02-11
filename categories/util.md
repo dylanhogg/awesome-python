@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 142 curated util Python libraries and frameworks ordered by stars.  
+A selection of 145 curated util Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -10,7 +10,7 @@ core: :house_with_garden: Open source home automation that puts local control an
 [https://www.home-assistant.io](https://www.home-assistant.io)  
 [https://github.com/home-assistant/core](https://github.com/home-assistant/core)  
 118 stars per week over 490 weeks  
-58,028 stars, 21,909 forks, 1,350 watches  
+58,039 stars, 21,924 forks, 1,349 watches  
 created 2013-09-17, last commit 2023-02-10, main language Python  
 <sub><sup>asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi</sup></sub>
 
@@ -20,7 +20,7 @@ cpython: The Python programming language
 [https://www.python.org/](https://www.python.org/)  
 [https://github.com/python/cpython](https://github.com/python/cpython)  
 161 stars per week over 313 weeks  
-50,553 stars, 25,741 forks, 1,470 watches  
+50,571 stars, 25,750 forks, 1,470 watches  
 created 2017-02-10, last commit 2023-02-10, main language Python  
 
 
@@ -28,8 +28,8 @@ created 2017-02-10, last commit 2023-02-10, main language Python
 black: The uncompromising Python code formatter  
 [https://black.readthedocs.io/en/stable/](https://black.readthedocs.io/en/stable/)  
 [https://github.com/psf/black](https://github.com/psf/black)  
-122 stars per week over 256 weeks  
-31,281 stars, 2,011 forks, 229 watches  
+121 stars per week over 256 weeks  
+31,283 stars, 2,015 forks, 229 watches  
 created 2018-03-14, last commit 2023-02-07, main language Python  
 <sub><sup>autopep8, code, codeformatter, formatter, gofmt, hacktoberfest, pre-commit-hook, python, yapf</sup></sub>
 
@@ -38,7 +38,7 @@ created 2018-03-14, last commit 2023-02-07, main language Python
 pyenv: Simple Python version management  
 [https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv)  
 56 stars per week over 545 weeks  
-30,537 stars, 2,704 forks, 384 watches  
+30,543 stars, 2,705 forks, 384 watches  
 created 2012-08-31, last commit 2023-02-08, main language Roff  
 <sub><sup>python, shell</sup></sub>
 
@@ -48,7 +48,7 @@ diagrams: :art: Diagram as Code for prototyping cloud system architectures
 [https://diagrams.mingrammer.com](https://diagrams.mingrammer.com)  
 [https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)  
 176 stars per week over 157 weeks  
-27,805 stars, 1,706 forks, 346 watches  
+27,810 stars, 1,707 forks, 346 watches  
 created 2020-02-02, last commit 2023-01-13, main language Python  
 <sub><sup>architecture, diagram, diagram-as-code, graphviz</sup></sub>
 
@@ -58,7 +58,7 @@ poetry: Python packaging and dependency management made easy
 [https://python-poetry.org](https://python-poetry.org)  
 [https://github.com/python-poetry/poetry](https://github.com/python-poetry/poetry)  
 91 stars per week over 258 weeks  
-23,615 stars, 1,896 forks, 185 watches  
+23,615 stars, 1,898 forks, 185 watches  
 created 2018-02-28, last commit 2023-02-07, main language Python  
 <sub><sup>dependency-manager, package-manager, packaging, poetry, python</sup></sub>
 
@@ -67,7 +67,7 @@ created 2018-02-28, last commit 2023-02-07, main language Python
 algorithms: Minimal examples of data structures and algorithms in Python  
 [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
 68 stars per week over 325 weeks  
-22,134 stars, 4,433 forks, 642 watches  
+22,136 stars, 4,432 forks, 642 watches  
 created 2016-11-17, last commit 2022-11-12, main language Python  
 <sub><sup>algorithm, algorithms, competitive-programming, data-structure, graph, python, search, sort, tree</sup></sub>
 
@@ -76,7 +76,7 @@ created 2016-11-17, last commit 2022-11-12, main language Python
 pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.  
 [https://github.com/norvig/pytudes](https://github.com/norvig/pytudes)  
 64 stars per week over 310 weeks  
-20,060 stars, 2,275 forks, 735 watches  
+20,061 stars, 2,276 forks, 735 watches  
 created 2017-03-01, last commit 2023-02-08, main language Jupyter Notebook  
 <sub><sup>demonstrate-skills, practice, programming, python, python-3</sup></sub>
 
@@ -86,7 +86,7 @@ MicroPython - a lean and efficient Python implementation for microcontrollers an
 [https://micropython.org](https://micropython.org)  
 [https://github.com/micropython/micropython](https://github.com/micropython/micropython)  
 33 stars per week over 477 weeks  
-15,902 stars, 6,149 forks, 733 watches  
+15,904 stars, 6,153 forks, 734 watches  
 created 2013-12-20, last commit 2023-02-09, main language C  
 <sub><sup>embedded, microcontroller, micropython, python</sup></sub>
 
@@ -106,7 +106,7 @@ kivy: Open source UI framework written in Python, running on Windows, Linux, mac
 [https://kivy.org](https://kivy.org)  
 [https://github.com/kivy/kivy](https://github.com/kivy/kivy)  
 24 stars per week over 640 weeks  
-15,507 stars, 2,980 forks, 621 watches  
+15,511 stars, 2,980 forks, 621 watches  
 created 2010-11-03, last commit 2023-02-05, main language Python  
 <sub><sup>android, app, ios, kivy, linux, macos, python, ui, windows</sup></sub>
 
@@ -115,7 +115,7 @@ created 2010-11-03, last commit 2023-02-05, main language Python
 avatarify-python: Avatars for Zoom, Skype and other video-conferencing apps.  
 [https://github.com/alievk/avatarify-python](https://github.com/alievk/avatarify-python)  
 103 stars per week over 148 weeks  
-15,388 stars, 2,389 forks, 301 watches  
+15,389 stars, 2,389 forks, 301 watches  
 created 2020-04-06, last commit 2022-11-11, main language Python  
 
 
@@ -123,7 +123,7 @@ created 2020-04-06, last commit 2022-11-11, main language Python
 loguru: Python logging made (stupidly) simple  
 [https://github.com/delgan/loguru](https://github.com/delgan/loguru)  
 49 stars per week over 286 weeks  
-14,078 stars, 582 forks, 120 watches  
+14,083 stars, 583 forks, 120 watches  
 created 2017-08-15, last commit 2023-02-01, main language Python  
 <sub><sup>log, logger, logging, python</sup></sub>
 
@@ -133,7 +133,7 @@ mkdocs-material: Documentation that simply works
 [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)  
 [https://github.com/squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)  
 34 stars per week over 367 weeks  
-12,698 stars, 2,786 forks, 110 watches  
+12,706 stars, 2,785 forks, 109 watches  
 created 2016-01-28, last commit 2023-02-10, main language TypeScript  
 <sub><sup>documentation, material-design, mkdocs, static, template, theme</sup></sub>
 
@@ -143,8 +143,8 @@ pydantic: Data parsing and validation using Python type hints
 [https://docs.pydantic.dev](https://docs.pydantic.dev)  
 [https://github.com/samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic)  
 41 stars per week over 301 weeks  
-12,378 stars, 1,152 forks, 85 watches  
-created 2017-05-03, last commit 2023-02-09, main language Python  
+12,387 stars, 1,151 forks, 85 watches  
+created 2017-05-03, last commit 2023-02-10, main language Python  
 <sub><sup>hints, json-schema, parsing, pydantic, python, python310, python311, python37, python38, python39, validation</sup></sub>
 
 
@@ -153,7 +153,7 @@ Pillow: Python Imaging Library (Fork)
 [https://python-pillow.org](https://python-pillow.org)  
 [https://github.com/python-pillow/pillow](https://github.com/python-pillow/pillow)  
 19 stars per week over 550 weeks  
-10,499 stars, 1,976 forks, 218 watches  
+10,502 stars, 1,976 forks, 217 watches  
 created 2012-07-24, last commit 2023-02-10, main language Python  
 <sub><sup>c, cross-platform, image, image-processing, pil, pillow, python, python-3</sup></sub>
 
@@ -163,7 +163,7 @@ pyinstaller: Freeze (package) Python programs into stand-alone executables
 [http://www.pyinstaller.org](http://www.pyinstaller.org)  
 [https://github.com/pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)  
 17 stars per week over 585 weeks  
-10,013 stars, 1,857 forks, 234 watches  
+10,015 stars, 1,856 forks, 234 watches  
 created 2011-11-23, last commit 2023-02-08, main language Python  
 <sub><sup>bundle, package, py2app, py2exe, pyinstaller, python, python-3, python-to-exe</sup></sub>
 
@@ -173,7 +173,7 @@ pre-commit: A framework for managing and maintaining multi-language pre-commit h
 [https://pre-commit.com](https://pre-commit.com)  
 [https://github.com/pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)  
 20 stars per week over 465 weeks  
-9,727 stars, 702 forks, 87 watches  
+9,737 stars, 702 forks, 87 watches  
 created 2014-03-13, last commit 2023-02-08, main language Python  
 <sub><sup>git, linter, pre-commit, python, refactoring</sup></sub>
 
@@ -183,7 +183,7 @@ Pyodide is a Python distribution for the browser and Node.js based on WebAssembl
 [https://pyodide.org/en/stable/](https://pyodide.org/en/stable/)  
 [https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)  
 37 stars per week over 259 weeks  
-9,587 stars, 623 forks, 126 watches  
+9,590 stars, 623 forks, 126 watches  
 created 2018-02-23, last commit 2023-02-10, main language Python  
 <sub><sup>python, webassembly</sup></sub>
 
@@ -202,7 +202,7 @@ jinja: A very fast and expressive template engine.
 [https://jinja.palletsprojects.com](https://jinja.palletsprojects.com)  
 [https://github.com/pallets/jinja](https://github.com/pallets/jinja)  
 14 stars per week over 642 weeks  
-9,036 stars, 1,534 forks, 251 watches  
+9,038 stars, 1,534 forks, 251 watches  
 created 2010-10-17, last commit 2023-02-07, main language Python  
 <sub><sup>jinja, jinja2, pallets, python, template-engine, templates</sup></sub>
 
@@ -212,8 +212,8 @@ serverless-application-model: The AWS Serverless Application Model (AWS SAM) tra
 [https://aws.amazon.com/serverless/sam](https://aws.amazon.com/serverless/sam)  
 [https://github.com/aws/serverless-application-model](https://github.com/aws/serverless-application-model)  
 26 stars per week over 330 weeks  
-8,909 stars, 2,293 forks, 301 watches  
-created 2016-10-10, last commit 2023-02-10, main language Python  
+8,910 stars, 2,293 forks, 301 watches  
+created 2016-10-10, last commit 2023-02-11, main language Python  
 <sub><sup>aws, aws-sam, lambda, sam, sam-specification, serverless, serverless-application-model, serverless-applications</sup></sub>
 
 
@@ -232,8 +232,18 @@ paramiko: The leading native Python SSHv2 protocol library.
 [http://paramiko.org](http://paramiko.org)  
 [https://github.com/paramiko/paramiko](https://github.com/paramiko/paramiko)  
 11 stars per week over 731 weeks  
-8,149 stars, 1,905 forks, 319 watches  
+8,148 stars, 1,906 forks, 319 watches  
 created 2009-02-02, last commit 2023-01-27, main language Python  
+
+
+### [ruff](https://github.com/charliermarsh/ruff) by [charliermarsh](https://github.com/charliermarsh)  
+ruff: An extremely fast Python linter, written in Rust.  
+[https://beta.ruff.rs/](https://beta.ruff.rs/)  
+[https://github.com/charliermarsh/ruff](https://github.com/charliermarsh/ruff)  
+304 stars per week over 26 weeks  
+8,083 stars, 246 forks, 39 watches  
+created 2022-08-09, last commit 2023-02-11, main language Rust  
+<sub><sup>linter, pep8, python, python3, rust, rustpython, static-analysis, static-code-analysis, style-guide, styleguide</sup></sub>
 
 
 ### [boto3](https://github.com/boto/boto3) by [boto](https://github.com/boto)  
@@ -241,8 +251,8 @@ boto3: AWS SDK for Python
 [https://aws.amazon.com/sdk-for-python/](https://aws.amazon.com/sdk-for-python/)  
 [https://github.com/boto/boto3](https://github.com/boto/boto3)  
 18 stars per week over 436 weeks  
-7,876 stars, 1,717 forks, 240 watches  
-created 2014-10-03, last commit 2023-02-09, main language Python  
+7,877 stars, 1,718 forks, 240 watches  
+created 2014-10-03, last commit 2023-02-10, main language Python  
 <sub><sup>aws, aws-sdk, cloud, cloud-management, python</sup></sub>
 
 
@@ -251,7 +261,7 @@ cython: The most widely used Python to C compiler
 [https://cython.org](https://cython.org)  
 [https://github.com/cython/cython](https://github.com/cython/cython)  
 12 stars per week over 637 weeks  
-7,655 stars, 1,359 forks, 233 watches  
+7,658 stars, 1,358 forks, 233 watches  
 created 2010-11-21, last commit 2023-02-06, main language Python  
 <sub><sup>big-data, c, cpp, cpython, cpython-extensions, cython, performance, python</sup></sub>
 
@@ -261,7 +271,7 @@ Hydra is a framework for elegantly configuring complex applications
 [https://hydra.cc](https://hydra.cc)  
 [https://github.com/facebookresearch/hydra](https://github.com/facebookresearch/hydra)  
 35 stars per week over 191 weeks  
-6,776 stars, 552 forks, 86 watches  
+6,778 stars, 553 forks, 86 watches  
 created 2019-06-12, last commit 2023-02-07, main language Python  
 
 
@@ -270,7 +280,7 @@ pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 [https://pip-tools.rtfd.io](https://pip-tools.rtfd.io)  
 [https://github.com/jazzband/pip-tools](https://github.com/jazzband/pip-tools)  
 12 stars per week over 543 weeks  
-6,611 stars, 562 forks, 104 watches  
+6,612 stars, 562 forks, 104 watches  
 created 2012-09-10, last commit 2023-02-02, main language Python  
 <sub><sup>hashes, lockfile, packaging, pip, pip-compile, pip-tools, python, requirements, setuptools</sup></sub>
 
@@ -280,7 +290,7 @@ marshmallow: A lightweight library for converting complex objects to and from si
 [https://marshmallow.readthedocs.io/](https://marshmallow.readthedocs.io/)  
 [https://github.com/marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)  
 13 stars per week over 482 weeks  
-6,416 stars, 620 forks, 81 watches  
+6,417 stars, 620 forks, 82 watches  
 created 2013-11-10, last commit 2023-02-07, main language Python  
 <sub><sup>deserialization, hacktoberfest, marshalling, python, python-3, schema, serde, serialization, validation</sup></sub>
 
@@ -289,8 +299,8 @@ created 2013-11-10, last commit 2023-02-07, main language Python
 pipx: Install and Run Python Applications in Isolated Environments  
 [https://pypa.github.io/pipx/](https://pypa.github.io/pipx/)  
 [https://github.com/pypa/pipx](https://github.com/pypa/pipx)  
-26 stars per week over 226 weeks  
-5,995 stars, 275 forks, 69 watches  
+26 stars per week over 227 weeks  
+5,998 stars, 275 forks, 69 watches  
 created 2018-10-06, last commit 2023-02-10, main language Python  
 <sub><sup>cli, hacktoberfest, pip, pypi, python, venv</sup></sub>
 
@@ -298,8 +308,8 @@ created 2018-10-06, last commit 2023-02-10, main language Python
 ### [latexify_py](https://github.com/google/latexify_py) by [google](https://github.com/google)  
 latexify_py: A library to generate LaTeX expression from Python code.  
 [https://github.com/google/latexify_py](https://github.com/google/latexify_py)  
-44 stars per week over 132 weeks  
-5,954 stars, 326 forks, 51 watches  
+44 stars per week over 133 weeks  
+5,957 stars, 326 forks, 51 watches  
 created 2020-07-25, last commit 2023-01-14, main language Python  
 
 
@@ -307,7 +317,7 @@ created 2020-07-25, last commit 2023-01-14, main language Python
 PyGithub: Typed interactions with the GitHub API v3  
 [https://pygithub.readthedocs.io/](https://pygithub.readthedocs.io/)  
 [https://github.com/pygithub/pygithub](https://github.com/pygithub/pygithub)  
-10 stars per week over 571 weeks  
+10 stars per week over 572 weeks  
 5,782 stars, 1,595 forks, 114 watches  
 created 2012-02-25, last commit 2023-02-06, main language Python  
 <sub><sup>github, github-api, pygithub, python</sup></sub>
@@ -317,7 +327,7 @@ created 2012-02-25, last commit 2023-02-06, main language Python
 python-dotenv: Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.  
 [https://saurabh-kumar.com/python-dotenv/](https://saurabh-kumar.com/python-dotenv/)  
 [https://github.com/theskumar/python-dotenv](https://github.com/theskumar/python-dotenv)  
-12 stars per week over 439 weeks  
+12 stars per week over 440 weeks  
 5,660 stars, 353 forks, 33 watches  
 created 2014-09-06, last commit 2023-01-21, main language Python  
 <sub><sup>12-factor-app, configuration, devops-tools, dotenv, env, environment-variables, python</sup></sub>
@@ -328,7 +338,7 @@ isort: A Python utility / library to sort imports.
 [https://pycqa.github.io/isort/](https://pycqa.github.io/isort/)  
 [https://github.com/pycqa/isort](https://github.com/pycqa/isort)  
 11 stars per week over 492 weeks  
-5,592 stars, 515 forks, 44 watches  
+5,595 stars, 515 forks, 45 watches  
 created 2013-09-02, last commit 2023-02-10, main language Python  
 <sub><sup>auto-formatter, cleaner, cli, formatter, hacktoberfest, isort, linter, python, python-utility, python3, sorting-imports</sup></sub>
 
@@ -338,8 +348,8 @@ cryptography is a package designed to expose cryptographic primitives and recipe
 [https://cryptography.io](https://cryptography.io)  
 [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 10 stars per week over 496 weeks  
-5,334 stars, 1,129 forks, 120 watches  
-created 2013-08-07, last commit 2023-02-10, main language Python  
+5,337 stars, 1,131 forks, 120 watches  
+created 2013-08-07, last commit 2023-02-11, main language Python  
 <sub><sup>cryptography, python</sup></sub>
 
 
@@ -348,7 +358,7 @@ pendulum: Python datetimes made easy
 [https://pendulum.eustace.io](https://pendulum.eustace.io)  
 [https://github.com/sdispater/pendulum](https://github.com/sdispater/pendulum)  
 15 stars per week over 345 weeks  
-5,325 stars, 320 forks, 64 watches  
+5,327 stars, 320 forks, 64 watches  
 created 2016-06-27, last commit 2022-12-23, main language Python  
 <sub><sup>date, datetime, python, python3, time, timezones</sup></sub>
 
@@ -357,7 +367,7 @@ created 2016-06-27, last commit 2022-12-23, main language Python
 Tkinter-Designer: An easy and fast way to create a Python GUI 🐍  
 [https://github.com/parthjadhav/tkinter-designer](https://github.com/parthjadhav/tkinter-designer)  
 58 stars per week over 90 weeks  
-5,303 stars, 499 forks, 58 watches  
+5,305 stars, 499 forks, 58 watches  
 created 2021-05-18, last commit 2023-02-05, main language Python  
 <sub><sup>automatic, collaborate, drag-and-drop, easy, easy-to-use, fast, figma, gui, gui-application, hacktoberfest, learn, python, python-script, python3, tkinter, tkinter-designer, tkinter-graphic-interface, tkinter-gui, tkinter-python, tkinter-widgets</sup></sub>
 
@@ -367,7 +377,7 @@ scikit-image: Image processing in Python
 [https://scikit-image.org](https://scikit-image.org)  
 [https://github.com/scikit-image/scikit-image](https://github.com/scikit-image/scikit-image)  
 8.64 stars per week over 605 weeks  
-5,228 stars, 2,099 forks, 185 watches  
+5,230 stars, 2,099 forks, 185 watches  
 created 2011-07-07, last commit 2023-02-09, main language Python  
 <sub><sup>closember, computer-vision, hacktoberfest, image-processing, python</sup></sub>
 
@@ -377,7 +387,7 @@ sphinx: The Sphinx documentation generator
 [https://www.sphinx-doc.org/](https://www.sphinx-doc.org/)  
 [https://github.com/sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)  
 12 stars per week over 423 weeks  
-5,188 stars, 1,855 forks, 142 watches  
+5,190 stars, 1,856 forks, 142 watches  
 created 2015-01-02, last commit 2023-01-31, main language Python  
 <sub><sup>documentation, documentation-tool, markdown, python, restructuredtext, sphinx</sup></sub>
 
@@ -387,7 +397,7 @@ pypdf: A pure-python PDF library capable of splitting, merging, cropping, and tr
 [https://pypdf.readthedocs.io/en/latest/](https://pypdf.readthedocs.io/en/latest/)  
 [https://github.com/py-pdf/pypdf2](https://github.com/py-pdf/pypdf2)  
 8.93 stars per week over 579 weeks  
-5,171 stars, 1,162 forks, 142 watches  
+5,174 stars, 1,162 forks, 141 watches  
 created 2012-01-06, last commit 2023-02-10, main language Python  
 <sub><sup>help-wanted, pdf, pdf-documents, pdf-manipulation, pdf-parser, pdf-parsing, pypdf2, python</sup></sub>
 
@@ -396,7 +406,7 @@ created 2012-01-06, last commit 2023-02-10, main language Python
 pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.  
 [https://github.com/bndr/pipreqs](https://github.com/bndr/pipreqs)  
 11 stars per week over 407 weeks  
-4,863 stars, 330 forks, 58 watches  
+4,864 stars, 330 forks, 58 watches  
 created 2015-04-22, last commit 2023-01-14, main language Python  
 
 
@@ -413,7 +423,7 @@ pycodestyle: Simple Python style checker in one Python file
 [https://pycodestyle.pycqa.org](https://pycodestyle.pycqa.org)  
 [https://github.com/pycqa/pycodestyle](https://github.com/pycqa/pycodestyle)  
 6.84 stars per week over 697 weeks  
-4,768 stars, 692 forks, 120 watches  
+4,768 stars, 693 forks, 120 watches  
 created 2009-10-02, last commit 2022-12-13, main language Python  
 <sub><sup>flake8-plugin, linter-flake8, linter-plugin, pep8, python, style-guide, styleguide</sup></sub>
 
@@ -422,7 +432,7 @@ created 2009-10-02, last commit 2022-12-13, main language Python
 transitions: A lightweight, object-oriented finite state machine implementation in Python with many extensions  
 [https://github.com/pytransitions/transitions](https://github.com/pytransitions/transitions)  
 10 stars per week over 434 weeks  
-4,747 stars, 511 forks, 92 watches  
+4,749 stars, 511 forks, 92 watches  
 created 2014-10-12, last commit 2023-01-06, main language Python  
 <sub><sup>hierarchical-state-machine, nested-states, python, state-diagram, state-machine</sup></sub>
 
@@ -431,7 +441,7 @@ created 2014-10-12, last commit 2023-01-06, main language Python
 awslogs: AWS CloudWatch logs for Humans™  
 [https://github.com/jorgebastida/awslogs](https://github.com/jorgebastida/awslogs)  
 10 stars per week over 420 weeks  
-4,547 stars, 327 forks, 60 watches  
+4,548 stars, 327 forks, 60 watches  
 created 2015-01-21, last commit 2020-07-10, main language Python  
 
 
@@ -448,7 +458,7 @@ pylint: It's not just a linter that annoys you!
 [http://pylint.pycqa.org](http://pylint.pycqa.org)  
 [https://github.com/pycqa/pylint](https://github.com/pycqa/pylint)  
 11 stars per week over 374 weeks  
-4,490 stars, 968 forks, 74 watches  
+4,493 stars, 968 forks, 74 watches  
 created 2015-12-09, last commit 2023-02-10, main language Python  
 <sub><sup>closember, code-quality, hacktoberfest, linter, pep8, static-analysis, static-code-analysis</sup></sub>
 
@@ -458,7 +468,7 @@ tenacity: Retrying library for Python
 [http://tenacity.readthedocs.io](http://tenacity.readthedocs.io)  
 [https://github.com/jd/tenacity](https://github.com/jd/tenacity)  
 13 stars per week over 339 weeks  
-4,450 stars, 218 forks, 44 watches  
+4,454 stars, 218 forks, 44 watches  
 created 2016-08-11, last commit 2023-02-09, main language Python  
 <sub><sup>failure, hacktoberfest, python, retry, retry-library</sup></sub>
 
@@ -466,8 +476,8 @@ created 2016-08-11, last commit 2023-02-09, main language Python
 ### [point-e](https://github.com/openai/point-e) by [openai](https://github.com/openai)  
 point-e: Point cloud diffusion for 3D model synthesis  
 [https://github.com/openai/point-e](https://github.com/openai/point-e)  
-449 stars per week over 9 weeks  
-4,241 stars, 414 forks, 159 watches  
+443 stars per week over 9 weeks  
+4,248 stars, 414 forks, 158 watches  
 created 2022-12-06, last commit 2022-12-20, main language Python  
 
 
@@ -476,7 +486,7 @@ mamba: The Fast Cross-Platform Package Manager
 [https://mamba.readthedocs.io](https://mamba.readthedocs.io)  
 [https://github.com/mamba-org/mamba](https://github.com/mamba-org/mamba)  
 20 stars per week over 205 weeks  
-4,179 stars, 238 forks, 44 watches  
+4,184 stars, 238 forks, 44 watches  
 created 2019-03-05, last commit 2023-02-10, main language C++  
 
 
@@ -484,7 +494,7 @@ created 2019-03-05, last commit 2023-02-10, main language C++
 toolz: A functional standard library for Python.  
 [http://toolz.readthedocs.org/](http://toolz.readthedocs.org/)  
 [https://github.com/pytoolz/toolz](https://github.com/pytoolz/toolz)  
-8.47 stars per week over 491 weeks  
+8.46 stars per week over 491 weeks  
 4,157 stars, 248 forks, 82 watches  
 created 2013-09-13, last commit 2022-11-03, main language Python  
 
@@ -493,7 +503,7 @@ created 2013-09-13, last commit 2022-11-03, main language Python
 pedalboard: 🎛 🔊 A Python library for working with audio.  
 [https://github.com/spotify/pedalboard](https://github.com/spotify/pedalboard)  
 47 stars per week over 83 weeks  
-3,970 stars, 163 forks, 49 watches  
+3,973 stars, 162 forks, 49 watches  
 created 2021-07-06, last commit 2023-02-07, main language C++  
 <sub><sup>audio, audio-processing, audio-production, audio-research, audio-unit, juce, pybind11, python, tensorflow, vst3, vst3-host</sup></sub>
 
@@ -501,8 +511,8 @@ created 2021-07-06, last commit 2023-02-07, main language C++
 ### [RPA-Python](https://github.com/tebelorg/rpa-python) by [tebelorg](https://github.com/tebelorg)  
 RPA-Python: Python package for doing RPA  
 [https://github.com/tebelorg/rpa-python](https://github.com/tebelorg/rpa-python)  
-18 stars per week over 201 weeks  
-3,640 stars, 535 forks, 99 watches  
+18 stars per week over 202 weeks  
+3,641 stars, 535 forks, 99 watches  
 created 2019-03-30, last commit 2022-09-07, main language Python  
 <sub><sup>cross-platform, opencv, python, rpa, sikuli, tagui, tesseract</sup></sub>
 
@@ -512,7 +522,7 @@ hatch: Modern, extensible Python project management
 [https://hatch.pypa.io/latest/](https://hatch.pypa.io/latest/)  
 [https://github.com/pypa/hatch](https://github.com/pypa/hatch)  
 12 stars per week over 297 weeks  
-3,610 stars, 178 forks, 46 watches  
+3,613 stars, 178 forks, 46 watches  
 created 2017-05-31, last commit 2023-02-09, main language Python  
 <sub><sup>build, cli, packaging, plugin, python, versioning, virtualenv</sup></sub>
 
@@ -530,8 +540,8 @@ created 2012-08-24, last commit 2022-10-25, main language Python
 CircuitPython - a Python implementation for teaching coding with microcontrollers  
 [https://circuitpython.org](https://circuitpython.org)  
 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython)  
-10 stars per week over 337 weeks  
-3,391 stars, 901 forks, 128 watches  
+10 stars per week over 338 weeks  
+3,391 stars, 902 forks, 128 watches  
 created 2016-08-20, last commit 2023-02-10, main language C  
 <sub><sup>beginner, circuitpython, cpython, education, embedded, hacktoberfest, microcontroller, micropython, python, python3</sup></sub>
 
@@ -549,8 +559,8 @@ created 2010-07-21, last commit 2023-02-08, main language Python
 ### [python-socketio](https://github.com/miguelgrinberg/python-socketio) by [miguelgrinberg](https://github.com/miguelgrinberg)  
 python-socketio: Python Socket.IO server and client  
 [https://github.com/miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio)  
-8.15 stars per week over 395 weeks  
-3,223 stars, 519 forks, 61 watches  
+8.16 stars per week over 395 weeks  
+3,225 stars, 519 forks, 61 watches  
 created 2015-07-15, last commit 2023-02-03, main language Python  
 <sub><sup>asyncio, eventlet, gevent, long-polling, low-latency, python, socket-io, socketio, socketio-server, web-server, websocket</sup></sub>
 
@@ -560,8 +570,8 @@ spack: A flexible package manager that supports multiple versions, configuration
 [https://spack.io](https://spack.io)  
 [https://github.com/spack/spack](https://github.com/spack/spack)  
 6.72 stars per week over 474 weeks  
-3,187 stars, 1,820 forks, 105 watches  
-created 2014-01-08, last commit 2023-02-10, main language Python  
+3,189 stars, 1,821 forks, 105 watches  
+created 2014-01-08, last commit 2023-02-11, main language Python  
 <sub><sup>build-tools, hpc, linux, macos, package-manager, python, radiuss, scientific-computing, spack</sup></sub>
 
 
@@ -569,16 +579,16 @@ created 2014-01-08, last commit 2023-02-10, main language Python
 warehouse: The Python Package Index  
 [https://pypi.org](https://pypi.org)  
 [https://github.com/pypi/warehouse](https://github.com/pypi/warehouse)  
-6.1 stars per week over 514 weeks  
-3,140 stars, 908 forks, 103 watches  
-created 2013-03-30, last commit 2023-02-08, main language Python  
+6.1 stars per week over 515 weeks  
+3,141 stars, 908 forks, 104 watches  
+created 2013-03-30, last commit 2023-02-10, main language Python  
 
 
 ### [markdown](https://github.com/python-markdown/markdown) by [python-markdown](https://github.com/python-markdown)  
 markdown: A Python implementation of John Gruber’s Markdown with Extension support.  
 [https://python-markdown.github.io/](https://python-markdown.github.io/)  
 [https://github.com/python-markdown/markdown](https://github.com/python-markdown/markdown)  
-4.69 stars per week over 662 weeks  
+4.69 stars per week over 663 weeks  
 3,112 stars, 807 forks, 75 watches  
 created 2010-05-29, last commit 2023-01-09, main language Python  
 <sub><sup>markdown, markdown-parser, markdown-to-html, python, python-markdown, python3</sup></sub>
@@ -597,7 +607,7 @@ created 2010-05-07, last commit 2022-11-25, main language Python
 ### [funcy](https://github.com/suor/funcy) by [suor](https://github.com/suor)  
 funcy: A fancy and practical functional tools  
 [https://github.com/suor/funcy](https://github.com/suor/funcy)  
-5.51 stars per week over 538 weeks  
+5.5 stars per week over 539 weeks  
 2,967 stars, 134 forks, 73 watches  
 created 2012-10-13, last commit 2023-02-04, main language Python  
 <sub><sup>functional-programming, python, utilities</sup></sub>
@@ -608,7 +618,7 @@ more-itertools: More routines for operating on iterables, beyond itertools
 [https://more-itertools.rtfd.io](https://more-itertools.rtfd.io)  
 [https://github.com/more-itertools/more-itertools](https://github.com/more-itertools/more-itertools)  
 5.21 stars per week over 563 weeks  
-2,932 stars, 232 forks, 36 watches  
+2,933 stars, 232 forks, 36 watches  
 created 2012-04-26, last commit 2023-01-26, main language Python  
 
 
@@ -617,7 +627,7 @@ xarray: N-D labeled arrays and datasets in Python
 [https://xarray.dev](https://xarray.dev)  
 [https://github.com/pydata/xarray](https://github.com/pydata/xarray)  
 5.85 stars per week over 488 weeks  
-2,858 stars, 873 forks, 107 watches  
+2,859 stars, 873 forks, 107 watches  
 created 2013-09-30, last commit 2023-02-09, main language Python  
 <sub><sup>dask, netcdf, numpy, pandas, python, xarray</sup></sub>
 
@@ -626,7 +636,7 @@ created 2013-09-30, last commit 2023-02-09, main language Python
 openai-python: The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.  
 [https://github.com/openai/openai-python](https://github.com/openai/openai-python)  
 22 stars per week over 119 weeks  
-2,693 stars, 567 forks, 84 watches  
+2,732 stars, 570 forks, 86 watches  
 created 2020-10-25, last commit 2023-02-07, main language Python  
 <sub><sup>openai, python</sup></sub>
 
@@ -645,8 +655,8 @@ created 2015-01-04, last commit 2022-12-19, main language Python
 flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.  
 [https://flake8.pycqa.org](https://flake8.pycqa.org)  
 [https://github.com/pycqa/flake8](https://github.com/pycqa/flake8)  
-5.99 stars per week over 438 weeks  
-2,629 stars, 271 forks, 34 watches  
+5.99 stars per week over 439 weeks  
+2,630 stars, 271 forks, 34 watches  
 created 2014-09-13, last commit 2023-02-07, main language Python  
 <sub><sup>complexity-analysis, flake8, linter, linter-flake8, pep8, python, python3, static-analysis, static-code-analysis, style-guide, styleguide, stylelint</sup></sub>
 
@@ -655,7 +665,7 @@ created 2014-09-13, last commit 2023-02-07, main language Python
 notifiers: The easy way to send notifications  
 [http://notifiers.readthedocs.io/](http://notifiers.readthedocs.io/)  
 [https://github.com/liiight/notifiers](https://github.com/liiight/notifiers)  
-8.0 stars per week over 297 weeks  
+7.99 stars per week over 297 weeks  
 2,376 stars, 92 forks, 33 watches  
 created 2017-06-01, last commit 2022-07-14, main language Python  
 <sub><sup>notification-service, notifications, notifier, pypi, python, python3</sup></sub>
@@ -666,7 +676,7 @@ pyston: A faster and highly-compatible implementation of the Python programming 
 [https://www.pyston.org/](https://www.pyston.org/)  
 [https://github.com/pyston/pyston](https://github.com/pyston/pyston)  
 22 stars per week over 101 weeks  
-2,320 stars, 84 forks, 32 watches  
+2,321 stars, 84 forks, 32 watches  
 created 2021-03-01, last commit 2022-11-23, main language Python  
 
 
@@ -675,7 +685,7 @@ pycryptodome: A self-contained cryptographic library for Python
 [https://www.pycryptodome.org](https://www.pycryptodome.org)  
 [https://github.com/legrandin/pycryptodome](https://github.com/legrandin/pycryptodome)  
 4.93 stars per week over 458 weeks  
-2,257 stars, 414 forks, 58 watches  
+2,258 stars, 414 forks, 58 watches  
 created 2014-05-02, last commit 2023-01-28, main language C  
 <sub><sup>cryptography, python, security</sup></sub>
 
@@ -684,8 +694,8 @@ created 2014-05-02, last commit 2023-01-28, main language C
 lightning-hydra-template: PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡  
 [https://github.com/ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)  
 18 stars per week over 118 weeks  
-2,228 stars, 382 forks, 22 watches  
-created 2020-11-04, last commit 2023-01-14, main language Python  
+2,231 stars, 382 forks, 22 watches  
+created 2020-11-04, last commit 2023-02-11, main language Python  
 <sub><sup>best-practices, comet, config, deep-learning, hydra, mlflow, mlops, neptune, project-structure, pytorch, pytorch-lightning, reproducibility, template, tensorboard, wandb</sup></sub>
 
 
@@ -702,7 +712,7 @@ created 2022-07-27, last commit 2023-02-10, main language Python
 pyyaml: Canonical source repository for PyYAML  
 [https://github.com/yaml/pyyaml](https://github.com/yaml/pyyaml)  
 3.53 stars per week over 588 weeks  
-2,076 stars, 432 forks, 49 watches  
+2,077 stars, 433 forks, 49 watches  
 created 2011-11-03, last commit 2022-09-13, main language Python  
 <sub><sup>python, yaml</sup></sub>
 
@@ -730,7 +740,7 @@ created 2016-10-14, last commit 2022-10-18, main language Python
 ### [wrapt](https://github.com/grahamdumpleton/wrapt) by [grahamdumpleton](https://github.com/grahamdumpleton)  
 wrapt: A Python module for decorators, wrappers and monkey patching.  
 [https://github.com/grahamdumpleton/wrapt](https://github.com/grahamdumpleton/wrapt)  
-3.58 stars per week over 506 weeks  
+3.57 stars per week over 506 weeks  
 1,810 stars, 209 forks, 45 watches  
 created 2013-05-29, last commit 2023-01-12, main language Python  
 
@@ -740,15 +750,15 @@ camelot: A Python library to extract tabular data from PDFs
 [https://camelot-py.readthedocs.io](https://camelot-py.readthedocs.io)  
 [https://github.com/camelot-dev/camelot](https://github.com/camelot-dev/camelot)  
 9.59 stars per week over 188 weeks  
-1,809 stars, 337 forks, 44 watches  
+1,810 stars, 337 forks, 44 watches  
 created 2019-07-01, last commit 2023-02-07, main language Python  
 
 
 ### [pyparsing](https://github.com/pyparsing/pyparsing)  
 pyparsing: Python library for creating PEG parsers  
 [https://github.com/pyparsing/pyparsing](https://github.com/pyparsing/pyparsing)  
-5.86 stars per week over 299 weeks  
-1,757 stars, 239 forks, 22 watches  
+5.87 stars per week over 299 weeks  
+1,759 stars, 239 forks, 23 watches  
 created 2017-05-14, last commit 2023-01-23, main language Python  
 <sub><sup>parser-combinators, parsing, parsing-expression-grammar, parsing-library, peg-parsers, python, python-2, python-3, python2, python3, text-processing</sup></sub>
 
@@ -757,7 +767,7 @@ created 2017-05-14, last commit 2023-01-23, main language Python
 gin-config: Gin provides a lightweight configuration framework for Python  
 [https://github.com/google/gin-config](https://github.com/google/gin-config)  
 7.25 stars per week over 241 weeks  
-1,749 stars, 108 forks, 23 watches  
+1,750 stars, 108 forks, 23 watches  
 created 2018-06-27, last commit 2022-12-05, main language Python  
 <sub><sup>configuration-management, python, tensorflow, tensorflow-experiments</sup></sub>
 
@@ -766,7 +776,7 @@ created 2018-06-27, last commit 2022-12-05, main language Python
 python-diskcache: Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.  
 [http://www.grantjenks.com/docs/diskcache/](http://www.grantjenks.com/docs/diskcache/)  
 [https://github.com/grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache)  
-4.62 stars per week over 366 weeks  
+4.61 stars per week over 366 weeks  
 1,691 stars, 107 forks, 19 watches  
 created 2016-02-03, last commit 2022-02-20, main language Python  
 <sub><sup>cache, filesystem, key-value-store, persistence, python</sup></sub>
@@ -777,8 +787,8 @@ basic-pitch: A lightweight yet powerful audio-to-MIDI converter with pitch bend 
 [https://basicpitch.io](https://basicpitch.io)  
 [https://github.com/spotify/basic-pitch](https://github.com/spotify/basic-pitch)  
 39 stars per week over 40 weeks  
-1,585 stars, 86 forks, 30 watches  
-created 2022-05-03, last commit 2023-02-07, main language Python  
+1,586 stars, 86 forks, 30 watches  
+created 2022-05-03, last commit 2023-02-10, main language Python  
 <sub><sup>audio, lightweight, machine-learning, midi, music, pitch-detection, polyphonic, python, transcription, typescript</sup></sub>
 
 
@@ -786,7 +796,7 @@ created 2022-05-03, last commit 2023-02-07, main language Python
 Pipe: A Python library to use infix notation in Python  
 [https://github.com/julienpalard/pipe](https://github.com/julienpalard/pipe)  
 2.36 stars per week over 670 weeks  
-1,584 stars, 102 forks, 27 watches  
+1,585 stars, 102 forks, 27 watches  
 created 2010-04-08, last commit 2022-11-16, main language Python  
 
 
@@ -795,7 +805,7 @@ llvmlite: A lightweight LLVM python binding for writing JIT compilers
 [http://llvmlite.pydata.org/](http://llvmlite.pydata.org/)  
 [https://github.com/numba/llvmlite](https://github.com/numba/llvmlite)  
 3.5 stars per week over 444 weeks  
-1,553 stars, 294 forks, 53 watches  
+1,554 stars, 294 forks, 53 watches  
 created 2014-08-07, last commit 2023-02-06, main language Python  
 
 
@@ -810,7 +820,7 @@ created 2018-03-13, last commit 2022-11-04, main language Python
 ### [python-lambda](https://github.com/nficano/python-lambda) by [nficano](https://github.com/nficano)  
 python-lambda:  A toolkit for developing and deploying serverless Python code in AWS Lambda.   
 [https://github.com/nficano/python-lambda](https://github.com/nficano/python-lambda)  
-3.93 stars per week over 363 weeks  
+3.92 stars per week over 363 weeks  
 1,425 stars, 228 forks, 32 watches  
 created 2016-02-26, last commit 2022-06-03, main language Python  
 <sub><sup>aws, aws-lambda, microservices, python, serverless</sup></sub>
@@ -829,8 +839,8 @@ created 2018-09-03, last commit 2022-12-20, main language Python
 imageio: Python library for reading and writing image data  
 [https://imageio.readthedocs.io](https://imageio.readthedocs.io)  
 [https://github.com/imageio/imageio](https://github.com/imageio/imageio)  
-2.35 stars per week over 509 weeks  
-1,197 stars, 244 forks, 31 watches  
+2.35 stars per week over 510 weeks  
+1,198 stars, 244 forks, 31 watches  
 created 2013-05-04, last commit 2023-02-07, main language Python  
 <sub><sup>animated-gif, dicom, imageio, python, scientific-formats, video, webcam-capture</sup></sub>
 
@@ -839,7 +849,7 @@ created 2013-05-04, last commit 2023-02-07, main language Python
 Pygments is a generic syntax highlighter written in Python  
 [http://pygments.org/](http://pygments.org/)  
 [https://github.com/pygments/pygments](https://github.com/pygments/pygments)  
-6.64 stars per week over 179 weeks  
+6.64 stars per week over 180 weeks  
 1,195 stars, 503 forks, 32 watches  
 created 2019-08-31, last commit 2023-02-03, main language Python  
 <sub><sup>python, syntax-highlighting</sup></sub>
@@ -849,7 +859,7 @@ created 2019-08-31, last commit 2023-02-03, main language Python
 opentelemetry-python: OpenTelemetry Python API and SDK   
 [https://opentelemetry.io](https://opentelemetry.io)  
 [https://github.com/open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)  
-5.97 stars per week over 196 weeks  
+5.96 stars per week over 196 weeks  
 1,172 stars, 425 forks, 34 watches  
 created 2019-05-07, last commit 2023-02-06, main language Python  
 <sub><sup>correlationcontext, distributed-tracing, logging, metrics, opentelemetry, python, sdk, tracecontext</sup></sub>
@@ -858,7 +868,7 @@ created 2019-05-07, last commit 2023-02-06, main language Python
 ### [criticality_score](https://github.com/ossf/criticality_score) by [ossf](https://github.com/ossf)  
 criticality_score: Gives criticality score for an open source project  
 [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)  
-9.77 stars per week over 116 weeks  
+9.76 stars per week over 116 weeks  
 1,138 stars, 86 forks, 31 watches  
 created 2020-11-17, last commit 2023-02-08, main language Go  
 
@@ -867,7 +877,7 @@ created 2020-11-17, last commit 2023-02-08, main language Go
 Coercer: A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.  
 [https://podalirius.net/](https://podalirius.net/)  
 [https://github.com/p0dalirius/coercer](https://github.com/p0dalirius/coercer)  
-34 stars per week over 32 weeks  
+33 stars per week over 32 weeks  
 1,097 stars, 119 forks, 17 watches  
 created 2022-06-30, last commit 2023-01-18, main language Python  
 <sub><sup>authentication, automatic, call, coerce, fuzzing, ntlm, privilege-escalation, rpc</sup></sub>
@@ -876,8 +886,8 @@ created 2022-06-30, last commit 2023-01-18, main language Python
 ### [dataclasses-json](https://github.com/lidatong/dataclasses-json) by [lidatong](https://github.com/lidatong)  
 dataclasses-json: Easily serialize Data Classes to and from JSON  
 [https://github.com/lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json)  
-4.25 stars per week over 250 weeks  
-1,065 stars, 118 forks, 10 watches  
+4.25 stars per week over 251 weeks  
+1,066 stars, 118 forks, 10 watches  
 created 2018-04-21, last commit 2022-08-14, main language Python  
 <sub><sup>dataclasses, json, python</sup></sub>
 
@@ -895,16 +905,16 @@ created 2017-06-12, last commit 2021-03-17, main language Python
 ### [python-patterns](https://github.com/brandon-rhodes/python-patterns) by [brandon-rhodes](https://github.com/brandon-rhodes)  
 python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes  
 [https://github.com/brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns)  
-3.85 stars per week over 262 weeks  
-1,011 stars, 93 forks, 253 watches  
+3.86 stars per week over 262 weeks  
+1,012 stars, 94 forks, 253 watches  
 created 2018-01-31, last commit 2021-01-05, main language Python  
 
 
 ### [bcrypt](https://github.com/pyca/bcrypt) by [pyca](https://github.com/pyca)  
 bcrypt: Modern(-ish) password hashing for your software and your servers  
 [https://github.com/pyca/bcrypt](https://github.com/pyca/bcrypt)  
-1.9 stars per week over 508 weeks  
-965 stars, 135 forks, 28 watches  
+1.9 stars per week over 509 weeks  
+966 stars, 135 forks, 28 watches  
 created 2013-05-11, last commit 2023-02-06, main language Python  
 <sub><sup>python</sup></sub>
 
@@ -914,7 +924,7 @@ pynacl: Python binding to the Networking and Cryptography (NaCl) library
 [https://pynacl.readthedocs.io/](https://pynacl.readthedocs.io/)  
 [https://github.com/pyca/pynacl](https://github.com/pyca/pynacl)  
 1.81 stars per week over 520 weeks  
-943 stars, 219 forks, 27 watches  
+942 stars, 219 forks, 27 watches  
 created 2013-02-22, last commit 2023-01-19, main language C  
 <sub><sup>cryptography, libsodium, nacl, python</sup></sub>
 
@@ -924,9 +934,18 @@ pdoc:  :snake: :arrow_right: :scroll:  Auto-generate API documentation for Pytho
 [https://pdoc3.github.io/pdoc/](https://pdoc3.github.io/pdoc/)  
 [https://github.com/pdoc3/pdoc](https://github.com/pdoc3/pdoc)  
 4.35 stars per week over 214 weeks  
-932 stars, 136 forks, 9 watches  
+933 stars, 136 forks, 9 watches  
 created 2019-01-02, last commit 2022-12-21, main language Python  
 <sub><sup>api-documentation, docs, docs-generator, docstring, docstring-documentation, docstrings, documentation, documentation-dumper, documentation-generator, documentation-tool, generator, hacktoberfest, pdoc, python, python3</sup></sub>
+
+
+### [python-benedict](https://github.com/fabiocaccamo/python-benedict) by [fabiocaccamo](https://github.com/fabiocaccamo)  
+python-benedict: :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.  
+[https://github.com/fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict)  
+4.7 stars per week over 195 weeks  
+918 stars, 41 forks, 11 watches  
+created 2019-05-17, last commit 2023-02-09, main language Python  
+<sub><sup>base64, csv, decode, dict, dictionary, encode, filter, flatten, json, keypath, pickle, plist, python, query-string, subset, toml, traverse, xls, xml, yaml</sup></sub>
 
 
 ### [cytoolz](https://github.com/pytoolz/cytoolz) by [pytoolz](https://github.com/pytoolz)  
@@ -952,7 +971,7 @@ python-progressbar: Progressbar 2 - A progress bar for Python 2 and Python 3 - "
 [http://progressbar-2.readthedocs.org/en/latest/](http://progressbar-2.readthedocs.org/en/latest/)  
 [https://github.com/wolph/python-progressbar](https://github.com/wolph/python-progressbar)  
 1.4 stars per week over 572 weeks  
-800 stars, 95 forks, 22 watches  
+801 stars, 95 forks, 22 watches  
 created 2012-02-20, last commit 2023-02-02, main language Python  
 <sub><sup>bar, cli, console, eta, gui, library, percentage, progress, progress-bar, progressbar, python, rate, terminal, time</sup></sub>
 
@@ -1011,7 +1030,7 @@ s3fs: S3 Filesystem
 [http://s3fs.readthedocs.io/en/latest/](http://s3fs.readthedocs.io/en/latest/)  
 [https://github.com/fsspec/s3fs](https://github.com/fsspec/s3fs)  
 1.76 stars per week over 360 weeks  
-634 stars, 216 forks, 22 watches  
+635 stars, 216 forks, 22 watches  
 created 2016-03-16, last commit 2023-02-02, main language Python  
 <sub><sup>hacktoberfest</sup></sub>
 
@@ -1019,8 +1038,8 @@ created 2016-03-16, last commit 2023-02-02, main language Python
 ### [algo-trader](https://github.com/idanya/algo-trader) by [idanya](https://github.com/idanya)  
 algo-trader: Trading bot with support for realtime trading, backtesting, custom strategies and much more.  
 [https://github.com/idanya/algo-trader](https://github.com/idanya/algo-trader)  
-8.59 stars per week over 73 weeks  
-631 stars, 67 forks, 22 watches  
+8.56 stars per week over 73 weeks  
+630 stars, 67 forks, 22 watches  
 created 2021-09-14, last commit 2023-01-20, main language Python  
 <sub><sup>algorithmic-trading, backtesting, crypto-bot, python, technical-analysis, trading-bot, trading-strategies</sup></sub>
 
@@ -1074,7 +1093,7 @@ created 2013-08-27, last commit 2022-12-27, main language Python
 ghapi: A delightful and complete interface to GitHub's amazing API  
 [https://ghapi.fast.ai/](https://ghapi.fast.ai/)  
 [https://github.com/fastai/ghapi](https://github.com/fastai/ghapi)  
-3.75 stars per week over 115 weeks  
+3.74 stars per week over 116 weeks  
 434 stars, 45 forks, 8 watches  
 created 2020-11-21, last commit 2022-09-27, main language Jupyter Notebook  
 <sub><sup>api-client, github, github-api, nbdev, openapi</sup></sub>
@@ -1083,7 +1102,7 @@ created 2020-11-21, last commit 2022-09-27, main language Jupyter Notebook
 ### [terminal-copilot](https://github.com/methexis-inc/terminal-copilot) by [methexis-inc](https://github.com/methexis-inc)  
 terminal-copilot: A smart terminal assistant that helps you find the right command.  
 [https://github.com/methexis-inc/terminal-copilot](https://github.com/methexis-inc/terminal-copilot)  
-49 stars per week over 8 weeks  
+48 stars per week over 8 weeks  
 428 stars, 23 forks, 6 watches  
 created 2022-12-11, last commit 2023-01-25, main language Python  
 
@@ -1100,7 +1119,7 @@ created 2019-11-08, last commit 2023-02-10, main language Python
 ### [File-Injector](https://github.com/carlospuenteg/file-injector) by [carlospuenteg](https://github.com/carlospuenteg)  
 File-Injector: File Injector is a script that allows you to store any file in an image using steganography  
 [https://github.com/carlospuenteg/file-injector](https://github.com/carlospuenteg/file-injector)  
-24 stars per week over 15 weeks  
+24 stars per week over 16 weeks  
 392 stars, 19 forks, 6 watches  
 created 2022-10-22, last commit 2022-11-18, main language Python  
 <sub><sup>extraction, file, file-injection, file-injector, files, image, image-manipulation, image-processing, injection, noise, numpy, photography, python, python3, steganography, storage</sup></sub>
@@ -1111,7 +1130,7 @@ gefyra: Blazingly-fast :rocket:, rock-solid, local application development :arro
 [https://gefyra.dev](https://gefyra.dev)  
 [https://github.com/gefyrahq/gefyra](https://github.com/gefyrahq/gefyra)  
 6.05 stars per week over 64 weeks  
-388 stars, 22 forks, 5 watches  
+389 stars, 22 forks, 5 watches  
 created 2021-11-18, last commit 2023-02-09, main language Python  
 <sub><sup>coding, containers, developer-tool, development, docker, k8s, kubernetes, tunnel</sup></sub>
 
@@ -1130,8 +1149,8 @@ created 2016-08-04, last commit 2022-12-10, main language Python
 pypy: The unofficial GitHub mirror of PyPy  
 [https://foss.heptapod.net/pypy/pypy](https://foss.heptapod.net/pypy/pypy)  
 [https://github.com/mozillazg/pypy](https://github.com/mozillazg/pypy)  
-0.93 stars per week over 392 weeks  
-367 stars, 59 forks, 11 watches  
+0.94 stars per week over 392 weeks  
+368 stars, 59 forks, 11 watches  
 created 2015-08-03, last commit 2023-01-28, main language Python  
 <sub><sup>github-mirror, pypy, read-only-repository, readonly, unofficial, unofficial-mirror</sup></sub>
 
@@ -1139,7 +1158,7 @@ created 2015-08-03, last commit 2023-01-28, main language Python
 ### [pypinfo](https://github.com/ofek/pypinfo) by [ofek](https://github.com/ofek)  
 pypinfo: Easily view PyPI download statistics via Google's BigQuery.  
 [https://github.com/ofek/pypinfo](https://github.com/ofek/pypinfo)  
-1.18 stars per week over 299 weeks  
+1.18 stars per week over 300 weeks  
 355 stars, 31 forks, 14 watches  
 created 2017-05-13, last commit 2022-11-30, main language Python  
 <sub><sup>bigquery, pypi, python, statistics</sup></sub>
@@ -1148,8 +1167,8 @@ created 2017-05-13, last commit 2022-11-30, main language Python
 ### [axcell](https://github.com/paperswithcode/axcell) by [paperswithcode](https://github.com/paperswithcode)  
 axcell: Tools for extracting tables and results from Machine Learning papers  
 [https://github.com/paperswithcode/axcell](https://github.com/paperswithcode/axcell)  
-1.83 stars per week over 189 weeks  
-347 stars, 55 forks, 13 watches  
+1.84 stars per week over 189 weeks  
+348 stars, 55 forks, 13 watches  
 created 2019-06-27, last commit 2021-06-23, main language Python  
 
 
@@ -1157,7 +1176,7 @@ created 2019-06-27, last commit 2021-06-23, main language Python
 python-bibtexparser: Bibtex parser for Python 3  
 [https://bibtexparser.readthedocs.io](https://bibtexparser.readthedocs.io)  
 [https://github.com/sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser)  
-0.64 stars per week over 526 weeks  
+0.64 stars per week over 527 weeks  
 337 stars, 118 forks, 16 watches  
 created 2013-01-05, last commit 2023-01-03, main language Python  
 <sub><sup>bibtex, bibtex-files, hacktoberfest2022, latex, python</sup></sub>
@@ -1166,7 +1185,7 @@ created 2013-01-05, last commit 2023-01-03, main language Python
 ### [aws-adfs](https://github.com/venth/aws-adfs) by [venth](https://github.com/venth)  
 aws-adfs: Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)  
 [https://github.com/venth/aws-adfs](https://github.com/venth/aws-adfs)  
-0.81 stars per week over 345 weeks  
+0.81 stars per week over 346 weeks  
 280 stars, 92 forks, 11 watches  
 created 2016-06-25, last commit 2022-12-14, main language Python  
 <sub><sup>adfs, aws, command-line, duo-security, multi-factor-authentication, python, tools</sup></sub>
@@ -1193,7 +1212,7 @@ created 2021-05-27, last commit 2021-05-28, main language Python
 ### [ottr](https://github.com/airbnb/ottr) by [airbnb](https://github.com/airbnb)  
 ottr: Serverless Public Key Infrastructure Framework  
 [https://github.com/airbnb/ottr](https://github.com/airbnb/ottr)  
-3.41 stars per week over 76 weeks  
+3.4 stars per week over 76 weeks  
 259 stars, 28 forks, 8 watches  
 created 2021-08-27, last commit 2022-01-04, main language Python  
 
@@ -1202,7 +1221,7 @@ created 2021-08-27, last commit 2022-01-04, main language Python
 apilogs: Easy logging and debugging for Amazon API Gateway and AWS Lambda Serverless APIs  
 [https://github.com/rpgreen/apilogs](https://github.com/rpgreen/apilogs)  
 0.74 stars per week over 335 weeks  
-248 stars, 19 forks, 9 watches  
+249 stars, 19 forks, 9 watches  
 created 2016-09-07, last commit 2019-11-13, main language Python  
 <sub><sup>api, api-gateway, aws, aws-apigateway, aws-lambda, cloudwatch-logs, gateway, lambda, logging</sup></sub>
 
@@ -1223,6 +1242,15 @@ aws/aws-lambda-python-runtime-interface-client
 created 2020-09-02, last commit 2022-08-16, main language Python  
 
 
+### [pyglove](https://github.com/google/pyglove) by [google](https://github.com/google)  
+pyglove: Manipulating Python Programs  
+[https://github.com/google/pyglove](https://github.com/google/pyglove)  
+4.33 stars per week over 39 weeks  
+170 stars, 7 forks, 5 watches  
+created 2022-05-12, last commit 2023-02-08, main language Python  
+<sub><sup>automl, evolution, machine-learning, manipulation, meta-learning, meta-programming, python, symbolic-programming</sup></sub>
+
+
 ### [tket](https://github.com/cqcl/tket) by [cqcl](https://github.com/cqcl)  
 tket: Source code for the TKET quantum compiler, Python bindings and utilities  
 [https://github.com/cqcl/tket](https://github.com/cqcl/tket)  
@@ -1232,29 +1260,29 @@ created 2021-09-13, last commit 2023-02-06, main language C++
 <sub><sup>compiler, quantum-computing</sup></sub>
 
 
-### [pyscript-cli](https://github.com/pyscript/pyscript-cli) by [pyscript](https://github.com/pyscript)  
-pyscript-cli: A CLI for PyScript  
-[https://github.com/pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli)  
-3.54 stars per week over 40 weeks  
-144 stars, 14 forks, 11 watches  
-created 2022-05-01, last commit 2023-02-09, main language Python  
-
-
 ### [pypistats](https://github.com/hugovk/pypistats) by [hugovk](https://github.com/hugovk)  
 pypistats: Command-line interface to PyPI Stats API to get download stats for Python packages  
 [https://pypistats.org/api/](https://pypistats.org/api/)  
 [https://github.com/hugovk/pypistats](https://github.com/hugovk/pypistats)  
-0.63 stars per week over 228 weeks  
+0.63 stars per week over 229 weeks  
 144 stars, 25 forks, 4 watches  
 created 2018-09-22, last commit 2023-02-06, main language Python  
 <sub><sup>api, cli, command-line, command-line-tool, downloads, hacktoberfest, pypi, python, python3, statistics, stats</sup></sub>
+
+
+### [pyscript-cli](https://github.com/pyscript/pyscript-cli) by [pyscript](https://github.com/pyscript)  
+pyscript-cli: A CLI for PyScript  
+[https://github.com/pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli)  
+3.52 stars per week over 40 weeks  
+144 stars, 14 forks, 11 watches  
+created 2022-05-01, last commit 2023-02-09, main language Python  
 
 
 ### [jsontopydantic](https://github.com/brokenloop/jsontopydantic) by [brokenloop](https://github.com/brokenloop)  
 jsontopydantic: Web tool for generating Pydantic models from JSON objects  
 [https://jsontopydantic.com](https://jsontopydantic.com)  
 [https://github.com/brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic)  
-1.22 stars per week over 114 weeks  
+1.22 stars per week over 115 weeks  
 140 stars, 8 forks, 3 watches  
 created 2020-11-28, last commit 2022-05-13, main language TypeScript  
 
@@ -1278,7 +1306,7 @@ created 2021-11-21, last commit 2021-11-27, main language Python
 ### [sagemaker-ssh-helper](https://github.com/aws-samples/sagemaker-ssh-helper) by [aws-samples](https://github.com/aws-samples)  
 sagemaker-ssh-helper: A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH  
 [https://github.com/aws-samples/sagemaker-ssh-helper](https://github.com/aws-samples/sagemaker-ssh-helper)  
-4.06 stars per week over 17 weeks  
+4.03 stars per week over 17 weeks  
 69 stars, 9 forks, 7 watches  
 created 2022-10-14, last commit 2023-01-20, main language Python  
 <sub><sup>amazon-sagemaker, aws, aws-systems-manager, machine-learning, pycharm, sagemaker, sagemaker-studio, ssh, vscode</sup></sub>
@@ -1314,16 +1342,6 @@ created 2013-08-20, last commit 2023-02-01, main language Python
 <sub><sup>csv, data-mapping, data-structures, de-serialize, json, msgpack, python, serialize, validation, xml, yaml</sup></sub>
 
 
-### [micropip](https://github.com/pyodide/micropip) by [pyodide](https://github.com/pyodide)  
-micropip: A lightweight Python package installer for Pyodide  
-[https://micropip.pyodide.org](https://micropip.pyodide.org)  
-[https://github.com/pyodide/micropip](https://github.com/pyodide/micropip)  
-0.76 stars per week over 21 weeks  
-16 stars, 5 forks, 5 watches  
-created 2022-09-15, last commit 2023-01-30, main language Python  
-<sub><sup>package-installer, pyodide, python, webassembly</sup></sub>
-
-
 ### [arxiv-dl](https://github.com/markhershey/arxiv-dl) by [markhershey](https://github.com/markhershey)  
 arxiv-dl: Command-line ArXiv & CVF (CVPR, ICCV, WACV) Paper Downloader  
 [https://pypi.org/project/arxiv-dl/](https://pypi.org/project/arxiv-dl/)  
@@ -1334,7 +1352,17 @@ created 2021-01-21, last commit 2023-01-30, main language Python
 <sub><sup>arxiv, command-line-tool, cvpr, downloader, paper, paper-with-code</sup></sub>
 
 
-This file was automatically generated on 2023-02-10.  
+### [micropip](https://github.com/pyodide/micropip) by [pyodide](https://github.com/pyodide)  
+micropip: A lightweight Python package installer for Pyodide  
+[https://micropip.pyodide.org](https://micropip.pyodide.org)  
+[https://github.com/pyodide/micropip](https://github.com/pyodide/micropip)  
+0.75 stars per week over 21 weeks  
+16 stars, 5 forks, 5 watches  
+created 2022-09-15, last commit 2023-01-30, main language Python  
+<sub><sup>package-installer, pyodide, python, webassembly</sup></sub>
+
+
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

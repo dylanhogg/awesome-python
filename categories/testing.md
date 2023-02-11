@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 locust: Scalable load testing tool written in Python  
 [https://github.com/locustio/locust](https://github.com/locustio/locust)  
 33 stars per week over 625 weeks  
-20,654 stars, 2,627 forks, 432 watches  
+20,655 stars, 2,628 forks, 432 watches  
 created 2011-02-17, last commit 2023-01-29, main language Python  
 <sub><sup>benchmarking, http, load-generator, load-testing, locust, performance-testing, python</sup></sub>
 
@@ -19,8 +19,8 @@ pytest: The pytest framework makes it easy to write small tests, yet scales to s
 [https://pytest.org](https://pytest.org)  
 [https://github.com/pytest-dev/pytest](https://github.com/pytest-dev/pytest)  
 24 stars per week over 399 weeks  
-9,775 stars, 2,239 forks, 195 watches  
-created 2015-06-15, last commit 2023-02-07, main language Python  
+9,781 stars, 2,240 forks, 195 watches  
+created 2015-06-15, last commit 2023-02-10, main language Python  
 <sub><sup>hacktoberfest, python, test, testing, unit-testing</sup></sub>
 
 
@@ -29,8 +29,8 @@ robotframework: Generic automation framework for acceptance testing and RPA
 [http://robotframework.org](http://robotframework.org)  
 [https://github.com/robotframework/robotframework](https://github.com/robotframework/robotframework)  
 17 stars per week over 450 weeks  
-7,751 stars, 2,070 forks, 476 watches  
-created 2014-06-27, last commit 2023-02-09, main language Python  
+7,751 stars, 2,072 forks, 476 watches  
+created 2014-06-27, last commit 2023-02-10, main language Python  
 <sub><sup>attd, automation, bdd, python, robotframework, rpa, testautomation, testing</sup></sub>
 
 
@@ -57,7 +57,7 @@ created 2010-06-29, last commit 2017-12-20, main language Python
 freezegun: Let your Python tests travel through time  
 [https://github.com/spulec/freezegun](https://github.com/spulec/freezegun)  
 6.72 stars per week over 530 weeks  
-3,564 stars, 246 forks, 32 watches  
+3,567 stars, 246 forks, 32 watches  
 created 2012-12-11, last commit 2023-02-09, main language Python  
 
 
@@ -65,8 +65,8 @@ created 2012-12-11, last commit 2023-02-09, main language Python
 tox: Command line driven CI frontend and development task automation tool.  
 [https://tox.wiki](https://tox.wiki)  
 [https://github.com/tox-dev/tox](https://github.com/tox-dev/tox)  
-9.5 stars per week over 333 weeks  
-3,172 stars, 462 forks, 41 watches  
+9.51 stars per week over 334 weeks  
+3,175 stars, 462 forks, 41 watches  
 created 2016-09-17, last commit 2023-02-08, main language Python  
 <sub><sup>actions, appveyor, automation, azure-pipelines, circleci, cli, continuous-integration, gitlab, hacktoberfest, pep-621, python, testing, travis, venv, virtualenv</sup></sub>
 
@@ -93,7 +93,7 @@ created 2011-10-25, last commit 2022-12-19, main language Python
 coveragepy: The code coverage tool for Python  
 [https://coverage.readthedocs.io](https://coverage.readthedocs.io)  
 [https://github.com/nedbat/coveragepy](https://github.com/nedbat/coveragepy)  
-9.86 stars per week over 241 weeks  
+9.86 stars per week over 242 weeks  
 2,385 stars, 341 forks, 27 watches  
 created 2018-06-23, last commit 2023-02-09, main language Python  
 
@@ -112,7 +112,7 @@ created 2015-03-15, last commit 2023-01-11, main language Python
 pytest-mock: Thin-wrapper around the mock package for easier use with pytest  
 [https://pytest-mock.readthedocs.io/en/latest/](https://pytest-mock.readthedocs.io/en/latest/)  
 [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)  
-3.41 stars per week over 447 weeks  
+3.4 stars per week over 447 weeks  
 1,523 stars, 120 forks, 33 watches  
 created 2014-07-17, last commit 2023-02-09, main language Python  
 <sub><sup>hacktoberfest, mock, pytest</sup></sub>
@@ -122,7 +122,7 @@ created 2014-07-17, last commit 2023-02-09, main language Python
 pytest-cov: Coverage plugin for pytest.  
 [https://github.com/pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)  
 3.01 stars per week over 460 weeks  
-1,387 stars, 191 forks, 34 watches  
+1,386 stars, 191 forks, 34 watches  
 created 2014-04-17, last commit 2022-12-03, main language Python  
 <sub><sup>pytest, python</sup></sub>
 
@@ -140,8 +140,8 @@ created 2013-03-29, last commit 2023-02-06, main language Python
 pytest-asyncio: Asyncio support for pytest  
 [https://pytest-asyncio.readthedocs.io](https://pytest-asyncio.readthedocs.io)  
 [https://github.com/pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)  
-2.67 stars per week over 408 weeks  
-1,092 stars, 118 forks, 34 watches  
+2.67 stars per week over 409 weeks  
+1,094 stars, 118 forks, 34 watches  
 created 2015-04-11, last commit 2023-02-09, main language Python  
 
 
@@ -150,7 +150,7 @@ pytest-xdist: pytest plugin for distributed testing and loop-on-failures testing
 [https://pytest-xdist.readthedocs.io](https://pytest-xdist.readthedocs.io)  
 [https://github.com/pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist)  
 2.78 stars per week over 388 weeks  
-1,081 stars, 192 forks, 47 watches  
+1,082 stars, 192 forks, 47 watches  
 created 2015-09-01, last commit 2023-02-07, main language Python  
 <sub><sup>hacktoberfest, pytest, pytest-plugin</sup></sub>
 
@@ -168,7 +168,7 @@ created 2013-06-25, last commit 2022-12-11, main language Python
 tavern: A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
 [https://taverntesting.github.io/](https://taverntesting.github.io/)  
 [https://github.com/taverntesting/tavern](https://github.com/taverntesting/tavern)  
-3.31 stars per week over 275 weeks  
+3.3 stars per week over 275 weeks  
 910 stars, 181 forks, 28 watches  
 created 2017-11-01, last commit 2023-02-10, main language Python  
 <sub><sup>http, mqtt, pytest, python, test-automation, testing</sup></sub>
@@ -177,12 +177,12 @@ created 2017-11-01, last commit 2023-02-10, main language Python
 ### [parameterized](https://github.com/wolever/parameterized) by [wolever](https://github.com/wolever)  
 Parameterized testing with any Python test framework  
 [https://github.com/wolever/parameterized](https://github.com/wolever/parameterized)  
-1.26 stars per week over 569 weeks  
+1.26 stars per week over 570 weeks  
 719 stars, 95 forks, 18 watches  
 created 2012-03-10, last commit 2021-01-09, main language Python  
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

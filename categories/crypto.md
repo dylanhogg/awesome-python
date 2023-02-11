@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 ccxt: A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
 [https://github.com/ccxt/ccxt](https://github.com/ccxt/ccxt)  
 90 stars per week over 299 weeks  
-27,146 stars, 6,644 forks, 936 watches  
+27,153 stars, 6,650 forks, 936 watches  
 created 2017-05-14, last commit 2023-02-10, main language JavaScript  
 <sub><sup>altcoin, api, arbitrage, bitcoin, bot, btc, crypto, cryptocurrency, e-commerce, eth, ethereum, exchange, invest, library, market-data, merchant, strategy, trade, trading</sup></sub>
 
@@ -19,7 +19,7 @@ freqtrade: Free, open source crypto trading bot
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 69 stars per week over 299 weeks  
-20,692 stars, 4,434 forks, 598 watches  
+20,696 stars, 4,436 forks, 598 watches  
 created 2017-05-17, last commit 2023-02-10, main language Python  
 <sub><sup>algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency, freqtrade, python, telegram-bot, trade, trading-bot</sup></sub>
 
@@ -29,7 +29,7 @@ web3.py: A python interface for interacting with the Ethereum blockchain and eco
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
 11 stars per week over 356 weeks  
-4,013 stars, 1,278 forks, 118 watches  
+4,013 stars, 1,280 forks, 118 watches  
 created 2016-04-14, last commit 2023-02-09, main language Python  
 
 
@@ -38,7 +38,7 @@ slither: Static Analyzer for Solidity
 [https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)  
 [https://github.com/crytic/slither](https://github.com/crytic/slither)  
 16 stars per week over 231 weeks  
-3,779 stars, 690 forks, 61 watches  
+3,781 stars, 690 forks, 61 watches  
 created 2018-09-05, last commit 2023-01-11, main language Python  
 <sub><sup>ethereum, solidity, static-analysis</sup></sub>
 
@@ -46,8 +46,8 @@ created 2018-09-05, last commit 2023-01-11, main language Python
 ### [Binance-volatility-trading-bot](https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot) by [cyberpunkmetalhead](https://github.com/cyberpunkmetalhead)  
 Binance-volatility-trading-bot: This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
 [https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot](https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot)  
-35 stars per week over 91 weeks  
-3,232 stars, 759 forks, 145 watches  
+35 stars per week over 92 weeks  
+3,231 stars, 759 forks, 145 watches  
 created 2021-05-08, last commit 2021-06-10, main language Python  
 
 
@@ -55,7 +55,7 @@ created 2021-05-08, last commit 2021-06-10, main language Python
 consensus-specs: Ethereum Proof-of-Stake Consensus Specifications  
 [https://github.com/ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)  
 13 stars per week over 229 weeks  
-3,042 stars, 780 forks, 246 watches  
+3,044 stars, 780 forks, 246 watches  
 created 2018-09-20, last commit 2023-02-09, main language Python  
 
 
@@ -63,7 +63,7 @@ created 2018-09-20, last commit 2023-02-09, main language Python
 py-evm: A Python implementation of the Ethereum Virtual Machine  
 [https://py-evm.readthedocs.io/en/latest/](https://py-evm.readthedocs.io/en/latest/)  
 [https://github.com/ethereum/py-evm](https://github.com/ethereum/py-evm)  
-6.01 stars per week over 319 weeks  
+6.0 stars per week over 319 weeks  
 1,919 stars, 578 forks, 98 watches  
 created 2016-12-27, last commit 2022-12-16, main language Python  
 <sub><sup>ethereum, ethereum-virtual-machine, evm, python</sup></sub>
@@ -72,8 +72,8 @@ created 2016-12-27, last commit 2022-12-16, main language Python
 ### [cryptofeed](https://github.com/bmoscon/cryptofeed) by [bmoscon](https://github.com/bmoscon)  
 cryptofeed: Cryptocurrency Exchange Websocket Data Feed Handler  
 [https://github.com/bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed)  
-6.17 stars per week over 268 weeks  
-1,658 stars, 534 forks, 75 watches  
+6.17 stars per week over 269 weeks  
+1,659 stars, 535 forks, 75 watches  
 created 2017-12-16, last commit 2023-02-06, main language Python  
 <sub><sup>asyncio, binance, bitcoin, btc, coinbase, coinbase-api, crypto, cryptocurrencies, cryptocurrency, ethereum, exchange, ftx-exchange, influxdb, market-data, python, trading, trading-platform, websocket, websockets</sup></sub>
 
@@ -92,7 +92,7 @@ created 2021-03-09, last commit 2023-02-02, main language Python
 Bitcoin made easy.  
 [https://ofek.dev/bit/](https://ofek.dev/bit/)  
 [https://github.com/ofek/bit](https://github.com/ofek/bit)  
-3.46 stars per week over 325 weeks  
+3.46 stars per week over 326 weeks  
 1,127 stars, 188 forks, 48 watches  
 created 2016-11-12, last commit 2021-12-04, main language Python  
 <sub><sup>bitcoin, cryptocurrencies, libraries, payments, python</sup></sub>
@@ -102,7 +102,7 @@ created 2016-11-12, last commit 2021-12-04, main language Python
 pycoingecko: Python wrapper for the CoinGecko API  
 [https://github.com/man-c/pycoingecko](https://github.com/man-c/pycoingecko)  
 4.11 stars per week over 233 weeks  
-958 stars, 255 forks, 32 watches  
+959 stars, 255 forks, 33 watches  
 created 2018-08-24, last commit 2022-10-26, main language Python  
 <sub><sup>api, api-wrapper, coingecko, crypto, cryptocurrency, nft, nfts, python, python3, wrapper</sup></sub>
 
@@ -119,7 +119,7 @@ created 2018-01-23, last commit 2022-12-08, main language Python
 ### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
 panoramix: Ethereum decompiler  
 [https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
-3.55 stars per week over 155 weeks  
+3.54 stars per week over 155 weeks  
 552 stars, 149 forks, 31 watches  
 created 2020-02-17, last commit 2020-08-22, main language Python  
 
@@ -128,7 +128,7 @@ created 2020-02-17, last commit 2020-08-22, main language Python
 ethtx: Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/ethtx/ethtx](https://github.com/ethtx/ethtx)  
-4.78 stars per week over 84 weeks  
+4.77 stars per week over 84 weeks  
 404 stars, 62 forks, 16 watches  
 created 2021-06-28, last commit 2022-12-01, main language Python  
 
@@ -175,12 +175,12 @@ created 2021-09-27, last commit 2022-12-10, main language Python
 ### [ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm) by [nerolation](https://github.com/nerolation)  
 ethereum-datafarm: Scrap blockchain data from the public API of Etherscan.io  
 [https://github.com/nerolation/ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm)  
-0.43 stars per week over 99 weeks  
+0.43 stars per week over 100 weeks  
 43 stars, 10 forks, 1 watches  
 created 2021-03-13, last commit 2023-01-21, main language Python  
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

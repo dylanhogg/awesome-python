@@ -10,8 +10,8 @@ networkx: Network Analysis in Python
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
 18 stars per week over 648 weeks  
-12,202 stars, 2,834 forks, 280 watches  
-created 2010-09-06, last commit 2023-02-08, main language Python  
+12,207 stars, 2,834 forks, 280 watches  
+created 2010-09-06, last commit 2023-02-10, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
 
@@ -20,7 +20,7 @@ StellarGraph - Machine Learning on Graphs
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
 [https://github.com/stellargraph/stellargraph](https://github.com/stellargraph/stellargraph)  
 10 stars per week over 252 weeks  
-2,619 stars, 401 forks, 62 watches  
+2,619 stars, 400 forks, 62 watches  
 created 2018-04-13, last commit 2021-10-29, main language Python  
 <sub><sup>data-science, deep-learning, gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, python, saliency-map, stellargraph-library</sup></sub>
 
@@ -30,8 +30,8 @@ pyvis: Python package for creating and visualizing interactive network graphs.
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 [https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
 2.44 stars per week over 248 weeks  
-605 stars, 114 forks, 15 watches  
-created 2018-05-10, last commit 2022-11-04, main language HTML  
+605 stars, 115 forks, 15 watches  
+created 2018-05-10, last commit 2023-02-10, main language HTML  
 <sub><sup>network-visualization, networkx, python</sup></sub>
 
 
@@ -54,7 +54,7 @@ created 2017-09-27, last commit 2018-12-11, main language Python
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2023-02-10.  
+This file was automatically generated on 2023-02-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
