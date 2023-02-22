@@ -7,10 +7,11 @@ def main():
     # NOTE: csv location can be local file or google spreadsheet, for example:
     #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
     csv_location = env.get("CSV_LOCATION")
-    token = env.get("GITHUB_ACCESS_TOKEN")
+    token_delim = env.get("GITHUB_ACCESS_TOKEN")
+    token_list = token_delim.split("|")
     github_csv_filename = "github_data.csv"
     github_json_filename = "github_data.json"
-    crawler.write_files(csv_location, token, github_csv_filename, github_json_filename)
+    crawler.write_files(csv_location, token_list, github_csv_filename, github_json_filename)
 
     github_tags_json_filename = "github_tags_data.json"
     postprocess.write_tags(github_json_filename, github_tags_json_filename, most_common=200)

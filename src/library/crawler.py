@@ -1,20 +1,21 @@
 import json
 from datetime import datetime
+from typing import List
 from loguru import logger
 from library import render, readme, requirements
 
 
-def write_files(csv_location: str, token: str, output_csv_filename: str, output_json_filename: str):
+def write_files(csv_location: str, token_list: List[str], output_csv_filename: str, output_json_filename: str):
     start = datetime.now()
 
     # Read GitHub urls from google docs
     df_input = render.get_input_data(csv_location)
     # df_input = df_input.head(3)  # Testing
-    # df_input = df_input.iloc[9:13]  # Testing
+    # df_input = df_input.iloc[9:11]  # Testing
 
     # Augment repo name with metadata from GitHub
-    logger.info(f"Processing {len(df_input)} records from {csv_location}")
-    df = render.process(df_input, token)
+    logger.info(f"Processing {len(df_input)} records from {csv_location} with {len(token_list)=}...")
+    df = render.process(df_input, token_list)
 
     # Write raw results to csv
     logger.info(f"Write raw results to csv...")
@@ -100,7 +101,7 @@ def write_files(csv_location: str, token: str, output_csv_filename: str, output_
     with open("README.md", "w") as out:
         out.write("\n".join(lines))
 
-    # Write to categories
+    # Write to categories file
     categories = df["category"].unique()
     for category in categories:
         df_category = df[df["category"] == category]

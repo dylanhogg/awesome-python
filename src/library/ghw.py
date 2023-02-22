@@ -8,11 +8,20 @@ memory = Memory(".joblib_cache")
 
 
 class GithubWrapper:
-    def __init__(self, token):
-        self.token = token
+    def __init__(self, token_list: List[str]):
+        self.token_list = token_list
+        self.token_index = 0
+
+    def token(self) -> str:
+        current_token = self.token_list[self.token_index]
+        logger.trace(f"Using token index {self.token_index}")
+        self.token_index += 1
+        if self.token_index >= len(self.token_list):
+            self.token_index = 0
+        return current_token
 
     @staticmethod
-    @memory.cache
+    @memory.cache(ignore=["token"])
     def _get_repo_cached(token, name) -> github.Repository:
         gh = github.Github(token)
         if name.endswith("/"):
@@ -23,17 +32,17 @@ class GithubWrapper:
         try:
             repo = gh.get_repo(name)
         except Exception as ex:
-            logger.warning(f"Exception for get_repo with name (will re-try once): {name}")
+            logger.warning(f"Exception for get_repo with name (will re-try once): {name} - {ex}")
             try:
                 time.sleep(30)
                 repo = gh.get_repo(name)
             except Exception as ex:
-                logger.error(f"Exception for get_repo after re-try with name: {name}")
+                logger.error(f"Exception for get_repo after re-try with name: {name} - {ex}")
                 raise ex
         return repo
 
     def get_repo(self, name) -> github.Repository:
-        return self._get_repo_cached(self.token, name)
+        return self._get_repo_cached(self.token(), name)
 
     # def get_org_repos(self, name) -> List[github.Repository.Repository]:
     #     logger.debug(f"get_org_repos: {name}")

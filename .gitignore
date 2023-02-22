@@ -1,5 +1,6 @@
 # TEMP
 data/
+data*/
 .joblib_cache/
 .joblib_cache*/
 

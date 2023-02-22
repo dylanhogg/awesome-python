@@ -98,25 +98,23 @@ def _column_apply(df: pd.DataFrame, target: str, source: str, fn: Callable):
     df[target] = df[source].apply(fn)
 
 
-def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
-    ghw = GithubWrapper(token)
+def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
+    ghw = GithubWrapper(token_list)
     df = df_input.copy()
 
-    logger.info(f"Add standard columns...")
-    std_metrics = StandardMetrics()
-
+    # Add repo lookup columns ------------------------------------------------
+    logger.info(f"Add repo lookup columns...")
+    t0 = datetime.now()
     _column_apply(df, "_repopath", "githuburl", lambda x: urlparse(x).path.lstrip("/"))
     _column_apply(df, "_reponame", "_repopath", lambda x: ghw.get_repo(x).name)
     _column_apply(df, "_stars", "_repopath", lambda x: ghw.get_repo(x).stargazers_count)
     _column_apply(df, "_forks", "_repopath", lambda x: ghw.get_repo(x).forks_count)
     _column_apply(df, "_watches", "_repopath", lambda x: ghw.get_repo(x).subscribers_count)
-    _column_apply(df, "_topics", "_repopath", lambda x: std_metrics.get_repo_topics(ghw, x))
     _column_apply(df, "_language", "_repopath", lambda x: ghw.get_repo(x).language)
     _column_apply(df, "_homepage", "_repopath", lambda x: ghw.get_repo(x).homepage)
     _column_apply(df, "_description", "_repopath", lambda x: _display_description(ghw, x))
     _column_apply(df, "_organization", "_repopath", lambda x: x.split("/")[0])
     _column_apply(df, "_updated_at", "_repopath", lambda x: ghw.get_repo(x).updated_at.date())
-    _column_apply(df, "_last_commit_date", "_repopath", lambda x: std_metrics.last_commit_date(ghw, x))
     _column_apply(df, "_created_at", "_repopath", lambda x: ghw.get_repo(x).created_at.date())
     _column_apply(df, "_age_weeks", "_repopath",
                   lambda x: (datetime.now().date() - ghw.get_repo(x).created_at.date()).days // 7
@@ -126,56 +124,87 @@ def process(df_input: pd.DataFrame, token: str) -> pd.DataFrame:
                   * 7
                   / (datetime.now().date() - ghw.get_repo(x).created_at.date()).days
                   )
+    timing_lookup = datetime.now() - t0
+    logger.info(f"Timing: {timing_lookup.total_seconds()=}")
 
+    # Add standard metric columns ------------------------------------------------
     logger.info(f"Add popularity metric columns...")
-    metrics = PopularityMetrics()
+    std_metrics = StandardMetrics()
+    t0 = datetime.now()
+    _column_apply(df, "_topics", "_repopath", lambda x: std_metrics.get_repo_topics(token_list, x))
+    _column_apply(df, "_last_commit_date", "_repopath", lambda x: std_metrics.last_commit_date(token_list, x))
+    timing_std = datetime.now() - t0
+    logger.info(f"Timing: {timing_std.total_seconds()=}")
+
+    # Add popularity metric columns ------------------------------------------------
+    logger.info(f"Add popularity metric columns...")
+    pop_metrics = PopularityMetrics()
+    t0 = datetime.now()
 
     df["_pop_contributor_count"] = df["_repopath"].apply(
-        lambda x: metrics.contributor_count(token, x)
+        lambda x: pop_metrics.contributor_count(token_list, x)
     )
 
-    df_pop_contributor_orgs = df.apply(lambda row: metrics.contributor_orgs(token, row["_repopath"]),
-                                       axis="columns", result_type="expand")
-    df = pd.concat([df, df_pop_contributor_orgs], axis="columns")
+    # TODO: optimise contributor_orgs_dict
+    # Long, many interations thru repo contibutors for company info
+    # Can rate limit, esp if sleep < 2sec
+    df_pop_contributor_orgs_dict = df.apply(lambda row: pop_metrics.contributor_orgs_dict(token_list, row["_repopath"]),
+                                            axis="columns", result_type="expand")
+    df = pd.concat([df, df_pop_contributor_orgs_dict], axis="columns")
 
     df["_pop_commit_frequency"] = df["_repopath"].apply(
-        lambda x: metrics.commit_frequency(token, x)
+        lambda x: pop_metrics.commit_frequency(token_list, x)
     )
 
     df["_pop_updated_issues_count"] = df["_repopath"].apply(
-        lambda x: metrics.updated_issues_count(token, x)
+        lambda x: pop_metrics.updated_issues_count(token_list, x)
     )
 
     df["_pop_closed_issues_count"] = df["_repopath"].apply(
-        lambda x: metrics.closed_issues_count(token, x)
+        lambda x: pop_metrics.closed_issues_count(token_list, x)
     )
 
     df["_pop_created_since_days"] = df["_repopath"].apply(
-        lambda x: metrics.created_since_days(token, x)
+        lambda x: pop_metrics.created_since_days(token_list, x)
     )
 
     df["_pop_updated_since_days"] = df["_repopath"].apply(
-        lambda x: metrics.updated_since_days(token, x)
+        lambda x: pop_metrics.updated_since_days(token_list, x)
     )
 
-    df_pop_recent_releases_count = df.apply(lambda row: metrics.recent_releases_count(token, row["_repopath"]),
+    df_pop_recent_releases_count = df.apply(lambda row: pop_metrics.recent_releases_count_dict(token_list, row["_repopath"]),
                                             axis="columns", result_type="expand")
     df = pd.concat([df, df_pop_recent_releases_count], axis="columns")
 
-    df_pop_comment_frequency = df.apply(lambda row: metrics.comment_frequency(token, row["_repopath"]),
+    df_pop_comment_frequency = df.apply(lambda row: pop_metrics.comment_frequency(token_list, row["_repopath"]),
                                         axis="columns", result_type="expand")
     df = pd.concat([df, df_pop_comment_frequency], axis="columns")
 
+    # TODO: dependents_count is expensive and can have many fails
     df["_pop_dependents_count"] = df["_repopath"].apply(
-        lambda x: metrics.dependents_count(x)
+        lambda x: pop_metrics.dependents_count(token_list, x)
     )
+    timing_pop = datetime.now() - t0
+    logger.info(f"Timing: {timing_lookup.total_seconds()=}")
+    logger.info(f"Timing: {timing_std.total_seconds()=}")
+    logger.info(f"Timing: {timing_pop.total_seconds()=}")
+
+    # TEMP:
+    logger.info(f"Write temp process results to csv...")
+    df.to_csv("_temp_df_process.csv")
+    import json
+    with open("_temp_df_process.json", "w") as f:
+        json_results = df.to_json(orient="table", double_precision=2)
+        data = json.loads(json_results)
+        json.dump(data, f, indent=4)
+    # /TEMP:
 
     scorer = PopularityScorer()
     df["_pop_score"] = df.apply(
         lambda row: scorer.score(row), axis="columns"
     )
 
-    return df.sort_values("_stars", ascending=False)
+    return df.sort_values("_pop_score", ascending=False)
 
 
 def lines_header(count: int, category: str = "") -> List[str]:
