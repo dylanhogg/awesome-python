@@ -1,9 +1,6 @@
-import requests
 import time
-import re
 from datetime import datetime, timedelta
-from typing import List
-from tenacity import retry, wait_exponential, stop_after_attempt, retry_if_exception_type
+from tenacity import retry, wait_exponential, stop_after_attempt
 from loguru import logger
 from library.ghw import GithubWrapper
 from joblib import Memory
@@ -13,34 +10,26 @@ from github.GithubException import RateLimitExceededException, GithubException
 memory = Memory(".joblib_cache")
 
 
+def log_retry(state):
+    msg = f"Tenacity retry {state.fn.__name__}: {state.attempt_number=}, {state.idle_for=}, {state.seconds_since_start=}"
+    if state.attempt_number < 1:
+        logger.info(msg)
+    else:
+        logger.exception(msg)
+
+
 class StandardMetrics:
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def get_repo_topics(token_list: List[str], name: str):
-        return GithubWrapper(token_list).get_repo(name).get_topics()
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def get_repo_topics(ghw: GithubWrapper, name: str):
+        return ghw.get_repo(name).get_topics()
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def last_commit_date(token_list: List[str], name: str):
-        modified = GithubWrapper(token_list).get_repo(name).get_commits().get_page(0)[0].last_modified
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def last_commit_date(ghw: GithubWrapper, name: str):
+        modified = ghw.get_repo(name).get_commits().get_page(0)[0].last_modified
         return datetime.strptime(
             modified,
             "%a, %d %b %Y %H:%M:%S %Z",
@@ -54,34 +43,18 @@ class PopularityMetrics:
     """
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def _get_contributors(token_list: List[str], name: str, anon: str = "true") -> PaginatedList:
-        repo = GithubWrapper(token_list).get_repo(name)
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def _get_contributors(ghw: GithubWrapper, name: str, anon: str = "true") -> PaginatedList:
+        repo = ghw.get_repo(name)
         return repo.get_contributors(anon=anon)
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        retry=retry_if_exception_type(RateLimitExceededException),
-        before_sleep=lambda x: logger.exception(f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def contributor_count(token_list: List[str], name: str) -> int:
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def contributor_count(ghw: GithubWrapper, name: str) -> int:
         try:
-            return PopularityMetrics._get_contributors(token_list, name).totalCount
+            return PopularityMetrics._get_contributors(ghw, name).totalCount
         except RateLimitExceededException as ex:
             logger.error(f"contributor_count rate exception: {ex}")
             raise ex
@@ -96,15 +69,10 @@ class PopularityMetrics:
     #     return contributor.company
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        retry=retry_if_exception_type(RateLimitExceededException),
-        before_sleep=lambda x: logger.exception(f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def contributor_orgs_dict(token_list: List[str], name: str, sleep: int = 1, max_contrib_count: int = 10) -> dict:
-        repo = GithubWrapper(token_list).get_repo(name)  # TODO: randomise token_list in ghw??
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def contributor_orgs_dict(ghw: GithubWrapper, name: str, sleep: int = 1, max_contrib_count: int = 10) -> dict:
+        repo = ghw.get_repo(name)  # TODO: randomise token_list in ghw??
 
         def _filter_name(org_name):
             return org_name.lower().replace(' ', '').replace(',inc.', '').replace('inc.', '') \
@@ -133,39 +101,33 @@ class PopularityMetrics:
                     contributor_logins.add(contributor.login)
         except RateLimitExceededException as ex:
             logger.warning(f"get_contributor_company rate exception ({sleep=}): {ex}")
-            # TODO: add sleep and retry
             raise ex
         except Exception as ex:
             # Typically a large number of contributors
-            # TODO: add sleep and retry
             logger.warning(f"get_contributor_company {type(ex)} exception: {ex}")
             return {
-                "_pop_contributor_logins": None,
+                # "_pop_contributor_logins": None,
                 "_pop_contributor_orgs_len": -1,
-                "_pop_contributor_orgs_max": max_contrib_count,
-                "_pop_contributor_orgs": None,
-                "_pop_contributor_orgs_raw": None,
-                "_pop_contributor_orgs_error": str(ex)
+                # "_pop_contributor_orgs_max": max_contrib_count,
+                # "_pop_contributor_orgs": None,
+                # "_pop_contributor_orgs_raw": None,
+                "_pop_contributor_orgs_error": len(str(ex))
+                # "_pop_contributor_orgs_error": str(ex)
             }
         return {
-            "_pop_contributor_logins": sorted(contributor_logins),
+            # "_pop_contributor_logins": sorted(contributor_logins),
             "_pop_contributor_orgs_len": len(orgs),
-            "_pop_contributor_orgs_max": max_contrib_count,
-            "_pop_contributor_orgs": sorted(orgs),
-            "_pop_contributor_orgs_raw": sorted(orgs_raw),
-            "_pop_contributor_orgs_error": None
+            # "_pop_contributor_orgs_max": max_contrib_count,
+            # "_pop_contributor_orgs": sorted(orgs),
+            # "_pop_contributor_orgs_raw": sorted(orgs_raw),
+            # "_pop_contributor_orgs_error": None
         }
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def commit_frequency(token_list: List[str], name: str) -> float:
-        repo = GithubWrapper(token_list).get_repo(name)
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def commit_frequency(ghw: GithubWrapper, name: str) -> float:
+        repo = ghw.get_repo(name)
         # NOTE: get_stats_commit_activity Returns the last year of commit activity grouped by week
         stats_commit_activity = repo.get_stats_commit_activity()
         assert len(stats_commit_activity) == 52
@@ -175,46 +137,31 @@ class PopularityMetrics:
         return round(total / len(stats_commit_activity), 2)
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def updated_issues_count(token_list: List[str], name: str) -> int:
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def updated_issues_count(ghw: GithubWrapper, name: str) -> int:
         ISSUE_LOOKBACK_DAYS = 90
-        repo = GithubWrapper(token_list).get_repo(name)
+        repo = ghw.get_repo(name)
         issues_since_time = datetime.utcnow() - timedelta(days=ISSUE_LOOKBACK_DAYS)
         # NOTE: get_issues includes PR's
         return repo.get_issues(state='all', since=issues_since_time).totalCount
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def closed_issues_count(token_list: List[str], name: str) -> int:
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def closed_issues_count(ghw: GithubWrapper, name: str) -> int:
         ISSUE_LOOKBACK_DAYS = 90
         # TODO: make generic with updated_issues_count?
-        repo = GithubWrapper(token_list).get_repo(name)
+        repo = ghw.get_repo(name)
         issues_since_time = datetime.utcnow() - timedelta(days=ISSUE_LOOKBACK_DAYS)
         # NOTE: get_issues includes PR's
         return repo.get_issues(state='closed', since=issues_since_time).totalCount
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def created_since_days(token_list: List[str], name: str) -> int:
-        repo = GithubWrapper(token_list).get_repo(name)
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def created_since_days(ghw: GithubWrapper, name: str) -> int:
+        repo = ghw.get_repo(name)
         creation_time = repo.created_at
 
         # See if there exist any commits before this repository creation
@@ -234,31 +181,21 @@ class PopularityMetrics:
         return round(difference.days / 30)
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def updated_since_days(token_list: List[str], name: str) -> int:
-        repo = GithubWrapper(token_list).get_repo(name)
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def updated_since_days(ghw: GithubWrapper, name: str) -> int:
+        repo = ghw.get_repo(name)
         last_commit = repo.get_commits()[0]
         last_commit_time = last_commit.commit.author.date
         difference = datetime.utcnow() - last_commit_time
         return round(difference.days / 30)
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def recent_releases_count_dict(token_list: List[str], name: str) -> dict:
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def recent_releases_count_dict(ghw: GithubWrapper, name: str) -> dict:
         RELEASE_LOOKBACK_DAYS = 365
-        repo = GithubWrapper(token_list).get_repo(name)
+        repo = ghw.get_repo(name)
         recent_releases_count = 0
         for release in repo.get_releases():
             if (datetime.utcnow() -
@@ -270,7 +207,7 @@ class PopularityMetrics:
         # Make rough estimation of tags used in last year from overall
         # project history. This query is extremely expensive, so instead
         # do the rough calculation.
-        days_since_creation = PopularityMetrics.created_since_days(token_list, name) * 30
+        days_since_creation = PopularityMetrics.created_since_days(ghw, name) * 30
         if days_since_creation:
             total_tags = repo.get_tags().totalCount
             estimated_tags = round(
@@ -287,16 +224,11 @@ class PopularityMetrics:
         }
 
     @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        before_sleep=lambda x: logger.exception(
-            f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def comment_frequency(token_list: List[str], name: str) -> dict:
+    @memory.cache(ignore=["ghw"])
+    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    def comment_frequency(ghw: GithubWrapper, name: str) -> dict:
         ISSUE_LOOKBACK_DAYS = 90
-        repo = GithubWrapper(token_list).get_repo(name)
+        repo = ghw.get_repo(name)
         issues_since_time = datetime.utcnow() - timedelta(days=ISSUE_LOOKBACK_DAYS)
         # NOTE: get_issues includes PR's
         issue_count = repo.get_issues(state='all', since=issues_since_time).totalCount
@@ -320,40 +252,3 @@ class PopularityMetrics:
             "_pop_comment_count_lookback_days": ISSUE_LOOKBACK_DAYS,
             "_pop_comment_frequency": comment_frequency,
         }
-
-    @staticmethod
-    @memory.cache(ignore=["token_list"])
-    @retry(
-        wait=wait_exponential(multiplier=2, min=10, max=1200),
-        stop=stop_after_attempt(50),
-        retry=retry_if_exception_type(RuntimeError),
-        before_sleep=lambda x: logger.exception(f"Tenacity retry {x.fn.__name__}: {x.attempt_number=}, {x.idle_for=}, {x.seconds_since_start=}"),
-    )
-    def dependents_count(token_list: List[str], name: str, sleep: int = 1) -> int:
-        return 0  # TODO: dependents_count is expensive and can have many fails
-
-        ghw = GithubWrapper(token_list)
-        DEPENDENTS_REGEX = re.compile(b'.*[^0-9,]([0-9,]+).*commit results', re.DOTALL)
-        # TODO: Take package manager dependency trees into account. If we decide
-        # to replace this, then find a solution for C/C++ as well.
-        # parsed_url = urllib.parse.urlparse(self.url)
-        # repo_name = parsed_url.path.strip('/')
-        # TODO: add in gh token in url??
-        dependents_url = f'https://github.com/search?q="{name}"&type=commits'
-        logger.trace(f"Call dependents_count: {dependents_url=}, {name=}")
-        content = b''
-        time.sleep(sleep)
-
-        # result = requests.get(dependents_url)
-        result = requests.get(dependents_url, headers={"Authorization": f"TOK:{ghw.token()}"})
-        if result.status_code == 429:  # 429=Too Many Requests
-            logger.error(f"dependents_url requests, {name=},  {result.status_code=}, {result=}")
-            raise RuntimeError(f"dependents_url exception, {name=}, {result.status_code=}, {result=}")
-        if result.status_code != 200:
-            logger.error(f"dependents_url requests, {name=},  {result.status_code=}, {result=}")
-            raise Exception(f"dependents_url exception, {name=},  {result.status_code=}, {result=}")
-
-        match = DEPENDENTS_REGEX.match(content)
-        if not match:
-            return 0
-        return int(match.group(1).replace(b',', b''))

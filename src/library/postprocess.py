@@ -1,8 +1,6 @@
 import json
 import itertools
 from collections import Counter
-from datetime import datetime
-from loguru import logger
 
 
 def write_tags(github_json_filename: str, github_tags_json_filename: str, most_common: int):
