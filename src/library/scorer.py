@@ -13,27 +13,27 @@ class PopularityScorer:
         # Weights for various parameters.
         CREATED_SINCE_WEIGHT = 1
         UPDATED_SINCE_WEIGHT = -1
-        CONTRIBUTOR_COUNT_WEIGHT = 2
+        CONTRIBUTOR_COUNT_WEIGHT = 1
         ORG_COUNT_WEIGHT = 1
         COMMIT_FREQUENCY_WEIGHT = 1
         RECENT_RELEASES_WEIGHT = 0.5
         CLOSED_ISSUES_WEIGHT = 0.5
         UPDATED_ISSUES_WEIGHT = 0.5
-        COMMENT_FREQUENCY_WEIGHT = 1
-        DEPENDENTS_COUNT_WEIGHT = 2
+        COMMENT_FREQUENCY_WEIGHT = 1.5
+        STARS_PER_WEEK_WEIGHT = 6
 
         # Max thresholds for various parameters.
         CREATED_SINCE_THRESHOLD = 120
         UPDATED_SINCE_THRESHOLD = 120
-        CONTRIBUTOR_COUNT_THRESHOLD = 5000
+        CONTRIBUTOR_COUNT_THRESHOLD = 2000
         ORG_COUNT_THRESHOLD = 10
-        COMMIT_FREQUENCY_THRESHOLD = 1000
-        RECENT_RELEASES_THRESHOLD = 26
+        COMMIT_FREQUENCY_THRESHOLD = 500
+        RECENT_RELEASES_THRESHOLD = 10
         CLOSED_ISSUES_THRESHOLD = 5000
         UPDATED_ISSUES_THRESHOLD = 5000
         COMMENT_FREQUENCY_THRESHOLD = 15
-        DEPENDENTS_COUNT_THRESHOLD = 500000
-        
+        STARS_PER_WEEK_THRESHOLD = 400
+
         def _get_param_score(param, max_value, weight=1.0):
             """Return paramater score given its current value, max value and
             parameter weight."""
@@ -43,7 +43,7 @@ class PopularityScorer:
                         CONTRIBUTOR_COUNT_WEIGHT + ORG_COUNT_WEIGHT +
                         COMMIT_FREQUENCY_WEIGHT + RECENT_RELEASES_WEIGHT +
                         CLOSED_ISSUES_WEIGHT + UPDATED_ISSUES_WEIGHT +
-                        COMMENT_FREQUENCY_WEIGHT + DEPENDENTS_COUNT_WEIGHT)
+                        COMMENT_FREQUENCY_WEIGHT + STARS_PER_WEEK_WEIGHT)
 
         score_sum = ((_get_param_score(row['_pop_created_since_days'],
                                        CREATED_SINCE_THRESHOLD, CREATED_SINCE_WEIGHT)) +
@@ -63,9 +63,10 @@ class PopularityScorer:
                                        UPDATED_ISSUES_THRESHOLD, UPDATED_ISSUES_WEIGHT)) +
                      (_get_param_score(row['_pop_comment_frequency'],
                                        COMMENT_FREQUENCY_THRESHOLD, COMMENT_FREQUENCY_WEIGHT)) +
-                     (_get_param_score(row['_pop_dependents_count'],
-                                       DEPENDENTS_COUNT_THRESHOLD, DEPENDENTS_COUNT_WEIGHT)))
+                     (_get_param_score(row['_stars_per_week'],
+                                       STARS_PER_WEEK_THRESHOLD, STARS_PER_WEEK_WEIGHT))
+                     )
 
         criticality_score = round(100 * score_sum / total_weight, 5)
-        logger.info(f"Calculated {criticality_score=} for {row['_repopath']}")
+        logger.trace(f"Calculated {criticality_score=} for {row['_repopath']}")
         return criticality_score
