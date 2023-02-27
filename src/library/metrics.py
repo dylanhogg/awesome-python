@@ -11,7 +11,9 @@ memory = Memory(".joblib_cache")
 
 
 def log_retry(state):
-    msg = f"Tenacity retry {state.fn.__name__}: {state.attempt_number=}, {state.idle_for=}, {state.seconds_since_start=}"
+    msg = (
+        f"Tenacity retry {state.fn.__name__}: {state.attempt_number=}, {state.idle_for=}, {state.seconds_since_start=}"
+    )
     if state.attempt_number < 1:
         logger.info(msg)
     else:
@@ -75,8 +77,15 @@ class PopularityMetrics:
         repo = ghw.get_repo(name)  # TODO: randomise token_list in ghw??
 
         def _filter_name(org_name):
-            return org_name.lower().replace(' ', '').replace(',inc.', '').replace('inc.', '') \
-                .replace('llc', '').replace('@', '').rstrip(',')
+            return (
+                org_name.lower()
+                .replace(" ", "")
+                .replace(",inc.", "")
+                .replace("inc.", "")
+                .replace("llc", "")
+                .replace("@", "")
+                .rstrip(",")
+            )
 
         contributor_logins = set()
         orgs = set()
@@ -91,8 +100,10 @@ class PopularityMetrics:
                 time.sleep(sleep)
                 if contributor_company:
                     filtered_contributor_company = _filter_name(contributor_company)
-                    logger.info(f"{i}. Company hit : {name=}, {contributor.login=}, "
-                                f"{contributor_company=}, {filtered_contributor_company=}")
+                    logger.info(
+                        f"{i}. Company hit : {name=}, {contributor.login=}, "
+                        f"{contributor_company=}, {filtered_contributor_company=}"
+                    )
                     orgs_raw.add(contributor_company)
                     orgs.add(filtered_contributor_company)
                     contributor_logins.add(f"{contributor.login}@{filtered_contributor_company}")
@@ -144,7 +155,7 @@ class PopularityMetrics:
         repo = ghw.get_repo(name)
         issues_since_time = datetime.utcnow() - timedelta(days=ISSUE_LOOKBACK_DAYS)
         # NOTE: get_issues includes PR's
-        return repo.get_issues(state='all', since=issues_since_time).totalCount
+        return repo.get_issues(state="all", since=issues_since_time).totalCount
 
     @staticmethod
     @memory.cache(ignore=["ghw"])
@@ -155,7 +166,7 @@ class PopularityMetrics:
         repo = ghw.get_repo(name)
         issues_since_time = datetime.utcnow() - timedelta(days=ISSUE_LOOKBACK_DAYS)
         # NOTE: get_issues includes PR's
-        return repo.get_issues(state='closed', since=issues_since_time).totalCount
+        return repo.get_issues(state="closed", since=issues_since_time).totalCount
 
     @staticmethod
     @memory.cache(ignore=["ghw"])
@@ -170,8 +181,10 @@ class PopularityMetrics:
         # commit date.
         prior_creation_commit_count = repo.get_commits(until=creation_time).totalCount
         if prior_creation_commit_count:
-            logger.warning(f"{name} has {prior_creation_commit_count=}, repository creation time is not correct, "
-                           f"and it was residing somewhere else before")
+            logger.warning(
+                f"{name} has {prior_creation_commit_count=}, repository creation time is not correct, "
+                f"and it was residing somewhere else before"
+            )
             # TODO: see how often this happens
             # first_commit_time = self.get_first_commit_time()
             # if first_commit_time:
@@ -198,8 +211,7 @@ class PopularityMetrics:
         repo = ghw.get_repo(name)
         recent_releases_count = 0
         for release in repo.get_releases():
-            if (datetime.utcnow() -
-                    release.created_at).days > RELEASE_LOOKBACK_DAYS:
+            if (datetime.utcnow() - release.created_at).days > RELEASE_LOOKBACK_DAYS:
                 continue
             recent_releases_count += 1
 
@@ -210,8 +222,7 @@ class PopularityMetrics:
         days_since_creation = PopularityMetrics.created_since_days(ghw, name) * 30
         if days_since_creation:
             total_tags = repo.get_tags().totalCount
-            estimated_tags = round(
-                (total_tags / days_since_creation) * RELEASE_LOOKBACK_DAYS)
+            estimated_tags = round((total_tags / days_since_creation) * RELEASE_LOOKBACK_DAYS)
 
         recent_releases_adjusted_count = recent_releases_count
         if not recent_releases_count:
@@ -220,7 +231,7 @@ class PopularityMetrics:
         return {
             "_pop_recent_releases_count": recent_releases_count,
             "_pop_recent_releases_estimated_tags": estimated_tags,
-            "_pop_recent_releases_adjusted_count": recent_releases_adjusted_count  # TODO: review need and name
+            "_pop_recent_releases_adjusted_count": recent_releases_adjusted_count,  # TODO: review need and name
         }
 
     @staticmethod
@@ -231,7 +242,7 @@ class PopularityMetrics:
         repo = ghw.get_repo(name)
         issues_since_time = datetime.utcnow() - timedelta(days=ISSUE_LOOKBACK_DAYS)
         # NOTE: get_issues includes PR's
-        issue_count = repo.get_issues(state='all', since=issues_since_time).totalCount
+        issue_count = repo.get_issues(state="all", since=issues_since_time).totalCount
 
         try:
             comment_count = repo.get_issues_comments(since=issues_since_time).totalCount
