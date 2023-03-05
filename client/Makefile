@@ -14,8 +14,7 @@ serve-local-app:
 
 ## Copy processed data to local client for testing
 copy-data-local-app: remove-data-local-app
-	cp ../github_data.json app/
-	cp ../github_data.min.json app/
+	cp ../github_data.ui.min.json app/
 	cp ../github_tags_data.json app/
 	cp -r ../data app/data
 
@@ -23,6 +22,7 @@ copy-data-local-app: remove-data-local-app
 remove-data-local-app:
 	rm app/github_data.json || true
 	rm app/github_data.min.json || true
+	rm app/github_data.ui.min.json || true
 	rm -rf app/data
 
 ## Browse local js client
