@@ -87,8 +87,20 @@ def write_files(csv_location: str, token_list: List[str], output_csv_filename: s
     )
     with open(output_ui_minjson_filename, "w") as f:
         # NOTE: this cols list must be synced with app.js DataTable columns for display
-        cols = ["githuburl", "_reponame", "_organization", "_homepage", "_pop_score", "_stars", "_stars_per_week",
-                "_description", "_age_weeks", "category", "_topics", "_readme_localurl"]
+        cols = [
+            "githuburl",
+            "_reponame",
+            "_organization",
+            "_homepage",
+            "_pop_score",
+            "_stars",
+            "_stars_per_week",
+            "_description",
+            "_age_weeks",
+            "category",
+            "_topics",
+            "_readme_localurl",
+        ]
         json_results = df[cols].to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)
         json.dump(data, f, separators=(",", ":"))
