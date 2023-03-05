@@ -17,6 +17,11 @@ clean:
 run:
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
+## Run the app, with no cache
+run-clean-cache:
+	rm -rf .joblib_cache
+	source venv/bin/activate ; PYTHONPATH='./src' python -m app
+
 ## Run black code formatter
 black:
 	source venv/bin/activate ; black --line-length 120 .
