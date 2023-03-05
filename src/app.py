@@ -17,11 +17,11 @@ def main():
     postprocess.write_tags(github_json_filename, github_tags_json_filename, most_common=200)
 
 
-def write_tags():
-    # TEMP: remove once tag filtering implemented
-    github_json_filename = "github_data.json"
-    github_tags_json_filename = "github_tags_data.json"
-    postprocess.write_tags(github_json_filename, github_tags_json_filename, most_common=200)
+# def write_tags():
+#     # TEMP: remove once tag filtering implemented
+#     github_json_filename = "github_data.json"
+#     github_tags_json_filename = "github_tags_data.json"
+#     postprocess.write_tags(github_json_filename, github_tags_json_filename, most_common=200)
 
 
 if __name__ == "__main__":

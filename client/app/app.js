@@ -1,4 +1,4 @@
-const version = "v0.0.8";
+const version = "v0.0.10";
 const CATEGORY_COL = 7;
 const TAG_COL = 8;
 
@@ -50,6 +50,7 @@ $(document).on("preInit.dt", function (e, settings) {
         'data': 'Data',
         'debug': 'Debugging',
         'diffusion': 'Diffusion Text to Image',
+        'finance': 'Finance',
         'gamedev': 'Game Development',
         'gis': 'GIS',
         'graph': 'Graph',
@@ -183,9 +184,9 @@ $(document).ready( function () {
                 return repoUrl;
              }
            },
-           { data: "_pop_score", title: "Score", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+           { data: "_pop_score", title: "Score&nbsp;🔥", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
 
-           { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+           { data: "_stars", title: "Stars&nbsp;⭐", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
            { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
@@ -224,7 +225,7 @@ $(document).ready( function () {
                 return repoUrl + orgUrl + homepageUrl;
              }
            },
-           // { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
            { data: "_age_weeks", title: "Age in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
            },

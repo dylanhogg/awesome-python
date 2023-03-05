@@ -9,3 +9,4 @@ loguru
 joblib
 requests
 tenacity
+jupyterlab

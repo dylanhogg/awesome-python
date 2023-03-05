@@ -29,6 +29,10 @@ test:
 clear-cache:
 	rm -rf .joblib_cache
 
+## View API rate limits
+api-rates:
+	curl -I https://api.github.com/users/dylanhogg
+
 ## Serve local client
 serve-local-client:
 	open http://localhost:8002/
@@ -41,6 +45,10 @@ s3-deploy-app:
 ## Deploy server json data
 s3-deploy-files:
 	cd server; make s3-deploy-files; make cf-invalidation
+
+## Run jupyter lab
+jupyter:
+	source venv/bin/activate; PYTHONPATH='./src' jupyter lab
 
 .DEFAULT_GOAL := help
 .PHONY: help

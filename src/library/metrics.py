@@ -247,7 +247,7 @@ class PopularityMetrics:
         try:
             comment_count = repo.get_issues_comments(since=issues_since_time).totalCount
         except GithubException as ex:
-            logger.warning(f"get_issues_comments exception: {ex}, retry once...")
+            logger.warning(f"get_issues_comments exception: {ex}, will retry...")
             time.sleep(5)
             # Exception due to large number of comments, e.g. pytorch/pytorch repo.
             # So try reducing down ISSUE_LOOKBACK_DAYS
