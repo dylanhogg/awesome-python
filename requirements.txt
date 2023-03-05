@@ -6,3 +6,7 @@ Pygments
 python-dotenv
 black
 loguru
+joblib
+requests
+tenacity
+jupyterlab

@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 10 curated template Python libraries and frameworks ordered by stars.  
+A selection of 11 curated template Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 cookiecutter: A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-37 stars per week over 502 weeks  
-19,032 stars, 1,795 forks, 232 watches  
+37 stars per week over 503 weeks  
+19,044 stars, 1,798 forks, 232 watches  
 created 2013-07-14, last commit 2022-09-09, main language Python  
 <sub><sup>cookiecutter, python</sup></sub>
 
@@ -18,20 +18,10 @@ created 2013-07-14, last commit 2022-09-09, main language Python
 ### [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) by [tiangolo](https://github.com/tiangolo)  
 full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
-53 stars per week over 209 weeks  
-11,240 stars, 2,050 forks, 185 watches  
+53 stars per week over 210 weeks  
+11,263 stars, 2,054 forks, 187 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, python, python3, swagger, traefik, vue, vuex</sup></sub>
-
-
-### [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) by [drivendata](https://github.com/drivendata)  
-cookiecutter-data-science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
-[http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
-[https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
-17 stars per week over 383 weeks  
-6,535 stars, 2,088 forks, 113 watches  
-created 2015-10-30, last commit 2022-03-11, main language Python  
-<sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
 
 
 ### [pyscaffold](https://github.com/pyscaffold/pyscaffold)  
@@ -39,27 +29,45 @@ pyscaffold: 🛠 Python project template generator with batteries included
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
 3.73 stars per week over 465 weeks  
-1,734 stars, 172 forks, 40 watches  
+1,736 stars, 172 forks, 40 watches  
 created 2014-04-02, last commit 2023-02-21, main language Python  
 <sub><sup>distribution, git, package, package-creation, project-template, python, release-automation, template-project</sup></sub>
 
 
-### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
-fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
-[https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
-9.92 stars per week over 153 weeks  
-1,527 stars, 259 forks, 37 watches  
-created 2020-03-21, last commit 2022-02-18, main language Python  
-<sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
+### [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) by [drivendata](https://github.com/drivendata)  
+cookiecutter-data-science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
+[http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
+[https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
+17 stars per week over 383 weeks  
+6,536 stars, 2,089 forks, 113 watches  
+created 2015-10-30, last commit 2022-03-11, main language Python  
+<sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
+
+
+### [fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template) by [janetech-inc](https://github.com/janetech-inc)  
+fast-api-admin-template:  A test driven micro-service template to build and deploy a fast-api service with admin feature.  
+[https://github.com/janetech-inc/fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template)  
+37 stars per week over 2 weeks  
+96 stars, 10 forks, 3 watches  
+created 2023-02-15, last commit 2023-03-01, main language JavaScript  
 
 
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
 python-package-template: 🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
-6.15 stars per week over 150 weeks  
-924 stars, 92 forks, 6 watches  
+6.16 stars per week over 150 weeks  
+927 stars, 92 forks, 6 watches  
 created 2020-04-15, last commit 2022-05-18, main language Python  
 <sub><sup>best-practices, codestyle, cookiecutter, formatters, makefile, poetry, python, python-packages, semantic-versions, template</sup></sub>
+
+
+### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
+fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
+[https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
+9.91 stars per week over 154 weeks  
+1,528 stars, 259 forks, 37 watches  
+created 2020-03-21, last commit 2022-02-18, main language Python  
+<sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
 
 
 ### [mako](https://github.com/sqlalchemy/mako) by [sqlalchemy](https://github.com/sqlalchemy)  
@@ -67,7 +75,7 @@ Mako Templates for Python
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 [https://github.com/sqlalchemy/mako](https://github.com/sqlalchemy/mako)  
 1.1 stars per week over 222 weeks  
-245 stars, 46 forks, 11 watches  
+246 stars, 46 forks, 11 watches  
 created 2018-11-26, last commit 2023-01-03, main language Python  
 
 
@@ -84,7 +92,7 @@ created 2020-07-06, last commit 2022-06-10, main language Python
 python-collab-template: 🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
 [https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)  
 [https://github.com/eugeneyan/python-collab-template](https://github.com/eugeneyan/python-collab-template)  
-0.9 stars per week over 140 weeks  
+0.9 stars per week over 141 weeks  
 127 stars, 37 forks, 4 watches  
 created 2020-06-21, last commit 2022-07-02, main language Python  
 <sub><sup>coverage, github-actions, hacktoberfest, linting, makefile, python, type-checking, unit-testing</sup></sub>
@@ -99,7 +107,7 @@ created 2020-02-12, last commit 2022-08-19, main language Python
 <sub><sup>cookiecutter, jupyterlab, python, template</sup></sub>
 
 
-This file was automatically generated on 2023-03-03.  
+This file was automatically generated on 2023-03-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

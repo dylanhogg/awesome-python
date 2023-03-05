@@ -19,13 +19,24 @@ run:
 
 ## Run black code formatter
 black:
-	source venv/bin/activate ; black .
+	source venv/bin/activate ; black --line-length 120 .
+
+## Run tests
+test:
+	source venv/bin/activate ; PYTHONPATH='./src' pytest -vv --capture=no tests
+
+## Clear joblib cache
+clear-cache:
+	rm -rf .joblib_cache
+
+## View API rate limits
+api-rates:
+	curl -I https://api.github.com/users/dylanhogg
 
 ## Serve local client
 serve-local-client:
 	open http://localhost:8002/
 	cd client/app; python3 -m http.server 8002
-
 
 ## AWS S3 cp client app to S3
 s3-deploy-app:
@@ -34,6 +45,10 @@ s3-deploy-app:
 ## Deploy server json data
 s3-deploy-files:
 	cd server; make s3-deploy-files; make cf-invalidation
+
+## Run jupyter lab
+jupyter:
+	source venv/bin/activate; PYTHONPATH='./src' jupyter lab
 
 .DEFAULT_GOAL := help
 .PHONY: help

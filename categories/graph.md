@@ -10,7 +10,7 @@ networkx: Network Analysis in Python
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
 18 stars per week over 651 weeks  
-12,281 stars, 2,851 forks, 280 watches  
+12,291 stars, 2,850 forks, 280 watches  
 created 2010-09-06, last commit 2023-03-02, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization, python</sup></sub>
 
@@ -20,7 +20,7 @@ StellarGraph - Machine Learning on Graphs
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
 [https://github.com/stellargraph/stellargraph](https://github.com/stellargraph/stellargraph)  
 10 stars per week over 255 weeks  
-2,636 stars, 401 forks, 61 watches  
+2,637 stars, 401 forks, 61 watches  
 created 2018-04-13, last commit 2021-10-29, main language Python  
 <sub><sup>data-science, deep-learning, gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, python, saliency-map, stellargraph-library</sup></sub>
 
@@ -29,8 +29,8 @@ created 2018-04-13, last commit 2021-10-29, main language Python
 pyvis: Python package for creating and visualizing interactive network graphs.  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 [https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
-2.44 stars per week over 251 weeks  
-614 stars, 114 forks, 15 watches  
+2.45 stars per week over 251 weeks  
+616 stars, 115 forks, 15 watches  
 created 2018-05-10, last commit 2023-02-10, main language HTML  
 <sub><sup>network-visualization, networkx, python</sup></sub>
 
@@ -39,7 +39,7 @@ created 2018-05-10, last commit 2023-02-10, main language HTML
 graph-force: Python library for embedding large graphs in 2D space, using force-directed layouts.  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
 [https://github.com/h4kor/graph-force](https://github.com/h4kor/graph-force)  
-12 stars per week over 13 weeks  
+11 stars per week over 13 weeks  
 164 stars, 0 forks, 9 watches  
 created 2022-11-28, last commit 2022-11-28, main language Rust  
 <sub><sup>force-directed-graphs, graph-algorithms, python, python3</sup></sub>
@@ -54,7 +54,7 @@ created 2017-09-27, last commit 2018-12-11, main language Python
 <sub><sup>clustering, markov-clustering, networks, python</sup></sub>
 
 
-This file was automatically generated on 2023-03-03.  
+This file was automatically generated on 2023-03-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

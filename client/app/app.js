@@ -1,4 +1,4 @@
-const version = "v0.0.8";
+const version = "v0.0.10";
 const CATEGORY_COL = 7;
 const TAG_COL = 8;
 
@@ -50,6 +50,7 @@ $(document).on("preInit.dt", function (e, settings) {
         'data': 'Data',
         'debug': 'Debugging',
         'diffusion': 'Diffusion Text to Image',
+        'finance': 'Finance',
         'gamedev': 'Game Development',
         'gis': 'GIS',
         'graph': 'Graph',
@@ -106,7 +107,7 @@ $(document).on("preInit.dt", function (e, settings) {
     }
 });
 
-// Tag filter dropdown
+// Tag filter dropdown (WIP)
 //$(document).on("preInit.dt", function (e, settings) {
 //    var select = $('<select name="tag_filter" id="tag_filter" class="form-select-sm form-select-sm tag_filter">' +
 //                   '<option value="">All Tags</option></select>');
@@ -138,12 +139,7 @@ $(document).on("preInit.dt", function (e, settings) {
 //});
 
 $(document).ready( function () {
-    var ajax_url = './github_data.min.json?v1.0';
-    // var ajax_url = 'https://crazy-awesome-python-api.infocruncher.com/github_data.min.json';
-    if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
-        // Use local testing json data
-        ajax_url = '/github_data.json?v1.0';
-    }
+    var ajax_url = './github_data.ui.min.json?v1.0';
 
     $("#menu-icon").click(function(){
         // https://www.w3schools.com/howto/howto_js_sidenav.asp
@@ -188,17 +184,34 @@ $(document).ready( function () {
                 return repoUrl;
              }
            },
-           { data: "_stars", title: "Stars&nbsp;<img src='img/star.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+           { data: "_pop_score", title: "Score&nbsp;🔥", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+
+           { data: "_stars", title: "Stars&nbsp;⭐", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
            { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
+
+//           { data: "_pop_contributor_count", title: "contributors", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_commit_frequency", title: "commits<br />frequency", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_issue_count", title: "issues", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_comment_count", title: "comments", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_contributor_orgs_len", title: "contributor_orgs", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_updated_issues_count", title: "updated_issues_count", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_closed_issues_count", title: "closed_issues_count", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_created_since_days", title: "created_since_days", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_updated_since_days", title: "updated_since_days", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_recent_releases_count", title: "recent_releases_count", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_recent_releases_estimated_tags", title: "recent_releases_estimated_tags", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_recent_releases_adjusted_count", title: "recent_releases_adjusted_count", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_comment_count_lookback_days", title: "comment_count_lookback_days", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_pop_comment_frequency", title: "comment_frequency", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+
            { data: "_description", title: "Description",
              render: function(data, type, row, meta) {
-//                return "<div class='text-wrap description-column'>" + data + "</div>";
                 if(data.length > description_maxlen) {
                     return "<div class='text-wrap description-column'>" + data.substr(0, description_maxlen) + "...</div>";
                 } else {
-                    return data;
+                    return "<div class='text-wrap description-column'>" + data + "</div>";
                 }
              }
            },
@@ -212,7 +225,7 @@ $(document).ready( function () {
                 return repoUrl + orgUrl + homepageUrl;
              }
            },
-           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
            { data: "_age_weeks", title: "Age in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
            },
@@ -239,7 +252,7 @@ $(document).ready( function () {
                 }
             }
            },
-          //          { data: "_requirements_localurls", title: "Requirements",
+//          { data: "_requirements_localurls", title: "Requirements",
 //            render: function(data, type, row, meta) {
 //                if (data.length > 0) {
 //                    var links = "";
@@ -260,7 +273,6 @@ $(document).ready( function () {
 //                } else {
 //                    return "";
 //                }
-//
 //            }
 //          },
         ],

@@ -10,14 +10,12 @@ from loguru import logger
 
 # https://stackoverflow.com/questions/47337009/rst2html-on-full-python-project
 def rst2html_old(content):
-    pub = docutils.core.Publisher(
-        source_class=docutils.io.StringInput,
-        destination_class=docutils.io.StringOutput)
-    pub.set_components('standalone', 'restructuredtext', 'html')
+    pub = docutils.core.Publisher(source_class=docutils.io.StringInput, destination_class=docutils.io.StringOutput)
+    pub.set_components("standalone", "restructuredtext", "html")
     pub.process_programmatic_settings(None, None, None)
     pub.set_source(source=content)
     pub.publish()
-    html = pub.writer.parts['whole']
+    html = pub.writer.parts["whole"]
     return html
 
 
@@ -47,7 +45,7 @@ def save_content(repopath, branch, filename, content):
     readme_url = f"https://github.com/{repopath}/blob/{branch}/{filename}"
 
     # Find pip installs
-    pip_pattern = re.compile(r'(pip[3]*[ ]+install[ ]+[a-zA-Z0-9 \-_<>=\"\'.,+:/\[\]]+)')  # TODO: review
+    pip_pattern = re.compile(r"(pip[3]*[ ]+install[ ]+[a-zA-Z0-9 \-_<>=\"\'.,+:/\[\]]+)")  # TODO: review
     pips = []
     for m in re.findall(pip_pattern, content):
         pips.append(m.strip())
