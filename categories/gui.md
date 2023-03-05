@@ -6,11 +6,11 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [PySimpleGUI](https://github.com/pysimplegui/pysimplegui) by [pysimplegui](https://github.com/pysimplegui)  
-PySimpleGUI: Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples for Machine Learning(OpenCV Integration,  Chatterbot), Rainmeter-like Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. The Minecraft of GUIs - simple to complex... does them all.  
+PySimpleGUI: Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs  
 [https://github.com/pysimplegui/pysimplegui](https://github.com/pysimplegui/pysimplegui)  
-47 stars per week over 230 weeks  
-10,910 stars, 1,623 forks, 219 watches  
-created 2018-07-11, last commit 2022-12-04, main language Python  
+46 stars per week over 242 weeks  
+11,304 stars, 1,684 forks, 218 watches  
+created 2018-07-11, last commit 2023-03-01, main language Python  
 <sub><sup>beginner-friendly, datavisualization, games, gui, gui-framework, gui-programming, gui-window, pyside2, pysimplegui, python, python-gui, qt, qt-gui, remi, systemtray, tkinter, tkinter-gui, tkinter-python, user-interface, wxpython</sup></sub>
 
 
@@ -18,9 +18,9 @@ created 2018-07-11, last commit 2022-12-04, main language Python
 DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
 [https://dearpygui.readthedocs.io/en/latest/](https://dearpygui.readthedocs.io/en/latest/)  
 [https://github.com/hoffstadt/dearpygui](https://github.com/hoffstadt/dearpygui)  
-69 stars per week over 131 weeks  
-9,195 stars, 487 forks, 135 watches  
-created 2020-05-28, last commit 2022-12-01, main language C++  
+67 stars per week over 144 weeks  
+9,757 stars, 511 forks, 138 watches  
+created 2020-05-28, last commit 2023-03-02, main language C++  
 <sub><sup>cpp, cross-platform, dearpygui, graphics, gui, imgui, linux, macos, native, python, python-gui, toolkit, tools, ui, windows</sup></sub>
 
 
@@ -28,18 +28,18 @@ created 2020-05-28, last commit 2022-12-01, main language C++
 pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS  
 [https://pywebview.flowrl.com](https://pywebview.flowrl.com)  
 [https://github.com/r0x0r/pywebview](https://github.com/r0x0r/pywebview)  
-7.68 stars per week over 419 weeks  
-3,224 stars, 430 forks, 57 watches  
-created 2014-11-20, last commit 2022-12-05, main language Python  
+7.86 stars per week over 432 weeks  
+3,400 stars, 442 forks, 58 watches  
+created 2014-11-20, last commit 2023-02-28, main language Python  
 <sub><sup>cef, cocoa, gtk, gui, html, javascript, linux, osx, python, qt, webkit, windows</sup></sub>
 
 
 ### [remi](https://github.com/dddomodossola/remi) by [dddomodossola](https://github.com/dddomodossola)  
 remi: Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
 [https://github.com/dddomodossola/remi](https://github.com/dddomodossola/remi)  
-6.98 stars per week over 454 weeks  
-3,177 stars, 388 forks, 119 watches  
-created 2014-03-20, last commit 2022-11-23, main language Python  
+6.91 stars per week over 467 weeks  
+3,232 stars, 394 forks, 121 watches  
+created 2014-03-20, last commit 2023-02-01, main language Python  
 <sub><sup>gui, gui-library, platform-independent, python, remi, ui</sup></sub>
 
 
@@ -47,13 +47,13 @@ created 2014-03-20, last commit 2022-11-23, main language Python
 Phoenix: wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
 [http://wxpython.org/](http://wxpython.org/)  
 [https://github.com/wxwidgets/phoenix](https://github.com/wxwidgets/phoenix)  
-3.51 stars per week over 542 weeks  
-1,905 stars, 488 forks, 105 watches  
-created 2012-07-17, last commit 2022-11-10, main language Python  
+3.52 stars per week over 554 weeks  
+1,953 stars, 496 forks, 104 watches  
+created 2012-07-17, last commit 2023-03-03, main language Python  
 <sub><sup>awesome, cross-platform, gui, gui-framework, gui-toolkit, linux, macosx, python, windows, wxpython, wxwidgets</sup></sub>
 
 
-This file was automatically generated on 2022-12-07.  
+This file was automatically generated on 2023-03-05.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
