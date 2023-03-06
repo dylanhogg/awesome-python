@@ -89,6 +89,10 @@ img.book-image {
   display: block;
 }
 
+.topnav h1 a {
+    font-size: large;
+}
+
 /* Style the hamburger menu */
 .topnav a.icon {
   background: #3776ab;

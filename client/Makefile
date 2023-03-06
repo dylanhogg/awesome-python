@@ -36,8 +36,8 @@ browse-s3:
 
 # AWS Command Tools
 
-## AWS S3 cp app to S3
-s3-deploy-app: remove-data-local-app
+## AWS S3 cp app and data to S3
+s3-deploy-app-full: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.csv s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.ui.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
