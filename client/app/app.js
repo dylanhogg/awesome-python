@@ -219,10 +219,10 @@ $(document).ready( function () {
            { data: null,
             title: "Links",
             render: function(data, type, row, meta) {
-                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
-                var orgUrl = "<br /><a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
+                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+                var orgUrl = "<br /><a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
-                try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web.png' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
+                try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
                 return repoUrl + orgUrl + homepageUrl;
              }
            },
@@ -247,7 +247,7 @@ $(document).ready( function () {
             render: function(data, type, row, meta) {
                 if (data.length > 0) {
                     var url = "/data/" + data + "";
-                    return "<img src='img/github.png' alt='info' title='View install and GitHub info' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
+                    return "<img src='img/github16.png' width='16' height='16' alt='docs' title='View repo readme documentation' class='modal-ajax info-img' href='#' data-localurl='"+url+"' data-ext='.html' data-title='' data-replace-lf='false'></img>";
                 } else {
                     return "";
                 }
