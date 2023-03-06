@@ -161,6 +161,7 @@ $(document).ready( function () {
             url: ajax_url,
             dataSrc: 'data'
         },
+        deferRender: true,
         responsive: true,
         order: [[ 1, "desc" ]],
         paging: true,
