@@ -10,7 +10,8 @@ BUCKET_NAME=awesome-python.infocruncher.com
 
 ## Serve local js client app
 serve-local-app:
-	cd app; python3 -m http.server 8002
+	# cd app; python3 -m http.server 8002
+	python3 http_server.py
 
 ## Copy processed data to local client for testing
 copy-data-local-app: remove-data-local-app

@@ -270,7 +270,7 @@ $(document).ready( function () {
            { data: "category", title: "Category"
              ,render: function(data, type, row, meta) {
                 // return data;
-                return "<a class='label-link' href='/app.html?c=" + data + "'>" + data + "</a>";
+                return "<a class='label-link' href='/?c=" + data + "'>" + data + "</a>";
              }
            },
            { data: "_topics", title: "Tags",
@@ -284,7 +284,7 @@ $(document).ready( function () {
                         short_item = short_item.substr(0, topic_max_strlen);
                     }
                     // return "<a class='label-link' href='https://github.com/topics/" + item + "?l=python'>" + item + "</a> ";;
-                    return "<a class='label-link' href='/app.html?q=" + short_item + "'>" + short_item + "</a> ";
+                    return "<a class='label-link' href='/?q=" + short_item + "'>" + short_item + "</a> ";
                 }).join(" ");
             }
            },
@@ -335,6 +335,7 @@ $(document).ready( function () {
     });
 
     // Model for displaying _readme_localurl pop-up docs (deprecated)
+    // js dependency: <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
 //    $('#table').on('click', '.modal-ajax', function(e) {
 //        var localurl = $(this).data('localurl') + $(this).data('ext');
 //        e.preventDefault();
