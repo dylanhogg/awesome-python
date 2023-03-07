@@ -25,8 +25,30 @@
     white-space:normal;
 }
 
-.description-column{
-    max-width: 600px;
+.description-column {
+    max-width: 800px;
+    min-width: 250px;
+}
+
+.links-column {
+    max-width: 300px;
+}
+
+.label-link {
+    margin: 1px 1px;
+    padding: 1px 5px;
+    border: 1px solid #5292c7;
+    color: #5292c7;
+    font-size: smaller;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.label-link:hover {
+    color: #fff;
+    background: #5292c7;
 }
 
 .github-img {
@@ -60,6 +82,17 @@ div.dataTables_filter input {
     margin-left: 0px !important;
     /* override datatables width: auto; */
     width: 175px !important;
+}
+
+div.dataTables_length,
+div.dataTables_wrapper div.dataTables_filter,
+div.dataTables_wrapper div.dataTables_info,
+div.dataTables_wrapper div.dataTables_paginate {
+    text-align: left !important;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+    justify-content: left !important;
 }
 
 div.dataTables_filter select {
