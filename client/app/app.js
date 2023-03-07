@@ -1,4 +1,4 @@
-const version = "v0.0.10";
+const version = "v0.0.11";
 const CATEGORY_COL = 7;  // 0-based
 const TAG_COL = 8;
 
@@ -175,9 +175,10 @@ $(document).ready( function () {
     });
 
     var initialSearchTerm = getUrlQuery();
-    var description_max_strlen = 100;
+    var description_max_strlen = 99;
     var topic_max_strlen = 30;
     var topic_max_count = 3;
+
     var table = $("#table").DataTable( {
         ajax: {
             url: ajax_url,
@@ -213,8 +214,16 @@ $(document).ready( function () {
              }
            },
            { data: "_pop_score", title: "Score&nbsp;🔥", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-
            { data: "_stars", title: "Stars&nbsp;⭐", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+           { data: "_description", title: "Description",
+             render: function(data, type, row, meta) {
+                if(data.length > description_max_strlen) {
+                    return "<div class='text-wrap description-column'>" + data.substr(0, description_max_strlen) + "…</div>";
+                } else {
+                    return "<div class='text-wrap description-column'>" + data + "</div>";
+                }
+             }
+           },
            { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
@@ -237,15 +246,6 @@ $(document).ready( function () {
 //           { data: "_pop_comment_count_lookback_days", title: "comment_count_lookback_days", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
 //           { data: "_pop_comment_frequency", title: "comment_frequency", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
 
-           { data: "_description", title: "Description",
-             render: function(data, type, row, meta) {
-                if(data.length > description_max_strlen) {
-                    return "<div class='text-wrap description-column'>" + data.substr(0, description_max_strlen) + "...</div>";
-                } else {
-                    return "<div class='text-wrap description-column'>" + data + "</div>";
-                }
-             }
-           },
            { data: null,
             title: "Links",
             render: function(data, type, row, meta) {
@@ -256,6 +256,7 @@ $(document).ready( function () {
                 return "<div class='text-wrap links-column'>" + repoUrl + orgUrl + homepageUrl + "</div>";
              }
            },
+
 //           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
 //           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
 //            className: "text-nowrap",
@@ -265,6 +266,7 @@ $(document).ready( function () {
 //            className: "text-nowrap",
 //            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
 //           },
+
            { data: "category", title: "Category"
              ,render: function(data, type, row, meta) {
                 // return data;
