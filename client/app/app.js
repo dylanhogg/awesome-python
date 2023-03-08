@@ -335,7 +335,7 @@ $(document).ready( function () {
     });
 
     // Model for displaying _readme_localurl pop-up docs (deprecated)
-    // js dependency:  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
+    // js dependency:  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.js"></script>
     // css dependency: <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css"/>
 //    $('#table').on('click', '.modal-ajax', function(e) {
 //        var localurl = $(this).data('localurl') + $(this).data('ext');
