@@ -27,7 +27,7 @@ function deleteUrlQueryKey(paramKey) {
     try {
         var href = new URL(location.href);
         href.searchParams.delete(paramKey);
-        window.history.pushState("", "unused", href);
+        window.history.pushState("", "", href);  // TODO: review
     } catch(err) { }
 }
 
@@ -35,7 +35,7 @@ function setUrlQueryValue(paramKey, paramVal) {
     try {
         var href = new URL(location.href);
         href.searchParams.set(paramKey, paramVal);
-        window.history.pushState("", "unused", href);
+        window.history.pushState("", "", href);  // TODO: review
     } catch(err) { }
 }
 
