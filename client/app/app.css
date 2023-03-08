@@ -38,7 +38,8 @@
     margin: 1px 1px;
     padding: 1px 5px;
     border: 1px solid #5292c7;
-    color: #5292c7;
+    color: #fff;
+    background: #5292c7;
     font-size: smaller;
     border-radius: 3px;
     text-decoration: none;
@@ -47,8 +48,8 @@
 }
 
 .label-link:hover {
-    color: #fff;
-    background: #5292c7;
+    color: #5292c7;
+    background: #fff;
 }
 
 .github-img {

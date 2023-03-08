@@ -58,45 +58,46 @@ $(document).keydown(function(e) {
     }
 });
 
+var CATEGORY_DATA = {
+    '': 'Select category...',
+    'all': 'All categories',
+    'crypto': 'Crypto',
+    'data': 'Data',
+    'debug': 'Debugging',
+    'diffusion': 'Diffusion Text to Image',
+    'finance': 'Finance',
+    'gamedev': 'Game Development',
+    'gis': 'GIS',
+    'graph': 'Graph',
+    'gui': 'GUI',
+    'jupyter': 'Jupyter',
+    'math': 'Math',
+    'ml': 'ML - General',
+    'ml-dl': 'ML - Deep Learning',
+    'ml-interpretability': 'ML - Interpretability',
+    'ml-ops': 'ML - Ops',
+    'time-series': 'ML - Time Series',
+    'nlp': 'NLP',
+    'pandas': 'Pandas',
+    'perf': 'Performance',
+    'profiling': 'Profiling',
+    'security': 'Security',
+    'sim': 'Simulation',
+    'study': 'Study',
+    'template': 'Template',
+    'term': 'Terminal',
+    'testing': 'Testing',
+    'typing': 'Typing',
+    'util': 'Utility',
+    'viz': 'Vizualisation',
+    'web': 'Web',
+}
+
 // Category filter dropdown
 $(document).on("preInit.dt", function (e, settings) {
-    var data = {
-        '': 'Select category...',
-        'all': 'All categories',
-        'crypto': 'Crypto',
-        'data': 'Data',
-        'debug': 'Debugging',
-        'diffusion': 'Diffusion Text to Image',
-        'finance': 'Finance',
-        'gamedev': 'Game Development',
-        'gis': 'GIS',
-        'graph': 'Graph',
-        'gui': 'GUI',
-        'jupyter': 'Jupyter',
-        'math': 'Math',
-        'ml': 'ML - General',
-        'ml-dl': 'ML - Deep Learning',
-        'ml-interpretability': 'ML - Interpretability',
-        'ml-ops': 'ML - Ops',
-        'time-series': 'ML - Time Series',
-        'nlp': 'NLP',
-        'pandas': 'Pandas',
-        'perf': 'Performance',
-        'profiling': 'Profiling',
-        'security': 'Security',
-        'sim': 'Simulation',
-        'study': 'Study',
-        'template': 'Template',
-        'term': 'Terminal',
-        'testing': 'Testing',
-        'typing': 'Typing',
-        'util': 'Utility',
-        'viz': 'Vizualisation',
-        'web': 'Web',
-    }
     var select = $('<select name="category_filter" id="category_filter" class="form-select-sm form-select-sm category_filter" />');
-    for(var val in data) {
-        $('<option />', {value: val, text: data[val]}).appendTo(select);
+    for(var val in CATEGORY_DATA) {
+        $('<option />', {value: val, text: CATEGORY_DATA[val]}).appendTo(select);
     }
     select.appendTo('div.dataTables_filter');
 
@@ -270,7 +271,7 @@ $(document).ready( function () {
            { data: "category", title: "Category"
              ,render: function(data, type, row, meta) {
                 // return data;
-                return "<a class='label-link' href='/?c=" + data + "'>" + data + "</a>";
+                return "<a class='label-link' title='" + CATEGORY_DATA[data]+ "' href='/?c=" + data + "'>" + data + "</a>";
              }
            },
            { data: "_topics", title: "Tags",
@@ -283,7 +284,7 @@ $(document).ready( function () {
                     if (short_item.length > topic_max_strlen) {
                         short_item = short_item.substr(0, topic_max_strlen);
                     }
-                    // return "<a class='label-link' href='https://github.com/topics/" + item + "?l=python'>" + item + "</a> ";;
+                    // return "<a class='label-link' href='https://github.com/topics/" + item + "?l=python'>" + item + "</a> ";
                     return "<a class='label-link' href='/?q=" + short_item + "'>" + short_item + "</a> ";
                 }).join(" ");
             }
