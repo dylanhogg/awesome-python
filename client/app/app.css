@@ -38,8 +38,8 @@
     margin: 1px 1px;
     padding: 1px 5px;
     border: 1px solid #5292c7;
-    color: #fff;
-    background: #5292c7;
+    color: #FFFFFF;
+    background: #3776ab; /* contrast adjusted */
     font-size: smaller;
     border-radius: 3px;
     text-decoration: none;
