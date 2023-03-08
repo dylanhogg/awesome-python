@@ -37,7 +37,7 @@
 .label-link {
     margin: 1px 1px;
     padding: 1px 5px;
-    border: 1px solid #5292c7;
+    border: 1px solid #3776ab;
     color: #FFFFFF;
     background: #3776ab; /* contrast adjusted */
     font-size: smaller;
@@ -48,7 +48,7 @@
 }
 
 .label-link:hover {
-    color: #5292c7;
+    color: #3776ab;
     background: #fff;
 }
 
