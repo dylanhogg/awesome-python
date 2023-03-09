@@ -53,7 +53,9 @@ s3-deploy-app-only:
 
 ## Deploy server json data
 s3-deploy-files:
+	echo "DEPRECATED"
 	cd server; make s3-deploy-files; make cf-invalidation
+	echo "DEPRECATED"
 
 ## Run jupyter lab
 jupyter:

@@ -52,10 +52,17 @@ s3-deploy-app-only: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
+## AWS S3 cp sitemap.xml to S3
+s3-deploy-app-sitemap:
+	aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
+	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
+
 ## AWS S3 cp static files to S3
 s3-deploy-static:
-	aws s3 cp app/docs.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp app/app.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp app/docs.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp app/books.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp app/about.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp app to S3
