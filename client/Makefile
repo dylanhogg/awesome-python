@@ -17,6 +17,7 @@ serve-local-app:
 copy-data-local-app: remove-data-local-app
 	cp ../github_data.ui.min.json app/
 	cp ../github_tags_data.json app/
+	cp ../github_top.json app/
 	cp -r ../data app/data
 
 ## Remove processed data from local client for testing
@@ -44,6 +45,7 @@ s3-deploy-app-full: remove-data-local-app
 	aws s3 cp ../github_data.ui.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	# aws s3 cp ../github_top.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
@@ -52,9 +54,10 @@ s3-deploy-app-only: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
-## AWS S3 cp sitemap.xml to S3
-s3-deploy-app-sitemap:
-	aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
+## AWS S3 cp custom to S3
+s3-deploy-app-custom:
+	aws s3 cp app/app.css s3://${BUCKET_NAME}/app.css --profile ${AWS_PROFILE}
+	# aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp static files to S3

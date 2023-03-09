@@ -83,6 +83,17 @@ div.dataTables_filter input {
     margin-left: 0px !important;
     /* override datatables width: auto; */
     width: 175px !important;
+    margin-right: 10px;
+}
+
+div.dataTables_filter select {
+    width: 175px;
+    /*margin-left: 10px;*/
+    border: 1px solid #ced4da;
+}
+
+div.dataTables_length label {
+    padding-top: .85em;
 }
 
 div.dataTables_length,
@@ -90,16 +101,11 @@ div.dataTables_wrapper div.dataTables_filter,
 div.dataTables_wrapper div.dataTables_info,
 div.dataTables_wrapper div.dataTables_paginate {
     text-align: left !important;
+    margin-left: 10px;
 }
 
 div.dataTables_wrapper div.dataTables_paginate ul.pagination {
     justify-content: left !important;
-}
-
-div.dataTables_filter select {
-    width: 175px;
-    margin-left: 10px;
-    border: 1px solid #ced4da;
 }
 
 /* --- books --- */
