@@ -122,11 +122,13 @@ img.book-image {
   position: relative;
 }
 
-.topnav a {
+.topnav a,
+.topnav span {
   color: white;
   padding: 10px 10px;
   text-decoration: none;
   display: block;
+  cursor: pointer;
 }
 
 .topnav h1 a {
@@ -134,7 +136,7 @@ img.book-image {
 }
 
 /* Style the hamburger menu */
-.topnav a.icon {
+.topnav span.icon {
   background: #3776ab;
   display: block;
   position: absolute;
@@ -155,6 +157,7 @@ img.book-image {
   padding-top: 40px;
 }
 
+.sidenav span,
 .sidenav a {
   padding: 8px 8px 8px 20px;
   text-decoration: none;
@@ -164,8 +167,10 @@ img.book-image {
   transition: 0.3s;
 }
 
+.sidenav span:hover,
 .sidenav a:hover {
   color: #3776ab;
+  cursor: pointer;
 }
 
 .sidenav .closebtn {
@@ -174,6 +179,7 @@ img.book-image {
   right: 25px;
   font-size: 24px;
   margin-left: 50px;
+  cursor: pointer;
 }
 
 /*
