@@ -42,8 +42,14 @@ browse-s3:
 ## AWS S3 cp app and data to S3
 s3-deploy-app-full: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+	# TODO: mode data into seperate dir!
 	aws s3 cp ../github_data.csv s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp ../github_*.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.ui.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_hot.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_tags_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_top.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
