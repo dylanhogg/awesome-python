@@ -58,9 +58,11 @@ $(document).keydown(function(e) {
     }
 });
 
+// TODO: load CATEGORY_DATA from url...
 var CATEGORY_DATA = {
     '': 'Select category...',
     'all': 'All categories',
+    'chatgpt': 'ChatGPT and LLMs',
     'crypto': 'Crypto',
     'data': 'Data',
     'debug': 'Debugging',
@@ -211,6 +213,8 @@ $(document).ready( function () {
             title: "Name",
             render: function(data, type, row, meta) {
                 var repoUrl = "<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+                // var avatarUrl = "<img src='https://github.com/" + row._organization + ".png?size=50' />";
+                // return avatarUrl + repoUrl;
                 return repoUrl;
              }
            },

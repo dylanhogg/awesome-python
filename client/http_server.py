@@ -22,8 +22,10 @@ class CustomHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
 
 
 with socketserver.TCPServer(("", PORT), CustomHttpRequestHandler) as httpd:
-    logger.info(f"Custom http.server on port {PORT} from dir {DIRECTORY} with default page {DEFAULT_PAGE}. "
-                f"Press CTRL+C to close the server.")
+    logger.info(
+        f"Custom http.server on port {PORT} from dir {DIRECTORY} with default page {DEFAULT_PAGE}. "
+        f"Press CTRL+C to close the server."
+    )
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
