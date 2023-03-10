@@ -79,7 +79,7 @@ $(document).ready( function () {
             if (rank == 1) {
                 html = "<tr><td>";
                 // var category_link = "<a class='label-link' title='" + CATEGORY_DATA[row.category] + "' href='/?c=" + row.category + "'>" + row.category + "</a>";
-                var category_link = "<h1><a class='label-link' title='" + CATEGORY_DATA[row.category] + "' href='/?c=" + row.category + "'>" + CATEGORY_DATA[row.category] + " category</a></h1>";
+                var category_link = "<h1><a class='label-link' title='" + CATEGORY_DATA[row.category] + "' href='/?c=" + row.category + "'>" + CATEGORY_DATA[row.category] + "</a></h1>";
                 html += category_link + "<br />";
             }
 

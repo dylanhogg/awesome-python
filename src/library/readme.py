@@ -4,23 +4,26 @@ import urllib.request
 import urllib.error
 import docutils.io
 import docutils.core
+from joblib import Memory
 from pathlib import Path
 from loguru import logger
 
+memory = Memory(".joblib_cache")
+
 
 # https://stackoverflow.com/questions/47337009/rst2html-on-full-python-project
-def rst2html_old(content):
-    pub = docutils.core.Publisher(source_class=docutils.io.StringInput, destination_class=docutils.io.StringOutput)
-    pub.set_components("standalone", "restructuredtext", "html")
-    pub.process_programmatic_settings(None, None, None)
-    pub.set_source(source=content)
-    pub.publish()
-    html = pub.writer.parts["whole"]
-    return html
+# def rst2html_old(content):
+#     pub = docutils.core.Publisher(source_class=docutils.io.StringInput, destination_class=docutils.io.StringOutput)
+#     pub.set_components("standalone", "restructuredtext", "html")
+#     pub.process_programmatic_settings(None, None, None)
+#     pub.set_source(source=content)
+#     pub.publish()
+#     html = pub.writer.parts["whole"]
+#     return html
 
 
 # https://www.kite.com/python/docs/docutils.core.publish_parts
-def rst2html(content):
+def _rst2html(content):
     try:
         parts = docutils.core.publish_parts(content, writer_name="html")
         return parts["html_body"]
@@ -29,7 +32,7 @@ def rst2html(content):
         return ""
 
 
-def save_content(repopath, branch, filename, content):
+def _save_content(repopath, branch, filename, content):
     folder = "data/"
     Path(folder).mkdir(parents=True, exist_ok=True)
 
@@ -55,7 +58,7 @@ def save_content(repopath, branch, filename, content):
 
     # Get HTML from content
     if filename.lower().endswith(".rst"):
-        html_content = rst2html(content)
+        html_content = _rst2html(content)
     else:
         # TODO: how to handle non markdown/non rst?
         html_content = markdown.markdown(content)
@@ -79,7 +82,7 @@ def save_content(repopath, branch, filename, content):
     logger.info(f"Saved file {out_filename}")
 
 
-def safe_get_url(repopath, branch, filename):
+def _safe_get_url(repopath, branch, filename):
     try:
         url = f"https://raw.githubusercontent.com/{repopath}/{branch}/{filename}"
         resource = urllib.request.urlopen(url)
@@ -89,6 +92,7 @@ def safe_get_url(repopath, branch, filename):
         return ""
 
 
+@memory.cache()
 def get_readme(repopath):
     filenames = [
         "README.md",
@@ -107,9 +111,9 @@ def get_readme(repopath):
 
     for branch in ["master", "main"]:
         for filename in filenames:
-            content = safe_get_url(repopath, branch, filename)
+            content = _safe_get_url(repopath, branch, filename)
             if len(content) > 0:
-                save_content(repopath, branch, filename, content)
+                _save_content(repopath, branch, filename, content)
                 return filename  # TODO:  return tuple (repopath, branch, filename, local_filename)
 
     # Did not locate any readme files in repo
