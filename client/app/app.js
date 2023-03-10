@@ -192,8 +192,8 @@ $(document).ready( function () {
         paging: true,
         pagingType: "full",  // https://datatables.net/reference/option/pagingType
         lengthChange: true,
-        lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
-        pageLength: 5,
+        lengthMenu: [[7, 10, 50, -1], [7, 10, 50, "All"]],
+        pageLength: 7,
         search: {
            search: initialSearchTerm,
         },
@@ -251,10 +251,16 @@ $(document).ready( function () {
             title: "Links",
             render: function(data, type, row, meta) {
                 var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
-                var orgUrl = "<br /><a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
+                var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
-                try { homepageUrl = "<br /><a href='" + row._homepage + "' target='_blank'><img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
-                return "<div class='text-wrap links-column'>" + repoUrl + orgUrl + homepageUrl + "</div>";
+                try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'><img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
+                return "<div class='text-wrap links-column'>" + repoUrl + "<br />" + orgUrl + "<br />" + homepageUrl + "</div>";
+
+//                var repoUrl = "<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+//                var orgUrl = "<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
+//                var homepageUrl = "";
+//                try { homepageUrl = "<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
+//                return "<div class='text-wrap links-column'>" + orgUrl + "/<b>" + repoUrl + "</b><br />" + homepageUrl + "</div>";
              }
            },
 
