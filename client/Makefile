@@ -44,7 +44,7 @@ s3-deploy-app-full: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.csv s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../github_*.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
+	# aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp app to S3 (no data)
@@ -54,7 +54,7 @@ s3-deploy-app-only: remove-data-local-app
 
 ## AWS S3 cp custom to S3
 s3-deploy-app-custom:
-	aws s3 cp app/app.css s3://${BUCKET_NAME}/app.css --profile ${AWS_PROFILE}
+	aws s3 cp app/app.js s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	# aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 

@@ -83,9 +83,9 @@ $(document).ready( function () {
                 html += category_link + "<br />";
             }
 
-            var asset_url = "https://opengraph.githubassets.com/" + hashCode + "/" + org_repo; // + "?size=50";
-            var asset_img = "<img src='" + asset_url + "' width='32%' />";
             var asset_title = row._repopath + ", Score: " + row._pop_score + ", Stars per week: " + row._stars_per_week;
+            var asset_url = "https://opengraph.githubassets.com/" + hashCode + "/" + org_repo; // + "?size=50";
+            var asset_img = "<img src='" + asset_url + "' width='32%' alt='" + asset_title + "' />";
             var asset_link = "<a href='https://github.com/" + row._repopath + "' title='" + asset_title + "' alt='" + asset_title + "'>" + asset_img + "</a>";
             html += asset_link + "&nbsp;";
 
