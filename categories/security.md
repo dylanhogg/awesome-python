@@ -9,27 +9,27 @@ Checkout the interactive version that you can filter and sort:
 trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
 [https://aquasecurity.github.io/trivy](https://aquasecurity.github.io/trivy)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
-80 stars per week over 203 weeks  
-16,441 stars, 1,597 forks, 154 watches  
-created 2019-04-11, last commit 2023-03-03, main language Go  
+80 stars per week over 204 weeks  
+16,518 stars, 1,601 forks, 154 watches  
+created 2019-04-11, last commit 2023-03-09, main language Go  
 <sub><sup>containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners</sup></sub>
 
 
 ### [certbot](https://github.com/certbot/certbot)  
 Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.  
 [https://github.com/certbot/certbot](https://github.com/certbot/certbot)  
-68 stars per week over 433 weeks  
-29,683 stars, 3,332 forks, 762 watches  
-created 2014-11-12, last commit 2023-03-02, main language Python  
+68 stars per week over 434 weeks  
+29,698 stars, 3,333 forks, 761 watches  
+created 2014-11-12, last commit 2023-03-08, main language Python  
 <sub><sup>acme, acme-client, certbot, certificate, letsencrypt, python</sup></sub>
 
 
 ### [maltrail](https://github.com/stamparm/maltrail) by [stamparm](https://github.com/stamparm)  
 maltrail: Malicious traffic detection system  
 [https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)  
-11 stars per week over 430 weeks  
-4,992 stars, 937 forks, 216 watches  
-created 2014-12-04, last commit 2023-03-04, main language Python  
+11 stars per week over 431 weeks  
+5,000 stars, 936 forks, 216 watches  
+created 2014-12-04, last commit 2023-03-10, main language Python  
 <sub><sup>attack-detection, intrusion-detection, malware, network-monitoring, python, security, sensor</sup></sub>
 
 
@@ -37,9 +37,9 @@ created 2014-12-04, last commit 2023-03-04, main language Python
 Bandit is a tool designed to find common security issues in Python code.  
 [https://bandit.readthedocs.io](https://bandit.readthedocs.io)  
 [https://github.com/pycqa/bandit](https://github.com/pycqa/bandit)  
-19 stars per week over 253 weeks  
-5,002 stars, 510 forks, 65 watches  
-created 2018-04-26, last commit 2023-03-02, main language Python  
+19 stars per week over 254 weeks  
+5,023 stars, 509 forks, 65 watches  
+created 2018-04-26, last commit 2023-03-10, main language Python  
 <sub><sup>bandit, linter, python, security, security-scanner, security-tools, static-code-analysis</sup></sub>
 
 
@@ -47,9 +47,9 @@ created 2018-04-26, last commit 2023-03-02, main language Python
 pip-audit: Audits Python environments and dependency trees for known vulnerabilities  
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
-9.66 stars per week over 78 weeks  
-758 stars, 49 forks, 20 watches  
-created 2021-09-02, last commit 2023-02-24, main language Python  
+9.57 stars per week over 79 weeks  
+759 stars, 49 forks, 20 watches  
+created 2021-09-02, last commit 2023-03-08, main language Python  
 <sub><sup>pip, python, security, security-audit, supply-chain</sup></sub>
 
 
@@ -57,10 +57,20 @@ created 2021-09-02, last commit 2023-02-24, main language Python
 Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 [https://pyup.io/safety/](https://pyup.io/safety/)  
 [https://github.com/pyupio/safety](https://github.com/pyupio/safety)  
-4.41 stars per week over 332 weeks  
-1,465 stars, 124 forks, 31 watches  
+4.4 stars per week over 333 weeks  
+1,468 stars, 124 forks, 30 watches  
 created 2016-10-19, last commit 2023-02-26, main language Python  
 <sub><sup>python, security, security-vulnerability, travis, vulnerability-detection, vulnerability-scanners</sup></sub>
+
+
+### [jake](https://github.com/sonatype-nexus-community/jake) by [sonatype-nexus-community](https://github.com/sonatype-nexus-community)  
+jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
+[https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
+[https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
+0.45 stars per week over 178 weeks  
+81 stars, 22 forks, 8 watches  
+created 2019-10-10, last commit 2023-02-22, main language Python  
+<sub><sup>nexus-iq, ossindex, python, sonatype-iq, vulnerabilities, vulnerability-scanners</sup></sub>
 
 
 ### [pysnyk](https://github.com/snyk-labs/pysnyk) by [snyk-labs](https://github.com/snyk-labs)  
@@ -73,25 +83,15 @@ created 2019-02-03, last commit 2023-01-20, main language Python
 <sub><sup>api, python, snyk</sup></sub>
 
 
-### [jake](https://github.com/sonatype-nexus-community/jake) by [sonatype-nexus-community](https://github.com/sonatype-nexus-community)  
-jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
-[https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
-[https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
-0.45 stars per week over 177 weeks  
-80 stars, 21 forks, 8 watches  
-created 2019-10-10, last commit 2023-02-22, main language Python  
-<sub><sup>nexus-iq, ossindex, python, sonatype-iq, vulnerabilities, vulnerability-scanners</sup></sub>
-
-
 ### [repository-scanner](https://github.com/abnamro/repository-scanner) by [abnamro](https://github.com/abnamro)  
 repository-scanner: Tool to detect secrets in source code management systems.  
 [https://github.com/abnamro/repository-scanner](https://github.com/abnamro/repository-scanner)  
-2.28 stars per week over 25 weeks  
+2.21 stars per week over 26 weeks  
 58 stars, 3 forks, 6 watches  
-created 2022-09-08, last commit 2023-03-03, main language Python  
+created 2022-09-08, last commit 2023-03-09, main language Python  
 
 
-This file was automatically generated on 2023-03-05.  
+This file was automatically generated on 2023-03-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
