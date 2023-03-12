@@ -9,12 +9,13 @@ def main():
     csv_location = env.get("CSV_LOCATION")
     token_delim = env.get("GITHUB_ACCESS_TOKEN")
     token_list = token_delim.split("|")
-    github_csv_filename = "github_data.csv"
-    github_json_filename = "github_data.json"
-    crawler.write_files(csv_location, token_list, github_csv_filename, github_json_filename)
 
-    github_tags_json_filename = "github_tags_data.json"
-    postprocess.write_tags(github_json_filename, github_tags_json_filename, most_common=200)
+    # Crawl and write files
+    github_json_filename = "github_data.json"
+    crawler.write_files(csv_location, token_list, "github_data.csv", github_json_filename)
+
+    # Post-processing
+    postprocess.write_tags(github_json_filename, "github_tags_data.json", most_common=200)
     postprocess.write_best_in_class_data(github_json_filename="github_top.json", sort_col="_pop_score")
     postprocess.write_best_in_class_data(github_json_filename="github_hot.json", sort_col="_stars_per_week")
 
