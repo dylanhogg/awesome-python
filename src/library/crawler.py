@@ -99,6 +99,7 @@ def write_files(csv_location: str, token_list: List[str], output_csv_filename: s
             "_age_weeks",
             "category",
             "_topics",
+            "sim",
             "_readme_localurl",
         ]
         json_results = df[cols].to_json(orient="table", double_precision=2, index=False)
