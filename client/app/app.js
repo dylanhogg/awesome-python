@@ -258,7 +258,7 @@ $(document).ready( function () {
 //           { data: "_pop_comment_frequency", title: "comment_frequency", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
 
            { data: null,
-            title: "Links 🔗",
+            title: "Links",
             render: function(data, type, row, meta) {
                 var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
                 var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
@@ -306,7 +306,7 @@ $(document).ready( function () {
             }
            },
 
-           { data: "sim", title: "Similar libraries 🔗",
+           { data: "sim", title: "Similar libraries",
             // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
             render: function(data, type, row, meta) {
                 if (data.length == 0) { return ""; }
@@ -339,7 +339,7 @@ $(document).ready( function () {
                             return null;
                         }
 
-                        var debug_text = true;
+                        var debug_text = false;
                         var short_repo = repo.split("/")[1].toLowerCase();
                         if (debug_text) {
                             short_repo += ", " + render + ", " + sim + ", " + common_topic_count;
