@@ -145,7 +145,8 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     records = df[["_repopath", "_reponame", "category", "_description", "_topics"]].to_dict("records")
     lookup_dict = similarity.get_lookup_dict(records)
     df["sim"] = df.apply(
-        lambda row: similarity.lookup_similarity_record(row, lookup_dict), axis=1,
+        lambda row: similarity.lookup_similarity_record(row, lookup_dict),
+        axis=1,
     )
 
     # Add popularity metric columns ------------------------------------------------

@@ -11,17 +11,16 @@ def _remove_generic_topics(topics):
 
 def _create_similarity_record(row):
     topics = _remove_generic_topics(row["_topics"])
-    description = row['_description']
-    description = description.replace(row['_reponame'] + ': ', "")  # HACK: remove prefixed repo name from description
+    description = row["_description"]
+    description = description.replace(row["_reponame"] + ": ", "")  # HACK: remove prefixed repo name from description
     description = description.strip().rstrip(".")
     description += ". " + ", ".join(topics)
 
-    return {"repopath": row["_repopath"], "sentence": description,
-            "topics": topics, "category": row["category"]}
+    return {"repopath": row["_repopath"], "sentence": description, "topics": topics, "category": row["category"]}
 
 
 def get_lookup_dict(records: dict) -> dict:
-    model = SentenceTransformer('all-MiniLM-L6-v2')
+    model = SentenceTransformer("all-MiniLM-L6-v2")
     similarity_records = [_create_similarity_record(v) for v in records]
     sentences = [d["sentence"] for d in similarity_records]
 
@@ -51,23 +50,25 @@ def get_lookup_dict(records: dict) -> dict:
             repo2 = similarity_records[j]["repopath"]
             category1 = similarity_records[i]["category"]
             category2 = similarity_records[j]["category"]
-            lookup_dict \
-                .setdefault(repo1, []) \
-                .append((repo2, sim, category2, len(common_topics)))  # NOTE: fields included in sim column
-            pairwise_dataset.append({
-                "idx": idx,
-                "sim": sim,
-                "common_topics": ", ".join(common_topics),
-                "common_topics_count": len(common_topics),
-                "total_topics_count": total_topics,
-                "common_topics_prop": len(common_topics) / total_topics if total_topics > 0 else 0,
-                "repo1": repo1,
-                "repo2": repo2,
-                "category1": category1,
-                "category2": category2,
-                "sent1": similarity_records[i]["sentence"],
-                "sent2": similarity_records[j]["sentence"],
-            })
+            lookup_dict.setdefault(repo1, []).append(
+                (repo2, sim, category2, len(common_topics))
+            )  # NOTE: fields included in sim column
+            pairwise_dataset.append(
+                {
+                    "idx": idx,
+                    "sim": sim,
+                    "common_topics": ", ".join(common_topics),
+                    "common_topics_count": len(common_topics),
+                    "total_topics_count": total_topics,
+                    "common_topics_prop": len(common_topics) / total_topics if total_topics > 0 else 0,
+                    "repo1": repo1,
+                    "repo2": repo2,
+                    "category1": category1,
+                    "category2": category2,
+                    "sent1": similarity_records[i]["sentence"],
+                    "sent2": similarity_records[j]["sentence"],
+                }
+            )
 
     # Ensure sorted dict value by similarity (item[1])
     lookup_dict = {k: sorted(v, key=lambda item: item[1], reverse=True) for k, v in lookup_dict.items()}
