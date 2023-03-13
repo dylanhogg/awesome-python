@@ -1,4 +1,4 @@
-const version = "v0.0.11";
+const version = "v0.0.12";
 const CATEGORY_COL = 0;  // 0-based
 const TAG_COL = 8;
 
@@ -22,6 +22,7 @@ var CATEGORY_DATA = {
     'ml-dl': 'ML - Deep Learning',
     'ml-interpretability': 'ML - Interpretability',
     'ml-ops': 'ML - Ops',
+    'ml-rl': 'ML - Reinforcement',
     'time-series': 'ML - Time Series',
     'nlp': 'NLP',
     'pandas': 'Pandas',

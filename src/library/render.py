@@ -1,5 +1,6 @@
 import sys
 import pandas as pd
+import library.similarity as similarity
 from datetime import datetime
 from typing import List, Callable
 from loguru import logger
@@ -130,7 +131,7 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     timing_lookup = datetime.now() - t0
     logger.info(f"Timing: {timing_lookup.total_seconds()=}")
 
-    # Add standard metric columns ------------------------------------------------
+    # Add standard metric columns --------------------------------------------------
     logger.info(f"Add popularity metric columns...")
     std_metrics = StandardMetrics()
     t0 = datetime.now()
@@ -138,6 +139,14 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     _column_apply(df, "_last_commit_date", "_repopath", lambda x: std_metrics.last_commit_date(ghw, x))
     timing_std = datetime.now() - t0
     logger.info(f"Timing: {timing_std.total_seconds()=}")
+
+    # Calculate similarity metrics -------------------------------------------------
+    logger.info(f"Calculate similarity metrics...")
+    records = df[["_repopath", "_reponame", "category", "_description", "_topics"]].to_dict("records")
+    lookup_dict = similarity.get_lookup_dict(records)
+    df["sim"] = df.apply(
+        lambda row: similarity.lookup_similarity_record(row, lookup_dict), axis=1,
+    )
 
     # Add popularity metric columns ------------------------------------------------
     logger.info(f"Add popularity metric columns...")
