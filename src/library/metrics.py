@@ -25,7 +25,13 @@ class StandardMetrics:
     @memory.cache(ignore=["ghw"])
     @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
     def get_repo_topics(ghw: GithubWrapper, name: str):
-        return ghw.get_repo(name).get_topics()
+        topics = ghw.get_repo(name).get_topics()
+        # Remove generic topics
+        remove_topics = ["python", "python2", "python-2", "python3", "python-3", "python-library", "library"]
+        for t in remove_topics:
+            if t in topics:
+                topics.remove(t)
+        return topics
 
     @staticmethod
     @memory.cache(ignore=["ghw"])

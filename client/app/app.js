@@ -1,4 +1,4 @@
-const version = "v0.0.11";
+const version = "v0.0.12";
 const CATEGORY_COL = 7;  // 0-based
 const TAG_COL = 8;
 
@@ -58,9 +58,11 @@ $(document).keydown(function(e) {
     }
 });
 
+// TODO: load CATEGORY_DATA from url and sinc with best.js...
 var CATEGORY_DATA = {
     '': 'Select category...',
     'all': 'All categories',
+    'chatgpt': 'ChatGPT and LLMs',
     'crypto': 'Crypto',
     'data': 'Data',
     'debug': 'Debugging',
@@ -76,6 +78,7 @@ var CATEGORY_DATA = {
     'ml-dl': 'ML - Deep Learning',
     'ml-interpretability': 'ML - Interpretability',
     'ml-ops': 'ML - Ops',
+    'ml-rl': 'ML - Reinforcement',
     'time-series': 'ML - Time Series',
     'nlp': 'NLP',
     'pandas': 'Pandas',
@@ -210,7 +213,14 @@ $(document).ready( function () {
           { data: null,
             title: "Name",
             render: function(data, type, row, meta) {
-                var repoUrl = "<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+                var short_repo = row._reponame.toLowerCase();
+                var max_strlen = 40;
+                if (short_repo.length > max_strlen) {
+                    short_repo = short_repo.substr(0, max_strlen);
+                }
+                var repoUrl = "<a href='" + row.githuburl + "'>" + short_repo + "</a>";
+                // var avatarUrl = "<img src='https://github.com/" + row._organization + ".png?size=50' />";
+                // return avatarUrl + repoUrl;
                 return repoUrl;
              }
            },
@@ -295,6 +305,63 @@ $(document).ready( function () {
                 }).join(" ");
             }
            },
+
+           { data: "sim", title: "Similar libraries",
+            // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
+            render: function(data, type, row, meta) {
+                if (data.length == 0) { return ""; }
+                var sim_max_count = 3;
+                var sim_max_strlen = 30;
+                var data = data.slice(0, sim_max_count);
+                var repo_links = data.map(item => {
+                    try {
+                        var repo = item[0];
+                        var sim = item[1];
+                        var category = item[2];
+                        var common_topic_count = item[3];
+
+                        var render = false;
+                        // TODO: this calc is a WIP...
+                        if (sim >= 0.65) {
+                            render = true;
+                        } else if (sim >= 0.60 && category == row.category && category != "util") {
+                            render = true;
+                        } else if (sim >= 0.60 && common_topic_count >= 3) {
+                            render = true;
+                        } else if (sim >= 0.55 && category == row.category && common_topic_count >= 2) {
+                            render = true;
+                        } else if (sim >= 0.51 && category == row.category && common_topic_count >= 4) {
+                            render = true;
+                        }
+
+                        var debug_render = false;
+                        if (!render && !debug_render) {
+                            return null;
+                        }
+
+                        var debug_text = false;
+                        var short_repo = repo.split("/")[1].toLowerCase();
+                        if (debug_text) {
+                            short_repo += ", " + render + ", " + sim + ", " + common_topic_count;
+                        }
+                        if (short_repo.length > sim_max_strlen) {
+                            short_repo = short_repo.substr(0, sim_max_strlen);
+                        }
+                        var title = repo + ", similarity:" + sim + ", category: " + category + ", common tags:" + common_topic_count;
+                        return "<a href='https://www.github.com/" + repo + "' title='" + title
+                                   + "' target='_blank'><img src='img/repo.png' width='16' height='16' alt='repo' title='"
+                                   + title + "' class='github-img'></img></a>&nbsp;<a href='https://www.github.com/" + repo + "' title='"
+                                   + title + "'>" + short_repo + "</a>";
+                    } catch(err) {
+                        return null;
+                    }
+                })
+
+                repo_links = repo_links.filter(function (el) { return el != null; });
+                repo_html = repo_links.join("<br />");
+                return "<div class='text-wrap links-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
+              }
+            },
 
 //           { data: "_readme_localurl", title: "Docs",
 //            orderable: false,

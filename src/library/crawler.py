@@ -99,11 +99,20 @@ def write_files(csv_location: str, token_list: List[str], output_csv_filename: s
             "_age_weeks",
             "category",
             "_topics",
+            "sim",
             "_readme_localurl",
         ]
         json_results = df[cols].to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)
         json.dump(data, f, separators=(",", ":"))
+
+    # Write raw results to pickle
+    output_pickle_filename = (
+        output_json_filename.replace(".json", ".pkl")
+        if ".json" in output_json_filename
+        else output_json_filename + ".pkl"
+    )
+    df.to_pickle(output_pickle_filename)
 
     # Add markdown columns for local README.md and categories/*.md file lists.
     logger.info(f"Add markdown columns...")

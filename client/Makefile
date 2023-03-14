@@ -18,6 +18,7 @@ copy-data-local-app: remove-data-local-app
 	cp ../github_data.ui.min.json app/
 	cp ../github_tags_data.json app/
 	cp ../github_top.json app/
+	cp ../github_hot.json app/
 	cp -r ../data app/data
 
 ## Remove processed data from local client for testing
@@ -41,11 +42,14 @@ browse-s3:
 ## AWS S3 cp app and data to S3
 s3-deploy-app-full: remove-data-local-app
 	aws s3 cp app s3://${BUCKET_NAME} --recursive --profile ${AWS_PROFILE}
+	# TODO: mode data into seperate dir!
 	aws s3 cp ../github_data.csv s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp ../github_data.ui.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../github_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	# aws s3 cp ../github_top.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_data.ui.min.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_hot.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_tags_data.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp ../github_top.json s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	aws s3 cp ../data s3://${BUCKET_NAME}/data --recursive --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
@@ -56,16 +60,13 @@ s3-deploy-app-only: remove-data-local-app
 
 ## AWS S3 cp custom to S3
 s3-deploy-app-custom:
-	aws s3 cp app/app.css s3://${BUCKET_NAME}/app.css --profile ${AWS_PROFILE}
+	aws s3 cp app/app.js s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	# aws s3 cp app/sitemap.xml s3://${BUCKET_NAME}/sitemap.xml --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp static files to S3
 s3-deploy-static:
-	aws s3 cp app/app.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp app/docs.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp app/books.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
-	aws s3 cp app/about.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
+	aws s3 cp app/*.html s3://${BUCKET_NAME} --profile ${AWS_PROFILE}
 	# NOTE: Remember to invalidate Cloudfront cache to materialise changes: "make cf-invalidation"
 
 ## AWS S3 cp app to S3
