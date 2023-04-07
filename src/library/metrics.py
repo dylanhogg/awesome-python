@@ -147,7 +147,11 @@ class PopularityMetrics:
         repo = ghw.get_repo(name)
         # NOTE: get_stats_commit_activity Returns the last year of commit activity grouped by week
         stats_commit_activity = repo.get_stats_commit_activity()
-        assert len(stats_commit_activity) == 52
+        if not stats_commit_activity:
+            # NOTE: have only seen stats_commit_activity=None for the-algorithm-ml/issues which has 1 commit.
+            logger.warning(f"stats_commit_activity was None for {name=}")
+            return 1
+        assert len(stats_commit_activity) == 52, f"len(stats_commit_activity) was not 52 as expected"
         total = 0
         for week_stat in stats_commit_activity:
             total += week_stat.total
@@ -185,16 +189,18 @@ class PopularityMetrics:
         # time on GitHub. If yes, then the repository creation time is not
         # correct, and it was residing somewhere else before. So, use the first
         # commit date.
-        prior_creation_commit_count = repo.get_commits(until=creation_time).totalCount
-        if prior_creation_commit_count:
-            logger.warning(
-                f"{name} has {prior_creation_commit_count=}, repository creation time is not correct, "
-                f"and it was residing somewhere else before"
-            )
-            # TODO: see how often this happens
-            # first_commit_time = self.get_first_commit_time()
-            # if first_commit_time:
-            #     creation_time = min(creation_time, first_commit_time)
+        # TODO: commented out as not using the result for anything yet
+        #       should look into this more
+        # prior_creation_commit_count = repo.get_commits(until=creation_time).totalCount
+        # if prior_creation_commit_count:
+        #     logger.warning(
+        #         f"{name} has {prior_creation_commit_count=}, repository creation time is not correct, "
+        #         f"and it was residing somewhere else before"
+        #     )
+        #     # TODO: see how often this happens
+        #     # first_commit_time = self.get_first_commit_time()
+        #     # if first_commit_time:
+        #     #     creation_time = min(creation_time, first_commit_time)
 
         difference = datetime.utcnow() - creation_time
         return round(difference.days / 30)
@@ -227,7 +233,18 @@ class PopularityMetrics:
         # do the rough calculation.
         days_since_creation = PopularityMetrics.created_since_days(ghw, name) * 30
         if days_since_creation:
-            total_tags = repo.get_tags().totalCount
+            try:
+                total_tags = repo.get_tags().totalCount
+            except KeyError as ex:
+                # 2013-04-05: Saw this error on repo.get_tags().totalCount a few times with 'giswqs/leafmap':
+                # File "/Users/dylan/_gitdrh/crazy-awesome-python/venv/lib/python3.9/site-packages/
+                #       github/PaginatedList.py", line 163, in totalCount
+                #     self.__totalCount = int(parse_qs(lastUrl)["page"][0])
+                # KeyError: 'page'
+                total_tags = 1
+                logger.error(f"recent_releases_count_dict KeyError for {name=}: {ex}")
+                logger.error(f"This could be due to a repo org move like giswqs/leafmap -> opengeos/leafmap")
+                raise ex
             estimated_tags = round((total_tags / days_since_creation) * RELEASE_LOOKBACK_DAYS)
 
         recent_releases_adjusted_count = recent_releases_count
@@ -242,7 +259,7 @@ class PopularityMetrics:
 
     @staticmethod
     @memory.cache(ignore=["ghw"])
-    @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
+    # @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
     def comment_frequency(ghw: GithubWrapper, name: str) -> dict:
         ISSUE_LOOKBACK_DAYS = 90
         repo = ghw.get_repo(name)

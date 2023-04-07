@@ -37,7 +37,18 @@ class PopularityScorer:
         def _get_param_score(param, max_value, weight=1.0):
             """Return paramater score given its current value, max value and
             parameter weight."""
-            return (math.log(1 + param) / math.log(1 + max(param, max_value))) * weight
+            if param < 0:
+                # Seen for twitter/the-algorithm-ml
+                logger.warning(f"Negative value for param in _get_param_score: {param=}, {row['_repopath']=}")
+                param = 0  # Handle negative values for log below
+
+            try:
+                score = (math.log(1 + param) / math.log(1 + max(param, max_value))) * weight
+            except Exception as e:
+                logger.error(f"Error in _get_param_score {param=}, {max_value=}, {weight=}, {row['_repopath']=}: {e}")
+                raise e
+
+            return score
 
         total_weight = (
             CREATED_SINCE_WEIGHT
