@@ -15,6 +15,7 @@ clean:
 
 ## Run the app
 run:
+	# TODO: warn if cache exists
 	source venv/bin/activate ; PYTHONPATH='./src' python -m app
 
 ## Run the app, with no cache

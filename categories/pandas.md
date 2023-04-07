@@ -9,18 +9,18 @@ Checkout the interactive version that you can filter and sort:
 pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
-56 stars per week over 656 weeks  
-37,388 stars, 15,963 forks, 1,107 watches  
-created 2010-08-24, last commit 2023-03-26, main language Python  
+57 stars per week over 658 weeks  
+37,590 stars, 16,010 forks, 1,110 watches  
+created 2010-08-24, last commit 2023-04-04, main language Python  
 <sub><sup>alignment, data-analysis, data-science, flexible, pandas</sup></sub>
 
 
 ### [pygwalker](https://github.com/kanaries/pygwalker) by [kanaries](https://github.com/kanaries)  
 PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis  
 [https://github.com/kanaries/pygwalker](https://github.com/kanaries/pygwalker)  
-850 stars per week over 5 weeks  
-4,737 stars, 139 forks, 19 watches  
-created 2023-02-16, last commit 2023-03-26, main language Python  
+680 stars per week over 7 weeks  
+4,859 stars, 150 forks, 20 watches  
+created 2023-02-16, last commit 2023-03-31, main language Python  
 <sub><sup>data-analysis, data-exploration, dataframe, pandas, tableau, tableau-alternative, visualization</sup></sub>
 
 
@@ -28,9 +28,9 @@ created 2023-02-16, last commit 2023-03-26, main language Python
 aws-sdk-pandas: pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).  
 [https://aws-sdk-pandas.readthedocs.io](https://aws-sdk-pandas.readthedocs.io)  
 [https://github.com/aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)  
-15 stars per week over 212 weeks  
-3,373 stars, 592 forks, 60 watches  
-created 2019-02-26, last commit 2023-03-26, main language Python  
+15 stars per week over 214 weeks  
+3,387 stars, 594 forks, 60 watches  
+created 2019-02-26, last commit 2023-03-30, main language Python  
 <sub><sup>amazon-athena, amazon-sagemaker-notebook, apache-arrow, apache-parquet, athena, aws, aws-glue, aws-lambda, data-engineering, data-science, emr, etl, glue-catalog, lambda, mysql, pandas, redshift</sup></sub>
 
 
@@ -38,9 +38,9 @@ created 2019-02-26, last commit 2023-03-26, main language Python
 ydata-profiling: Create HTML profiling reports from pandas DataFrame objects  
 [https://ydata-profiling.ydata.ai](https://ydata-profiling.ydata.ai)  
 [https://github.com/ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)  
-27 stars per week over 376 weeks  
-10,394 stars, 1,458 forks, 148 watches  
-created 2016-01-09, last commit 2023-03-17, main language Python  
+27 stars per week over 377 weeks  
+10,432 stars, 1,461 forks, 149 watches  
+created 2016-01-09, last commit 2023-03-28, main language Python  
 <sub><sup>big-data-analytics, data-analysis, data-exploration, data-profiling, data-quality, data-science, deep-learning, eda, exploration, exploratory-data-analysis, hacktoberfest, html-report, jupyter, jupyter-notebook, machine-learning, pandas, pandas-dataframe, pandas-profiling, statistics</sup></sub>
 
 
@@ -48,9 +48,9 @@ created 2016-01-09, last commit 2023-03-17, main language Python
 pandera: A light-weight, flexible, and expressive statistical data testing library  
 [https://www.union.ai/pandera](https://www.union.ai/pandera)  
 [https://github.com/pandera-dev/pandera](https://github.com/pandera-dev/pandera)  
-9.37 stars per week over 229 weeks  
-2,152 stars, 175 forks, 15 watches  
-created 2018-11-01, last commit 2023-03-24, main language Python  
+9.41 stars per week over 231 weeks  
+2,176 stars, 175 forks, 15 watches  
+created 2018-11-01, last commit 2023-03-30, main language Python  
 <sub><sup>assertions, data-assertions, data-check, data-cleaning, data-processing, data-validation, data-verification, dataframe-schema, dataframes, hypothesis-testing, pandas, pandas-dataframe, pandas-validation, pandas-validator, schema, testing, testing-tools, validation</sup></sub>
 
 
@@ -58,9 +58,9 @@ created 2018-11-01, last commit 2023-03-24, main language Python
 Daft: The Python DataFrame for Complex Data  
 [https://getdaft.io](https://getdaft.io)  
 [https://github.com/eventual-inc/daft](https://github.com/eventual-inc/daft)  
-10 stars per week over 48 weeks  
-514 stars, 19 forks, 7 watches  
-created 2022-04-25, last commit 2023-03-27, main language Python  
+10 stars per week over 49 weeks  
+516 stars, 19 forks, 8 watches  
+created 2022-04-25, last commit 2023-04-04, main language Python  
 <sub><sup>data-engineering, data-science, dataframe, deep-learning, distributed-computing, image-processing, machine-learning, rust</sup></sub>
 
 
@@ -68,66 +68,66 @@ created 2022-04-25, last commit 2023-03-27, main language Python
 pandarallel: A simple and efficient tool to parallelize Pandas operations on all available CPUs  
 [https://nalepae.github.io/pandarallel](https://nalepae.github.io/pandarallel)  
 [https://github.com/nalepae/pandarallel](https://github.com/nalepae/pandarallel)  
-13 stars per week over 211 weeks  
-2,938 stars, 179 forks, 27 watches  
+13 stars per week over 212 weeks  
+2,945 stars, 183 forks, 27 watches  
 created 2019-03-10, last commit 2023-02-12, main language Python  
 <sub><sup>pandas, parallel</sup></sub>
-
-
-### [swifter](https://github.com/jmcarpenter2/swifter) by [jmcarpenter2](https://github.com/jmcarpenter2)  
-swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner  
-[https://github.com/jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter)  
-8.65 stars per week over 259 weeks  
-2,244 stars, 100 forks, 30 watches  
-created 2018-04-07, last commit 2023-03-24, main language Python  
-<sub><sup>dask, modin, pandas, pandas-dataframe, parallel-computing, parallelization</sup></sub>
 
 
 ### [hamilton](https://github.com/stitchfix/hamilton) by [stitchfix](https://github.com/stitchfix)  
 hamilton: A scalable general purpose micro-framework for defining dataflows. THIS REPOSITORY HAS BEEN MOVED TO www.github.com/dagworks-inc/hamilton  
 [https://www.github.com/dagworks-inc/hamilton](https://www.github.com/dagworks-inc/hamilton)  
 [https://github.com/stitchfix/hamilton](https://github.com/stitchfix/hamilton)  
-5.97 stars per week over 147 weeks  
-882 stars, 42 forks, 19 watches  
+5.91 stars per week over 149 weeks  
+883 stars, 42 forks, 19 watches  
 created 2020-05-26, last commit 2023-02-26, main language Python  
 <sub><sup>dag, data-engineering, data-platform, data-science, dataframe, etl, etl-framework, etl-pipeline, feature-engineering, featurization, hamilton, hamiltonian, machine-learning, numpy, pandas, software-engineering, stitch-fix</sup></sub>
+
+
+### [swifter](https://github.com/jmcarpenter2/swifter) by [jmcarpenter2](https://github.com/jmcarpenter2)  
+swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner  
+[https://github.com/jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter)  
+8.6 stars per week over 260 weeks  
+2,244 stars, 100 forks, 30 watches  
+created 2018-04-07, last commit 2023-03-24, main language Python  
+<sub><sup>dask, modin, pandas, pandas-dataframe, parallel-computing, parallelization</sup></sub>
 
 
 ### [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) by [pyjanitor-devs](https://github.com/pyjanitor-devs)  
 pyjanitor: Clean APIs for data cleaning. Python implementation of R package Janitor  
 [https://pyjanitor-devs.github.io/pyjanitor](https://pyjanitor-devs.github.io/pyjanitor)  
 [https://github.com/pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor)  
-4.28 stars per week over 264 weeks  
-1,130 stars, 157 forks, 21 watches  
+4.27 stars per week over 265 weeks  
+1,135 stars, 157 forks, 21 watches  
 created 2018-03-04, last commit 2023-03-05, main language Python  
 <sub><sup>cleaning-data, data, data-engineering, dataframe, hacktoberfest, pandas, pydata</sup></sub>
+
+
+### [PandasGUI](https://github.com/adamerose/pandasgui) by [adamerose](https://github.com/adamerose)  
+PandasGUI: A GUI for Pandas DataFrames  
+[https://github.com/adamerose/pandasgui](https://github.com/adamerose/pandasgui)  
+14 stars per week over 199 weeks  
+2,883 stars, 205 forks, 53 watches  
+created 2019-06-12, last commit 2022-03-16, main language Python  
+<sub><sup>dataframe, gui, pandas, viewer</sup></sub>
 
 
 ### [pandas-datareader](https://github.com/pydata/pandas-datareader) by [pydata](https://github.com/pydata)  
 pandas-datareader: Extract data from a wide range of Internet sources into a pandas DataFrame.  
 [https://pydata.github.io/pandas-datareader/stable/index.html](https://pydata.github.io/pandas-datareader/stable/index.html)  
 [https://github.com/pydata/pandas-datareader](https://github.com/pydata/pandas-datareader)  
-6.1 stars per week over 427 weeks  
-2,610 stars, 641 forks, 141 watches  
+6.09 stars per week over 429 weeks  
+2,615 stars, 642 forks, 141 watches  
 created 2015-01-15, last commit 2022-03-16, main language Python  
 <sub><sup>data, data-analysis, dataset, econdb, economic-data, fama-french, finance, financial-data, fred, html, pandas, pydata, stock-data</sup></sub>
-
-
-### [PandasGUI](https://github.com/adamerose/pandasgui) by [adamerose](https://github.com/adamerose)  
-PandasGUI: A GUI for Pandas DataFrames  
-[https://github.com/adamerose/pandasgui](https://github.com/adamerose/pandasgui)  
-14 stars per week over 197 weeks  
-2,876 stars, 205 forks, 53 watches  
-created 2019-06-12, last commit 2022-03-16, main language Python  
-<sub><sup>dataframe, gui, pandas, viewer</sup></sub>
 
 
 ### [hvplot](https://github.com/holoviz/hvplot) by [holoviz](https://github.com/holoviz)  
 hvplot: A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  
 [https://hvplot.holoviz.org](https://hvplot.holoviz.org)  
 [https://github.com/holoviz/hvplot](https://github.com/holoviz/hvplot)  
-2.79 stars per week over 262 weeks  
-732 stars, 83 forks, 24 watches  
+2.81 stars per week over 263 weeks  
+740 stars, 86 forks, 24 watches  
 created 2018-03-19, last commit 2023-03-17, main language Python  
 <sub><sup>datashader, holoviews, holoviz, plotting</sup></sub>
 
@@ -136,8 +136,8 @@ created 2018-03-19, last commit 2023-03-17, main language Python
 siuba: Python library for using dplyr like syntax with pandas and SQL  
 [https://siuba.org](https://siuba.org)  
 [https://github.com/machow/siuba](https://github.com/machow/siuba)  
-4.66 stars per week over 215 weeks  
-1,004 stars, 43 forks, 21 watches  
+4.64 stars per week over 216 weeks  
+1,006 stars, 43 forks, 21 watches  
 created 2019-02-09, last commit 2022-11-16, main language Python  
 <sub><sup>data-analysis, dplyr, pandas, sql</sup></sub>
 
@@ -146,44 +146,44 @@ created 2019-02-09, last commit 2022-11-16, main language Python
 blaze: NumPy and Pandas interface to Big Data  
 [blaze.pydata.org](blaze.pydata.org)  
 [https://github.com/blaze/blaze](https://github.com/blaze/blaze)  
-5.76 stars per week over 543 weeks  
-3,130 stars, 388 forks, 199 watches  
+5.75 stars per week over 545 weeks  
+3,135 stars, 388 forks, 199 watches  
 created 2012-10-26, last commit 2019-08-15, main language Python  
 
 
 ### [spatialpandas](https://github.com/holoviz/spatialpandas) by [holoviz](https://github.com/holoviz)  
 spatialpandas: Pandas extension arrays for spatial/geometric operations  
 [https://github.com/holoviz/spatialpandas](https://github.com/holoviz/spatialpandas)  
-1.49 stars per week over 178 weeks  
-265 stars, 21 forks, 23 watches  
+1.48 stars per week over 179 weeks  
+266 stars, 21 forks, 23 watches  
 created 2019-10-28, last commit 2023-03-21, main language Python  
 <sub><sup>geographic-data, geopandas, holoviz, pandas, spatialpandas</sup></sub>
+
+
+### [traceml](https://github.com/polyaxon/datatile) by [polyaxon](https://github.com/polyaxon)  
+traceml: Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.  
+[https://github.com/polyaxon/datatile](https://github.com/polyaxon/datatile)  
+1.27 stars per week over 367 weeks  
+465 stars, 40 forks, 13 watches  
+created 2016-03-25, last commit 2023-04-04, main language Python  
+<sub><sup>dask, data-exploration, data-profiling, data-quality, data-quality-checks, data-science, data-visualization, dataframes, dataops, explainable-ai, matplotlib, mlops, pandas, pandas-summary, plotly, pytorch, spark, statistics, tensorflow, tracking</sup></sub>
 
 
 ### [pandas_flavor](https://github.com/zsailer/pandas_flavor) by [zsailer](https://github.com/zsailer)  
 pandas_flavor: The easy way to write your own flavor of Pandas  
 [https://zsailer.github.io/software/pandas-flavor/](https://zsailer.github.io/software/pandas-flavor/)  
 [https://github.com/zsailer/pandas_flavor](https://github.com/zsailer/pandas_flavor)  
-1.01 stars per week over 269 weeks  
-273 stars, 17 forks, 11 watches  
+1.01 stars per week over 271 weeks  
+274 stars, 17 forks, 11 watches  
 created 2018-01-25, last commit 2023-03-19, main language Python  
 <sub><sup>pandas</sup></sub>
-
-
-### [traceml](https://github.com/polyaxon/datatile) by [polyaxon](https://github.com/polyaxon)  
-traceml: Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.  
-[https://github.com/polyaxon/datatile](https://github.com/polyaxon/datatile)  
-1.27 stars per week over 365 weeks  
-463 stars, 40 forks, 13 watches  
-created 2016-03-25, last commit 2023-03-21, main language Python  
-<sub><sup>dask, data-exploration, data-profiling, data-quality, data-quality-checks, data-science, data-visualization, dataframes, dataops, explainable-ai, matplotlib, mlops, pandas, pandas-summary, plotly, pytorch, spark, statistics, tensorflow, tracking</sup></sub>
 
 
 ### [bamboolib](https://github.com/tkrabel/bamboolib) by [tkrabel](https://github.com/tkrabel)  
 bamboolib - a GUI for pandas DataFrames  
 [https://bamboolib.com](https://bamboolib.com)  
 [https://github.com/tkrabel/bamboolib](https://github.com/tkrabel/bamboolib)  
-4.45 stars per week over 199 weeks  
+4.42 stars per week over 201 weeks  
 889 stars, 95 forks, 31 watches  
 created 2019-05-29, last commit 2022-09-27, main language Jupyter Notebook  
 <sub><sup>jupyter-notebook, jupyterlab, pandas, pandas-dataframes</sup></sub>
@@ -192,12 +192,12 @@ created 2019-05-29, last commit 2022-09-27, main language Jupyter Notebook
 ### [mapply](https://github.com/ddelange/mapply) by [ddelange](https://github.com/ddelange)  
 mapply: Sensible multi-core apply function for Pandas  
 [https://github.com/ddelange/mapply](https://github.com/ddelange/mapply)  
-0.33 stars per week over 126 weeks  
+0.32 stars per week over 127 weeks  
 41 stars, 3 forks, 4 watches  
 created 2020-10-26, last commit 2023-03-05, main language Python  
 
 
-This file was automatically generated on 2023-03-27.  
+This file was automatically generated on 2023-04-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
