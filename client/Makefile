@@ -81,11 +81,11 @@ s3-delete-app:
 ## AWS Cloudfront invalidation (limit 1000 free calls per month)
 cf-invalidation:
 	# www.awesomepython.org:
-	aws cloudfront create-invalidation --distribution-id EJHF3POVTKFJ4 --paths "/*"
+	AWS_PAGER="" aws cloudfront create-invalidation --distribution-id EJHF3POVTKFJ4 --paths "/*"
 	# awesomepython.org:
-	aws cloudfront create-invalidation --distribution-id EUNSHU4X9PVCT --paths "/*"
+	AWS_PAGER="" aws cloudfront create-invalidation --distribution-id EUNSHU4X9PVCT --paths "/*"
 	# awesome-python.infocruncher.com:
-	aws cloudfront create-invalidation --distribution-id E1VXP77O89KVKO --paths "/*"
+	AWS_PAGER="" aws cloudfront create-invalidation --distribution-id E1VXP77O89KVKO --paths "/*"
 
 # Terraform
 
