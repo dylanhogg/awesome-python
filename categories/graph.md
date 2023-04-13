@@ -9,9 +9,9 @@ Checkout the interactive version that you can filter and sort:
 networkx: Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
-18 stars per week over 656 weeks  
-12,438 stars, 2,880 forks, 281 watches  
-created 2010-09-06, last commit 2023-04-03, main language Python  
+19 stars per week over 657 weeks  
+12,494 stars, 2,888 forks, 279 watches  
+created 2010-09-06, last commit 2023-04-11, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization</sup></sub>
 
 
@@ -20,7 +20,7 @@ StellarGraph - Machine Learning on Graphs
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
 [https://github.com/stellargraph/stellargraph](https://github.com/stellargraph/stellargraph)  
 10 stars per week over 260 weeks  
-2,659 stars, 405 forks, 62 watches  
+2,669 stars, 407 forks, 62 watches  
 created 2018-04-13, last commit 2021-10-29, main language Python  
 <sub><sup>data-science, deep-learning, gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, saliency-map, stellargraph-library</sup></sub>
 
@@ -29,8 +29,8 @@ created 2018-04-13, last commit 2021-10-29, main language Python
 pyvis: Python package for creating and visualizing interactive network graphs.  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 [https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
-2.46 stars per week over 256 weeks  
-631 stars, 117 forks, 15 watches  
+2.48 stars per week over 257 weeks  
+637 stars, 120 forks, 15 watches  
 created 2018-05-10, last commit 2023-02-10, main language HTML  
 <sub><sup>network-visualization, networkx</sup></sub>
 
@@ -38,8 +38,8 @@ created 2018-05-10, last commit 2023-02-10, main language HTML
 ### [GraphGPS](https://github.com/rampasek/graphgps) by [rampasek](https://github.com/rampasek)  
 GraphGPS: Recipe for a General, Powerful, Scalable Graph Transformer  
 [https://github.com/rampasek/graphgps](https://github.com/rampasek/graphgps)  
-7.35 stars per week over 45 weeks  
-334 stars, 44 forks, 10 watches  
+7.5 stars per week over 46 weeks  
+347 stars, 47 forks, 10 watches  
 created 2022-05-24, last commit 2023-02-17, main language Python  
 <sub><sup>graph-neural-network, graph-representation-learning, graph-transformer, long-range-dependence</sup></sub>
 
@@ -48,8 +48,8 @@ created 2022-05-24, last commit 2023-02-17, main language Python
 graph-force: Python library for embedding large graphs in 2D space, using force-directed layouts.  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
 [https://github.com/h4kor/graph-force](https://github.com/h4kor/graph-force)  
-8.83 stars per week over 18 weeks  
-164 stars, 0 forks, 9 watches  
+8.39 stars per week over 19 weeks  
+163 stars, 0 forks, 9 watches  
 created 2022-11-28, last commit 2022-11-28, main language Rust  
 <sub><sup>force-directed-graphs, graph-algorithms</sup></sub>
 
@@ -57,21 +57,21 @@ created 2022-11-28, last commit 2022-11-28, main language Rust
 ### [Exphormer](https://github.com/hamed1375/exphormer) by [hamed1375](https://github.com/hamed1375)  
 Exphormer: Sparse Transformer for Graphs  
 [https://github.com/hamed1375/exphormer](https://github.com/hamed1375/exphormer)  
-6.79 stars per week over 4 weeks  
-32 stars, 7 forks, 0 watches  
+6.1 stars per week over 5 weeks  
+34 stars, 7 forks, 0 watches  
 created 2023-03-05, last commit 2023-03-13, main language Python  
 
 
 ### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
 markov_clustering: markov clustering in python  
 [https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
-0.47 stars per week over 288 weeks  
+0.47 stars per week over 289 weeks  
 136 stars, 34 forks, 9 watches  
 created 2017-09-27, last commit 2018-12-11, main language Python  
 <sub><sup>clustering, markov-clustering, networks</sup></sub>
 
 
-This file was automatically generated on 2023-04-07.  
+This file was automatically generated on 2023-04-14.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
