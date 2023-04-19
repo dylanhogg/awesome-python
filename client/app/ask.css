@@ -1,0 +1,109 @@
+#container {
+  margin: auto;
+  max-width: 1000px;
+  min-width: 350px;
+}
+
+#response {
+  padding: 10px;
+}
+
+.responsive-text {
+  /* width: 350px; max-width: 350px; - TDU, on html element */
+  margin: auto;
+  max-width: 1000px;
+  min-width: 350px;
+}
+
+.responsive-text-narrow {
+  margin: auto;
+  max-width: 600px;
+  min-width: 350px;
+}
+
+/* From tdu, with colour changes: */
+
+#input-text {
+    width: 100%;
+}
+
+#input-button, #random-button, #clear-button, .input-button-class {
+  margin-top: 10px;
+  margin-right: 3px;
+}
+
+#input-button {
+  background-color: #5292C7;
+  color: #FFF;
+}
+
+/* https://github.com/kimmobrunfeldt/progressbar.js */
+.progress {
+    display:none;
+    height: 15px;
+    margin-bottom: 30px;
+}
+
+.progress > svg {
+    height: 100%;
+    display: block;
+}
+
+
+.options-list {
+    padding-left: 10px;
+}
+
+.options-list input {
+    margin: 8px;
+}
+
+.input-button-class {
+  background-color: #5292C7;
+  color: #FFF;
+}
+
+.copy-link-button-class {
+  color: #FFF;
+  background-color: #3776ab;
+  border: 1px solid #3776ab;
+  height: 33px;
+}
+
+.button-clicked {
+  border: 3px solid #5292C7;
+}
+
+#copy-report-button {
+    margin-bottom: 20px;
+}
+
+#copy-idea-button {
+    margin-bottom: 20px;
+}
+
+/* table stuff */
+table,
+th,
+td {
+  border: 1px solid #EEE;
+  width: 100%;
+}
+
+table th,
+table td {
+  padding: 5px;
+  padding-right: 15px;
+}
+
+tr,
+td {
+  /* good for markdown -> html formatting */
+  vertical-align: top;
+}
+
+#response img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
