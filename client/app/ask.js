@@ -110,56 +110,34 @@ const baseAppUrl = "https://www.awesomepython.org";
 const authkey = "58906b3d-4a8a-4712-89c8-56446590ef73";
 const predictionUrl = "https://chat-api.infocruncher.com/predict/";
 const randomInputs = [
-        // "How do I format a date string in Python with format YYYMMDD?",
-        "Data Engineer",
-        "Corporate Lawyer",
-        "Fireman",
-        "Technical Program Manager",
-        "Clinical Exercise Physiologist ",
-        "Site Reliability Engineer",
-        "Sales Development Representative",
-        "Platform Engineer",
-        "Prompt Engineer",
-        "Growth Specialist",
-        "Claims Adjuster",
-        "Machine Learning Engineer",
-        "Sustainability Manager",
-        "Enterprise Account Executive",
-        "Cyber Security Analyst",
-        "Crime Analyst",
-        "Data Engineer",
-        "Job Coach",
-        "Cloud Engineer",
-        "Customer Success Manager",
-        "Client Associate",
-        "Business Development Representative",
-        "Health Assistant",
-        "Service Desk Engineer",
-        "Delivery Consultant",
-        "Cyber Security Engineer",
-        "Finance Associate",
-        "Product Designer",
-        "Technology Project Manager",
-        "Housekeeper",
-        "Food specialist",
-        "Pharmacy specialist",
-        "Tax consultant",
-        "Python developer",
-        "Software engineer",
-        "JavaScript developer",
-        "Salesperson",
-        "Registered nurse",
-        "Java Software Engineer",
-        "Virtual Event Planner",
-        "Climate Change Analyst",
-        "Personal Data Broker",
-        "Augmented Reality Designer",
-        "Quantum Computing Engineer",
-        "Cybersecurity Analyst",
-        "Health Informatics Specialist",
-        "Digital Currency Advisor",
-        "Robotics Technician",
-        "Urban Agriculture Specialist",
+        "How do I format a date string in Python with format YYYMMDD?",
+        "How can I optimize my Python code for performance?",
+        "What are the best practices for handling large datasets in Python?",
+        "How can I effectively debug Python code and troubleshoot issues?",
+        "What are some common pitfalls to avoid when working with Python's memory management?",
+        "How do I efficiently work with Python libraries and packages in a large-scale project?",
+        "Can you explain the concept of Python decorators and how to use them effectively?",
+        "How to iterate over a list in Python?",
+        "How to read and write files in Python?",
+        "How to use conditional statements (if, elif, else) in Python?",
+        "How to define and call functions in Python?",
+        "How to work with dictionaries and lists in Python?",
+        "How to handle exceptions (try, except) in Python?",
+        "How to use loops (for and while) in Python?",
+        "How to install and use third-party libraries in Python using pip?",
+        "How to work with strings and manipulate text in Python?",
+        "How to perform basic mathematical operations in Python?",
+        "How to handle and raise custom exceptions in Python?",
+        "How to work with classes, inheritance, polymorphism, and objects in Python?",
+        "How to handle dates, times, and timezones using the Python datetime module?",
+        "What are sets, tuples, and namedtuples, and how to use them?",
+        "How to perform file I/O operations with CSV, JSON, XML, and binary files?",
+        "How to work with databases using SQLAlchemy, SQLite3, and executing queries?",
+        "How to import and organize code using modules, packages, and namespaces?",
+        "What are decorators, generators, and context managers?",
+        "How to handle and raise custom exceptions?",
+        "How to use regular expressions (regex) for text pattern matching and manipulation?",
+        "How to implement concurrent programming with threading, multiprocessing, and asynchronous programming?"
     ]
 
 var rndIndex = Math.floor(Math.random() * randomInputs.length);
@@ -403,10 +381,10 @@ function processReport() {
     var running_text = "";
     if (input.startsWith("load:")) {
         // Loading a saved report
-        running_text += "<p><em>Loading your personalised unicorn business plan:</em><p>";
+        running_text += "<p><em>Loading the answer to your question</em><p>";
     } else {
         // Building a saved report
-        running_text += "<p><em>Building your personalised career plan" + style_text + ":</em><p>";
+        running_text += "<p><em>Asking an experienced dev now" + style_text + "</em><p>";
         running_text += "<h2>" + input + "</h2>";
     }
 
@@ -447,7 +425,7 @@ function processReport() {
            console.log("query: " + query);
 
            var permalinkHref = "/ask.html?load=" + request_id + "&desc=" + encodeURIComponent(query);
-           var permalink = '<a href="' + permalinkHref + '">Permalink to this plan</a>';
+           var permalink = '<a href="' + permalinkHref + '">Permalink to this answer</a>';
            var html_response = "";
            style_text = (style == "general") ? "" : " in the style of " + toTitleCase(style);
            if (request_id_loaded != null && query != null) {
@@ -455,12 +433,10 @@ function processReport() {
                 $("#input-text").val(query);
                 $("#share-info").show();
                 deleteUrlQueryKey("b");
-                // html_response += "<i>Loaded your personalised unicorn business plan" + style_text + ":</i><br /><br />";
-                html_response += "<i>Loaded your unique, personalised career plan" + style_text + " (" + permalink + "):</i><br /><br />";
+                html_response += "<i>Loaded your answer" + style_text + " (" + permalink + "):</i><br /><br />";
 
            } else {
-                // html_response += "<i>Created your personalised unicorn business plan" + style_text + ":</i><br /><br />";
-                html_response += "<i>Created your unique, personalised career plan" + style_text + " (" + permalink + "):</i><br /><br />";
+                html_response += "<i>Here is your answer" + style_text + " (" + permalink + "):</i><br /><br />";
            }
 
            var markdown_as_sanitized_html = DOMPurify.sanitize(marked.parse(chat_response));  // Convert markdown chat_response into sanitized html
