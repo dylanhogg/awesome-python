@@ -110,34 +110,131 @@ const baseAppUrl = "https://www.awesomepython.org";
 const authkey = "58906b3d-4a8a-4712-89c8-56446590ef73";
 const predictionUrl = "https://chat-api.infocruncher.com/predict/";
 const randomInputs = [
-        "How do I format a date string in Python with format YYYMMDD?",
-        "How can I optimize my Python code for performance?",
-        "What are the best practices for handling large datasets in Python?",
-        "How can I effectively debug Python code and troubleshoot issues?",
-        "What are some common pitfalls to avoid when working with Python's memory management?",
-        "How do I efficiently work with Python libraries and packages in a large-scale project?",
-        "Can you explain the concept of Python decorators and how to use them effectively?",
-        "How to iterate over a list in Python?",
-        "How to read and write files in Python?",
-        "How to use conditional statements (if, elif, else) in Python?",
-        "How to define and call functions in Python?",
-        "How to work with dictionaries and lists in Python?",
-        "How to handle exceptions (try, except) in Python?",
-        "How to use loops (for and while) in Python?",
-        "How to install and use third-party libraries in Python using pip?",
-        "How to work with strings and manipulate text in Python?",
-        "How to perform basic mathematical operations in Python?",
-        "How to handle and raise custom exceptions in Python?",
-        "How to work with classes, inheritance, polymorphism, and objects in Python?",
-        "How to handle dates, times, and timezones using the Python datetime module?",
-        "What are sets, tuples, and namedtuples, and how to use them?",
-        "How to perform file I/O operations with CSV, JSON, XML, and binary files?",
-        "How to work with databases using SQLAlchemy, SQLite3, and executing queries?",
-        "How to import and organize code using modules, packages, and namespaces?",
-        "What are decorators, generators, and context managers?",
-        "How to handle and raise custom exceptions?",
-        "How to use regular expressions (regex) for text pattern matching and manipulation?",
-        "How to implement concurrent programming with threading, multiprocessing, and asynchronous programming?"
+        "Format a date string in Python with format YYYMMDD",
+        "Optimize my Python code for performance",
+        "Read and write files in Python",
+        "Work with dictionaries and lists in Python",
+        "Handle exceptions (try, except) in Python",
+        "Install and use third-party libraries in Python using pip",
+        "Work with strings and manipulate text in Python",
+        "Handle and raise custom exceptions in Python",
+        "Work with classes, inheritance, polymorphism, and objects in Python",
+        "Handle dates, times, and timezones using the Python datetime module",
+        "Perform file I/O operations with CSV, JSON, XML, and binary files",
+        "Work with databases using SQLAlchemy, SQLite3, and executing queries",
+        "Import and organize code using modules, packages, and namespaces",
+        "Use regular expressions (regex) for text pattern matching and manipulation",
+        "Implement concurrent programming with threading, multiprocessing, and asynchronous programming?",
+        "Reverse a string in Python",
+        "Find the length of a list in Python",
+        "Read a CSV file in Python",
+        "Generate random numbers in Python",
+        "Check if a file exists in Python",
+        "Calculate the factorial of a number in Python",
+        "Convert a string to lowercase in Python",
+        "Concatenate two lists in Python",
+        "Remove duplicates from a list in Python",
+        "Install and use a third-party library in Python",
+        "Find the maximum value in a dictionary in Python",
+        "Sort a list of integers in ascending order in Python",
+        "Calculate the square root of a number in Python",
+        "Read and write JSON files in Python",
+        "Remove whitespace from the beginning and end of a string in Python",
+        "Count the occurrences of a specific element in a list in Python",
+        "Format a date in a specific format using datetime module in Python",
+        "Make a POST request to a RESTful API in Python",
+        "Encrypt and decrypt data using the cryptography library in Python",
+        "Implement a stack data structure in Python",
+        "Capture and handle exceptions in Python",
+        "Check if a string contains a substring in Python",
+        "Convert a list of strings to a single string in Python",
+        "Use regular expressions to search and manipulate strings in Python",
+        "Write unit tests for Python code using the built-in unittest module",
+        "Read and write binary files in Python",
+        "Implement a binary search algorithm in Python",
+        "Calculate the mean, median, and mode of a list of numbers in Python",
+        "Parse and extract data from XML files in Python",
+        "Implement multithreading in Python to improve performance",
+        "Implement a queue data structure in Python",
+        "Iterate over a dictionary in Python",
+        "Use the logging module for logging messages in Python",
+        "Implement a bubble sort algorithm in Python",
+        "Read and write Excel files in Python using a library like pandas",
+        "Use the os module to interact with the operating system in Python",
+        "Implement a binary tree data structure in Python",
+        "Use the argparse module to parse command-line arguments in Python",
+        "Generate a random password with a given length in Python",
+        "Implement memoization to optimize recursive functions in Python",
+        "Implement a decorator in Python",
+        "Use context managers with the 'with' statement in Python",
+        "Serialize and deserialize Python objects using the pickle module",
+        "Implement a queue data structure with priority in Python",
+        "Use the itertools module for advanced iteration in Python",
+        "Implement a depth-first search algorithm for graph traversal in Python",
+        "Use the timeit module to measure the performance of Python code",
+        "Implement a LRU (Least Recently Used) cache in Python",
+        "Use the subprocess module to run external commands in Python",
+        "Implement a custom exception class in Python for error handling",
+        "Implement a binary search tree data structure in Python",
+        "Use the contextlib module for creating context managers in Python",
+        "Implement a breadth-first search algorithm for graph traversal in Python",
+        "Use the multiprocessing module for parallel processing in Python",
+        "Implement memoization using functools.lru_cache in Python",
+        "Use the shutil module for file and directory operations in Python",
+        "Implement a merge sort algorithm in Python",
+        "Use the sqlite3 module for SQLite database operations in Python",
+        "Implement a circular linked list data structure in Python",
+        "Use the difflib module for text comparison and difference detection in Python",
+        "Implement a priority queue data structure in Python",
+        "Use the concurrent.futures module for concurrent programming in Python",
+        "Implement a decorator with arguments in Python",
+        "Use the enum module for creating enumerations in Python",
+        "Implement a radix sort algorithm in Python",
+        "Use the logging module to log messages to a file in Python",
+        "Implement a Dijkstra's algorithm for finding shortest path in Python",
+        "Use the itertools module for permutations and combinations in Python",
+        "Implement a heap data structure in Python",
+        "Use the threading module for thread-based concurrency in Python",
+        "Implement a Trie data structure in Python for efficient string operations",
+        "Use the math module for mathematical calculations in Python",
+        "Implement a Fisher-Yates shuffle algorithm in Python for shuffling lists",
+        "Use the built-in collections module in Python for advanced data manipulation",
+        "Implement a bit manipulation operation, such as bitwise AND or XOR, in Python",
+        "Use the re module for regular expression operations in Python",
+        "Implement a dynamic programming algorithm in Python for solving optimization problems",
+        "Use the concurrent.futures module for parallelism with ThreadPoolExecutor in Python",
+        "Implement a Bloom filter data structure in Python for probabilistic set membership testing",
+        "Use the built-in statistics module in Python for statistical calculations, such as mean, median, and variance",
+        "Implement a merge operation in merge sort in Python",
+        "Use the collections module to implement a deque (double-ended queue) in Python",
+        "Implement a sliding window algorithm for processing arrays or strings in Python",
+        "Use the csv module for reading and writing CSV files in Python",
+        "Implement a selection sort algorithm in Python for sorting lists",
+        "Use the time module for measuring time intervals and delays in Python",
+        "Implement a Floyd-Warshall algorithm for finding all-pairs shortest path in Python",
+        "Use the built-in functools module in Python for higher-order functions and decorators",
+        "Implement a union-find data structure in Python for disjoint set operations",
+        "Use the Python standard library for working with dates, times, and timezones",
+        "Import and use a Python package",
+        "Install a Python package using pip",
+        "Upgrade a Python package to the latest version",
+        "Uninstall a Python package using pip",
+        "Use a Python package for data visualization",
+        "Use a Python package for working with databases",
+        "Use a Python package for web scraping",
+        "Use a Python package for machine learning",
+        "Use a Python package for working with APIs",
+        "Use a Python package for handling dates and times",
+        "Use a Python package for handling regular expressions",
+        "Use a Python package for working with scientific computing",
+        "Use a Python package for working with images and multimedia",
+        "Use a Python package for working with natural language processing",
+        "Use a Python package for working with network programming",
+        "Use a Python package for working with data serialization and deserialization",
+        "Use a Python package for working with encryption and decryption",
+        "Use a Python package for working with web development and APIs",
+        "Use a Python package for working with data analysis and visualization",
+        "Use a Python package for working with machine learning model evaluation and performance metrics"
     ]
 
 var rndIndex = Math.floor(Math.random() * randomInputs.length);
@@ -384,7 +481,7 @@ function processReport() {
         running_text += "<p><em>Loading the answer to your question</em><p>";
     } else {
         // Building a saved report
-        running_text += "<p><em>Asking an experienced dev now" + style_text + "</em><p>";
+        running_text += "<p><em>Asking an experienced rubber duck now" + style_text + "</em><p>";
         running_text += "<h2>" + input + "</h2>";
     }
 
@@ -425,7 +522,7 @@ function processReport() {
            console.log("query: " + query);
 
            var permalinkHref = "/ask.html?load=" + request_id + "&desc=" + encodeURIComponent(query);
-           var permalink = '<a href="' + permalinkHref + '">Permalink to this answer</a>';
+           var permalink = '<a href="' + permalinkHref + '">Permalink</a>';
            var html_response = "";
            style_text = (style == "general") ? "" : " in the style of " + toTitleCase(style);
            if (request_id_loaded != null && query != null) {
@@ -445,6 +542,13 @@ function processReport() {
            html_response += '<a href="#" onclick="document.documentElement.scrollTop = 0; return false;">Back to top</a>';
 
            $("#response").html(html_response);
+           $("pre code").each(function(i, block) {
+                // https://highlightjs.org/usage/
+                // https://highlightjs.org/static/demo/
+                hljs.highlightElement(block);
+                // console.log("hljs applied to code: " + block);
+           });
+
            var copyReportPermalink = baseAppUrl + permalinkHref;
            $("#copy-report-button").data("link", copyReportPermalink);
            $("#copy-report-button").show();
