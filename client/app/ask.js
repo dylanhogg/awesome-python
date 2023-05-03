@@ -124,7 +124,7 @@ const randomInputs = [
         "Work with databases using SQLAlchemy, SQLite3, and executing queries",
         "Import and organize code using modules, packages, and namespaces",
         "Use regular expressions (regex) for text pattern matching and manipulation",
-        "Implement concurrent programming with threading, multiprocessing, and asynchronous programming?",
+        "Implement concurrency with threading, multiprocessing, and asynchronous programming",
         "Reverse a string",
         "Find the length of a list",
         "Read a CSV file",
@@ -149,7 +149,7 @@ const randomInputs = [
         "Check if a string contains a substring",
         "Convert a list of strings to a single string",
         "Use regular expressions to search and manipulate strings",
-        "Write unit tests for Python code using the built-in unittest module",
+        "Write unit tests for Python code",
         "Read and write binary files",
         "Implement a binary search algorithm",
         "Calculate the mean, median, and mode of a list of numbers",
@@ -255,6 +255,7 @@ const randomInputs = [
         "Convert data types in a pandas DataFrame",
         "Resample time series data in a pandas DataFrame",
         "Join multiple pandas DataFrames together"
+        // "Create a website and host it on AWS"  // Investigate
     ]
 
 var rndIndex = Math.floor(Math.random() * randomInputs.length);
@@ -501,11 +502,11 @@ function processReport() {
         running_text += "<p><em>Loading the answer to your question</em><p>";
     } else {
         // Building a saved report
-        running_text += "<p><em>Asking an experienced rubber duck now" + style_text + "</em><p>";
+        // running_text += "<p><em>Asking an experienced rubber duck now" + style_text + "</em><p>";
         running_text += "<h2>" + input + "</h2>";
     }
 
-    running_text += "<p><i>Working on it now..multiplying matricies...searching github...scanning pypi...asking your pets for insights...collating results...almost done...</i></p>";
+    running_text += "<p><i>Asking an experienced rubber duck now...multiplying matricies...searching github...scanning pypi...asking your pets for insights...collating results...almost done...</i></p>";
     if (predict_count == 0) {
        $("#response").html(running_text);  // NOTE: possible Lambda fn isn't primed yet.
     } else {
@@ -556,7 +557,7 @@ function processReport() {
                 html_response += "<i>Here is your answer" + style_text + " (" + permalink + "):</i><br /><br />";
            }
 
-           var markdown_as_sanitized_html = DOMPurify.sanitize(marked.parse(chat_response));  // Convert markdown chat_response into sanitized html
+           var markdown_as_sanitized_html = DOMPurify.sanitize(marked.parse(chat_response), { ADD_ATTR: ['target'] });  // Convert markdown chat_response into sanitized html
            html_response += markdown_as_sanitized_html;
            html_response += permalink + '<br /><br />';
            html_response += '<a href="#" onclick="document.documentElement.scrollTop = 0; return false;">Back to top</a>';

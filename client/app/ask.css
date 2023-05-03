@@ -1,6 +1,6 @@
 #container {
   margin: auto;
-  max-width: 650px;
+  max-width: 750px;
   min-width: 350px;
 }
 
@@ -17,7 +17,7 @@
 
 .responsive-text-narrow {
   margin: auto;
-  max-width: 600px;
+  max-width: 400px;
   min-width: 350px;
 }
 
