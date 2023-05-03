@@ -195,8 +195,8 @@ $(document).ready( function () {
         paging: true,
         pagingType: "full",  // https://datatables.net/reference/option/pagingType
         lengthChange: true,
-        lengthMenu: [[7, 10, 50, -1], [7, 10, 50, "All"]],
-        pageLength: 7,
+        lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
+        pageLength: 5,
         search: {
            search: initialSearchTerm,
         },
