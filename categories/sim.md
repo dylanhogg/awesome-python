@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 33 curated sim Python libraries and frameworks ordered by stars.  
+A selection of 35 curated sim Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 astropy: Astronomy and astrophysics core library  
 [https://www.astropy.org](https://www.astropy.org)  
 [https://github.com/astropy/astropy](https://github.com/astropy/astropy)  
-6.09 stars per week over 614 weeks  
+6.09 stars per week over 615 weeks  
 3,746 stars, 1,589 forks, 139 watches  
 created 2011-07-21, last commit 2023-04-23, main language Python  
 <sub><sup>astronomy, astrophysics, astropy, science</sup></sub>
@@ -19,7 +19,7 @@ created 2011-07-21, last commit 2023-04-23, main language Python
 Open3D: A Modern Library for 3D Data Processing  
 [http://www.open3d.org](http://www.open3d.org)  
 [https://github.com/isl-org/open3d](https://github.com/isl-org/open3d)  
-25 stars per week over 334 weeks  
+25 stars per week over 335 weeks  
 8,489 stars, 1,936 forks, 173 watches  
 created 2016-12-02, last commit 2023-04-04, main language C++  
 <sub><sup>3d, 3d-perception, arm, computer-graphics, cpp, cuda, gpu, gui, machine-learning, mesh-processing, odometry, opengl, pointcloud, pytorch, reconstruction, registration, rendering, tensorflow, visualization</sup></sub>
@@ -48,7 +48,7 @@ created 2018-12-12, last commit 2023-04-13, main language OpenQASM
 ### [Cirq](https://github.com/quantumlib/cirq) by [quantumlib](https://github.com/quantumlib)  
 Cirq: A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.  
 [https://github.com/quantumlib/cirq](https://github.com/quantumlib/cirq)  
-13 stars per week over 280 weeks  
+13 stars per week over 281 weeks  
 3,740 stars, 845 forks, 180 watches  
 created 2017-12-14, last commit 2023-04-22, main language Python  
 <sub><sup>cirq, nisq, quantum-algorithms, quantum-circuits, quantum-computing</sup></sub>
@@ -86,16 +86,26 @@ created 2019-08-28, last commit 2023-04-21, main language Jupyter Notebook
 ### [pyscf](https://github.com/pyscf/pyscf)  
 pyscf: Python module for quantum chemistry  
 [https://github.com/pyscf/pyscf](https://github.com/pyscf/pyscf)  
-1.88 stars per week over 469 weeks  
+1.88 stars per week over 470 weeks  
 884 stars, 473 forks, 73 watches  
 created 2014-05-02, last commit 2023-04-19, main language Python  
+
+
+### [habitat-lab](https://github.com/facebookresearch/habitat-lab) by [facebookresearch](https://github.com/facebookresearch)  
+habitat-lab: A modular high-level library to train embodied AI agents across a variety of tasks and environments.  
+[https://aihabitat.org/](https://aihabitat.org/)  
+[https://github.com/facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab)  
+4.84 stars per week over 221 weeks  
+1,072 stars, 370 forks, 41 watches  
+created 2019-02-04, last commit 2023-04-18, main language Python  
+<sub><sup>ai, computer-vision, deep-learning, deep-reinforcement-learning, reinforcement-learning, research, robotics, sim2real, simulator</sup></sub>
 
 
 ### [QuantEcon.py](https://github.com/quantecon/quantecon.py) by [quantecon](https://github.com/quantecon)  
 QuantEcon.py: A community based Python library for quantitative economics  
 [https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
 [https://github.com/quantecon/quantecon.py](https://github.com/quantecon/quantecon.py)  
-3.13 stars per week over 527 weeks  
+3.12 stars per week over 528 weeks  
 1,650 stars, 2,172 forks, 148 watches  
 created 2013-03-22, last commit 2023-04-24, main language Python  
 
@@ -103,7 +113,7 @@ created 2013-03-22, last commit 2023-04-24, main language Python
 ### [mesa](https://github.com/projectmesa/mesa) by [projectmesa](https://github.com/projectmesa)  
 Mesa is an agent-based modeling framework in Python  
 [https://github.com/projectmesa/mesa](https://github.com/projectmesa/mesa)  
-4.17 stars per week over 449 weeks  
+4.17 stars per week over 450 weeks  
 1,875 stars, 769 forks, 92 watches  
 created 2014-09-19, last commit 2023-04-20, main language Python  
 <sub><sup>agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models</sup></sub>
@@ -113,7 +123,7 @@ created 2014-09-19, last commit 2023-04-20, main language Python
 deepmd-kit: A deep learning package for many-body potential energy representation and molecular dynamics  
 [https://docs.deepmodeling.com/projects/deepmd/](https://docs.deepmodeling.com/projects/deepmd/)  
 [https://github.com/deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit)  
-3.93 stars per week over 281 weeks  
+3.92 stars per week over 281 weeks  
 1,104 stars, 417 forks, 47 watches  
 created 2017-12-12, last commit 2023-03-16, main language C++  
 <sub><sup>ase, computational-chemistry, cpp, cuda, deep-learning, deepmd, ipi, lammps, materials-science, molecular-dynamics, potential-energy, rocm, tensorflow</sup></sub>
@@ -140,7 +150,7 @@ created 2016-04-24, last commit 2022-11-17, main language Cython
 ### [fairo](https://github.com/facebookresearch/droidlet) by [facebookresearch](https://github.com/facebookresearch)  
 fairo: A modular embodied agent architecture and platform for building embodied agents  
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
-6.12 stars per week over 130 weeks  
+6.1 stars per week over 130 weeks  
 798 stars, 80 forks, 39 watches  
 created 2020-11-02, last commit 2023-02-01, main language Jupyter Notebook  
 
@@ -149,7 +159,7 @@ created 2020-11-02, last commit 2023-02-01, main language Jupyter Notebook
 Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python  
 [http://www.pymunk.org](http://www.pymunk.org)  
 [https://github.com/viblo/pymunk](https://github.com/viblo/pymunk)  
-1.58 stars per week over 500 weeks  
+1.57 stars per week over 500 weeks  
 788 stars, 181 forks, 22 watches  
 created 2013-10-02, last commit 2023-04-01, main language Python  
 <sub><sup>physics-2d, physics-engine, physics-simulation, pygame, pyglet</sup></sub>
@@ -169,7 +179,7 @@ created 2014-06-18, last commit 2023-04-17, main language Jupyter Notebook
 espresso: The ESPResSo package  
 [https://espressomd.org](https://espressomd.org)  
 [https://github.com/espressomd/espresso](https://github.com/espressomd/espresso)  
-0.3 stars per week over 631 weeks  
+0.3 stars per week over 632 weeks  
 190 stars, 171 forks, 20 watches  
 created 2011-03-25, last commit 2023-04-18, main language C++  
 <sub><sup>c-plus-plus, lattice-boltzmann, molecular-dynamics, physics, scientific-computing, soft-matter</sup></sub>
@@ -179,7 +189,7 @@ created 2011-03-25, last commit 2023-04-18, main language C++
 ai-economist: Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 [https://github.com/salesforce/ai-economist](https://github.com/salesforce/ai-economist)  
-6.65 stars per week over 147 weeks  
+6.63 stars per week over 148 weeks  
 983 stars, 203 forks, 48 watches  
 created 2020-07-02, last commit 2022-05-09, main language Python  
 <sub><sup>ai, deep-reinforcement-learning, economics, ml, multi-agent, multi-agent-reinforcement-learning, reinforcement-learning-environments, simulation-framework</sup></sub>
@@ -198,7 +208,7 @@ created 2013-12-29, last commit 2023-01-24, main language Python
 ### [PokerPy](https://github.com/glpcc/pokerpy) by [glpcc](https://github.com/glpcc)  
 PokerPy: Texas Hold'em Poker Probability Calculator in Python  
 [https://github.com/glpcc/pokerpy](https://github.com/glpcc/pokerpy)  
-2.06 stars per week over 20 weeks  
+2.01 stars per week over 20 weeks  
 42 stars, 4 forks, 1 watches  
 created 2022-12-11, last commit 2023-02-10, main language C++  
 <sub><sup>cpp, fast, performance, poker, pybind11, texas-holdem</sup></sub>
@@ -207,7 +217,7 @@ created 2022-12-11, last commit 2023-02-10, main language C++
 ### [trafficSimulator](https://github.com/bilhim/trafficsimulator) by [bilhim](https://github.com/bilhim)  
 trafficSimulator: A microscopic traffic simulation in Python  
 [https://github.com/bilhim/trafficsimulator](https://github.com/bilhim/trafficsimulator)  
-2.67 stars per week over 86 weeks  
+2.66 stars per week over 86 weeks  
 231 stars, 88 forks, 15 watches  
 created 2021-09-05, last commit 2023-04-01, main language Python  
 
@@ -216,7 +226,7 @@ created 2021-09-05, last commit 2023-04-01, main language Python
 urbansim: Platform for building statistical models of cities and regions  
 [https://udst.github.io/urbansim/](https://udst.github.io/urbansim/)  
 [https://github.com/udst/urbansim](https://github.com/udst/urbansim)  
-0.84 stars per week over 506 weeks  
+0.84 stars per week over 507 weeks  
 426 stars, 127 forks, 79 watches  
 created 2013-08-15, last commit 2020-05-11, main language Python  
 
@@ -255,7 +265,7 @@ created 2014-09-28, last commit 2022-05-24, main language Python
 stochastic: Generate realizations of stochastic processes in python.  
 [http://stochastic.readthedocs.io/en/stable/](http://stochastic.readthedocs.io/en/stable/)  
 [https://github.com/crflynn/stochastic](https://github.com/crflynn/stochastic)  
-1.07 stars per week over 323 weeks  
+1.06 stars per week over 324 weeks  
 345 stars, 64 forks, 15 watches  
 created 2017-02-17, last commit 2022-07-12, main language Python  
 <sub><sup>probability, stochastic, stochastic-differential-equations, stochastic-processes, stochastic-simulation-algorithm, stochastic-volatility-models</sup></sub>
@@ -264,7 +274,7 @@ created 2017-02-17, last commit 2022-07-12, main language Python
 ### [GameGAN_code](https://github.com/nv-tlabs/gamegan_code) by [nv-tlabs](https://github.com/nv-tlabs)  
 GameGAN_code: Learning to Simulate Dynamic Environments with GameGAN (CVPR 2020)  
 [https://github.com/nv-tlabs/gamegan_code](https://github.com/nv-tlabs/gamegan_code)  
-1.68 stars per week over 124 weeks  
+1.67 stars per week over 125 weeks  
 209 stars, 36 forks, 10 watches  
 created 2020-12-11, last commit 2021-11-11, main language Python  
 
@@ -288,6 +298,14 @@ created 2016-03-22, last commit 2020-01-02, main language Python
 <sub><sup>continuous-time, crowd-dynamics, crowd-simulation, multi-agent</sup></sub>
 
 
+### [Unbiased-Trace-Driven-Simulation](https://github.com/causalsim/unbiased-trace-driven-simulation) by [causalsim](https://github.com/causalsim)  
+causalsim/unbiased-trace-driven-simulation  
+[https://github.com/causalsim/unbiased-trace-driven-simulation](https://github.com/causalsim/unbiased-trace-driven-simulation)  
+0.31 stars per week over 32 weeks  
+10 stars, 3 forks, 0 watches  
+created 2022-09-19, last commit 2023-04-15, main language Python  
+
+
 ### [street-network-models](https://github.com/gboeing/street-network-models) by [gboeing](https://github.com/gboeing)  
 street-network-models: Street network models and indicators for every urban area in the world  
 [https://osf.io/f2dqc](https://osf.io/f2dqc)  
@@ -300,7 +318,7 @@ created 2020-04-13, last commit 2021-03-05, main language Python
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  
 dynpy: Dynamical systems for Python  
 [https://github.com/artemyk/dynpy](https://github.com/artemyk/dynpy)  
-0.01 stars per week over 450 weeks  
+0.01 stars per week over 451 weeks  
 6 stars, 5 forks, 3 watches  
 created 2014-09-12, last commit 2018-09-28, main language Python  
 
@@ -308,12 +326,12 @@ created 2014-09-12, last commit 2018-09-28, main language Python
 ### [Lenia-Tutorial](https://github.com/openlenia/lenia-tutorial) by [openlenia](https://github.com/openlenia)  
 openlenia/lenia-tutorial  
 [https://github.com/openlenia/lenia-tutorial](https://github.com/openlenia/lenia-tutorial)  
-0.26 stars per week over 93 weeks  
+0.25 stars per week over 94 weeks  
 24 stars, 2 forks, 2 watches  
 created 2021-07-15, last commit 2021-07-26, main language Jupyter Notebook  
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

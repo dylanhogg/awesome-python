@@ -28,7 +28,7 @@ created 2017-05-14, last commit 2023-04-23, main language Python
 ### [consensus-specs](https://github.com/ethereum/consensus-specs) by [ethereum](https://github.com/ethereum)  
 consensus-specs: Ethereum Proof-of-Stake Consensus Specifications  
 [https://github.com/ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)  
-13 stars per week over 240 weeks  
+13 stars per week over 241 weeks  
 3,142 stars, 825 forks, 250 watches  
 created 2018-09-20, last commit 2023-04-21, main language Python  
 
@@ -37,7 +37,7 @@ created 2018-09-20, last commit 2023-04-21, main language Python
 web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.  
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
-11 stars per week over 367 weeks  
+11 stars per week over 368 weeks  
 4,190 stars, 1,470 forks, 117 watches  
 created 2016-04-14, last commit 2023-04-21, main language Python  
 
@@ -65,7 +65,7 @@ created 2016-12-27, last commit 2023-04-21, main language Python
 ### [Binance-volatility-trading-bot](https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot) by [cyberpunkmetalhead](https://github.com/cyberpunkmetalhead)  
 Binance-volatility-trading-bot: This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
 [https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot](https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot)  
-31 stars per week over 103 weeks  
+31 stars per week over 104 weeks  
 3,255 stars, 758 forks, 147 watches  
 created 2021-05-08, last commit 2021-06-10, main language Python  
 
@@ -73,7 +73,7 @@ created 2021-05-08, last commit 2021-06-10, main language Python
 ### [binance-public-data](https://github.com/binance/binance-public-data) by [binance](https://github.com/binance)  
 binance-public-data: Details on how to get Binance public data  
 [https://github.com/binance/binance-public-data](https://github.com/binance/binance-public-data)  
-7.66 stars per week over 140 weeks  
+7.64 stars per week over 140 weeks  
 1,075 stars, 381 forks, 29 watches  
 created 2020-08-24, last commit 2023-03-29, main language Python  
 
@@ -81,7 +81,7 @@ created 2020-08-24, last commit 2023-03-29, main language Python
 ### [cryptofeed](https://github.com/bmoscon/cryptofeed) by [bmoscon](https://github.com/bmoscon)  
 cryptofeed: Cryptocurrency Exchange Websocket Data Feed Handler  
 [https://github.com/bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed)  
-6.19 stars per week over 280 weeks  
+6.18 stars per week over 281 weeks  
 1,737 stars, 553 forks, 75 watches  
 created 2017-12-16, last commit 2023-03-30, main language Python  
 <sub><sup>asyncio, binance, bitcoin, btc, coinbase, coinbase-api, crypto, cryptocurrencies, cryptocurrency, ethereum, exchange, ftx-exchange, influxdb, market-data, trading, trading-platform, websocket, websockets</sup></sub>
@@ -91,7 +91,7 @@ created 2017-12-16, last commit 2023-03-30, main language Python
 ethtx: Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/ethtx/ethtx](https://github.com/ethtx/ethtx)  
-4.27 stars per week over 96 weeks  
+4.25 stars per week over 96 weeks  
 411 stars, 67 forks, 16 watches  
 created 2021-06-28, last commit 2022-12-01, main language Python  
 
@@ -99,7 +99,7 @@ created 2021-06-28, last commit 2022-12-01, main language Python
 ### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
 panoramix: Ethereum decompiler  
 [https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
-3.62 stars per week over 167 weeks  
+3.61 stars per week over 167 weeks  
 606 stars, 161 forks, 33 watches  
 created 2020-02-17, last commit 2023-03-16, main language Python  
 
@@ -107,7 +107,7 @@ created 2020-02-17, last commit 2023-03-16, main language Python
 ### [pycoingecko](https://github.com/man-c/pycoingecko) by [man-c](https://github.com/man-c)  
 pycoingecko: Python wrapper for the CoinGecko API  
 [https://github.com/man-c/pycoingecko](https://github.com/man-c/pycoingecko)  
-3.98 stars per week over 244 weeks  
+3.97 stars per week over 245 weeks  
 974 stars, 258 forks, 33 watches  
 created 2018-08-24, last commit 2022-10-26, main language Python  
 <sub><sup>api, api-wrapper, coingecko, crypto, cryptocurrency, nft, nfts, wrapper</sup></sub>
@@ -127,7 +127,7 @@ created 2017-02-07, last commit 2023-03-24, main language Python
 Bitcoin made easy.  
 [https://ofek.dev/bit/](https://ofek.dev/bit/)  
 [https://github.com/ofek/bit](https://github.com/ofek/bit)  
-3.38 stars per week over 337 weeks  
+3.37 stars per week over 338 weeks  
 1,140 stars, 191 forks, 48 watches  
 created 2016-11-12, last commit 2023-02-11, main language Python  
 <sub><sup>bitcoin, cryptocurrencies, libraries, payments</sup></sub>
@@ -137,7 +137,7 @@ created 2016-11-12, last commit 2023-02-11, main language Python
 ethtx_ce: Ethereum transaction decoder (community version).  
 [https://ethtx.info](https://ethtx.info)  
 [https://github.com/ethtx/ethtx_ce](https://github.com/ethtx/ethtx_ce)  
-2.72 stars per week over 92 weeks  
+2.71 stars per week over 92 weeks  
 251 stars, 62 forks, 13 watches  
 created 2021-07-26, last commit 2022-12-22, main language Python  
 
@@ -174,12 +174,12 @@ created 2021-09-27, last commit 2023-04-12, main language Python
 ### [ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm) by [nerolation](https://github.com/nerolation)  
 ethereum-datafarm: Scrap blockchain data from the public API of Etherscan.io  
 [https://github.com/nerolation/ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm)  
-0.43 stars per week over 111 weeks  
+0.43 stars per week over 112 weeks  
 48 stars, 10 forks, 1 watches  
 created 2021-03-13, last commit 2023-02-25, main language Python  
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

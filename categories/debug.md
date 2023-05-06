@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [PySnooper](https://github.com/cool-rr/pysnooper) by [cool-rr](https://github.com/cool-rr)  
 PySnooper: Never use print for debugging again  
 [https://github.com/cool-rr/pysnooper](https://github.com/cool-rr/pysnooper)  
-75 stars per week over 210 weeks  
+74 stars per week over 211 weeks  
 15,824 stars, 939 forks, 234 watches  
 created 2019-04-18, last commit 2023-04-12, main language Python  
 <sub><sup>debug, debugger, introspection, logging</sup></sub>
@@ -26,7 +26,7 @@ created 2018-02-13, last commit 2022-12-04, main language Python
 ### [ipdb](https://github.com/gotcha/ipdb) by [gotcha](https://github.com/gotcha)  
 ipdb: Integration of IPython pdb  
 [https://github.com/gotcha/ipdb](https://github.com/gotcha/ipdb)  
-2.63 stars per week over 641 weeks  
+2.63 stars per week over 642 weeks  
 1,689 stars, 146 forks, 28 watches  
 created 2011-01-15, last commit 2023-04-11, main language Python  
 <sub><sup>debugger, ipython</sup></sub>
@@ -36,7 +36,7 @@ created 2011-01-15, last commit 2023-04-11, main language Python
 pudb: Full-screen console debugger for Python  
 [https://documen.tician.de/pudb/](https://documen.tician.de/pudb/)  
 [https://github.com/inducer/pudb](https://github.com/inducer/pudb)  
-4.24 stars per week over 624 weeks  
+4.24 stars per week over 625 weeks  
 2,649 stars, 216 forks, 48 watches  
 created 2011-05-13, last commit 2023-03-13, main language Python  
 <sub><sup>bpython, debug, debugger, ipython, pdb, pytest, pytest-plugin, urwid</sup></sub>
@@ -54,7 +54,7 @@ created 2018-02-28, last commit 2022-02-16, main language Python
 ### [snoop](https://github.com/alexmojaki/snoop) by [alexmojaki](https://github.com/alexmojaki)  
 snoop: A powerful set of Python debugging tools, based on PySnooper  
 [https://github.com/alexmojaki/snoop](https://github.com/alexmojaki/snoop)  
-4.43 stars per week over 207 weeks  
+4.42 stars per week over 207 weeks  
 918 stars, 32 forks, 18 watches  
 created 2019-05-13, last commit 2022-12-22, main language Python  
 <sub><sup>debugger, debugging, debugging-tools, logging</sup></sub>
@@ -74,7 +74,7 @@ created 2015-03-16, last commit 2023-04-26, main language Python
 birdseye: Graphical Python debugger which lets you easily view the values of all evaluated expressions  
 [https://birdseye.readthedocs.io](https://birdseye.readthedocs.io)  
 [https://github.com/alexmojaki/birdseye](https://github.com/alexmojaki/birdseye)  
-5.12 stars per week over 301 weeks  
+5.12 stars per week over 302 weeks  
 1,545 stars, 77 forks, 42 watches  
 created 2017-07-22, last commit 2022-05-18, main language JavaScript  
 <sub><sup>ast, birdseye, debugger, debugging, python-debugger</sup></sub>
@@ -83,13 +83,13 @@ created 2017-07-22, last commit 2022-05-18, main language JavaScript
 ### [heartrate](https://github.com/alexmojaki/heartrate) by [alexmojaki](https://github.com/alexmojaki)  
 heartrate: Simple real time visualisation of the execution of a Python program.  
 [https://github.com/alexmojaki/heartrate](https://github.com/alexmojaki/heartrate)  
-7.72 stars per week over 210 weeks  
+7.7 stars per week over 210 weeks  
 1,621 stars, 123 forks, 34 watches  
 created 2019-04-24, last commit 2021-11-13, main language Python  
 <sub><sup>debugger, visualization</sup></sub>
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

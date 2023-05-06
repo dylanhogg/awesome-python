@@ -29,7 +29,7 @@ created 2011-03-09, last commit 2023-04-23, main language Python
 sympy: A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-15 stars per week over 678 weeks  
+15 stars per week over 679 weeks  
 10,603 stars, 3,947 forks, 290 watches  
 created 2010-04-30, last commit 2023-04-23, main language Python  
 <sub><sup>computer-algebra, hacktoberfest, math, science</sup></sub>
@@ -48,7 +48,7 @@ created 2016-11-01, last commit 2023-04-21, main language Python
 ### [theseus](https://github.com/facebookresearch/theseus) by [facebookresearch](https://github.com/facebookresearch)  
 theseus: A library for differentiable nonlinear optimization  
 [https://github.com/facebookresearch/theseus](https://github.com/facebookresearch/theseus)  
-16 stars per week over 75 weeks  
+16 stars per week over 76 weeks  
 1,279 stars, 89 forks, 25 watches  
 created 2021-11-18, last commit 2023-04-21, main language Python  
 <sub><sup>bilevel-optimization, computer-vision, deep-learning, differentiable-optimization, embodied-ai, gauss-newton, implicit-differentiation, levenberg-marquardt, nonlinear-least-squares, pytorch, robotics</sup></sub>
@@ -58,7 +58,7 @@ created 2021-11-18, last commit 2023-04-21, main language Python
 pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.  
 [https://www.pyomo.org](https://www.pyomo.org)  
 [https://github.com/pyomo/pyomo](https://github.com/pyomo/pyomo)  
-4.19 stars per week over 361 weeks  
+4.18 stars per week over 362 weeks  
 1,515 stars, 436 forks, 59 watches  
 created 2016-05-27, last commit 2023-04-20, main language Python  
 <sub><sup>linear-programming, mathematical-programming, modeling-language, nonlinear-programming, optimization</sup></sub>
@@ -68,7 +68,7 @@ created 2016-05-27, last commit 2023-04-20, main language Python
 mpmath: Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
-1.29 stars per week over 595 weeks  
+1.28 stars per week over 595 weeks  
 765 stars, 159 forks, 38 watches  
 created 2011-12-07, last commit 2023-04-21, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, special-functions</sup></sub>
@@ -78,7 +78,7 @@ created 2011-12-07, last commit 2023-04-21, main language Python
 PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
 [https://github.com/lukaszahradnik/pyneuralogic](https://github.com/lukaszahradnik/pyneuralogic)  
-1.83 stars per week over 125 weeks  
+1.82 stars per week over 125 weeks  
 229 stars, 18 forks, 4 watches  
 created 2020-12-06, last commit 2023-04-23, main language Python  
 <sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, pytorch, relational-learning</sup></sub>
@@ -87,7 +87,7 @@ created 2020-12-06, last commit 2023-04-23, main language Python
 ### [torchsde](https://github.com/google-research/torchsde) by [google-research](https://github.com/google-research)  
 torchsde: Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
 [https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
-8.47 stars per week over 147 weeks  
+8.45 stars per week over 147 weeks  
 1,248 stars, 151 forks, 35 watches  
 created 2020-07-06, last commit 2021-07-26, main language Python  
 <sub><sup>deep-learning, deep-neural-networks, differential-equations, dynamical-systems, neural-differential-equations, pytorch, stochastic-differential-equations, stochastic-processes, stochastic-volatility-models</sup></sub>
@@ -96,7 +96,7 @@ created 2020-07-06, last commit 2021-07-26, main language Python
 ### [tfcausalimpact](https://github.com/willianfuks/tfcausalimpact) by [willianfuks](https://github.com/willianfuks)  
 tfcausalimpact: Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
-2.91 stars per week over 141 weeks  
+2.9 stars per week over 141 weeks  
 411 stars, 52 forks, 10 watches  
 created 2020-08-17, last commit 2022-12-20, main language Python  
 <sub><sup>causal-inference, causalimpact, tensorflow-probability</sup></sub>
@@ -105,7 +105,7 @@ created 2020-08-17, last commit 2022-12-20, main language Python
 ### [AI-Feynman](https://github.com/sj001/ai-feynman) by [sj001](https://github.com/sj001)  
 sj001/ai-feynman  
 [https://github.com/sj001/ai-feynman](https://github.com/sj001/ai-feynman)  
-3.07 stars per week over 164 weeks  
+3.06 stars per week over 164 weeks  
 504 stars, 151 forks, 25 watches  
 created 2020-03-08, last commit 2021-05-16, main language Python  
 
@@ -124,7 +124,7 @@ created 2013-09-29, last commit 2022-07-25, main language Python
 fraqtive: Generator of the Mandelbrot family fractals.  
 [https://fraqtive.mimec.org/](https://fraqtive.mimec.org/)  
 [https://github.com/mimecorg/fraqtive](https://github.com/mimecorg/fraqtive)  
-0.1 stars per week over 268 weeks  
+0.1 stars per week over 269 weeks  
 28 stars, 7 forks, 3 watches  
 created 2018-03-09, last commit 2023-03-06, main language C++  
 <sub><sup>fractal, mandelbrot, qt</sup></sub>
@@ -133,7 +133,7 @@ created 2018-03-09, last commit 2023-03-06, main language C++
 ### [pycircular](https://github.com/albahnsen/pycircular) by [albahnsen](https://github.com/albahnsen)  
 pycircular is a Python module for circular data analysis  
 [https://github.com/albahnsen/pycircular](https://github.com/albahnsen/pycircular)  
-2.04 stars per week over 33 weeks  
+2.02 stars per week over 33 weeks  
 68 stars, 4 forks, 5 watches  
 created 2022-09-12, last commit 2023-01-21, main language Python  
 
@@ -146,7 +146,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2022-11-02, main language Python  
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

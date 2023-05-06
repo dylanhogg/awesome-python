@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) by [lucidrains](https://github.com/lucidrains)  
 PaLM-rlhf-pytorch: Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
 [https://github.com/lucidrains/palm-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch)  
-311 stars per week over 20 weeks  
+304 stars per week over 21 weeks  
 6,446 stars, 533 forks, 125 watches  
 created 2022-12-09, last commit 2023-04-05, main language Python  
 <sub><sup>artificial-intelligence, attention-mechanisms, deep-learning, human-feedback, reinforcement-learning, transformers</sup></sub>
@@ -27,7 +27,7 @@ created 2016-04-27, last commit 2023-01-30, main language Python
 Gymnasium: A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)  
 [https://gymnasium.farama.org](https://gymnasium.farama.org)  
 [https://github.com/farama-foundation/gymnasium](https://github.com/farama-foundation/gymnasium)  
-70 stars per week over 33 weeks  
+70 stars per week over 34 weeks  
 2,402 stars, 260 forks, 20 watches  
 created 2022-09-08, last commit 2023-04-19, main language Python  
 <sub><sup>api, gym, reinforcement-learning</sup></sub>
@@ -37,7 +37,7 @@ created 2022-09-08, last commit 2023-04-19, main language Python
 ml-agents: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
 [https://unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
 [https://github.com/unity-technologies/ml-agents](https://github.com/unity-technologies/ml-agents)  
-49 stars per week over 294 weeks  
+49 stars per week over 295 weeks  
 14,546 stars, 3,814 forks, 549 watches  
 created 2017-09-08, last commit 2023-01-25, main language C#  
 <sub><sup>deep-learning, deep-reinforcement-learning, machine-learning, neural-networks, reinforcement-learning, unity, unity3d</sup></sub>
@@ -46,7 +46,7 @@ created 2017-09-08, last commit 2023-01-25, main language C#
 ### [rl](https://github.com/pytorch/rl) by [pytorch](https://github.com/pytorch)  
 rl: A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.  
 [https://github.com/pytorch/rl](https://github.com/pytorch/rl)  
-17 stars per week over 65 weeks  
+16 stars per week over 65 weeks  
 1,112 stars, 154 forks, 35 watches  
 created 2022-02-01, last commit 2023-04-20, main language Python  
 
@@ -74,7 +74,7 @@ created 2017-07-25, last commit 2023-04-19, main language Python
 Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.   
 [https://github.com/google/dopamine](https://github.com/google/dopamine)  
 [https://github.com/google/dopamine](https://github.com/google/dopamine)  
-40 stars per week over 248 weeks  
+40 stars per week over 249 weeks  
 10,077 stars, 1,357 forks, 442 watches  
 created 2018-07-26, last commit 2023-03-20, main language Jupyter Notebook  
 <sub><sup>ai, google, ml, rl, tensorflow</sup></sub>
@@ -93,7 +93,7 @@ created 2020-01-20, last commit 2023-04-22, main language Python
 ### [dm_control](https://github.com/deepmind/dm_control) by [deepmind](https://github.com/deepmind)  
 dm_control: DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.  
 [https://github.com/deepmind/dm_control](https://github.com/deepmind/dm_control)  
-11 stars per week over 278 weeks  
+11 stars per week over 279 weeks  
 3,158 stars, 607 forks, 127 watches  
 created 2017-12-29, last commit 2023-04-20, main language Python  
 <sub><sup>artificial-intelligence, deep-learning, machine-learning, mujoco, neural-networks, physics-simulation, reinforcement-learning</sup></sub>
@@ -103,7 +103,7 @@ created 2017-12-29, last commit 2023-04-20, main language Python
 ReAgent: A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)  
 [https://reagent.ai](https://reagent.ai)  
 [https://github.com/facebookresearch/reagent](https://github.com/facebookresearch/reagent)  
-11 stars per week over 300 weeks  
+11 stars per week over 301 weeks  
 3,378 stars, 511 forks, 151 watches  
 created 2017-07-27, last commit 2023-04-21, main language Python  
 
@@ -130,7 +130,7 @@ created 2017-05-24, last commit 2020-01-31, main language Python
 robosuite: A Modular Simulation Framework and Benchmark for Robot Learning  
 [https://robosuite.ai](https://robosuite.ai)  
 [https://github.com/arise-initiative/robosuite](https://github.com/arise-initiative/robosuite)  
-3.55 stars per week over 235 weeks  
+3.55 stars per week over 236 weeks  
 838 stars, 272 forks, 24 watches  
 created 2018-10-25, last commit 2023-04-11, main language Python  
 <sub><sup>physics-simulation, reinforcement-learning, robot-learning, robot-manipulation, robotics</sup></sub>
@@ -140,7 +140,7 @@ created 2018-10-25, last commit 2023-04-11, main language Python
 keras-rl: Deep Reinforcement Learning for Keras.  
 [http://keras-rl.readthedocs.io/](http://keras-rl.readthedocs.io/)  
 [https://github.com/keras-rl/keras-rl](https://github.com/keras-rl/keras-rl)  
-15 stars per week over 356 weeks  
+15 stars per week over 357 weeks  
 5,404 stars, 1,358 forks, 209 watches  
 created 2016-07-02, last commit 2019-11-11, main language Python  
 <sub><sup>keras, machine-learning, neural-networks, reinforcement-learning, tensorflow, theano</sup></sub>
@@ -149,7 +149,7 @@ created 2016-07-02, last commit 2019-11-11, main language Python
 ### [warp-drive](https://github.com/salesforce/warp-drive) by [salesforce](https://github.com/salesforce)  
 warp-drive: Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU (JMLR 2022)  
 [https://github.com/salesforce/warp-drive](https://github.com/salesforce/warp-drive)  
-4.17 stars per week over 88 weeks  
+4.15 stars per week over 88 weeks  
 367 stars, 68 forks, 12 watches  
 created 2021-08-25, last commit 2023-03-22, main language Python  
 <sub><sup>cuda, deep-learning, gpu, high-throughput, multiagent-reinforcement-learning, numba, pytorch, reinforcement-learning</sup></sub>
@@ -164,7 +164,7 @@ hh-rlhf: Human preference data for "Training a Helpful and Harmless Assistant wi
 created 2022-04-10, last commit 2022-08-24, main language None  
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

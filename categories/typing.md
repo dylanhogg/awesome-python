@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 mypy: Optional static typing for Python  
 [https://www.mypy-lang.org/](https://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
-28 stars per week over 542 weeks  
+28 stars per week over 543 weeks  
 15,232 stars, 2,500 forks, 230 watches  
 created 2012-12-07, last commit 2023-04-24, main language Python  
 <sub><sup>linter, typechecker, types, typing</sup></sub>
@@ -27,7 +27,7 @@ created 2019-03-12, last commit 2023-04-23, main language Python
 pyre-check: Performant type-checking for python.  
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
-22 stars per week over 285 weeks  
+22 stars per week over 286 weeks  
 6,318 stars, 420 forks, 112 watches  
 created 2017-11-10, last commit 2023-04-21, main language OCaml  
 <sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
@@ -47,7 +47,7 @@ created 2015-01-27, last commit 2023-04-16, main language Python
 pytype: A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-9.88 stars per week over 424 weeks  
+9.87 stars per week over 424 weeks  
 4,188 stars, 273 forks, 56 watches  
 created 2015-03-18, last commit 2023-04-18, main language Python  
 <sub><sup>linter, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
@@ -56,7 +56,7 @@ created 2015-03-18, last commit 2023-04-18, main language Python
 ### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
 typeguard: Run-time type checker for Python  
 [https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
-3.04 stars per week over 383 weeks  
+3.03 stars per week over 383 weeks  
 1,165 stars, 88 forks, 18 watches  
 created 2015-12-27, last commit 2023-04-22, main language Python  
 
@@ -83,12 +83,12 @@ created 2021-03-28, last commit 2023-03-16, main language Python
 ### [autotyping](https://github.com/jellezijlstra/autotyping) by [jellezijlstra](https://github.com/jellezijlstra)  
 jellezijlstra/autotyping  
 [https://github.com/jellezijlstra/autotyping](https://github.com/jellezijlstra/autotyping)  
-1.44 stars per week over 96 weeks  
+1.43 stars per week over 97 weeks  
 139 stars, 10 forks, 5 watches  
 created 2021-06-25, last commit 2023-03-28, main language Python  
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

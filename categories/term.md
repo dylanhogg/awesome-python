@@ -19,7 +19,7 @@ created 2019-11-10, last commit 2023-04-12, main language Python
 Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!  
 [https://textual.textualize.io/](https://textual.textualize.io/)  
 [https://github.com/willmcgugan/textual](https://github.com/willmcgugan/textual)  
-174 stars per week over 107 weeks  
+174 stars per week over 108 weeks  
 18,860 stars, 552 forks, 154 watches  
 created 2021-04-08, last commit 2023-04-23, main language Python  
 <sub><sup>cli, framework, rich, terminal, tui</sup></sub>
@@ -58,7 +58,7 @@ created 2015-06-03, last commit 2023-03-03, main language Python
 click: Python composable command line interface toolkit  
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 [https://github.com/pallets/click](https://github.com/pallets/click)  
-29 stars per week over 470 weeks  
+29 stars per week over 471 weeks  
 13,735 stars, 1,330 forks, 181 watches  
 created 2014-04-24, last commit 2023-04-03, main language Python  
 <sub><sup>cli, click, pallets</sup></sub>
@@ -68,7 +68,7 @@ created 2014-04-24, last commit 2023-04-03, main language Python
 prettytable: Display tabular data in a visually appealing ASCII table format  
 [https://pypi.org/project/PrettyTable/](https://pypi.org/project/PrettyTable/)  
 [https://github.com/jazzband/prettytable](https://github.com/jazzband/prettytable)  
-2.63 stars per week over 380 weeks  
+2.63 stars per week over 381 weeks  
 1,001 stars, 121 forks, 20 watches  
 created 2016-01-15, last commit 2023-04-10, main language Python  
 <sub><sup>package, utility-library</sup></sub>
@@ -78,7 +78,7 @@ created 2016-01-15, last commit 2023-04-10, main language Python
 urwid: Console user interface library for Python (official repo)  
 [urwid.org](urwid.org)  
 [https://github.com/urwid/urwid](https://github.com/urwid/urwid)  
-3.75 stars per week over 687 weeks  
+3.75 stars per week over 688 weeks  
 2,581 stars, 312 forks, 65 watches  
 created 2010-02-25, last commit 2023-04-21, main language Python  
 
@@ -86,7 +86,7 @@ created 2010-02-25, last commit 2023-04-21, main language Python
 ### [halo](https://github.com/manrajgrover/halo) by [manrajgrover](https://github.com/manrajgrover)  
 halo: 💫 Beautiful spinners for terminal, IPython and Jupyter  
 [https://github.com/manrajgrover/halo](https://github.com/manrajgrover/halo)  
-9.22 stars per week over 295 weeks  
+9.2 stars per week over 295 weeks  
 2,723 stars, 140 forks, 26 watches  
 created 2017-09-03, last commit 2020-11-09, main language Python  
 <sub><sup>async, halo, ipython, jupyter, ora, spinner</sup></sub>
@@ -96,7 +96,7 @@ created 2017-09-03, last commit 2020-11-09, main language Python
 Blessed is an easy, practical library for making python terminal apps  
 [http://pypi.python.org/pypi/blessed](http://pypi.python.org/pypi/blessed)  
 [https://github.com/jquast/blessed](https://github.com/jquast/blessed)  
-1.91 stars per week over 478 weeks  
+1.9 stars per week over 479 weeks  
 912 stars, 65 forks, 23 watches  
 created 2014-03-01, last commit 2023-02-04, main language Python  
 <sub><sup>cli, curses, terminal</sup></sub>
@@ -106,7 +106,7 @@ created 2014-03-01, last commit 2023-02-04, main language Python
 Enlighten Progress Bar for Python Console Apps  
 [https://python-enlighten.readthedocs.io](https://python-enlighten.readthedocs.io)  
 [https://github.com/rockhopper-technologies/enlighten](https://github.com/rockhopper-technologies/enlighten)  
-0.99 stars per week over 292 weeks  
+0.99 stars per week over 293 weeks  
 291 stars, 19 forks, 5 watches  
 created 2017-09-22, last commit 2023-04-13, main language Python  
 
@@ -115,7 +115,7 @@ created 2017-09-22, last commit 2023-04-13, main language Python
 terminaltables: Generate simple tables in terminals from a nested list of strings.  
 [https://robpol86.github.io/terminaltables](https://robpol86.github.io/terminaltables)  
 [https://github.com/matthewdeanmartin/terminaltables](https://github.com/matthewdeanmartin/terminaltables)  
-0.37 stars per week over 73 weeks  
+0.36 stars per week over 74 weeks  
 27 stars, 5 forks, 1 watches  
 created 2021-12-04, last commit 2022-01-30, main language Python  
 
@@ -124,7 +124,7 @@ created 2021-12-04, last commit 2022-01-30, main language Python
 dashing: Terminal dashboards for Python  
 [https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
 [https://github.com/federicoceratto/dashing](https://github.com/federicoceratto/dashing)  
-1.15 stars per week over 308 weeks  
+1.15 stars per week over 309 weeks  
 354 stars, 30 forks, 9 watches  
 created 2017-06-03, last commit 2020-09-06, main language Python  
 <sub><sup>charts, dashboard, gauges, terminal, terminal-based</sup></sub>
@@ -139,7 +139,7 @@ created 2016-05-17, last commit 2021-06-26, main language Python
 <sub><sup>ascii, command-line-tool, graphs, sparkline-graphs, sparklines</sup></sub>
 
 
-This file was automatically generated on 2023-05-03.  
+This file was automatically generated on 2023-05-06.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
