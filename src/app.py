@@ -1,8 +1,15 @@
+from loguru import logger
+from pathlib import Path
+
 from library import log, env, crawler, postprocess
 
 
 def main():
     log.configure()
+
+    joblib_cache_exists = Path(".joblib_cache").exists()
+    if joblib_cache_exists:
+        logger.warning(".joblib_cache folder exists, not all data will be fresh!")
 
     # NOTE: csv location can be local file or google spreadsheet, for example:
     #       https://docs.google.com/spreadsheets/d/<your_doc_id>/export?gid=0&format=csv
@@ -19,6 +26,8 @@ def main():
     postprocess.write_best_in_class_data(github_json_filename="github_top.json", sort_col="_pop_score")
     postprocess.write_best_in_class_data(github_json_filename="github_hot.json", sort_col="_stars_per_week")
 
+    if joblib_cache_exists:
+        logger.warning(".joblib_cache folder exists, not all data will be fresh!")
 
 # def write_tags():
 #     # TEMP: remove once tag filtering implemented
