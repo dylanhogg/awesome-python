@@ -475,6 +475,7 @@ created 2014-08-30, last commit 2023-05-06, main language C++
 18 stars per week over 100 weeks  
 1,897 stars, 197 forks, 24 watches  
 created 2021-06-04, last commit 2023-04-12, main language Python  
+<sub><sup>cuda</sup></sub>
 
 
 ### [pypdf](https://github.com/py-pdf/pypdf2) by [py-pdf](https://github.com/py-pdf)  

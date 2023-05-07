@@ -21,6 +21,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 84 stars per week over 366 weeks  
 31,152 stars, 8,385 forks, 1,030 watches  
 created 2016-04-27, last commit 2023-01-30, main language Python  
+<sub><sup>reinforcement-learning</sup></sub>
 
 
 ### [Gymnasium](https://github.com/farama-foundation/gymnasium) by [farama-foundation](https://github.com/farama-foundation)  
@@ -49,6 +50,7 @@ A modular, primitive-first, python-first PyTorch library for Reinforcement Learn
 17 stars per week over 65 weeks  
 1,131 stars, 159 forks, 35 watches  
 created 2022-02-01, last commit 2023-05-05, main language Python  
+<sub><sup>reinforcement-learning</sup></sub>
 
 
 ### [tianshou](https://github.com/thu-ml/tianshou) by [thu-ml](https://github.com/thu-ml)  

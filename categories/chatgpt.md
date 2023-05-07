@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 78 curated chatgpt Python libraries and frameworks ordered by stars.  
+A selection of 80 curated chatgpt Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -124,6 +124,16 @@ Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BL
 7,968 stars, 658 forks, 89 watches  
 created 2023-04-06, last commit 2023-05-05, main language Jupyter Notebook  
 <sub><sup>automatic-labeling-system, caption, data-generation, open-vocabulary-detection, open-vocabulary-segmentation, speech</sup></sub>
+
+
+### [GPTCache](https://github.com/zilliztech/gptcache) by [zilliztech](https://github.com/zilliztech)  
+GPTCache is a library for creating semantic cache to store responses from LLM queries.  
+[https://gptcache.readthedocs.io](https://gptcache.readthedocs.io)  
+[https://github.com/zilliztech/gptcache](https://github.com/zilliztech/gptcache)  
+474 stars per week over 6 weeks  
+2,981 stars, 182 forks, 39 watches  
+created 2023-03-24, last commit 2023-05-07, main language Python  
+<sub><sup>aigc, autogpt, babyagi, chatbot, chatgpt, chatgpt-api, dolly, gpt, langchain, llama, llama-index, llm, memcache, milvus, openai, redis, semantic-search, similarity-search, vector-search</sup></sub>
 
 
 ### [TaskMatrix](https://github.com/microsoft/taskmatrix) by [microsoft](https://github.com/microsoft)  
@@ -293,7 +303,7 @@ created 2023-03-10, last commit 2023-04-16, main language Python
 47 stars per week over 181 weeks  
 8,550 stars, 1,185 forks, 106 watches  
 created 2019-11-14, last commit 2023-05-05, main language Python  
-<sub><sup>ai, bert, chatgpt, elasticsearch, generative-ai, gpt-3, information-retrieval, language-model, large-language-models, machine-learning, natural-language-processing, nlp, pytorch, question-answering, semantic-search, squad, summarization, transfer-learning, transformers</sup></sub>
+<sub><sup>ai, bert, chatgpt, elasticsearch, generative-ai, gpt-3, haystack, information-retrieval, language-model, large-language-models, machine-learning, natural-language-processing, nlp, pytorch, question-answering, semantic-search, squad, summarization, transfer-learning, transformers</sup></sub>
 
 
 ### [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) by [mmabrouk](https://github.com/mmabrouk)  
@@ -433,7 +443,7 @@ Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 105 stars per week over 12 weeks  
 1,291 stars, 71 forks, 46 watches  
 created 2023-02-10, last commit 2023-04-08, main language Python  
-<sub><sup>api-calling, artificial-intelligence, attention-mechanisms, deep-learning, transformers</sup></sub>
+<sub><sup>api-calling, artificial-intelligence, attention-mechanisms, deep-learning, language-model, toolformer, transformers</sup></sub>
 
 
 ### [minGPT](https://github.com/karpathy/mingpt) by [karpathy](https://github.com/karpathy)  
@@ -638,11 +648,12 @@ created 2022-11-18, last commit 2023-03-22, main language Python
 
 
 ### [toolformer](https://github.com/conceptofmind/toolformer) by [conceptofmind](https://github.com/conceptofmind)  
-conceptofmind/toolformer  
+Open-source implementation of Toolformer: Language Models Can Teach Themselves to Use Tools  
 [https://github.com/conceptofmind/toolformer](https://github.com/conceptofmind/toolformer)  
 17 stars per week over 11 weeks  
 201 stars, 24 forks, 9 watches  
 created 2023-02-17, last commit 2023-03-04, main language Python  
+<sub><sup>language-model, toolformer</sup></sub>
 
 
 ### [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) by [openai](https://github.com/openai)  
@@ -651,6 +662,15 @@ Dataset of GPT-2 outputs for research in detection, biases, and more
 8.08 stars per week over 209 weeks  
 1,690 stars, 491 forks, 71 watches  
 created 2019-05-03, last commit 2021-02-18, main language Python  
+
+
+### [bricky](https://github.com/larsbaunwall/bricky) by [larsbaunwall](https://github.com/larsbaunwall)  
+Haystack/OpenAI based chatbot curating a custom knowledgebase  
+[https://github.com/larsbaunwall/bricky](https://github.com/larsbaunwall/bricky)  
+5.43 stars per week over 14 weeks  
+76 stars, 11 forks, 6 watches  
+created 2023-01-29, last commit 2023-03-30, main language Python  
+<sub><sup>ai, haystack, nextjs, openai</sup></sub>
 
 
 ### [t-zero](https://github.com/bigscience-workshop/t-zero) by [bigscience-workshop](https://github.com/bigscience-workshop)  

@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 26 curated viz Python libraries and frameworks ordered by stars.  
+A selection of 29 curated viz Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -82,6 +82,7 @@ Declarative statistical visualization library for Python
 20 stars per week over 398 weeks  
 8,236 stars, 730 forks, 148 watches  
 created 2015-09-19, last commit 2023-05-02, main language Python  
+<sub><sup>visualization</sup></sub>
 
 
 ### [seaborn](https://github.com/mwaskom/seaborn) by [mwaskom](https://github.com/mwaskom)  
@@ -123,6 +124,26 @@ created 2013-03-21, last commit 2023-05-03, main language Python
 <sub><sup>closember, hacktoberfest, opengl, visualization</sup></sub>
 
 
+### [pyvista](https://github.com/pyvista/pyvista)  
+3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)  
+[https://docs.pyvista.org](https://docs.pyvista.org)  
+[https://github.com/pyvista/pyvista](https://github.com/pyvista/pyvista)  
+5.75 stars per week over 309 weeks  
+1,779 stars, 326 forks, 31 watches  
+created 2017-05-31, last commit 2023-05-05, main language Python  
+<sub><sup>3d, hacktoberfest, mesh, mesh-processing, meshviewer, open-science, plotting, scientific-research, scientific-visualization, visualization, vtk</sup></sub>
+
+
+### [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)  
+Fast data visualization and GUI tools for scientific / engineering applications  
+[http://www.pyqtgraph.org](http://www.pyqtgraph.org)  
+[https://github.com/pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)  
+6.42 stars per week over 503 weeks  
+3,233 stars, 1,005 forks, 152 watches  
+created 2013-09-12, last commit 2023-05-03, main language Python  
+<sub><sup>hacktoberfest, numpy, qt, scientific-visualization, visualization</sup></sub>
+
+
 ### [dtale](https://github.com/man-group/dtale) by [man-group](https://github.com/man-group)  
 Visualizer for pandas data structures  
 [http://alphatechadmin.pythonanywhere.com](http://alphatechadmin.pythonanywhere.com)  
@@ -131,6 +152,16 @@ Visualizer for pandas data structures
 4,004 stars, 339 forks, 71 watches  
 created 2019-07-15, last commit 2023-05-01, main language TypeScript  
 <sub><sup>data-analysis, data-science, data-visualization, flask, ipython, jupyter-notebook, pandas, plotly-dash, python27, react, react-virtualized, visualization, xarray</sup></sub>
+
+
+### [vedo](https://github.com/marcomusy/vedo) by [marcomusy](https://github.com/marcomusy)  
+A python module for scientific analysis of 3D data based on VTK and Numpy  
+[https://vedo.embl.es](https://vedo.embl.es)  
+[https://github.com/marcomusy/vedo](https://github.com/marcomusy/vedo)  
+5.67 stars per week over 286 weeks  
+1,624 stars, 230 forks, 28 watches  
+created 2017-11-10, last commit 2023-05-01, main language Python  
+<sub><sup>3d, 3d-graphics, dolfin, fenics, finite-elements, mesh, numpy, scientific-research, scientific-visualization, simulations, visualization, vtk</sup></sub>
 
 
 ### [holoviews](https://github.com/holoviz/holoviews) by [holoviz](https://github.com/holoviz)  
@@ -217,6 +248,7 @@ created 2021-04-06, last commit 2021-05-06, main language Python
 1.75 stars per week over 640 weeks  
 1,119 stars, 269 forks, 100 watches  
 created 2011-01-24, last commit 2022-10-18, main language Python  
+<sub><sup>scientific-visualization, visualization</sup></sub>
 
 
 ### [mahotas](https://github.com/luispedro/mahotas) by [luispedro](https://github.com/luispedro)  

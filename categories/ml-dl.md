@@ -91,6 +91,7 @@ The repository provides code for running inference with the SegmentAnything Mode
 4901 stars per week over 6 weeks  
 31,507 stars, 3,318 forks, 233 watches  
 created 2023-03-23, last commit 2023-05-02, main language Jupyter Notebook  
+<sub><sup>instance-segmentation, object-detection</sup></sub>
 
 
 ### [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) by [pyg-team](https://github.com/pyg-team)  

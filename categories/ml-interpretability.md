@@ -60,14 +60,16 @@ Lime: Explaining the predictions of any machine learning classifier
 28 stars per week over 372 weeks  
 10,629 stars, 1,735 forks, 266 watches  
 created 2016-03-15, last commit 2021-07-29, main language JavaScript  
+<sub><sup>interpretable-ml</sup></sub>
 
 
 ### [pythia](https://github.com/eleutherai/pythia) by [eleutherai](https://github.com/eleutherai)  
-eleutherai/pythia  
+Interpretability analysis and scaling laws to understand how knowledge develops and evolves during training in autoregressive transformers  
 [https://github.com/eleutherai/pythia](https://github.com/eleutherai/pythia)  
 14 stars per week over 71 weeks  
 1,026 stars, 65 forks, 21 watches  
 created 2021-12-25, last commit 2023-05-03, main language Jupyter Notebook  
+<sub><sup>interpretability, interpretable-ml</sup></sub>
 
 
 ### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  

@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 97 curated data Python libraries and frameworks ordered by stars.  
+A selection of 99 curated data Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -32,7 +32,7 @@ DuckDB is an in-process SQL OLAP Database Management System
 39 stars per week over 253 weeks  
 9,915 stars, 919 forks, 144 watches  
 created 2018-06-26, last commit 2023-05-05, main language C++  
-<sub><sup>analytics, database, embedded-database, olap, sql</sup></sub>
+<sub><sup>analytics, database, dataframe, embedded-database, olap, sql</sup></sub>
 
 
 ### [chroma](https://github.com/chroma-core/chroma) by [chroma-core](https://github.com/chroma-core)  
@@ -132,6 +132,16 @@ Redis Python Client
 11,431 stars, 2,365 forks, 326 watches  
 created 2009-11-06, last commit 2023-05-03, main language Python  
 <sub><sup>redis, redis-client, redis-cluster, redis-py</sup></sub>
+
+
+### [docarray](https://github.com/docarray/docarray)  
+🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store  
+[https://docs.docarray.org/](https://docs.docarray.org/)  
+[https://github.com/docarray/docarray](https://github.com/docarray/docarray)  
+29 stars per week over 72 weeks  
+2,154 stars, 174 forks, 39 watches  
+created 2021-12-14, last commit 2023-05-06, main language Python  
+<sub><sup>cross-modal, data-structures, dataclass, deep-learning, docarray, elasticsearch, fastapi, machine-learning, multi-modal, multimodal, nearest-neighbor-search, nested-data, neural-search, protobuf, pydantic, pytorch, qdrant, semantic-search, vector-search, weaviate</sup></sub>
 
 
 ### [data-diff](https://github.com/datafold/data-diff) by [datafold](https://github.com/datafold)  
@@ -701,6 +711,7 @@ The Pinecone Python client
 1.17 stars per week over 85 weeks  
 100 stars, 22 forks, 18 watches  
 created 2021-09-16, last commit 2023-05-04, main language Python  
+<sub><sup>vector-search</sup></sub>
 
 
 ### [JoJoGAN](https://github.com/mchong6/jojogan) by [mchong6](https://github.com/mchong6)  
@@ -812,6 +823,15 @@ A toolkit providing a uniform interface for connecting to and extracting data fr
 created 2017-02-22, last commit 2022-05-09, main language Python  
 
 
+### [qdrant-haystack](https://github.com/qdrant/qdrant-haystack) by [qdrant](https://github.com/qdrant)  
+An integration of Qdrant ANN vector database backend with Haystack   
+[https://github.com/qdrant/qdrant-haystack](https://github.com/qdrant/qdrant-haystack)  
+1.46 stars per week over 13 weeks  
+20 stars, 3 forks, 3 watches  
+created 2023-01-31, last commit 2023-04-14, main language Python  
+<sub><sup>haystack</sup></sub>
+
+
 ### [ged2dot](https://github.com/vmiklos/ged2dot) by [vmiklos](https://github.com/vmiklos)  
 GEDCOM to Graphviz converter  
 [https://vmiklos.hu/ged2dot/](https://vmiklos.hu/ged2dot/)  
@@ -848,6 +868,7 @@ Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate 
 2.71 stars per week over 79 weeks  
 216 stars, 21 forks, 8 watches  
 created 2021-10-26, last commit 2023-02-17, main language Python  
+<sub><sup>vector-search</sup></sub>
 
 
 ### [sota-extractor](https://github.com/paperswithcode/sota-extractor) by [paperswithcode](https://github.com/paperswithcode)  

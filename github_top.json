@@ -111,9 +111,9 @@
             "_age_weeks": 28,
             "_stars_per_week": 1215.71,
             "_topics": [
+                "chatbot",
                 "language-model",
-                "langchain",
-                "chatbot"
+                "langchain"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
             "_pop_score": 86.37,
@@ -371,6 +371,7 @@
             "_age_weeks": 253,
             "_stars_per_week": 39.08,
             "_topics": [
+                "dataframe",
                 "sql",
                 "database",
                 "olap",
@@ -1379,8 +1380,8 @@
             "_age_weeks": 14,
             "_stars_per_week": 617.21,
             "_topics": [
-                "language-model",
-                "evaluation"
+                "evaluation",
+                "language-model"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
             "_pop_score": 80.0,
@@ -1771,7 +1772,9 @@
             "_created_at": "2016-04-27T00:00:00.000Z",
             "_age_weeks": 366,
             "_stars_per_week": 84.98,
-            "_topics": [],
+            "_topics": [
+                "reinforcement-learning"
+            ],
             "_last_commit_date": "2023-01-30T00:00:00.000Z",
             "_pop_score": 68.74,
             "_readme_filename": "README.md",
@@ -2973,6 +2976,7 @@
             "_age_weeks": 337,
             "_stars_per_week": 46.9,
             "_topics": [
+                "time-series",
                 "forecasting",
                 "r"
             ],
@@ -3029,7 +3033,9 @@
             "_created_at": "2019-03-12T00:00:00.000Z",
             "_age_weeks": 216,
             "_stars_per_week": 47.12,
-            "_topics": [],
+            "_topics": [
+                "typechecker"
+            ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
             "_pop_score": 66.72,
             "_readme_filename": "README.md",

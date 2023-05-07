@@ -32,7 +32,7 @@ Tool for producing high quality forecasts for time series data that has multiple
 46 stars per week over 337 weeks  
 15,832 stars, 4,402 forks, 422 watches  
 created 2016-11-16, last commit 2023-02-28, main language Python  
-<sub><sup>forecasting, r</sup></sub>
+<sub><sup>forecasting, r, time-series</sup></sub>
 
 
 ### [gluonts](https://github.com/awslabs/gluonts) by [awslabs](https://github.com/awslabs)  
@@ -61,6 +61,7 @@ Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizab
 38 stars per week over 114 weeks  
 4,355 stars, 476 forks, 74 watches  
 created 2021-02-25, last commit 2023-05-03, main language Python  
+<sub><sup>time-series</sup></sub>
 
 
 ### [stumpy](https://github.com/tdameritrade/stumpy) by [tdameritrade](https://github.com/tdameritrade)  

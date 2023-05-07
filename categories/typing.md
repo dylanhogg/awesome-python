@@ -21,6 +21,7 @@ Static Type Checker for Python
 47 stars per week over 216 weeks  
 10,211 stars, 1,025 forks, 100 watches  
 created 2019-03-12, last commit 2023-05-06, main language Python  
+<sub><sup>typechecker</sup></sub>
 
 
 ### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
@@ -59,6 +60,7 @@ Run-time type checker for Python
 3.08 stars per week over 384 weeks  
 1,181 stars, 93 forks, 18 watches  
 created 2015-12-27, last commit 2023-05-01, main language Python  
+<sub><sup>typechecker</sup></sub>
 
 
 ### [torchtyping](https://github.com/patrick-kidger/torchtyping) by [patrick-kidger](https://github.com/patrick-kidger)  

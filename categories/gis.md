@@ -62,6 +62,7 @@ Manipulation and analysis of geometric objects
 5.53 stars per week over 592 weeks  
 3,277 stars, 529 forks, 87 watches  
 created 2011-12-31, last commit 2023-05-01, main language Python  
+<sub><sup>geometric-algorithms, geometry</sup></sub>
 
 
 ### [leafmap](https://github.com/opengeos/leafmap) by [opengeos](https://github.com/opengeos)  
@@ -634,6 +635,7 @@ Manipulation and analysis of geometric objects on the sphere.
 3.88 stars per week over 23 weeks  
 91 stars, 4 forks, 4 watches  
 created 2022-11-24, last commit 2023-03-20, main language C++  
+<sub><sup>geometric-algorithms, geometry</sup></sub>
 
 
 ### [mordecai](https://github.com/openeventdata/mordecai) by [openeventdata](https://github.com/openeventdata)  
@@ -873,6 +875,7 @@ Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's ge
 0.22 stars per week over 388 weeks  
 87 stars, 22 forks, 3 watches  
 created 2015-11-25, last commit 2018-10-31, main language Python  
+<sub><sup>geometry</sup></sub>
 
 
 ### [mapalignment](https://github.com/lydorn/mapalignment) by [lydorn](https://github.com/lydorn)  

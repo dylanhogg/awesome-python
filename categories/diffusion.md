@@ -94,6 +94,7 @@ High-Resolution Image Synthesis with Latent Diffusion Models
 912 stars per week over 23 weeks  
 21,506 stars, 2,615 forks, 292 watches  
 created 2022-11-23, last commit 2023-03-25, main language Python  
+<sub><sup>diffusion, image-generation</sup></sub>
 
 
 ### [DALLE2-pytorch](https://github.com/lucidrains/dalle2-pytorch) by [lucidrains](https://github.com/lucidrains)  
@@ -112,6 +113,7 @@ A latent text-to-image diffusion model
 1378 stars per week over 38 weeks  
 53,167 stars, 8,280 forks, 476 watches  
 created 2022-08-10, last commit 2022-11-16, main language Jupyter Notebook  
+<sub><sup>diffusion, image-generation</sup></sub>
 
 
 ### [dinov2](https://github.com/facebookresearch/dinov2) by [facebookresearch](https://github.com/facebookresearch)  
@@ -210,6 +212,7 @@ High-Resolution Image Synthesis with Latent Diffusion Models
 102 stars per week over 71 weeks  
 7,383 stars, 995 forks, 81 watches  
 created 2021-12-20, last commit 2022-07-26, main language Jupyter Notebook  
+<sub><sup>diffusion, image-generation</sup></sub>
 
 
 ### [Dreambooth-Stable-Diffusion](https://github.com/xavierxiao/dreambooth-stable-diffusion) by [xavierxiao](https://github.com/xavierxiao)  

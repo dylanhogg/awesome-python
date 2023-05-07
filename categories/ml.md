@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 134 curated ml Python libraries and frameworks ordered by stars.  
+A selection of 135 curated ml Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -99,6 +99,7 @@ A library for efficient similarity search and clustering of dense vectors.
 65 stars per week over 325 weeks  
 21,387 stars, 2,915 forks, 447 watches  
 created 2017-02-07, last commit 2023-05-05, main language C++  
+<sub><sup>vector-search</sup></sub>
 
 
 ### [optuna](https://github.com/optuna/optuna)  
@@ -234,6 +235,7 @@ OpenMMLab Computer Vision Foundation
 20 stars per week over 245 weeks  
 4,916 stars, 1,470 forks, 85 watches  
 created 2018-08-22, last commit 2023-04-23, main language Python  
+<sub><sup>computer-vision</sup></sub>
 
 
 ### [pymc](https://github.com/pymc-devs/pymc3) by [pymc-devs](https://github.com/pymc-devs)  
@@ -946,6 +948,16 @@ Reference implementation of the Transformer architecture optimized for Apple Neu
 45 stars per week over 48 weeks  
 2,214 stars, 65 forks, 40 watches  
 created 2022-06-03, last commit 2022-08-09, main language Python  
+
+
+### [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize)  
+Sequential model-based optimization with a  `scipy.optimize` interface  
+[https://scikit-optimize.github.io](https://scikit-optimize.github.io)  
+[https://github.com/scikit-optimize/scikit-optimize](https://github.com/scikit-optimize/scikit-optimize)  
+6.95 stars per week over 372 weeks  
+2,584 stars, 491 forks, 64 watches  
+created 2016-03-20, last commit 2021-10-12, main language Python  
+<sub><sup>bayesian-optimization, bayesopt, binder, hacktoberfest, hyperparameter, hyperparameter-optimization, hyperparameter-search, hyperparameter-tuning, machine-learning, optimization, scientific-computing, scientific-visualization, scikit-learn, sequential-recommendation, visualization</sup></sub>
 
 
 ### [autotrain-advanced](https://github.com/huggingface/autotrain-advanced) by [huggingface](https://github.com/huggingface)  

@@ -132,6 +132,7 @@ HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary d
 3.37 stars per week over 554 weeks  
 1,868 stars, 498 forks, 57 watches  
 created 2012-09-21, last commit 2023-04-26, main language Python  
+<sub><sup>hdf5</sup></sub>
 
 
 ### [ultrajson](https://github.com/ultrajson/ultrajson)  
@@ -188,6 +189,7 @@ Visualize CPython 3.11's specializing, adaptive interpreter. :fire:
 11 stars per week over 48 weeks  
 554 stars, 9 forks, 9 watches  
 created 2022-06-01, last commit 2023-04-26, main language Python  
+<sub><sup>cpython</sup></sub>
 
 
 ### [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) by [intel](https://github.com/intel)  

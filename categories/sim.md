@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 35 curated sim Python libraries and frameworks ordered by stars.  
+A selection of 37 curated sim Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -261,6 +261,16 @@ created 2014-09-28, last commit 2022-05-24, main language Python
 <sub><sup>animation, bifurcation-diagram, chaos, cobweb-plot, fractal, fractals, ipynb, logistic, math, matplotlib, modeling, nonlinear, numba, numpy, pandas, phase-diagram, physics, systems, visualization</sup></sub>
 
 
+### [seagull](https://github.com/ljvmiranda921/seagull) by [ljvmiranda921](https://github.com/ljvmiranda921)  
+A Python Library for Conway's Game of Life  
+[https://pyseagull.readthedocs.io/en/latest/index.html#](https://pyseagull.readthedocs.io/en/latest/index.html#)  
+[https://github.com/ljvmiranda921/seagull](https://github.com/ljvmiranda921/seagull)  
+0.78 stars per week over 209 weeks  
+164 stars, 28 forks, 8 watches  
+created 2019-05-02, last commit 2020-11-08, main language Python  
+<sub><sup>artificial-life, artificial-life-algorithms, biology, cellular-automata, conways-game-of-life, game-of-life, mathematics, simulation-framework</sup></sub>
+
+
 ### [stochastic](https://github.com/crflynn/stochastic) by [crflynn](https://github.com/crflynn)  
 Generate realizations of stochastic processes in python.  
 [http://stochastic.readthedocs.io/en/stable/](http://stochastic.readthedocs.io/en/stable/)  
@@ -296,6 +306,16 @@ Continuous-time multi-agent crowd simulation engine implemented in Python using 
 29 stars, 9 forks, 9 watches  
 created 2016-03-22, last commit 2020-01-02, main language Python  
 <sub><sup>continuous-time, crowd-dynamics, crowd-simulation, multi-agent</sup></sub>
+
+
+### [rule-30-and-game-of-life](https://github.com/elliotwaite/rule-30-and-game-of-life) by [elliotwaite](https://github.com/elliotwaite)  
+Generates a 2D animation of Rule 30 (or other rules) being fed into Conway's Game of Life.  
+[https://youtu.be/IK7nBOLYzdE](https://youtu.be/IK7nBOLYzdE)  
+[https://github.com/elliotwaite/rule-30-and-game-of-life](https://github.com/elliotwaite/rule-30-and-game-of-life)  
+0.84 stars per week over 182 weeks  
+154 stars, 12 forks, 5 watches  
+created 2019-11-06, last commit 2022-03-28, main language Python  
+<sub><sup>cellular-automata, conways-game-of-life, game-of-life, rule-30</sup></sub>
 
 
 ### [Unbiased-Trace-Driven-Simulation](https://github.com/causalsim/unbiased-trace-driven-simulation) by [causalsim](https://github.com/causalsim)  

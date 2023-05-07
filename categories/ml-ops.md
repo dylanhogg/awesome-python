@@ -115,14 +115,14 @@ created 2016-03-10, last commit 2023-05-05, main language Python
 <sub><sup>analytics, business-intelligence, data-modeling, dbt-viewpoint, elt, pypa, slack</sup></sub>
 
 
-### [deeplake](https://github.com/activeloopai/hub) by [activeloopai](https://github.com/activeloopai)  
+### [deeplake](https://github.com/activeloopai/deeplake) by [activeloopai](https://github.com/activeloopai)  
 AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep Learning. Store, query, version, & visualize any data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai  
 [https://activeloop.ai](https://activeloop.ai)  
-[https://github.com/activeloopai/hub](https://github.com/activeloopai/hub)  
+[https://github.com/activeloopai/deeplake](https://github.com/activeloopai/deeplake)  
 29 stars per week over 195 weeks  
-5,813 stars, 456 forks, 69 watches  
+5,818 stars, 457 forks, 69 watches  
 created 2019-08-09, last commit 2023-05-05, main language Python  
-<sub><sup>ai, computer-vision, cv, data-centric, data-science, data-version-control, datalake, datasets, deep-learning, image-processing, lakehouse, langchain, large-language-models, llm, machine-learning, ml, mlops, pytorch, tensorflow</sup></sub>
+<sub><sup>ai, computer-vision, cv, data-centric, data-science, data-version-control, datalake, datasets, deep-learning, image-processing, lakehouse, langchain, large-language-models, llm, machine-learning, ml, mlops, pytorch, tensorflow, vector-search</sup></sub>
 
 
 ### [feast](https://github.com/feast-dev/feast) by [feast-dev](https://github.com/feast-dev)  

@@ -442,7 +442,7 @@ Efficient Retrieval Augmentation and Generation Framework
 12 stars per week over 14 weeks  
 183 stars, 16 forks, 3 watches  
 created 2023-01-23, last commit 2023-04-19, main language Python  
-<sub><sup>benchmark, colbert, diffusion, information-retrieval, knowledge-graph, multi-modal, nlp, question-answering, semantic-search, sentence-transformers, summarization, transformers</sup></sub>
+<sub><sup>benchmark, colbert, diffusion, haystack, information-retrieval, knowledge-graph, multi-modal, nlp, question-answering, semantic-search, sentence-transformers, summarization, transformers</sup></sub>
 
 
 ### [FARM](https://github.com/deepset-ai/farm) by [deepset-ai](https://github.com/deepset-ai)  
