@@ -2,8 +2,17 @@ from sentence_transformers import SentenceTransformer, util
 
 
 def _remove_generic_topics(topics):
-    remove_topics = ["python", "python2", "python-2", "python3", "python-3",
-                     "python-library", "library", "pypi-package", "pypi"]
+    remove_topics = [
+        "python",
+        "python2",
+        "python-2",
+        "python3",
+        "python-3",
+        "python-library",
+        "library",
+        "pypi-package",
+        "pypi",
+    ]
     for t in remove_topics:
         if t in topics:
             topics.remove(t)

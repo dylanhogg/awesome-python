@@ -5,12 +5,14 @@ from loguru import logger
 from library import render, readme, requirements
 
 
-def write_files(csv_location: str,
-                token_list: List[str],
-                output_csv_filename: str,
-                output_json_filename: str,
-                max_ui_topics: int = 4,
-                max_ui_sim: int = 3):
+def write_files(
+    csv_location: str,
+    token_list: List[str],
+    output_csv_filename: str,
+    output_json_filename: str,
+    max_ui_topics: int = 4,
+    max_ui_sim: int = 3,
+):
     start = datetime.now()
 
     # Read GitHub urls from google docs

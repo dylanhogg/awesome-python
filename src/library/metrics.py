@@ -27,8 +27,17 @@ class StandardMetrics:
     def get_repo_topics(ghw: GithubWrapper, name: str):
         topics = ghw.get_repo(name).get_topics()  # TODO: investigate ordering (influences topN in UI)
         # Remove generic topics
-        remove_topics = ["python", "python2", "python-2", "python3", "python-3",
-                         "python-library", "library", "pypi-package", "pypi"]
+        remove_topics = [
+            "python",
+            "python2",
+            "python-2",
+            "python3",
+            "python-3",
+            "python-library",
+            "library",
+            "pypi-package",
+            "pypi",
+        ]
         for t in remove_topics:
             if t in topics:
                 topics.remove(t)
