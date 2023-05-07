@@ -9,17 +9,17 @@ Checkout the interactive version that you can filter and sort:
 Python: All Algorithms implemented in Python  
 [https://the-algorithms.com/](https://the-algorithms.com/)  
 [https://github.com/thealgorithms/python](https://github.com/thealgorithms/python)  
-444 stars per week over 355 weeks  
-157,750 stars, 39,857 forks, 5,937 watches  
-created 2016-07-16, last commit 2023-04-24, main language Python  
+445 stars per week over 355 weeks  
+158,174 stars, 39,967 forks, 5,937 watches  
+created 2016-07-16, last commit 2023-05-02, main language Python  
 <sub><sup>algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven, education, hacktoberfest, interview, learn, practice, searches, sorting-algorithms, sorts</sup></sub>
 
 
 ### [system-design-primer](https://github.com/donnemartin/system-design-primer) by [donnemartin](https://github.com/donnemartin)  
 system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.  
 [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
-676 stars per week over 322 weeks  
-218,394 stars, 38,795 forks, 6,471 watches  
+679 stars per week over 323 weeks  
+219,349 stars, 38,968 forks, 6,478 watches  
 created 2017-02-26, last commit 2023-03-16, main language Python  
 <sub><sup>design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, system, web, web-application, webapp</sup></sub>
 
@@ -28,9 +28,9 @@ created 2017-02-26, last commit 2023-03-16, main language Python
 d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.  
 [https://D2L.ai](https://D2L.ai)  
 [https://github.com/d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)  
-73 stars per week over 238 weeks  
-17,591 stars, 3,646 forks, 366 watches  
-created 2018-10-09, last commit 2023-04-22, main language Python  
+74 stars per week over 238 weeks  
+17,728 stars, 3,681 forks, 367 watches  
+created 2018-10-09, last commit 2023-05-06, main language Python  
 <sub><sup>book, computer-vision, data-science, deep-learning, gaussian-processes, hyperparameter-optimization, jax, kaggle, keras, machine-learning, mxnet, natural-language-processing, notebook, pytorch, recommender-system, reinforcement-learning, tensorflow</sup></sub>
 
 
@@ -39,45 +39,9 @@ recommenders: Best Practices on Recommendation Systems
 [https://microsoft-recommenders.readthedocs.io/en/latest/](https://microsoft-recommenders.readthedocs.io/en/latest/)  
 [https://github.com/microsoft/recommenders](https://github.com/microsoft/recommenders)  
 64 stars per week over 241 weeks  
-15,533 stars, 2,714 forks, 264 watches  
+15,616 stars, 2,726 forks, 263 watches  
 created 2018-09-19, last commit 2023-04-22, main language Python  
 <sub><sup>artificial-intelligence, azure, data-science, deep-learning, jupyter-notebook, kubernetes, machine-learning, microsoft, operationalization, ranking, rating, recommendation, recommendation-algorithm, recommendation-engine, recommendation-system, recommender, tutorial</sup></sub>
-
-
-### [deep-rl-class](https://github.com/huggingface/deep-rl-class) by [huggingface](https://github.com/huggingface)  
-deep-rl-class: This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.  
-[https://github.com/huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)  
-53 stars per week over 54 weeks  
-2,879 stars, 402 forks, 82 watches  
-created 2022-04-21, last commit 2023-04-14, main language Jupyter Notebook  
-<sub><sup>deep-learning, deep-reinforcement-learning, reinforcement-learning, reinforcement-learning-excercises</sup></sub>
-
-
-### [notebooks](https://github.com/roboflow/notebooks) by [roboflow](https://github.com/roboflow)  
-notebooks: Set of Jupyter Notebooks linked to Roboflow blog posts and used in our YouTube videos.  
-[https://roboflow.com/models](https://roboflow.com/models)  
-[https://github.com/roboflow/notebooks](https://github.com/roboflow/notebooks)  
-53 stars per week over 24 weeks  
-1,291 stars, 201 forks, 31 watches  
-created 2022-11-18, last commit 2023-04-20, main language Jupyter Notebook  
-<sub><sup>amazon-sagemaker-lab, automatic-labeling-system, computer-vision, deep-learning, deep-neural-networks, google-colab, image-classification, image-segmentation, machine-learning, object-detection, open-vocabulary-detection, open-vocabulary-segmentation, pytorch, tutorial, yolov5, yolov6, yolov7, yolov8, zero-shot-classification, zero-shot-detection</sup></sub>
-
-
-### [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) by [huggingface](https://github.com/huggingface)  
-diffusion-models-class: Materials for the Hugging Face Diffusion Models Course  
-[https://github.com/huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class)  
-73 stars per week over 29 weeks  
-2,146 stars, 205 forks, 78 watches  
-created 2022-10-13, last commit 2023-02-21, main language Jupyter Notebook  
-
-
-### [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) by [zhanymkanov](https://github.com/zhanymkanov)  
-fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup  
-[https://github.com/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)  
-83 stars per week over 38 weeks  
-3,226 stars, 237 forks, 55 watches  
-created 2022-08-09, last commit 2023-04-09, main language None  
-<sub><sup>best-practices, fastapi</sup></sub>
 
 
 ### [PythonDataScienceHandbook](https://github.com/jakevdp/pythondatasciencehandbook) by [jakevdp](https://github.com/jakevdp)  
@@ -85,69 +49,105 @@ PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter No
 [http://jakevdp.github.io/PythonDataScienceHandbook](http://jakevdp.github.io/PythonDataScienceHandbook)  
 [https://github.com/jakevdp/pythondatasciencehandbook](https://github.com/jakevdp/pythondatasciencehandbook)  
 108 stars per week over 351 weeks  
-38,152 stars, 16,831 forks, 1,770 watches  
-created 2016-08-10, last commit 2018-11-30, main language Jupyter Notebook  
+38,265 stars, 16,854 forks, 1,771 watches  
+created 2016-08-10, last commit 2023-05-05, main language Jupyter Notebook  
 <sub><sup>jupyter-notebook, matplotlib, numpy, pandas, scikit-learn</sup></sub>
+
+
+### [notebooks](https://github.com/roboflow/notebooks) by [roboflow](https://github.com/roboflow)  
+notebooks: Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.  
+[https://roboflow.com/models](https://roboflow.com/models)  
+[https://github.com/roboflow/notebooks](https://github.com/roboflow/notebooks)  
+86 stars per week over 24 weeks  
+2,090 stars, 296 forks, 36 watches  
+created 2022-11-18, last commit 2023-05-05, main language Jupyter Notebook  
+<sub><sup>amazon-sagemaker-lab, automatic-labeling-system, computer-vision, deep-learning, deep-neural-networks, google-colab, image-classification, image-segmentation, machine-learning, object-detection, open-vocabulary-detection, open-vocabulary-segmentation, pytorch, tutorial, yolov5, yolov6, yolov7, yolov8, zero-shot-classification, zero-shot-detection</sup></sub>
+
+
+### [deep-rl-class](https://github.com/huggingface/deep-rl-class) by [huggingface](https://github.com/huggingface)  
+deep-rl-class: This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.  
+[https://github.com/huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)  
+53 stars per week over 54 weeks  
+2,912 stars, 408 forks, 79 watches  
+created 2022-04-21, last commit 2023-05-04, main language Jupyter Notebook  
+<sub><sup>deep-learning, deep-reinforcement-learning, reinforcement-learning, reinforcement-learning-excercises</sup></sub>
+
+
+### [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) by [gkamradt](https://github.com/gkamradt)  
+langchain-tutorials: Overview and tutorial of the LangChain Library  
+[https://github.com/gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)  
+166 stars per week over 11 weeks  
+1,969 stars, 766 forks, 37 watches  
+created 2023-02-13, last commit 2023-05-05, main language Jupyter Notebook  
+
+
+### [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) by [huggingface](https://github.com/huggingface)  
+diffusion-models-class: Materials for the Hugging Face Diffusion Models Course  
+[https://github.com/huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class)  
+74 stars per week over 29 weeks  
+2,182 stars, 210 forks, 78 watches  
+created 2022-10-13, last commit 2023-02-21, main language Jupyter Notebook  
+
+
+### [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) by [zhanymkanov](https://github.com/zhanymkanov)  
+fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup  
+[https://github.com/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)  
+86 stars per week over 38 weeks  
+3,345 stars, 245 forks, 59 watches  
+created 2022-08-09, last commit 2023-04-09, main language None  
+<sub><sup>best-practices, fastapi</sup></sub>
+
+
+### [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) by [karpathy](https://github.com/karpathy)  
+nn-zero-to-hero: Neural Networks: Zero to Hero  
+[https://github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)  
+235 stars per week over 34 weeks  
+8,115 stars, 851 forks, 251 watches  
+created 2022-09-08, last commit 2023-01-17, main language Jupyter Notebook  
 
 
 ### [pydata-book](https://github.com/wesm/pydata-book) by [wesm](https://github.com/wesm)  
 pydata-book: Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media  
 [https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)  
 34 stars per week over 566 weeks  
-19,263 stars, 14,169 forks, 1,466 watches  
+19,321 stars, 14,207 forks, 1,466 watches  
 created 2012-06-30, last commit 2023-04-12, main language Jupyter Notebook  
 
 
-### [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) by [karpathy](https://github.com/karpathy)  
-nn-zero-to-hero: Neural Networks: Zero to Hero  
-[https://github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)  
-234 stars per week over 34 weeks  
-8,043 stars, 826 forks, 253 watches  
-created 2022-09-08, last commit 2023-01-17, main language Jupyter Notebook  
-
-
-### [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) by [gkamradt](https://github.com/gkamradt)  
-langchain-tutorials: Overview and tutorial of the LangChain Library  
-[https://github.com/gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)  
-109 stars per week over 11 weeks  
-1,288 stars, 557 forks, 22 watches  
-created 2023-02-13, last commit 2023-04-16, main language Jupyter Notebook  
+### [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) by [nielsrogge](https://github.com/nielsrogge)  
+Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace.  
+[https://github.com/nielsrogge/transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials)  
+30 stars per week over 139 weeks  
+4,231 stars, 687 forks, 90 watches  
+created 2020-08-31, last commit 2023-05-03, main language Jupyter Notebook  
+<sub><sup>bert, gpt-2, layoutlm, pytorch, transformers, vision-transformer</sup></sub>
 
 
 ### [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) by [donnemartin](https://github.com/donnemartin)  
 interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.  
 [https://github.com/donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)  
 65 stars per week over 418 weeks  
-27,228 stars, 4,353 forks, 970 watches  
+27,243 stars, 4,355 forks, 970 watches  
 created 2015-04-28, last commit 2020-08-05, main language Python  
 <sub><sup>algorithm, coding, competitive-programming, data-structure, development, interview, interview-practice, interview-questions, programming</sup></sub>
-
-
-### [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) by [nielsrogge](https://github.com/nielsrogge)  
-Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace.  
-[https://github.com/nielsrogge/transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials)  
-29 stars per week over 139 weeks  
-4,165 stars, 679 forks, 88 watches  
-created 2020-08-31, last commit 2023-04-03, main language Jupyter Notebook  
-<sub><sup>bert, gpt-2, layoutlm, pytorch, transformers, vision-transformer</sup></sub>
-
-
-### [machine-learning-book](https://github.com/rasbt/machine-learning-book) by [rasbt](https://github.com/rasbt)  
-machine-learning-book: Code Repository for Machine Learning with PyTorch and Scikit-Learn  
-[https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn)  
-[https://github.com/rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)  
-25 stars per week over 71 weeks  
-1,833 stars, 657 forks, 36 watches  
-created 2021-12-19, last commit 2023-04-15, main language Jupyter Notebook  
-<sub><sup>deep-learning, machine-learning, neural-networks, pytorch, scikit-learn</sup></sub>
 
 
 ### [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) by [fchollet](https://github.com/fchollet)  
 deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python"  
 [https://github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)  
 56 stars per week over 295 weeks  
-16,687 stars, 8,125 forks, 640 watches  
+16,745 stars, 8,143 forks, 642 watches  
 created 2017-09-05, last commit 2023-02-13, main language Jupyter Notebook  
+
+
+### [machine-learning-book](https://github.com/rasbt/machine-learning-book) by [rasbt](https://github.com/rasbt)  
+machine-learning-book: Code Repository for Machine Learning with PyTorch and Scikit-Learn  
+[https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn)  
+[https://github.com/rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)  
+26 stars per week over 72 weeks  
+1,876 stars, 678 forks, 36 watches  
+created 2021-12-19, last commit 2023-04-15, main language Jupyter Notebook  
+<sub><sup>deep-learning, machine-learning, neural-networks, pytorch, scikit-learn</sup></sub>
 
 
 ### [spinningup](https://github.com/openai/spinningup) by [openai](https://github.com/openai)  
@@ -155,7 +155,7 @@ spinningup: An educational resource to help anyone learn deep reinforcement lear
 [https://spinningup.openai.com/](https://spinningup.openai.com/)  
 [https://github.com/openai/spinningup](https://github.com/openai/spinningup)  
 35 stars per week over 234 weeks  
-8,329 stars, 1,932 forks, 222 watches  
+8,393 stars, 1,947 forks, 225 watches  
 created 2018-11-07, last commit 2020-02-07, main language Python  
 
 
@@ -163,7 +163,7 @@ created 2018-11-07, last commit 2020-02-07, main language Python
 reinforcement-learning-an-introduction: Python Implementation of Reinforcement Learning: An Introduction  
 [https://github.com/shangtongzhang/reinforcement-learning-an-introduction](https://github.com/shangtongzhang/reinforcement-learning-an-introduction)  
 35 stars per week over 346 weeks  
-12,308 stars, 4,648 forks, 564 watches  
+12,337 stars, 4,654 forks, 563 watches  
 created 2016-09-13, last commit 2022-05-10, main language Python  
 <sub><sup>artificial-intelligence, reinforcement-learning</sup></sub>
 
@@ -172,16 +172,25 @@ created 2016-09-13, last commit 2022-05-10, main language Python
 deep-learning-v2-pytorch: Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101  
 [https://github.com/udacity/deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch)  
 20 stars per week over 243 weeks  
-4,906 stars, 5,245 forks, 174 watches  
+4,916 stars, 5,257 forks, 174 watches  
 created 2018-09-04, last commit 2022-12-24, main language Jupyter Notebook  
 <sub><sup>convolutional-networks, deep-learning, neural-network, pytorch, recurrent-networks, sentiment-analysis, style-transfer</sup></sub>
+
+
+### [book](https://github.com/cosmicpython/book) by [cosmicpython](https://github.com/cosmicpython)  
+book: A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.  
+[https://www.cosmicpython.com](https://www.cosmicpython.com)  
+[https://github.com/cosmicpython/book](https://github.com/cosmicpython/book)  
+13 stars per week over 221 weeks  
+2,951 stars, 495 forks, 94 watches  
+created 2019-02-05, last commit 2023-02-06, main language Python  
 
 
 ### [Machine-Learning-Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener) by [alirezadir](https://github.com/alirezadir)  
 Machine-Learning-Interviews: This repo is meant to serve as a guide for Machine Learning/AI technical interviews.   
 [https://github.com/alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)  
-15 stars per week over 117 weeks  
-1,853 stars, 368 forks, 49 watches  
+16 stars per week over 118 weeks  
+1,910 stars, 385 forks, 49 watches  
 created 2021-01-31, last commit 2023-03-16, main language Jupyter Notebook  
 <sub><sup>ai, deep-learning, interview, interview-practice, interview-preparation, interviews, machine-learning, machine-learning-algorithms, scalable-applications, system-design</sup></sub>
 
@@ -191,7 +200,7 @@ industry-machine-learning: A curated list of applied machine learning and data s
 [https://www.linkedin.com/company/firmai](https://www.linkedin.com/company/firmai)  
 [https://github.com/firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning)  
 32 stars per week over 209 weeks  
-6,789 stars, 1,133 forks, 391 watches  
+6,798 stars, 1,134 forks, 391 watches  
 created 2019-05-03, last commit 2021-12-18, main language Jupyter Notebook  
 <sub><sup>data-science, datascience, example, firmai, jupyter-notebook, machine-learning, practical-machine-learning</sup></sub>
 
@@ -199,34 +208,34 @@ created 2019-05-03, last commit 2021-12-18, main language Jupyter Notebook
 ### [micrograd](https://github.com/karpathy/micrograd) by [karpathy](https://github.com/karpathy)  
 micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  
 [https://github.com/karpathy/micrograd](https://github.com/karpathy/micrograd)  
-29 stars per week over 159 weeks  
-4,690 stars, 552 forks, 103 watches  
+30 stars per week over 159 weeks  
+4,801 stars, 575 forks, 104 watches  
 created 2020-04-13, last commit 2020-04-18, main language Jupyter Notebook  
 
 
-### [book](https://github.com/cosmicpython/book) by [cosmicpython](https://github.com/cosmicpython)  
-book: A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.  
-[https://www.cosmicpython.com](https://www.cosmicpython.com)  
-[https://github.com/cosmicpython/book](https://github.com/cosmicpython/book)  
-13 stars per week over 221 weeks  
-2,905 stars, 493 forks, 94 watches  
-created 2019-02-05, last commit 2023-02-06, main language Python  
+### [coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization) by [amanchadha](https://github.com/amanchadha)  
+coursera-deep-learning-specialization: Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models  
+[https://github.com/amanchadha/coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)  
+12 stars per week over 149 weeks  
+1,930 stars, 1,649 forks, 19 watches  
+created 2020-06-24, last commit 2022-02-07, main language Jupyter Notebook  
+<sub><sup>andrew-ng, andrew-ng-course, cnns, convolutional-neural-network, convolutional-neural-networks, coursera, coursera-assignment, coursera-machine-learning, coursera-specialization, deep-learning, hyperparameter-optimization, hyperparameter-tuning, neural-machine-translation, neural-network, neural-networks, neural-style-transfer, recurrent-neural-network, recurrent-neural-networks, regularization, rnns</sup></sub>
 
 
 ### [BookCode_Edition1](https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1) by [bayesianmodelingandcomputationinpython](https://github.com/bayesianmodelingandcomputationinpython)  
 bayesianmodelingandcomputationinpython/bookcode_edition1  
 [https://www.bayesiancomputationbook.com](https://www.bayesiancomputationbook.com)  
 [https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1](https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1)  
-4.56 stars per week over 89 weeks  
-408 stars, 103 forks, 18 watches  
+4.59 stars per week over 89 weeks  
+412 stars, 103 forks, 18 watches  
 created 2021-08-17, last commit 2023-04-20, main language Jupyter Notebook  
 
 
 ### [MEDIUM_NoteBook](https://github.com/cerlymarco/medium_notebook) by [cerlymarco](https://github.com/cerlymarco)  
 MEDIUM_NoteBook: Repository containing notebooks of my posts on Medium  
 [https://github.com/cerlymarco/medium_notebook](https://github.com/cerlymarco/medium_notebook)  
-8.53 stars per week over 210 weeks  
-1,797 stars, 935 forks, 96 watches  
+8.58 stars per week over 210 weeks  
+1,810 stars, 938 forks, 96 watches  
 created 2019-04-22, last commit 2023-04-06, main language Jupyter Notebook  
 <sub><sup>artificial-intelligence, data-science, deep-learning, machine-learning, notebooks</sup></sub>
 
@@ -235,26 +244,17 @@ created 2019-04-22, last commit 2023-04-06, main language Jupyter Notebook
 pyroad: Detailed Python developer roadmap  
 [https://github.com/amaargiru/pyroad](https://github.com/amaargiru/pyroad)  
 10 stars per week over 26 weeks  
-269 stars, 33 forks, 8 watches  
+271 stars, 33 forks, 8 watches  
 created 2022-11-03, last commit 2023-02-27, main language Jupyter Notebook  
 <sub><sup>roadmap, tutorial</sup></sub>
-
-
-### [coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization) by [amanchadha](https://github.com/amanchadha)  
-coursera-deep-learning-specialization: Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models  
-[https://github.com/amanchadha/coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)  
-12 stars per week over 149 weeks  
-1,912 stars, 1,648 forks, 19 watches  
-created 2020-06-24, last commit 2022-02-07, main language Jupyter Notebook  
-<sub><sup>andrew-ng, andrew-ng-course, cnns, convolutional-neural-network, convolutional-neural-networks, coursera, coursera-assignment, coursera-machine-learning, coursera-specialization, deep-learning, hyperparameter-optimization, hyperparameter-tuning, neural-machine-translation, neural-network, neural-networks, neural-style-transfer, recurrent-neural-network, recurrent-neural-networks, regularization, rnns</sup></sub>
 
 
 ### [example-code-2e](https://github.com/fluentpython/example-code-2e) by [fluentpython](https://github.com/fluentpython)  
 example-code-2e: Example code for Fluent Python, 2nd edition (O'Reilly 2022)   
 [https://amzn.to/3J48u2J](https://amzn.to/3J48u2J)  
 [https://github.com/fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e)  
-8.77 stars per week over 215 weeks  
-1,889 stars, 574 forks, 59 watches  
+8.96 stars per week over 215 weeks  
+1,931 stars, 587 forks, 59 watches  
 created 2019-03-21, last commit 2022-04-24, main language Python  
 <sub><sup>concurrency, iterators, metaprogramming, special-methods</sup></sub>
 
@@ -262,16 +262,16 @@ created 2019-03-21, last commit 2022-04-24, main language Python
 ### [ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs) by [stanford-crfm](https://github.com/stanford-crfm)  
 stanford-crfm/ecosystem-graphs  
 [https://github.com/stanford-crfm/ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs)  
-1.73 stars per week over 60 weeks  
-104 stars, 10 forks, 8 watches  
+1.74 stars per week over 60 weeks  
+105 stars, 10 forks, 8 watches  
 created 2022-03-10, last commit 2023-04-16, main language JavaScript  
 
 
 ### [quantumcomputingbook](https://github.com/jackhidary/quantumcomputingbook) by [jackhidary](https://github.com/jackhidary)  
 quantumcomputingbook: Companion site for the textbook Quantum Computing: An Applied Approach  
 [https://github.com/jackhidary/quantumcomputingbook](https://github.com/jackhidary/quantumcomputingbook)  
-2.96 stars per week over 218 weeks  
-646 stars, 191 forks, 55 watches  
+2.98 stars per week over 218 weeks  
+651 stars, 190 forks, 55 watches  
 created 2019-02-28, last commit 2021-10-14, main language Jupyter Notebook  
 <sub><sup>cirq, google-quantum, qiskit, quantum, quantum-computing, quantum-information, quantum-information-science, quantum-processor, quantum-supremacy, rigetti, sycamore</sup></sub>
 
@@ -280,8 +280,8 @@ created 2019-02-28, last commit 2021-10-14, main language Jupyter Notebook
 Generative_Deep_Learning_2nd_Edition: The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.  
 [https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)  
 [https://github.com/davidadsp/generative_deep_learning_2nd_edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition)  
-1.34 stars per week over 58 weeks  
-78 stars, 18 forks, 2 watches  
+1.75 stars per week over 58 weeks  
+102 stars, 28 forks, 3 watches  
 created 2022-03-25, last commit 2023-04-19, main language Jupyter Notebook  
 <sub><sup>chatgpt, dalle2, data-science, deep-learning, diffusion-models, generative-adversarial-network, gpt-3, machine-learning, stable-diffusion, tensorflow</sup></sub>
 
@@ -289,8 +289,8 @@ created 2022-03-25, last commit 2023-04-19, main language Jupyter Notebook
 ### [semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) by [nomic-ai](https://github.com/nomic-ai)  
 semantic-search-app-template: Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI  
 [https://github.com/nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template)  
-6.4 stars per week over 6 weeks  
-43 stars, 3 forks, 5 watches  
+6.71 stars per week over 6 weeks  
+46 stars, 4 forks, 5 watches  
 created 2023-03-20, last commit 2023-03-20, main language Python  
 <sub><sup>fastapi, openai, react, semantic-search, tutorial</sup></sub>
 
@@ -299,25 +299,25 @@ created 2023-03-20, last commit 2023-03-20, main language Python
 crazy-awesome-python: A curated list of awesome Python frameworks, with a bias towards data and machine learning  
 [https://www.awesomepython.org](https://www.awesomepython.org)  
 [https://github.com/dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python)  
-0.53 stars per week over 150 weeks  
-80 stars, 8 forks, 3 watches  
-created 2020-06-20, last commit 2023-04-13, main language HTML  
+0.54 stars per week over 150 weeks  
+81 stars, 8 forks, 4 watches  
+created 2020-06-20, last commit 2023-05-06, main language HTML  
 <sub><sup>awesome-list, data, machine-learning, natural-language-processing, python-data, python-frameworks, python-machine-learning, python-nlp</sup></sub>
 
 
 ### [practical-ml-vision-book](https://github.com/googlecloudplatform/practical-ml-vision-book) by [googlecloudplatform](https://github.com/googlecloudplatform)  
 googlecloudplatform/practical-ml-vision-book  
 [https://github.com/googlecloudplatform/practical-ml-vision-book](https://github.com/googlecloudplatform/practical-ml-vision-book)  
-2.66 stars per week over 128 weeks  
-342 stars, 154 forks, 20 watches  
+2.68 stars per week over 128 weeks  
+344 stars, 156 forks, 20 watches  
 created 2020-11-18, last commit 2022-11-21, main language Jupyter Notebook  
 
 
 ### [high_performance_python_2e](https://github.com/mynameisfiber/high_performance_python_2e) by [mynameisfiber](https://github.com/mynameisfiber)  
 high_performance_python_2e: Code for the book "High Performance Python 2e" by Micha Gorelick and Ian Ozsvald with OReilly   
 [https://github.com/mynameisfiber/high_performance_python_2e](https://github.com/mynameisfiber/high_performance_python_2e)  
-2.05 stars per week over 159 weeks  
-328 stars, 108 forks, 6 watches  
+2.07 stars per week over 160 weeks  
+331 stars, 108 forks, 6 watches  
 created 2020-04-12, last commit 2023-01-18, main language Python  
 <sub><sup>code-samples, high-performance, oreilly, oreilly-books</sup></sub>
 
@@ -327,7 +327,7 @@ stat453-deep-learning-ss20: STAT 453: Intro to Deep Learning @ UW-Madison (Sprin
 [http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/)  
 [https://github.com/rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20)  
 3.05 stars per week over 171 weeks  
-524 stars, 154 forks, 37 watches  
+525 stars, 155 forks, 37 watches  
 created 2020-01-20, last commit 2020-05-01, main language Jupyter Notebook  
 
 
@@ -335,7 +335,7 @@ created 2020-01-20, last commit 2020-05-01, main language Jupyter Notebook
 stat451-machine-learning-fs20: STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)  
 [https://github.com/rasbt/stat451-machine-learning-fs20](https://github.com/rasbt/stat451-machine-learning-fs20)  
 2.41 stars per week over 143 weeks  
-345 stars, 183 forks, 19 watches  
+345 stars, 182 forks, 19 watches  
 created 2020-08-06, last commit 2020-12-03, main language Jupyter Notebook  
 
 
@@ -343,8 +343,8 @@ created 2020-08-06, last commit 2020-12-03, main language Jupyter Notebook
 calm-notebooks: notebooks that are used at calmcode.io  
 [https://calmcode.io](https://calmcode.io)  
 [https://github.com/koaning/calm-notebooks](https://github.com/koaning/calm-notebooks)  
-1.09 stars per week over 165 weeks  
-180 stars, 161 forks, 8 watches  
+1.09 stars per week over 166 weeks  
+181 stars, 161 forks, 8 watches  
 created 2020-03-01, last commit 2021-10-21, main language Jupyter Notebook  
 
 
@@ -356,7 +356,7 @@ anyscale/rl-course
 created 2022-03-01, last commit 2023-01-02, main language Jupyter Notebook  
 
 
-This file was automatically generated on 2023-05-06.  
+This file was automatically generated on 2023-05-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -9,8 +9,8 @@ Checkout the interactive version that you can filter and sort:
 cookiecutter: A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-37 stars per week over 511 weeks  
-19,390 stars, 1,821 forks, 229 watches  
+38 stars per week over 512 weeks  
+19,476 stars, 1,829 forks, 226 watches  
 created 2013-07-14, last commit 2022-09-09, main language Python  
 <sub><sup>cookiecutter</sup></sub>
 
@@ -19,7 +19,7 @@ created 2013-07-14, last commit 2022-09-09, main language Python
 full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 53 stars per week over 219 weeks  
-11,701 stars, 2,139 forks, 192 watches  
+11,820 stars, 2,155 forks, 193 watches  
 created 2019-02-23, last commit 2020-06-05, main language Python  
 <sub><sup>backend, celery, cookiecutter, docker, fastapi, frontend, json, json-schema, jwt, letsencrypt, openapi, openapi3, pgadmin, postgresql, swagger, traefik, vue, vuex</sup></sub>
 
@@ -28,8 +28,8 @@ created 2019-02-23, last commit 2020-06-05, main language Python
 pyscaffold: 🛠 Python project template generator with batteries included  
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
-3.73 stars per week over 474 weeks  
-1,771 stars, 175 forks, 41 watches  
+3.76 stars per week over 474 weeks  
+1,783 stars, 175 forks, 41 watches  
 created 2014-04-02, last commit 2023-04-18, main language Python  
 <sub><sup>distribution, git, package, package-creation, project-template, release-automation, template-project</sup></sub>
 
@@ -39,7 +39,7 @@ cookiecutter-data-science: A logical, reasonably standardized, but flexible proj
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 16 stars per week over 392 weeks  
-6,644 stars, 2,133 forks, 116 watches  
+6,667 stars, 2,143 forks, 115 watches  
 created 2015-10-30, last commit 2022-03-11, main language Python  
 <sub><sup>ai, cookiecutter, cookiecutter-data-science, cookiecutter-template, data-science, machine-learning</sup></sub>
 
@@ -49,15 +49,15 @@ cookiecutter-pylibrary: Enhanced cookiecutter template for Python libraries.
 [https://github.com/ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary)  
 2.43 stars per week over 466 weeks  
 1,133 stars, 199 forks, 23 watches  
-created 2014-05-28, last commit 2023-05-01, main language Python  
+created 2014-05-28, last commit 2023-05-03, main language Python  
 <sub><sup>cookiecutter, cookiecutter-template, template</sup></sub>
 
 
 ### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
 fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
-9.77 stars per week over 163 weeks  
-1,593 stars, 262 forks, 39 watches  
+9.87 stars per week over 163 weeks  
+1,610 stars, 263 forks, 39 watches  
 created 2020-03-21, last commit 2022-02-18, main language Python  
 <sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
 
@@ -65,8 +65,8 @@ created 2020-03-21, last commit 2022-02-18, main language Python
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
 python-package-template: 🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
-6.0 stars per week over 159 weeks  
-956 stars, 95 forks, 6 watches  
+6.03 stars per week over 159 weeks  
+962 stars, 96 forks, 7 watches  
 created 2020-04-15, last commit 2022-05-18, main language Python  
 <sub><sup>best-practices, codestyle, cookiecutter, formatters, makefile, poetry, python-packages, semantic-versions, template</sup></sub>
 
@@ -75,16 +75,16 @@ created 2020-04-15, last commit 2022-05-18, main language Python
 Mako Templates for Python  
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 [https://github.com/sqlalchemy/mako](https://github.com/sqlalchemy/mako)  
-1.08 stars per week over 231 weeks  
-250 stars, 46 forks, 12 watches  
+1.09 stars per week over 231 weeks  
+253 stars, 48 forks, 12 watches  
 created 2018-11-26, last commit 2023-01-03, main language Python  
 
 
 ### [fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template) by [janetech-inc](https://github.com/janetech-inc)  
 fast-api-admin-template:  A test driven micro-service template to build and deploy a fast-api service with admin feature.  
 [https://github.com/janetech-inc/fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template)  
-8.84 stars per week over 11 weeks  
-101 stars, 10 forks, 4 watches  
+8.81 stars per week over 11 weeks  
+102 stars, 10 forks, 4 watches  
 created 2023-02-15, last commit 2023-03-01, main language JavaScript  
 
 
@@ -92,17 +92,17 @@ created 2023-02-15, last commit 2023-03-01, main language JavaScript
 pypackage: Cookiecutter template creating a Python package with mkdocs  
 [https://giswqs.github.io/pypackage](https://giswqs.github.io/pypackage)  
 [https://github.com/giswqs/pypackage](https://github.com/giswqs/pypackage)  
-0.29 stars per week over 128 weeks  
+0.29 stars per week over 129 weeks  
 37 stars, 10 forks, 2 watches  
-created 2020-11-15, last commit 2023-04-24, main language Python  
+created 2020-11-15, last commit 2023-04-25, main language Python  
 <sub><sup>cookiecutter, cookiecutter-template, mkdocs, mkdocs-material, template, template-project</sup></sub>
 
 
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  
 cookiecutter-modern-datascience: Start a data science project with modern tools  
 [https://github.com/crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience)  
-1.0 stars per week over 147 weeks  
-147 stars, 33 forks, 3 watches  
+1.01 stars per week over 147 weeks  
+149 stars, 34 forks, 3 watches  
 created 2020-07-06, last commit 2022-06-10, main language Python  
 <sub><sup>cookiecutter, cookiecutter-data-science, cookiecutter-template, datascience</sup></sub>
 
@@ -120,7 +120,7 @@ created 2020-02-12, last commit 2023-03-30, main language Python
 python-collab-template: 🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
 [https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)  
 [https://github.com/eugeneyan/python-collab-template](https://github.com/eugeneyan/python-collab-template)  
-0.85 stars per week over 149 weeks  
+0.85 stars per week over 150 weeks  
 128 stars, 37 forks, 5 watches  
 created 2020-06-21, last commit 2022-07-02, main language Python  
 <sub><sup>coverage, github-actions, hacktoberfest, linting, makefile, type-checking, unit-testing</sup></sub>
@@ -134,7 +134,7 @@ async-python-lambda-template: Build a high-performance Python function in AWS la
 created 2020-06-27, last commit 2020-07-01, main language Python  
 
 
-This file was automatically generated on 2023-05-06.  
+This file was automatically generated on 2023-05-07.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
