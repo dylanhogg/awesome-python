@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [shap](https://github.com/slundberg/shap) by [slundberg](https://github.com/slundberg)  
-shap: A game theoretic approach to explain the output of any machine learning model.  
+A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
 56 stars per week over 336 weeks  
 19,138 stars, 2,873 forks, 262 watches  
@@ -15,7 +15,7 @@ created 2016-11-22, last commit 2022-06-16, main language Jupyter Notebook
 
 
 ### [captum](https://github.com/pytorch/captum) by [pytorch](https://github.com/pytorch)  
-captum: Model interpretability and understanding for PyTorch  
+Model interpretability and understanding for PyTorch  
 [https://captum.ai](https://captum.ai)  
 [https://github.com/pytorch/captum](https://github.com/pytorch/captum)  
 20 stars per week over 192 weeks  
@@ -25,7 +25,7 @@ created 2019-08-27, last commit 2023-05-02, main language Python
 
 
 ### [phoenix](https://github.com/arize-ai/phoenix) by [arize-ai](https://github.com/arize-ai)  
-phoenix: ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models  
+ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models  
 [https://docs.arize.com/phoenix](https://docs.arize.com/phoenix)  
 [https://github.com/arize-ai/phoenix](https://github.com/arize-ai/phoenix)  
 24 stars per week over 25 weeks  
@@ -35,7 +35,7 @@ created 2022-11-09, last commit 2023-05-04, main language Python
 
 
 ### [alibi](https://github.com/seldonio/alibi) by [seldonio](https://github.com/seldonio)  
-alibi: Algorithms for explaining machine learning models  
+Algorithms for explaining machine learning models  
 [https://docs.seldon.io/projects/alibi/en/stable/](https://docs.seldon.io/projects/alibi/en/stable/)  
 [https://github.com/seldonio/alibi](https://github.com/seldonio/alibi)  
 9.23 stars per week over 218 weeks  
@@ -45,7 +45,7 @@ created 2019-02-26, last commit 2023-05-03, main language Python
 
 
 ### [explainerdashboard](https://github.com/oegedijk/explainerdashboard) by [oegedijk](https://github.com/oegedijk)  
-explainerdashboard: Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
+Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
 [https://github.com/oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard)  
 9.12 stars per week over 183 weeks  
@@ -71,7 +71,7 @@ created 2021-12-25, last commit 2023-05-03, main language Jupyter Notebook
 
 
 ### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  
-lit: The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.  
+The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.  
 [https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
 [https://github.com/pair-code/lit](https://github.com/pair-code/lit)  
 21 stars per week over 144 weeks  
@@ -81,7 +81,7 @@ created 2020-07-28, last commit 2022-12-02, main language TypeScript
 
 
 ### [PiML-Toolbox](https://github.com/selfexplainml/piml-toolbox) by [selfexplainml](https://github.com/selfexplainml)  
-PiML-Toolbox: PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
+PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
 [https://selfexplainml.github.io/PiML-Toolbox](https://selfexplainml.github.io/PiML-Toolbox)  
 [https://github.com/selfexplainml/piml-toolbox](https://github.com/selfexplainml/piml-toolbox)  
 11 stars per week over 53 weeks  
@@ -91,7 +91,7 @@ created 2022-04-29, last commit 2023-05-05, main language Jupyter Notebook
 
 
 ### [lucid](https://github.com/tensorflow/lucid) by [tensorflow](https://github.com/tensorflow)  
-lucid: A collection of infrastructure and tools for research in neural network interpretability.  
+A collection of infrastructure and tools for research in neural network interpretability.  
 [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)  
 16 stars per week over 275 weeks  
 4,542 stars, 652 forks, 162 watches  
@@ -100,7 +100,7 @@ created 2018-01-25, last commit 2021-03-19, main language Jupyter Notebook
 
 
 ### [tuned-lens](https://github.com/alignmentresearch/tuned-lens) by [alignmentresearch](https://github.com/alignmentresearch)  
-tuned-lens: Tools for understanding how transformer predictions are built layer-by-layer  
+Tools for understanding how transformer predictions are built layer-by-layer  
 [https://tuned-lens.readthedocs.io/en/latest/](https://tuned-lens.readthedocs.io/en/latest/)  
 [https://github.com/alignmentresearch/tuned-lens](https://github.com/alignmentresearch/tuned-lens)  
 7.29 stars per week over 30 weeks  
@@ -110,7 +110,7 @@ created 2022-10-03, last commit 2023-05-02, main language Jupyter Notebook
 
 
 ### [transformers-interpret](https://github.com/cdpierse/transformers-interpret) by [cdpierse](https://github.com/cdpierse)  
-transformers-interpret: Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
+Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
 [https://github.com/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)  
 6.58 stars per week over 153 weeks  
 1,010 stars, 86 forks, 18 watches  
@@ -119,7 +119,7 @@ created 2020-05-27, last commit 2023-04-06, main language Jupyter Notebook
 
 
 ### [ecco](https://github.com/jalammar/ecco) by [jalammar](https://github.com/jalammar)  
-ecco: Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
+Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
 [https://ecco.readthedocs.io](https://ecco.readthedocs.io)  
 [https://github.com/jalammar/ecco](https://github.com/jalammar/ecco)  
 12 stars per week over 130 weeks  
@@ -129,7 +129,7 @@ created 2020-11-07, last commit 2022-01-18, main language Jupyter Notebook
 
 
 ### [knowledge-neurons](https://github.com/eleutherai/knowledge-neurons) by [eleutherai](https://github.com/eleutherai)  
-knowledge-neurons: A library for finding knowledge neurons in pretrained transformer models.  
+A library for finding knowledge neurons in pretrained transformer models.  
 [https://github.com/eleutherai/knowledge-neurons](https://github.com/eleutherai/knowledge-neurons)  
 1.21 stars per week over 92 weeks  
 112 stars, 13 forks, 3 watches  

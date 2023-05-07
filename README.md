@@ -1,12 +1,12 @@
 # Crazy Awesome Python
-A selection of 1288 curated Python libraries and frameworks ordered by stars.  
+A selection of 1289 curated Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
 
 
 ### [tensorflow](https://github.com/tensorflow/tensorflow)  
-tensorflow: An Open Source Machine Learning Framework for Everyone  
+An Open Source Machine Learning Framework for Everyone  
 [https://tensorflow.org](https://tensorflow.org)  
 [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)  
 445 stars per week over 391 weeks  
@@ -26,7 +26,7 @@ tensorflow: An Open Source Machine Learning Framework for Everyone
 
 
 ### [pytorch](https://github.com/pytorch/pytorch)  
-pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration  
+Tensors and Dynamic neural networks in Python with strong GPU acceleration  
 [https://pytorch.org](https://pytorch.org)  
 [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)  
 188 stars per week over 351 weeks  
@@ -36,16 +36,17 @@ pytorch: Tensors and Dynamic neural networks in Python with strong GPU accelerat
 
 
 ### [cpython](https://github.com/python/cpython) by [python](https://github.com/python)  
-cpython: The Python programming language  
+The Python programming language  
 [https://www.python.org/](https://www.python.org/)  
 [https://github.com/python/cpython](https://github.com/python/cpython)  
 161 stars per week over 325 weeks  
 52,394 stars, 26,705 forks, 1,486 watches  
 [util](categories/util.md) category, created 2017-02-10, last commit 2023-05-06, main language Python  
+<sub><sup>cpython</sup></sub>
 
 
 ### [ruff](https://github.com/charliermarsh/ruff) by [charliermarsh](https://github.com/charliermarsh)  
-ruff: An extremely fast Python linter, written in Rust.  
+An extremely fast Python linter, written in Rust.  
 [https://beta.ruff.rs](https://beta.ruff.rs)  
 [https://github.com/charliermarsh/ruff](https://github.com/charliermarsh/ruff)  
 370 stars per week over 38 weeks  
@@ -55,7 +56,7 @@ ruff: An extremely fast Python linter, written in Rust.
 
 
 ### [core](https://github.com/home-assistant/core) by [home-assistant](https://github.com/home-assistant)  
-core: :house_with_garden: Open source home automation that puts local control and privacy first.  
+:house_with_garden: Open source home automation that puts local control and privacy first.  
 [https://www.home-assistant.io](https://www.home-assistant.io)  
 [https://github.com/home-assistant/core](https://github.com/home-assistant/core)  
 119 stars per week over 502 weeks  
@@ -75,15 +76,16 @@ InvokeAI is a leading creative engine for Stable Diffusion models, empowering pr
 
 
 ### [langchain](https://github.com/hwchase17/langchain) by [hwchase17](https://github.com/hwchase17)  
-langchain: ⚡ Building applications with LLMs through composability ⚡  
+⚡ Building applications with LLMs through composability ⚡  
 [https://github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)  
 1215 stars per week over 28 weeks  
 35,082 stars, 3,804 forks, 386 watches  
 [chatgpt](categories/chatgpt.md) category, created 2022-10-17, last commit 2023-05-06, main language Python  
+<sub><sup>chatbot, langchain, language-model</sup></sub>
 
 
 ### [ColossalAI](https://github.com/hpcaitech/colossalai) by [hpcaitech](https://github.com/hpcaitech)  
-ColossalAI: Making large AI models cheaper, faster and more accessible  
+Making large AI models cheaper, faster and more accessible  
 [https://www.colossalai.org](https://www.colossalai.org)  
 [https://github.com/hpcaitech/colossalai](https://github.com/hpcaitech/colossalai)  
 367 stars per week over 79 weeks  
@@ -93,7 +95,7 @@ ColossalAI: Making large AI models cheaper, faster and more accessible
 
 
 ### [Auto-GPT](https://github.com/torantulino/auto-gpt) by [torantulino](https://github.com/torantulino)  
-Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.  
+An experimental open-source attempt to make GPT-4 fully autonomous.  
 [https://agpt.co](https://agpt.co)  
 [https://github.com/torantulino/auto-gpt](https://github.com/torantulino/auto-gpt)  
 16853 stars per week over 7 weeks  
@@ -103,25 +105,26 @@ Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.
 
 
 ### [ChatGPT](https://github.com/acheong08/chatgpt) by [acheong08](https://github.com/acheong08)  
-ChatGPT: Reverse engineered ChatGPT API  
+Reverse engineered ChatGPT API  
 [https://github.com/acheong08/chatgpt](https://github.com/acheong08/chatgpt)  
 1139 stars per week over 22 weeks  
 25,228 stars, 4,107 forks, 271 watches  
 [chatgpt](categories/chatgpt.md) category, created 2022-12-03, last commit 2023-04-28, main language Python  
-<sub><sup>chatgpt, cli, gpt-35-turbo, gptchat, pypi-package, revchatgpt</sup></sub>
+<sub><sup>chatgpt, cli, gpt-35-turbo, gptchat, revchatgpt</sup></sub>
 
 
 ### [llama_index](https://github.com/jerryjliu/llama_index) by [jerryjliu](https://github.com/jerryjliu)  
-llama_index: LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
+LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
 [https://gpt-index.readthedocs.io/en/latest/](https://gpt-index.readthedocs.io/en/latest/)  
 [https://github.com/jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)  
 546 stars per week over 26 weeks  
 14,524 stars, 1,507 forks, 134 watches  
 [chatgpt](categories/chatgpt.md) category, created 2022-11-02, last commit 2023-05-06, main language Python  
+<sub><sup>language-model, llama</sup></sub>
 
 
 ### [Open-Assistant](https://github.com/laion-ai/open-assistant) by [laion-ai](https://github.com/laion-ai)  
-Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.  
+OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.  
 [https://open-assistant.io](https://open-assistant.io)  
 [https://github.com/laion-ai/open-assistant](https://github.com/laion-ai/open-assistant)  
 1535 stars per week over 20 weeks  
@@ -131,7 +134,7 @@ Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, 
 
 
 ### [Python](https://github.com/thealgorithms/python) by [thealgorithms](https://github.com/thealgorithms)  
-Python: All Algorithms implemented in Python  
+All Algorithms implemented in Python  
 [https://the-algorithms.com/](https://the-algorithms.com/)  
 [https://github.com/thealgorithms/python](https://github.com/thealgorithms/python)  
 445 stars per week over 355 weeks  
@@ -151,15 +154,16 @@ Python: All Algorithms implemented in Python
 
 
 ### [llama.cpp](https://github.com/ggerganov/llama.cpp) by [ggerganov](https://github.com/ggerganov)  
-llama.cpp: Port of Facebook's LLaMA model in C/C++  
+Port of Facebook's LLaMA model in C/C++  
 [https://github.com/ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)  
 3130 stars per week over 8 weeks  
 25,942 stars, 3,737 forks, 295 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-10, last commit 2023-05-05, main language C  
+<sub><sup>language-model, llama</sup></sub>
 
 
 ### [whisper.cpp](https://github.com/ggerganov/whisper.cpp) by [ggerganov](https://github.com/ggerganov)  
-whisper.cpp: Port of OpenAI's Whisper model in C/C++  
+Port of OpenAI's Whisper model in C/C++  
 [https://github.com/ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)  
 552 stars per week over 32 weeks  
 17,689 stars, 1,512 forks, 204 watches  
@@ -168,7 +172,7 @@ whisper.cpp: Port of OpenAI's Whisper model in C/C++
 
 
 ### [django](https://github.com/django/django)  
-django: The Web framework for perfectionists with deadlines.  
+The Web framework for perfectionists with deadlines.  
 [https://www.djangoproject.com/](https://www.djangoproject.com/)  
 [https://github.com/django/django](https://github.com/django/django)  
 122 stars per week over 575 weeks  
@@ -178,7 +182,7 @@ django: The Web framework for perfectionists with deadlines.
 
 
 ### [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) by [automatic1111](https://github.com/automatic1111)  
-stable-diffusion-webui: Stable Diffusion web UI  
+Stable Diffusion web UI  
 [https://github.com/automatic1111/stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui)  
 1952 stars per week over 36 weeks  
 71,950 stars, 13,651 forks, 666 watches  
@@ -187,7 +191,7 @@ stable-diffusion-webui: Stable Diffusion web UI
 
 
 ### [EdgeGPT](https://github.com/acheong08/edgegpt) by [acheong08](https://github.com/acheong08)  
-EdgeGPT: Reverse engineered API of Microsoft's Bing Chat AI  
+Reverse engineered API of Microsoft's Bing Chat AI  
 [https://github.com/acheong08/edgegpt](https://github.com/acheong08/edgegpt)  
 511 stars per week over 12 weeks  
 6,354 stars, 653 forks, 70 watches  
@@ -196,7 +200,7 @@ EdgeGPT: Reverse engineered API of Microsoft's Bing Chat AI
 
 
 ### [airflow](https://github.com/apache/airflow) by [apache](https://github.com/apache)  
-airflow: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
+Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 [https://github.com/apache/airflow](https://github.com/apache/airflow)  
 71 stars per week over 420 weeks  
@@ -236,7 +240,7 @@ Textual is a Rapid Application Development framework for Python.  Build sophisti
 
 
 ### [keras](https://github.com/keras-team/keras) by [keras-team](https://github.com/keras-team)  
-keras: Deep Learning for humans  
+Deep Learning for humans  
 [http://keras.io/](http://keras.io/)  
 [https://github.com/keras-team/keras](https://github.com/keras-team/keras)  
 137 stars per week over 423 weeks  
@@ -256,7 +260,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 
 ### [lightning](https://github.com/pytorchlightning/pytorch-lightning) by [pytorchlightning](https://github.com/pytorchlightning)  
-lightning: Deep learning framework to train, deploy, and ship AI products Lightning fast.  
+Deep learning framework to train, deploy, and ship AI products Lightning fast.  
 [https://lightning.ai](https://lightning.ai)  
 [https://github.com/pytorchlightning/pytorch-lightning](https://github.com/pytorchlightning/pytorch-lightning)  
 106 stars per week over 214 weeks  
@@ -271,10 +275,11 @@ Evals is a framework for evaluating LLMs and LLM systems, and an open-source reg
 617 stars per week over 14 weeks  
 9,170 stars, 1,716 forks, 203 watches  
 [ml](categories/ml.md) category, created 2023-01-23, last commit 2023-05-05, main language Python  
+<sub><sup>evaluation, language-model</sup></sub>
 
 
 ### [OpenBBTerminal](https://github.com/openbb-finance/openbbterminal) by [openbb-finance](https://github.com/openbb-finance)  
-OpenBBTerminal: Investment Research for Everyone, Everywhere.  
+Investment Research for Everyone, Everywhere.  
 [https://openbb.co](https://openbb.co)  
 [https://github.com/openbb-finance/openbbterminal](https://github.com/openbb-finance/openbbterminal)  
 176 stars per week over 124 weeks  
@@ -284,7 +289,7 @@ OpenBBTerminal: Investment Research for Everyone, Everywhere.
 
 
 ### [localstack](https://github.com/localstack/localstack)  
-localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline  
+💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline  
 [https://localstack.cloud](https://localstack.cloud)  
 [https://github.com/localstack/localstack](https://github.com/localstack/localstack)  
 137 stars per week over 340 weeks  
@@ -294,11 +299,12 @@ localstack: 💻 A fully functional local AWS cloud stack. Develop and test your
 
 
 ### [babyagi](https://github.com/yoheinakajima/babyagi) by [yoheinakajima](https://github.com/yoheinakajima)  
-yoheinakajima/babyagi  
+GPT-4 powered task-driven autonomous agent  
 [https://github.com/yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)  
 2765 stars per week over 4 weeks  
 13,430 stars, 1,848 forks, 216 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-04-03, last commit 2023-05-01, main language Python  
+<sub><sup>artificial-intelligence, autonomous-agents</sup></sub>
 
 
 ### [ray](https://github.com/ray-project/ray) by [ray-project](https://github.com/ray-project)  
@@ -312,7 +318,7 @@ Ray is a unified framework for scaling AI and Python applications. Ray consists 
 
 
 ### [pandas](https://github.com/pandas-dev/pandas) by [pandas-dev](https://github.com/pandas-dev)  
-pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
 [https://pandas.pydata.org](https://pandas.pydata.org)  
 [https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)  
 57 stars per week over 662 weeks  
@@ -322,7 +328,7 @@ pandas: Flexible and powerful data analysis / manipulation library for Python, p
 
 
 ### [polars](https://github.com/pola-rs/polars) by [pola-rs](https://github.com/pola-rs)  
-polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js  
+Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js  
 [https://pola.rs/](https://pola.rs/)  
 [https://github.com/pola-rs/polars](https://github.com/pola-rs/polars)  
 108 stars per week over 155 weeks  
@@ -332,7 +338,7 @@ polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Pyth
 
 
 ### [pyscript](https://github.com/pyscript/pyscript)  
-pyscript: Home Page: https://pyscript.net  Examples: https://pyscript.net/examples  
+Home Page: https://pyscript.net  Examples: https://pyscript.net/examples  
 [https://github.com/pyscript/pyscript/discussions](https://github.com/pyscript/pyscript/discussions)  
 [https://github.com/pyscript/pyscript](https://github.com/pyscript/pyscript)  
 263 stars per week over 62 weeks  
@@ -342,7 +348,7 @@ pyscript: Home Page: https://pyscript.net  Examples: https://pyscript.net/exampl
 
 
 ### [pynecone](https://github.com/pynecone-io/pynecone) by [pynecone-io](https://github.com/pynecone-io)  
-pynecone: 🕸 Web apps in pure Python 🐍  
+🕸 Web apps in pure Python 🐍  
 [https://pynecone.io](https://pynecone.io)  
 [https://github.com/pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)  
 309 stars per week over 27 weeks  
@@ -352,7 +358,7 @@ pynecone: 🕸 Web apps in pure Python 🐍
 
 
 ### [Paddle](https://github.com/paddlepaddle/paddle) by [paddlepaddle](https://github.com/paddlepaddle)  
-Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）  
+PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）  
 [http://www.paddlepaddle.org/](http://www.paddlepaddle.org/)  
 [https://github.com/paddlepaddle/paddle](https://github.com/paddlepaddle/paddle)  
 57 stars per week over 350 weeks  
@@ -362,15 +368,16 @@ Paddle: PArallel Distributed Deep LEarning: Machine Learning Framework from Indu
 
 
 ### [FastChat](https://github.com/lm-sys/fastchat) by [lm-sys](https://github.com/lm-sys)  
-FastChat: An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.  
+An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.  
 [https://github.com/lm-sys/fastchat](https://github.com/lm-sys/fastchat)  
 2598 stars per week over 7 weeks  
 18,188 stars, 1,989 forks, 245 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-19, last commit 2023-05-06, main language Python  
+<sub><sup>chatbot, evaluation, language-model</sup></sub>
 
 
 ### [freqtrade](https://github.com/freqtrade/freqtrade)  
-freqtrade: Free, open source crypto trading bot  
+Free, open source crypto trading bot  
 [https://www.freqtrade.io](https://www.freqtrade.io)  
 [https://github.com/freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)  
 69 stars per week over 311 weeks  
@@ -380,7 +387,7 @@ freqtrade: Free, open source crypto trading bot
 
 
 ### [ccxt](https://github.com/ccxt/ccxt)  
-ccxt: A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
+A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
 [https://docs.ccxt.com](https://docs.ccxt.com)  
 [https://github.com/ccxt/ccxt](https://github.com/ccxt/ccxt)  
 90 stars per week over 312 weeks  
@@ -390,7 +397,7 @@ ccxt: A JavaScript / Python / PHP cryptocurrency trading API with support for mo
 
 
 ### [openai-cookbook](https://github.com/openai/openai-cookbook) by [openai](https://github.com/openai)  
-openai-cookbook: Examples and guides for using the OpenAI API  
+Examples and guides for using the OpenAI API  
 [https://platform.openai.com/docs/](https://platform.openai.com/docs/)  
 [https://github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook)  
 558 stars per week over 60 weeks  
@@ -400,11 +407,12 @@ openai-cookbook: Examples and guides for using the OpenAI API
 
 
 ### [alpaca-lora](https://github.com/tloen/alpaca-lora) by [tloen](https://github.com/tloen)  
-alpaca-lora: Instruct-tune LLaMA on consumer hardware  
+Instruct-tune LLaMA on consumer hardware  
 [https://github.com/tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)  
 1563 stars per week over 7 weeks  
 12,285 stars, 1,481 forks, 127 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-13, last commit 2023-04-18, main language Jupyter Notebook  
+<sub><sup>language-model, llama</sup></sub>
 
 
 ### [ChatGLM-6B](https://github.com/thudm/chatglm-6b) by [thudm](https://github.com/thudm)  
@@ -413,6 +421,7 @@ ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言
 2899 stars per week over 7 weeks  
 22,783 stars, 2,747 forks, 265 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-13, last commit 2023-05-06, main language Python  
+<sub><sup>language-model</sup></sub>
 
 
 ### [DeepSpeed](https://github.com/microsoft/deepspeed) by [microsoft](https://github.com/microsoft)  
@@ -426,7 +435,7 @@ DeepSpeed is a deep learning optimization library that makes distributed trainin
 
 
 ### [mmdetection](https://github.com/open-mmlab/mmdetection) by [open-mmlab](https://github.com/open-mmlab)  
-mmdetection: OpenMMLab Detection Toolbox and Benchmark  
+OpenMMLab Detection Toolbox and Benchmark  
 [https://mmdetection.readthedocs.io](https://mmdetection.readthedocs.io)  
 [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)  
 97 stars per week over 245 weeks  
@@ -436,25 +445,26 @@ mmdetection: OpenMMLab Detection Toolbox and Benchmark
 
 
 ### [jax](https://github.com/google/jax) by [google](https://github.com/google)  
-jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more  
+Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more  
 [http://jax.readthedocs.io/](http://jax.readthedocs.io/)  
 [https://github.com/google/jax](https://github.com/google/jax)  
 97 stars per week over 236 weeks  
 23,010 stars, 2,138 forks, 307 watches  
 [ml](categories/ml.md) category, created 2018-10-25, last commit 2023-05-05, main language Python  
-<sub><sup>jax</sup></sub>
+<sub><sup>autograd, jax, machine-learning, numpy</sup></sub>
 
 
 ### [OpenChatKit](https://github.com/togethercomputer/openchatkit) by [togethercomputer](https://github.com/togethercomputer)  
-togethercomputer/openchatkit  
+OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots  
 [https://github.com/togethercomputer/openchatkit](https://github.com/togethercomputer/openchatkit)  
 874 stars per week over 9 weeks  
 8,122 stars, 890 forks, 124 watches  
 [nlp](categories/nlp.md) category, created 2023-03-03, last commit 2023-04-25, main language Python  
+<sub><sup>chatbot</sup></sub>
 
 
 ### [datasets](https://github.com/huggingface/datasets) by [huggingface](https://github.com/huggingface)  
-datasets: 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools  
+🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools  
 [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets)  
 [https://github.com/huggingface/datasets](https://github.com/huggingface/datasets)  
 98 stars per week over 162 weeks  
@@ -464,7 +474,7 @@ datasets: 🤗 The largest hub of ready-to-use datasets for ML models with fast,
 
 
 ### [black](https://github.com/psf/black) by [psf](https://github.com/psf)  
-black: The uncompromising Python code formatter  
+The uncompromising Python code formatter  
 [https://black.readthedocs.io/en/stable/](https://black.readthedocs.io/en/stable/)  
 [https://github.com/psf/black](https://github.com/psf/black)  
 120 stars per week over 268 weeks  
@@ -503,7 +513,7 @@ PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for vi
 
 
 ### [poetry](https://github.com/python-poetry/poetry) by [python-poetry](https://github.com/python-poetry)  
-poetry: Python packaging and dependency management made easy  
+Python packaging and dependency management made easy  
 [https://python-poetry.org](https://python-poetry.org)  
 [https://github.com/python-poetry/poetry](https://github.com/python-poetry/poetry)  
 92 stars per week over 270 weeks  
@@ -513,7 +523,7 @@ poetry: Python packaging and dependency management made easy
 
 
 ### [numpy](https://github.com/numpy/numpy)  
-numpy: The fundamental package for scientific computing with Python.  
+The fundamental package for scientific computing with Python.  
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 35 stars per week over 659 weeks  
@@ -523,7 +533,7 @@ numpy: The fundamental package for scientific computing with Python.
 
 
 ### [jina](https://github.com/jina-ai/jina) by [jina-ai](https://github.com/jina-ai)  
-jina: 🔮 Build multimodal AI services via cloud native technologies  
+🔮 Build multimodal AI services via cloud native technologies  
 [https://docs.jina.ai](https://docs.jina.ai)  
 [https://github.com/jina-ai/jina](https://github.com/jina-ai/jina)  
 108 stars per week over 168 weeks  
@@ -533,7 +543,7 @@ jina: 🔮 Build multimodal AI services via cloud native technologies
 
 
 ### [Grounded-Segment-Anything](https://github.com/idea-research/grounded-segment-anything) by [idea-research](https://github.com/idea-research)  
-Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs  
+Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs  
 [https://github.com/idea-research/grounded-segment-anything](https://github.com/idea-research/grounded-segment-anything)  
 1799 stars per week over 4 weeks  
 7,968 stars, 658 forks, 89 watches  
@@ -542,7 +552,7 @@ Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stabl
 
 
 ### [mediapipe](https://github.com/google/mediapipe) by [google](https://github.com/google)  
-mediapipe: Cross-platform, customizable ML solutions for live and streaming media.  
+Cross-platform, customizable ML solutions for live and streaming media.  
 [https://mediapipe.dev](https://mediapipe.dev)  
 [https://github.com/google/mediapipe](https://github.com/google/mediapipe)  
 106 stars per week over 203 weeks  
@@ -552,7 +562,7 @@ mediapipe: Cross-platform, customizable ML solutions for live and streaming medi
 
 
 ### [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) by [apple](https://github.com/apple)  
-ml-stable-diffusion: Stable Diffusion with Core ML on Apple Silicon  
+Stable Diffusion with Core ML on Apple Silicon  
 [https://github.com/apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)  
 486 stars per week over 24 weeks  
 11,956 stars, 543 forks, 103 watches  
@@ -560,7 +570,7 @@ ml-stable-diffusion: Stable Diffusion with Core ML on Apple Silicon
 
 
 ### [flask](https://github.com/pallets/flask) by [pallets](https://github.com/pallets)  
-flask: The Python micro framework for building web applications.  
+The Python micro framework for building web applications.  
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 [https://github.com/pallets/flask](https://github.com/pallets/flask)  
 92 stars per week over 682 weeks  
@@ -570,7 +580,7 @@ flask: The Python micro framework for building web applications.
 
 
 ### [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) by [rwightman](https://github.com/rwightman)  
-pytorch-image-models: PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more  
+PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more  
 [https://huggingface.co/docs/timm](https://huggingface.co/docs/timm)  
 [https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)  
 112 stars per week over 222 weeks  
@@ -579,12 +589,13 @@ pytorch-image-models: PyTorch image models, scripts, pretrained weights -- ResNe
 <sub><sup>augmix, cnn-classification, distributed-training, dual-path-networks, efficientnet, efficientnet-training, imagenet-classifier, mixnet, mnasnet, mobile-deep-learning, mobilenet-v2, mobilenetv3, nfnets, normalization-free-training, pretrained-models, pretrained-weights, pytorch, randaugment, resnet, vision-transformer-models</sup></sub>
 
 
-### [TaskMatrix](https://github.com/microsoft/visual-chatgpt) by [microsoft](https://github.com/microsoft)  
-microsoft/visual-chatgpt  
-[https://github.com/microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt)  
-3444 stars per week over 9 weeks  
-32,477 stars, 3,089 forks, 294 watches  
+### [TaskMatrix](https://github.com/microsoft/taskmatrix) by [microsoft](https://github.com/microsoft)  
+Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.  
+[https://github.com/microsoft/taskmatrix](https://github.com/microsoft/taskmatrix)  
+3446 stars per week over 9 weeks  
+32,497 stars, 3,091 forks, 294 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-02, last commit 2023-04-26, main language Python  
+<sub><sup>chatgpt</sup></sub>
 
 
 ### [gpt4all](https://github.com/nomic-ai/gpt4all) by [nomic-ai](https://github.com/nomic-ai)  
@@ -593,18 +604,20 @@ gpt4all: an ecosystem of open-source chatbots trained on a massive collections o
 6392 stars per week over 5 weeks  
 37,443 stars, 3,985 forks, 494 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-27, last commit 2023-05-02, main language Python  
+<sub><sup>chatbot, language-model</sup></sub>
 
 
 ### [lit-llama](https://github.com/lightning-ai/lit-llama) by [lightning-ai](https://github.com/lightning-ai)  
-lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.  
+Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.  
 [https://github.com/lightning-ai/lit-llama](https://github.com/lightning-ai/lit-llama)  
 468 stars per week over 6 weeks  
 3,081 stars, 206 forks, 49 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-22, last commit 2023-05-05, main language Python  
+<sub><sup>language-model, llama, nanogpt</sup></sub>
 
 
 ### [semantic-kernel](https://github.com/microsoft/semantic-kernel) by [microsoft](https://github.com/microsoft)  
-semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps  
+Integrate cutting-edge LLM technology quickly and easily into your apps  
 [https://aka.ms/semantic-kernel](https://aka.ms/semantic-kernel)  
 [https://github.com/microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)  
 736 stars per week over 9 weeks  
@@ -614,7 +627,7 @@ semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into y
 
 
 ### [arrow](https://github.com/apache/arrow) by [apache](https://github.com/apache)  
-arrow: Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  
+Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
 30 stars per week over 376 weeks  
@@ -624,7 +637,7 @@ arrow: Apache Arrow is a multi-language toolbox for accelerated data interchange
 
 
 ### [dgl](https://github.com/dmlc/dgl) by [dmlc](https://github.com/dmlc)  
-dgl: Python package built to ease deep learning on graph, on top of existing DL frameworks.  
+Python package built to ease deep learning on graph, on top of existing DL frameworks.  
 [http://dgl.ai](http://dgl.ai)  
 [https://github.com/dmlc/dgl](https://github.com/dmlc/dgl)  
 44 stars per week over 263 weeks  
@@ -634,7 +647,7 @@ dgl: Python package built to ease deep learning on graph, on top of existing DL 
 
 
 ### [xgboost](https://github.com/dmlc/xgboost) by [dmlc](https://github.com/dmlc)  
-xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow  
+Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow  
 [https://xgboost.readthedocs.io/en/stable/](https://xgboost.readthedocs.io/en/stable/)  
 [https://github.com/dmlc/xgboost](https://github.com/dmlc/xgboost)  
 49 stars per week over 482 weeks  
@@ -644,7 +657,7 @@ xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM
 
 
 ### [segment-anything](https://github.com/facebookresearch/segment-anything) by [facebookresearch](https://github.com/facebookresearch)  
-segment-anything: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.  
+The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.  
 [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)  
 4901 stars per week over 6 weeks  
 31,507 stars, 3,318 forks, 233 watches  
@@ -652,7 +665,7 @@ segment-anything: The repository provides code for running inference with the Se
 
 
 ### [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) by [pyg-team](https://github.com/pyg-team)  
-pytorch_geometric: Graph Neural Network Library for PyTorch  
+Graph Neural Network Library for PyTorch  
 [https://pyg.org](https://pyg.org)  
 [https://github.com/pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)  
 60 stars per week over 291 weeks  
@@ -662,11 +675,12 @@ pytorch_geometric: Graph Neural Network Library for PyTorch
 
 
 ### [nanoGPT](https://github.com/karpathy/nanogpt) by [karpathy](https://github.com/karpathy)  
-nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.  
+The simplest, fastest repository for training/finetuning medium-sized GPTs.  
 [https://github.com/karpathy/nanogpt](https://github.com/karpathy/nanogpt)  
 1060 stars per week over 18 weeks  
 19,688 stars, 2,293 forks, 251 watches  
 [chatgpt](categories/chatgpt.md) category, created 2022-12-28, last commit 2023-04-18, main language Python  
+<sub><sup>nanogpt</sup></sub>
 
 
 ### [scrapy](https://github.com/scrapy/scrapy)  
@@ -680,7 +694,7 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 
 ### [trivy](https://github.com/aquasecurity/trivy) by [aquasecurity](https://github.com/aquasecurity)  
-trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
 [https://aquasecurity.github.io/trivy](https://aquasecurity.github.io/trivy)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 81 stars per week over 212 weeks  
@@ -700,7 +714,7 @@ JupyterLab computational environment.
 
 
 ### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) by [divamgupta](https://github.com/divamgupta)  
-diffusionbee-stable-diffusion-ui: Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.  
+Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.  
 [https://diffusionbee.com](https://diffusionbee.com)  
 [https://github.com/divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)  
 275 stars per week over 34 weeks  
@@ -710,7 +724,7 @@ diffusionbee-stable-diffusion-ui: Diffusion Bee is the easiest way to run Stable
 
 
 ### [dream-textures](https://github.com/carson-katri/dream-textures) by [carson-katri](https://github.com/carson-katri)  
-dream-textures: Stable Diffusion built-in to Blender  
+Stable Diffusion built-in to Blender  
 [https://github.com/carson-katri/dream-textures](https://github.com/carson-katri/dream-textures)  
 190 stars per week over 34 weeks  
 6,565 stars, 345 forks, 100 watches  
@@ -719,7 +733,7 @@ dream-textures: Stable Diffusion built-in to Blender
 
 
 ### [system-design-primer](https://github.com/donnemartin/system-design-primer) by [donnemartin](https://github.com/donnemartin)  
-system-design-primer: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.  
+Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.  
 [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
 679 stars per week over 323 weeks  
 219,349 stars, 38,968 forks, 6,478 watches  
@@ -728,7 +742,7 @@ system-design-primer: Learn how to design large-scale systems. Prep for the syst
 
 
 ### [gradio](https://github.com/gradio-app/gradio) by [gradio-app](https://github.com/gradio-app)  
-gradio: Create UIs for your machine learning model in Python in 3 minutes  
+Create UIs for your machine learning model in Python in 3 minutes  
 [http://www.gradio.app](http://www.gradio.app)  
 [https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)  
 74 stars per week over 228 weeks  
@@ -738,7 +752,7 @@ gradio: Create UIs for your machine learning model in Python in 3 minutes
 
 
 ### [lama-cleaner](https://github.com/sanster/lama-cleaner) by [sanster](https://github.com/sanster)  
-lama-cleaner: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.  
+Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.  
 [https://lama-cleaner-docs.vercel.app/](https://lama-cleaner-docs.vercel.app/)  
 [https://github.com/sanster/lama-cleaner](https://github.com/sanster/lama-cleaner)  
 138 stars per week over 76 weeks  
@@ -758,7 +772,7 @@ matplotlib: plotting with Python
 
 
 ### [sherlock](https://github.com/sherlock-project/sherlock) by [sherlock-project](https://github.com/sherlock-project)  
-sherlock: 🔎 Hunt down social media accounts by username across social networks  
+🔎 Hunt down social media accounts by username across social networks  
 [http://sherlock-project.github.io](http://sherlock-project.github.io)  
 [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)  
 178 stars per week over 227 weeks  
@@ -768,17 +782,17 @@ sherlock: 🔎 Hunt down social media accounts by username across social network
 
 
 ### [nebuly](https://github.com/nebuly-ai/nebullvm) by [nebuly-ai](https://github.com/nebuly-ai)  
-nebuly: The next-generation platform to monitor and optimize your AI costs in one place 🚀  
+The next-generation platform to monitor and optimize your AI costs in one place 🚀  
 [https://www.nebuly.com/](https://www.nebuly.com/)  
 [https://github.com/nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)  
 125 stars per week over 64 weeks  
 8,043 stars, 636 forks, 98 watches  
 [perf](categories/perf.md) category, created 2022-02-12, last commit 2023-05-05, main language Python  
-<sub><sup>compiler, computing, deep-learning, edge-computing, gpu, huggingface, inference, machine-learning, neural-network, onnx, openvino, optimization, pypi, pytorch, quantization, tensorflow, tensorrt, transformers, tvm</sup></sub>
+<sub><sup>compiler, computing, deep-learning, edge-computing, gpu, huggingface, inference, machine-learning, neural-network, onnx, openvino, optimization, pytorch, quantization, tensorflow, tensorrt, transformers, tvm</sup></sub>
 
 
 ### [bark](https://github.com/suno-ai/bark) by [suno-ai](https://github.com/suno-ai)  
-bark: 🔊 Text-Prompted Generative Audio Model  
+🔊 Text-Prompted Generative Audio Model  
 [https://github.com/suno-ai/bark](https://github.com/suno-ai/bark)  
 3989 stars per week over 4 weeks  
 17,099 stars, 1,503 forks, 182 watches  
@@ -805,7 +819,7 @@ Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-e
 
 
 ### [mlflow](https://github.com/mlflow/mlflow)  
-mlflow: Open source platform for the machine learning lifecycle  
+Open source platform for the machine learning lifecycle  
 [https://mlflow.org](https://mlflow.org)  
 [https://github.com/mlflow/mlflow](https://github.com/mlflow/mlflow)  
 55 stars per week over 256 weeks  
@@ -815,7 +829,7 @@ mlflow: Open source platform for the machine learning lifecycle
 
 
 ### [ControlNet](https://github.com/lllyasviel/controlnet) by [lllyasviel](https://github.com/lllyasviel)  
-ControlNet: Let us control diffusion models!  
+Let us control diffusion models!  
 [https://github.com/lllyasviel/controlnet](https://github.com/lllyasviel/controlnet)  
 1363 stars per week over 13 weeks  
 18,509 stars, 1,719 forks, 188 watches  
@@ -823,7 +837,7 @@ ControlNet: Let us control diffusion models!
 
 
 ### [LLaVA](https://github.com/haotian-liu/llava) by [haotian-liu](https://github.com/haotian-liu)  
-LLaVA: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.  
+Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.  
 [https://llava.hliu.cc](https://llava.hliu.cc)  
 [https://github.com/haotian-liu/llava](https://github.com/haotian-liu/llava)  
 792 stars per week over 2 weeks  
@@ -842,7 +856,7 @@ JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf
 
 
 ### [requests](https://github.com/psf/requests) by [psf](https://github.com/psf)  
-requests: A simple, yet elegant, HTTP library.  
+A simple, yet elegant, HTTP library.  
 [https://requests.readthedocs.io/en/latest/](https://requests.readthedocs.io/en/latest/)  
 [https://github.com/psf/requests](https://github.com/psf/requests)  
 77 stars per week over 638 weeks  
@@ -852,7 +866,7 @@ requests: A simple, yet elegant, HTTP library.
 
 
 ### [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) by [openai](https://github.com/openai)  
-chatgpt-retrieval-plugin: The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.  
+The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.  
 [https://github.com/openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
 2456 stars per week over 6 weeks  
 15,794 stars, 2,374 forks, 246 watches  
@@ -861,7 +875,7 @@ chatgpt-retrieval-plugin: The ChatGPT Retrieval Plugin lets you easily search an
 
 
 ### [pyenv](https://github.com/pyenv/pyenv)  
-pyenv: Simple Python version management  
+Simple Python version management  
 [https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv)  
 56 stars per week over 557 weeks  
 31,726 stars, 2,786 forks, 382 watches  
@@ -870,7 +884,7 @@ pyenv: Simple Python version management
 
 
 ### [spaCy](https://github.com/explosion/spacy) by [explosion](https://github.com/explosion)  
-spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python  
+💫 Industrial-strength Natural Language Processing (NLP) in Python  
 [https://spacy.io](https://spacy.io)  
 [https://github.com/explosion/spacy](https://github.com/explosion/spacy)  
 56 stars per week over 461 weeks  
@@ -890,7 +904,7 @@ DuckDB is an in-process SQL OLAP Database Management System
 
 
 ### [prefect](https://github.com/prefecthq/prefect) by [prefecthq](https://github.com/prefecthq)  
-prefect: The easiest way to orchestrate and observe your data pipelines  
+The easiest way to orchestrate and observe your data pipelines  
 [https://prefect.io](https://prefect.io)  
 [https://github.com/prefecthq/prefect](https://github.com/prefecthq/prefect)  
 46 stars per week over 253 weeks  
@@ -900,7 +914,7 @@ prefect: The easiest way to orchestrate and observe your data pipelines
 
 
 ### [pydantic](https://github.com/samuelcolvin/pydantic) by [samuelcolvin](https://github.com/samuelcolvin)  
-pydantic: Data validation using Python type hints  
+Data validation using Python type hints  
 [https://docs.pydantic.dev](https://docs.pydantic.dev)  
 [https://github.com/samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic)  
 43 stars per week over 313 weeks  
@@ -910,7 +924,7 @@ pydantic: Data validation using Python type hints
 
 
 ### [rasa](https://github.com/rasahq/rasa) by [rasahq](https://github.com/rasahq)  
-rasa: 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  
+💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  
 [https://rasa.com/docs/rasa/](https://rasa.com/docs/rasa/)  
 [https://github.com/rasahq/rasa](https://github.com/rasahq/rasa)  
 47 stars per week over 342 weeks  
@@ -929,7 +943,7 @@ Detectron2 is a platform for object detection, segmentation and other visual rec
 
 
 ### [chroma](https://github.com/chroma-core/chroma) by [chroma-core](https://github.com/chroma-core)  
-chroma: the AI-native open-source embedding database  
+the AI-native open-source embedding database  
 [https://www.trychroma.com/](https://www.trychroma.com/)  
 [https://github.com/chroma-core/chroma](https://github.com/chroma-core/chroma)  
 149 stars per week over 30 weeks  
@@ -939,15 +953,16 @@ chroma: the AI-native open-source embedding database
 
 
 ### [llama](https://github.com/facebookresearch/llama) by [facebookresearch](https://github.com/facebookresearch)  
-llama: Inference code for LLaMA models  
+Inference code for LLaMA models  
 [https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)  
 1745 stars per week over 11 weeks  
 20,446 stars, 3,281 forks, 214 watches  
-[nlp](categories/nlp.md) category, created 2023-02-14, last commit 2023-03-07, main language Python  
+[chatgpt](categories/chatgpt.md) category, created 2023-02-14, last commit 2023-03-07, main language Python  
+<sub><sup>language-model, llama</sup></sub>
 
 
 ### [frigate](https://github.com/blakeblackshear/frigate) by [blakeblackshear](https://github.com/blakeblackshear)  
-frigate: NVR with realtime local object detection for IP cameras  
+NVR with realtime local object detection for IP cameras  
 [https://frigate.video](https://frigate.video)  
 [https://github.com/blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)  
 35 stars per week over 223 weeks  
@@ -957,7 +972,7 @@ frigate: NVR with realtime local object detection for IP cameras
 
 
 ### [dolly](https://github.com/databrickslabs/dolly) by [databrickslabs](https://github.com/databrickslabs)  
-dolly: Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
+Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
 [https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
 [https://github.com/databrickslabs/dolly](https://github.com/databrickslabs/dolly)  
 1533 stars per week over 6 weeks  
@@ -967,7 +982,7 @@ dolly: Databricks’ Dolly, a large language model trained on the Databricks Mac
 
 
 ### [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
-sqlalchemy: The Database Toolkit for Python  
+The Database Toolkit for Python  
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 [https://github.com/sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
 30 stars per week over 231 weeks  
@@ -977,7 +992,7 @@ sqlalchemy: The Database Toolkit for Python
 
 
 ### [web-llm](https://github.com/mlc-ai/web-llm) by [mlc-ai](https://github.com/mlc-ai)  
-web-llm: Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.  
+Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.  
 [https://mlc.ai/web-llm](https://mlc.ai/web-llm)  
 [https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)  
 1540 stars per week over 3 weeks  
@@ -987,7 +1002,7 @@ web-llm: Bringing large-language models and chat to web browsers. Everything run
 
 
 ### [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) by [lucidrains](https://github.com/lucidrains)  
-PaLM-rlhf-pytorch: Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
+Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
 [https://github.com/lucidrains/palm-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch)  
 306 stars per week over 21 weeks  
 6,528 stars, 542 forks, 126 watches  
@@ -1015,15 +1030,16 @@ MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language 
 
 
 ### [LLaMA-Adapter](https://github.com/zrrskywalker/llama-adapter) by [zrrskywalker](https://github.com/zrrskywalker)  
-LLaMA-Adapter: Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters  
+Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters  
 [https://github.com/zrrskywalker/llama-adapter](https://github.com/zrrskywalker/llama-adapter)  
 452 stars per week over 7 weeks  
 3,164 stars, 194 forks, 83 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-19, last commit 2023-05-06, main language Python  
+<sub><sup>language-model, llama</sup></sub>
 
 
 ### [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) by [ashawkey](https://github.com/ashawkey)  
-stable-dreamfusion: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.  
+A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.  
 [https://github.com/ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)  
 171 stars per week over 30 weeks  
 5,217 stars, 471 forks, 105 watches  
@@ -1032,7 +1048,7 @@ stable-dreamfusion: A pytorch implementation of text-to-3D dreamfusion, powered 
 
 
 ### [diagrams](https://github.com/mingrammer/diagrams) by [mingrammer](https://github.com/mingrammer)  
-diagrams: :art: Diagram as Code for prototyping cloud system architectures  
+:art: Diagram as Code for prototyping cloud system architectures  
 [https://diagrams.mingrammer.com](https://diagrams.mingrammer.com)  
 [https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)  
 175 stars per week over 170 weeks  
@@ -1042,7 +1058,7 @@ diagrams: :art: Diagram as Code for prototyping cloud system architectures
 
 
 ### [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) by [h2oai](https://github.com/h2oai)  
-h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
+H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
 [https://h2o.ai](https://h2o.ai)  
 [https://github.com/h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)  
 386 stars per week over 2 weeks  
@@ -1051,7 +1067,7 @@ h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 
 
 ### [d2l-en](https://github.com/d2l-ai/d2l-en) by [d2l-ai](https://github.com/d2l-ai)  
-d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.  
+Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.  
 [https://D2L.ai](https://D2L.ai)  
 [https://github.com/d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)  
 74 stars per week over 238 weeks  
@@ -1061,7 +1077,7 @@ d2l-en: Interactive deep learning book with multi-framework code, math, and disc
 
 
 ### [stablediffusion](https://github.com/stability-ai/stablediffusion) by [stability-ai](https://github.com/stability-ai)  
-stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models  
+High-Resolution Image Synthesis with Latent Diffusion Models  
 [https://github.com/stability-ai/stablediffusion](https://github.com/stability-ai/stablediffusion)  
 912 stars per week over 23 weeks  
 21,506 stars, 2,615 forks, 292 watches  
@@ -1069,7 +1085,7 @@ stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models
 
 
 ### [faiss](https://github.com/facebookresearch/faiss) by [facebookresearch](https://github.com/facebookresearch)  
-faiss: A library for efficient similarity search and clustering of dense vectors.  
+A library for efficient similarity search and clustering of dense vectors.  
 [https://faiss.ai](https://faiss.ai)  
 [https://github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss)  
 65 stars per week over 325 weeks  
@@ -1078,7 +1094,7 @@ faiss: A library for efficient similarity search and clustering of dense vectors
 
 
 ### [bokeh](https://github.com/bokeh/bokeh)  
-bokeh: Interactive Data Visualization in the browser, from  Python  
+Interactive Data Visualization in the browser, from  Python  
 [https://bokeh.org](https://bokeh.org)  
 [https://github.com/bokeh/bokeh](https://github.com/bokeh/bokeh)  
 30 stars per week over 579 weeks  
@@ -1098,16 +1114,17 @@ Pyodide is a Python distribution for the browser and Node.js based on WebAssembl
 
 
 ### [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) by [abetlen](https://github.com/abetlen)  
-llama-cpp-python: Python bindings for llama.cpp  
+Python bindings for llama.cpp  
 [https://abetlen.github.io/llama-cpp-python/](https://abetlen.github.io/llama-cpp-python/)  
 [https://github.com/abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)  
 144 stars per week over 6 weeks  
 932 stars, 109 forks, 18 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-03-23, last commit 2023-05-05, main language Python  
+<sub><sup>language-model, llama</sup></sub>
 
 
 ### [gym](https://github.com/openai/gym) by [openai](https://github.com/openai)  
-gym: A toolkit for developing and comparing reinforcement learning algorithms.  
+A toolkit for developing and comparing reinforcement learning algorithms.  
 [https://www.gymlibrary.dev](https://www.gymlibrary.dev)  
 [https://github.com/openai/gym](https://github.com/openai/gym)  
 84 stars per week over 366 weeks  
@@ -1116,7 +1133,7 @@ gym: A toolkit for developing and comparing reinforcement learning algorithms.
 
 
 ### [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) by [lucidrains](https://github.com/lucidrains)  
-imagen-pytorch: Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch  
+Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch  
 [https://github.com/lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch)  
 136 stars per week over 49 weeks  
 6,800 stars, 631 forks, 112 watches  
@@ -1143,7 +1160,7 @@ SciPy library main repository
 
 
 ### [codon](https://github.com/exaloop/codon) by [exaloop](https://github.com/exaloop)  
-codon: A high-performance, zero-overhead, extensible Python compiler using LLVM  
+A high-performance, zero-overhead, extensible Python compiler using LLVM  
 [https://docs.exaloop.io/codon](https://docs.exaloop.io/codon)  
 [https://github.com/exaloop/codon](https://github.com/exaloop/codon)  
 148 stars per week over 83 weeks  
@@ -1153,7 +1170,7 @@ codon: A high-performance, zero-overhead, extensible Python compiler using LLVM
 
 
 ### [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) by [tatsu-lab](https://github.com/tatsu-lab)  
-stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data.  
+Code and documentation to train Stanford's Alpaca models, and generate the data.  
 [https://crfm.stanford.edu/2023/03/13/alpaca.html](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
 [https://github.com/tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)  
 2762 stars per week over 8 weeks  
@@ -1163,7 +1180,7 @@ stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and g
 
 
 ### [mypy](https://github.com/python/mypy) by [python](https://github.com/python)  
-mypy: Optional static typing for Python  
+Optional static typing for Python  
 [https://www.mypy-lang.org/](https://www.mypy-lang.org/)  
 [https://github.com/python/mypy](https://github.com/python/mypy)  
 28 stars per week over 543 weeks  
@@ -1173,7 +1190,7 @@ mypy: Optional static typing for Python
 
 
 ### [sanic](https://github.com/huge-success/sanic) by [huge-success](https://github.com/huge-success)  
-sanic:  Accelerate your web app development  | Build fast. Run fast.  
+ Accelerate your web app development  | Build fast. Run fast.  
 [https://sanic.dev](https://sanic.dev)  
 [https://github.com/huge-success/sanic](https://github.com/huge-success/sanic)  
 46 stars per week over 362 weeks  
@@ -1183,7 +1200,7 @@ sanic:  Accelerate your web app development  | Build fast. Run fast.
 
 
 ### [paper-qa](https://github.com/whitead/paper-qa) by [whitead](https://github.com/whitead)  
-paper-qa: LLM Chain for answering questions from documents with citations  
+LLM Chain for answering questions from documents with citations  
 [https://github.com/whitead/paper-qa](https://github.com/whitead/paper-qa)  
 177 stars per week over 13 weeks  
 2,311 stars, 185 forks, 36 watches  
@@ -1192,7 +1209,7 @@ paper-qa: LLM Chain for answering questions from documents with citations
 
 
 ### [dvc](https://github.com/iterative/dvc) by [iterative](https://github.com/iterative)  
-dvc: 🦉 Data Version Control | Git for Data & Models | ML Experiments Management  
+🦉 Data Version Control | Git for Data & Models | ML Experiments Management  
 [https://dvc.org](https://dvc.org)  
 [https://github.com/iterative/dvc](https://github.com/iterative/dvc)  
 35 stars per week over 322 weeks  
@@ -1217,10 +1234,11 @@ tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 196 stars per week over 22 weeks  
 4,399 stars, 253 forks, 112 watches  
 [nlp](categories/nlp.md) category, created 2022-12-01, last commit 2023-04-24, main language Python  
+<sub><sup>chatgpt, tokeniser</sup></sub>
 
 
 ### [flair](https://github.com/flairnlp/flair) by [flairnlp](https://github.com/flairnlp)  
-flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)  
+A very simple framework for state-of-the-art Natural Language Processing (NLP)  
 [https://github.com/flairnlp/flair](https://github.com/flairnlp/flair)  
 49 stars per week over 255 weeks  
 12,743 stars, 2,014 forks, 199 watches  
@@ -1229,7 +1247,7 @@ flair: A very simple framework for state-of-the-art Natural Language Processing 
 
 
 ### [DALLE2-pytorch](https://github.com/lucidrains/dalle2-pytorch) by [lucidrains](https://github.com/lucidrains)  
-DALLE2-pytorch: Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch  
+Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch  
 [https://github.com/lucidrains/dalle2-pytorch](https://github.com/lucidrains/dalle2-pytorch)  
 170 stars per week over 56 weeks  
 9,605 stars, 892 forks, 125 watches  
@@ -1238,7 +1256,7 @@ DALLE2-pytorch: Implementation of DALL-E 2, OpenAI's updated text-to-image synth
 
 
 ### [great_expectations](https://github.com/great-expectations/great_expectations) by [great-expectations](https://github.com/great-expectations)  
-great_expectations: Always know what to expect from your data.  
+Always know what to expect from your data.  
 [https://docs.greatexpectations.io/](https://docs.greatexpectations.io/)  
 [https://github.com/great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)  
 28 stars per week over 294 weeks  
@@ -1248,7 +1266,7 @@ great_expectations: Always know what to expect from your data.
 
 
 ### [mage-ai](https://github.com/mage-ai/mage-ai)  
-mage-ai: 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.  
+🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.  
 [https://www.mage.ai/](https://www.mage.ai/)  
 [https://github.com/mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)  
 80 stars per week over 50 weeks  
@@ -1258,7 +1276,7 @@ mage-ai: 🧙 The modern replacement for Airflow. Build, run, and manage data pi
 
 
 ### [dagster](https://github.com/dagster-io/dagster) by [dagster-io](https://github.com/dagster-io)  
-dagster: An orchestration platform for the development, production, and observation of data assets.  
+An orchestration platform for the development, production, and observation of data assets.  
 [https://dagster.io](https://dagster.io)  
 [https://github.com/dagster-io/dagster](https://github.com/dagster-io/dagster)  
 27 stars per week over 261 weeks  
@@ -1268,7 +1286,7 @@ dagster: An orchestration platform for the development, production, and observat
 
 
 ### [EasyOCR](https://github.com/jaidedai/easyocr) by [jaidedai](https://github.com/jaidedai)  
-EasyOCR: Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
+Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.  
 [https://www.jaided.ai](https://www.jaided.ai)  
 [https://github.com/jaidedai/easyocr](https://github.com/jaidedai/easyocr)  
 108 stars per week over 164 weeks  
@@ -1278,7 +1296,7 @@ EasyOCR: Ready-to-use OCR with 80+ supported languages and all popular writing s
 
 
 ### [notebook](https://github.com/jupyter/notebook) by [jupyter](https://github.com/jupyter)  
-notebook: Jupyter Interactive Notebook  
+Jupyter Interactive Notebook  
 [https://jupyter-notebook.readthedocs.io/](https://jupyter-notebook.readthedocs.io/)  
 [https://github.com/jupyter/notebook](https://github.com/jupyter/notebook)  
 23 stars per week over 421 weeks  
@@ -1288,7 +1306,7 @@ notebook: Jupyter Interactive Notebook
 
 
 ### [haystack](https://github.com/deepset-ai/haystack) by [deepset-ai](https://github.com/deepset-ai)  
-haystack: :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more.  
+:mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more.  
 [https://haystack.deepset.ai](https://haystack.deepset.ai)  
 [https://github.com/deepset-ai/haystack](https://github.com/deepset-ai/haystack)  
 47 stars per week over 181 weeks  
@@ -1298,7 +1316,7 @@ haystack: :mag: Haystack is an open source NLP framework to interact with your d
 
 
 ### [faceswap](https://github.com/deepfakes/faceswap) by [deepfakes](https://github.com/deepfakes)  
-faceswap: Deepfakes Software For All  
+Deepfakes Software For All  
 [https://www.faceswap.dev](https://www.faceswap.dev)  
 [https://github.com/deepfakes/faceswap](https://github.com/deepfakes/faceswap)  
 159 stars per week over 280 weeks  
@@ -1308,7 +1326,7 @@ faceswap: Deepfakes Software For All
 
 
 ### [dask](https://github.com/dask/dask)  
-dask: Parallel computing with task scheduling  
+Parallel computing with task scheduling  
 [https://dask.org](https://dask.org)  
 [https://github.com/dask/dask](https://github.com/dask/dask)  
 25 stars per week over 435 weeks  
@@ -1318,7 +1336,7 @@ dask: Parallel computing with task scheduling
 
 
 ### [openai-python](https://github.com/openai/openai-python) by [openai](https://github.com/openai)  
-openai-python: The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.  
+The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.  
 [https://github.com/openai/openai-python](https://github.com/openai/openai-python)  
 64 stars per week over 132 weeks  
 8,576 stars, 1,210 forks, 156 watches  
@@ -1327,7 +1345,7 @@ openai-python: The OpenAI Python library provides convenient access to the OpenA
 
 
 ### [optuna](https://github.com/optuna/optuna)  
-optuna: A hyperparameter optimization framework  
+A hyperparameter optimization framework  
 [https://optuna.org](https://optuna.org)  
 [https://github.com/optuna/optuna](https://github.com/optuna/optuna)  
 29 stars per week over 271 weeks  
@@ -1337,7 +1355,7 @@ optuna: A hyperparameter optimization framework
 
 
 ### [Gymnasium](https://github.com/farama-foundation/gymnasium) by [farama-foundation](https://github.com/farama-foundation)  
-Gymnasium: A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)  
+A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)  
 [https://gymnasium.farama.org](https://gymnasium.farama.org)  
 [https://github.com/farama-foundation/gymnasium](https://github.com/farama-foundation/gymnasium)  
 74 stars per week over 34 weeks  
@@ -1347,7 +1365,7 @@ Gymnasium: A standard API for single-agent reinforcement learning environments, 
 
 
 ### [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) by [mmabrouk](https://github.com/mmabrouk)  
-chatgpt-wrapper: API for interacting with ChatGPT and GPT4 using Python and from Shell.  
+API for interacting with ChatGPT and GPT4 using Python and from Shell.  
 [https://github.com/mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper)  
 144 stars per week over 22 weeks  
 3,195 stars, 412 forks, 42 watches  
@@ -1356,7 +1374,7 @@ chatgpt-wrapper: API for interacting with ChatGPT and GPT4 using Python and from
 
 
 ### [pyright](https://github.com/microsoft/pyright) by [microsoft](https://github.com/microsoft)  
-pyright: Static Type Checker for Python  
+Static Type Checker for Python  
 [https://github.com/microsoft/pyright](https://github.com/microsoft/pyright)  
 47 stars per week over 216 weeks  
 10,211 stars, 1,025 forks, 100 watches  
@@ -1364,7 +1382,7 @@ pyright: Static Type Checker for Python
 
 
 ### [sktime](https://github.com/sktime/sktime)  
-sktime: A unified framework for machine learning with time series  
+A unified framework for machine learning with time series  
 [https://www.sktime.net](https://www.sktime.net)  
 [https://github.com/sktime/sktime](https://github.com/sktime/sktime)  
 27 stars per week over 234 weeks  
@@ -1374,7 +1392,7 @@ sktime: A unified framework for machine learning with time series
 
 
 ### [mkdocs-material](https://github.com/squidfunk/mkdocs-material) by [squidfunk](https://github.com/squidfunk)  
-mkdocs-material: Documentation that simply works  
+Documentation that simply works  
 [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)  
 [https://github.com/squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)  
 36 stars per week over 379 weeks  
@@ -1384,7 +1402,7 @@ mkdocs-material: Documentation that simply works
 
 
 ### [ipython](https://github.com/ipython/ipython)  
-ipython: Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.  
+Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.  
 [https://ipython.readthedocs.org](https://ipython.readthedocs.org)  
 [https://github.com/ipython/ipython](https://github.com/ipython/ipython)  
 23 stars per week over 677 weeks  
@@ -1394,15 +1412,16 @@ ipython: Official repository for IPython itself. Other repos in the IPython orga
 
 
 ### [LLMZoo](https://github.com/freedomintelligence/llmzoo) by [freedomintelligence](https://github.com/freedomintelligence)  
-LLMZoo: ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡  
+⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡  
 [https://github.com/freedomintelligence/llmzoo](https://github.com/freedomintelligence/llmzoo)  
 342 stars per week over 5 weeks  
 1,760 stars, 92 forks, 40 watches  
 [chatgpt](categories/chatgpt.md) category, created 2023-04-01, last commit 2023-05-05, main language Python  
+<sub><sup>language-model</sup></sub>
 
 
 ### [petals](https://github.com/bigscience-workshop/petals) by [bigscience-workshop](https://github.com/bigscience-workshop)  
-petals: 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading  
+🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading  
 [https://petals.ml](https://petals.ml)  
 [https://github.com/bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)  
 98 stars per week over 47 weeks  
@@ -1412,7 +1431,7 @@ petals: 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning an
 
 
 ### [accelerate](https://github.com/huggingface/accelerate) by [huggingface](https://github.com/huggingface)  
-accelerate: 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision  
+🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision  
 [https://huggingface.co/docs/accelerate](https://huggingface.co/docs/accelerate)  
 [https://github.com/huggingface/accelerate](https://github.com/huggingface/accelerate)  
 33 stars per week over 131 weeks  
@@ -1421,7 +1440,7 @@ accelerate: 🚀 A simple way to train and use PyTorch models with multi-GPU, TP
 
 
 ### [RedPajama-Data](https://github.com/togethercomputer/redpajama-data) by [togethercomputer](https://github.com/togethercomputer)  
-RedPajama-Data: The RedPajama-Data repository contains code for preparing large datasets for training large language models.  
+The RedPajama-Data repository contains code for preparing large datasets for training large language models.  
 [https://github.com/togethercomputer/redpajama-data](https://github.com/togethercomputer/redpajama-data)  
 710 stars per week over 3 weeks  
 2,336 stars, 177 forks, 59 watches  
@@ -1429,7 +1448,7 @@ RedPajama-Data: The RedPajama-Data repository contains code for preparing large 
 
 
 ### [kedro](https://github.com/kedro-org/kedro) by [kedro-org](https://github.com/kedro-org)  
-kedro: A Python framework for creating reproducible, maintainable and modular data science code.  
+A Python framework for creating reproducible, maintainable and modular data science code.  
 [https://kedro.org](https://kedro.org)  
 [https://github.com/kedro-org/kedro](https://github.com/kedro-org/kedro)  
 39 stars per week over 211 weeks  
@@ -1439,7 +1458,7 @@ kedro: A Python framework for creating reproducible, maintainable and modular da
 
 
 ### [fairseq](https://github.com/pytorch/fairseq) by [pytorch](https://github.com/pytorch)  
-fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
+Facebook AI Research Sequence-to-Sequence Toolkit written in Python.  
 [https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq)  
 73 stars per week over 296 weeks  
 21,917 stars, 5,418 forks, 368 watches  
@@ -1448,7 +1467,7 @@ fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 
 
 ### [stable-diffusion](https://github.com/compvis/stable-diffusion) by [compvis](https://github.com/compvis)  
-stable-diffusion: A latent text-to-image diffusion model  
+A latent text-to-image diffusion model  
 [https://ommer-lab.com/research/latent-diffusion-models/](https://ommer-lab.com/research/latent-diffusion-models/)  
 [https://github.com/compvis/stable-diffusion](https://github.com/compvis/stable-diffusion)  
 1378 stars per week over 38 weeks  
@@ -1457,7 +1476,7 @@ stable-diffusion: A latent text-to-image diffusion model
 
 
 ### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) by [mayooear](https://github.com/mayooear)  
-gpt4-pdf-chatbot-langchain: GPT4 & LangChain Chatbot for large PDF docs  
+GPT4 & LangChain Chatbot for large PDF docs  
 [https://www.youtube.com/watch?v=ih9PBGVVOO4](https://www.youtube.com/watch?v=ih9PBGVVOO4)  
 [https://github.com/mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  
 1335 stars per week over 7 weeks  
@@ -1467,7 +1486,7 @@ gpt4-pdf-chatbot-langchain: GPT4 & LangChain Chatbot for large PDF docs
 
 
 ### [locust](https://github.com/locustio/locust) by [locustio](https://github.com/locustio)  
-locust: Write scalable load tests in plain Python 🚗💨  
+Write scalable load tests in plain Python 🚗💨  
 [https://github.com/locustio/locust](https://github.com/locustio/locust)  
 33 stars per week over 637 weeks  
 21,259 stars, 2,684 forks, 435 watches  
@@ -1476,7 +1495,7 @@ locust: Write scalable load tests in plain Python 🚗💨
 
 
 ### [NeMo-Guardrails](https://github.com/nvidia/nemo-guardrails) by [nvidia](https://github.com/nvidia)  
-NeMo-Guardrails: NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.  
+NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.  
 [https://github.com/nvidia/nemo-guardrails](https://github.com/nvidia/nemo-guardrails)  
 435 stars per week over 2 weeks  
 1,182 stars, 64 forks, 22 watches  
@@ -1484,7 +1503,7 @@ NeMo-Guardrails: NeMo Guardrails is an open-source toolkit for easily adding pro
 
 
 ### [dinov2](https://github.com/facebookresearch/dinov2) by [facebookresearch](https://github.com/facebookresearch)  
-dinov2: PyTorch code and models for the DINOv2 self-supervised learning method.  
+PyTorch code and models for the DINOv2 self-supervised learning method.  
 [https://github.com/facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)  
 803 stars per week over 5 weeks  
 4,477 stars, 246 forks, 78 watches  
@@ -1492,7 +1511,7 @@ dinov2: PyTorch code and models for the DINOv2 self-supervised learning method.
 
 
 ### [LightGBM](https://github.com/microsoft/lightgbm) by [microsoft](https://github.com/microsoft)  
-LightGBM: A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.  
+A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.  
 [https://lightgbm.readthedocs.io/en/latest/](https://lightgbm.readthedocs.io/en/latest/)  
 [https://github.com/microsoft/lightgbm](https://github.com/microsoft/lightgbm)  
 42 stars per week over 352 weeks  
@@ -1512,7 +1531,7 @@ AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
 
 
 ### [sympy](https://github.com/sympy/sympy)  
-sympy: A computer algebra system written in pure Python  
+A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
 15 stars per week over 679 weeks  
@@ -1531,7 +1550,7 @@ Rembg is a tool to remove images background
 
 
 ### [onnx](https://github.com/onnx/onnx)  
-onnx: Open standard for machine learning interoperability  
+Open standard for machine learning interoperability  
 [https://onnx.ai/](https://onnx.ai/)  
 [https://github.com/onnx/onnx](https://github.com/onnx/onnx)  
 49 stars per week over 295 weeks  
@@ -1541,7 +1560,7 @@ onnx: Open standard for machine learning interoperability
 
 
 ### [catboost](https://github.com/catboost/catboost)  
-catboost: A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.  
+A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.  
 [https://catboost.ai](https://catboost.ai)  
 [https://github.com/catboost/catboost](https://github.com/catboost/catboost)  
 23 stars per week over 302 weeks  
@@ -1561,7 +1580,7 @@ Faker is a Python package that generates fake data for you.
 
 
 ### [horovod](https://github.com/horovod/horovod)  
-horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
+Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
 [http://horovod.ai](http://horovod.ai)  
 [https://github.com/horovod/horovod](https://github.com/horovod/horovod)  
 44 stars per week over 299 weeks  
@@ -1571,7 +1590,7 @@ horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apac
 
 
 ### [speechbrain](https://github.com/speechbrain/speechbrain)  
-speechbrain: A PyTorch-based Speech Toolkit  
+A PyTorch-based Speech Toolkit  
 [http://speechbrain.github.io](http://speechbrain.github.io)  
 [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)  
 37 stars per week over 157 weeks  
@@ -1581,7 +1600,7 @@ speechbrain: A PyTorch-based Speech Toolkit
 
 
 ### [consistency_models](https://github.com/openai/consistency_models) by [openai](https://github.com/openai)  
-consistency_models: Official repo for consistency models.  
+Official repo for consistency models.  
 [https://github.com/openai/consistency_models](https://github.com/openai/consistency_models)  
 507 stars per week over 10 weeks  
 5,074 stars, 301 forks, 61 watches  
@@ -1589,7 +1608,7 @@ consistency_models: Official repo for consistency models.
 
 
 ### [PySimpleGUI](https://github.com/pysimplegui/pysimplegui) by [pysimplegui](https://github.com/pysimplegui)  
-PySimpleGUI: Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs  
+Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs  
 [https://github.com/pysimplegui/pysimplegui](https://github.com/pysimplegui/pysimplegui)  
 46 stars per week over 251 weeks  
 11,582 stars, 1,727 forks, 223 watches  
@@ -1608,7 +1627,7 @@ Qdrant - Vector Database for the next generation of AI applications. Also availa
 
 
 ### [espnet](https://github.com/espnet/espnet)  
-espnet: End-to-End Speech Processing Toolkit  
+End-to-End Speech Processing Toolkit  
 [https://espnet.github.io/espnet/](https://espnet.github.io/espnet/)  
 [https://github.com/espnet/espnet](https://github.com/espnet/espnet)  
 23 stars per week over 281 weeks  
@@ -1618,7 +1637,7 @@ espnet: End-to-End Speech Processing Toolkit
 
 
 ### [nni](https://github.com/microsoft/nni) by [microsoft](https://github.com/microsoft)  
-nni: An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.  
+An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.  
 [https://nni.readthedocs.io](https://nni.readthedocs.io)  
 [https://github.com/microsoft/nni](https://github.com/microsoft/nni)  
 49 stars per week over 257 weeks  
@@ -1647,7 +1666,7 @@ Typer, build great CLIs. Easy to code. Based on Python type hints.
 
 
 ### [celery](https://github.com/celery/celery)  
-celery: Distributed Task Queue (development branch)  
+Distributed Task Queue (development branch)  
 [https://docs.celeryq.dev](https://docs.celeryq.dev)  
 [https://github.com/celery/celery](https://github.com/celery/celery)  
 29 stars per week over 732 weeks  
@@ -1657,7 +1676,7 @@ celery: Distributed Task Queue (development branch)
 
 
 ### [aiohttp](https://github.com/aio-libs/aiohttp) by [aio-libs](https://github.com/aio-libs)  
-aiohttp: Asynchronous HTTP client/server framework for asyncio and Python  
+Asynchronous HTTP client/server framework for asyncio and Python  
 [https://docs.aiohttp.org](https://docs.aiohttp.org)  
 [https://github.com/aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)  
 27 stars per week over 500 weeks  
@@ -1677,7 +1696,7 @@ Qlib is an AI-oriented quantitative investment platform, which aims to realize t
 
 
 ### [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) by [open-mmlab](https://github.com/open-mmlab)  
-mmsegmentation: OpenMMLab Semantic Segmentation Toolbox and Benchmark.  
+OpenMMLab Semantic Segmentation Toolbox and Benchmark.  
 [https://mmsegmentation.readthedocs.io/en/latest/](https://mmsegmentation.readthedocs.io/en/latest/)  
 [https://github.com/open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)  
 37 stars per week over 151 weeks  
@@ -1687,7 +1706,7 @@ mmsegmentation: OpenMMLab Semantic Segmentation Toolbox and Benchmark.
 
 
 ### [pyllama](https://github.com/juncongmoo/pyllama) by [juncongmoo](https://github.com/juncongmoo)  
-pyllama: LLaMA: Open and Efficient Foundation Language Models  
+LLaMA: Open and Efficient Foundation Language Models  
 [https://github.com/juncongmoo/pyllama](https://github.com/juncongmoo/pyllama)  
 190 stars per week over 9 weeks  
 1,853 stars, 209 forks, 31 watches  
@@ -1695,7 +1714,7 @@ pyllama: LLaMA: Open and Efficient Foundation Language Models
 
 
 ### [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) by [sanchit-gandhi](https://github.com/sanchit-gandhi)  
-whisper-jax: JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.  
+JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.  
 [https://github.com/sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)  
 259 stars per week over 9 weeks  
 2,443 stars, 175 forks, 33 watches  
@@ -1704,7 +1723,7 @@ whisper-jax: JAX implementation of OpenAI's Whisper model for up to 70x speed-up
 
 
 ### [pybind11](https://github.com/pybind/pybind11) by [pybind](https://github.com/pybind)  
-pybind11: Seamless operability between C++11 and Python  
+Seamless operability between C++11 and Python  
 [https://pybind11.readthedocs.io/](https://pybind11.readthedocs.io/)  
 [https://github.com/pybind/pybind11](https://github.com/pybind/pybind11)  
 30 stars per week over 409 weeks  
@@ -1714,7 +1733,7 @@ pybind11: Seamless operability between C++11 and Python
 
 
 ### [starlette](https://github.com/encode/starlette) by [encode](https://github.com/encode)  
-starlette: The little ASGI framework that shines. 🌟  
+The little ASGI framework that shines. 🌟  
 [https://www.starlette.io/](https://www.starlette.io/)  
 [https://github.com/encode/starlette](https://github.com/encode/starlette)  
 32 stars per week over 253 weeks  
@@ -1724,7 +1743,7 @@ starlette: The little ASGI framework that shines. 🌟
 
 
 ### [mxnet](https://github.com/apache/incubator-mxnet) by [apache](https://github.com/apache)  
-mxnet: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more  
+Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more  
 [https://mxnet.apache.org](https://mxnet.apache.org)  
 [https://github.com/apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)  
 48 stars per week over 418 weeks  
@@ -1734,7 +1753,7 @@ mxnet: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dyn
 
 
 ### [pytest](https://github.com/pytest-dev/pytest) by [pytest-dev](https://github.com/pytest-dev)  
-pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  
+The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  
 [https://pytest.org](https://pytest.org)  
 [https://github.com/pytest-dev/pytest](https://github.com/pytest-dev/pytest)  
 24 stars per week over 411 weeks  
@@ -1744,7 +1763,7 @@ pytest: The pytest framework makes it easy to write small tests, yet scales to s
 
 
 ### [ludwig](https://github.com/uber/ludwig) by [uber](https://github.com/uber)  
-ludwig: Data-centric declarative deep learning framework  
+Data-centric declarative deep learning framework  
 [http://ludwig.ai](http://ludwig.ai)  
 [https://github.com/uber/ludwig](https://github.com/uber/ludwig)  
 39 stars per week over 227 weeks  
@@ -1763,7 +1782,7 @@ YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine
 
 
 ### [cupy](https://github.com/cupy/cupy)  
-cupy: NumPy & SciPy for GPU  
+NumPy & SciPy for GPU  
 [https://cupy.dev](https://cupy.dev)  
 [https://github.com/cupy/cupy](https://github.com/cupy/cupy)  
 20 stars per week over 339 weeks  
@@ -1773,7 +1792,7 @@ cupy: NumPy & SciPy for GPU
 
 
 ### [dash](https://github.com/plotly/dash) by [plotly](https://github.com/plotly)  
-dash: Data Apps & Dashboards for Python. No JavaScript Required.  
+Data Apps & Dashboards for Python. No JavaScript Required.  
 [https://plotly.com/dash](https://plotly.com/dash)  
 [https://github.com/plotly/dash](https://github.com/plotly/dash)  
 44 stars per week over 421 weeks  
@@ -1783,7 +1802,7 @@ dash: Data Apps & Dashboards for Python. No JavaScript Required.
 
 
 ### [httpx](https://github.com/encode/httpx) by [encode](https://github.com/encode)  
-httpx: A next generation HTTP client for Python. 🦋  
+A next generation HTTP client for Python. 🦋  
 [https://www.python-httpx.org/](https://www.python-httpx.org/)  
 [https://github.com/encode/httpx](https://github.com/encode/httpx)  
 48 stars per week over 213 weeks  
@@ -1803,7 +1822,7 @@ CodeGeeX: An Open Multilingual Code Generation Model
 
 
 ### [kornia](https://github.com/kornia/kornia)  
-kornia: Differentiable Computer Vision Library  
+Differentiable Computer Vision Library  
 [https://kornia.github.io/kornia/](https://kornia.github.io/kornia/)  
 [https://github.com/kornia/kornia](https://github.com/kornia/kornia)  
 33 stars per week over 245 weeks  
@@ -1822,7 +1841,7 @@ Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Rest
 
 
 ### [plotly.py](https://github.com/plotly/plotly.py) by [plotly](https://github.com/plotly)  
-plotly.py: The interactive graphing library for Python :sparkles: This project now includes Plotly Express!  
+The interactive graphing library for Python :sparkles: This project now includes Plotly Express!  
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
 27 stars per week over 493 weeks  
@@ -1841,7 +1860,7 @@ PyTorch3D is FAIR's library of reusable components for deep learning with 3D dat
 
 
 ### [GPT-4-LLM](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm) by [instruction-tuning-with-gpt-4](https://github.com/instruction-tuning-with-gpt-4)  
-GPT-4-LLM: Instruction Tuning with GPT-4  
+Instruction Tuning with GPT-4  
 [https://instruction-tuning-with-gpt-4.github.io/](https://instruction-tuning-with-gpt-4.github.io/)  
 [https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm)  
 552 stars per week over 4 weeks  
@@ -1851,7 +1870,7 @@ GPT-4-LLM: Instruction Tuning with GPT-4
 
 
 ### [marqo](https://github.com/marqo-ai/marqo) by [marqo-ai](https://github.com/marqo-ai)  
-marqo: Vector search for humans.  
+Vector search for humans.  
 [https://www.marqo.ai/](https://www.marqo.ai/)  
 [https://github.com/marqo-ai/marqo](https://github.com/marqo-ai/marqo)  
 72 stars per week over 39 weeks  
@@ -1871,7 +1890,7 @@ NeMo: a toolkit for conversational AI
 
 
 ### [avatarify-python](https://github.com/alievk/avatarify-python) by [alievk](https://github.com/alievk)  
-avatarify-python: Avatars for Zoom, Skype and other video-conferencing apps.  
+Avatars for Zoom, Skype and other video-conferencing apps.  
 [https://github.com/alievk/avatarify-python](https://github.com/alievk/avatarify-python)  
 97 stars per week over 160 weeks  
 15,604 stars, 2,539 forks, 310 watches  
@@ -1879,7 +1898,7 @@ avatarify-python: Avatars for Zoom, Skype and other video-conferencing apps.
 
 
 ### [pycaret](https://github.com/pycaret/pycaret)  
-pycaret: An open-source, low-code machine learning library in Python  
+An open-source, low-code machine learning library in Python  
 [https://www.pycaret.org](https://www.pycaret.org)  
 [https://github.com/pycaret/pycaret](https://github.com/pycaret/pycaret)  
 40 stars per week over 180 weeks  
@@ -1889,7 +1908,7 @@ pycaret: An open-source, low-code machine learning library in Python
 
 
 ### [deck.gl](https://github.com/visgl/deck.gl) by [visgl](https://github.com/visgl)  
-deck.gl: WebGL2 powered visualization framework  
+WebGL2 powered visualization framework  
 [https://deck.gl](https://deck.gl)  
 [https://github.com/visgl/deck.gl](https://github.com/visgl/deck.gl)  
 28 stars per week over 385 weeks  
@@ -1899,7 +1918,7 @@ deck.gl: WebGL2 powered visualization framework
 
 
 ### [datasette](https://github.com/simonw/datasette) by [simonw](https://github.com/simonw)  
-datasette: An open source multi-tool for exploring and publishing data  
+An open source multi-tool for exploring and publishing data  
 [https://datasette.io](https://datasette.io)  
 [https://github.com/simonw/datasette](https://github.com/simonw/datasette)  
 26 stars per week over 288 weeks  
@@ -1909,7 +1928,7 @@ datasette: An open source multi-tool for exploring and publishing data
 
 
 ### [dalle-mini](https://github.com/borisdayma/dalle-mini) by [borisdayma](https://github.com/borisdayma)  
-dalle-mini: DALL·E Mini - Generate images from a text prompt  
+DALL·E Mini - Generate images from a text prompt  
 [https://www.craiyon.com](https://www.craiyon.com)  
 [https://github.com/borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)  
 146 stars per week over 96 weeks  
@@ -1918,7 +1937,7 @@ dalle-mini: DALL·E Mini - Generate images from a text prompt
 
 
 ### [Pillow](https://github.com/python-pillow/pillow) by [python-pillow](https://github.com/python-pillow)  
-Pillow: Python Imaging Library (Fork)  
+Python Imaging Library (Fork)  
 [https://python-pillow.org](https://python-pillow.org)  
 [https://github.com/python-pillow/pillow](https://github.com/python-pillow/pillow)  
 19 stars per week over 562 weeks  
@@ -1928,7 +1947,7 @@ Pillow: Python Imaging Library (Fork)
 
 
 ### [serverless-application-model](https://github.com/aws/serverless-application-model) by [aws](https://github.com/aws)  
-serverless-application-model: The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.  
+The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.  
 [https://aws.amazon.com/serverless/sam](https://aws.amazon.com/serverless/sam)  
 [https://github.com/aws/serverless-application-model](https://github.com/aws/serverless-application-model)  
 26 stars per week over 342 weeks  
@@ -1948,7 +1967,7 @@ Modin: Scale your Pandas workflows by changing a single line of code
 
 
 ### [vit-pytorch](https://github.com/lucidrains/vit-pytorch) by [lucidrains](https://github.com/lucidrains)  
-vit-pytorch: Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  
+Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  
 [https://github.com/lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch)  
 103 stars per week over 135 weeks  
 13,961 stars, 2,321 forks, 136 watches  
@@ -1957,7 +1976,7 @@ vit-pytorch: Implementation of Vision Transformer, a simple way to achieve SOTA 
 
 
 ### [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) by [aws](https://github.com/aws)  
-aws-sdk-pandas: pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).  
+pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).  
 [https://aws-sdk-pandas.readthedocs.io](https://aws-sdk-pandas.readthedocs.io)  
 [https://github.com/aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas)  
 15 stars per week over 218 weeks  
@@ -1977,7 +1996,7 @@ MicroPython - a lean and efficient Python implementation for microcontrollers an
 
 
 ### [clip-as-service](https://github.com/jina-ai/clip-as-service) by [jina-ai](https://github.com/jina-ai)  
-clip-as-service: 🏄 Embed/reason/rank images and sentences with CLIP models  
+🏄 Embed/reason/rank images and sentences with CLIP models  
 [https://clip-as-service.jina.ai](https://clip-as-service.jina.ai)  
 [https://github.com/jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)  
 49 stars per week over 233 weeks  
@@ -1987,7 +2006,7 @@ clip-as-service: 🏄 Embed/reason/rank images and sentences with CLIP models
 
 
 ### [numba](https://github.com/numba/numba)  
-numba: NumPy aware dynamic Python compiler using LLVM  
+NumPy aware dynamic Python compiler using LLVM  
 [http://numba.pydata.org/](http://numba.pydata.org/)  
 [https://github.com/numba/numba](https://github.com/numba/numba)  
 14 stars per week over 582 weeks  
@@ -1997,7 +2016,7 @@ numba: NumPy aware dynamic Python compiler using LLVM
 
 
 ### [pyxel](https://github.com/kitao/pyxel) by [kitao](https://github.com/kitao)  
-pyxel: A retro game engine for Python  
+A retro game engine for Python  
 [https://github.com/kitao/pyxel](https://github.com/kitao/pyxel)  
 46 stars per week over 256 weeks  
 11,811 stars, 752 forks, 229 watches  
@@ -2015,7 +2034,7 @@ Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Py
 
 
 ### [pylint](https://github.com/pycqa/pylint) by [pycqa](https://github.com/pycqa)  
-pylint: It's not just a linter that annoys you!  
+It's not just a linter that annoys you!  
 [https://pylint.readthedocs.io/en/latest/](https://pylint.readthedocs.io/en/latest/)  
 [https://github.com/pycqa/pylint](https://github.com/pycqa/pylint)  
 12 stars per week over 386 weeks  
@@ -2025,7 +2044,7 @@ pylint: It's not just a linter that annoys you!
 
 
 ### [sqlmodel](https://github.com/tiangolo/sqlmodel) by [tiangolo](https://github.com/tiangolo)  
-sqlmodel: SQL databases in Python, designed for simplicity, compatibility, and robustness.  
+SQL databases in Python, designed for simplicity, compatibility, and robustness.  
 [https://sqlmodel.tiangolo.com/](https://sqlmodel.tiangolo.com/)  
 [https://github.com/tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)  
 110 stars per week over 88 weeks  
@@ -2045,7 +2064,7 @@ Tornado is a Python web framework and asynchronous networking library, originall
 
 
 ### [mamba](https://github.com/mamba-org/mamba) by [mamba-org](https://github.com/mamba-org)  
-mamba: The Fast Cross-Platform Package Manager  
+The Fast Cross-Platform Package Manager  
 [https://mamba.readthedocs.io](https://mamba.readthedocs.io)  
 [https://github.com/mamba-org/mamba](https://github.com/mamba-org/mamba)  
 21 stars per week over 217 weeks  
@@ -2063,7 +2082,7 @@ WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instruc
 
 
 ### [DearPyGui](https://github.com/hoffstadt/dearpygui) by [hoffstadt](https://github.com/hoffstadt)  
-DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
+Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
 [https://dearpygui.readthedocs.io/en/latest/](https://dearpygui.readthedocs.io/en/latest/)  
 [https://github.com/hoffstadt/dearpygui](https://github.com/hoffstadt/dearpygui)  
 66 stars per week over 153 weeks  
@@ -2073,7 +2092,7 @@ DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for 
 
 
 ### [litestar](https://github.com/starlite-api/starlite) by [starlite-api](https://github.com/starlite-api)  
-litestar: Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs  
+Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs  
 [https://litestar.dev/](https://litestar.dev/)  
 [https://github.com/starlite-api/starlite](https://github.com/starlite-api/starlite)  
 28 stars per week over 73 weeks  
@@ -2083,7 +2102,7 @@ litestar: Light, Flexible and Extensible ASGI API framework | Effortlessly Build
 
 
 ### [yfinance](https://github.com/ranaroussi/yfinance) by [ranaroussi](https://github.com/ranaroussi)  
-yfinance: Download market data from Yahoo! Finance's API  
+Download market data from Yahoo! Finance's API  
 [https://aroussi.com/post/python-yahoo-finance](https://aroussi.com/post/python-yahoo-finance)  
 [https://github.com/ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)  
 30 stars per week over 311 weeks  
@@ -2093,7 +2112,7 @@ yfinance: Download market data from Yahoo! Finance's API
 
 
 ### [gpt-neox](https://github.com/eleutherai/gpt-neox) by [eleutherai](https://github.com/eleutherai)  
-gpt-neox: An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.  
+An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.  
 [https://github.com/eleutherai/gpt-neox](https://github.com/eleutherai/gpt-neox)  
 42 stars per week over 123 weeks  
 5,241 stars, 733 forks, 115 watches  
@@ -2102,7 +2121,7 @@ gpt-neox: An implementation of model parallel autoregressive transformers on GPU
 
 
 ### [pyinstaller](https://github.com/pyinstaller/pyinstaller)  
-pyinstaller: Freeze (package) Python programs into stand-alone executables  
+Freeze (package) Python programs into stand-alone executables  
 [http://www.pyinstaller.org](http://www.pyinstaller.org)  
 [https://github.com/pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)  
 17 stars per week over 597 weeks  
@@ -2112,7 +2131,7 @@ pyinstaller: Freeze (package) Python programs into stand-alone executables
 
 
 ### [dbt-core](https://github.com/dbt-labs/dbt-core) by [dbt-labs](https://github.com/dbt-labs)  
-dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  
+dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.  
 [https://getdbt.com](https://getdbt.com)  
 [https://github.com/dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)  
 18 stars per week over 373 weeks  
@@ -2122,7 +2141,7 @@ dbt-core: dbt enables data analysts and engineers to transform their data using 
 
 
 ### [kivy](https://github.com/kivy/kivy)  
-kivy: Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS  
+Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS  
 [https://kivy.org](https://kivy.org)  
 [https://github.com/kivy/kivy](https://github.com/kivy/kivy)  
 24 stars per week over 652 weeks  
@@ -2148,7 +2167,7 @@ openlm-research/open_llama
 
 
 ### [BERTopic](https://github.com/maartengr/bertopic) by [maartengr](https://github.com/maartengr)  
-BERTopic: Leveraging BERT and c-TF-IDF to create easily interpretable topics.   
+Leveraging BERT and c-TF-IDF to create easily interpretable topics.   
 [https://maartengr.github.io/BERTopic/](https://maartengr.github.io/BERTopic/)  
 [https://github.com/maartengr/bertopic](https://github.com/maartengr/bertopic)  
 30 stars per week over 136 weeks  
@@ -2158,7 +2177,7 @@ BERTopic: Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 
 
 ### [sqlmap](https://github.com/sqlmapproject/sqlmap) by [sqlmapproject](https://github.com/sqlmapproject)  
-sqlmap: Automatic SQL injection and database takeover tool  
+Automatic SQL injection and database takeover tool  
 [http://sqlmap.org](http://sqlmap.org)  
 [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)  
 47 stars per week over 566 weeks  
@@ -2168,7 +2187,7 @@ sqlmap: Automatic SQL injection and database takeover tool
 
 
 ### [recommenders](https://github.com/microsoft/recommenders) by [microsoft](https://github.com/microsoft)  
-recommenders: Best Practices on Recommendation Systems  
+Best Practices on Recommendation Systems  
 [https://microsoft-recommenders.readthedocs.io/en/latest/](https://microsoft-recommenders.readthedocs.io/en/latest/)  
 [https://github.com/microsoft/recommenders](https://github.com/microsoft/recommenders)  
 64 stars per week over 241 weeks  
@@ -2178,7 +2197,7 @@ recommenders: Best Practices on Recommendation Systems
 
 
 ### [deeplake](https://github.com/activeloopai/hub) by [activeloopai](https://github.com/activeloopai)  
-deeplake: AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep Learning. Store, query, version, & visualize any data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai  
+AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep Learning. Store, query, version, & visualize any data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai  
 [https://activeloop.ai](https://activeloop.ai)  
 [https://github.com/activeloopai/hub](https://github.com/activeloopai/hub)  
 29 stars per week over 195 weeks  
@@ -2188,7 +2207,7 @@ deeplake: AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep
 
 
 ### [redis-py](https://github.com/redis/redis-py) by [redis](https://github.com/redis)  
-redis-py: Redis Python Client  
+Redis Python Client  
 [https://github.com/redis/redis-py](https://github.com/redis/redis-py)  
 16 stars per week over 704 weeks  
 11,431 stars, 2,365 forks, 326 watches  
@@ -2197,7 +2216,7 @@ redis-py: Redis Python Client
 
 
 ### [ml-agents](https://github.com/unity-technologies/ml-agents) by [unity-technologies](https://github.com/unity-technologies)  
-ml-agents: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
 [https://unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
 [https://github.com/unity-technologies/ml-agents](https://github.com/unity-technologies/ml-agents)  
 49 stars per week over 295 weeks  
@@ -2217,7 +2236,7 @@ CircuitPython - a Python implementation for teaching coding with microcontroller
 
 
 ### [pre-commit](https://github.com/pre-commit/pre-commit)  
-pre-commit: A framework for managing and maintaining multi-language pre-commit hooks.  
+A framework for managing and maintaining multi-language pre-commit hooks.  
 [https://pre-commit.com](https://pre-commit.com)  
 [https://github.com/pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)  
 21 stars per week over 477 weeks  
@@ -2227,7 +2246,7 @@ pre-commit: A framework for managing and maintaining multi-language pre-commit h
 
 
 ### [networkx](https://github.com/networkx/networkx)  
-networkx: Network Analysis in Python  
+Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
 19 stars per week over 660 weeks  
@@ -2237,7 +2256,7 @@ networkx: Network Analysis in Python
 
 
 ### [jupyterlite](https://github.com/jupyterlite/jupyterlite)  
-jupyterlite: Wasm powered Jupyter running in the browser 💡  
+Wasm powered Jupyter running in the browser 💡  
 [https://jupyterlite.rtfd.io/en/latest/try/lab](https://jupyterlite.rtfd.io/en/latest/try/lab)  
 [https://github.com/jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)  
 29 stars per week over 110 weeks  
@@ -2247,7 +2266,7 @@ jupyterlite: Wasm powered Jupyter running in the browser 💡
 
 
 ### [altair](https://github.com/altair-viz/altair) by [altair-viz](https://github.com/altair-viz)  
-altair: Declarative statistical visualization library for Python  
+Declarative statistical visualization library for Python  
 [https://altair-viz.github.io/](https://altair-viz.github.io/)  
 [https://github.com/altair-viz/altair](https://github.com/altair-viz/altair)  
 20 stars per week over 398 weeks  
@@ -2262,11 +2281,11 @@ Flax is a neural network library for JAX that is designed for flexibility.
 24 stars per week over 173 weeks  
 4,295 stars, 499 forks, 78 watches  
 [ml-dl](categories/ml-dl.md) category, created 2020-01-10, last commit 2023-05-05, main language Python  
-<sub><sup>jax</sup></sub>
+<sub><sup>jax, neural-network</sup></sub>
 
 
 ### [PySnooper](https://github.com/cool-rr/pysnooper) by [cool-rr](https://github.com/cool-rr)  
-PySnooper: Never use print for debugging again  
+Never use print for debugging again  
 [https://github.com/cool-rr/pysnooper](https://github.com/cool-rr/pysnooper)  
 74 stars per week over 211 weeks  
 15,836 stars, 940 forks, 234 watches  
@@ -2275,7 +2294,7 @@ PySnooper: Never use print for debugging again
 
 
 ### [composer](https://github.com/mosaicml/composer) by [mosaicml](https://github.com/mosaicml)  
-composer: Train neural networks up to 7x faster  
+Train neural networks up to 7x faster  
 [http://docs.mosaicml.com](http://docs.mosaicml.com)  
 [https://github.com/mosaicml/composer](https://github.com/mosaicml/composer)  
 40 stars per week over 81 weeks  
@@ -2285,7 +2304,7 @@ composer: Train neural networks up to 7x faster
 
 
 ### [spack](https://github.com/spack/spack)  
-spack: A flexible package manager that supports multiple versions, configurations, platforms, and compilers.  
+A flexible package manager that supports multiple versions, configurations, platforms, and compilers.  
 [https://spack.io](https://spack.io)  
 [https://github.com/spack/spack](https://github.com/spack/spack)  
 6.97 stars per week over 486 weeks  
@@ -2295,16 +2314,17 @@ spack: A flexible package manager that supports multiple versions, configuration
 
 
 ### [sentence-transformers](https://github.com/ukplab/sentence-transformers) by [ukplab](https://github.com/ukplab)  
-sentence-transformers: Multilingual Sentence & Image Embeddings with BERT  
+Multilingual Sentence & Image Embeddings with BERT  
 [https://www.SBERT.net](https://www.SBERT.net)  
 [https://github.com/ukplab/sentence-transformers](https://github.com/ukplab/sentence-transformers)  
 52 stars per week over 197 weeks  
 10,318 stars, 1,968 forks, 121 watches  
 [nlp](categories/nlp.md) category, created 2019-07-24, last commit 2023-04-28, main language Python  
+<sub><sup>information-retrieval, semantic-search, sentence-embeddings</sup></sub>
 
 
 ### [mmcv](https://github.com/open-mmlab/mmcv) by [open-mmlab](https://github.com/open-mmlab)  
-mmcv: OpenMMLab Computer Vision Foundation  
+OpenMMLab Computer Vision Foundation  
 [https://mmcv.readthedocs.io/en/latest/](https://mmcv.readthedocs.io/en/latest/)  
 [https://github.com/open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)  
 20 stars per week over 245 weeks  
@@ -2313,7 +2333,7 @@ mmcv: OpenMMLab Computer Vision Foundation
 
 
 ### [sphinx](https://github.com/sphinx-doc/sphinx) by [sphinx-doc](https://github.com/sphinx-doc)  
-sphinx: The Sphinx documentation generator  
+The Sphinx documentation generator  
 [https://www.sphinx-doc.org/](https://www.sphinx-doc.org/)  
 [https://github.com/sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)  
 12 stars per week over 435 weeks  
@@ -2323,7 +2343,7 @@ sphinx: The Sphinx documentation generator
 
 
 ### [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) by [nateraw](https://github.com/nateraw)  
-stable-diffusion-videos: Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts  
+Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts  
 [https://github.com/nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)  
 76 stars per week over 34 weeks  
 2,669 stars, 260 forks, 35 watches  
@@ -2332,7 +2352,7 @@ stable-diffusion-videos: Create 🔥 videos with Stable Diffusion by exploring t
 
 
 ### [ParlAI](https://github.com/facebookresearch/parlai) by [facebookresearch](https://github.com/facebookresearch)  
-ParlAI: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.  
+A framework for training and evaluating AI models on a variety of openly available dialogue datasets.  
 [https://parl.ai](https://parl.ai)  
 [https://github.com/facebookresearch/parlai](https://github.com/facebookresearch/parlai)  
 31 stars per week over 314 weeks  
@@ -2341,7 +2361,7 @@ ParlAI: A framework for training and evaluating AI models on a variety of openly
 
 
 ### [robotframework](https://github.com/robotframework/robotframework)  
-robotframework: Generic automation framework for acceptance testing and RPA  
+Generic automation framework for acceptance testing and RPA  
 [http://robotframework.org](http://robotframework.org)  
 [https://github.com/robotframework/robotframework](https://github.com/robotframework/robotframework)  
 17 stars per week over 462 weeks  
@@ -2351,7 +2371,7 @@ robotframework: Generic automation framework for acceptance testing and RPA
 
 
 ### [seaborn](https://github.com/mwaskom/seaborn) by [mwaskom](https://github.com/mwaskom)  
-seaborn: Statistical data visualization in Python  
+Statistical data visualization in Python  
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 [https://github.com/mwaskom/seaborn](https://github.com/mwaskom/seaborn)  
 18 stars per week over 567 weeks  
@@ -2361,7 +2381,7 @@ seaborn: Statistical data visualization in Python
 
 
 ### [feast](https://github.com/feast-dev/feast) by [feast-dev](https://github.com/feast-dev)  
-feast: Feature Store for Machine Learning  
+Feature Store for Machine Learning  
 [https://feast.dev](https://feast.dev)  
 [https://github.com/feast-dev/feast](https://github.com/feast-dev/feast)  
 18 stars per week over 229 weeks  
@@ -2371,7 +2391,7 @@ feast: Feature Store for Machine Learning
 
 
 ### [PythonDataScienceHandbook](https://github.com/jakevdp/pythondatasciencehandbook) by [jakevdp](https://github.com/jakevdp)  
-PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks  
+Python Data Science Handbook: full text in Jupyter Notebooks  
 [http://jakevdp.github.io/PythonDataScienceHandbook](http://jakevdp.github.io/PythonDataScienceHandbook)  
 [https://github.com/jakevdp/pythondatasciencehandbook](https://github.com/jakevdp/pythondatasciencehandbook)  
 108 stars per week over 351 weeks  
@@ -2381,7 +2401,7 @@ PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter No
 
 
 ### [albumentations](https://github.com/albumentations-team/albumentations) by [albumentations-team](https://github.com/albumentations-team)  
-albumentations: Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125  
+Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125  
 [https://albumentations.ai](https://albumentations.ai)  
 [https://github.com/albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)  
 46 stars per week over 256 weeks  
@@ -2400,7 +2420,7 @@ DeepFaceLab is the leading software for creating deepfakes.
 
 
 ### [notebooks](https://github.com/roboflow/notebooks) by [roboflow](https://github.com/roboflow)  
-notebooks: Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.  
+Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.  
 [https://roboflow.com/models](https://roboflow.com/models)  
 [https://github.com/roboflow/notebooks](https://github.com/roboflow/notebooks)  
 86 stars per week over 24 weeks  
@@ -2410,7 +2430,7 @@ notebooks: Examples and tutorials on using SOTA computer vision models and techn
 
 
 ### [gensim](https://github.com/rare-technologies/gensim) by [rare-technologies](https://github.com/rare-technologies)  
-gensim: Topic Modelling for Humans  
+Topic Modelling for Humans  
 [https://radimrehurek.com/gensim](https://radimrehurek.com/gensim)  
 [https://github.com/rare-technologies/gensim](https://github.com/rare-technologies/gensim)  
 22 stars per week over 638 weeks  
@@ -2420,7 +2440,7 @@ gensim: Topic Modelling for Humans
 
 
 ### [boto3](https://github.com/boto/boto3) by [boto](https://github.com/boto)  
-boto3: AWS SDK for Python  
+AWS SDK for Python  
 [https://aws.amazon.com/sdk-for-python/](https://aws.amazon.com/sdk-for-python/)  
 [https://github.com/boto/boto3](https://github.com/boto/boto3)  
 17 stars per week over 448 weeks  
@@ -2430,7 +2450,7 @@ boto3: AWS SDK for Python
 
 
 ### [pymc](https://github.com/pymc-devs/pymc3) by [pymc-devs](https://github.com/pymc-devs)  
-pymc: Bayesian Modeling in Python  
+Bayesian Modeling in Python  
 [https://docs.pymc.io/](https://docs.pymc.io/)  
 [https://github.com/pymc-devs/pymc3](https://github.com/pymc-devs/pymc3)  
 10 stars per week over 730 weeks  
@@ -2440,7 +2460,7 @@ pymc: Bayesian Modeling in Python
 
 
 ### [metaflow](https://github.com/netflix/metaflow) by [netflix](https://github.com/netflix)  
-metaflow: :rocket: Build and manage real-life data science projects with ease!  
+:rocket: Build and manage real-life data science projects with ease!  
 [https://metaflow.org](https://metaflow.org)  
 [https://github.com/netflix/metaflow](https://github.com/netflix/metaflow)  
 35 stars per week over 189 weeks  
@@ -2450,7 +2470,7 @@ metaflow: :rocket: Build and manage real-life data science projects with ease!
 
 
 ### [setfit](https://github.com/huggingface/setfit) by [huggingface](https://github.com/huggingface)  
-setfit: Efficient few-shot learning with Sentence Transformers  
+Efficient few-shot learning with Sentence Transformers  
 [https://github.com/huggingface/setfit](https://github.com/huggingface/setfit)  
 30 stars per week over 44 weeks  
 1,361 stars, 147 forks, 19 watches  
@@ -2459,7 +2479,7 @@ setfit: Efficient few-shot learning with Sentence Transformers
 
 
 ### [cython](https://github.com/cython/cython)  
-cython: The most widely used Python to C compiler  
+The most widely used Python to C compiler  
 [https://cython.org](https://cython.org)  
 [https://github.com/cython/cython](https://github.com/cython/cython)  
 12 stars per week over 650 weeks  
@@ -2469,7 +2489,7 @@ cython: The most widely used Python to C compiler
 
 
 ### [mmagic](https://github.com/open-mmlab/mmediting) by [open-mmlab](https://github.com/open-mmlab)  
-mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, image/video restoration/enhancement, etc.  
+OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, image/video restoration/enhancement, etc.  
 [https://mmagic.readthedocs.io/en/latest/](https://mmagic.readthedocs.io/en/latest/)  
 [https://github.com/open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)  
 24 stars per week over 193 weeks  
@@ -2479,7 +2499,7 @@ mmagic: OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Tool
 
 
 ### [MONAI](https://github.com/project-monai/monai) by [project-monai](https://github.com/project-monai)  
-MONAI: AI Toolkit for Healthcare Imaging  
+AI Toolkit for Healthcare Imaging  
 [https://monai.io/](https://monai.io/)  
 [https://github.com/project-monai/monai](https://github.com/project-monai/monai)  
 21 stars per week over 186 weeks  
@@ -2489,7 +2509,7 @@ MONAI: AI Toolkit for Healthcare Imaging
 
 
 ### [musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) by [lucidrains](https://github.com/lucidrains)  
-musiclm-pytorch: Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch  
+Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch  
 [https://github.com/lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch)  
 156 stars per week over 14 weeks  
 2,233 stars, 154 forks, 91 watches  
@@ -2498,7 +2518,7 @@ musiclm-pytorch: Implementation of MusicLM, Google's new SOTA model for music ge
 
 
 ### [darts](https://github.com/unit8co/darts) by [unit8co](https://github.com/unit8co)  
-darts: A python library for user-friendly forecasting and anomaly detection on time series.  
+A python library for user-friendly forecasting and anomaly detection on time series.  
 [https://unit8co.github.io/darts/](https://unit8co.github.io/darts/)  
 [https://github.com/unit8co/darts](https://github.com/unit8co/darts)  
 24 stars per week over 242 weeks  
@@ -2508,7 +2528,7 @@ darts: A python library for user-friendly forecasting and anomaly detection on t
 
 
 ### [pyTelegramBotAPI](https://github.com/eternnoir/pytelegrambotapi) by [eternnoir](https://github.com/eternnoir)  
-pyTelegramBotAPI: Python Telegram bot api.  
+Python Telegram bot api.  
 [https://github.com/eternnoir/pytelegrambotapi](https://github.com/eternnoir/pytelegrambotapi)  
 16 stars per week over 410 weeks  
 6,803 stars, 1,796 forks, 220 watches  
@@ -2517,7 +2537,7 @@ pyTelegramBotAPI: Python Telegram bot api.
 
 
 ### [unilm](https://github.com/microsoft/unilm) by [microsoft](https://github.com/microsoft)  
-unilm: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities  
+Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities  
 [https://aka.ms/nlpagi](https://aka.ms/nlpagi)  
 [https://github.com/microsoft/unilm](https://github.com/microsoft/unilm)  
 61 stars per week over 197 weeks  
@@ -2527,7 +2547,7 @@ unilm: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Mod
 
 
 ### [pedalboard](https://github.com/spotify/pedalboard) by [spotify](https://github.com/spotify)  
-pedalboard: 🎛 🔊 A Python library for working with audio.  
+🎛 🔊 A Python library for working with audio.  
 [https://github.com/spotify/pedalboard](https://github.com/spotify/pedalboard)  
 43 stars per week over 95 weeks  
 4,162 stars, 182 forks, 55 watches  
@@ -2536,7 +2556,7 @@ pedalboard: 🎛 🔊 A Python library for working with audio.
 
 
 ### [wandb](https://github.com/wandb/client)  
-wandb: 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.  
+🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.  
 [https://wandb.ai](https://wandb.ai)  
 [https://github.com/wandb/client](https://github.com/wandb/client)  
 18 stars per week over 319 weeks  
@@ -2546,7 +2566,7 @@ wandb: 🔥 A tool for visualizing and tracking your machine learning experiment
 
 
 ### [tensor2tensor](https://github.com/tensorflow/tensor2tensor) by [tensorflow](https://github.com/tensorflow)  
-tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.  
+Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.  
 [https://github.com/tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)  
 44 stars per week over 307 weeks  
 13,537 stars, 3,252 forks, 459 watches  
@@ -2555,7 +2575,7 @@ tensor2tensor: Library of deep learning models and datasets designed to make dee
 
 
 ### [uvicorn](https://github.com/encode/uvicorn) by [encode](https://github.com/encode)  
-uvicorn: An ASGI web server, for Python. 🦄  
+An ASGI web server, for Python. 🦄  
 [https://www.uvicorn.org/](https://www.uvicorn.org/)  
 [https://github.com/encode/uvicorn](https://github.com/encode/uvicorn)  
 21 stars per week over 309 weeks  
@@ -2565,7 +2585,7 @@ uvicorn: An ASGI web server, for Python. 🦄
 
 
 ### [astropy](https://github.com/astropy/astropy)  
-astropy: Astronomy and astrophysics core library  
+Astronomy and astrophysics core library  
 [https://www.astropy.org](https://www.astropy.org)  
 [https://github.com/astropy/astropy](https://github.com/astropy/astropy)  
 6.12 stars per week over 615 weeks  
@@ -2585,7 +2605,7 @@ Hypothesis is a powerful, flexible, and easy to use library for property-based t
 
 
 ### [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) by [twitter](https://github.com/twitter)  
-the-algorithm-ml: Source code for Twitter's Recommendation Algorithm  
+Source code for Twitter's Recommendation Algorithm  
 [https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
 [https://github.com/twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)  
 1602 stars per week over 5 weeks  
@@ -2594,7 +2614,7 @@ the-algorithm-ml: Source code for Twitter's Recommendation Algorithm
 
 
 ### [data-diff](https://github.com/datafold/data-diff) by [datafold](https://github.com/datafold)  
-data-diff: Compare tables within or across databases  
+Compare tables within or across databases  
 [https://www.datafold.com/blog/open-source-data-diff](https://www.datafold.com/blog/open-source-data-diff)  
 [https://github.com/datafold/data-diff](https://github.com/datafold/data-diff)  
 38 stars per week over 60 weeks  
@@ -2604,7 +2624,7 @@ data-diff: Compare tables within or across databases
 
 
 ### [django-ninja](https://github.com/vitalik/django-ninja) by [vitalik](https://github.com/vitalik)  
-django-ninja: 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs  
+💨  Fast, Async-ready, Openapi, type hints based framework for building APIs  
 [https://django-ninja.rest-framework.com](https://django-ninja.rest-framework.com)  
 [https://github.com/vitalik/django-ninja](https://github.com/vitalik/django-ninja)  
 28 stars per week over 154 weeks  
@@ -2614,7 +2634,7 @@ django-ninja: 💨  Fast, Async-ready, Openapi, type hints based framework for b
 
 
 ### [mojo](https://github.com/modularml/mojo) by [modularml](https://github.com/modularml)  
-mojo: The Mojo Programming Language  
+The Mojo Programming Language  
 [https://github.com/modularml/mojo](https://github.com/modularml/mojo)  
 2373 stars per week over 1 weeks  
 3,052 stars, 50 forks, 105 watches  
@@ -2632,7 +2652,7 @@ GDAL is an open source MIT licensed translator library for raster and vector geo
 
 
 ### [stability-sdk](https://github.com/stability-ai/stability-sdk) by [stability-ai](https://github.com/stability-ai)  
-stability-sdk: SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)  
+SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)  
 [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)  
 [https://github.com/stability-ai/stability-sdk](https://github.com/stability-ai/stability-sdk)  
 58 stars per week over 36 weeks  
@@ -2652,7 +2672,7 @@ Open3D: A Modern Library for 3D Data Processing
 
 
 ### [strawberry](https://github.com/strawberry-graphql/strawberry) by [strawberry-graphql](https://github.com/strawberry-graphql)  
-strawberry: A GraphQL library for Python that leverages type annotations 🍓  
+A GraphQL library for Python that leverages type annotations 🍓  
 [https://strawberry.rocks](https://strawberry.rocks)  
 [https://github.com/strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry)  
 13 stars per week over 228 weeks  
@@ -2662,7 +2682,7 @@ strawberry: A GraphQL library for Python that leverages type annotations 🍓
 
 
 ### [prophet](https://github.com/facebook/prophet) by [facebook](https://github.com/facebook)  
-prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.  
+Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.  
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
 [https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
 46 stars per week over 337 weeks  
@@ -2672,7 +2692,7 @@ prophet: Tool for producing high quality forecasts for time series data that has
 
 
 ### [tqdm](https://github.com/tqdm/tqdm)  
-tqdm: A Fast, Extensible Progress Bar for Python and CLI  
+A Fast, Extensible Progress Bar for Python and CLI  
 [https://tqdm.github.io](https://tqdm.github.io)  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 59 stars per week over 413 weeks  
@@ -2682,7 +2702,7 @@ tqdm: A Fast, Extensible Progress Bar for Python and CLI
 
 
 ### [loguru](https://github.com/delgan/loguru) by [delgan](https://github.com/delgan)  
-loguru: Python logging made (stupidly) simple  
+Python logging made (stupidly) simple  
 [https://github.com/delgan/loguru](https://github.com/delgan/loguru)  
 49 stars per week over 298 weeks  
 14,833 stars, 603 forks, 126 watches  
@@ -2691,7 +2711,7 @@ loguru: Python logging made (stupidly) simple
 
 
 ### [sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) by [aws](https://github.com/aws)  
-sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker  
+A library for training and deploying machine learning models on Amazon SageMaker  
 [https://sagemaker.readthedocs.io/](https://sagemaker.readthedocs.io/)  
 [https://github.com/aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk)  
 6.4 stars per week over 285 weeks  
@@ -2701,7 +2721,7 @@ sagemaker-python-sdk: A library for training and deploying machine learning mode
 
 
 ### [river](https://github.com/online-ml/river) by [online-ml](https://github.com/online-ml)  
-river: 🌊 Online machine learning in Python  
+🌊 Online machine learning in Python  
 [https://riverml.xyz](https://riverml.xyz)  
 [https://github.com/online-ml/river](https://github.com/online-ml/river)  
 18 stars per week over 223 weeks  
@@ -2711,7 +2731,7 @@ river: 🌊 Online machine learning in Python
 
 
 ### [txtai](https://github.com/neuml/txtai) by [neuml](https://github.com/neuml)  
-txtai: 💡 Semantic search and workflows powered by language models  
+💡 Semantic search and workflows powered by language models  
 [https://neuml.github.io/txtai](https://neuml.github.io/txtai)  
 [https://github.com/neuml/txtai](https://github.com/neuml/txtai)  
 28 stars per week over 143 weeks  
@@ -2721,7 +2741,7 @@ txtai: 💡 Semantic search and workflows powered by language models
 
 
 ### [python-docs-samples](https://github.com/googlecloudplatform/python-docs-samples) by [googlecloudplatform](https://github.com/googlecloudplatform)  
-python-docs-samples: Code samples used on cloud.google.com  
+Code samples used on cloud.google.com  
 [https://github.com/googlecloudplatform/python-docs-samples](https://github.com/googlecloudplatform/python-docs-samples)  
 15 stars per week over 417 weeks  
 6,269 stars, 6,071 forks, 320 watches  
@@ -2730,7 +2750,7 @@ python-docs-samples: Code samples used on cloud.google.com
 
 
 ### [pytube](https://github.com/pytube/pytube)  
-pytube: A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.  
+A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.  
 [https://pytube.io](https://pytube.io)  
 [https://github.com/pytube/pytube](https://github.com/pytube/pytube)  
 14 stars per week over 581 weeks  
@@ -2740,12 +2760,21 @@ pytube: A lightweight, dependency-free Python library (and command-line utility)
 
 
 ### [python-fire](https://github.com/google/python-fire) by [google](https://github.com/google)  
-python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
+Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 75 stars per week over 323 weeks  
 24,467 stars, 1,387 forks, 381 watches  
 [term](categories/term.md) category, created 2017-02-21, last commit 2023-02-13, main language Python  
 <sub><sup>cli</sup></sub>
+
+
+### [babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) by [oliveirabruno01](https://github.com/oliveirabruno01)  
+BabyAGI: an Autonomous and Self-Improving agent, or BASI  
+[https://github.com/oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi)  
+136 stars per week over 4 weeks  
+583 stars, 55 forks, 10 watches  
+[chatgpt](categories/chatgpt.md) category, created 2023-04-07, last commit 2023-04-26, main language Python  
+<sub><sup>agi, ai, autonomous-agents, chain-of-thought, program-of-thoughts</sup></sub>
 
 
 ### [prismer](https://github.com/nvlabs/prismer) by [nvlabs](https://github.com/nvlabs)  
@@ -2759,7 +2788,7 @@ The implementation of "Prismer: A Vision-Language Model with An Ensemble of Expe
 
 
 ### [einops](https://github.com/arogozhnikov/einops) by [arogozhnikov](https://github.com/arogozhnikov)  
-einops: Deep learning operations reinvented (for pytorch, tensorflow, jax and others)  
+Deep learning operations reinvented (for pytorch, tensorflow, jax and others)  
 [https://einops.rocks](https://einops.rocks)  
 [https://github.com/arogozhnikov/einops](https://github.com/arogozhnikov/einops)  
 27 stars per week over 241 weeks  
@@ -2769,7 +2798,7 @@ einops: Deep learning operations reinvented (for pytorch, tensorflow, jax and ot
 
 
 ### [click](https://github.com/pallets/click) by [pallets](https://github.com/pallets)  
-click: Python composable command line interface toolkit  
+Python composable command line interface toolkit  
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 [https://github.com/pallets/click](https://github.com/pallets/click)  
 29 stars per week over 471 weeks  
@@ -2779,7 +2808,7 @@ click: Python composable command line interface toolkit
 
 
 ### [grist-core](https://github.com/gristlabs/grist-core) by [gristlabs](https://github.com/gristlabs)  
-grist-core: Grist is the evolution of spreadsheets.  
+Grist is the evolution of spreadsheets.  
 [https://support.getgrist.com/self-managed/](https://support.getgrist.com/self-managed/)  
 [https://github.com/gristlabs/grist-core](https://github.com/gristlabs/grist-core)  
 25 stars per week over 154 weeks  
@@ -2789,7 +2818,7 @@ grist-core: Grist is the evolution of spreadsheets.
 
 
 ### [BioGPT](https://github.com/microsoft/biogpt) by [microsoft](https://github.com/microsoft)  
-microsoft/biogpt  
+microsoft/BioGPT  
 [https://github.com/microsoft/biogpt](https://github.com/microsoft/biogpt)  
 100 stars per week over 37 weeks  
 3,815 stars, 381 forks, 66 watches  
@@ -2807,7 +2836,7 @@ Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (expe
 
 
 ### [maltrail](https://github.com/stamparm/maltrail) by [stamparm](https://github.com/stamparm)  
-maltrail: Malicious traffic detection system  
+Malicious traffic detection system  
 [https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)  
 11 stars per week over 439 weeks  
 5,074 stars, 957 forks, 219 watches  
@@ -2826,7 +2855,7 @@ Trio – a friendly Python library for async concurrency and I/O
 
 
 ### [scikit-image](https://github.com/scikit-image/scikit-image)  
-scikit-image: Image processing in Python  
+Image processing in Python  
 [https://scikit-image.org](https://scikit-image.org)  
 [https://github.com/scikit-image/scikit-image](https://github.com/scikit-image/scikit-image)  
 8.71 stars per week over 617 weeks  
@@ -2856,7 +2885,7 @@ Pytorch Implementation for "FateZero: Fusing Attentions for Zero-shot Text-based
 
 
 ### [gluonts](https://github.com/awslabs/gluonts) by [awslabs](https://github.com/awslabs)  
-gluonts: Probabilistic time series modeling in Python  
+Probabilistic time series modeling in Python  
 [https://ts.gluon.ai](https://ts.gluon.ai)  
 [https://github.com/awslabs/gluonts](https://github.com/awslabs/gluonts)  
 16 stars per week over 207 weeks  
@@ -2866,7 +2895,7 @@ gluonts: Probabilistic time series modeling in Python
 
 
 ### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
-pyre-check: Performant type-checking for python.  
+Performant type-checking for python.  
 [https://pyre-check.org/](https://pyre-check.org/)  
 [https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
 22 stars per week over 286 weeks  
@@ -2876,7 +2905,7 @@ pyre-check: Performant type-checking for python.
 
 
 ### [ydata-profiling](https://github.com/ydataai/ydata-profiling) by [ydataai](https://github.com/ydataai)  
-ydata-profiling: Create HTML profiling reports from pandas DataFrame objects  
+Create HTML profiling reports from pandas DataFrame objects  
 [https://ydata-profiling.ydata.ai](https://ydata-profiling.ydata.ai)  
 [https://github.com/ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)  
 27 stars per week over 382 weeks  
@@ -2886,7 +2915,7 @@ ydata-profiling: Create HTML profiling reports from pandas DataFrame objects
 
 
 ### [statsforecast](https://github.com/nixtla/statsforecast) by [nixtla](https://github.com/nixtla)  
-statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.  
+Lightning ⚡️ fast forecasting with statistical and econometric models.  
 [https://nixtla.github.io/statsforecast/](https://nixtla.github.io/statsforecast/)  
 [https://github.com/nixtla/statsforecast](https://github.com/nixtla/statsforecast)  
 33 stars per week over 75 weeks  
@@ -2906,7 +2935,7 @@ DoWhy is a Python library for causal inference that supports explicit modeling a
 
 
 ### [doccano](https://github.com/doccano/doccano)  
-doccano: Open source annotation tool for machine learning practitioners.  
+Open source annotation tool for machine learning practitioners.  
 [https://doccano.herokuapp.com](https://doccano.herokuapp.com)  
 [https://github.com/doccano/doccano](https://github.com/doccano/doccano)  
 29 stars per week over 260 weeks  
@@ -2916,7 +2945,7 @@ doccano: Open source annotation tool for machine learning practitioners.
 
 
 ### [xonsh](https://github.com/xonsh/xonsh)  
-xonsh: :shell: Python-powered, cross-platform, Unix-gazing shell  
+:shell: Python-powered, cross-platform, Unix-gazing shell  
 [http://xon.sh](http://xon.sh)  
 [https://github.com/xonsh/xonsh](https://github.com/xonsh/xonsh)  
 16 stars per week over 432 weeks  
@@ -2926,7 +2955,7 @@ xonsh: :shell: Python-powered, cross-platform, Unix-gazing shell
 
 
 ### [refurb](https://github.com/dosisod/refurb) by [dosisod](https://github.com/dosisod)  
-refurb: A tool for refurbishing and modernizing Python codebases  
+A tool for refurbishing and modernizing Python codebases  
 [https://github.com/dosisod/refurb](https://github.com/dosisod/refurb)  
 54 stars per week over 40 weeks  
 2,229 stars, 45 forks, 15 watches  
@@ -2944,7 +2973,7 @@ Hydra is a framework for elegantly configuring complex applications
 
 
 ### [trl](https://github.com/lvwerra/trl) by [lvwerra](https://github.com/lvwerra)  
-trl: Train transformer language models with reinforcement learning.  
+Train transformer language models with reinforcement learning.  
 [http://hf.co/docs/trl](http://hf.co/docs/trl)  
 [https://github.com/lvwerra/trl](https://github.com/lvwerra/trl)  
 20 stars per week over 162 weeks  
@@ -2962,7 +2991,7 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs. I
 
 
 ### [AugLy](https://github.com/facebookresearch/augly) by [facebookresearch](https://github.com/facebookresearch)  
-AugLy: A data augmentations library for audio, image, text, and video.  
+A data augmentations library for audio, image, text, and video.  
 [https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)  
 [https://github.com/facebookresearch/augly](https://github.com/facebookresearch/augly)  
 47 stars per week over 99 weeks  
@@ -2971,7 +3000,7 @@ AugLy: A data augmentations library for audio, image, text, and video.
 
 
 ### [torchrec](https://github.com/pytorch/torchrec) by [pytorch](https://github.com/pytorch)  
-torchrec: Pytorch domain library for recommendation systems  
+Pytorch domain library for recommendation systems  
 [https://github.com/pytorch/torchrec](https://github.com/pytorch/torchrec)  
 14 stars per week over 94 weeks  
 1,416 stars, 253 forks, 27 watches  
@@ -2980,7 +3009,7 @@ torchrec: Pytorch domain library for recommendation systems
 
 
 ### [PythonRobotics](https://github.com/atsushisakai/pythonrobotics) by [atsushisakai](https://github.com/atsushisakai)  
-PythonRobotics: Python sample codes for robotics algorithms.  
+Python sample codes for robotics algorithms.  
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 [https://github.com/atsushisakai/pythonrobotics](https://github.com/atsushisakai/pythonrobotics)  
 49 stars per week over 371 weeks  
@@ -2990,7 +3019,7 @@ PythonRobotics: Python sample codes for robotics algorithms.
 
 
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-cookiecutter: A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
+A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
 38 stars per week over 512 weeks  
@@ -3000,7 +3029,7 @@ cookiecutter: A cross-platform command-line utility that creates projects from c
 
 
 ### [prettymaps](https://github.com/marceloprates/prettymaps) by [marceloprates](https://github.com/marceloprates)  
-prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  
+A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  
 [https://github.com/marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)  
 86 stars per week over 113 weeks  
 9,754 stars, 471 forks, 76 watches  
@@ -3019,7 +3048,7 @@ Scapy: the Python-based interactive packet manipulation program & library. Suppo
 
 
 ### [peewee](https://github.com/coleifer/peewee) by [coleifer](https://github.com/coleifer)  
-peewee: a small, expressive orm -- supports postgresql, mysql and sqlite  
+a small, expressive orm -- supports postgresql, mysql and sqlite  
 [http://docs.peewee-orm.com/](http://docs.peewee-orm.com/)  
 [https://github.com/coleifer/peewee](https://github.com/coleifer/peewee)  
 15 stars per week over 655 weeks  
@@ -3029,7 +3058,7 @@ peewee: a small, expressive orm -- supports postgresql, mysql and sqlite
 
 
 ### [cleanlab](https://github.com/cleanlab/cleanlab)  
-cleanlab: The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.  
+The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.  
 [https://cleanlab.ai](https://cleanlab.ai)  
 [https://github.com/cleanlab/cleanlab](https://github.com/cleanlab/cleanlab)  
 22 stars per week over 260 weeks  
@@ -3039,7 +3068,7 @@ cleanlab: The standard data-centric AI package for data quality and machine lear
 
 
 ### [pyro](https://github.com/pyro-ppl/pyro) by [pyro-ppl](https://github.com/pyro-ppl)  
-pyro: Deep universal probabilistic programming with Python and PyTorch  
+Deep universal probabilistic programming with Python and PyTorch  
 [http://pyro.ai](http://pyro.ai)  
 [https://github.com/pyro-ppl/pyro](https://github.com/pyro-ppl/pyro)  
 25 stars per week over 307 weeks  
@@ -3058,7 +3087,7 @@ pyro: Deep universal probabilistic programming with Python and PyTorch
 
 
 ### [audioFlux](https://github.com/libaudioflux/audioflux) by [libaudioflux](https://github.com/libaudioflux)  
-audioFlux: A library for audio and music analysis, feature extraction.  
+A library for audio and music analysis, feature extraction.  
 [https://audioflux.top](https://audioflux.top)  
 [https://github.com/libaudioflux/audioflux](https://github.com/libaudioflux/audioflux)  
 103 stars per week over 15 weeks  
@@ -3078,7 +3107,7 @@ ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager,
 
 
 ### [discoart](https://github.com/jina-ai/discoart) by [jina-ai](https://github.com/jina-ai)  
-discoart: 🪩 Create Disco Diffusion artworks in one line  
+🪩 Create Disco Diffusion artworks in one line  
 [https://github.com/jina-ai/discoart](https://github.com/jina-ai/discoart)  
 84 stars per week over 44 weeks  
 3,772 stars, 236 forks, 33 watches  
@@ -3087,7 +3116,7 @@ discoart: 🪩 Create Disco Diffusion artworks in one line
 
 
 ### [pipelines](https://github.com/kubeflow/pipelines) by [kubeflow](https://github.com/kubeflow)  
-pipelines: Machine Learning Pipelines for Kubeflow  
+Machine Learning Pipelines for Kubeflow  
 [https://www.kubeflow.org/docs/components/pipelines/](https://www.kubeflow.org/docs/components/pipelines/)  
 [https://github.com/kubeflow/pipelines](https://github.com/kubeflow/pipelines)  
 12 stars per week over 260 weeks  
@@ -3097,7 +3126,7 @@ pipelines: Machine Learning Pipelines for Kubeflow
 
 
 ### [alpa](https://github.com/alpa-projects/alpa) by [alpa-projects](https://github.com/alpa-projects)  
-alpa: Training and serving large-scale neural networks  
+Training and serving large-scale neural networks  
 [https://alpa.ai](https://alpa.ai)  
 [https://github.com/alpa-projects/alpa](https://github.com/alpa-projects/alpa)  
 20 stars per week over 114 weeks  
@@ -3107,7 +3136,7 @@ alpa: Training and serving large-scale neural networks
 
 
 ### [hatch](https://github.com/pypa/hatch) by [pypa](https://github.com/pypa)  
-hatch: Modern, extensible Python project management  
+Modern, extensible Python project management  
 [https://hatch.pypa.io/latest/](https://hatch.pypa.io/latest/)  
 [https://github.com/pypa/hatch](https://github.com/pypa/hatch)  
 12 stars per week over 309 weeks  
@@ -3127,7 +3156,7 @@ cryptography is a package designed to expose cryptographic primitives and recipe
 
 
 ### [jupytext](https://github.com/mwouts/jupytext) by [mwouts](https://github.com/mwouts)  
-jupytext: Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts  
+Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts  
 [https://jupytext.readthedocs.io](https://jupytext.readthedocs.io)  
 [https://github.com/mwouts/jupytext](https://github.com/mwouts/jupytext)  
 23 stars per week over 255 weeks  
@@ -3137,7 +3166,7 @@ jupytext: Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 
 
 ### [pip-tools](https://github.com/jazzband/pip-tools) by [jazzband](https://github.com/jazzband)  
-pip-tools: A set of tools to keep your pinned Python dependencies fresh.  
+A set of tools to keep your pinned Python dependencies fresh.  
 [https://pip-tools.rtfd.io](https://pip-tools.rtfd.io)  
 [https://github.com/jazzband/pip-tools](https://github.com/jazzband/pip-tools)  
 12 stars per week over 555 weeks  
@@ -3147,7 +3176,7 @@ pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 
 
 ### [shap](https://github.com/slundberg/shap) by [slundberg](https://github.com/slundberg)  
-shap: A game theoretic approach to explain the output of any machine learning model.  
+A game theoretic approach to explain the output of any machine learning model.  
 [https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
 56 stars per week over 336 weeks  
 19,138 stars, 2,873 forks, 262 watches  
@@ -3156,7 +3185,7 @@ shap: A game theoretic approach to explain the output of any machine learning mo
 
 
 ### [super-gradients](https://github.com/deci-ai/super-gradients) by [deci-ai](https://github.com/deci-ai)  
-super-gradients: Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.  
+Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.  
 [https://www.supergradients.com](https://www.supergradients.com)  
 [https://github.com/deci-ai/super-gradients](https://github.com/deci-ai/super-gradients)  
 21 stars per week over 75 weeks  
@@ -3166,7 +3195,7 @@ super-gradients: Easily train or fine-tune SOTA computer vision models with one 
 
 
 ### [orchest](https://github.com/orchest/orchest)  
-orchest: Build data pipelines, the easy way 🛠️  
+Build data pipelines, the easy way 🛠️  
 [https://orchest.io](https://orchest.io)  
 [https://github.com/orchest/orchest](https://github.com/orchest/orchest)  
 24 stars per week over 154 weeks  
@@ -3184,7 +3213,7 @@ GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 
 
 ### [voila](https://github.com/voila-dashboards/voila) by [voila-dashboards](https://github.com/voila-dashboards)  
-voila: Voilà turns Jupyter notebooks into standalone web applications  
+Voilà turns Jupyter notebooks into standalone web applications  
 [https://voila.readthedocs.io](https://voila.readthedocs.io)  
 [https://github.com/voila-dashboards/voila](https://github.com/voila-dashboards/voila)  
 19 stars per week over 245 weeks  
@@ -3194,7 +3223,7 @@ voila: Voilà turns Jupyter notebooks into standalone web applications
 
 
 ### [ignite](https://github.com/pytorch/ignite) by [pytorch](https://github.com/pytorch)  
-ignite: High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
+High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.  
 [https://pytorch-ignite.ai](https://pytorch-ignite.ai)  
 [https://github.com/pytorch/ignite](https://github.com/pytorch/ignite)  
 14 stars per week over 284 weeks  
@@ -3204,7 +3233,7 @@ ignite: High-level library to help with training and evaluating neural networks 
 
 
 ### [flyte](https://github.com/flyteorg/flyte) by [flyteorg](https://github.com/flyteorg)  
-flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.  
+Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.  
 [https://flyte.org](https://flyte.org)  
 [https://github.com/flyteorg/flyte](https://github.com/flyteorg/flyte)  
 17 stars per week over 184 weeks  
@@ -3214,7 +3243,7 @@ flyte: Scalable and flexible workflow orchestration platform that seamlessly uni
 
 
 ### [Detectron](https://github.com/facebookresearch/detectron) by [facebookresearch](https://github.com/facebookresearch)  
-Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.  
+FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.  
 [https://github.com/facebookresearch/detectron](https://github.com/facebookresearch/detectron)  
 88 stars per week over 291 weeks  
 25,734 stars, 5,506 forks, 954 watches  
@@ -3222,7 +3251,7 @@ Detectron: FAIR's research platform for object detection research, implementing 
 
 
 ### [deep-rl-class](https://github.com/huggingface/deep-rl-class) by [huggingface](https://github.com/huggingface)  
-deep-rl-class: This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.  
+This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.  
 [https://github.com/huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class)  
 53 stars per week over 54 weeks  
 2,912 stars, 408 forks, 79 watches  
@@ -3231,7 +3260,7 @@ deep-rl-class: This repo contains the syllabus of the Hugging Face Deep Reinforc
 
 
 ### [rl](https://github.com/pytorch/rl) by [pytorch](https://github.com/pytorch)  
-rl: A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.  
+A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.  
 [https://github.com/pytorch/rl](https://github.com/pytorch/rl)  
 17 stars per week over 65 weeks  
 1,131 stars, 159 forks, 35 watches  
@@ -3239,7 +3268,7 @@ rl: A modular, primitive-first, python-first PyTorch library for Reinforcement L
 
 
 ### [Mask_RCNN](https://github.com/matterport/mask_rcnn) by [matterport](https://github.com/matterport)  
-Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow  
+Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow  
 [https://github.com/matterport/mask_rcnn](https://github.com/matterport/mask_rcnn)  
 79 stars per week over 289 weeks  
 23,007 stars, 11,419 forks, 590 watches  
@@ -3248,7 +3277,7 @@ Mask_RCNN: Mask R-CNN for object detection and instance segmentation on Keras an
 
 
 ### [transferlearning](https://github.com/jindongwang/transferlearning) by [jindongwang](https://github.com/jindongwang)  
-transferlearning: Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习  
+Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习  
 [http://transferlearning.xyz/](http://transferlearning.xyz/)  
 [https://github.com/jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)  
 36 stars per week over 314 weeks  
@@ -3258,17 +3287,17 @@ transferlearning: Transfer learning / domain adaptation / domain generalization 
 
 
 ### [pipx](https://github.com/pypa/pipx) by [pypa](https://github.com/pypa)  
-pipx: Install and Run Python Applications in Isolated Environments  
+Install and Run Python Applications in Isolated Environments  
 [https://pypa.github.io/pipx/](https://pypa.github.io/pipx/)  
 [https://github.com/pypa/pipx](https://github.com/pypa/pipx)  
 26 stars per week over 239 weeks  
 6,376 stars, 293 forks, 72 watches  
 [util](categories/util.md) category, created 2018-10-06, last commit 2023-04-22, main language Python  
-<sub><sup>cli, hacktoberfest, pip, pypi, venv</sup></sub>
+<sub><sup>cli, hacktoberfest, pip, venv</sup></sub>
 
 
 ### [FLAML](https://github.com/microsoft/flaml) by [microsoft](https://github.com/microsoft)  
-FLAML: A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.  
+A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.  
 [https://microsoft.github.io/FLAML/](https://microsoft.github.io/FLAML/)  
 [https://github.com/microsoft/flaml](https://github.com/microsoft/flaml)  
 17 stars per week over 141 weeks  
@@ -3288,7 +3317,7 @@ Deepchecks - Tests for Continuous Validation of ML Models & Data. Deepchecks is 
 
 
 ### [botorch](https://github.com/pytorch/botorch) by [pytorch](https://github.com/pytorch)  
-botorch: Bayesian optimization in PyTorch  
+Bayesian optimization in PyTorch  
 [https://botorch.org/](https://botorch.org/)  
 [https://github.com/pytorch/botorch](https://github.com/pytorch/botorch)  
 10 stars per week over 248 weeks  
@@ -3297,7 +3326,7 @@ botorch: Bayesian optimization in PyTorch
 
 
 ### [tianshou](https://github.com/thu-ml/tianshou) by [thu-ml](https://github.com/thu-ml)  
-tianshou: An elegant PyTorch deep reinforcement learning library.  
+An elegant PyTorch deep reinforcement learning library.  
 [https://tianshou.readthedocs.io](https://tianshou.readthedocs.io)  
 [https://github.com/thu-ml/tianshou](https://github.com/thu-ml/tianshou)  
 23 stars per week over 263 weeks  
@@ -3307,7 +3336,7 @@ tianshou: An elegant PyTorch deep reinforcement learning library.
 
 
 ### [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) by [gkamradt](https://github.com/gkamradt)  
-langchain-tutorials: Overview and tutorial of the LangChain Library  
+Overview and tutorial of the LangChain Library  
 [https://github.com/gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)  
 166 stars per week over 11 weeks  
 1,969 stars, 766 forks, 37 watches  
@@ -3315,7 +3344,7 @@ langchain-tutorials: Overview and tutorial of the LangChain Library
 
 
 ### [werkzeug](https://github.com/pallets/werkzeug) by [pallets](https://github.com/pallets)  
-werkzeug: The comprehensive WSGI web application library.  
+The comprehensive WSGI web application library.  
 [https://werkzeug.palletsprojects.com](https://werkzeug.palletsprojects.com)  
 [https://github.com/pallets/werkzeug](https://github.com/pallets/werkzeug)  
 9.7 stars per week over 654 weeks  
@@ -3325,7 +3354,7 @@ werkzeug: The comprehensive WSGI web application library.
 
 
 ### [detr](https://github.com/facebookresearch/detr) by [facebookresearch](https://github.com/facebookresearch)  
-detr: End-to-End Object Detection with Transformers  
+End-to-End Object Detection with Transformers  
 [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)  
 71 stars per week over 153 weeks  
 10,923 stars, 1,997 forks, 147 watches  
@@ -3333,7 +3362,7 @@ detr: End-to-End Object Detection with Transformers
 
 
 ### [xarray](https://github.com/pydata/xarray) by [pydata](https://github.com/pydata)  
-xarray: N-D labeled arrays and datasets in Python  
+N-D labeled arrays and datasets in Python  
 [https://xarray.dev](https://xarray.dev)  
 [https://github.com/pydata/xarray](https://github.com/pydata/xarray)  
 5.9 stars per week over 500 weeks  
@@ -3343,7 +3372,7 @@ xarray: N-D labeled arrays and datasets in Python
 
 
 ### [evidently](https://github.com/evidentlyai/evidently) by [evidentlyai](https://github.com/evidentlyai)  
-evidently: Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b  
+Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b  
 [https://github.com/evidentlyai/evidently](https://github.com/evidentlyai/evidently)  
 26 stars per week over 127 weeks  
 3,399 stars, 377 forks, 36 watches  
@@ -3352,7 +3381,7 @@ evidently: Evaluate and monitor ML models from validation to production. Join ou
 
 
 ### [coveragepy](https://github.com/nedbat/coveragepy) by [nedbat](https://github.com/nedbat)  
-coveragepy: The code coverage tool for Python  
+The code coverage tool for Python  
 [https://coverage.readthedocs.io](https://coverage.readthedocs.io)  
 [https://github.com/nedbat/coveragepy](https://github.com/nedbat/coveragepy)  
 9.81 stars per week over 254 weeks  
@@ -3361,7 +3390,7 @@ coveragepy: The code coverage tool for Python
 
 
 ### [algorithms](https://github.com/keon/algorithms) by [keon](https://github.com/keon)  
-algorithms: Minimal examples of data structures and algorithms in Python  
+Minimal examples of data structures and algorithms in Python  
 [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
 66 stars per week over 337 weeks  
 22,509 stars, 4,474 forks, 642 watches  
@@ -3370,7 +3399,7 @@ algorithms: Minimal examples of data structures and algorithms in Python
 
 
 ### [triton](https://github.com/openai/triton) by [openai](https://github.com/openai)  
-triton: Development repository for the Triton language and compiler  
+Development repository for the Triton language and compiler  
 [https://github.com/openai/triton](https://github.com/openai/triton)  
 14 stars per week over 453 weeks  
 6,667 stars, 646 forks, 135 watches  
@@ -3378,7 +3407,7 @@ triton: Development repository for the Triton language and compiler
 
 
 ### [panel](https://github.com/holoviz/panel) by [holoviz](https://github.com/holoviz)  
-panel: A high-level app and dashboarding solution for Python  
+A high-level app and dashboarding solution for Python  
 [https://panel.holoviz.org](https://panel.holoviz.org)  
 [https://github.com/holoviz/panel](https://github.com/holoviz/panel)  
 11 stars per week over 245 weeks  
@@ -3388,7 +3417,7 @@ panel: A high-level app and dashboarding solution for Python
 
 
 ### [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) by [lkwq007](https://github.com/lkwq007)  
-stablediffusion-infinity: Outpainting with Stable Diffusion on an infinite canvas  
+Outpainting with Stable Diffusion on an infinite canvas  
 [https://github.com/lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)  
 93 stars per week over 35 weeks  
 3,291 stars, 255 forks, 36 watches  
@@ -3415,7 +3444,7 @@ TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial 
 
 
 ### [bitsandbytes](https://github.com/timdettmers/bitsandbytes) by [timdettmers](https://github.com/timdettmers)  
-bitsandbytes: 8-bit CUDA functions for PyTorch  
+8-bit CUDA functions for PyTorch  
 [https://github.com/timdettmers/bitsandbytes](https://github.com/timdettmers/bitsandbytes)  
 18 stars per week over 100 weeks  
 1,897 stars, 197 forks, 24 watches  
@@ -3423,7 +3452,7 @@ bitsandbytes: 8-bit CUDA functions for PyTorch
 
 
 ### [consensus-specs](https://github.com/ethereum/consensus-specs) by [ethereum](https://github.com/ethereum)  
-consensus-specs: Ethereum Proof-of-Stake Consensus Specifications  
+Ethereum Proof-of-Stake Consensus Specifications  
 [https://github.com/ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)  
 13 stars per week over 241 weeks  
 3,155 stars, 833 forks, 250 watches  
@@ -3441,7 +3470,7 @@ Statsmodels: statistical modeling and econometrics in Python
 
 
 ### [jupyter-book](https://github.com/executablebooks/jupyter-book) by [executablebooks](https://github.com/executablebooks)  
-jupyter-book: Create beautiful, publication-quality books and documents from computational content.  
+Create beautiful, publication-quality books and documents from computational content.  
 [http://jupyterbook.org](http://jupyterbook.org)  
 [https://github.com/executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)  
 13 stars per week over 255 weeks  
@@ -3451,7 +3480,7 @@ jupyter-book: Create beautiful, publication-quality books and documents from com
 
 
 ### [neural_prophet](https://github.com/ourownstory/neural_prophet) by [ourownstory](https://github.com/ourownstory)  
-neural_prophet: NeuralProphet: A simple forecasting package  
+NeuralProphet: A simple forecasting package  
 [https://neuralprophet.com](https://neuralprophet.com)  
 [https://github.com/ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet)  
 18 stars per week over 156 weeks  
@@ -3471,7 +3500,7 @@ Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 
 ### [pypdf](https://github.com/py-pdf/pypdf2) by [py-pdf](https://github.com/py-pdf)  
-pypdf: A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files  
+A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files  
 [https://pypdf.readthedocs.io/en/latest/](https://pypdf.readthedocs.io/en/latest/)  
 [https://github.com/py-pdf/pypdf2](https://github.com/py-pdf/pypdf2)  
 9.49 stars per week over 591 weeks  
@@ -3481,7 +3510,7 @@ pypdf: A pure-python PDF library capable of splitting, merging, cropping, and tr
 
 
 ### [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) by [lucidrains](https://github.com/lucidrains)  
-toolformer-pytorch: Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI  
+Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI  
 [https://github.com/lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)  
 105 stars per week over 12 weeks  
 1,291 stars, 71 forks, 46 watches  
@@ -3490,7 +3519,7 @@ toolformer-pytorch: Implementation of Toolformer, Language Models That Can Use T
 
 
 ### [paramiko](https://github.com/paramiko/paramiko)  
-paramiko: The leading native Python SSHv2 protocol library.  
+The leading native Python SSHv2 protocol library.  
 [http://paramiko.org](http://paramiko.org)  
 [https://github.com/paramiko/paramiko](https://github.com/paramiko/paramiko)  
 11 stars per week over 743 weeks  
@@ -3499,7 +3528,7 @@ paramiko: The leading native Python SSHv2 protocol library.
 
 
 ### [web3.py](https://github.com/ethereum/web3.py) by [ethereum](https://github.com/ethereum)  
-web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.  
+A python interface for interacting with the Ethereum blockchain and ecosystem.  
 [http://web3py.readthedocs.io](http://web3py.readthedocs.io)  
 [https://github.com/ethereum/web3.py](https://github.com/ethereum/web3.py)  
 11 stars per week over 368 weeks  
@@ -3508,7 +3537,7 @@ web3.py: A python interface for interacting with the Ethereum blockchain and eco
 
 
 ### [featuretools](https://github.com/featurelabs/featuretools) by [featurelabs](https://github.com/featurelabs)  
-featuretools: An open source python library for automated feature engineering  
+An open source python library for automated feature engineering  
 [https://www.featuretools.com](https://www.featuretools.com)  
 [https://github.com/featurelabs/featuretools](https://github.com/featurelabs/featuretools)  
 22 stars per week over 295 weeks  
@@ -3518,7 +3547,7 @@ featuretools: An open source python library for automated feature engineering
 
 
 ### [twint](https://github.com/twintproject/twint) by [twintproject](https://github.com/twintproject)  
-twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
+An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.  
 [https://github.com/twintproject/twint](https://github.com/twintproject/twint)  
 48 stars per week over 308 weeks  
 14,911 stars, 2,571 forks, 316 watches  
@@ -3527,7 +3556,7 @@ twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't 
 
 
 ### [handson-ml2](https://github.com/ageron/handson-ml2) by [ageron](https://github.com/ageron)  
-handson-ml2: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.  
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.  
 [https://github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)  
 109 stars per week over 225 weeks  
 24,702 stars, 11,875 forks, 637 watches  
@@ -3545,7 +3574,7 @@ Amundsen is a metadata driven application for improving the productivity of data
 
 
 ### [netron](https://github.com/lutzroeder/netron) by [lutzroeder](https://github.com/lutzroeder)  
-netron: Visualizer for neural network, deep learning, and machine learning models  
+Visualizer for neural network, deep learning, and machine learning models  
 [https://netron.app](https://netron.app)  
 [https://github.com/lutzroeder/netron](https://github.com/lutzroeder/netron)  
 34 stars per week over 645 weeks  
@@ -3565,7 +3594,7 @@ Mimesis is a robust data generator for Python, capable of rapidly producing larg
 
 
 ### [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) by [ashleve](https://github.com/ashleve)  
-lightning-hydra-template: PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡  
+PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡  
 [https://github.com/ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)  
 19 stars per week over 130 weeks  
 2,591 stars, 446 forks, 23 watches  
@@ -3574,7 +3603,7 @@ lightning-hydra-template: PyTorch Lightning + Hydra. A very user-friendly templa
 
 
 ### [autokeras](https://github.com/keras-team/autokeras) by [keras-team](https://github.com/keras-team)  
-autokeras: AutoML library for deep learning  
+AutoML library for deep learning  
 [http://autokeras.com/](http://autokeras.com/)  
 [https://github.com/keras-team/autokeras](https://github.com/keras-team/autokeras)  
 30 stars per week over 285 weeks  
@@ -3594,7 +3623,7 @@ NLTK Source
 
 
 ### [pyod](https://github.com/yzhao062/pyod) by [yzhao062](https://github.com/yzhao062)  
-pyod: A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)  
+A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)  
 [http://pyod.readthedocs.io](http://pyod.readthedocs.io)  
 [https://github.com/yzhao062/pyod](https://github.com/yzhao062/pyod)  
 23 stars per week over 291 weeks  
@@ -3604,7 +3633,7 @@ pyod: A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly
 
 
 ### [minGPT](https://github.com/karpathy/mingpt) by [karpathy](https://github.com/karpathy)  
-minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training  
+A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training  
 [https://github.com/karpathy/mingpt](https://github.com/karpathy/mingpt)  
 106 stars per week over 141 weeks  
 15,049 stars, 1,749 forks, 241 watches  
@@ -3612,7 +3641,7 @@ minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretra
 
 
 ### [pytudes](https://github.com/norvig/pytudes) by [norvig](https://github.com/norvig)  
-pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.  
+Python programs, usually short, of considerable difficulty, to perfect particular skills.  
 [https://github.com/norvig/pytudes](https://github.com/norvig/pytudes)  
 62 stars per week over 322 weeks  
 20,211 stars, 2,286 forks, 740 watches  
@@ -3621,7 +3650,7 @@ pytudes: Python programs, usually short, of considerable difficulty, to perfect 
 
 
 ### [fastapi-users](https://github.com/fastapi-users/fastapi-users)  
-fastapi-users: Ready-to-use and customizable users management for FastAPI  
+Ready-to-use and customizable users management for FastAPI  
 [https://fastapi-users.github.io/fastapi-users/](https://fastapi-users.github.io/fastapi-users/)  
 [https://github.com/fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users)  
 14 stars per week over 187 weeks  
@@ -3631,7 +3660,7 @@ fastapi-users: Ready-to-use and customizable users management for FastAPI
 
 
 ### [geemap](https://github.com/giswqs/geemap) by [giswqs](https://github.com/giswqs)  
-geemap: A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
+A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
 [https://geemap.org](https://geemap.org)  
 [https://github.com/giswqs/geemap](https://github.com/giswqs/geemap)  
 16 stars per week over 165 weeks  
@@ -3641,7 +3670,7 @@ geemap: A Python package for interactive mapping with Google Earth Engine, ipyle
 
 
 ### [alembic](https://github.com/sqlalchemy/alembic) by [sqlalchemy](https://github.com/sqlalchemy)  
-alembic: A database migrations tool for SQLAlchemy.  
+A database migrations tool for SQLAlchemy.  
 [https://github.com/sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)  
 8.25 stars per week over 231 weeks  
 1,911 stars, 184 forks, 20 watches  
@@ -3650,7 +3679,7 @@ alembic: A database migrations tool for SQLAlchemy.
 
 
 ### [ibis](https://github.com/ibis-project/ibis) by [ibis-project](https://github.com/ibis-project)  
-ibis: The flexibility of Python with the scale and performance of modern SQL.  
+The flexibility of Python with the scale and performance of modern SQL.  
 [https://ibis-project.org](https://ibis-project.org)  
 [https://github.com/ibis-project/ibis](https://github.com/ibis-project/ibis)  
 6.36 stars per week over 420 weeks  
@@ -3660,7 +3689,7 @@ ibis: The flexibility of Python with the scale and performance of modern SQL.
 
 
 ### [umap](https://github.com/lmcinnes/umap) by [lmcinnes](https://github.com/lmcinnes)  
-umap: Uniform Manifold Approximation and Projection  
+Uniform Manifold Approximation and Projection  
 [https://github.com/lmcinnes/umap](https://github.com/lmcinnes/umap)  
 20 stars per week over 305 weeks  
 6,195 stars, 718 forks, 124 watches  
@@ -3697,7 +3726,7 @@ ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. 
 
 
 ### [Tkinter-Designer](https://github.com/parthjadhav/tkinter-designer) by [parthjadhav](https://github.com/parthjadhav)  
-Tkinter-Designer: An easy and fast way to create a Python GUI 🐍  
+An easy and fast way to create a Python GUI 🐍  
 [https://github.com/parthjadhav/tkinter-designer](https://github.com/parthjadhav/tkinter-designer)  
 55 stars per week over 102 weeks  
 5,710 stars, 578 forks, 60 watches  
@@ -3706,7 +3735,7 @@ Tkinter-Designer: An easy and fast way to create a Python GUI 🐍
 
 
 ### [skorch](https://github.com/skorch-dev/skorch) by [skorch-dev](https://github.com/skorch-dev)  
-skorch: A scikit-learn compatible neural network library that wraps PyTorch  
+A scikit-learn compatible neural network library that wraps PyTorch  
 [https://github.com/skorch-dev/skorch](https://github.com/skorch-dev/skorch)  
 16 stars per week over 302 weeks  
 5,134 stars, 343 forks, 81 watches  
@@ -3715,7 +3744,7 @@ skorch: A scikit-learn compatible neural network library that wraps PyTorch
 
 
 ### [graphene](https://github.com/graphql-python/graphene) by [graphql-python](https://github.com/graphql-python)  
-graphene: GraphQL framework for Python  
+GraphQL framework for Python  
 [http://graphene-python.org/](http://graphene-python.org/)  
 [https://github.com/graphql-python/graphene](https://github.com/graphql-python/graphene)  
 19 stars per week over 397 weeks  
@@ -3725,7 +3754,7 @@ graphene: GraphQL framework for Python
 
 
 ### [latent-diffusion](https://github.com/compvis/latent-diffusion) by [compvis](https://github.com/compvis)  
-latent-diffusion: High-Resolution Image Synthesis with Latent Diffusion Models  
+High-Resolution Image Synthesis with Latent Diffusion Models  
 [https://github.com/compvis/latent-diffusion](https://github.com/compvis/latent-diffusion)  
 102 stars per week over 71 weeks  
 7,383 stars, 995 forks, 81 watches  
@@ -3733,7 +3762,7 @@ latent-diffusion: High-Resolution Image Synthesis with Latent Diffusion Models
 
 
 ### [py-spy](https://github.com/benfred/py-spy) by [benfred](https://github.com/benfred)  
-py-spy: Sampling profiler for Python programs  
+Sampling profiler for Python programs  
 [https://github.com/benfred/py-spy](https://github.com/benfred/py-spy)  
 41 stars per week over 248 weeks  
 10,209 stars, 360 forks, 116 watches  
@@ -3742,7 +3771,7 @@ py-spy: Sampling profiler for Python programs
 
 
 ### [pandera](https://github.com/pandera-dev/pandera) by [pandera-dev](https://github.com/pandera-dev)  
-pandera: A light-weight, flexible, and expressive statistical data testing library  
+A light-weight, flexible, and expressive statistical data testing library  
 [https://www.union.ai/pandera](https://www.union.ai/pandera)  
 [https://github.com/pandera-dev/pandera](https://github.com/pandera-dev/pandera)  
 9.75 stars per week over 235 weeks  
@@ -3772,7 +3801,7 @@ VizTracer is a low-overhead logging/debugging/profiling tool that can trace and 
 
 
 ### [vispy](https://github.com/vispy/vispy)  
-vispy: Main repository for Vispy  
+Main repository for Vispy  
 [http://vispy.org](http://vispy.org)  
 [https://github.com/vispy/vispy](https://github.com/vispy/vispy)  
 5.78 stars per week over 528 weeks  
@@ -3782,7 +3811,7 @@ vispy: Main repository for Vispy
 
 
 ### [tpot](https://github.com/epistasislab/tpot) by [epistasislab](https://github.com/epistasislab)  
-tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.  
+A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.  
 [http://epistasislab.github.io/tpot/](http://epistasislab.github.io/tpot/)  
 [https://github.com/epistasislab/tpot](https://github.com/epistasislab/tpot)  
 23 stars per week over 391 weeks  
@@ -3792,7 +3821,7 @@ tpot: A Python Automated Machine Learning tool that optimizes machine learning p
 
 
 ### [Cirq](https://github.com/quantumlib/cirq) by [quantumlib](https://github.com/quantumlib)  
-Cirq: A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.  
+A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.  
 [https://github.com/quantumlib/cirq](https://github.com/quantumlib/cirq)  
 13 stars per week over 281 weeks  
 3,752 stars, 850 forks, 179 watches  
@@ -3801,7 +3830,7 @@ Cirq: A python framework for creating, editing, and invoking Noisy Intermediate 
 
 
 ### [jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) by [jupyterlab](https://github.com/jupyterlab)  
-jupyterlab-desktop: JupyterLab desktop application, based on Electron.  
+JupyterLab desktop application, based on Electron.  
 [https://github.com/jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop)  
 8.78 stars per week over 313 weeks  
 2,753 stars, 253 forks, 47 watches  
@@ -3810,7 +3839,7 @@ jupyterlab-desktop: JupyterLab desktop application, based on Electron.
 
 
 ### [jinja](https://github.com/pallets/jinja) by [pallets](https://github.com/pallets)  
-jinja: A very fast and expressive template engine.  
+A very fast and expressive template engine.  
 [https://jinja.palletsprojects.com](https://jinja.palletsprojects.com)  
 [https://github.com/pallets/jinja](https://github.com/pallets/jinja)  
 14 stars per week over 655 weeks  
@@ -3820,7 +3849,7 @@ jinja: A very fast and expressive template engine.
 
 
 ### [qiskit-metapackage](https://github.com/qiskit/qiskit) by [qiskit](https://github.com/qiskit)  
-qiskit-metapackage: Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.  
+Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.  
 [https://qiskit.org](https://qiskit.org)  
 [https://github.com/qiskit/qiskit](https://github.com/qiskit/qiskit)  
 12 stars per week over 229 weeks  
@@ -3830,7 +3859,7 @@ qiskit-metapackage: Qiskit is an open-source SDK for working with quantum comput
 
 
 ### [pygame](https://github.com/pygame/pygame)  
-pygame: 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.  
+🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.  
 [https://www.pygame.org](https://www.pygame.org)  
 [https://github.com/pygame/pygame](https://github.com/pygame/pygame)  
 18 stars per week over 319 weeks  
@@ -3840,7 +3869,7 @@ pygame: 🐍🎮 pygame (the library) is a Free and Open Source python programmi
 
 
 ### [captum](https://github.com/pytorch/captum) by [pytorch](https://github.com/pytorch)  
-captum: Model interpretability and understanding for PyTorch  
+Model interpretability and understanding for PyTorch  
 [https://captum.ai](https://captum.ai)  
 [https://github.com/pytorch/captum](https://github.com/pytorch/captum)  
 20 stars per week over 192 weeks  
@@ -3850,7 +3879,7 @@ captum: Model interpretability and understanding for PyTorch
 
 
 ### [data](https://github.com/pytorch/data) by [pytorch](https://github.com/pytorch)  
-data: A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.  
+A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.  
 [https://github.com/pytorch/data](https://github.com/pytorch/data)  
 9.33 stars per week over 103 weeks  
 966 stars, 123 forks, 29 watches  
@@ -3858,7 +3887,7 @@ data: A PyTorch repo for data loading and utilities to be shared by the PyTorch 
 
 
 ### [PyWebIO](https://github.com/pywebio/pywebio) by [pywebio](https://github.com/pywebio)  
-PyWebIO: Write interactive web app in script way.  
+Write interactive web app in script way.  
 [https://pywebio.readthedocs.io](https://pywebio.readthedocs.io)  
 [https://github.com/pywebio/pywebio](https://github.com/pywebio/pywebio)  
 23 stars per week over 166 weeks  
@@ -3868,7 +3897,7 @@ PyWebIO: Write interactive web app in script way.
 
 
 ### [google-api-python-client](https://github.com/googleapis/google-api-python-client) by [googleapis](https://github.com/googleapis)  
-google-api-python-client: 🐍 The official Python client library for Google's discovery based APIs.  
+🐍 The official Python client library for Google's discovery based APIs.  
 [https://googleapis.github.io/google-api-python-client/docs/](https://googleapis.github.io/google-api-python-client/docs/)  
 [https://github.com/googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client)  
 13 stars per week over 486 weeks  
@@ -3877,7 +3906,7 @@ google-api-python-client: 🐍 The official Python client library for Google's d
 
 
 ### [isort](https://github.com/pycqa/isort) by [pycqa](https://github.com/pycqa)  
-isort: A Python utility / library to sort imports.  
+A Python utility / library to sort imports.  
 [https://pycqa.github.io/isort/](https://pycqa.github.io/isort/)  
 [https://github.com/pycqa/isort](https://github.com/pycqa/isort)  
 11 stars per week over 504 weeks  
@@ -3887,7 +3916,7 @@ isort: A Python utility / library to sort imports.
 
 
 ### [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) by [huggingface](https://github.com/huggingface)  
-diffusion-models-class: Materials for the Hugging Face Diffusion Models Course  
+Materials for the Hugging Face Diffusion Models Course  
 [https://github.com/huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class)  
 74 stars per week over 29 weeks  
 2,182 stars, 210 forks, 78 watches  
@@ -3895,7 +3924,7 @@ diffusion-models-class: Materials for the Hugging Face Diffusion Models Course
 
 
 ### [attrs](https://github.com/python-attrs/attrs) by [python-attrs](https://github.com/python-attrs)  
-attrs: Python Classes Without Boilerplate  
+Python Classes Without Boilerplate  
 [https://www.attrs.org/](https://www.attrs.org/)  
 [https://github.com/python-attrs/attrs](https://github.com/python-attrs/attrs)  
 10 stars per week over 431 weeks  
@@ -3905,7 +3934,7 @@ attrs: Python Classes Without Boilerplate
 
 
 ### [falcon](https://github.com/falconry/falcon) by [falconry](https://github.com/falconry)  
-falcon: The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.  
+The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.  
 [https://falcon.readthedocs.io/en/stable/](https://falcon.readthedocs.io/en/stable/)  
 [https://github.com/falconry/falcon](https://github.com/falconry/falcon)  
 16 stars per week over 543 weeks  
@@ -3915,7 +3944,7 @@ falcon: The no-magic web data plane API and microservices framework for Python d
 
 
 ### [optimum](https://github.com/huggingface/optimum) by [huggingface](https://github.com/huggingface)  
-optimum: 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools  
+🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools  
 [https://huggingface.co/docs/optimum/main/](https://huggingface.co/docs/optimum/main/)  
 [https://github.com/huggingface/optimum](https://github.com/huggingface/optimum)  
 11 stars per week over 93 weeks  
@@ -3935,7 +3964,7 @@ gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy
 
 
 ### [PyOxidizer](https://github.com/indygreg/pyoxidizer) by [indygreg](https://github.com/indygreg)  
-PyOxidizer: A modern Python application packaging and distribution tool  
+A modern Python application packaging and distribution tool  
 [https://github.com/indygreg/pyoxidizer](https://github.com/indygreg/pyoxidizer)  
 20 stars per week over 228 weeks  
 4,717 stars, 201 forks, 60 watches  
@@ -3943,7 +3972,7 @@ PyOxidizer: A modern Python application packaging and distribution tool
 
 
 ### [pyinstrument](https://github.com/joerick/pyinstrument) by [joerick](https://github.com/joerick)  
-pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!  
+🚴 Call stack profiler for Python. Shows you why your code is slow!  
 [https://pyinstrument.readthedocs.io/](https://pyinstrument.readthedocs.io/)  
 [https://github.com/joerick/pyinstrument](https://github.com/joerick/pyinstrument)  
 11 stars per week over 477 weeks  
@@ -3953,7 +3982,7 @@ pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is s
 
 
 ### [vaex](https://github.com/vaexio/vaex) by [vaexio](https://github.com/vaexio)  
-vaex: Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀  
+Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀  
 [https://vaex.io](https://vaex.io)  
 [https://github.com/vaexio/vaex](https://github.com/vaexio/vaex)  
 17 stars per week over 449 weeks  
@@ -3963,7 +3992,7 @@ vaex: Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualizat
 
 
 ### [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) by [zhanymkanov](https://github.com/zhanymkanov)  
-fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup  
+FastAPI Best Practices and Conventions we used at our startup  
 [https://github.com/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)  
 86 stars per week over 38 weeks  
 3,345 stars, 245 forks, 59 watches  
@@ -3982,7 +4011,7 @@ Bandit is a tool designed to find common security issues in Python code.
 
 
 ### [SeleniumBase](https://github.com/seleniumbase/seleniumbase) by [seleniumbase](https://github.com/seleniumbase)  
-SeleniumBase: A Python browser automation framework for creating reliable end-to-end tests.  
+A Python browser automation framework for creating reliable end-to-end tests.  
 [https://seleniumbase.io](https://seleniumbase.io)  
 [https://github.com/seleniumbase/seleniumbase](https://github.com/seleniumbase/seleniumbase)  
 6.82 stars per week over 478 weeks  
@@ -3992,7 +4021,7 @@ SeleniumBase: A Python browser automation framework for creating reliable end-to
 
 
 ### [annoy](https://github.com/spotify/annoy) by [spotify](https://github.com/spotify)  
-annoy: Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk  
+Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk  
 [https://github.com/spotify/annoy](https://github.com/spotify/annoy)  
 21 stars per week over 526 weeks  
 11,272 stars, 1,096 forks, 319 watches  
@@ -4001,7 +4030,7 @@ annoy: Approximate Nearest Neighbors in C++/Python optimized for memory usage an
 
 
 ### [coremltools](https://github.com/apple/coremltools) by [apple](https://github.com/apple)  
-coremltools: Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.  
+Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.  
 [https://coremltools.readme.io](https://coremltools.readme.io)  
 [https://github.com/apple/coremltools](https://github.com/apple/coremltools)  
 10 stars per week over 305 weeks  
@@ -4011,7 +4040,7 @@ coremltools: Core ML tools contain supporting tools for Core ML model conversion
 
 
 ### [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) by [kingoflolz](https://github.com/kingoflolz)  
-mesh-transformer-jax: Model parallel transformers in JAX and Haiku  
+Model parallel transformers in JAX and Haiku  
 [https://github.com/kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)  
 52 stars per week over 112 weeks  
 5,832 stars, 850 forks, 103 watches  
@@ -4019,7 +4048,7 @@ mesh-transformer-jax: Model parallel transformers in JAX and Haiku
 
 
 ### [brax](https://github.com/google/brax) by [google](https://github.com/google)  
-brax: Massively parallel rigidbody physics simulation on accelerator hardware.  
+Massively parallel rigidbody physics simulation on accelerator hardware.  
 [https://github.com/google/brax](https://github.com/google/brax)  
 16 stars per week over 100 weeks  
 1,658 stars, 178 forks, 40 watches  
@@ -4066,7 +4095,7 @@ Flower: A Friendly Federated Learning Framework
 
 
 ### [folium](https://github.com/python-visualization/folium) by [python-visualization](https://github.com/python-visualization)  
-folium: Python Data. Leaflet.js Maps.   
+Python Data. Leaflet.js Maps.   
 [https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)  
 [https://github.com/python-visualization/folium](https://github.com/python-visualization/folium)  
 11 stars per week over 521 weeks  
@@ -4076,7 +4105,7 @@ folium: Python Data. Leaflet.js Maps.
 
 
 ### [tsfresh](https://github.com/blue-yonder/tsfresh) by [blue-yonder](https://github.com/blue-yonder)  
-tsfresh: Automatic extraction of relevant features from time series:  
+Automatic extraction of relevant features from time series:  
 [http://tsfresh.readthedocs.io](http://tsfresh.readthedocs.io)  
 [https://github.com/blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)  
 21 stars per week over 340 weeks  
@@ -4086,7 +4115,7 @@ tsfresh: Automatic extraction of relevant features from time series:
 
 
 ### [shapely](https://github.com/shapely/shapely)  
-shapely: Manipulation and analysis of geometric objects  
+Manipulation and analysis of geometric objects  
 [https://shapely.readthedocs.io/en/stable/](https://shapely.readthedocs.io/en/stable/)  
 [https://github.com/shapely/shapely](https://github.com/shapely/shapely)  
 5.53 stars per week over 592 weeks  
@@ -4095,7 +4124,7 @@ shapely: Manipulation and analysis of geometric objects
 
 
 ### [marshmallow](https://github.com/marshmallow-code/marshmallow) by [marshmallow-code](https://github.com/marshmallow-code)  
-marshmallow: A lightweight library for converting complex objects to and from simple Python datatypes.  
+A lightweight library for converting complex objects to and from simple Python datatypes.  
 [https://marshmallow.readthedocs.io/](https://marshmallow.readthedocs.io/)  
 [https://github.com/marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)  
 13 stars per week over 495 weeks  
@@ -4105,7 +4134,7 @@ marshmallow: A lightweight library for converting complex objects to and from si
 
 
 ### [ploomber](https://github.com/ploomber/ploomber)  
-ploomber: The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️  
+The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️  
 [https://ploomber.io](https://ploomber.io)  
 [https://github.com/ploomber/ploomber](https://github.com/ploomber/ploomber)  
 17 stars per week over 171 weeks  
@@ -4124,7 +4153,7 @@ EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
 
 
 ### [point-e](https://github.com/openai/point-e) by [openai](https://github.com/openai)  
-point-e: Point cloud diffusion for 3D model synthesis  
+Point cloud diffusion for 3D model synthesis  
 [https://github.com/openai/point-e](https://github.com/openai/point-e)  
 244 stars per week over 21 weeks  
 5,309 stars, 586 forks, 184 watches  
@@ -4132,7 +4161,7 @@ point-e: Point cloud diffusion for 3D model synthesis
 
 
 ### [tox](https://github.com/tox-dev/tox) by [tox-dev](https://github.com/tox-dev)  
-tox: Command line driven CI frontend and development task automation tool.  
+Command line driven CI frontend and development task automation tool.  
 [https://tox.wiki](https://tox.wiki)  
 [https://github.com/tox-dev/tox](https://github.com/tox-dev/tox)  
 9.41 stars per week over 346 weeks  
@@ -4142,7 +4171,7 @@ tox: Command line driven CI frontend and development task automation tool.
 
 
 ### [PlotNeuralNet](https://github.com/harisiqbal88/plotneuralnet) by [harisiqbal88](https://github.com/harisiqbal88)  
-PlotNeuralNet: Latex code for making neural networks diagrams  
+Latex code for making neural networks diagrams  
 [https://github.com/harisiqbal88/plotneuralnet](https://github.com/harisiqbal88/plotneuralnet)  
 77 stars per week over 249 weeks  
 19,382 stars, 2,626 forks, 224 watches  
@@ -4151,7 +4180,7 @@ PlotNeuralNet: Latex code for making neural networks diagrams
 
 
 ### [Dreambooth-Stable-Diffusion](https://github.com/xavierxiao/dreambooth-stable-diffusion) by [xavierxiao](https://github.com/xavierxiao)  
-Dreambooth-Stable-Diffusion: Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion  
+Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion  
 [https://github.com/xavierxiao/dreambooth-stable-diffusion](https://github.com/xavierxiao/dreambooth-stable-diffusion)  
 182 stars per week over 34 weeks  
 6,338 stars, 699 forks, 90 watches  
@@ -4160,7 +4189,7 @@ Dreambooth-Stable-Diffusion: Implementation of Dreambooth (https://arxiv.org/abs
 
 
 ### [balance](https://github.com/facebookresearch/balance) by [facebookresearch](https://github.com/facebookresearch)  
-balance: The balance python package offers a simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest.  
+The balance python package offers a simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest.  
 [https://import-balance.org](https://import-balance.org)  
 [https://github.com/facebookresearch/balance](https://github.com/facebookresearch/balance)  
 24 stars per week over 24 weeks  
@@ -4169,7 +4198,7 @@ balance: The balance python package offers a simple workflow and methods for dea
 
 
 ### [monorepo](https://github.com/mito-ds/monorepo) by [mito-ds](https://github.com/mito-ds)  
-monorepo: The mitosheet package, trymito.io, and other public Mito code.  
+The mitosheet package, trymito.io, and other public Mito code.  
 [https://trymito.io](https://trymito.io)  
 [https://github.com/mito-ds/monorepo](https://github.com/mito-ds/monorepo)  
 25 stars per week over 67 weeks  
@@ -4179,7 +4208,7 @@ monorepo: The mitosheet package, trymito.io, and other public Mito code.
 
 
 ### [slither](https://github.com/crytic/slither) by [crytic](https://github.com/crytic)  
-slither: Static Analyzer for Solidity  
+Static Analyzer for Solidity  
 [https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)  
 [https://github.com/crytic/slither](https://github.com/crytic/slither)  
 16 stars per week over 243 weeks  
@@ -4189,7 +4218,7 @@ slither: Static Analyzer for Solidity
 
 
 ### [Megatron-LM](https://github.com/nvidia/megatron-lm) by [nvidia](https://github.com/nvidia)  
-Megatron-LM: Ongoing research training transformer models at scale  
+Ongoing research training transformer models at scale  
 [https://github.com/nvidia/megatron-lm](https://github.com/nvidia/megatron-lm)  
 22 stars per week over 215 weeks  
 4,880 stars, 986 forks, 108 watches  
@@ -4197,7 +4226,7 @@ Megatron-LM: Ongoing research training transformer models at scale
 
 
 ### [leafmap](https://github.com/opengeos/leafmap) by [opengeos](https://github.com/opengeos)  
-leafmap: A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment  
+A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment  
 [https://leafmap.org](https://leafmap.org)  
 [https://github.com/opengeos/leafmap](https://github.com/opengeos/leafmap)  
 14 stars per week over 112 weeks  
@@ -4207,7 +4236,7 @@ leafmap: A Python package for interactive mapping and geospatial analysis  with 
 
 
 ### [auto-sklearn](https://github.com/automl/auto-sklearn) by [automl](https://github.com/automl)  
-auto-sklearn: Automated Machine Learning with scikit-learn  
+Automated Machine Learning with scikit-learn  
 [https://automl.github.io/auto-sklearn](https://automl.github.io/auto-sklearn)  
 [https://github.com/automl/auto-sklearn](https://github.com/automl/auto-sklearn)  
 16 stars per week over 409 weeks  
@@ -4217,7 +4246,7 @@ auto-sklearn: Automated Machine Learning with scikit-learn
 
 
 ### [bullet3](https://github.com/bulletphysics/bullet3) by [bulletphysics](https://github.com/bulletphysics)  
-bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.  
+Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.  
 [http://bulletphysics.org](http://bulletphysics.org)  
 [https://github.com/bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)  
 16 stars per week over 629 weeks  
@@ -4227,7 +4256,7 @@ bullet3: Bullet Physics SDK: real-time collision detection and multi-physics sim
 
 
 ### [PyGithub](https://github.com/pygithub/pygithub) by [pygithub](https://github.com/pygithub)  
-PyGithub: Typed interactions with the GitHub API v3  
+Typed interactions with the GitHub API v3  
 [https://pygithub.readthedocs.io/](https://pygithub.readthedocs.io/)  
 [https://github.com/pygithub/pygithub](https://github.com/pygithub/pygithub)  
 10 stars per week over 584 weeks  
@@ -4237,7 +4266,7 @@ PyGithub: Typed interactions with the GitHub API v3
 
 
 ### [automl](https://github.com/google/automl) by [google](https://github.com/google)  
-automl: Google Brain AutoML  
+Google Brain AutoML  
 [https://github.com/google/automl](https://github.com/google/automl)  
 35 stars per week over 164 weeks  
 5,820 stars, 1,448 forks, 157 watches  
@@ -4246,7 +4275,7 @@ automl: Google Brain AutoML
 
 
 ### [mplfinance](https://github.com/matplotlib/mplfinance) by [matplotlib](https://github.com/matplotlib)  
-mplfinance: Financial Markets Data Visualization using Matplotlib  
+Financial Markets Data Visualization using Matplotlib  
 [https://pypi.org/project/mplfinance/](https://pypi.org/project/mplfinance/)  
 [https://github.com/matplotlib/mplfinance](https://github.com/matplotlib/mplfinance)  
 15 stars per week over 178 weeks  
@@ -4256,7 +4285,7 @@ mplfinance: Financial Markets Data Visualization using Matplotlib
 
 
 ### [basic-pitch](https://github.com/spotify/basic-pitch) by [spotify](https://github.com/spotify)  
-basic-pitch: A lightweight yet powerful audio-to-MIDI converter with pitch bend detection  
+A lightweight yet powerful audio-to-MIDI converter with pitch bend detection  
 [https://basicpitch.io](https://basicpitch.io)  
 [https://github.com/spotify/basic-pitch](https://github.com/spotify/basic-pitch)  
 35 stars per week over 52 weeks  
@@ -4266,7 +4295,7 @@ basic-pitch: A lightweight yet powerful audio-to-MIDI converter with pitch bend 
 
 
 ### [buildbot](https://github.com/buildbot/buildbot)  
-buildbot: Python-based continuous integration testing framework; your pull requests are more than welcome!  
+Python-based continuous integration testing framework; your pull requests are more than welcome!  
 [https://www.buildbot.net](https://www.buildbot.net)  
 [https://github.com/buildbot/buildbot](https://github.com/buildbot/buildbot)  
 7.51 stars per week over 669 weeks  
@@ -4276,7 +4305,7 @@ buildbot: Python-based continuous integration testing framework; your pull reque
 
 
 ### [whylogs](https://github.com/whylabs/whylogs) by [whylabs](https://github.com/whylabs)  
-whylogs: The open standard for data logging  
+The open standard for data logging  
 [https://whylogs.readthedocs.io/](https://whylogs.readthedocs.io/)  
 [https://github.com/whylabs/whylogs](https://github.com/whylabs/whylogs)  
 15 stars per week over 142 weeks  
@@ -4286,7 +4315,7 @@ whylogs: The open standard for data logging
 
 
 ### [warehouse](https://github.com/pypi/warehouse) by [pypi](https://github.com/pypi)  
-warehouse: The Python Package Index  
+The Python Package Index  
 [https://pypi.org](https://pypi.org)  
 [https://github.com/pypi/warehouse](https://github.com/pypi/warehouse)  
 6.17 stars per week over 527 weeks  
@@ -4295,7 +4324,7 @@ warehouse: The Python Package Index
 
 
 ### [handcalcs](https://github.com/connorferster/handcalcs) by [connorferster](https://github.com/connorferster)  
-handcalcs: Python library for converting Python calculations into rendered latex.  
+Python library for converting Python calculations into rendered latex.  
 [https://github.com/connorferster/handcalcs](https://github.com/connorferster/handcalcs)  
 30 stars per week over 167 weeks  
 5,187 stars, 395 forks, 79 watches  
@@ -4303,7 +4332,7 @@ handcalcs: Python library for converting Python calculations into rendered latex
 
 
 ### [dtale](https://github.com/man-group/dtale) by [man-group](https://github.com/man-group)  
-dtale: Visualizer for pandas data structures  
+Visualizer for pandas data structures  
 [http://alphatechadmin.pythonanywhere.com](http://alphatechadmin.pythonanywhere.com)  
 [https://github.com/man-group/dtale](https://github.com/man-group/dtale)  
 20 stars per week over 198 weeks  
@@ -4323,7 +4352,7 @@ Pygments is a generic syntax highlighter written in Python
 
 
 ### [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) by [karpathy](https://github.com/karpathy)  
-nn-zero-to-hero: Neural Networks: Zero to Hero  
+Neural Networks: Zero to Hero  
 [https://github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)  
 235 stars per week over 34 weeks  
 8,115 stars, 851 forks, 251 watches  
@@ -4331,7 +4360,7 @@ nn-zero-to-hero: Neural Networks: Zero to Hero
 
 
 ### [pyston](https://github.com/pyston/pyston)  
-pyston: A faster and highly-compatible implementation of the Python programming language.  
+A faster and highly-compatible implementation of the Python programming language.  
 [https://www.pyston.org/](https://www.pyston.org/)  
 [https://github.com/pyston/pyston](https://github.com/pyston/pyston)  
 21 stars per week over 113 weeks  
@@ -4349,7 +4378,7 @@ Merlion: A Machine Learning Framework for Time Series Intelligence
 
 
 ### [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) by [tiangolo](https://github.com/tiangolo)  
-full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
+Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 53 stars per week over 219 weeks  
 11,820 stars, 2,155 forks, 193 watches  
@@ -4358,7 +4387,7 @@ full-stack-fastapi-postgresql: Full stack, modern web application generator. Usi
 
 
 ### [lightly](https://github.com/lightly-ai/lightly) by [lightly-ai](https://github.com/lightly-ai)  
-lightly: A python library for self-supervised learning on images.  
+A python library for self-supervised learning on images.  
 [https://docs.lightly.ai/self-supervised-learning/](https://docs.lightly.ai/self-supervised-learning/)  
 [https://github.com/lightly-ai/lightly](https://github.com/lightly-ai/lightly)  
 16 stars per week over 133 weeks  
@@ -4368,7 +4397,7 @@ lightly: A python library for self-supervised learning on images.
 
 
 ### [mlxtend](https://github.com/rasbt/mlxtend) by [rasbt](https://github.com/rasbt)  
-mlxtend: A library of extension and helper modules for Python's data analysis and machine learning libraries.  
+A library of extension and helper modules for Python's data analysis and machine learning libraries.  
 [https://rasbt.github.io/mlxtend/](https://rasbt.github.io/mlxtend/)  
 [https://github.com/rasbt/mlxtend](https://github.com/rasbt/mlxtend)  
 9.63 stars per week over 455 weeks  
@@ -4378,7 +4407,7 @@ mlxtend: A library of extension and helper modules for Python's data analysis an
 
 
 ### [lovely-tensors](https://github.com/xl0/lovely-tensors) by [xl0](https://github.com/xl0)  
-lovely-tensors: Tensors, ready for human consumption  
+Tensors, ready for human consumption  
 [https://xl0.github.io/lovely-tensors](https://xl0.github.io/lovely-tensors)  
 [https://github.com/xl0/lovely-tensors](https://github.com/xl0/lovely-tensors)  
 31 stars per week over 30 weeks  
@@ -4388,7 +4417,7 @@ lovely-tensors: Tensors, ready for human consumption
 
 
 ### [RecBole](https://github.com/rucaibox/recbole) by [rucaibox](https://github.com/rucaibox)  
-RecBole: A unified, comprehensive and efficient recommendation library  
+A unified, comprehensive and efficient recommendation library  
 [https://recbole.io/](https://recbole.io/)  
 [https://github.com/rucaibox/recbole](https://github.com/rucaibox/recbole)  
 17 stars per week over 151 weeks  
@@ -4398,7 +4427,7 @@ RecBole: A unified, comprehensive and efficient recommendation library
 
 
 ### [mmf](https://github.com/facebookresearch/mmf) by [facebookresearch](https://github.com/facebookresearch)  
-mmf: A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)  
+A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)  
 [https://mmf.sh/](https://mmf.sh/)  
 [https://github.com/facebookresearch/mmf](https://github.com/facebookresearch/mmf)  
 20 stars per week over 253 weeks  
@@ -4408,16 +4437,17 @@ mmf: A modular framework for vision & language multimodal research from Facebook
 
 
 ### [geopandas](https://github.com/geopandas/geopandas)  
-geopandas: Python tools for geographic data  
+Python tools for geographic data  
 [http://geopandas.org/](http://geopandas.org/)  
 [https://github.com/geopandas/geopandas](https://github.com/geopandas/geopandas)  
 7.13 stars per week over 514 weeks  
 3,666 stars, 818 forks, 108 watches  
 [gis](categories/gis.md) category, created 2013-06-27, last commit 2023-05-06, main language Python  
+<sub><sup>geopandas, gis, pandas</sup></sub>
 
 
 ### [pytype](https://github.com/google/pytype) by [google](https://github.com/google)  
-pytype: A static type analyzer for Python code  
+A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
 9.89 stars per week over 424 weeks  
@@ -4427,7 +4457,7 @@ pytype: A static type analyzer for Python code
 
 
 ### [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) by [open-telemetry](https://github.com/open-telemetry)  
-opentelemetry-python: OpenTelemetry Python API and SDK   
+OpenTelemetry Python API and SDK   
 [https://opentelemetry.io](https://opentelemetry.io)  
 [https://github.com/open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)  
 6.07 stars per week over 208 weeks  
@@ -4437,7 +4467,7 @@ opentelemetry-python: OpenTelemetry Python API and SDK
 
 
 ### [latexify_py](https://github.com/google/latexify_py) by [google](https://github.com/google)  
-latexify_py: A library to generate LaTeX expression from Python code.  
+A library to generate LaTeX expression from Python code.  
 [https://github.com/google/latexify_py](https://github.com/google/latexify_py)  
 42 stars per week over 145 weeks  
 6,127 stars, 334 forks, 52 watches  
@@ -4445,7 +4475,7 @@ latexify_py: A library to generate LaTeX expression from Python code.
 
 
 ### [theseus](https://github.com/facebookresearch/theseus) by [facebookresearch](https://github.com/facebookresearch)  
-theseus: A library for differentiable nonlinear optimization  
+A library for differentiable nonlinear optimization  
 [https://github.com/facebookresearch/theseus](https://github.com/facebookresearch/theseus)  
 16 stars per week over 76 weeks  
 1,289 stars, 90 forks, 25 watches  
@@ -4454,7 +4484,7 @@ theseus: A library for differentiable nonlinear optimization
 
 
 ### [apscheduler](https://github.com/agronholm/apscheduler) by [agronholm](https://github.com/agronholm)  
-apscheduler: Task scheduling library for Python  
+Task scheduling library for Python  
 [https://github.com/agronholm/apscheduler](https://github.com/agronholm/apscheduler)  
 13 stars per week over 371 weeks  
 4,984 stars, 632 forks, 123 watches  
@@ -4462,7 +4492,7 @@ apscheduler: Task scheduling library for Python
 
 
 ### [deepmind-research](https://github.com/deepmind/deepmind-research) by [deepmind](https://github.com/deepmind)  
-deepmind-research: This repository contains implementations and illustrative code to accompany DeepMind publications  
+This repository contains implementations and illustrative code to accompany DeepMind publications  
 [https://github.com/deepmind/deepmind-research](https://github.com/deepmind/deepmind-research)  
 52 stars per week over 224 weeks  
 11,783 stars, 2,411 forks, 336 watches  
@@ -4470,7 +4500,7 @@ deepmind-research: This repository contains implementations and illustrative cod
 
 
 ### [phoenix](https://github.com/arize-ai/phoenix) by [arize-ai](https://github.com/arize-ai)  
-phoenix: ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models  
+ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models  
 [https://docs.arize.com/phoenix](https://docs.arize.com/phoenix)  
 [https://github.com/arize-ai/phoenix](https://github.com/arize-ai/phoenix)  
 24 stars per week over 25 weeks  
@@ -4480,7 +4510,7 @@ phoenix: ML Observability in a Notebook - Uncover Insights, Surface Problems, Mo
 
 
 ### [deeplearning-models](https://github.com/rasbt/deeplearning-models) by [rasbt](https://github.com/rasbt)  
-deeplearning-models: A collection of various deep learning architectures, models, and tips  
+A collection of various deep learning architectures, models, and tips  
 [https://github.com/rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)  
 76 stars per week over 204 weeks  
 15,750 stars, 3,886 forks, 596 watches  
@@ -4488,7 +4518,7 @@ deeplearning-models: A collection of various deep learning architectures, models
 
 
 ### [satpy](https://github.com/pytroll/satpy) by [pytroll](https://github.com/pytroll)  
-satpy: Python package for earth-observing satellite data processing  
+Python package for earth-observing satellite data processing  
 [http://satpy.readthedocs.org/en/latest/](http://satpy.readthedocs.org/en/latest/)  
 [https://github.com/pytroll/satpy](https://github.com/pytroll/satpy)  
 2.43 stars per week over 377 weeks  
@@ -4507,7 +4537,7 @@ fastdup is a powerful free tool designed to rapidly extract valuable insights fr
 
 
 ### [pywebview](https://github.com/r0x0r/pywebview) by [r0x0r](https://github.com/r0x0r)  
-pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS  
+Build GUI for your Python program with JavaScript, HTML, and CSS  
 [https://pywebview.flowrl.com](https://pywebview.flowrl.com)  
 [https://github.com/r0x0r/pywebview](https://github.com/r0x0r/pywebview)  
 7.98 stars per week over 441 weeks  
@@ -4517,7 +4547,7 @@ pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS
 
 
 ### [pydata-book](https://github.com/wesm/pydata-book) by [wesm](https://github.com/wesm)  
-pydata-book: Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media  
+Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media  
 [https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)  
 34 stars per week over 566 weeks  
 19,321 stars, 14,207 forks, 1,466 watches  
@@ -4525,7 +4555,7 @@ pydata-book: Materials and IPython notebooks for "Python for Data Analysis" by W
 
 
 ### [papermill](https://github.com/nteract/papermill) by [nteract](https://github.com/nteract)  
-papermill: 📚 Parameterize, execute, and analyze notebooks  
+📚 Parameterize, execute, and analyze notebooks  
 [http://papermill.readthedocs.io/en/latest/](http://papermill.readthedocs.io/en/latest/)  
 [https://github.com/nteract/papermill](https://github.com/nteract/papermill)  
 17 stars per week over 304 weeks  
@@ -4535,7 +4565,7 @@ papermill: 📚 Parameterize, execute, and analyze notebooks
 
 
 ### [reloadium](https://github.com/reloadware/reloadium) by [reloadware](https://github.com/reloadware)  
-reloadium: ChatGPT,​ Hot Reloading and Profiling for Python  
+ChatGPT,​ Hot Reloading and Profiling for Python  
 [https://reloadium.io](https://reloadium.io)  
 [https://github.com/reloadware/reloadium](https://github.com/reloadware/reloadium)  
 34 stars per week over 68 weeks  
@@ -4555,7 +4585,7 @@ Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Langu
 
 
 ### [Daft](https://github.com/eventual-inc/daft) by [eventual-inc](https://github.com/eventual-inc)  
-Daft: The Python DataFrame for Complex Data  
+The Python DataFrame for Complex Data  
 [https://getdaft.io](https://getdaft.io)  
 [https://github.com/eventual-inc/daft](https://github.com/eventual-inc/daft)  
 10 stars per week over 53 weeks  
@@ -4565,7 +4595,7 @@ Daft: The Python DataFrame for Complex Data
 
 
 ### [PettingZoo](https://github.com/pettingzoo-team/pettingzoo) by [pettingzoo-team](https://github.com/pettingzoo-team)  
-PettingZoo: A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities  
+A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities  
 [https://pettingzoo.farama.org](https://pettingzoo.farama.org)  
 [https://github.com/pettingzoo-team/pettingzoo](https://github.com/pettingzoo-team/pettingzoo)  
 10 stars per week over 171 weeks  
@@ -4575,7 +4605,7 @@ PettingZoo: A standard API for multi-agent reinforcement learning environments, 
 
 
 ### [dm-haiku](https://github.com/deepmind/dm-haiku) by [deepmind](https://github.com/deepmind)  
-dm-haiku: JAX-based neural network library  
+JAX-based neural network library  
 [https://dm-haiku.readthedocs.io](https://dm-haiku.readthedocs.io)  
 [https://github.com/deepmind/dm-haiku](https://github.com/deepmind/dm-haiku)  
 14 stars per week over 167 weeks  
@@ -4585,7 +4615,7 @@ dm-haiku: JAX-based neural network library
 
 
 ### [backtrader](https://github.com/mementum/backtrader) by [mementum](https://github.com/mementum)  
-backtrader: Python Backtesting library for trading strategies  
+Python Backtesting library for trading strategies  
 [https://www.backtrader.com](https://www.backtrader.com)  
 [https://github.com/mementum/backtrader](https://github.com/mementum/backtrader)  
 24 stars per week over 434 weeks  
@@ -4595,7 +4625,7 @@ backtrader: Python Backtesting library for trading strategies
 
 
 ### [gpt-2](https://github.com/openai/gpt-2) by [openai](https://github.com/openai)  
-gpt-2: Code for the paper "Language Models are Unsupervised Multitask Learners"  
+Code for the paper "Language Models are Unsupervised Multitask Learners"  
 [https://openai.com/blog/better-language-models/](https://openai.com/blog/better-language-models/)  
 [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)  
 85 stars per week over 220 weeks  
@@ -4605,7 +4635,7 @@ gpt-2: Code for the paper "Language Models are Unsupervised Multitask Learners"
 
 
 ### [self-instruct](https://github.com/yizhongw/self-instruct) by [yizhongw](https://github.com/yizhongw)  
-self-instruct: Aligning pretrained language models with instruction data generated by themselves.  
+Aligning pretrained language models with instruction data generated by themselves.  
 [https://github.com/yizhongw/self-instruct](https://github.com/yizhongw/self-instruct)  
 106 stars per week over 19 weeks  
 2,103 stars, 258 forks, 40 watches  
@@ -4614,7 +4644,7 @@ self-instruct: Aligning pretrained language models with instruction data generat
 
 
 ### [pandarallel](https://github.com/nalepae/pandarallel) by [nalepae](https://github.com/nalepae)  
-pandarallel: A simple and efficient tool to parallelize Pandas operations on all available CPUs  
+A simple and efficient tool to parallelize Pandas operations on all available CPUs  
 [https://nalepae.github.io/pandarallel](https://nalepae.github.io/pandarallel)  
 [https://github.com/nalepae/pandarallel](https://github.com/nalepae/pandarallel)  
 13 stars per week over 217 weeks  
@@ -4624,7 +4654,7 @@ pandarallel: A simple and efficient tool to parallelize Pandas operations on all
 
 
 ### [pysc2](https://github.com/deepmind/pysc2) by [deepmind](https://github.com/deepmind)  
-pysc2: StarCraft II Learning Environment  
+StarCraft II Learning Environment  
 [https://github.com/deepmind/pysc2](https://github.com/deepmind/pysc2)  
 25 stars per week over 301 weeks  
 7,751 stars, 1,150 forks, 354 watches  
@@ -4633,7 +4663,7 @@ pysc2: StarCraft II Learning Environment
 
 
 ### [distributed](https://github.com/dask/distributed) by [dask](https://github.com/dask)  
-distributed: A distributed task scheduler for Dask  
+A distributed task scheduler for Dask  
 [https://distributed.dask.org](https://distributed.dask.org)  
 [https://github.com/dask/distributed](https://github.com/dask/distributed)  
 3.67 stars per week over 399 weeks  
@@ -4653,7 +4683,7 @@ pyglet is a cross-platform windowing and multimedia library for Python, for deve
 
 
 ### [python-dotenv](https://github.com/theskumar/python-dotenv) by [theskumar](https://github.com/theskumar)  
-python-dotenv: Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.  
+Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.  
 [https://saurabh-kumar.com/python-dotenv/](https://saurabh-kumar.com/python-dotenv/)  
 [https://github.com/theskumar/python-dotenv](https://github.com/theskumar/python-dotenv)  
 13 stars per week over 452 weeks  
@@ -4682,7 +4712,7 @@ Dopamine is a research framework for fast prototyping of reinforcement learning 
 
 
 ### [pip-audit](https://github.com/trailofbits/pip-audit) by [trailofbits](https://github.com/trailofbits)  
-pip-audit: Audits Python environments and dependency trees for known vulnerabilities  
+Audits Python environments and dependency trees for known vulnerabilities  
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
 8.93 stars per week over 87 weeks  
@@ -4702,7 +4732,7 @@ flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and t
 
 
 ### [holoviews](https://github.com/holoviz/holoviews) by [holoviz](https://github.com/holoviz)  
-holoviews: With Holoviews, your data visualizes itself.  
+With Holoviews, your data visualizes itself.  
 [https://holoviews.org](https://holoviews.org)  
 [https://github.com/holoviz/holoviews](https://github.com/holoviz/holoviews)  
 5.15 stars per week over 469 weeks  
@@ -4712,7 +4742,7 @@ holoviews: With Holoviews, your data visualizes itself.
 
 
 ### [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) by [nielsrogge](https://github.com/nielsrogge)  
-Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace.  
+This repository contains demos I made with the Transformers library by HuggingFace.  
 [https://github.com/nielsrogge/transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials)  
 30 stars per week over 139 weeks  
 4,231 stars, 687 forks, 90 watches  
@@ -4721,7 +4751,7 @@ Transformers-Tutorials: This repository contains demos I made with the Transform
 
 
 ### [eve](https://github.com/pyeve/eve) by [pyeve](https://github.com/pyeve)  
-eve: REST API framework designed for human beings  
+REST API framework designed for human beings  
 [https://python-eve.org](https://python-eve.org)  
 [https://github.com/pyeve/eve](https://github.com/pyeve/eve)  
 12 stars per week over 549 weeks  
@@ -4731,7 +4761,7 @@ eve: REST API framework designed for human beings
 
 
 ### [pyprobml](https://github.com/probml/pyprobml) by [probml](https://github.com/probml)  
-pyprobml: Python code for "Probabilistic Machine learning" book by Kevin Murphy  
+Python code for "Probabilistic Machine learning" book by Kevin Murphy  
 [https://github.com/probml/pyprobml](https://github.com/probml/pyprobml)  
 15 stars per week over 350 weeks  
 5,607 stars, 1,344 forks, 185 watches  
@@ -4740,7 +4770,7 @@ pyprobml: Python code for "Probabilistic Machine learning" book by Kevin Murphy
 
 
 ### [vizier](https://github.com/google/vizier) by [google](https://github.com/google)  
-vizier: Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.  
+Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.  
 [https://oss-vizier.readthedocs.io](https://oss-vizier.readthedocs.io)  
 [https://github.com/google/vizier](https://github.com/google/vizier)  
 16 stars per week over 63 weeks  
@@ -4750,7 +4780,7 @@ vizier: Python-based research interface for blackbox and hyperparameter optimiza
 
 
 ### [line_profiler](https://github.com/pyutils/line_profiler) by [pyutils](https://github.com/pyutils)  
-line_profiler: Line-by-line profiling for Python  
+Line-by-line profiling for Python  
 [https://github.com/pyutils/line_profiler](https://github.com/pyutils/line_profiler)  
 10 stars per week over 177 weeks  
 1,805 stars, 99 forks, 16 watches  
@@ -4758,7 +4788,7 @@ line_profiler: Line-by-line profiling for Python
 
 
 ### [allennlp](https://github.com/allenai/allennlp) by [allenai](https://github.com/allenai)  
-allennlp: An open-source NLP research library, built on PyTorch.  
+An open-source NLP research library, built on PyTorch.  
 [http://www.allennlp.org](http://www.allennlp.org)  
 [https://github.com/allenai/allennlp](https://github.com/allenai/allennlp)  
 36 stars per week over 311 weeks  
@@ -4768,7 +4798,7 @@ allennlp: An open-source NLP research library, built on PyTorch.
 
 
 ### [katib](https://github.com/kubeflow/katib) by [kubeflow](https://github.com/kubeflow)  
-katib: Repository for hyperparameter tuning  
+Repository for hyperparameter tuning  
 [https://github.com/kubeflow/katib](https://github.com/kubeflow/katib)  
 4.99 stars per week over 265 weeks  
 1,325 stars, 387 forks, 68 watches  
@@ -4776,7 +4806,7 @@ katib: Repository for hyperparameter tuning
 
 
 ### [ormar](https://github.com/collerek/ormar) by [collerek](https://github.com/collerek)  
-ormar: python async orm with fastapi in mind and pydantic validation  
+python async orm with fastapi in mind and pydantic validation  
 [https://collerek.github.io/ormar/](https://collerek.github.io/ormar/)  
 [https://github.com/collerek/ormar](https://github.com/collerek/ormar)  
 9.12 stars per week over 144 weeks  
@@ -4786,7 +4816,7 @@ ormar: python async orm with fastapi in mind and pydantic validation
 
 
 ### [dm_control](https://github.com/deepmind/dm_control) by [deepmind](https://github.com/deepmind)  
-dm_control: DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.  
+DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.  
 [https://github.com/deepmind/dm_control](https://github.com/deepmind/dm_control)  
 11 stars per week over 279 weeks  
 3,180 stars, 608 forks, 127 watches  
@@ -4795,7 +4825,7 @@ dm_control: DeepMind's software stack for physics-based simulation and Reinforce
 
 
 ### [causalml](https://github.com/uber/causalml) by [uber](https://github.com/uber)  
-causalml: Uplift modeling and causal inference with machine learning algorithms  
+Uplift modeling and causal inference with machine learning algorithms  
 [https://github.com/uber/causalml](https://github.com/uber/causalml)  
 19 stars per week over 199 weeks  
 3,954 stars, 646 forks, 79 watches  
@@ -4822,7 +4852,7 @@ Zipline, a Pythonic Algorithmic Trading Library
 
 
 ### [python-socketio](https://github.com/miguelgrinberg/python-socketio) by [miguelgrinberg](https://github.com/miguelgrinberg)  
-python-socketio: Python Socket.IO server and client  
+Python Socket.IO server and client  
 [https://github.com/miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio)  
 8.22 stars per week over 407 weeks  
 3,351 stars, 542 forks, 63 watches  
@@ -4831,7 +4861,7 @@ python-socketio: Python Socket.IO server and client
 
 
 ### [arcade](https://github.com/pythonarcade/arcade) by [pythonarcade](https://github.com/pythonarcade)  
-arcade: Easy to use Python library for creating 2D arcade games.  
+Easy to use Python library for creating 2D arcade games.  
 [http://arcade.academy](http://arcade.academy)  
 [https://github.com/pythonarcade/arcade](https://github.com/pythonarcade/arcade)  
 3.79 stars per week over 382 weeks  
@@ -4841,7 +4871,7 @@ arcade: Easy to use Python library for creating 2D arcade games.
 
 
 ### [addons](https://github.com/tensorflow/addons) by [tensorflow](https://github.com/tensorflow)  
-addons: Useful extra functionality for TensorFlow 2.x maintained by SIG-addons  
+Useful extra functionality for TensorFlow 2.x maintained by SIG-addons  
 [https://github.com/tensorflow/addons](https://github.com/tensorflow/addons)  
 7.09 stars per week over 231 weeks  
 1,644 stars, 609 forks, 60 watches  
@@ -4850,17 +4880,17 @@ addons: Useful extra functionality for TensorFlow 2.x maintained by SIG-addons
 
 
 ### [opencv-python](https://github.com/skvark/opencv-python) by [skvark](https://github.com/skvark)  
-opencv-python: Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  
+Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.  
 [https://pypi.org/project/opencv-python/](https://pypi.org/project/opencv-python/)  
 [https://github.com/skvark/opencv-python](https://github.com/skvark/opencv-python)  
 9.37 stars per week over 369 weeks  
 3,462 stars, 683 forks, 86 watches  
 [ml](categories/ml.md) category, created 2016-04-08, last commit 2023-03-16, main language Shell  
-<sub><sup>manylinux, opencv, opencv-contrib-python, opencv-python, precompiled, pypi, wheel</sup></sub>
+<sub><sup>manylinux, opencv, opencv-contrib-python, opencv-python, precompiled, wheel</sup></sub>
 
 
 ### [tenacity](https://github.com/jd/tenacity) by [jd](https://github.com/jd)  
-tenacity: Retrying library for Python  
+Retrying library for Python  
 [http://tenacity.readthedocs.io](http://tenacity.readthedocs.io)  
 [https://github.com/jd/tenacity](https://github.com/jd/tenacity)  
 13 stars per week over 351 weeks  
@@ -4870,7 +4900,7 @@ tenacity: Retrying library for Python
 
 
 ### [featureform](https://github.com/featureform/embeddinghub)  
-featureform: The Virtual Feature Store. Turn your existing data infrastructure into a feature store.  
+The Virtual Feature Store. Turn your existing data infrastructure into a feature store.  
 [https://www.featureform.com](https://www.featureform.com)  
 [https://github.com/featureform/embeddinghub](https://github.com/featureform/embeddinghub)  
 9.72 stars per week over 133 weeks  
@@ -4880,7 +4910,7 @@ featureform: The Virtual Feature Store. Turn your existing data infrastructure i
 
 
 ### [sparseml](https://github.com/neuralmagic/sparseml) by [neuralmagic](https://github.com/neuralmagic)  
-sparseml: Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models  
+Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models  
 [https://github.com/neuralmagic/sparseml](https://github.com/neuralmagic/sparseml)  
 12 stars per week over 125 weeks  
 1,617 stars, 118 forks, 42 watches  
@@ -4889,7 +4919,7 @@ sparseml: Libraries for applying sparsification recipes to neural networks with 
 
 
 ### [csvkit](https://github.com/wireservice/csvkit) by [wireservice](https://github.com/wireservice)  
-csvkit: A suite of utilities for converting to and working with CSV, the king of tabular file formats.  
+A suite of utilities for converting to and working with CSV, the king of tabular file formats.  
 [http://csvkit.rtfd.org/](http://csvkit.rtfd.org/)  
 [https://github.com/wireservice/csvkit](https://github.com/wireservice/csvkit)  
 8.63 stars per week over 631 weeks  
@@ -4898,7 +4928,7 @@ csvkit: A suite of utilities for converting to and working with CSV, the king of
 
 
 ### [DeepPavlov](https://github.com/deeppavlov/deeppavlov) by [deeppavlov](https://github.com/deeppavlov)  
-DeepPavlov: An open source library for deep learning end-to-end dialog systems and chatbots.  
+An open source library for deep learning end-to-end dialog systems and chatbots.  
 [https://deeppavlov.ai](https://deeppavlov.ai)  
 [https://github.com/deeppavlov/deeppavlov](https://github.com/deeppavlov/deeppavlov)  
 21 stars per week over 285 weeks  
@@ -4908,7 +4938,7 @@ DeepPavlov: An open source library for deep learning end-to-end dialog systems a
 
 
 ### [deepsparse](https://github.com/neuralmagic/deepsparse) by [neuralmagic](https://github.com/neuralmagic)  
-deepsparse: Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application  
+Inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application  
 [https://github.com/neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse)  
 11 stars per week over 124 weeks  
 1,459 stars, 90 forks, 41 watches  
@@ -4917,7 +4947,7 @@ deepsparse: Inference runtime offering GPU-class performance on CPUs and APIs to
 
 
 ### [safari](https://github.com/hazyresearch/safari) by [hazyresearch](https://github.com/hazyresearch)  
-safari: Convolutions for Sequence Modeling  
+Convolutions for Sequence Modeling  
 [https://github.com/hazyresearch/safari](https://github.com/hazyresearch/safari)  
 42 stars per week over 11 weeks  
 498 stars, 34 forks, 29 watches  
@@ -4935,7 +4965,7 @@ xlwings is a Python library that makes it easy to call Python from Excel and vic
 
 
 ### [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) by [donnemartin](https://github.com/donnemartin)  
-interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.  
+120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.  
 [https://github.com/donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)  
 65 stars per week over 418 weeks  
 27,243 stars, 4,355 forks, 970 watches  
@@ -4944,7 +4974,7 @@ interactive-coding-challenges: 120+ interactive Python coding interview challeng
 
 
 ### [BasicSR](https://github.com/xpixelgroup/basicsr) by [xpixelgroup](https://github.com/xpixelgroup)  
-BasicSR: Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.  
+Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.  
 [https://basicsr.readthedocs.io/en/latest/](https://basicsr.readthedocs.io/en/latest/)  
 [https://github.com/xpixelgroup/basicsr](https://github.com/xpixelgroup/basicsr)  
 18 stars per week over 263 weeks  
@@ -4964,7 +4994,7 @@ bottle.py is a fast and simple micro-framework for python web-applications.
 
 
 ### [joblib](https://github.com/joblib/joblib)  
-joblib: Computing with Python functions.  
+Computing with Python functions.  
 [http://joblib.readthedocs.org](http://joblib.readthedocs.org)  
 [https://github.com/joblib/joblib](https://github.com/joblib/joblib)  
 4.77 stars per week over 678 weeks  
@@ -4974,7 +5004,7 @@ joblib: Computing with Python functions.
 
 
 ### [datashader](https://github.com/holoviz/datashader) by [holoviz](https://github.com/holoviz)  
-datashader: Quickly and accurately render even the largest data.  
+Quickly and accurately render even the largest data.  
 [http://datashader.org](http://datashader.org)  
 [https://github.com/holoviz/datashader](https://github.com/holoviz/datashader)  
 7.73 stars per week over 384 weeks  
@@ -4984,7 +5014,7 @@ datashader: Quickly and accurately render even the largest data.
 
 
 ### [alibi](https://github.com/seldonio/alibi) by [seldonio](https://github.com/seldonio)  
-alibi: Algorithms for explaining machine learning models  
+Algorithms for explaining machine learning models  
 [https://docs.seldon.io/projects/alibi/en/stable/](https://docs.seldon.io/projects/alibi/en/stable/)  
 [https://github.com/seldonio/alibi](https://github.com/seldonio/alibi)  
 9.23 stars per week over 218 weeks  
@@ -4994,7 +5024,7 @@ alibi: Algorithms for explaining machine learning models
 
 
 ### [vertex-ai-samples](https://github.com/googlecloudplatform/vertex-ai-samples) by [googlecloudplatform](https://github.com/googlecloudplatform)  
-vertex-ai-samples: Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud  
+Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud  
 [https://cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai)  
 [https://github.com/googlecloudplatform/vertex-ai-samples](https://github.com/googlecloudplatform/vertex-ai-samples)  
 6.78 stars per week over 101 weeks  
@@ -5013,7 +5043,7 @@ LightSeq: A High Performance Library for Sequence Processing and Generation
 
 
 ### [quart](https://github.com/pallets/quart) by [pallets](https://github.com/pallets)  
-quart: An async Python micro framework for building web applications.   
+An async Python micro framework for building web applications.   
 [https://quart.palletsprojects.com](https://quart.palletsprojects.com)  
 [https://github.com/pallets/quart](https://github.com/pallets/quart)  
 6.32 stars per week over 286 weeks  
@@ -5023,7 +5053,7 @@ quart: An async Python micro framework for building web applications.
 
 
 ### [now](https://github.com/jina-ai/now) by [jina-ai](https://github.com/jina-ai)  
-now: 🧞 No-code tool for creating a neural search solution in minutes  
+🧞 No-code tool for creating a neural search solution in minutes  
 [https://now.jina.ai](https://now.jina.ai)  
 [https://github.com/jina-ai/now](https://github.com/jina-ai/now)  
 9.61 stars per week over 60 weeks  
@@ -5033,7 +5063,7 @@ now: 🧞 No-code tool for creating a neural search solution in minutes
 
 
 ### [explainerdashboard](https://github.com/oegedijk/explainerdashboard) by [oegedijk](https://github.com/oegedijk)  
-explainerdashboard: Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
+Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
 [https://github.com/oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard)  
 9.12 stars per week over 183 weeks  
@@ -5043,7 +5073,7 @@ explainerdashboard: Quickly build Explainable AI dashboards that show the inner 
 
 
 ### [arrow](https://github.com/arrow-py/arrow) by [arrow-py](https://github.com/arrow-py)  
-arrow: 🏹 Better dates & times for Python  
+🏹 Better dates & times for Python  
 [https://arrow.readthedocs.io](https://arrow.readthedocs.io)  
 [https://github.com/arrow-py/arrow](https://github.com/arrow-py/arrow)  
 15 stars per week over 546 weeks  
@@ -5053,7 +5083,7 @@ arrow: 🏹 Better dates & times for Python
 
 
 ### [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
-imbalanced-learn:  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning  
+ A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning  
 [https://imbalanced-learn.org](https://imbalanced-learn.org)  
 [https://github.com/scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)  
 13 stars per week over 455 weeks  
@@ -5063,7 +5093,7 @@ imbalanced-learn:  A Python Package to Tackle the Curse of Imbalanced Datasets i
 
 
 ### [finetuner](https://github.com/jina-ai/finetuner) by [jina-ai](https://github.com/jina-ai)  
-finetuner: :dart: Task-oriented finetuning for better embeddings on neural search  
+:dart: Task-oriented finetuning for better embeddings on neural search  
 [https://finetuner.jina.ai](https://finetuner.jina.ai)  
 [https://github.com/jina-ai/finetuner](https://github.com/jina-ai/finetuner)  
 11 stars per week over 90 weeks  
@@ -5073,7 +5103,7 @@ finetuner: :dart: Task-oriented finetuning for better embeddings on neural searc
 
 
 ### [flask-restx](https://github.com/python-restx/flask-restx) by [python-restx](https://github.com/python-restx)  
-flask-restx: Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask  
+Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask  
 [https://flask-restx.readthedocs.io/en/latest/](https://flask-restx.readthedocs.io/en/latest/)  
 [https://github.com/python-restx/flask-restx](https://github.com/python-restx/flask-restx)  
 10 stars per week over 173 weeks  
@@ -5083,7 +5113,7 @@ flask-restx: Fork of Flask-RESTPlus: Fully featured framework for fast, easy and
 
 
 ### [more-itertools](https://github.com/more-itertools/more-itertools)  
-more-itertools: More routines for operating on iterables, beyond itertools  
+More routines for operating on iterables, beyond itertools  
 [https://more-itertools.rtfd.io](https://more-itertools.rtfd.io)  
 [https://github.com/more-itertools/more-itertools](https://github.com/more-itertools/more-itertools)  
 5.26 stars per week over 575 weeks  
@@ -5092,7 +5122,7 @@ more-itertools: More routines for operating on iterables, beyond itertools
 
 
 ### [h5py](https://github.com/h5py/h5py)  
-h5py: HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.  
+HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.  
 [http://www.h5py.org](http://www.h5py.org)  
 [https://github.com/h5py/h5py](https://github.com/h5py/h5py)  
 3.37 stars per week over 554 weeks  
@@ -5101,7 +5131,7 @@ h5py: HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 bi
 
 
 ### [pyomo](https://github.com/pyomo/pyomo)  
-pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.  
+An object-oriented algebraic modeling language in Python for structured optimization problems.  
 [https://www.pyomo.org](https://www.pyomo.org)  
 [https://github.com/pyomo/pyomo](https://github.com/pyomo/pyomo)  
 4.23 stars per week over 362 weeks  
@@ -5120,7 +5150,7 @@ VISSL is FAIR's library of extensible, modular and scalable components for SOTA 
 
 
 ### [knowledge-repo](https://github.com/airbnb/knowledge-repo) by [airbnb](https://github.com/airbnb)  
-knowledge-repo: A next-generation curated knowledge sharing platform for data scientists and other technical professions.  
+A next-generation curated knowledge sharing platform for data scientists and other technical professions.  
 [https://github.com/airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo)  
 15 stars per week over 350 weeks  
 5,317 stars, 710 forks, 174 watches  
@@ -5129,7 +5159,7 @@ knowledge-repo: A next-generation curated knowledge sharing platform for data sc
 
 
 ### [plotnine](https://github.com/has2k1/plotnine) by [has2k1](https://github.com/has2k1)  
-plotnine: A grammar of graphics for Python  
+A grammar of graphics for Python  
 [https://plotnine.readthedocs.io/en/stable/](https://plotnine.readthedocs.io/en/stable/)  
 [https://github.com/has2k1/plotnine](https://github.com/has2k1/plotnine)  
 10 stars per week over 314 weeks  
@@ -5139,7 +5169,7 @@ plotnine: A grammar of graphics for Python
 
 
 ### [jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) by [jupyter-lsp](https://github.com/jupyter-lsp)  
-jupyterlab-lsp: Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol  
+Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol  
 [https://github.com/jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp)  
 7.65 stars per week over 194 weeks  
 1,485 stars, 121 forks, 17 watches  
@@ -5148,7 +5178,7 @@ jupyterlab-lsp: Coding assistance for JupyterLab (code navigation + hover sugges
 
 
 ### [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) by [fchollet](https://github.com/fchollet)  
-deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python"  
+Jupyter notebooks for the code samples of the book "Deep Learning with Python"  
 [https://github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)  
 56 stars per week over 295 weeks  
 16,745 stars, 8,143 forks, 642 watches  
@@ -5156,7 +5186,7 @@ deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of t
 
 
 ### [autograd](https://github.com/hips/autograd) by [hips](https://github.com/hips)  
-autograd: Efficiently computes derivatives of numpy code.  
+Efficiently computes derivatives of numpy code.  
 [https://github.com/hips/autograd](https://github.com/hips/autograd)  
 14 stars per week over 440 weeks  
 6,283 stars, 861 forks, 218 watches  
@@ -5172,7 +5202,7 @@ Lime: Explaining the predictions of any machine learning classifier
 
 
 ### [blankly](https://github.com/blankly-finance/blankly) by [blankly-finance](https://github.com/blankly-finance)  
-blankly: 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.  
+🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.  
 [https://package.blankly.finance](https://package.blankly.finance)  
 [https://github.com/blankly-finance/blankly](https://github.com/blankly-finance/blankly)  
 14 stars per week over 112 weeks  
@@ -5192,7 +5222,7 @@ Rasterio reads and writes geospatial raster datasets
 
 
 ### [RPA-Python](https://github.com/tebelorg/rpa-python) by [tebelorg](https://github.com/tebelorg)  
-RPA-Python: Python package for doing RPA  
+Python package for doing RPA  
 [https://github.com/tebelorg/rpa-python](https://github.com/tebelorg/rpa-python)  
 18 stars per week over 214 weeks  
 3,884 stars, 572 forks, 103 watches  
@@ -5201,7 +5231,7 @@ RPA-Python: Python package for doing RPA
 
 
 ### [nbconvert](https://github.com/jupyter/nbconvert) by [jupyter](https://github.com/jupyter)  
-nbconvert: Jupyter Notebook Conversion  
+Jupyter Notebook Conversion  
 [https://nbconvert.readthedocs.io/](https://nbconvert.readthedocs.io/)  
 [https://github.com/jupyter/nbconvert](https://github.com/jupyter/nbconvert)  
 3.53 stars per week over 421 weeks  
@@ -5210,7 +5240,7 @@ nbconvert: Jupyter Notebook Conversion
 
 
 ### [SDV](https://github.com/sdv-dev/sdv) by [sdv-dev](https://github.com/sdv-dev)  
-SDV: Synthetic Data Generation for tabular, relational and time series data.  
+Synthetic Data Generation for tabular, relational and time series data.  
 [https://sdv.dev/SDV](https://sdv.dev/SDV)  
 [https://github.com/sdv-dev/sdv](https://github.com/sdv-dev/sdv)  
 5.53 stars per week over 260 weeks  
@@ -5220,7 +5250,7 @@ SDV: Synthetic Data Generation for tabular, relational and time series data.
 
 
 ### [ReAgent](https://github.com/facebookresearch/reagent) by [facebookresearch](https://github.com/facebookresearch)  
-ReAgent: A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)  
+A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)  
 [https://reagent.ai](https://reagent.ai)  
 [https://github.com/facebookresearch/reagent](https://github.com/facebookresearch/reagent)  
 11 stars per week over 301 weeks  
@@ -5229,7 +5259,7 @@ ReAgent: A platform for Reasoning systems (Reinforcement Learning, Contextual Ba
 
 
 ### [tablib](https://github.com/jazzband/tablib) by [jazzband](https://github.com/jazzband)  
-tablib: Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  
+Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  
 [https://tablib.readthedocs.io/](https://tablib.readthedocs.io/)  
 [https://github.com/jazzband/tablib](https://github.com/jazzband/tablib)  
 6.72 stars per week over 631 weeks  
@@ -5246,7 +5276,7 @@ OpenAI Baselines: high-quality implementations of reinforcement learning algorit
 
 
 ### [TensorLayer](https://github.com/tensorlayer/tensorlayer) by [tensorlayer](https://github.com/tensorlayer)  
-TensorLayer: Deep Learning and Reinforcement Learning Library for Scientists and Engineers   
+Deep Learning and Reinforcement Learning Library for Scientists and Engineers   
 [http://tensorlayerx.com](http://tensorlayerx.com)  
 [https://github.com/tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)  
 19 stars per week over 360 weeks  
@@ -5256,7 +5286,7 @@ TensorLayer: Deep Learning and Reinforcement Learning Library for Scientists and
 
 
 ### [tensorstore](https://github.com/google/tensorstore) by [google](https://github.com/google)  
-tensorstore: Library for reading and writing large multi-dimensional arrays.  
+Library for reading and writing large multi-dimensional arrays.  
 [https://google.github.io/tensorstore/](https://google.github.io/tensorstore/)  
 [https://github.com/google/tensorstore](https://github.com/google/tensorstore)  
 7.06 stars per week over 161 weeks  
@@ -5265,7 +5295,7 @@ tensorstore: Library for reading and writing large multi-dimensional arrays.
 
 
 ### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
-typeguard: Run-time type checker for Python  
+Run-time type checker for Python  
 [https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
 3.08 stars per week over 384 weeks  
 1,181 stars, 93 forks, 18 watches  
@@ -5273,7 +5303,7 @@ typeguard: Run-time type checker for Python
 
 
 ### [zarr-python](https://github.com/zarr-developers/zarr-python) by [zarr-developers](https://github.com/zarr-developers)  
-zarr-python: An implementation of chunked, compressed, N-dimensional arrays for Python.  
+An implementation of chunked, compressed, N-dimensional arrays for Python.  
 [http://zarr.readthedocs.io/](http://zarr.readthedocs.io/)  
 [https://github.com/zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)  
 2.94 stars per week over 385 weeks  
@@ -5283,7 +5313,7 @@ zarr-python: An implementation of chunked, compressed, N-dimensional arrays for 
 
 
 ### [XlsxWriter](https://github.com/jmcnamara/xlsxwriter) by [jmcnamara](https://github.com/jmcnamara)  
-XlsxWriter: A Python module for creating Excel XLSX files.  
+A Python module for creating Excel XLSX files.  
 [https://xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io)  
 [https://github.com/jmcnamara/xlsxwriter](https://github.com/jmcnamara/xlsxwriter)  
 5.98 stars per week over 539 weeks  
@@ -5301,7 +5331,7 @@ eleutherai/pythia
 
 
 ### [uvloop](https://github.com/magicstack/uvloop) by [magicstack](https://github.com/magicstack)  
-uvloop: Ultra fast asyncio event loop.  
+Ultra fast asyncio event loop.  
 [https://github.com/magicstack/uvloop](https://github.com/magicstack/uvloop)  
 23 stars per week over 391 weeks  
 9,299 stars, 546 forks, 224 watches  
@@ -5310,7 +5340,7 @@ uvloop: Ultra fast asyncio event loop.
 
 
 ### [speech_recognition](https://github.com/uberi/speech_recognition) by [uberi](https://github.com/uberi)  
-speech_recognition: Speech recognition module for Python, supporting several engines and APIs, online and offline.  
+Speech recognition module for Python, supporting several engines and APIs, online and offline.  
 [https://pypi.python.org/pypi/SpeechRecognition/](https://pypi.python.org/pypi/SpeechRecognition/)  
 [https://github.com/uberi/speech_recognition](https://github.com/uberi/speech_recognition)  
 15 stars per week over 471 weeks  
@@ -5320,7 +5350,7 @@ speech_recognition: Speech recognition module for Python, supporting several eng
 
 
 ### [backtesting.py](https://github.com/kernc/backtesting.py) by [kernc](https://github.com/kernc)  
-backtesting.py: :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.  
+:mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.  
 [https://kernc.github.io/backtesting.py/](https://kernc.github.io/backtesting.py/)  
 [https://github.com/kernc/backtesting.py](https://github.com/kernc/backtesting.py)  
 15 stars per week over 226 weeks  
@@ -5330,7 +5360,7 @@ backtesting.py: :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backt
 
 
 ### [hyperopt](https://github.com/hyperopt/hyperopt)  
-hyperopt: Distributed Asynchronous Hyperparameter Optimization in Python  
+Distributed Asynchronous Hyperparameter Optimization in Python  
 [http://hyperopt.github.io/hyperopt](http://hyperopt.github.io/hyperopt)  
 [https://github.com/hyperopt/hyperopt](https://github.com/hyperopt/hyperopt)  
 11 stars per week over 608 weeks  
@@ -5339,7 +5369,7 @@ hyperopt: Distributed Asynchronous Hyperparameter Optimization in Python
 
 
 ### [ultrajson](https://github.com/ultrajson/ultrajson)  
-ultrajson: Ultra fast JSON decoder and encoder written in C with Python bindings  
+Ultra fast JSON decoder and encoder written in C with Python bindings  
 [https://pypi.org/project/ujson/](https://pypi.org/project/ujson/)  
 [https://github.com/ultrajson/ultrajson](https://github.com/ultrajson/ultrajson)  
 6.36 stars per week over 636 weeks  
@@ -5349,7 +5379,7 @@ ultrajson: Ultra fast JSON decoder and encoder written in C with Python bindings
 
 
 ### [icecream](https://github.com/gruns/icecream) by [gruns](https://github.com/gruns)  
-icecream: 🍦 Never use print() to debug again.  
+🍦 Never use print() to debug again.  
 [https://github.com/gruns/icecream](https://github.com/gruns/icecream)  
 24 stars per week over 272 weeks  
 6,742 stars, 137 forks, 51 watches  
@@ -5358,7 +5388,7 @@ icecream: 🍦 Never use print() to debug again.
 
 
 ### [supervisor](https://github.com/home-assistant/supervisor) by [home-assistant](https://github.com/home-assistant)  
-supervisor: :house_with_garden: Home Assistant Supervisor  
+:house_with_garden: Home Assistant Supervisor  
 [https://home-assistant.io/hassio/](https://home-assistant.io/hassio/)  
 [https://github.com/home-assistant/supervisor](https://github.com/home-assistant/supervisor)  
 4.31 stars per week over 320 weeks  
@@ -5405,7 +5435,7 @@ PyGraphistry is a Python library to quickly load, shape, embed, and explore big 
 
 
 ### [thinc](https://github.com/explosion/thinc) by [explosion](https://github.com/explosion)  
-thinc: 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries  
+🔮 A refreshing functional take on deep learning, compatible with your favorite libraries  
 [https://thinc.ai](https://thinc.ai)  
 [https://github.com/explosion/thinc](https://github.com/explosion/thinc)  
 6.08 stars per week over 446 weeks  
@@ -5415,7 +5445,7 @@ thinc: 🔮 A refreshing functional take on deep learning, compatible with your 
 
 
 ### [imgaug](https://github.com/aleju/imgaug) by [aleju](https://github.com/aleju)  
-imgaug: Image augmentation for machine learning experiments.  
+Image augmentation for machine learning experiments.  
 [http://imgaug.readthedocs.io](http://imgaug.readthedocs.io)  
 [https://github.com/aleju/imgaug](https://github.com/aleju/imgaug)  
 33 stars per week over 408 weeks  
@@ -5425,7 +5455,7 @@ imgaug: Image augmentation for machine learning experiments.
 
 
 ### [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) by [vizzuhq](https://github.com/vizzuhq)  
-ipyvizzu: Build animated charts in Jupyter Notebook and similar environments with a simple Python syntax.  
+Build animated charts in Jupyter Notebook and similar environments with a simple Python syntax.  
 [https://ipyvizzu.vizzuhq.com](https://ipyvizzu.vizzuhq.com)  
 [https://github.com/vizzuhq/ipyvizzu](https://github.com/vizzuhq/ipyvizzu)  
 11 stars per week over 69 weeks  
@@ -5435,7 +5465,7 @@ ipyvizzu: Build animated charts in Jupyter Notebook and similar environments wit
 
 
 ### [awkward](https://github.com/scikit-hep/awkward-1.0) by [scikit-hep](https://github.com/scikit-hep)  
-awkward: Manipulate JSON-like data with NumPy-like idioms.  
+Manipulate JSON-like data with NumPy-like idioms.  
 [https://awkward-array.org](https://awkward-array.org)  
 [https://github.com/scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)  
 3.51 stars per week over 194 weeks  
@@ -5445,7 +5475,7 @@ awkward: Manipulate JSON-like data with NumPy-like idioms.
 
 
 ### [intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) by [intel](https://github.com/intel)  
-intel-extension-for-pytorch: A Python package for extending the official PyTorch that can easily obtain performance on Intel platform  
+A Python package for extending the official PyTorch that can easily obtain performance on Intel platform  
 [https://github.com/intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch)  
 4.78 stars per week over 159 weeks  
 763 stars, 110 forks, 32 watches  
@@ -5454,7 +5484,7 @@ intel-extension-for-pytorch: A Python package for extending the official PyTorch
 
 
 ### [dalle-playground](https://github.com/saharmor/dalle-playground) by [saharmor](https://github.com/saharmor)  
-dalle-playground: A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)  
+A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)  
 [https://github.com/saharmor/dalle-playground](https://github.com/saharmor/dalle-playground)  
 30 stars per week over 85 weeks  
 2,657 stars, 587 forks, 31 watches  
@@ -5463,7 +5493,7 @@ dalle-playground: A playground to generate images from any text prompt using Sta
 
 
 ### [tf-quant-finance](https://github.com/google/tf-quant-finance) by [google](https://github.com/google)  
-tf-quant-finance: High-performance TensorFlow library for quantitative finance.  
+High-performance TensorFlow library for quantitative finance.  
 [https://github.com/google/tf-quant-finance](https://github.com/google/tf-quant-finance)  
 19 stars per week over 197 weeks  
 3,860 stars, 513 forks, 169 watches  
@@ -5472,7 +5502,7 @@ tf-quant-finance: High-performance TensorFlow library for quantitative finance.
 
 
 ### [machine-learning-book](https://github.com/rasbt/machine-learning-book) by [rasbt](https://github.com/rasbt)  
-machine-learning-book: Code Repository for Machine Learning with PyTorch and Scikit-Learn  
+Code Repository for Machine Learning with PyTorch and Scikit-Learn  
 [https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn)  
 [https://github.com/rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book)  
 26 stars per week over 72 weeks  
@@ -5482,7 +5512,7 @@ machine-learning-book: Code Repository for Machine Learning with PyTorch and Sci
 
 
 ### [torchio](https://github.com/fepegar/torchio) by [fepegar](https://github.com/fepegar)  
-torchio: Medical imaging toolkit for deep learning  
+Medical imaging toolkit for deep learning  
 [http://www.torchio.org](http://www.torchio.org)  
 [https://github.com/fepegar/torchio](https://github.com/fepegar/torchio)  
 9.5 stars per week over 179 weeks  
@@ -5492,7 +5522,7 @@ torchio: Medical imaging toolkit for deep learning
 
 
 ### [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) by [cmusphinx](https://github.com/cmusphinx)  
-pocketsphinx: A small speech recognizer  
+A small speech recognizer  
 [https://github.com/cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx)  
 7.06 stars per week over 473 weeks  
 3,347 stars, 645 forks, 157 watches  
@@ -5511,7 +5541,7 @@ skops is a Python library helping you share your scikit-learn based models and p
 
 
 ### [datapane](https://github.com/datapane/datapane)  
-datapane: Build full-stack data apps in 100% Python  
+Build full-stack data apps in 100% Python  
 [https://datapane.com](https://datapane.com)  
 [https://github.com/datapane/datapane](https://github.com/datapane/datapane)  
 7.51 stars per week over 158 weeks  
@@ -5521,7 +5551,7 @@ datapane: Build full-stack data apps in 100% Python
 
 
 ### [shapash](https://github.com/maif/shapash) by [maif](https://github.com/maif)  
-shapash: 🔅 Shapash makes Machine Learning models transparent and understandable by everyone  
+🔅 Shapash makes Machine Learning models transparent and understandable by everyone  
 [https://maif.github.io/shapash/](https://maif.github.io/shapash/)  
 [https://github.com/maif/shapash](https://github.com/maif/shapash)  
 13 stars per week over 157 weeks  
@@ -5531,7 +5561,7 @@ shapash: 🔅 Shapash makes Machine Learning models transparent and understandab
 
 
 ### [pendulum](https://github.com/sdispater/pendulum) by [sdispater](https://github.com/sdispater)  
-pendulum: Python datetimes made easy  
+Python datetimes made easy  
 [https://pendulum.eustace.io](https://pendulum.eustace.io)  
 [https://github.com/sdispater/pendulum](https://github.com/sdispater/pendulum)  
 15 stars per week over 357 weeks  
@@ -5541,7 +5571,7 @@ pendulum: Python datetimes made easy
 
 
 ### [mongo-python-driver](https://github.com/mongodb/mongo-python-driver) by [mongodb](https://github.com/mongodb)  
-mongo-python-driver: PyMongo - the Official MongoDB Python driver  
+PyMongo - the Official MongoDB Python driver  
 [https://pymongo.readthedocs.io](https://pymongo.readthedocs.io)  
 [https://github.com/mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver)  
 5.13 stars per week over 746 weeks  
@@ -5551,7 +5581,7 @@ mongo-python-driver: PyMongo - the Official MongoDB Python driver
 
 
 ### [criticality_score](https://github.com/ossf/criticality_score) by [ossf](https://github.com/ossf)  
-criticality_score: Gives criticality score for an open source project  
+Gives criticality score for an open source project  
 [https://github.com/ossf/criticality_score](https://github.com/ossf/criticality_score)  
 9.38 stars per week over 128 weeks  
 1,207 stars, 94 forks, 32 watches  
@@ -5559,7 +5589,7 @@ criticality_score: Gives criticality score for an open source project
 
 
 ### [glow](https://github.com/pytorch/glow) by [pytorch](https://github.com/pytorch)  
-glow: Compiler for Neural Network hardware accelerators  
+Compiler for Neural Network hardware accelerators  
 [https://github.com/pytorch/glow](https://github.com/pytorch/glow)  
 10 stars per week over 292 weeks  
 2,962 stars, 678 forks, 158 watches  
@@ -5567,7 +5597,7 @@ glow: Compiler for Neural Network hardware accelerators
 
 
 ### [websocket-client](https://github.com/websocket-client/websocket-client)  
-websocket-client: WebSocket client for Python  
+WebSocket client for Python  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
 4.99 stars per week over 644 weeks  
@@ -5577,7 +5607,7 @@ websocket-client: WebSocket client for Python
 
 
 ### [opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) by [open-telemetry](https://github.com/open-telemetry)  
-opentelemetry-python-contrib: OpenTelemetry instrumentation for Python modules  
+OpenTelemetry instrumentation for Python modules  
 [https://opentelemetry.io](https://opentelemetry.io)  
 [https://github.com/open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)  
 2.44 stars per week over 182 weeks  
@@ -5586,7 +5616,7 @@ opentelemetry-python-contrib: OpenTelemetry instrumentation for Python modules
 
 
 ### [lm-evaluation-harness](https://github.com/eleutherai/lm-evaluation-harness) by [eleutherai](https://github.com/eleutherai)  
-lm-evaluation-harness: A framework for few-shot evaluation of autoregressive language models.  
+A framework for few-shot evaluation of autoregressive language models.  
 [https://github.com/eleutherai/lm-evaluation-harness](https://github.com/eleutherai/lm-evaluation-harness)  
 7.52 stars per week over 140 weeks  
 1,055 stars, 294 forks, 20 watches  
@@ -5603,7 +5633,7 @@ uWSGI application server container
 
 
 ### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  
-lit: The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.  
+The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.  
 [https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
 [https://github.com/pair-code/lit](https://github.com/pair-code/lit)  
 21 stars per week over 144 weeks  
@@ -5613,7 +5643,7 @@ lit: The Learning Interpretability Tool: Interactively analyze ML models to unde
 
 
 ### [pyparsing](https://github.com/pyparsing/pyparsing)  
-pyparsing: Python library for creating PEG parsers  
+Python library for creating PEG parsers  
 [https://github.com/pyparsing/pyparsing](https://github.com/pyparsing/pyparsing)  
 5.86 stars per week over 312 weeks  
 1,827 stars, 255 forks, 23 watches  
@@ -5630,7 +5660,7 @@ steamship-langchain
 
 
 ### [numpy-ml](https://github.com/ddbourgin/numpy-ml) by [ddbourgin](https://github.com/ddbourgin)  
-numpy-ml: Machine learning, in numpy  
+Machine learning, in numpy  
 [https://numpy-ml.readthedocs.io/](https://numpy-ml.readthedocs.io/)  
 [https://github.com/ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml)  
 55 stars per week over 213 weeks  
@@ -5648,7 +5678,7 @@ Notebooks using the Hugging Face libraries 🤗
 
 
 ### [nbdime](https://github.com/jupyter/nbdime) by [jupyter](https://github.com/jupyter)  
-nbdime: Tools for diffing and merging of Jupyter notebooks.  
+Tools for diffing and merging of Jupyter notebooks.  
 [http://nbdime.readthedocs.io](http://nbdime.readthedocs.io)  
 [https://github.com/jupyter/nbdime](https://github.com/jupyter/nbdime)  
 6.27 stars per week over 389 weeks  
@@ -5658,7 +5688,7 @@ nbdime: Tools for diffing and merging of Jupyter notebooks.
 
 
 ### [hnswlib](https://github.com/nmslib/hnswlib) by [nmslib](https://github.com/nmslib)  
-hnswlib: Header-only C++/python library for fast approximate nearest neighbors  
+Header-only C++/python library for fast approximate nearest neighbors  
 [https://github.com/nmslib/hnswlib](https://github.com/nmslib/hnswlib)  
 [https://github.com/nmslib/hnswlib](https://github.com/nmslib/hnswlib)  
 9.56 stars per week over 304 weeks  
@@ -5667,7 +5697,7 @@ hnswlib: Header-only C++/python library for fast approximate nearest neighbors
 
 
 ### [ipyparallel](https://github.com/ipython/ipyparallel) by [ipython](https://github.com/ipython)  
-ipyparallel: IPython Parallel: Interactive Parallel Computing in Python  
+IPython Parallel: Interactive Parallel Computing in Python  
 [https://ipyparallel.readthedocs.io/](https://ipyparallel.readthedocs.io/)  
 [https://github.com/ipython/ipyparallel](https://github.com/ipython/ipyparallel)  
 5.72 stars per week over 421 weeks  
@@ -5677,7 +5707,7 @@ ipyparallel: IPython Parallel: Interactive Parallel Computing in Python
 
 
 ### [PiML-Toolbox](https://github.com/selfexplainml/piml-toolbox) by [selfexplainml](https://github.com/selfexplainml)  
-PiML-Toolbox: PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
+PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
 [https://selfexplainml.github.io/PiML-Toolbox](https://selfexplainml.github.io/PiML-Toolbox)  
 [https://github.com/selfexplainml/piml-toolbox](https://github.com/selfexplainml/piml-toolbox)  
 11 stars per week over 53 weeks  
@@ -5687,7 +5717,7 @@ PiML-Toolbox: PiML (Python Interpretable Machine Learning) toolbox for model dev
 
 
 ### [Semi-supervised-learning](https://github.com/microsoft/semi-supervised-learning) by [microsoft](https://github.com/microsoft)  
-Semi-supervised-learning: A Unified Semi-Supervised Learning Codebase (NeurIPS'22)  
+A Unified Semi-Supervised Learning Codebase (NeurIPS'22)  
 [https://usb.readthedocs.io](https://usb.readthedocs.io)  
 [https://github.com/microsoft/semi-supervised-learning](https://github.com/microsoft/semi-supervised-learning)  
 13 stars per week over 52 weeks  
@@ -5697,7 +5727,7 @@ Semi-supervised-learning: A Unified Semi-Supervised Learning Codebase (NeurIPS'2
 
 
 ### [connector-x](https://github.com/sfu-db/connector-x) by [sfu-db](https://github.com/sfu-db)  
-connector-x: Fastest library to load data from DB to DataFrames in Rust and Python  
+Fastest library to load data from DB to DataFrames in Rust and Python  
 [https://sfu-db.github.io/connector-x/intro.html](https://sfu-db.github.io/connector-x/intro.html)  
 [https://github.com/sfu-db/connector-x](https://github.com/sfu-db/connector-x)  
 10 stars per week over 120 weeks  
@@ -5707,7 +5737,7 @@ connector-x: Fastest library to load data from DB to DataFrames in Rust and Pyth
 
 
 ### [anyio](https://github.com/agronholm/anyio) by [agronholm](https://github.com/agronholm)  
-anyio: High level asynchronous concurrency and networking framework that works on top of either trio or asyncio  
+High level asynchronous concurrency and networking framework that works on top of either trio or asyncio  
 [https://github.com/agronholm/anyio](https://github.com/agronholm/anyio)  
 5.11 stars per week over 246 weeks  
 1,257 stars, 106 forks, 26 watches  
@@ -5716,7 +5746,7 @@ anyio: High level asynchronous concurrency and networking framework that works o
 
 
 ### [Coercer](https://github.com/p0dalirius/coercer) by [p0dalirius](https://github.com/p0dalirius)  
-Coercer: A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.  
+A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.  
 [https://podalirius.net/](https://podalirius.net/)  
 [https://github.com/p0dalirius/coercer](https://github.com/p0dalirius/coercer)  
 26 stars per week over 44 weeks  
@@ -5726,7 +5756,7 @@ Coercer: A python script to automatically coerce a Windows server to authenticat
 
 
 ### [llvmlite](https://github.com/numba/llvmlite) by [numba](https://github.com/numba)  
-llvmlite: A lightweight LLVM python binding for writing JIT compilers  
+A lightweight LLVM python binding for writing JIT compilers  
 [http://llvmlite.pydata.org/](http://llvmlite.pydata.org/)  
 [https://github.com/numba/llvmlite](https://github.com/numba/llvmlite)  
 3.54 stars per week over 456 weeks  
@@ -5735,7 +5765,7 @@ llvmlite: A lightweight LLVM python binding for writing JIT compilers
 
 
 ### [filesystem_spec](https://github.com/fsspec/filesystem_spec) by [fsspec](https://github.com/fsspec)  
-filesystem_spec: A specification that python filesystems should adhere to.  
+A specification that python filesystems should adhere to.  
 [https://github.com/fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec)  
 2.22 stars per week over 262 weeks  
 584 stars, 248 forks, 24 watches  
@@ -5743,7 +5773,7 @@ filesystem_spec: A specification that python filesystems should adhere to.
 
 
 ### [Surprise](https://github.com/nicolashug/surprise) by [nicolashug](https://github.com/nicolashug)  
-Surprise: A Python scikit for building and analyzing recommender systems  
+A Python scikit for building and analyzing recommender systems  
 [http://surpriselib.com](http://surpriselib.com)  
 [https://github.com/nicolashug/surprise](https://github.com/nicolashug/surprise)  
 16 stars per week over 341 weeks  
@@ -5753,7 +5783,7 @@ Surprise: A Python scikit for building and analyzing recommender systems
 
 
 ### [TextBlob](https://github.com/sloria/textblob) by [sloria](https://github.com/sloria)  
-TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.  
+Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.  
 [https://textblob.readthedocs.io/](https://textblob.readthedocs.io/)  
 [https://github.com/sloria/textblob](https://github.com/sloria/textblob)  
 16 stars per week over 514 weeks  
@@ -5763,7 +5793,7 @@ TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech 
 
 
 ### [terminal-copilot](https://github.com/methexis-inc/terminal-copilot) by [methexis-inc](https://github.com/methexis-inc)  
-terminal-copilot: A smart terminal assistant that helps you find the right command.  
+A smart terminal assistant that helps you find the right command.  
 [https://github.com/methexis-inc/terminal-copilot](https://github.com/methexis-inc/terminal-copilot)  
 22 stars per week over 21 weeks  
 481 stars, 28 forks, 8 watches  
@@ -5771,7 +5801,7 @@ terminal-copilot: A smart terminal assistant that helps you find the right comma
 
 
 ### [camelot](https://github.com/camelot-dev/camelot) by [camelot-dev](https://github.com/camelot-dev)  
-camelot: A Python library to extract tabular data from PDFs  
+A Python library to extract tabular data from PDFs  
 [https://camelot-py.readthedocs.io](https://camelot-py.readthedocs.io)  
 [https://github.com/camelot-dev/camelot](https://github.com/camelot-dev/camelot)  
 9.63 stars per week over 200 weeks  
@@ -5780,7 +5810,7 @@ camelot: A Python library to extract tabular data from PDFs
 
 
 ### [markdown](https://github.com/python-markdown/markdown) by [python-markdown](https://github.com/python-markdown)  
-markdown: A Python implementation of John Gruber’s Markdown with Extension support.  
+A Python implementation of John Gruber’s Markdown with Extension support.  
 [https://python-markdown.github.io/](https://python-markdown.github.io/)  
 [https://github.com/python-markdown/markdown](https://github.com/python-markdown/markdown)  
 4.75 stars per week over 675 weeks  
@@ -5790,7 +5820,7 @@ markdown: A Python implementation of John Gruber’s Markdown with Extension sup
 
 
 ### [fpdf2](https://github.com/pyfpdf/fpdf2) by [pyfpdf](https://github.com/pyfpdf)  
-fpdf2: Simple PDF generation for Python  
+Simple PDF generation for Python  
 [https://pyfpdf.github.io/fpdf2/](https://pyfpdf.github.io/fpdf2/)  
 [https://github.com/pyfpdf/fpdf2](https://github.com/pyfpdf/fpdf2)  
 2.07 stars per week over 320 weeks  
@@ -5800,7 +5830,7 @@ fpdf2: Simple PDF generation for Python
 
 
 ### [polyaxon](https://github.com/polyaxon/polyaxon)  
-polyaxon: MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle  
+MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle  
 [https://polyaxon.com](https://polyaxon.com)  
 [https://github.com/polyaxon/polyaxon](https://github.com/polyaxon/polyaxon)  
 9.97 stars per week over 331 weeks  
@@ -5810,7 +5840,7 @@ polyaxon: MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycl
 
 
 ### [fugue](https://github.com/fugue-project/fugue) by [fugue-project](https://github.com/fugue-project)  
-fugue: A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.  
+A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.  
 [https://fugue-tutorials.readthedocs.io/](https://fugue-tutorials.readthedocs.io/)  
 [https://github.com/fugue-project/fugue](https://github.com/fugue-project/fugue)  
 9.64 stars per week over 162 weeks  
@@ -5820,7 +5850,7 @@ fugue: A unified interface for distributed computing. Fugue executes SQL, Python
 
 
 ### [imageio](https://github.com/imageio/imageio)  
-imageio: Python library for reading and writing image data  
+Python library for reading and writing image data  
 [https://imageio.readthedocs.io](https://imageio.readthedocs.io)  
 [https://github.com/imageio/imageio](https://github.com/imageio/imageio)  
 2.37 stars per week over 522 weeks  
@@ -5830,7 +5860,7 @@ imageio: Python library for reading and writing image data
 
 
 ### [pint](https://github.com/hgrecco/pint) by [hgrecco](https://github.com/hgrecco)  
-pint: Operate and manipulate physical quantities in Python  
+Operate and manipulate physical quantities in Python  
 [http://pint.readthedocs.org/](http://pint.readthedocs.org/)  
 [https://github.com/hgrecco/pint](https://github.com/hgrecco/pint)  
 3.5 stars per week over 564 weeks  
@@ -5840,7 +5870,7 @@ pint: Operate and manipulate physical quantities in Python
 
 
 ### [sedona](https://github.com/apache/incubator-sedona) by [apache](https://github.com/apache)  
-sedona: A cluster computing framework for processing large-scale geospatial data  
+A cluster computing framework for processing large-scale geospatial data  
 [http://sedona.apache.org/](http://sedona.apache.org/)  
 [https://github.com/apache/incubator-sedona](https://github.com/apache/incubator-sedona)  
 3.4 stars per week over 419 weeks  
@@ -5850,7 +5880,7 @@ sedona: A cluster computing framework for processing large-scale geospatial data
 
 
 ### [stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow) by [divamgupta](https://github.com/divamgupta)  
-stable-diffusion-tensorflow: Stable Diffusion in TensorFlow / Keras  
+Stable Diffusion in TensorFlow / Keras  
 [https://github.com/divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)  
 43 stars per week over 33 weeks  
 1,446 stars, 200 forks, 22 watches  
@@ -5858,7 +5888,7 @@ stable-diffusion-tensorflow: Stable Diffusion in TensorFlow / Keras
 
 
 ### [remi](https://github.com/dddomodossola/remi) by [dddomodossola](https://github.com/dddomodossola)  
-remi: Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
+Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
 [https://github.com/dddomodossola/remi](https://github.com/dddomodossola/remi)  
 6.87 stars per week over 476 weeks  
 3,274 stars, 393 forks, 120 watches  
@@ -5867,7 +5897,7 @@ remi: Python REMote Interface library. Platform independent. In about 100 Kbytes
 
 
 ### [pycryptodome](https://github.com/legrandin/pycryptodome) by [legrandin](https://github.com/legrandin)  
-pycryptodome: A self-contained cryptographic library for Python  
+A self-contained cryptographic library for Python  
 [https://www.pycryptodome.org](https://www.pycryptodome.org)  
 [https://github.com/legrandin/pycryptodome](https://github.com/legrandin/pycryptodome)  
 4.99 stars per week over 470 weeks  
@@ -5877,7 +5907,7 @@ pycryptodome: A self-contained cryptographic library for Python
 
 
 ### [gefyra](https://github.com/gefyrahq/gefyra) by [gefyrahq](https://github.com/gefyrahq)  
-gefyra: Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.  
+Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.  
 [https://gefyra.dev](https://gefyra.dev)  
 [https://github.com/gefyrahq/gefyra](https://github.com/gefyrahq/gefyra)  
 6.25 stars per week over 76 weeks  
@@ -5887,7 +5917,7 @@ gefyra: Blazingly-fast :rocket:, rock-solid, local application development :arro
 
 
 ### [Photon](https://github.com/s0md3v/photon) by [s0md3v](https://github.com/s0md3v)  
-Photon: Incredibly fast crawler designed for OSINT.  
+Incredibly fast crawler designed for OSINT.  
 [https://github.com/s0md3v/photon](https://github.com/s0md3v/photon)  
 36 stars per week over 266 weeks  
 9,590 stars, 1,391 forks, 325 watches  
@@ -5896,7 +5926,7 @@ Photon: Incredibly fast crawler designed for OSINT.
 
 
 ### [deep-daze](https://github.com/lucidrains/deep-daze) by [lucidrains](https://github.com/lucidrains)  
-deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun  
+Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun  
 [https://github.com/lucidrains/deep-daze](https://github.com/lucidrains/deep-daze)  
 36 stars per week over 120 weeks  
 4,387 stars, 333 forks, 77 watches  
@@ -5915,7 +5945,7 @@ CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.de
 
 
 ### [kaggle-api](https://github.com/kaggle/kaggle-api) by [kaggle](https://github.com/kaggle)  
-kaggle-api: Official Kaggle API  
+Official Kaggle API  
 [https://github.com/kaggle/kaggle-api](https://github.com/kaggle/kaggle-api)  
 19 stars per week over 275 weeks  
 5,296 stars, 994 forks, 189 watches  
@@ -5923,7 +5953,7 @@ kaggle-api: Official Kaggle API
 
 
 ### [ta-lib-python](https://github.com/ta-lib/ta-lib-python) by [ta-lib](https://github.com/ta-lib)  
-ta-lib-python: Python wrapper for TA-Lib (http://ta-lib.org/).  
+Python wrapper for TA-Lib (http://ta-lib.org/).  
 [http://ta-lib.github.io/ta-lib-python](http://ta-lib.github.io/ta-lib-python)  
 [https://github.com/ta-lib/ta-lib-python](https://github.com/ta-lib/ta-lib-python)  
 13 stars per week over 580 weeks  
@@ -5933,7 +5963,7 @@ ta-lib-python: Python wrapper for TA-Lib (http://ta-lib.org/).
 
 
 ### [panda3d](https://github.com/panda3d/panda3d)  
-panda3d: Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
+Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
 [https://www.panda3d.org/](https://www.panda3d.org/)  
 [https://github.com/panda3d/panda3d](https://github.com/panda3d/panda3d)  
 7.64 stars per week over 500 weeks  
@@ -5943,7 +5973,7 @@ panda3d: Powerful, mature open-source cross-platform game engine for Python and 
 
 
 ### [pyspider](https://github.com/binux/pyspider) by [binux](https://github.com/binux)  
-pyspider: A Powerful Spider(Web Crawler) System in Python.  
+A Powerful Spider(Web Crawler) System in Python.  
 [http://docs.pyspider.org/](http://docs.pyspider.org/)  
 [https://github.com/binux/pyspider](https://github.com/binux/pyspider)  
 33 stars per week over 480 weeks  
@@ -5953,7 +5983,7 @@ pyspider: A Powerful Spider(Web Crawler) System in Python.
 
 
 ### [python-tabulate](https://github.com/astanin/python-tabulate) by [astanin](https://github.com/astanin)  
-python-tabulate: Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.  
+Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.  
 [https://pypi.org/project/tabulate/](https://pypi.org/project/tabulate/)  
 [https://github.com/astanin/python-tabulate](https://github.com/astanin/python-tabulate)  
 8.54 stars per week over 191 weeks  
@@ -5962,7 +5992,7 @@ python-tabulate: Pretty-print tabular data in Python, a library and a command-li
 
 
 ### [hamilton](https://github.com/stitchfix/hamilton) by [stitchfix](https://github.com/stitchfix)  
-hamilton: A scalable general purpose micro-framework for defining dataflows. THIS REPOSITORY HAS BEEN MOVED TO www.github.com/dagworks-inc/hamilton  
+A scalable general purpose micro-framework for defining dataflows. THIS REPOSITORY HAS BEEN MOVED TO www.github.com/dagworks-inc/hamilton  
 [https://www.github.com/dagworks-inc/hamilton](https://www.github.com/dagworks-inc/hamilton)  
 [https://github.com/stitchfix/hamilton](https://github.com/stitchfix/hamilton)  
 5.71 stars per week over 153 weeks  
@@ -5972,7 +6002,7 @@ hamilton: A scalable general purpose micro-framework for defining dataflows. THI
 
 
 ### [osxphotos](https://github.com/rhettbull/osxphotos) by [rhettbull](https://github.com/rhettbull)  
-osxphotos: Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.   
+Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.   
 [https://github.com/rhettbull/osxphotos](https://github.com/rhettbull/osxphotos)  
 5.47 stars per week over 203 weeks  
 1,111 stars, 75 forks, 18 watches  
@@ -5981,7 +6011,7 @@ osxphotos: Python app to export pictures and associated metadata from Apple Phot
 
 
 ### [raster-vision](https://github.com/azavea/raster-vision) by [azavea](https://github.com/azavea)  
-raster-vision: An open source library and framework for deep learning on satellite and aerial imagery.  
+An open source library and framework for deep learning on satellite and aerial imagery.  
 [https://docs.rastervision.io](https://docs.rastervision.io)  
 [https://github.com/azavea/raster-vision](https://github.com/azavea/raster-vision)  
 5.64 stars per week over 326 weeks  
@@ -5999,7 +6029,7 @@ pipreqs - Generate pip requirements.txt file based on imports of any project. Lo
 
 
 ### [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) by [openai](https://github.com/openai)  
-gpt-discord-bot: Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
+Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
 [https://github.com/openai/gpt-discord-bot](https://github.com/openai/gpt-discord-bot)  
 72 stars per week over 19 weeks  
 1,413 stars, 536 forks, 31 watches  
@@ -6007,7 +6037,7 @@ gpt-discord-bot: Example Discord bot written in Python that uses the completions
 
 
 ### [yellowbrick](https://github.com/districtdatalabs/yellowbrick) by [districtdatalabs](https://github.com/districtdatalabs)  
-yellowbrick: Visual analysis and diagnostic tools to facilitate machine learning model selection.  
+Visual analysis and diagnostic tools to facilitate machine learning model selection.  
 [http://www.scikit-yb.org/](http://www.scikit-yb.org/)  
 [https://github.com/districtdatalabs/yellowbrick](https://github.com/districtdatalabs/yellowbrick)  
 10 stars per week over 363 weeks  
@@ -6017,7 +6047,7 @@ yellowbrick: Visual analysis and diagnostic tools to facilitate machine learning
 
 
 ### [spinningup](https://github.com/openai/spinningup) by [openai](https://github.com/openai)  
-spinningup: An educational resource to help anyone learn deep reinforcement learning.  
+An educational resource to help anyone learn deep reinforcement learning.  
 [https://spinningup.openai.com/](https://spinningup.openai.com/)  
 [https://github.com/openai/spinningup](https://github.com/openai/spinningup)  
 35 stars per week over 234 weeks  
@@ -6026,7 +6056,7 @@ spinningup: An educational resource to help anyone learn deep reinforcement lear
 
 
 ### [layout-parser](https://github.com/layout-parser/layout-parser)  
-layout-parser: A Unified Toolkit for Deep Learning Based Document Image Analysis  
+A Unified Toolkit for Deep Learning Based Document Image Analysis  
 [https://layout-parser.github.io/](https://layout-parser.github.io/)  
 [https://github.com/layout-parser/layout-parser](https://github.com/layout-parser/layout-parser)  
 23 stars per week over 151 weeks  
@@ -6036,7 +6066,7 @@ layout-parser: A Unified Toolkit for Deep Learning Based Document Image Analysis
 
 
 ### [swifter](https://github.com/jmcarpenter2/swifter) by [jmcarpenter2](https://github.com/jmcarpenter2)  
-swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner  
+A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner  
 [https://github.com/jmcarpenter2/swifter](https://github.com/jmcarpenter2/swifter)  
 8.53 stars per week over 265 weeks  
 2,262 stars, 101 forks, 30 watches  
@@ -6055,7 +6085,7 @@ TensorLy: Tensor Learning in Python.
 
 
 ### [transitions](https://github.com/pytransitions/transitions) by [pytransitions](https://github.com/pytransitions)  
-transitions: A lightweight, object-oriented finite state machine implementation in Python with many extensions  
+A lightweight, object-oriented finite state machine implementation in Python with many extensions  
 [https://github.com/pytransitions/transitions](https://github.com/pytransitions/transitions)  
 10 stars per week over 447 weeks  
 4,858 stars, 514 forks, 90 watches  
@@ -6064,7 +6094,7 @@ transitions: A lightweight, object-oriented finite state machine implementation 
 
 
 ### [freezegun](https://github.com/spulec/freezegun) by [spulec](https://github.com/spulec)  
-freezegun: Let your Python tests travel through time  
+Let your Python tests travel through time  
 [https://github.com/spulec/freezegun](https://github.com/spulec/freezegun)  
 6.73 stars per week over 542 weeks  
 3,653 stars, 255 forks, 33 watches  
@@ -6072,7 +6102,7 @@ freezegun: Let your Python tests travel through time
 
 
 ### [spektral](https://github.com/danielegrattarola/spektral) by [danielegrattarola](https://github.com/danielegrattarola)  
-spektral: Graph Neural Networks with Keras and Tensorflow 2.  
+Graph Neural Networks with Keras and Tensorflow 2.  
 [https://graphneural.network](https://graphneural.network)  
 [https://github.com/danielegrattarola/spektral](https://github.com/danielegrattarola/spektral)  
 10 stars per week over 224 weeks  
@@ -6082,7 +6112,7 @@ spektral: Graph Neural Networks with Keras and Tensorflow 2.
 
 
 ### [FastAPI-template](https://github.com/s3rius/fastapi-template) by [s3rius](https://github.com/s3rius)  
-FastAPI-template: Feature rich robust FastAPI template.  
+Feature rich robust FastAPI template.  
 [https://github.com/s3rius/fastapi-template](https://github.com/s3rius/fastapi-template)  
 5.81 stars per week over 134 weeks  
 784 stars, 77 forks, 14 watches  
@@ -6091,7 +6121,7 @@ FastAPI-template: Feature rich robust FastAPI template.
 
 
 ### [FinancePy](https://github.com/domokane/financepy) by [domokane](https://github.com/domokane)  
-FinancePy: A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.   
+A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.   
 [https://financepy.com/](https://financepy.com/)  
 [https://github.com/domokane/financepy](https://github.com/domokane/financepy)  
 7.64 stars per week over 184 weeks  
@@ -6101,7 +6131,7 @@ FinancePy: A Python Finance Library that focuses on the pricing and risk-managem
 
 
 ### [webpy](https://github.com/webpy/webpy)  
-webpy: web.py is a web framework for python that is as simple as it is powerful.   
+web.py is a web framework for python that is as simple as it is powerful.   
 [http://webpy.org](http://webpy.org)  
 [https://github.com/webpy/webpy](https://github.com/webpy/webpy)  
 7.62 stars per week over 761 weeks  
@@ -6110,7 +6140,7 @@ webpy: web.py is a web framework for python that is as simple as it is powerful.
 
 
 ### [flower](https://github.com/mher/flower) by [mher](https://github.com/mher)  
-flower: Real-time monitor and web admin for Celery distributed task queue  
+Real-time monitor and web admin for Celery distributed task queue  
 [https://flower.readthedocs.io](https://flower.readthedocs.io)  
 [https://github.com/mher/flower](https://github.com/mher/flower)  
 9.99 stars per week over 565 weeks  
@@ -6130,7 +6160,7 @@ PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allow
 
 
 ### [Augmentor](https://github.com/mdbloice/augmentor) by [mdbloice](https://github.com/mdbloice)  
-Augmentor: Image augmentation library in Python for machine learning.  
+Image augmentation library in Python for machine learning.  
 [https://augmentor.readthedocs.io/en/stable](https://augmentor.readthedocs.io/en/stable)  
 [https://github.com/mdbloice/augmentor](https://github.com/mdbloice/augmentor)  
 13 stars per week over 374 weeks  
@@ -6140,7 +6170,7 @@ Augmentor: Image augmentation library in Python for machine learning.
 
 
 ### [EconML](https://github.com/py-why/econml) by [py-why](https://github.com/py-why)  
-EconML: ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.  
+ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.  
 [https://www.microsoft.com/en-us/research/project/alice/](https://www.microsoft.com/en-us/research/project/alice/)  
 [https://github.com/py-why/econml](https://github.com/py-why/econml)  
 11 stars per week over 261 weeks  
@@ -6150,7 +6180,7 @@ EconML: ALICE (Automated Learning and Intelligence for Causation and Economics) 
 
 
 ### [graphein](https://github.com/a-r-j/graphein) by [a-r-j](https://github.com/a-r-j)  
-graphein: Protein Graph Library  
+Protein Graph Library  
 [https://graphein.ai/](https://graphein.ai/)  
 [https://github.com/a-r-j/graphein](https://github.com/a-r-j/graphein)  
 4.29 stars per week over 192 weeks  
@@ -6169,7 +6199,7 @@ Mesa is an open-source Python library for agent-based modeling, ideal for simula
 
 
 ### [omegaconf](https://github.com/omry/omegaconf) by [omry](https://github.com/omry)  
-omegaconf: Flexible Python configuration system. The last one you will ever need.  
+Flexible Python configuration system. The last one you will ever need.  
 [https://github.com/omry/omegaconf](https://github.com/omry/omegaconf)  
 6.02 stars per week over 243 weeks  
 1,467 stars, 81 forks, 16 watches  
@@ -6178,7 +6208,7 @@ omegaconf: Flexible Python configuration system. The last one you will ever need
 
 
 ### [unprompted](https://github.com/thereforegames/unprompted) by [thereforegames](https://github.com/thereforegames)  
-unprompted: Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.  
+Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.  
 [https://github.com/thereforegames/unprompted](https://github.com/thereforegames/unprompted)  
 19 stars per week over 26 weeks  
 511 stars, 48 forks, 10 watches  
@@ -6195,7 +6225,7 @@ CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Compet
 
 
 ### [mljar-supervised](https://github.com/mljar/mljar-supervised) by [mljar](https://github.com/mljar)  
-mljar-supervised: Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation  
+Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation  
 [https://mljar.com](https://mljar.com)  
 [https://github.com/mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)  
 10 stars per week over 234 weeks  
@@ -6205,7 +6235,7 @@ mljar-supervised: Python package for AutoML on Tabular Data with Feature Enginee
 
 
 ### [behave](https://github.com/behave/behave)  
-behave: BDD, Python style.  
+BDD, Python style.  
 [https://github.com/behave/behave](https://github.com/behave/behave)  
 4.73 stars per week over 601 weeks  
 2,847 stars, 624 forks, 123 watches  
@@ -6213,7 +6243,7 @@ behave: BDD, Python style.
 
 
 ### [koila](https://github.com/rentruewang/koila) by [rentruewang](https://github.com/rentruewang)  
-koila: Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.  
+Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.  
 [https://rentruewang.github.io/koila](https://rentruewang.github.io/koila)  
 [https://github.com/rentruewang/koila](https://github.com/rentruewang/koila)  
 22 stars per week over 76 weeks  
@@ -6223,7 +6253,7 @@ koila: Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.
 
 
 ### [specialist](https://github.com/brandtbucher/specialist) by [brandtbucher](https://github.com/brandtbucher)  
-specialist: Visualize CPython 3.11's specializing, adaptive interpreter. :fire:  
+Visualize CPython 3.11's specializing, adaptive interpreter. :fire:  
 [https://github.com/brandtbucher/specialist](https://github.com/brandtbucher/specialist)  
 11 stars per week over 48 weeks  
 554 stars, 9 forks, 9 watches  
@@ -6231,7 +6261,7 @@ specialist: Visualize CPython 3.11's specializing, adaptive interpreter. :fire:
 
 
 ### [lux](https://github.com/lux-org/lux) by [lux-org](https://github.com/lux-org)  
-lux: Automatically visualize your pandas dataframe via a single print! 📊 💡  
+Automatically visualize your pandas dataframe via a single print! 📊 💡  
 [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
 26 stars per week over 173 weeks  
 4,554 stars, 347 forks, 89 watches  
@@ -6240,7 +6270,7 @@ lux: Automatically visualize your pandas dataframe via a single print! 📊 💡
 
 
 ### [promptsource](https://github.com/bigscience-workshop/promptsource) by [bigscience-workshop](https://github.com/bigscience-workshop)  
-promptsource: Toolkit for creating, sharing and using natural language prompts.  
+Toolkit for creating, sharing and using natural language prompts.  
 [https://github.com/bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)  
 16 stars per week over 102 weeks  
 1,698 stars, 250 forks, 27 watches  
@@ -6249,7 +6279,7 @@ promptsource: Toolkit for creating, sharing and using natural language prompts.
 
 
 ### [BlenderGIS](https://github.com/domlysz/blendergis) by [domlysz](https://github.com/domlysz)  
-BlenderGIS: Blender addons to make the bridge between Blender and geographic data  
+Blender addons to make the bridge between Blender and geographic data  
 [https://github.com/domlysz/blendergis](https://github.com/domlysz/blendergis)  
 13 stars per week over 469 weeks  
 6,284 stars, 1,172 forks, 252 watches  
@@ -6258,7 +6288,7 @@ BlenderGIS: Blender addons to make the bridge between Blender and geographic dat
 
 
 ### [s3fs](https://github.com/fsspec/s3fs) by [fsspec](https://github.com/fsspec)  
-s3fs: S3 Filesystem   
+S3 Filesystem   
 [http://s3fs.readthedocs.io/en/latest/](http://s3fs.readthedocs.io/en/latest/)  
 [https://github.com/fsspec/s3fs](https://github.com/fsspec/s3fs)  
 1.83 stars per week over 372 weeks  
@@ -6268,7 +6298,7 @@ s3fs: S3 Filesystem
 
 
 ### [pysystemtrade](https://github.com/robcarver17/pysystemtrade) by [robcarver17](https://github.com/robcarver17)  
-pysystemtrade: Systematic Trading in python  
+Systematic Trading in python  
 [https://github.com/robcarver17/pysystemtrade](https://github.com/robcarver17/pysystemtrade)  
 5.1 stars per week over 388 weeks  
 1,982 stars, 669 forks, 158 watches  
@@ -6276,7 +6306,7 @@ pysystemtrade: Systematic Trading in python
 
 
 ### [pycodestyle](https://github.com/pycqa/pycodestyle) by [pycqa](https://github.com/pycqa)  
-pycodestyle: Simple Python style checker in one Python file  
+Simple Python style checker in one Python file  
 [https://pycodestyle.pycqa.org](https://pycodestyle.pycqa.org)  
 [https://github.com/pycqa/pycodestyle](https://github.com/pycqa/pycodestyle)  
 6.81 stars per week over 709 weeks  
@@ -6286,7 +6316,7 @@ pycodestyle: Simple Python style checker in one Python file
 
 
 ### [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) by [pytest-dev](https://github.com/pytest-dev)  
-pytest-xdist: pytest plugin for distributed testing and loop-on-failures testing modes.   
+pytest plugin for distributed testing and loop-on-failures testing modes.   
 [https://pytest-xdist.readthedocs.io](https://pytest-xdist.readthedocs.io)  
 [https://github.com/pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist)  
 2.85 stars per week over 400 weeks  
@@ -6296,7 +6326,7 @@ pytest-xdist: pytest plugin for distributed testing and loop-on-failures testing
 
 
 ### [py-evm](https://github.com/ethereum/py-evm) by [ethereum](https://github.com/ethereum)  
-py-evm: A Python implementation of the Ethereum Virtual Machine  
+A Python implementation of the Ethereum Virtual Machine  
 [https://py-evm.readthedocs.io/en/latest/](https://py-evm.readthedocs.io/en/latest/)  
 [https://github.com/ethereum/py-evm](https://github.com/ethereum/py-evm)  
 5.94 stars per week over 331 weeks  
@@ -6306,7 +6336,7 @@ py-evm: A Python implementation of the Ethereum Virtual Machine
 
 
 ### [gpt-neo](https://github.com/eleutherai/gpt-neo) by [eleutherai](https://github.com/eleutherai)  
-gpt-neo: An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
+An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
 [https://www.eleuther.ai](https://www.eleuther.ai)  
 [https://github.com/eleutherai/gpt-neo](https://github.com/eleutherai/gpt-neo)  
 52 stars per week over 148 weeks  
@@ -6316,7 +6346,7 @@ gpt-neo: An implementation of model parallel GPT-2 and GPT-3-style models using 
 
 
 ### [reinforcement-learning-an-introduction](https://github.com/shangtongzhang/reinforcement-learning-an-introduction) by [shangtongzhang](https://github.com/shangtongzhang)  
-reinforcement-learning-an-introduction: Python Implementation of Reinforcement Learning: An Introduction  
+Python Implementation of Reinforcement Learning: An Introduction  
 [https://github.com/shangtongzhang/reinforcement-learning-an-introduction](https://github.com/shangtongzhang/reinforcement-learning-an-introduction)  
 35 stars per week over 346 weeks  
 12,337 stars, 4,654 forks, 563 watches  
@@ -6325,7 +6355,7 @@ reinforcement-learning-an-introduction: Python Implementation of Reinforcement L
 
 
 ### [toolz](https://github.com/pytoolz/toolz) by [pytoolz](https://github.com/pytoolz)  
-toolz: A functional standard library for Python.  
+A functional standard library for Python.  
 [http://toolz.readthedocs.org/](http://toolz.readthedocs.org/)  
 [https://github.com/pytoolz/toolz](https://github.com/pytoolz/toolz)  
 8.41 stars per week over 503 weeks  
@@ -6342,7 +6372,7 @@ googleapis/python-bigquery
 
 
 ### [PynamoDB](https://github.com/pynamodb/pynamodb) by [pynamodb](https://github.com/pynamodb)  
-PynamoDB: A pythonic interface to Amazon's DynamoDB  
+A pythonic interface to Amazon's DynamoDB  
 [http://pynamodb.readthedocs.io](http://pynamodb.readthedocs.io)  
 [https://github.com/pynamodb/pynamodb](https://github.com/pynamodb/pynamodb)  
 4.47 stars per week over 484 weeks  
@@ -6352,7 +6382,7 @@ PynamoDB: A pythonic interface to Amazon's DynamoDB
 
 
 ### [vectorbt](https://github.com/polakowo/vectorbt) by [polakowo](https://github.com/polakowo)  
-vectorbt: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.   
+Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.   
 [https://vectorbt.dev](https://vectorbt.dev)  
 [https://github.com/polakowo/vectorbt](https://github.com/polakowo/vectorbt)  
 9.86 stars per week over 285 weeks  
@@ -6362,7 +6392,7 @@ vectorbt: Find your trading edge, using the fastest engine for backtesting, algo
 
 
 ### [memory_profiler](https://github.com/pythonprofilers/memory_profiler) by [pythonprofilers](https://github.com/pythonprofilers)  
-memory_profiler: Monitor Memory usage of Python code  
+Monitor Memory usage of Python code  
 [http://pypi.python.org/pypi/memory_profiler](http://pypi.python.org/pypi/memory_profiler)  
 [https://github.com/pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler)  
 6.41 stars per week over 603 weeks  
@@ -6371,7 +6401,7 @@ memory_profiler: Monitor Memory usage of Python code
 
 
 ### [python-driver](https://github.com/datastax/python-driver) by [datastax](https://github.com/datastax)  
-python-driver: DataStax Python Driver for Apache Cassandra  
+DataStax Python Driver for Apache Cassandra  
 [https://github.com/datastax/python-driver](https://github.com/datastax/python-driver)  
 2.6 stars per week over 512 weeks  
 1,331 stars, 522 forks, 80 watches  
@@ -6379,7 +6409,7 @@ python-driver: DataStax Python Driver for Apache Cassandra
 
 
 ### [pyscaffold](https://github.com/pyscaffold/pyscaffold)  
-pyscaffold: 🛠 Python project template generator with batteries included  
+🛠 Python project template generator with batteries included  
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
 3.76 stars per week over 474 weeks  
@@ -6389,7 +6419,7 @@ pyscaffold: 🛠 Python project template generator with batteries included
 
 
 ### [texthero](https://github.com/jbesomi/texthero) by [jbesomi](https://github.com/jbesomi)  
-texthero: Text preprocessing, representation and visualization from zero to hero.  
+Text preprocessing, representation and visualization from zero to hero.  
 [https://texthero.org](https://texthero.org)  
 [https://github.com/jbesomi/texthero](https://github.com/jbesomi/texthero)  
 17 stars per week over 160 weeks  
@@ -6399,7 +6429,7 @@ texthero: Text preprocessing, representation and visualization from zero to hero
 
 
 ### [TabPFN](https://github.com/automl/tabpfn) by [automl](https://github.com/automl)  
-TabPFN: Official implementation of the TabPFN and the tabpfn package.  
+Official implementation of the TabPFN and the tabpfn package.  
 [https://arxiv.org/abs/2207.01848](https://arxiv.org/abs/2207.01848)  
 [https://github.com/automl/tabpfn](https://github.com/automl/tabpfn)  
 16 stars per week over 44 weeks  
@@ -6408,7 +6438,7 @@ TabPFN: Official implementation of the TabPFN and the tabpfn package.
 
 
 ### [flow-forecast](https://github.com/aistream-peelout/flow-forecast) by [aistream-peelout](https://github.com/aistream-peelout)  
-flow-forecast: Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  
+Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  
 [https://flow-forecast.atlassian.net/wiki/spaces/FF/overview](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)  
 [https://github.com/aistream-peelout/flow-forecast](https://github.com/aistream-peelout/flow-forecast)  
 7.34 stars per week over 194 weeks  
@@ -6418,7 +6448,7 @@ flow-forecast: Deep learning PyTorch library for time series forecasting, classi
 
 
 ### [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) by [intel](https://github.com/intel)  
-scikit-learn-intelex: Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application  
+Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application  
 [https://intel.github.io/scikit-learn-intelex/](https://intel.github.io/scikit-learn-intelex/)  
 [https://github.com/intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex)  
 3.86 stars per week over 247 weeks  
@@ -6428,7 +6458,7 @@ scikit-learn-intelex: Intel(R) Extension for Scikit-learn is a seamless way to s
 
 
 ### [aitextgen](https://github.com/minimaxir/aitextgen) by [minimaxir](https://github.com/minimaxir)  
-aitextgen: A robust Python tool for text-based AI training and generation using GPT-2.  
+A robust Python tool for text-based AI training and generation using GPT-2.  
 [https://docs.aitextgen.io](https://docs.aitextgen.io)  
 [https://github.com/minimaxir/aitextgen](https://github.com/minimaxir/aitextgen)  
 10 stars per week over 175 weeks  
@@ -6437,7 +6467,7 @@ aitextgen: A robust Python tool for text-based AI training and generation using 
 
 
 ### [nbgrader](https://github.com/jupyter/nbgrader) by [jupyter](https://github.com/jupyter)  
-nbgrader: A system for assigning and grading notebooks  
+A system for assigning and grading notebooks  
 [https://nbgrader.readthedocs.io/](https://nbgrader.readthedocs.io/)  
 [https://github.com/jupyter/nbgrader](https://github.com/jupyter/nbgrader)  
 2.62 stars per week over 451 weeks  
@@ -6447,7 +6477,7 @@ nbgrader: A system for assigning and grading notebooks
 
 
 ### [eo-learn](https://github.com/sentinel-hub/eo-learn) by [sentinel-hub](https://github.com/sentinel-hub)  
-eo-learn: Earth observation processing framework for machine learning in Python  
+Earth observation processing framework for machine learning in Python  
 [https://eo-learn.readthedocs.io/en/latest/](https://eo-learn.readthedocs.io/en/latest/)  
 [https://github.com/sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn)  
 3.86 stars per week over 257 weeks  
@@ -6457,7 +6487,7 @@ eo-learn: Earth observation processing framework for machine learning in Python
 
 
 ### [QuantEcon.py](https://github.com/quantecon/quantecon.py) by [quantecon](https://github.com/quantecon)  
-QuantEcon.py: A community based Python library for quantitative economics  
+A community based Python library for quantitative economics  
 [https://quantecon.org/quantecon-py/](https://quantecon.org/quantecon-py/)  
 [https://github.com/quantecon/quantecon.py](https://github.com/quantecon/quantecon.py)  
 3.13 stars per week over 528 weeks  
@@ -6476,7 +6506,7 @@ Pyserini is a Python toolkit for reproducible information retrieval research wit
 
 
 ### [yarl](https://github.com/aio-libs/yarl) by [aio-libs](https://github.com/aio-libs)  
-yarl: Yet another URL library  
+Yet another URL library  
 [https://yarl.aio-libs.org](https://yarl.aio-libs.org)  
 [https://github.com/aio-libs/yarl](https://github.com/aio-libs/yarl)  
 2.65 stars per week over 352 weeks  
@@ -6486,7 +6516,7 @@ yarl: Yet another URL library
 
 
 ### [greykite](https://github.com/linkedin/greykite) by [linkedin](https://github.com/linkedin)  
-greykite: A flexible, intuitive and fast forecasting library  
+A flexible, intuitive and fast forecasting library  
 [https://github.com/linkedin/greykite](https://github.com/linkedin/greykite)  
 16 stars per week over 105 weeks  
 1,695 stars, 94 forks, 37 watches  
@@ -6494,7 +6524,7 @@ greykite: A flexible, intuitive and fast forecasting library
 
 
 ### [category_encoders](https://github.com/scikit-learn-contrib/category_encoders) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
-category_encoders: A library of sklearn compatible categorical variable encoders  
+A library of sklearn compatible categorical variable encoders  
 [http://contrib.scikit-learn.org/category_encoders/](http://contrib.scikit-learn.org/category_encoders/)  
 [https://github.com/scikit-learn-contrib/category_encoders](https://github.com/scikit-learn-contrib/category_encoders)  
 5.71 stars per week over 388 weeks  
@@ -6503,7 +6533,7 @@ category_encoders: A library of sklearn compatible categorical variable encoders
 
 
 ### [pyscf](https://github.com/pyscf/pyscf)  
-pyscf: Python module for quantum chemistry  
+Python module for quantum chemistry  
 [https://github.com/pyscf/pyscf](https://github.com/pyscf/pyscf)  
 1.89 stars per week over 470 weeks  
 890 stars, 472 forks, 74 watches  
@@ -6521,7 +6551,7 @@ Pyramid - A Python web framework
 
 
 ### [py-shiny](https://github.com/rstudio/py-shiny) by [rstudio](https://github.com/rstudio)  
-py-shiny: Shiny for Python  
+Shiny for Python  
 [https://shiny.rstudio.com/py/](https://shiny.rstudio.com/py/)  
 [https://github.com/rstudio/py-shiny](https://github.com/rstudio/py-shiny)  
 4.58 stars per week over 92 weeks  
@@ -6530,7 +6560,7 @@ py-shiny: Shiny for Python
 
 
 ### [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) by [ets-labs](https://github.com/ets-labs)  
-python-dependency-injector: Dependency injection framework for Python  
+Dependency injection framework for Python  
 [https://python-dependency-injector.ets-labs.org/](https://python-dependency-injector.ets-labs.org/)  
 [https://github.com/ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector)  
 6.59 stars per week over 435 weeks  
@@ -6540,7 +6570,7 @@ python-dependency-injector: Dependency injection framework for Python
 
 
 ### [dill](https://github.com/uqfoundation/dill) by [uqfoundation](https://github.com/uqfoundation)  
-dill: serialize all of python  
+serialize all of python  
 [http://dill.rtfd.io](http://dill.rtfd.io)  
 [https://github.com/uqfoundation/dill](https://github.com/uqfoundation/dill)  
 3.71 stars per week over 514 weeks  
@@ -6549,7 +6579,7 @@ dill: serialize all of python
 
 
 ### [cleverhans](https://github.com/cleverhans-lab/cleverhans) by [cleverhans-lab](https://github.com/cleverhans-lab)  
-cleverhans: An adversarial example library for constructing attacks, building defenses, and benchmarking both  
+An adversarial example library for constructing attacks, building defenses, and benchmarking both  
 [https://github.com/cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)  
 16 stars per week over 346 weeks  
 5,796 stars, 1,392 forks, 191 watches  
@@ -6558,7 +6588,7 @@ cleverhans: An adversarial example library for constructing attacks, building de
 
 
 ### [Phoenix](https://github.com/wxwidgets/phoenix) by [wxwidgets](https://github.com/wxwidgets)  
-Phoenix: wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
+wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
 [http://wxpython.org/](http://wxpython.org/)  
 [https://github.com/wxwidgets/phoenix](https://github.com/wxwidgets/phoenix)  
 3.53 stars per week over 563 weeks  
@@ -6568,7 +6598,7 @@ Phoenix: wxPython's Project Phoenix.  A new implementation of wxPython, better, 
 
 
 ### [spacy-transformers](https://github.com/explosion/spacy-transformers) by [explosion](https://github.com/explosion)  
-spacy-transformers: 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
+🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
 [https://spacy.io/usage/embeddings-transformers](https://spacy.io/usage/embeddings-transformers)  
 [https://github.com/explosion/spacy-transformers](https://github.com/explosion/spacy-transformers)  
 6.29 stars per week over 197 weeks  
@@ -6578,7 +6608,7 @@ spacy-transformers: 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 
 
 
 ### [habitat-lab](https://github.com/facebookresearch/habitat-lab) by [facebookresearch](https://github.com/facebookresearch)  
-habitat-lab: A modular high-level library to train embodied AI agents across a variety of tasks and environments.  
+A modular high-level library to train embodied AI agents across a variety of tasks and environments.  
 [https://aihabitat.org/](https://aihabitat.org/)  
 [https://github.com/facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab)  
 4.83 stars per week over 221 weeks  
@@ -6588,7 +6618,7 @@ habitat-lab: A modular high-level library to train embodied AI agents across a v
 
 
 ### [movingpandas](https://github.com/anitagraser/movingpandas) by [anitagraser](https://github.com/anitagraser)  
-movingpandas: Implementation of Trajectory classes and functions built on top of GeoPandas  
+Implementation of Trajectory classes and functions built on top of GeoPandas  
 [http://movingpandas.org](http://movingpandas.org)  
 [https://github.com/anitagraser/movingpandas](https://github.com/anitagraser/movingpandas)  
 4.19 stars per week over 229 weeks  
@@ -6598,7 +6628,7 @@ movingpandas: Implementation of Trajectory classes and functions built on top of
 
 
 ### [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) by [pyjanitor-devs](https://github.com/pyjanitor-devs)  
-pyjanitor: Clean APIs for data cleaning. Python implementation of R package Janitor  
+Clean APIs for data cleaning. Python implementation of R package Janitor  
 [https://pyjanitor-devs.github.io/pyjanitor](https://pyjanitor-devs.github.io/pyjanitor)  
 [https://github.com/pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor)  
 4.23 stars per week over 270 weeks  
@@ -6608,7 +6638,7 @@ pyjanitor: Clean APIs for data cleaning. Python implementation of R package Jani
 
 
 ### [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) by [drivendata](https://github.com/drivendata)  
-cookiecutter-data-science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
+A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 16 stars per week over 392 weeks  
@@ -6618,7 +6648,7 @@ cookiecutter-data-science: A logical, reasonably standardized, but flexible proj
 
 
 ### [ipyvolume](https://github.com/maartenbreddels/ipyvolume) by [maartenbreddels](https://github.com/maartenbreddels)  
-ipyvolume: 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL  
+3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL  
 [https://github.com/maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume)  
 5.54 stars per week over 332 weeks  
 1,843 stars, 236 forks, 51 watches  
@@ -6627,7 +6657,7 @@ ipyvolume: 3d plotting for Python in the Jupyter notebook based on IPython widge
 
 
 ### [WeightWatcher](https://github.com/calculatedcontent/weightwatcher) by [calculatedcontent](https://github.com/calculatedcontent)  
-WeightWatcher: The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks  
+The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks  
 [https://github.com/calculatedcontent/weightwatcher](https://github.com/calculatedcontent/weightwatcher)  
 5.18 stars per week over 231 weeks  
 1,199 stars, 102 forks, 32 watches  
@@ -6635,7 +6665,7 @@ WeightWatcher: The WeightWatcher tool for predicting the accuracy of   Deep Neur
 
 
 ### [imodels](https://github.com/csinva/imodels) by [csinva](https://github.com/csinva)  
-imodels: Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).  
+Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).  
 [https://csinva.io/imodels](https://csinva.io/imodels)  
 [https://github.com/csinva/imodels](https://github.com/csinva/imodels)  
 5.46 stars per week over 200 weeks  
@@ -6645,7 +6675,7 @@ imodels: Interpretable ML package 🔍 for concise, transparent, and accurate pr
 
 
 ### [ipykernel](https://github.com/ipython/ipykernel) by [ipython](https://github.com/ipython)  
-ipykernel: IPython Kernel for Jupyter  
+IPython Kernel for Jupyter  
 [https://ipykernel.readthedocs.io/en/stable/](https://ipykernel.readthedocs.io/en/stable/)  
 [https://github.com/ipython/ipykernel](https://github.com/ipython/ipykernel)  
 1.31 stars per week over 421 weeks  
@@ -6664,7 +6694,7 @@ Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Gener
 
 
 ### [intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) by [intel](https://github.com/intel)  
-intel-extension-for-transformers: Extending Hugging Face transformers APIs for Transformer-based models and improve the productivity of inference deployment. With extremely compressed models, the toolkit can greatly improve the inference efficiency on Intel platforms.  
+Extending Hugging Face transformers APIs for Transformer-based models and improve the productivity of inference deployment. With extremely compressed models, the toolkit can greatly improve the inference efficiency on Intel platforms.  
 [https://github.com/intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)  
 8.46 stars per week over 25 weeks  
 214 stars, 22 forks, 12 watches  
@@ -6683,7 +6713,7 @@ Intake is a lightweight package for finding, investigating, loading and dissemin
 
 
 ### [BlackSheep](https://github.com/neoteroi/blacksheep) by [neoteroi](https://github.com/neoteroi)  
-BlackSheep: Fast ASGI web framework for Python  
+Fast ASGI web framework for Python  
 [https://www.neoteroi.dev/blacksheep/](https://www.neoteroi.dev/blacksheep/)  
 [https://github.com/neoteroi/blacksheep](https://github.com/neoteroi/blacksheep)  
 5.37 stars per week over 232 weeks  
@@ -6693,7 +6723,7 @@ BlackSheep: Fast ASGI web framework for Python
 
 
 ### [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) by [udacity](https://github.com/udacity)  
-deep-learning-v2-pytorch: Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101  
+Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101  
 [https://github.com/udacity/deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch)  
 20 stars per week over 243 weeks  
 4,916 stars, 5,257 forks, 174 watches  
@@ -6702,7 +6732,7 @@ deep-learning-v2-pytorch: Projects and exercises for the latest Deep Learning ND
 
 
 ### [quantstats](https://github.com/ranaroussi/quantstats) by [ranaroussi](https://github.com/ranaroussi)  
-quantstats: Portfolio analytics for quants, written in Python  
+Portfolio analytics for quants, written in Python  
 [https://github.com/ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)  
 14 stars per week over 209 weeks  
 3,078 stars, 601 forks, 88 watches  
@@ -6711,7 +6741,7 @@ quantstats: Portfolio analytics for quants, written in Python
 
 
 ### [markovify](https://github.com/jsvine/markovify) by [jsvine](https://github.com/jsvine)  
-markovify: A simple, extensible Markov chain generator.  
+A simple, extensible Markov chain generator.  
 [https://github.com/jsvine/markovify](https://github.com/jsvine/markovify)  
 7.27 stars per week over 435 weeks  
 3,163 stars, 344 forks, 70 watches  
@@ -6719,7 +6749,7 @@ markovify: A simple, extensible Markov chain generator.
 
 
 ### [astro-sdk](https://github.com/astronomer/astro-sdk) by [astronomer](https://github.com/astronomer)  
-astro-sdk: Astro SDK allows rapid and clean development of {Extract, Load, Transform} workflows using Python and SQL, powered by Apache Airflow.  
+Astro SDK allows rapid and clean development of {Extract, Load, Transform} workflows using Python and SQL, powered by Apache Airflow.  
 [https://astro-sdk-python.rtfd.io/](https://astro-sdk-python.rtfd.io/)  
 [https://github.com/astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)  
 3.44 stars per week over 73 weeks  
@@ -6729,7 +6759,7 @@ astro-sdk: Astro SDK allows rapid and clean development of {Extract, Load, Trans
 
 
 ### [pytest-mock](https://github.com/pytest-dev/pytest-mock) by [pytest-dev](https://github.com/pytest-dev)  
-pytest-mock: Thin-wrapper around the mock package for easier use with pytest  
+Thin-wrapper around the mock package for easier use with pytest  
 [https://pytest-mock.readthedocs.io/en/latest/](https://pytest-mock.readthedocs.io/en/latest/)  
 [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)  
 3.45 stars per week over 459 weeks  
@@ -6739,7 +6769,7 @@ pytest-mock: Thin-wrapper around the mock package for easier use with pytest
 
 
 ### [pudb](https://github.com/inducer/pudb) by [inducer](https://github.com/inducer)  
-pudb: Full-screen console debugger for Python  
+Full-screen console debugger for Python  
 [https://documen.tician.de/pudb/](https://documen.tician.de/pudb/)  
 [https://github.com/inducer/pudb](https://github.com/inducer/pudb)  
 4.25 stars per week over 625 weeks  
@@ -6749,7 +6779,7 @@ pudb: Full-screen console debugger for Python
 
 
 ### [autoscraper](https://github.com/alirezamika/autoscraper) by [alirezamika](https://github.com/alirezamika)  
-autoscraper: A Smart, Automatic, Fast and Lightweight Web Scraper for Python  
+A Smart, Automatic, Fast and Lightweight Web Scraper for Python  
 [https://github.com/alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)  
 36 stars per week over 139 weeks  
 5,138 stars, 549 forks, 124 watches  
@@ -6768,7 +6798,7 @@ Asyncer, async and await, focused on developer experience.
 
 
 ### [Binance-volatility-trading-bot](https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot) by [cyberpunkmetalhead](https://github.com/cyberpunkmetalhead)  
-Binance-volatility-trading-bot: This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
+This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.  
 [https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot](https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot)  
 31 stars per week over 104 weeks  
 3,254 stars, 757 forks, 147 watches  
@@ -6776,7 +6806,7 @@ Binance-volatility-trading-bot: This is a fully functioning Binance trading bot 
 
 
 ### [PyTorch-BigGraph](https://github.com/facebookresearch/pytorch-biggraph) by [facebookresearch](https://github.com/facebookresearch)  
-PyTorch-BigGraph: Generate embeddings from large-scale graph-structured data.  
+Generate embeddings from large-scale graph-structured data.  
 [https://torchbiggraph.readthedocs.io/](https://torchbiggraph.readthedocs.io/)  
 [https://github.com/facebookresearch/pytorch-biggraph](https://github.com/facebookresearch/pytorch-biggraph)  
 13 stars per week over 239 weeks  
@@ -6785,7 +6815,7 @@ PyTorch-BigGraph: Generate embeddings from large-scale graph-structured data.
 
 
 ### [nlpaug](https://github.com/makcedward/nlpaug) by [makcedward](https://github.com/makcedward)  
-nlpaug: Data augmentation for NLP   
+Data augmentation for NLP   
 [https://makcedward.github.io/](https://makcedward.github.io/)  
 [https://github.com/makcedward/nlpaug](https://github.com/makcedward/nlpaug)  
 18 stars per week over 215 weeks  
@@ -6804,7 +6834,7 @@ PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vis
 
 
 ### [deepmd-kit](https://github.com/deepmodeling/deepmd-kit) by [deepmodeling](https://github.com/deepmodeling)  
-deepmd-kit: A deep learning package for many-body potential energy representation and molecular dynamics  
+A deep learning package for many-body potential energy representation and molecular dynamics  
 [https://docs.deepmodeling.com/projects/deepmd/](https://docs.deepmodeling.com/projects/deepmd/)  
 [https://github.com/deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit)  
 3.94 stars per week over 281 weeks  
@@ -6814,7 +6844,7 @@ deepmd-kit: A deep learning package for many-body potential energy representatio
 
 
 ### [titiler](https://github.com/developmentseed/titiler) by [developmentseed](https://github.com/developmentseed)  
-titiler: Build your own Raster dynamic map tile services  
+Build your own Raster dynamic map tile services  
 [https://developmentseed.org/titiler/](https://developmentseed.org/titiler/)  
 [https://github.com/developmentseed/titiler](https://github.com/developmentseed/titiler)  
 2.54 stars per week over 201 weeks  
@@ -6824,7 +6854,7 @@ titiler: Build your own Raster dynamic map tile services
 
 
 ### [sqlite-utils](https://github.com/simonw/sqlite-utils) by [simonw](https://github.com/simonw)  
-sqlite-utils: Python CLI utility and library for manipulating SQLite databases  
+Python CLI utility and library for manipulating SQLite databases  
 [https://sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)  
 [https://github.com/simonw/sqlite-utils](https://github.com/simonw/sqlite-utils)  
 4.52 stars per week over 251 weeks  
@@ -6844,7 +6874,7 @@ Safety checks Python dependencies for known security vulnerabilities and suggest
 
 
 ### [python-benedict](https://github.com/fabiocaccamo/python-benedict) by [fabiocaccamo](https://github.com/fabiocaccamo)  
-python-benedict: :blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.  
+:blue_book: dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.  
 [https://github.com/fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict)  
 5.07 stars per week over 207 weeks  
 1,050 stars, 41 forks, 12 watches  
@@ -6853,7 +6883,7 @@ python-benedict: :blue_book: dict subclass with keylist/keypath support, built-i
 
 
 ### [textgenrnn](https://github.com/minimaxir/textgenrnn) by [minimaxir](https://github.com/minimaxir)  
-textgenrnn: Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.  
+Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.  
 [https://github.com/minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn)  
 16 stars per week over 299 weeks  
 4,894 stars, 753 forks, 139 watches  
@@ -6862,7 +6892,7 @@ textgenrnn: Easily train your own text-generating neural network of any size and
 
 
 ### [EnergonAI](https://github.com/hpcaitech/energonai) by [hpcaitech](https://github.com/hpcaitech)  
-EnergonAI: Large-scale model inference.  
+Large-scale model inference.  
 [https://github.com/hpcaitech/energonai](https://github.com/hpcaitech/energonai)  
 8.17 stars per week over 66 weeks  
 546 stars, 83 forks, 20 watches  
@@ -6870,7 +6900,7 @@ EnergonAI: Large-scale model inference.
 
 
 ### [pyLDAvis](https://github.com/bmabey/pyldavis) by [bmabey](https://github.com/bmabey)  
-pyLDAvis: Python library for interactive topic model visualization. Port of the R LDAvis package.  
+Python library for interactive topic model visualization. Port of the R LDAvis package.  
 [https://github.com/bmabey/pyldavis](https://github.com/bmabey/pyldavis)  
 4.06 stars per week over 421 weeks  
 1,709 stars, 356 forks, 55 watches  
@@ -6888,7 +6918,7 @@ Cartopy - a cartographic python library with matplotlib support
 
 
 ### [rioxarray](https://github.com/corteva/rioxarray) by [corteva](https://github.com/corteva)  
-rioxarray: geospatial xarray extension powered by rasterio  
+geospatial xarray extension powered by rasterio  
 [https://corteva.github.io/rioxarray](https://corteva.github.io/rioxarray)  
 [https://github.com/corteva/rioxarray](https://github.com/corteva/rioxarray)  
 1.83 stars per week over 211 weeks  
@@ -6898,7 +6928,7 @@ rioxarray: geospatial xarray extension powered by rasterio
 
 
 ### [nbQA](https://github.com/nbqa-dev/nbqa) by [nbqa-dev](https://github.com/nbqa-dev)  
-nbQA: Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks  
+Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks  
 [https://nbqa.readthedocs.io/en/latest/index.html](https://nbqa.readthedocs.io/en/latest/index.html)  
 [https://github.com/nbqa-dev/nbqa](https://github.com/nbqa-dev/nbqa)  
 5.18 stars per week over 147 weeks  
@@ -6908,7 +6938,7 @@ nbQA: Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Note
 
 
 ### [snakeviz](https://github.com/jiffyclub/snakeviz) by [jiffyclub](https://github.com/jiffyclub)  
-snakeviz: An in-browser Python profile viewer  
+An in-browser Python profile viewer  
 [https://jiffyclub.github.io/snakeviz/](https://jiffyclub.github.io/snakeviz/)  
 [https://github.com/jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz)  
 3.45 stars per week over 566 weeks  
@@ -6936,7 +6966,7 @@ Petastorm library enables single machine or distributed training and evaluation 
 
 
 ### [funcy](https://github.com/suor/funcy) by [suor](https://github.com/suor)  
-funcy: A fancy and practical functional tools  
+A fancy and practical functional tools  
 [https://github.com/suor/funcy](https://github.com/suor/funcy)  
 5.56 stars per week over 551 weeks  
 3,063 stars, 139 forks, 75 watches  
@@ -6945,7 +6975,7 @@ funcy: A fancy and practical functional tools
 
 
 ### [H3](https://github.com/hazyresearch/h3) by [hazyresearch](https://github.com/hazyresearch)  
-H3: Language Modeling with the H3 State Space Model  
+Language Modeling with the H3 State Space Model  
 [https://github.com/hazyresearch/h3](https://github.com/hazyresearch/h3)  
 21 stars per week over 18 weeks  
 407 stars, 39 forks, 29 watches  
@@ -6953,7 +6983,7 @@ H3: Language Modeling with the H3 State Space Model
 
 
 ### [wrapt](https://github.com/grahamdumpleton/wrapt) by [grahamdumpleton](https://github.com/grahamdumpleton)  
-wrapt: A Python module for decorators, wrappers and monkey patching.  
+A Python module for decorators, wrappers and monkey patching.  
 [https://github.com/grahamdumpleton/wrapt](https://github.com/grahamdumpleton/wrapt)  
 3.56 stars per week over 518 weeks  
 1,847 stars, 212 forks, 45 watches  
@@ -6961,7 +6991,7 @@ wrapt: A Python module for decorators, wrappers and monkey patching.
 
 
 ### [aiobotocore](https://github.com/aio-libs/aiobotocore) by [aio-libs](https://github.com/aio-libs)  
-aiobotocore: asyncio support for botocore library using aiohttp  
+asyncio support for botocore library using aiohttp  
 [http://aiobotocore.readthedocs.io](http://aiobotocore.readthedocs.io)  
 [https://github.com/aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore)  
 2.23 stars per week over 414 weeks  
@@ -6971,7 +7001,7 @@ aiobotocore: asyncio support for botocore library using aiohttp
 
 
 ### [similarity](https://github.com/tensorflow/similarity) by [tensorflow](https://github.com/tensorflow)  
-similarity: TensorFlow Similarity is a python package focused on making similarity learning quick and easy.  
+TensorFlow Similarity is a python package focused on making similarity learning quick and easy.  
 [https://github.com/tensorflow/similarity](https://github.com/tensorflow/similarity)  
 6.24 stars per week over 150 weeks  
 941 stars, 97 forks, 31 watches  
@@ -6980,7 +7010,7 @@ similarity: TensorFlow Similarity is a python package focused on making similari
 
 
 ### [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) by [pytest-dev](https://github.com/pytest-dev)  
-pytest-asyncio: Asyncio support for pytest  
+Asyncio support for pytest  
 [https://pytest-asyncio.readthedocs.io](https://pytest-asyncio.readthedocs.io)  
 [https://github.com/pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)  
 2.7 stars per week over 421 weeks  
@@ -6999,7 +7029,7 @@ Errbot is a chatbot, a daemon that connects to your favorite chat service and br
 
 
 ### [PandasGUI](https://github.com/adamerose/pandasgui) by [adamerose](https://github.com/adamerose)  
-PandasGUI: A GUI for Pandas DataFrames  
+A GUI for Pandas DataFrames  
 [https://github.com/adamerose/pandasgui](https://github.com/adamerose/pandasgui)  
 14 stars per week over 203 weeks  
 2,919 stars, 208 forks, 52 watches  
@@ -7008,7 +7038,7 @@ PandasGUI: A GUI for Pandas DataFrames
 
 
 ### [tavern](https://github.com/taverntesting/tavern) by [taverntesting](https://github.com/taverntesting)  
-tavern: A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
+A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
 [https://taverntesting.github.io/](https://taverntesting.github.io/)  
 [https://github.com/taverntesting/tavern](https://github.com/taverntesting/tavern)  
 3.21 stars per week over 287 weeks  
@@ -7018,7 +7048,7 @@ tavern: A command-line tool and Python library and Pytest plugin for automated t
 
 
 ### [filprofiler](https://github.com/pythonspeed/filprofiler) by [pythonspeed](https://github.com/pythonspeed)  
-filprofiler: A Python memory profiler for data processing and scientific computing applications  
+A Python memory profiler for data processing and scientific computing applications  
 [https://pythonspeed.com/products/filmemoryprofiler/](https://pythonspeed.com/products/filmemoryprofiler/)  
 [https://github.com/pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler)  
 5.04 stars per week over 150 weeks  
@@ -7028,7 +7058,7 @@ filprofiler: A Python memory profiler for data processing and scientific computi
 
 
 ### [nomic](https://github.com/nomic-ai/nomic) by [nomic-ai](https://github.com/nomic-ai)  
-nomic: Interact with Massive Embedding and Text Datasets in Your Web Browser  
+Interact with Massive Embedding and Text Datasets in Your Web Browser  
 [https://atlas.nomic.ai](https://atlas.nomic.ai)  
 [https://github.com/nomic-ai/nomic](https://github.com/nomic-ai/nomic)  
 12 stars per week over 41 weeks  
@@ -7038,7 +7068,7 @@ nomic: Interact with Massive Embedding and Text Datasets in Your Web Browser
 
 
 ### [orbit](https://github.com/uber/orbit) by [uber](https://github.com/uber)  
-orbit: A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.  
+A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.  
 [https://orbit-ml.readthedocs.io/en/stable/](https://orbit-ml.readthedocs.io/en/stable/)  
 [https://github.com/uber/orbit](https://github.com/uber/orbit)  
 9.39 stars per week over 173 weeks  
@@ -7048,7 +7078,7 @@ orbit: A Python package for Bayesian forecasting with object-oriented design and
 
 
 ### [kedro-viz](https://github.com/kedro-org/kedro-viz) by [kedro-org](https://github.com/kedro-org)  
-kedro-viz: Visualise your Kedro data and machine-learning pipelines and track your experiments.   
+Visualise your Kedro data and machine-learning pipelines and track your experiments.   
 [https://demo.kedro.org/](https://demo.kedro.org/)  
 [https://github.com/kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz)  
 2.63 stars per week over 208 weeks  
@@ -7058,7 +7088,7 @@ kedro-viz: Visualise your Kedro data and machine-learning pipelines and track yo
 
 
 ### [lazypredict](https://github.com/shankarpandala/lazypredict) by [shankarpandala](https://github.com/shankarpandala)  
-lazypredict: Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning  
+Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning  
 [https://github.com/shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)  
 11 stars per week over 181 weeks  
 1,997 stars, 228 forks, 25 watches  
@@ -7067,7 +7097,7 @@ lazypredict: Lazy Predict help build a lot of basic models without much code and
 
 
 ### [python-diskcache](https://github.com/grantjenks/python-diskcache) by [grantjenks](https://github.com/grantjenks)  
-python-diskcache: Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.  
+Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.  
 [http://www.grantjenks.com/docs/diskcache/](http://www.grantjenks.com/docs/diskcache/)  
 [https://github.com/grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache)  
 4.62 stars per week over 378 weeks  
@@ -7085,7 +7115,7 @@ coyote-a/ultimate-upscale-for-automatic1111
 
 
 ### [pyproj](https://github.com/pyproj4/pyproj) by [pyproj4](https://github.com/pyproj4)  
-pyproj: Python interface to PROJ (cartographic projections and coordinate transformations library)  
+Python interface to PROJ (cartographic projections and coordinate transformations library)  
 [https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)  
 [https://github.com/pyproj4/pyproj](https://github.com/pyproj4/pyproj)  
 2.02 stars per week over 435 weeks  
@@ -7095,7 +7125,7 @@ pyproj: Python interface to PROJ (cartographic projections and coordinate transf
 
 
 ### [Pretrained-Language-Model](https://github.com/huawei-noah/pretrained-language-model) by [huawei-noah](https://github.com/huawei-noah)  
-Pretrained-Language-Model: Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.  
+Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.  
 [https://github.com/huawei-noah/pretrained-language-model](https://github.com/huawei-noah/pretrained-language-model)  
 15 stars per week over 178 weeks  
 2,729 stars, 584 forks, 56 watches  
@@ -7104,7 +7134,7 @@ Pretrained-Language-Model: Pretrained language model and its related optimizatio
 
 
 ### [Megatron-DeepSpeed](https://github.com/bigscience-workshop/megatron-deepspeed) by [bigscience-workshop](https://github.com/bigscience-workshop)  
-Megatron-DeepSpeed: Ongoing research training transformer language models at scale, including: BERT & GPT-2  
+Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 [https://github.com/bigscience-workshop/megatron-deepspeed](https://github.com/bigscience-workshop/megatron-deepspeed)  
 7.51 stars per week over 96 weeks  
 723 stars, 149 forks, 22 watches  
@@ -7112,7 +7142,7 @@ Megatron-DeepSpeed: Ongoing research training transformer language models at sca
 
 
 ### [jellyfish](https://github.com/jamesturk/jellyfish) by [jamesturk](https://github.com/jamesturk)  
-jellyfish: 🪼 a python library for doing approximate and phonetic matching of strings.  
+🪼 a python library for doing approximate and phonetic matching of strings.  
 [https://jamesturk.github.io/jellyfish/](https://jamesturk.github.io/jellyfish/)  
 [https://github.com/jamesturk/jellyfish](https://github.com/jamesturk/jellyfish)  
 2.75 stars per week over 669 weeks  
@@ -7131,7 +7161,7 @@ OSLO: Open Source for Large-scale Optimization
 
 
 ### [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) by [minimaxir](https://github.com/minimaxir)  
-gpt-2-simple: Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts  
+Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts  
 [https://github.com/minimaxir/gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)  
 15 stars per week over 212 weeks  
 3,259 stars, 666 forks, 75 watches  
@@ -7140,7 +7170,7 @@ gpt-2-simple: Python package to easily retrain OpenAI's GPT-2 text-generating mo
 
 
 ### [netket](https://github.com/netket/netket)  
-netket: Machine learning algorithms for many-body quantum systems   
+Machine learning algorithms for many-body quantum systems   
 [https://www.netket.org](https://www.netket.org)  
 [https://github.com/netket/netket](https://github.com/netket/netket)  
 1.64 stars per week over 262 weeks  
@@ -7150,7 +7180,7 @@ netket: Machine learning algorithms for many-body quantum systems
 
 
 ### [sqlparse](https://github.com/andialbrecht/sqlparse) by [andialbrecht](https://github.com/andialbrecht)  
-sqlparse: A non-validating SQL parser module for Python  
+A non-validating SQL parser module for Python  
 [https://github.com/andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse)  
 5.62 stars per week over 576 weeks  
 3,238 stars, 640 forks, 93 watches  
@@ -7158,7 +7188,7 @@ sqlparse: A non-validating SQL parser module for Python
 
 
 ### [lucid](https://github.com/tensorflow/lucid) by [tensorflow](https://github.com/tensorflow)  
-lucid: A collection of infrastructure and tools for research in neural network interpretability.  
+A collection of infrastructure and tools for research in neural network interpretability.  
 [https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)  
 16 stars per week over 275 weeks  
 4,542 stars, 652 forks, 162 watches  
@@ -7167,7 +7197,7 @@ lucid: A collection of infrastructure and tools for research in neural network i
 
 
 ### [book](https://github.com/cosmicpython/book) by [cosmicpython](https://github.com/cosmicpython)  
-book: A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.  
+A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.  
 [https://www.cosmicpython.com](https://www.cosmicpython.com)  
 [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book)  
 13 stars per week over 221 weeks  
@@ -7176,7 +7206,7 @@ book: A Book about Pythonic Application Architecture Patterns for Managing Compl
 
 
 ### [pyfilesystem2](https://github.com/pyfilesystem/pyfilesystem2) by [pyfilesystem](https://github.com/pyfilesystem)  
-pyfilesystem2: Python's Filesystem abstraction layer  
+Python's Filesystem abstraction layer  
 [https://www.pyfilesystem.org](https://www.pyfilesystem.org)  
 [https://github.com/pyfilesystem/pyfilesystem2](https://github.com/pyfilesystem/pyfilesystem2)  
 5.4 stars per week over 342 weeks  
@@ -7186,7 +7216,7 @@ pyfilesystem2: Python's Filesystem abstraction layer
 
 
 ### [PyTables](https://github.com/pytables/pytables) by [pytables](https://github.com/pytables)  
-PyTables: A Python package to manage extremely large amounts of data  
+A Python package to manage extremely large amounts of data  
 [http://www.pytables.org](http://www.pytables.org)  
 [https://github.com/pytables/pytables](https://github.com/pytables/pytables)  
 1.93 stars per week over 622 weeks  
@@ -7195,7 +7225,7 @@ PyTables: A Python package to manage extremely large amounts of data
 
 
 ### [torchtyping](https://github.com/patrick-kidger/torchtyping) by [patrick-kidger](https://github.com/patrick-kidger)  
-torchtyping: Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.  
+Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.  
 [https://github.com/patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping)  
 11 stars per week over 110 weeks  
 1,229 stars, 29 forks, 14 watches  
@@ -7204,7 +7234,7 @@ torchtyping: Type annotations and dynamic checking for a tensor's shape, dtype, 
 
 
 ### [gs-quant](https://github.com/goldmansachs/gs-quant) by [goldmansachs](https://github.com/goldmansachs)  
-gs-quant: Python toolkit for quantitative finance  
+Python toolkit for quantitative finance  
 [https://developer.gs.com/discover/products/gs-quant/](https://developer.gs.com/discover/products/gs-quant/)  
 [https://github.com/goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)  
 7.64 stars per week over 229 weeks  
@@ -7214,7 +7244,7 @@ gs-quant: Python toolkit for quantitative finance
 
 
 ### [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) by [sentinel-hub](https://github.com/sentinel-hub)  
-sentinelhub-py: Download and process satellite imagery in Python using Sentinel Hub services.  
+Download and process satellite imagery in Python using Sentinel Hub services.  
 [http://sentinelhub-py.readthedocs.io/en/latest/](http://sentinelhub-py.readthedocs.io/en/latest/)  
 [https://github.com/sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py)  
 2.21 stars per week over 311 weeks  
@@ -7224,7 +7254,7 @@ sentinelhub-py: Download and process satellite imagery in Python using Sentinel 
 
 
 ### [pattern](https://github.com/clips/pattern) by [clips](https://github.com/clips)  
-pattern: Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.  
+Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.  
 [https://github.com/clips/pattern/wiki](https://github.com/clips/pattern/wiki)  
 [https://github.com/clips/pattern](https://github.com/clips/pattern)  
 13 stars per week over 626 weeks  
@@ -7234,7 +7264,7 @@ pattern: Web mining module for Python, with tools for scraping, natural language
 
 
 ### [ipdb](https://github.com/gotcha/ipdb) by [gotcha](https://github.com/gotcha)  
-ipdb: Integration of IPython pdb  
+Integration of IPython pdb  
 [https://github.com/gotcha/ipdb](https://github.com/gotcha/ipdb)  
 2.64 stars per week over 642 weeks  
 1,695 stars, 147 forks, 28 watches  
@@ -7243,7 +7273,7 @@ ipdb: Integration of IPython pdb
 
 
 ### [FEDOT](https://github.com/nccr-itmo/fedot) by [nccr-itmo](https://github.com/nccr-itmo)  
-FEDOT: Automated modeling and machine learning framework FEDOT  
+Automated modeling and machine learning framework FEDOT  
 [https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
 [https://github.com/nccr-itmo/fedot](https://github.com/nccr-itmo/fedot)  
 3.04 stars per week over 172 weeks  
@@ -7253,7 +7283,7 @@ FEDOT: Automated modeling and machine learning framework FEDOT
 
 
 ### [quaterion](https://github.com/qdrant/quaterion) by [qdrant](https://github.com/qdrant)  
-quaterion: Blazing fast framework for fine-tuning similarity learning models  
+Blazing fast framework for fine-tuning similarity learning models  
 [https://quaterion.qdrant.tech/](https://quaterion.qdrant.tech/)  
 [https://github.com/qdrant/quaterion](https://github.com/qdrant/quaterion)  
 5.44 stars per week over 87 weeks  
@@ -7263,7 +7293,7 @@ quaterion: Blazing fast framework for fine-tuning similarity learning models
 
 
 ### [dateutil](https://github.com/dateutil/dateutil)  
-dateutil: Useful extensions to the standard Python datetime features  
+Useful extensions to the standard Python datetime features  
 [https://github.com/dateutil/dateutil](https://github.com/dateutil/dateutil)  
 4.64 stars per week over 441 weeks  
 2,049 stars, 433 forks, 42 watches  
@@ -7272,7 +7302,7 @@ dateutil: Useful extensions to the standard Python datetime features
 
 
 ### [iris](https://github.com/scitools/iris) by [scitools](https://github.com/scitools)  
-iris: A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data  
+A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data  
 [https://scitools-iris.readthedocs.io/en/latest/](https://scitools-iris.readthedocs.io/en/latest/)  
 [https://github.com/scitools/iris](https://github.com/scitools/iris)  
 0.97 stars per week over 560 weeks  
@@ -7282,7 +7312,7 @@ iris: A powerful, format-agnostic, and community-driven Python package for analy
 
 
 ### [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) by [apple](https://github.com/apple)  
-ml-ane-transformers: Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)  
+Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)  
 [https://github.com/apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers)  
 45 stars per week over 48 weeks  
 2,214 stars, 65 forks, 40 watches  
@@ -7290,7 +7320,7 @@ ml-ane-transformers: Reference implementation of the Transformer architecture op
 
 
 ### [python-ftfy](https://github.com/rspeer/python-ftfy) by [rspeer](https://github.com/rspeer)  
-python-ftfy: Fixes mojibake and other glitches in Unicode text, after the fact.  
+Fixes mojibake and other glitches in Unicode text, after the fact.  
 [http://ftfy.readthedocs.org](http://ftfy.readthedocs.org)  
 [https://github.com/rspeer/python-ftfy](https://github.com/rspeer/python-ftfy)  
 6.25 stars per week over 558 weeks  
@@ -7299,7 +7329,7 @@ python-ftfy: Fixes mojibake and other glitches in Unicode text, after the fact.
 
 
 ### [Machine-Learning-Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener) by [alirezadir](https://github.com/alirezadir)  
-Machine-Learning-Interviews: This repo is meant to serve as a guide for Machine Learning/AI technical interviews.   
+This repo is meant to serve as a guide for Machine Learning/AI technical interviews.   
 [https://github.com/alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener)  
 16 stars per week over 118 weeks  
 1,910 stars, 385 forks, 49 watches  
@@ -7308,7 +7338,7 @@ Machine-Learning-Interviews: This repo is meant to serve as a guide for Machine 
 
 
 ### [asitop](https://github.com/tlkh/asitop) by [tlkh](https://github.com/tlkh)  
-asitop: Perf monitoring CLI tool for Apple Silicon  
+Perf monitoring CLI tool for Apple Silicon  
 [https://tlkh.github.io/asitop/](https://tlkh.github.io/asitop/)  
 [https://github.com/tlkh/asitop](https://github.com/tlkh/asitop)  
 19 stars per week over 79 weeks  
@@ -7318,7 +7348,7 @@ asitop: Perf monitoring CLI tool for Apple Silicon
 
 
 ### [optimus](https://github.com/hi-primus/optimus) by [hi-primus](https://github.com/hi-primus)  
-optimus: :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  
+:truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  
 [https://hi-optimus.com](https://hi-optimus.com)  
 [https://github.com/hi-primus/optimus](https://github.com/hi-primus/optimus)  
 4.48 stars per week over 303 weeks  
@@ -7328,7 +7358,7 @@ optimus: :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, 
 
 
 ### [Megatron-DeepSpeed](https://github.com/microsoft/megatron-deepspeed) by [microsoft](https://github.com/microsoft)  
-Megatron-DeepSpeed: Ongoing research training transformer language models at scale, including: BERT & GPT-2  
+Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 [https://github.com/microsoft/megatron-deepspeed](https://github.com/microsoft/megatron-deepspeed)  
 5.82 stars per week over 97 weeks  
 570 stars, 117 forks, 11 watches  
@@ -7336,7 +7366,7 @@ Megatron-DeepSpeed: Ongoing research training transformer language models at sca
 
 
 ### [ydata-synthetic](https://github.com/ydataai/ydata-synthetic) by [ydataai](https://github.com/ydataai)  
-ydata-synthetic: Synthetic data generators for tabular and time-series data  
+Synthetic data generators for tabular and time-series data  
 [https://datacentricai.community](https://datacentricai.community)  
 [https://github.com/ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic)  
 6.09 stars per week over 156 weeks  
@@ -7346,7 +7376,7 @@ ydata-synthetic: Synthetic data generators for tabular and time-series data
 
 
 ### [tuned-lens](https://github.com/alignmentresearch/tuned-lens) by [alignmentresearch](https://github.com/alignmentresearch)  
-tuned-lens: Tools for understanding how transformer predictions are built layer-by-layer  
+Tools for understanding how transformer predictions are built layer-by-layer  
 [https://tuned-lens.readthedocs.io/en/latest/](https://tuned-lens.readthedocs.io/en/latest/)  
 [https://github.com/alignmentresearch/tuned-lens](https://github.com/alignmentresearch/tuned-lens)  
 7.29 stars per week over 30 weeks  
@@ -7356,7 +7386,7 @@ tuned-lens: Tools for understanding how transformer predictions are built layer-
 
 
 ### [austin](https://github.com/p403n1x87/austin) by [p403n1x87](https://github.com/p403n1x87)  
-austin: Python frame stack sampler for CPython  
+Python frame stack sampler for CPython  
 [https://github.com/p403n1x87/austin](https://github.com/p403n1x87/austin)  
 4.78 stars per week over 241 weeks  
 1,154 stars, 38 forks, 14 watches  
@@ -7365,7 +7395,7 @@ austin: Python frame stack sampler for CPython
 
 
 ### [pycom](https://github.com/omyyyy/pycom) by [omyyyy](https://github.com/omyyyy)  
-pycom: A Python compiler, down to native code, using C++  
+A Python compiler, down to native code, using C++  
 [https://github.com/omyyyy/pycom](https://github.com/omyyyy/pycom)  
 26 stars per week over 42 weeks  
 1,110 stars, 22 forks, 18 watches  
@@ -7373,7 +7403,7 @@ pycom: A Python compiler, down to native code, using C++
 
 
 ### [urwid](https://github.com/urwid/urwid)  
-urwid: Console user interface library for Python (official repo)  
+Console user interface library for Python (official repo)  
 [urwid.org](urwid.org)  
 [https://github.com/urwid/urwid](https://github.com/urwid/urwid)  
 3.76 stars per week over 688 weeks  
@@ -7382,7 +7412,7 @@ urwid: Console user interface library for Python (official repo)
 
 
 ### [medAlpaca](https://github.com/kbressem/medalpaca) by [kbressem](https://github.com/kbressem)  
-medAlpaca: LLM finetuned for medical question answering  
+LLM finetuned for medical question answering  
 [https://github.com/kbressem/medalpaca](https://github.com/kbressem/medalpaca)  
 23 stars per week over 5 weeks  
 136 stars, 10 forks, 6 watches  
@@ -7390,7 +7420,7 @@ medAlpaca: LLM finetuned for medical question answering
 
 
 ### [dask-geopandas](https://github.com/geopandas/dask-geopandas) by [geopandas](https://github.com/geopandas)  
-dask-geopandas: Parallel GeoPandas with Dask  
+Parallel GeoPandas with Dask  
 [https://dask-geopandas.readthedocs.io/](https://dask-geopandas.readthedocs.io/)  
 [https://github.com/geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)  
 2.24 stars per week over 168 weeks  
@@ -7399,7 +7429,7 @@ dask-geopandas: Parallel GeoPandas with Dask
 
 
 ### [fastparquet](https://github.com/dask/fastparquet) by [dask](https://github.com/dask)  
-fastparquet: python implementation of the parquet columnar file format.  
+python implementation of the parquet columnar file format.  
 [https://github.com/dask/fastparquet](https://github.com/dask/fastparquet)  
 1.68 stars per week over 391 weeks  
 657 stars, 167 forks, 19 watches  
@@ -7408,7 +7438,7 @@ fastparquet: python implementation of the parquet columnar file format.
 
 
 ### [industry-machine-learning](https://github.com/firmai/industry-machine-learning) by [firmai](https://github.com/firmai)  
-industry-machine-learning: A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)  
+A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)  
 [https://www.linkedin.com/company/firmai](https://www.linkedin.com/company/firmai)  
 [https://github.com/firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning)  
 32 stars per week over 209 weeks  
@@ -7418,7 +7448,7 @@ industry-machine-learning: A curated list of applied machine learning and data s
 
 
 ### [mujoco-py](https://github.com/openai/mujoco-py) by [openai](https://github.com/openai)  
-mujoco-py: MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
+MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.  
 [https://github.com/openai/mujoco-py](https://github.com/openai/mujoco-py)  
 6.78 stars per week over 367 weeks  
 2,489 stars, 767 forks, 173 watches  
@@ -7426,7 +7456,7 @@ mujoco-py: MuJoCo is a physics engine for detailed, efficient rigid body simulat
 
 
 ### [scholarly](https://github.com/scholarly-python-package/scholarly) by [scholarly-python-package](https://github.com/scholarly-python-package)  
-scholarly: Retrieve author and publication information from Google Scholar in a friendly, Pythonic way without having to worry about CAPTCHAs!  
+Retrieve author and publication information from Google Scholar in a friendly, Pythonic way without having to worry about CAPTCHAs!  
 [https://scholarly.readthedocs.io/](https://scholarly.readthedocs.io/)  
 [https://github.com/scholarly-python-package/scholarly](https://github.com/scholarly-python-package/scholarly)  
 2.13 stars per week over 439 weeks  
@@ -7445,7 +7475,7 @@ PySAL: Python Spatial Analysis Library Meta-Package
 
 
 ### [aiocache](https://github.com/aio-libs/aiocache) by [aio-libs](https://github.com/aio-libs)  
-aiocache: Asyncio cache manager for redis, memcached and memory  
+Asyncio cache manager for redis, memcached and memory  
 [http://aiocache.readthedocs.io](http://aiocache.readthedocs.io)  
 [https://github.com/aio-libs/aiocache](https://github.com/aio-libs/aiocache)  
 2.42 stars per week over 344 weeks  
@@ -7455,7 +7485,7 @@ aiocache: Asyncio cache manager for redis, memcached and memory
 
 
 ### [binance-public-data](https://github.com/binance/binance-public-data) by [binance](https://github.com/binance)  
-binance-public-data: Details on how to get Binance public data  
+Details on how to get Binance public data  
 [https://github.com/binance/binance-public-data](https://github.com/binance/binance-public-data)  
 7.71 stars per week over 140 weeks  
 1,086 stars, 381 forks, 28 watches  
@@ -7463,7 +7493,7 @@ binance-public-data: Details on how to get Binance public data
 
 
 ### [sqlacodegen](https://github.com/agronholm/sqlacodegen) by [agronholm](https://github.com/agronholm)  
-sqlacodegen: Automatic model code generator for SQLAlchemy  
+Automatic model code generator for SQLAlchemy  
 [https://github.com/agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen)  
 4.16 stars per week over 331 weeks  
 1,380 stars, 205 forks, 22 watches  
@@ -7471,7 +7501,7 @@ sqlacodegen: Automatic model code generator for SQLAlchemy
 
 
 ### [hvplot](https://github.com/holoviz/hvplot) by [holoviz](https://github.com/holoviz)  
-hvplot: A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  
+A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  
 [https://hvplot.holoviz.org](https://hvplot.holoviz.org)  
 [https://github.com/holoviz/hvplot](https://github.com/holoviz/hvplot)  
 2.8 stars per week over 267 weeks  
@@ -7481,7 +7511,7 @@ hvplot: A high-level plotting API for pandas, dask, xarray, and networkx built o
 
 
 ### [zenodo](https://github.com/zenodo/zenodo)  
-zenodo: Research. Shared.  
+Research. Shared.  
 [https://zenodo.org](https://zenodo.org)  
 [https://github.com/zenodo/zenodo](https://github.com/zenodo/zenodo)  
 1.46 stars per week over 533 weeks  
@@ -7491,7 +7521,7 @@ zenodo: Research. Shared.
 
 
 ### [dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) by [facultyai](https://github.com/facultyai)  
-dash-bootstrap-components: Bootstrap components for Plotly Dash  
+Bootstrap components for Plotly Dash  
 [https://dash-bootstrap-components.opensource.faculty.ai/](https://dash-bootstrap-components.opensource.faculty.ai/)  
 [https://github.com/facultyai/dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components)  
 4.05 stars per week over 241 weeks  
@@ -7501,7 +7531,7 @@ dash-bootstrap-components: Bootstrap components for Plotly Dash
 
 
 ### [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) by [koxudaxi](https://github.com/koxudaxi)  
-fastapi-code-generator: This code generator creates FastAPI app from an openapi file.  
+This code generator creates FastAPI app from an openapi file.  
 [https://github.com/koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator)  
 4.72 stars per week over 151 weeks  
 712 stars, 79 forks, 16 watches  
@@ -7510,7 +7540,7 @@ fastapi-code-generator: This code generator creates FastAPI app from an openapi 
 
 
 ### [pyyaml](https://github.com/yaml/pyyaml) by [yaml](https://github.com/yaml)  
-pyyaml: Canonical source repository for PyYAML  
+Canonical source repository for PyYAML  
 [https://github.com/yaml/pyyaml](https://github.com/yaml/pyyaml)  
 3.6 stars per week over 600 weeks  
 2,159 stars, 446 forks, 51 watches  
@@ -7519,7 +7549,7 @@ pyyaml: Canonical source repository for PyYAML
 
 
 ### [pytest-cov](https://github.com/pytest-dev/pytest-cov) by [pytest-dev](https://github.com/pytest-dev)  
-pytest-cov: Coverage plugin for pytest.  
+Coverage plugin for pytest.  
 [https://github.com/pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)  
 3.02 stars per week over 472 weeks  
 1,426 stars, 202 forks, 36 watches  
@@ -7548,7 +7578,7 @@ fastapi-cache is a tool to cache fastapi response and function result, with back
 
 
 ### [prettytable](https://github.com/jazzband/prettytable) by [jazzband](https://github.com/jazzband)  
-prettytable: Display tabular data in a visually appealing ASCII table format  
+Display tabular data in a visually appealing ASCII table format  
 [https://pypi.org/project/PrettyTable/](https://pypi.org/project/PrettyTable/)  
 [https://github.com/jazzband/prettytable](https://github.com/jazzband/prettytable)  
 2.65 stars per week over 381 weeks  
@@ -7558,7 +7588,7 @@ prettytable: Display tabular data in a visually appealing ASCII table format
 
 
 ### [cattrs](https://github.com/python-attrs/cattrs) by [python-attrs](https://github.com/python-attrs)  
-cattrs: Complex custom class converters for attrs.  
+Complex custom class converters for attrs.  
 [https://catt.rs](https://catt.rs)  
 [https://github.com/python-attrs/cattrs](https://github.com/python-attrs/cattrs)  
 1.8 stars per week over 349 weeks  
@@ -7568,7 +7598,7 @@ cattrs: Complex custom class converters for attrs.
 
 
 ### [astronomer](https://github.com/astronomer/astronomer)  
-astronomer: Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes  
+Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes  
 [https://www.astronomer.io](https://www.astronomer.io)  
 [https://github.com/astronomer/astronomer](https://github.com/astronomer/astronomer)  
 1.6 stars per week over 276 weeks  
@@ -7578,7 +7608,7 @@ astronomer: Helm Charts for the Astronomer Platform, Apache Airflow as a Service
 
 
 ### [autotrain-advanced](https://github.com/huggingface/autotrain-advanced) by [huggingface](https://github.com/huggingface)  
-autotrain-advanced: 🤗 AutoTrain Advanced  
+🤗 AutoTrain Advanced  
 [https://huggingface.co/autotrain](https://huggingface.co/autotrain)  
 [https://github.com/huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced)  
 5.87 stars per week over 124 weeks  
@@ -7588,7 +7618,7 @@ autotrain-advanced: 🤗 AutoTrain Advanced
 
 
 ### [awslogs](https://github.com/jorgebastida/awslogs) by [jorgebastida](https://github.com/jorgebastida)  
-awslogs: AWS CloudWatch logs for Humans™  
+AWS CloudWatch logs for Humans™  
 [https://github.com/jorgebastida/awslogs](https://github.com/jorgebastida/awslogs)  
 10 stars per week over 432 weeks  
 4,609 stars, 333 forks, 60 watches  
@@ -7596,7 +7626,7 @@ awslogs: AWS CloudWatch logs for Humans™
 
 
 ### [fastRAG](https://github.com/intellabs/fastrag) by [intellabs](https://github.com/intellabs)  
-fastRAG: Efficient Retrieval Augmentation and Generation Framework  
+Efficient Retrieval Augmentation and Generation Framework  
 [https://github.com/intellabs/fastrag](https://github.com/intellabs/fastrag)  
 12 stars per week over 14 weeks  
 183 stars, 16 forks, 3 watches  
@@ -7605,7 +7635,7 @@ fastRAG: Efficient Retrieval Augmentation and Generation Framework
 
 
 ### [pmdarima](https://github.com/alkaline-ml/pmdarima) by [alkaline-ml](https://github.com/alkaline-ml)  
-pmdarima: A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  
+A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  
 [https://www.alkaline-ml.com/pmdarima](https://www.alkaline-ml.com/pmdarima)  
 [https://github.com/alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima)  
 4.25 stars per week over 318 weeks  
@@ -7615,7 +7645,7 @@ pmdarima: A statistical library designed to fill the void in Python's time serie
 
 
 ### [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
-hdbscan: A high performance implementation of HDBSCAN clustering.  
+A high performance implementation of HDBSCAN clustering.  
 [http://hdbscan.readthedocs.io/en/latest/](http://hdbscan.readthedocs.io/en/latest/)  
 [https://github.com/scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan)  
 5.77 stars per week over 419 weeks  
@@ -7625,7 +7655,7 @@ hdbscan: A high performance implementation of HDBSCAN clustering.
 
 
 ### [bittensor](https://github.com/opentensor/bittensor) by [opentensor](https://github.com/opentensor)  
-bittensor: Internet-scale Neural Networks  
+Internet-scale Neural Networks  
 [https://www.bittensor.com/](https://www.bittensor.com/)  
 [https://github.com/opentensor/bittensor](https://github.com/opentensor/bittensor)  
 2.17 stars per week over 144 weeks  
@@ -7652,7 +7682,7 @@ HiPlot makes understanding high dimensional data easy
 
 
 ### [scikit-lego](https://github.com/koaning/scikit-lego) by [koaning](https://github.com/koaning)  
-scikit-lego: Extra blocks for scikit-learn pipelines.  
+Extra blocks for scikit-learn pipelines.  
 [https://scikit-lego.netlify.app](https://scikit-lego.netlify.app)  
 [https://github.com/koaning/scikit-lego](https://github.com/koaning/scikit-lego)  
 4.47 stars per week over 223 weeks  
@@ -7662,7 +7692,7 @@ scikit-lego: Extra blocks for scikit-learn pipelines.
 
 
 ### [itsdangerous](https://github.com/pallets/itsdangerous) by [pallets](https://github.com/pallets)  
-itsdangerous: Safely pass trusted data to untrusted environments and back.  
+Safely pass trusted data to untrusted environments and back.  
 [https://itsdangerous.palletsprojects.com](https://itsdangerous.palletsprojects.com)  
 [https://github.com/pallets/itsdangerous](https://github.com/pallets/itsdangerous)  
 4.29 stars per week over 619 weeks  
@@ -7672,7 +7702,7 @@ itsdangerous: Safely pass trusted data to untrusted environments and back.
 
 
 ### [mangum](https://github.com/jordaneremieff/mangum) by [jordaneremieff](https://github.com/jordaneremieff)  
-mangum: AWS Lambda support for ASGI applications  
+AWS Lambda support for ASGI applications  
 [https://mangum.io/](https://mangum.io/)  
 [https://github.com/jordaneremieff/mangum](https://github.com/jordaneremieff/mangum)  
 5.83 stars per week over 224 weeks  
@@ -7682,7 +7712,7 @@ mangum: AWS Lambda support for ASGI applications
 
 
 ### [transformers-interpret](https://github.com/cdpierse/transformers-interpret) by [cdpierse](https://github.com/cdpierse)  
-transformers-interpret: Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
+Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
 [https://github.com/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)  
 6.58 stars per week over 153 weeks  
 1,010 stars, 86 forks, 18 watches  
@@ -7691,7 +7721,7 @@ transformers-interpret: Model explainability that works seamlessly with 🤗 tra
 
 
 ### [cryptofeed](https://github.com/bmoscon/cryptofeed) by [bmoscon](https://github.com/bmoscon)  
-cryptofeed: Cryptocurrency Exchange Websocket Data Feed Handler  
+Cryptocurrency Exchange Websocket Data Feed Handler  
 [https://github.com/bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed)  
 6.24 stars per week over 281 weeks  
 1,754 stars, 554 forks, 76 watches  
@@ -7700,7 +7730,7 @@ cryptofeed: Cryptocurrency Exchange Websocket Data Feed Handler
 
 
 ### [rio-tiler](https://github.com/cogeotiff/rio-tiler) by [cogeotiff](https://github.com/cogeotiff)  
-rio-tiler: User friendly Rasterio plugin to read raster datasets.  
+User friendly Rasterio plugin to read raster datasets.  
 [https://cogeotiff.github.io/rio-tiler/](https://cogeotiff.github.io/rio-tiler/)  
 [https://github.com/cogeotiff/rio-tiler](https://github.com/cogeotiff/rio-tiler)  
 1.38 stars per week over 291 weeks  
@@ -7710,7 +7740,7 @@ rio-tiler: User friendly Rasterio plugin to read raster datasets.
 
 
 ### [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) by [pytest-dev](https://github.com/pytest-dev)  
-pytest-testinfra: Testinfra test your infrastructures  
+Testinfra test your infrastructures  
 [https://testinfra.readthedocs.io](https://testinfra.readthedocs.io)  
 [https://github.com/pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra)  
 5.17 stars per week over 425 weeks  
@@ -7720,7 +7750,7 @@ pytest-testinfra: Testinfra test your infrastructures
 
 
 ### [deepscatter](https://github.com/nomic-ai/deepscatter) by [nomic-ai](https://github.com/nomic-ai)  
-deepscatter: Zoomable, animated scatterplots in the browser that scales over a billion points  
+Zoomable, animated scatterplots in the browser that scales over a billion points  
 [https://github.com/nomic-ai/deepscatter](https://github.com/nomic-ai/deepscatter)  
 3.38 stars per week over 235 weeks  
 796 stars, 26 forks, 13 watches  
@@ -7729,7 +7759,7 @@ deepscatter: Zoomable, animated scatterplots in the browser that scales over a b
 
 
 ### [FARM](https://github.com/deepset-ai/farm) by [deepset-ai](https://github.com/deepset-ai)  
-FARM: :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.  
+:house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.  
 [https://farm.deepset.ai](https://farm.deepset.ai)  
 [https://github.com/deepset-ai/farm](https://github.com/deepset-ai/farm)  
 8.36 stars per week over 198 weeks  
@@ -7739,7 +7769,7 @@ FARM: :house_with_garden: Fast & easy transfer learning for NLP. Harvesting lang
 
 
 ### [dask-ml](https://github.com/dask/dask-ml) by [dask](https://github.com/dask)  
-dask-ml: Scalable Machine Learning with Dask  
+Scalable Machine Learning with Dask  
 [http://ml.dask.org](http://ml.dask.org)  
 [https://github.com/dask/dask-ml](https://github.com/dask/dask-ml)  
 2.76 stars per week over 307 weeks  
@@ -7749,7 +7779,7 @@ dask-ml: Scalable Machine Learning with Dask
 
 
 ### [DeepForest](https://github.com/weecology/deepforest) by [weecology](https://github.com/weecology)  
-DeepForest: Python Package for Tree Crown Detection in Airborne RGB imagery  
+Python Package for Tree Crown Detection in Airborne RGB imagery  
 [https://deepforest.readthedocs.io/](https://deepforest.readthedocs.io/)  
 [https://github.com/weecology/deepforest](https://github.com/weecology/deepforest)  
 1.33 stars per week over 269 weeks  
@@ -7758,7 +7788,7 @@ DeepForest: Python Package for Tree Crown Detection in Airborne RGB imagery
 
 
 ### [CoastSat](https://github.com/kvos/coastsat) by [kvos](https://github.com/kvos)  
-CoastSat: Global shoreline mapping tool from satellite imagery  
+Global shoreline mapping tool from satellite imagery  
 [http://coastsat.wrl.unsw.edu.au/](http://coastsat.wrl.unsw.edu.au/)  
 [https://github.com/kvos/coastsat](https://github.com/kvos/coastsat)  
 2.19 stars per week over 240 weeks  
@@ -7768,7 +7798,7 @@ CoastSat: Global shoreline mapping tool from satellite imagery
 
 
 ### [pytest-sugar](https://github.com/teemu/pytest-sugar) by [teemu](https://github.com/teemu)  
-pytest-sugar: a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)  
+a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)  
 [https://github.com/teemu/pytest-sugar](https://github.com/teemu/pytest-sugar)  
 2.07 stars per week over 514 weeks  
 1,063 stars, 70 forks, 17 watches  
@@ -7777,7 +7807,7 @@ pytest-sugar: a plugin for py.test that changes the default look and feel of py.
 
 
 ### [pynndescent](https://github.com/lmcinnes/pynndescent) by [lmcinnes](https://github.com/lmcinnes)  
-pynndescent: A Python nearest neighbor descent for approximate nearest neighbors  
+A Python nearest neighbor descent for approximate nearest neighbors  
 [https://github.com/lmcinnes/pynndescent](https://github.com/lmcinnes/pynndescent)  
 2.74 stars per week over 273 weeks  
 750 stars, 94 forks, 12 watches  
@@ -7786,7 +7816,7 @@ pynndescent: A Python nearest neighbor descent for approximate nearest neighbors
 
 
 ### [data-validation](https://github.com/tensorflow/data-validation) by [tensorflow](https://github.com/tensorflow)  
-data-validation: Library for exploring and validating machine learning data  
+Library for exploring and validating machine learning data  
 [https://github.com/tensorflow/data-validation](https://github.com/tensorflow/data-validation)  
 2.82 stars per week over 252 weeks  
 713 stars, 151 forks, 47 watches  
@@ -7794,7 +7824,7 @@ data-validation: Library for exploring and validating machine learning data
 
 
 ### [GlobalMLBuildingFootprints](https://github.com/microsoft/globalmlbuildingfootprints) by [microsoft](https://github.com/microsoft)  
-GlobalMLBuildingFootprints: Worldwide building footprints derived from satellite imagery   
+Worldwide building footprints derived from satellite imagery   
 [https://github.com/microsoft/globalmlbuildingfootprints](https://github.com/microsoft/globalmlbuildingfootprints)  
 15 stars per week over 54 weeks  
 825 stars, 108 forks, 34 watches  
@@ -7802,7 +7832,7 @@ GlobalMLBuildingFootprints: Worldwide building footprints derived from satellite
 
 
 ### [pointers.py](https://github.com/zerointensity/pointers.py) by [zerointensity](https://github.com/zerointensity)  
-pointers.py: Bringing the hell of pointers to Python.  
+Bringing the hell of pointers to Python.  
 [https://pointers.zintensity.dev/](https://pointers.zintensity.dev/)  
 [https://github.com/zerointensity/pointers.py](https://github.com/zerointensity/pointers.py)  
 13 stars per week over 60 weeks  
@@ -7812,7 +7842,7 @@ pointers.py: Bringing the hell of pointers to Python.
 
 
 ### [natsort](https://github.com/sethmmorton/natsort) by [sethmmorton](https://github.com/sethmmorton)  
-natsort: Simple yet flexible natural sorting in Python.  
+Simple yet flexible natural sorting in Python.  
 [https://pypi.org/project/natsort/](https://pypi.org/project/natsort/)  
 [https://github.com/sethmmorton/natsort](https://github.com/sethmmorton/natsort)  
 1.3 stars per week over 574 weeks  
@@ -7822,7 +7852,7 @@ natsort: Simple yet flexible natural sorting in Python.
 
 
 ### [python-soundfile](https://github.com/bastibe/python-soundfile) by [bastibe](https://github.com/bastibe)  
-python-soundfile: SoundFile is an audio library based on libsndfile, CFFI, and NumPy  
+SoundFile is an audio library based on libsndfile, CFFI, and NumPy  
 [https://github.com/bastibe/python-soundfile](https://github.com/bastibe/python-soundfile)  
 1.08 stars per week over 505 weeks  
 545 stars, 91 forks, 16 watches  
@@ -7840,7 +7870,7 @@ aiomysql is a library for accessing a MySQL database from the asyncio
 
 
 ### [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) by [jupyter-widgets](https://github.com/jupyter-widgets)  
-ipyleaflet: A Jupyter - Leaflet.js bridge  
+A Jupyter - Leaflet.js bridge  
 [https://ipyleaflet.readthedocs.io](https://ipyleaflet.readthedocs.io)  
 [https://github.com/jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)  
 2.89 stars per week over 469 weeks  
@@ -7859,7 +7889,7 @@ Top2Vec learns jointly embedded topic, document and word vectors.
 
 
 ### [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) by [neo4j](https://github.com/neo4j)  
-neo4j-python-driver: Neo4j Bolt driver for Python  
+Neo4j Bolt driver for Python  
 [https://neo4j.com/docs/api/python-driver/current/](https://neo4j.com/docs/api/python-driver/current/)  
 [https://github.com/neo4j/neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver)  
 1.89 stars per week over 417 weeks  
@@ -7869,7 +7899,7 @@ neo4j-python-driver: Neo4j Bolt driver for Python
 
 
 ### [micrograd](https://github.com/karpathy/micrograd) by [karpathy](https://github.com/karpathy)  
-micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  
+A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  
 [https://github.com/karpathy/micrograd](https://github.com/karpathy/micrograd)  
 30 stars per week over 159 weeks  
 4,801 stars, 575 forks, 104 watches  
@@ -7877,7 +7907,7 @@ micrograd: A tiny scalar-valued autograd engine and a neural net library on top 
 
 
 ### [squirrel-core](https://github.com/merantix-momentum/squirrel-core) by [merantix-momentum](https://github.com/merantix-momentum)  
-squirrel-core: A Python library that enables ML teams to share, load, and transform data in a collaborative, flexible, and efficient way :chestnut:  
+A Python library that enables ML teams to share, load, and transform data in a collaborative, flexible, and efficient way :chestnut:  
 [https://squirrel-core.readthedocs.io/](https://squirrel-core.readthedocs.io/)  
 [https://github.com/merantix-momentum/squirrel-core](https://github.com/merantix-momentum/squirrel-core)  
 4.0 stars per week over 64 weeks  
@@ -7887,7 +7917,7 @@ squirrel-core: A Python library that enables ML teams to share, load, and transf
 
 
 ### [eventlet](https://github.com/eventlet/eventlet)  
-eventlet: Concurrent networking library for Python  
+Concurrent networking library for Python  
 [https://eventlet.net](https://eventlet.net)  
 [https://github.com/eventlet/eventlet](https://github.com/eventlet/eventlet)  
 2.16 stars per week over 542 weeks  
@@ -7897,7 +7927,7 @@ eventlet: Concurrent networking library for Python
 
 
 ### [basemap](https://github.com/matplotlib/basemap) by [matplotlib](https://github.com/matplotlib)  
-basemap: Plot on map projections (with coastlines and political boundaries) using matplotlib  
+Plot on map projections (with coastlines and political boundaries) using matplotlib  
 [https://github.com/matplotlib/basemap](https://github.com/matplotlib/basemap)  
 1.13 stars per week over 637 weeks  
 720 stars, 396 forks, 60 watches  
@@ -7906,7 +7936,7 @@ basemap: Plot on map projections (with coastlines and political boundaries) usin
 
 
 ### [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) by [gerrymanoim](https://github.com/gerrymanoim)  
-exchange_calendars: Calendars for various securities exchanges.  
+Calendars for various securities exchanges.  
 [https://github.com/gerrymanoim/exchange_calendars](https://github.com/gerrymanoim/exchange_calendars)  
 1.97 stars per week over 131 weeks  
 259 stars, 88 forks, 14 watches  
@@ -7914,7 +7944,7 @@ exchange_calendars: Calendars for various securities exchanges.
 
 
 ### [glide-text2im](https://github.com/openai/glide-text2im) by [openai](https://github.com/openai)  
-glide-text2im: GLIDE: a diffusion-based text-conditional image synthesis model  
+GLIDE: a diffusion-based text-conditional image synthesis model  
 [https://github.com/openai/glide-text2im](https://github.com/openai/glide-text2im)  
 43 stars per week over 73 weeks  
 3,161 stars, 448 forks, 133 watches  
@@ -7922,7 +7952,7 @@ glide-text2im: GLIDE: a diffusion-based text-conditional image synthesis model
 
 
 ### [fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) by [awtkns](https://github.com/awtkns)  
-fastapi-crudrouter: A dynamic FastAPI router that automatically creates CRUD routes for your models  
+A dynamic FastAPI router that automatically creates CRUD routes for your models  
 [https://fastapi-crudrouter.awtkns.com](https://fastapi-crudrouter.awtkns.com)  
 [https://github.com/awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter)  
 8.67 stars per week over 124 weeks  
@@ -7932,7 +7962,7 @@ fastapi-crudrouter: A dynamic FastAPI router that automatically creates CRUD rou
 
 
 ### [DrQA](https://github.com/facebookresearch/drqa) by [facebookresearch](https://github.com/facebookresearch)  
-DrQA: Reading Wikipedia to Answer Open-Domain Questions  
+Reading Wikipedia to Answer Open-Domain Questions  
 [https://github.com/facebookresearch/drqa](https://github.com/facebookresearch/drqa)  
 14 stars per week over 304 weeks  
 4,372 stars, 913 forks, 164 watches  
@@ -7940,7 +7970,7 @@ DrQA: Reading Wikipedia to Answer Open-Domain Questions
 
 
 ### [tket](https://github.com/cqcl/tket) by [cqcl](https://github.com/cqcl)  
-tket: Source code for the TKET quantum compiler, Python bindings and utilities  
+Source code for the TKET quantum compiler, Python bindings and utilities  
 [https://github.com/cqcl/tket](https://github.com/cqcl/tket)  
 2.07 stars per week over 85 weeks  
 178 stars, 35 forks, 16 watches  
@@ -7949,7 +7979,7 @@ tket: Source code for the TKET quantum compiler, Python bindings and utilities
 
 
 ### [spacy-streamlit](https://github.com/explosion/spacy-streamlit) by [explosion](https://github.com/explosion)  
-spacy-streamlit: 👑 spaCy building blocks and visualizers for Streamlit apps  
+👑 spaCy building blocks and visualizers for Streamlit apps  
 [https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py](https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py)  
 [https://github.com/explosion/spacy-streamlit](https://github.com/explosion/spacy-streamlit)  
 4.32 stars per week over 149 weeks  
@@ -7959,7 +7989,7 @@ spacy-streamlit: 👑 spaCy building blocks and visualizers for Streamlit apps
 
 
 ### [cityscapesScripts](https://github.com/mcordts/cityscapesscripts) by [mcordts](https://github.com/mcordts)  
-cityscapesScripts: README and scripts for the Cityscapes Dataset  
+README and scripts for the Cityscapes Dataset  
 [https://github.com/mcordts/cityscapesscripts](https://github.com/mcordts/cityscapesscripts)  
 5.1 stars per week over 376 weeks  
 1,919 stars, 596 forks, 45 watches  
@@ -7967,7 +7997,7 @@ cityscapesScripts: README and scripts for the Cityscapes Dataset
 
 
 ### [pyfolio](https://github.com/quantopian/pyfolio) by [quantopian](https://github.com/quantopian)  
-pyfolio: Portfolio and risk analytics in Python  
+Portfolio and risk analytics in Python  
 [https://quantopian.github.io/pyfolio](https://quantopian.github.io/pyfolio)  
 [https://github.com/quantopian/pyfolio](https://github.com/quantopian/pyfolio)  
 11 stars per week over 413 weeks  
@@ -7976,7 +8006,7 @@ pyfolio: Portfolio and risk analytics in Python
 
 
 ### [Pipe](https://github.com/julienpalard/pipe) by [julienpalard](https://github.com/julienpalard)  
-Pipe: A Python library to use infix notation in Python  
+A Python library to use infix notation in Python  
 [https://github.com/julienpalard/pipe](https://github.com/julienpalard/pipe)  
 2.4 stars per week over 682 weeks  
 1,639 stars, 104 forks, 26 watches  
@@ -7993,7 +8023,7 @@ Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tik
 
 
 ### [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) by [newsapps](https://github.com/newsapps)  
-beeswithmachineguns: A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).  
+A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).  
 [http://apps.chicagotribune.com/](http://apps.chicagotribune.com/)  
 [https://github.com/newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)  
 9.42 stars per week over 670 weeks  
@@ -8002,7 +8032,7 @@ beeswithmachineguns: A utility for arming (creating) many bees (micro EC2 instan
 
 
 ### [pyglove](https://github.com/google/pyglove) by [google](https://github.com/google)  
-pyglove: Manipulating Python Programs  
+Manipulating Python Programs  
 [https://github.com/google/pyglove](https://github.com/google/pyglove)  
 5.08 stars per week over 51 weeks  
 261 stars, 13 forks, 6 watches  
@@ -8011,7 +8041,7 @@ pyglove: Manipulating Python Programs
 
 
 ### [dgl-ke](https://github.com/awslabs/dgl-ke) by [awslabs](https://github.com/awslabs)  
-dgl-ke: High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.  
+High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.  
 [https://dglke.dgl.ai/doc/](https://dglke.dgl.ai/doc/)  
 [https://github.com/awslabs/dgl-ke](https://github.com/awslabs/dgl-ke)  
 6.75 stars per week over 165 weeks  
@@ -8021,7 +8051,7 @@ dgl-ke: High performance, easy-to-use, and scalable package for learning large-s
 
 
 ### [jsonpickle](https://github.com/jsonpickle/jsonpickle)  
-jsonpickle: Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.  
+Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.  
 [https://jsonpickle.github.io](https://jsonpickle.github.io)  
 [https://github.com/jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle)  
 1.61 stars per week over 699 weeks  
@@ -8041,7 +8071,7 @@ advertools - online marketing productivity and analysis tools
 
 
 ### [python-dialogflow](https://github.com/dialogflow/dialogflow-python-client-v2) by [dialogflow](https://github.com/dialogflow)  
-python-dialogflow: Python client for Dialogflow: Design and integrate a conversational user interface into your applications and devices.  
+Python client for Dialogflow: Design and integrate a conversational user interface into your applications and devices.  
 [https://dialogflow.com/](https://dialogflow.com/)  
 [https://github.com/dialogflow/dialogflow-python-client-v2](https://github.com/dialogflow/dialogflow-python-client-v2)  
 1.36 stars per week over 288 weeks  
@@ -8051,7 +8081,7 @@ python-dialogflow: Python client for Dialogflow: Design and integrate a conversa
 
 
 ### [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) by [ionelmc](https://github.com/ionelmc)  
-cookiecutter-pylibrary: Enhanced cookiecutter template for Python libraries.  
+Enhanced cookiecutter template for Python libraries.  
 [https://github.com/ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary)  
 2.43 stars per week over 466 weeks  
 1,133 stars, 199 forks, 23 watches  
@@ -8060,7 +8090,7 @@ cookiecutter-pylibrary: Enhanced cookiecutter template for Python libraries.
 
 
 ### [loky](https://github.com/joblib/loky) by [joblib](https://github.com/joblib)  
-loky: Robust and reusable Executor for joblib  
+Robust and reusable Executor for joblib  
 [http://loky.readthedocs.io/en/stable/](http://loky.readthedocs.io/en/stable/)  
 [https://github.com/joblib/loky](https://github.com/joblib/loky)  
 1.18 stars per week over 384 weeks  
@@ -8070,7 +8100,7 @@ loky: Robust and reusable Executor for joblib
 
 
 ### [opyrator](https://github.com/ml-tooling/opyrator) by [ml-tooling](https://github.com/ml-tooling)  
-opyrator: 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.  
+🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.  
 [https://opyrator-playground.mltooling.org](https://opyrator-playground.mltooling.org)  
 [https://github.com/ml-tooling/opyrator](https://github.com/ml-tooling/opyrator)  
 26 stars per week over 108 weeks  
@@ -8080,7 +8110,7 @@ opyrator: 🪄 Turns your machine learning code into microservices with web API,
 
 
 ### [nbviewer](https://github.com/jupyter/nbviewer) by [jupyter](https://github.com/jupyter)  
-nbviewer: nbconvert as a web service: Render Jupyter Notebooks as static web pages  
+nbconvert as a web service: Render Jupyter Notebooks as static web pages  
 [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org)  
 [https://github.com/jupyter/nbviewer](https://github.com/jupyter/nbviewer)  
 3.72 stars per week over 561 weeks  
@@ -8090,7 +8120,7 @@ nbviewer: nbconvert as a web service: Render Jupyter Notebooks as static web pag
 
 
 ### [biomedical](https://github.com/bigscience-workshop/biomedical) by [bigscience-workshop](https://github.com/bigscience-workshop)  
-biomedical: Tools for curating biomedical training data for large-scale language modeling   
+Tools for curating biomedical training data for large-scale language modeling   
 [https://github.com/bigscience-workshop/biomedical](https://github.com/bigscience-workshop/biomedical)  
 3.71 stars per week over 85 weeks  
 317 stars, 99 forks, 26 watches  
@@ -8098,7 +8128,7 @@ biomedical: Tools for curating biomedical training data for large-scale language
 
 
 ### [pyttsx3](https://github.com/nateshmbhat/pyttsx3) by [nateshmbhat](https://github.com/nateshmbhat)  
-pyttsx3: Offline Text To Speech synthesis for python  
+Offline Text To Speech synthesis for python  
 [https://github.com/nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)  
 4.95 stars per week over 306 weeks  
 1,515 stars, 269 forks, 36 watches  
@@ -8107,7 +8137,7 @@ pyttsx3: Offline Text To Speech synthesis for python
 
 
 ### [neuralcoref](https://github.com/huggingface/neuralcoref) by [huggingface](https://github.com/huggingface)  
-neuralcoref: ✨Fast Coreference Resolution in spaCy with Neural Networks  
+✨Fast Coreference Resolution in spaCy with Neural Networks  
 [https://huggingface.co/coref/](https://huggingface.co/coref/)  
 [https://github.com/huggingface/neuralcoref](https://github.com/huggingface/neuralcoref)  
 8.79 stars per week over 304 weeks  
@@ -8117,7 +8147,7 @@ neuralcoref: ✨Fast Coreference Resolution in spaCy with Neural Networks
 
 
 ### [bcrypt](https://github.com/pyca/bcrypt) by [pyca](https://github.com/pyca)  
-bcrypt: Modern(-ish) password hashing for your software and your servers  
+Modern(-ish) password hashing for your software and your servers  
 [https://github.com/pyca/bcrypt](https://github.com/pyca/bcrypt)  
 1.93 stars per week over 521 weeks  
 1,005 stars, 142 forks, 29 watches  
@@ -8125,7 +8155,7 @@ bcrypt: Modern(-ish) password hashing for your software and your servers
 
 
 ### [textdistance](https://github.com/life4/textdistance) by [life4](https://github.com/life4)  
-textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.  
+Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.  
 [https://github.com/life4/textdistance](https://github.com/life4/textdistance)  
 9.88 stars per week over 313 weeks  
 3,095 stars, 244 forks, 61 watches  
@@ -8144,7 +8174,7 @@ GeoTorchAI: A Spatiotemporal Deep Learning Framework (https://dl.acm.org/doi/abs
 
 
 ### [simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
-simple-salesforce: A very simple Salesforce.com REST API client for Python  
+A very simple Salesforce.com REST API client for Python  
 [https://github.com/simple-salesforce/simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
 2.66 stars per week over 537 weeks  
 1,431 stars, 624 forks, 91 watches  
@@ -8153,7 +8183,7 @@ simple-salesforce: A very simple Salesforce.com REST API client for Python
 
 
 ### [finmarketpy](https://github.com/cuemacro/finmarketpy) by [cuemacro](https://github.com/cuemacro)  
-finmarketpy: Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)  
+Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)  
 [http://www.cuemacro.com](http://www.cuemacro.com)  
 [https://github.com/cuemacro/finmarketpy](https://github.com/cuemacro/finmarketpy)  
 7.23 stars per week over 428 weeks  
@@ -8163,7 +8193,7 @@ finmarketpy: Python library for backtesting trading strategies & analyzing finan
 
 
 ### [gin-config](https://github.com/google/gin-config) by [google](https://github.com/google)  
-gin-config: Gin provides a lightweight configuration framework for Python  
+Gin provides a lightweight configuration framework for Python  
 [https://github.com/google/gin-config](https://github.com/google/gin-config)  
 7.07 stars per week over 253 weeks  
 1,794 stars, 116 forks, 23 watches  
@@ -8172,7 +8202,7 @@ gin-config: Gin provides a lightweight configuration framework for Python
 
 
 ### [pypy](https://github.com/mozillazg/pypy) by [mozillazg](https://github.com/mozillazg)  
-pypy: The unofficial GitHub mirror of PyPy  
+The unofficial GitHub mirror of PyPy  
 [https://foss.heptapod.net/pypy/pypy](https://foss.heptapod.net/pypy/pypy)  
 [https://github.com/mozillazg/pypy](https://github.com/mozillazg/pypy)  
 0.96 stars per week over 404 weeks  
@@ -8182,7 +8212,7 @@ pypy: The unofficial GitHub mirror of PyPy
 
 
 ### [python-driver](https://github.com/scylladb/python-driver) by [scylladb](https://github.com/scylladb)  
-python-driver: ScyllaDB Python Driver, originally DataStax Python Driver for Apache Cassandra  
+ScyllaDB Python Driver, originally DataStax Python Driver for Apache Cassandra  
 [https://python-driver.docs.scylladb.com](https://python-driver.docs.scylladb.com)  
 [https://github.com/scylladb/python-driver](https://github.com/scylladb/python-driver)  
 0.19 stars per week over 232 weeks  
@@ -8192,7 +8222,7 @@ python-driver: ScyllaDB Python Driver, originally DataStax Python Driver for Apa
 
 
 ### [mpmath](https://github.com/fredrik-johansson/mpmath) by [fredrik-johansson](https://github.com/fredrik-johansson)  
-mpmath: Python library for arbitrary-precision floating-point arithmetic  
+Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
 1.29 stars per week over 595 weeks  
@@ -8202,7 +8232,7 @@ mpmath: Python library for arbitrary-precision floating-point arithmetic
 
 
 ### [cerberus](https://github.com/pyeve/cerberus) by [pyeve](https://github.com/pyeve)  
-cerberus: Lightweight, extensible data validation library for Python  
+Lightweight, extensible data validation library for Python  
 [http://python-cerberus.org](http://python-cerberus.org)  
 [https://github.com/pyeve/cerberus](https://github.com/pyeve/cerberus)  
 5.39 stars per week over 551 weeks  
@@ -8222,7 +8252,7 @@ robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 
 
 ### [mapwidget](https://github.com/giswqs/mapwidget) by [giswqs](https://github.com/giswqs)  
-mapwidget: Custom Jupyter widgets for creating interactive 2D/3D maps using popular JavaScript libraries with bidirectional communication, such as Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers  
+Custom Jupyter widgets for creating interactive 2D/3D maps using popular JavaScript libraries with bidirectional communication, such as Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers  
 [http://mapwidget.gishub.org](http://mapwidget.gishub.org)  
 [https://github.com/giswqs/mapwidget](https://github.com/giswqs/mapwidget)  
 11 stars per week over 15 weeks  
@@ -8248,7 +8278,7 @@ DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified 
 
 
 ### [lineapy](https://github.com/linealabs/lineapy) by [linealabs](https://github.com/linealabs)  
-lineapy: Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.  
+Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.  
 [https://lineapy.org](https://lineapy.org)  
 [https://github.com/linealabs/lineapy](https://github.com/linealabs/lineapy)  
 6.38 stars per week over 92 weeks  
@@ -8257,7 +8287,7 @@ lineapy: Move fast from data science prototype to pipeline. Capture, analyze, an
 
 
 ### [ecco](https://github.com/jalammar/ecco) by [jalammar](https://github.com/jalammar)  
-ecco: Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
+Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
 [https://ecco.readthedocs.io](https://ecco.readthedocs.io)  
 [https://github.com/jalammar/ecco](https://github.com/jalammar/ecco)  
 12 stars per week over 130 weeks  
@@ -8277,7 +8307,7 @@ Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  y
 
 
 ### [qgrid](https://github.com/quantopian/qgrid) by [quantopian](https://github.com/quantopian)  
-qgrid: An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks  
+An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks  
 [https://github.com/quantopian/qgrid](https://github.com/quantopian/qgrid)  
 6.6 stars per week over 448 weeks  
 2,962 stars, 423 forks, 87 watches  
@@ -8285,7 +8315,7 @@ qgrid: An interactive grid for sorting, filtering, and editing DataFrames in Jup
 
 
 ### [dataclasses-json](https://github.com/lidatong/dataclasses-json) by [lidatong](https://github.com/lidatong)  
-dataclasses-json: Easily serialize Data Classes to and from JSON  
+Easily serialize Data Classes to and from JSON  
 [https://github.com/lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json)  
 4.24 stars per week over 263 weeks  
 1,117 stars, 123 forks, 11 watches  
@@ -8294,7 +8324,7 @@ dataclasses-json: Easily serialize Data Classes to and from JSON
 
 
 ### [FastAPI-Backend-Template](https://github.com/aeternalis-ingenium/fastapi-backend-template) by [aeternalis-ingenium](https://github.com/aeternalis-ingenium)  
-FastAPI-Backend-Template: A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.  
+A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.  
 [https://github.com/aeternalis-ingenium/fastapi-backend-template](https://github.com/aeternalis-ingenium/fastapi-backend-template)  
 15 stars per week over 21 weeks  
 332 stars, 54 forks, 10 watches  
@@ -8303,16 +8333,16 @@ FastAPI-Backend-Template: A backend project template with FastAPI, PostgreSQL wi
 
 
 ### [pypinfo](https://github.com/ofek/pypinfo) by [ofek](https://github.com/ofek)  
-pypinfo: Easily view PyPI download statistics via Google's BigQuery.  
+Easily view PyPI download statistics via Google's BigQuery.  
 [https://github.com/ofek/pypinfo](https://github.com/ofek/pypinfo)  
 1.17 stars per week over 312 weeks  
 364 stars, 34 forks, 13 watches  
 [util](categories/util.md) category, created 2017-05-13, last commit 2023-03-12, main language Python  
-<sub><sup>bigquery, pypi, statistics</sup></sub>
+<sub><sup>bigquery, statistics</sup></sub>
 
 
 ### [VQGAN-CLIP](https://github.com/nerdyrodent/vqgan-clip) by [nerdyrodent](https://github.com/nerdyrodent)  
-VQGAN-CLIP: Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.  
+Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.  
 [https://github.com/nerdyrodent/vqgan-clip](https://github.com/nerdyrodent/vqgan-clip)  
 25 stars per week over 96 weeks  
 2,419 stars, 413 forks, 54 watches  
@@ -8321,7 +8351,7 @@ VQGAN-CLIP: Just playing with getting VQGAN+CLIP running locally, rather than ha
 
 
 ### [fairo](https://github.com/facebookresearch/droidlet) by [facebookresearch](https://github.com/facebookresearch)  
-fairo: A modular embodied agent architecture and platform for building embodied agents  
+A modular embodied agent architecture and platform for building embodied agents  
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
 6.1 stars per week over 130 weeks  
 798 stars, 81 forks, 39 watches  
@@ -8329,7 +8359,7 @@ fairo: A modular embodied agent architecture and platform for building embodied 
 
 
 ### [h3-py](https://github.com/uber/h3-py) by [uber](https://github.com/uber)  
-h3-py: Python bindings for H3, a hierarchical hexagonal geospatial indexing system  
+Python bindings for H3, a hierarchical hexagonal geospatial indexing system  
 [https://uber.github.io/h3-py](https://uber.github.io/h3-py)  
 [https://github.com/uber/h3-py](https://github.com/uber/h3-py)  
 2.51 stars per week over 255 weeks  
@@ -8368,7 +8398,7 @@ OWSLib is a Python package for client programming with Open Geospatial Consortiu
 
 
 ### [wtforms](https://github.com/wtforms/wtforms)  
-wtforms: A flexible forms validation and rendering library for Python.  
+A flexible forms validation and rendering library for Python.  
 [https://wtforms.readthedocs.io](https://wtforms.readthedocs.io)  
 [https://github.com/wtforms/wtforms](https://github.com/wtforms/wtforms)  
 2.78 stars per week over 503 weeks  
@@ -8378,7 +8408,7 @@ wtforms: A flexible forms validation and rendering library for Python.
 
 
 ### [pandas-datareader](https://github.com/pydata/pandas-datareader) by [pydata](https://github.com/pydata)  
-pandas-datareader: Extract data from a wide range of Internet sources into a pandas DataFrame.  
+Extract data from a wide range of Internet sources into a pandas DataFrame.  
 [https://pydata.github.io/pandas-datareader/stable/index.html](https://pydata.github.io/pandas-datareader/stable/index.html)  
 [https://github.com/pydata/pandas-datareader](https://github.com/pydata/pandas-datareader)  
 6.08 stars per week over 433 weeks  
@@ -8388,7 +8418,7 @@ pandas-datareader: Extract data from a wide range of Internet sources into a pan
 
 
 ### [spacy-models](https://github.com/explosion/spacy-models) by [explosion](https://github.com/explosion)  
-spacy-models: 💫  Models for the spaCy Natural Language Processing (NLP) library  
+💫  Models for the spaCy Natural Language Processing (NLP) library  
 [https://spacy.io](https://spacy.io)  
 [https://github.com/explosion/spacy-models](https://github.com/explosion/spacy-models)  
 4.09 stars per week over 320 weeks  
@@ -8398,7 +8428,7 @@ spacy-models: 💫  Models for the spaCy Natural Language Processing (NLP) libra
 
 
 ### [sentinelsat](https://github.com/sentinelsat/sentinelsat)  
-sentinelsat: Search and download Copernicus Sentinel satellite images  
+Search and download Copernicus Sentinel satellite images  
 [https://sentinelsat.readthedocs.io](https://sentinelsat.readthedocs.io)  
 [https://github.com/sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat)  
 2.11 stars per week over 415 weeks  
@@ -8408,7 +8438,7 @@ sentinelsat: Search and download Copernicus Sentinel satellite images
 
 
 ### [warp-drive](https://github.com/salesforce/warp-drive) by [salesforce](https://github.com/salesforce)  
-warp-drive: Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU (JMLR 2022)  
+Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU (JMLR 2022)  
 [https://github.com/salesforce/warp-drive](https://github.com/salesforce/warp-drive)  
 4.15 stars per week over 88 weeks  
 368 stars, 69 forks, 12 watches  
@@ -8417,7 +8447,7 @@ warp-drive: Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Fr
 
 
 ### [keras-rl](https://github.com/keras-rl/keras-rl)  
-keras-rl: Deep Reinforcement Learning for Keras.  
+Deep Reinforcement Learning for Keras.  
 [http://keras-rl.readthedocs.io/](http://keras-rl.readthedocs.io/)  
 [https://github.com/keras-rl/keras-rl](https://github.com/keras-rl/keras-rl)  
 15 stars per week over 357 weeks  
@@ -8427,7 +8457,7 @@ keras-rl: Deep Reinforcement Learning for Keras.
 
 
 ### [medical-chatgpt](https://github.com/lucidrains/medical-chatgpt) by [lucidrains](https://github.com/lucidrains)  
-medical-chatgpt: Implementation of ChatGPT, but tailored towards primary care medicine, with the reward being able to collect patient histories in a thorough and efficient manner and come up with a reasonable differential diagnosis  
+Implementation of ChatGPT, but tailored towards primary care medicine, with the reward being able to collect patient histories in a thorough and efficient manner and come up with a reasonable differential diagnosis  
 [https://github.com/lucidrains/medical-chatgpt](https://github.com/lucidrains/medical-chatgpt)  
 13 stars per week over 21 weeks  
 281 stars, 27 forks, 31 watches  
@@ -8436,7 +8466,7 @@ medical-chatgpt: Implementation of ChatGPT, but tailored towards primary care me
 
 
 ### [ChatGPT-Robot-Manipulation-Prompts](https://github.com/microsoft/chatgpt-robot-manipulation-prompts) by [microsoft](https://github.com/microsoft)  
-microsoft/chatgpt-robot-manipulation-prompts  
+microsoft/ChatGPT-Robot-Manipulation-Prompts  
 [https://github.com/microsoft/chatgpt-robot-manipulation-prompts](https://github.com/microsoft/chatgpt-robot-manipulation-prompts)  
 38 stars per week over 4 weeks  
 172 stars, 12 forks, 6 watches  
@@ -8444,7 +8474,7 @@ microsoft/chatgpt-robot-manipulation-prompts
 
 
 ### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
-fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
+🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
 9.87 stars per week over 163 weeks  
 1,610 stars, 263 forks, 39 watches  
@@ -8453,7 +8483,7 @@ fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using
 
 
 ### [earth-forecasting-transformer](https://github.com/amazon-science/earth-forecasting-transformer) by [amazon-science](https://github.com/amazon-science)  
-earth-forecasting-transformer: Official implementation of Earthformer  
+Official implementation of Earthformer  
 [https://github.com/amazon-science/earth-forecasting-transformer](https://github.com/amazon-science/earth-forecasting-transformer)  
 5.88 stars per week over 33 weeks  
 199 stars, 35 forks, 10 watches  
@@ -8461,7 +8491,7 @@ earth-forecasting-transformer: Official implementation of Earthformer
 
 
 ### [python-devtools](https://github.com/samuelcolvin/python-devtools) by [samuelcolvin](https://github.com/samuelcolvin)  
-python-devtools: Dev tools for python  
+Dev tools for python  
 [https://python-devtools.helpmanual.io/](https://python-devtools.helpmanual.io/)  
 [https://github.com/samuelcolvin/python-devtools](https://github.com/samuelcolvin/python-devtools)  
 2.28 stars per week over 298 weeks  
@@ -8471,7 +8501,7 @@ python-devtools: Dev tools for python
 
 
 ### [pdoc](https://github.com/pdoc3/pdoc) by [pdoc3](https://github.com/pdoc3)  
-pdoc:  :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects  
+ :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects  
 [https://pdoc3.github.io/pdoc/](https://pdoc3.github.io/pdoc/)  
 [https://github.com/pdoc3/pdoc](https://github.com/pdoc3/pdoc)  
 4.26 stars per week over 226 weeks  
@@ -8481,7 +8511,7 @@ pdoc:  :snake: :arrow_right: :scroll:  Auto-generate API documentation for Pytho
 
 
 ### [qdrant-client](https://github.com/qdrant/qdrant-client) by [qdrant](https://github.com/qdrant)  
-qdrant-client: Python client for Qdrant vector search engine  
+Python client for Qdrant vector search engine  
 [https://qdrant.tech](https://qdrant.tech)  
 [https://github.com/qdrant/qdrant-client](https://github.com/qdrant/qdrant-client)  
 1.28 stars per week over 116 weeks  
@@ -8491,7 +8521,7 @@ qdrant-client: Python client for Qdrant vector search engine
 
 
 ### [halo](https://github.com/manrajgrover/halo) by [manrajgrover](https://github.com/manrajgrover)  
-halo: 💫 Beautiful spinners for terminal, IPython and Jupyter  
+💫 Beautiful spinners for terminal, IPython and Jupyter  
 [https://github.com/manrajgrover/halo](https://github.com/manrajgrover/halo)  
 9.23 stars per week over 296 weeks  
 2,731 stars, 141 forks, 26 watches  
@@ -8500,7 +8530,7 @@ halo: 💫 Beautiful spinners for terminal, IPython and Jupyter
 
 
 ### [aioboto3](https://github.com/terrycain/aioboto3) by [terrycain](https://github.com/terrycain)  
-aioboto3: Wrapper to use boto3 resources with the aiobotocore async backend  
+Wrapper to use boto3 resources with the aiobotocore async backend  
 [https://github.com/terrycain/aioboto3](https://github.com/terrycain/aioboto3)  
 1.7 stars per week over 292 weeks  
 498 stars, 49 forks, 6 watches  
@@ -8508,7 +8538,7 @@ aioboto3: Wrapper to use boto3 resources with the aiobotocore async backend
 
 
 ### [examples](https://github.com/kubeflow/examples) by [kubeflow](https://github.com/kubeflow)  
-examples: A repository to host extended examples and tutorials  
+A repository to host extended examples and tutorials  
 [https://github.com/kubeflow/examples](https://github.com/kubeflow/examples)  
 4.68 stars per week over 274 weeks  
 1,285 stars, 720 forks, 48 watches  
@@ -8516,7 +8546,7 @@ examples: A repository to host extended examples and tutorials
 
 
 ### [earthengine-api](https://github.com/google/earthengine-api) by [google](https://github.com/google)  
-earthengine-api: Python and JavaScript bindings for calling the Earth Engine API.  
+Python and JavaScript bindings for calling the Earth Engine API.  
 [https://github.com/google/earthengine-api](https://github.com/google/earthengine-api)  
 5.28 stars per week over 419 weeks  
 2,217 stars, 936 forks, 210 watches  
@@ -8524,7 +8554,7 @@ earthengine-api: Python and JavaScript bindings for calling the Earth Engine API
 
 
 ### [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
-sklearn-pandas: Pandas integration with sklearn  
+Pandas integration with sklearn  
 [https://github.com/scikit-learn-contrib/sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)  
 5.18 stars per week over 523 weeks  
 2,713 stars, 417 forks, 94 watches  
@@ -8542,7 +8572,7 @@ Waitress - A WSGI server for Python 3
 
 
 ### [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) by [ionelmc](https://github.com/ionelmc)  
-pytest-benchmark: py.test fixture for benchmarking code  
+py.test fixture for benchmarking code  
 [https://github.com/ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark)  
 2.41 stars per week over 447 weeks  
 1,076 stars, 107 forks, 18 watches  
@@ -8551,7 +8581,7 @@ pytest-benchmark: py.test fixture for benchmarking code
 
 
 ### [coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization) by [amanchadha](https://github.com/amanchadha)  
-coursera-deep-learning-specialization: Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models  
+Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models  
 [https://github.com/amanchadha/coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)  
 12 stars per week over 149 weeks  
 1,930 stars, 1,649 forks, 19 watches  
@@ -8570,7 +8600,7 @@ PECOS - Prediction for Enormous and Correlated Spaces
 
 
 ### [alphalens](https://github.com/quantopian/alphalens) by [quantopian](https://github.com/quantopian)  
-alphalens: Performance analysis of predictive (alpha) stock factors  
+Performance analysis of predictive (alpha) stock factors  
 [http://quantopian.github.io/alphalens](http://quantopian.github.io/alphalens)  
 [https://github.com/quantopian/alphalens](https://github.com/quantopian/alphalens)  
 7.31 stars per week over 361 weeks  
@@ -8580,17 +8610,17 @@ alphalens: Performance analysis of predictive (alpha) stock factors
 
 
 ### [notifiers](https://github.com/liiight/notifiers) by [liiight](https://github.com/liiight)  
-notifiers: The easy way to send notifications  
+The easy way to send notifications  
 [http://notifiers.readthedocs.io/](http://notifiers.readthedocs.io/)  
 [https://github.com/liiight/notifiers](https://github.com/liiight/notifiers)  
 7.88 stars per week over 309 weeks  
 2,437 stars, 97 forks, 33 watches  
 [util](categories/util.md) category, created 2017-06-01, last commit 2022-07-14, main language Python  
-<sub><sup>notification-service, notifications, notifier, pypi</sup></sub>
+<sub><sup>notification-service, notifications, notifier</sup></sub>
 
 
 ### [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) by [pytest-dev](https://github.com/pytest-dev)  
-pytest-bdd: BDD library for the py.test runner  
+BDD library for the py.test runner  
 [https://pytest-bdd.readthedocs.io/en/latest/](https://pytest-bdd.readthedocs.io/en/latest/)  
 [https://github.com/pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd)  
 2.19 stars per week over 527 weeks  
@@ -8599,7 +8629,7 @@ pytest-bdd: BDD library for the py.test runner
 
 
 ### [ml-metadata](https://github.com/google/ml-metadata) by [google](https://github.com/google)  
-ml-metadata: For recording and retrieving metadata associated with ML developer and data scientist workflows.  
+For recording and retrieving metadata associated with ML developer and data scientist workflows.  
 [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)  
 [https://github.com/google/ml-metadata](https://github.com/google/ml-metadata)  
 2.35 stars per week over 224 weeks  
@@ -8608,7 +8638,7 @@ ml-metadata: For recording and retrieving metadata associated with ML developer 
 
 
 ### [sagemaker-ssh-helper](https://github.com/aws-samples/sagemaker-ssh-helper) by [aws-samples](https://github.com/aws-samples)  
-sagemaker-ssh-helper: A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH  
+A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH  
 [https://github.com/aws-samples/sagemaker-ssh-helper](https://github.com/aws-samples/sagemaker-ssh-helper)  
 3.48 stars per week over 29 weeks  
 102 stars, 13 forks, 9 watches  
@@ -8617,7 +8647,7 @@ sagemaker-ssh-helper: A helper library to connect into Amazon SageMaker with AWS
 
 
 ### [cuda-python](https://github.com/nvidia/cuda-python) by [nvidia](https://github.com/nvidia)  
-cuda-python: CUDA Python Low-level Bindings  
+CUDA Python Low-level Bindings  
 [https://nvidia.github.io/cuda-python/](https://nvidia.github.io/cuda-python/)  
 [https://github.com/nvidia/cuda-python](https://github.com/nvidia/cuda-python)  
 6.09 stars per week over 96 weeks  
@@ -8626,7 +8656,7 @@ cuda-python: CUDA Python Low-level Bindings
 
 
 ### [Astra](https://github.com/flipkart-incubator/astra) by [flipkart-incubator](https://github.com/flipkart-incubator)  
-Astra: Automated Security Testing For REST API's  
+Automated Security Testing For REST API's  
 [https://github.com/flipkart-incubator/astra](https://github.com/flipkart-incubator/astra)  
 8.02 stars per week over 277 weeks  
 2,225 stars, 371 forks, 84 watches  
@@ -8635,7 +8665,7 @@ Astra: Automated Security Testing For REST API's
 
 
 ### [aiokafka](https://github.com/aio-libs/aiokafka) by [aio-libs](https://github.com/aio-libs)  
-aiokafka: asyncio client for kafka  
+asyncio client for kafka  
 [http://aiokafka.readthedocs.io/](http://aiokafka.readthedocs.io/)  
 [https://github.com/aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)  
 1.97 stars per week over 444 weeks  
@@ -8645,7 +8675,7 @@ aiokafka: asyncio client for kafka
 
 
 ### [nbformat](https://github.com/jupyter/nbformat) by [jupyter](https://github.com/jupyter)  
-nbformat: Reference implementation of the Jupyter Notebook format  
+Reference implementation of the Jupyter Notebook format  
 [http://nbformat.readthedocs.io/](http://nbformat.readthedocs.io/)  
 [https://github.com/jupyter/nbformat](https://github.com/jupyter/nbformat)  
 0.49 stars per week over 421 weeks  
@@ -8654,7 +8684,7 @@ nbformat: Reference implementation of the Jupyter Notebook format
 
 
 ### [pastas](https://github.com/pastas/pastas)  
-pastas: :spaghetti: Pastas is an open-source Python framework for the analysis of groundwater time series.  
+:spaghetti: Pastas is an open-source Python framework for the analysis of groundwater time series.  
 [https://pastas.readthedocs.io](https://pastas.readthedocs.io)  
 [https://github.com/pastas/pastas](https://github.com/pastas/pastas)  
 0.83 stars per week over 368 weeks  
@@ -8664,7 +8694,7 @@ pastas: :spaghetti: Pastas is an open-source Python framework for the analysis o
 
 
 ### [Mephisto](https://github.com/facebookresearch/mephisto) by [facebookresearch](https://github.com/facebookresearch)  
-Mephisto: A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.   
+A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.   
 [https://mephisto.ai/](https://mephisto.ai/)  
 [https://github.com/facebookresearch/mephisto](https://github.com/facebookresearch/mephisto)  
 1.38 stars per week over 193 weeks  
@@ -8673,7 +8703,7 @@ Mephisto: A suite of tools for managing crowdsourcing tasks from the inception t
 
 
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
-python-package-template: 🚀 Your next Python package needs a bleeding-edge project structure.  
+🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
 6.03 stars per week over 159 weeks  
 962 stars, 96 forks, 7 watches  
@@ -8700,7 +8730,7 @@ SGPT: GPT Sentence Embeddings for Semantic Search
 
 
 ### [whale](https://github.com/hyperqueryhq/whale) by [hyperqueryhq](https://github.com/hyperqueryhq)  
-whale: 🐳 The stupidly simple CLI workspace for your data warehouse.  
+🐳 The stupidly simple CLI workspace for your data warehouse.  
 [https://rsyi.gitbook.io/whale](https://rsyi.gitbook.io/whale)  
 [https://github.com/hyperqueryhq/whale](https://github.com/hyperqueryhq/whale)  
 4.69 stars per week over 153 weeks  
@@ -8718,7 +8748,7 @@ Mesh TensorFlow: Model Parallelism Made Easier
 
 
 ### [lingua-py](https://github.com/pemistahl/lingua-py) by [pemistahl](https://github.com/pemistahl)  
-lingua-py: The most accurate natural language detection library for Python, suitable for long and short text alike  
+The most accurate natural language detection library for Python, suitable for long and short text alike  
 [https://github.com/pemistahl/lingua-py](https://github.com/pemistahl/lingua-py)  
 5.28 stars per week over 94 weeks  
 500 stars, 25 forks, 8 watches  
@@ -8727,7 +8757,7 @@ lingua-py: The most accurate natural language detection library for Python, suit
 
 
 ### [microprediction](https://github.com/microprediction/microprediction)  
-microprediction: If you can measure it, consider it predicted  
+If you can measure it, consider it predicted  
 [http://www.microprediction.org](http://www.microprediction.org)  
 [https://github.com/microprediction/microprediction](https://github.com/microprediction/microprediction)  
 1.53 stars per week over 167 weeks  
@@ -8737,7 +8767,7 @@ microprediction: If you can measure it, consider it predicted
 
 
 ### [python-progressbar](https://github.com/wolph/python-progressbar) by [wolph](https://github.com/wolph)  
-python-progressbar: Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"  
+Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"  
 [http://progressbar-2.readthedocs.org/en/latest/](http://progressbar-2.readthedocs.org/en/latest/)  
 [https://github.com/wolph/python-progressbar](https://github.com/wolph/python-progressbar)  
 1.39 stars per week over 584 weeks  
@@ -8757,7 +8787,7 @@ UnionML: the easiest way to build and deploy machine learning microservices
 
 
 ### [airflow-chart](https://github.com/astronomer/airflow-chart) by [astronomer](https://github.com/astronomer)  
-airflow-chart: A Helm chart to install Apache Airflow on Kubernetes  
+A Helm chart to install Apache Airflow on Kubernetes  
 [https://github.com/astronomer/airflow-chart](https://github.com/astronomer/airflow-chart)  
 1.44 stars per week over 171 weeks  
 247 stars, 90 forks, 45 watches  
@@ -8766,7 +8796,7 @@ airflow-chart: A Helm chart to install Apache Airflow on Kubernetes
 
 
 ### [verde](https://github.com/fatiando/verde) by [fatiando](https://github.com/fatiando)  
-verde: Processing and interpolating spatial data with a twist of machine learning  
+Processing and interpolating spatial data with a twist of machine learning  
 [https://www.fatiando.org/verde](https://www.fatiando.org/verde)  
 [https://github.com/fatiando/verde](https://github.com/fatiando/verde)  
 1.87 stars per week over 262 weeks  
@@ -8776,7 +8806,7 @@ verde: Processing and interpolating spatial data with a twist of machine learnin
 
 
 ### [xarray-spatial](https://github.com/makepath/xarray-spatial) by [makepath](https://github.com/makepath)  
-xarray-spatial: Raster-based Spatial Analytics for Python  
+Raster-based Spatial Analytics for Python  
 [https://xarray-spatial.org](https://xarray-spatial.org)  
 [https://github.com/makepath/xarray-spatial](https://github.com/makepath/xarray-spatial)  
 4.16 stars per week over 169 weeks  
@@ -8786,7 +8816,7 @@ xarray-spatial: Raster-based Spatial Analytics for Python
 
 
 ### [pymde](https://github.com/cvxgrp/pymde) by [cvxgrp](https://github.com/cvxgrp)  
-pymde: Minimum-distortion embedding with PyTorch  
+Minimum-distortion embedding with PyTorch  
 [https://pymde.org](https://pymde.org)  
 [https://github.com/cvxgrp/pymde](https://github.com/cvxgrp/pymde)  
 3.74 stars per week over 127 weeks  
@@ -8796,7 +8826,7 @@ pymde: Minimum-distortion embedding with PyTorch
 
 
 ### [rebound](https://github.com/shobrook/rebound) by [shobrook](https://github.com/shobrook)  
-rebound: Command-line tool that instantly fetches Stack Overflow results when an exception is thrown  
+Command-line tool that instantly fetches Stack Overflow results when an exception is thrown  
 [https://github.com/shobrook/rebound](https://github.com/shobrook/rebound)  
 14 stars per week over 270 weeks  
 4,017 stars, 379 forks, 78 watches  
@@ -8805,7 +8835,7 @@ rebound: Command-line tool that instantly fetches Stack Overflow results when an
 
 
 ### [espresso](https://github.com/espressomd/espresso) by [espressomd](https://github.com/espressomd)  
-espresso: The ESPResSo package  
+The ESPResSo package  
 [https://espressomd.org](https://espressomd.org)  
 [https://github.com/espressomd/espresso](https://github.com/espressomd/espresso)  
 0.3 stars per week over 632 weeks  
@@ -8815,7 +8845,7 @@ espresso: The ESPResSo package
 
 
 ### [advertorch](https://github.com/borealisai/advertorch) by [borealisai](https://github.com/borealisai)  
-advertorch: A Toolbox for Adversarial Robustness Research  
+A Toolbox for Adversarial Robustness Research  
 [https://github.com/borealisai/advertorch](https://github.com/borealisai/advertorch)  
 5.05 stars per week over 231 weeks  
 1,169 stars, 186 forks, 27 watches  
@@ -8824,7 +8854,7 @@ advertorch: A Toolbox for Adversarial Robustness Research
 
 
 ### [siuba](https://github.com/machow/siuba) by [machow](https://github.com/machow)  
-siuba: Python library for using dplyr like syntax with pandas and SQL  
+Python library for using dplyr like syntax with pandas and SQL  
 [https://siuba.org](https://siuba.org)  
 [https://github.com/machow/siuba](https://github.com/machow/siuba)  
 4.63 stars per week over 221 weeks  
@@ -8834,7 +8864,7 @@ siuba: Python library for using dplyr like syntax with pandas and SQL
 
 
 ### [QuantLib-SWIG](https://github.com/lballabio/quantlib-swig) by [lballabio](https://github.com/lballabio)  
-QuantLib-SWIG: QuantLib wrappers to other languages  
+QuantLib wrappers to other languages  
 [https://github.com/lballabio/quantlib-swig](https://github.com/lballabio/quantlib-swig)  
 0.73 stars per week over 385 weeks  
 282 stars, 265 forks, 39 watches  
@@ -8843,7 +8873,7 @@ QuantLib-SWIG: QuantLib wrappers to other languages
 
 
 ### [flashtext](https://github.com/vi3k6i5/flashtext) by [vi3k6i5](https://github.com/vi3k6i5)  
-flashtext: Extract Keywords from sentence or Replace keywords in sentences.  
+Extract Keywords from sentence or Replace keywords in sentences.  
 [https://github.com/vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext)  
 18 stars per week over 298 weeks  
 5,387 stars, 604 forks, 139 watches  
@@ -8852,7 +8882,7 @@ flashtext: Extract Keywords from sentence or Replace keywords in sentences.
 
 
 ### [mayavi](https://github.com/enthought/mayavi) by [enthought](https://github.com/enthought)  
-mayavi: 3D visualization of scientific data in Python  
+3D visualization of scientific data in Python  
 [http://docs.enthought.com/mayavi/mayavi/](http://docs.enthought.com/mayavi/mayavi/)  
 [https://github.com/enthought/mayavi](https://github.com/enthought/mayavi)  
 1.75 stars per week over 640 weeks  
@@ -8861,7 +8891,7 @@ mayavi: 3D visualization of scientific data in Python
 
 
 ### [python-lambda](https://github.com/nficano/python-lambda) by [nficano](https://github.com/nficano)  
-python-lambda:  A toolkit for developing and deploying serverless Python code in AWS Lambda.   
+ A toolkit for developing and deploying serverless Python code in AWS Lambda.   
 [https://github.com/nficano/python-lambda](https://github.com/nficano/python-lambda)  
 3.83 stars per week over 375 weeks  
 1,438 stars, 231 forks, 32 watches  
@@ -8870,7 +8900,7 @@ python-lambda:  A toolkit for developing and deploying serverless Python code in
 
 
 ### [mahotas](https://github.com/luispedro/mahotas) by [luispedro](https://github.com/luispedro)  
-mahotas: Computer Vision in Python  
+Computer Vision in Python  
 [https://mahotas.rtfd.io](https://mahotas.rtfd.io)  
 [https://github.com/luispedro/mahotas](https://github.com/luispedro/mahotas)  
 1.15 stars per week over 692 weeks  
@@ -8880,7 +8910,7 @@ mahotas: Computer Vision in Python
 
 
 ### [Auto_TS](https://github.com/autoviml/auto_ts) by [autoviml](https://github.com/autoviml)  
-Auto_TS: Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.  
+Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.  
 [https://github.com/autoviml/auto_ts](https://github.com/autoviml/auto_ts)  
 3.4 stars per week over 168 weeks  
 571 stars, 99 forks, 18 watches  
@@ -8889,7 +8919,7 @@ Auto_TS: Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models 
 
 
 ### [cachier](https://github.com/python-cachier/cachier) by [python-cachier](https://github.com/python-cachier)  
-cachier: Persistent, stale-free, local and cross-machine caching for Python functions.  
+Persistent, stale-free, local and cross-machine caching for Python functions.  
 [https://github.com/python-cachier/cachier](https://github.com/python-cachier/cachier)  
 1.26 stars per week over 349 weeks  
 442 stars, 51 forks, 7 watches  
@@ -8898,7 +8928,7 @@ cachier: Persistent, stale-free, local and cross-machine caching for Python func
 
 
 ### [robustlearn](https://github.com/microsoft/robustlearn) by [microsoft](https://github.com/microsoft)  
-robustlearn: Robust machine learning for responsible AI  
+Robust machine learning for responsible AI  
 [http://aka.ms/roblearn](http://aka.ms/roblearn)  
 [https://github.com/microsoft/robustlearn](https://github.com/microsoft/robustlearn)  
 7.35 stars per week over 28 weeks  
@@ -8907,7 +8937,7 @@ robustlearn: Robust machine learning for responsible AI
 
 
 ### [pynacl](https://github.com/pyca/pynacl) by [pyca](https://github.com/pyca)  
-pynacl: Python binding to the Networking and Cryptography (NaCl) library  
+Python binding to the Networking and Cryptography (NaCl) library  
 [https://pynacl.readthedocs.io/](https://pynacl.readthedocs.io/)  
 [https://github.com/pyca/pynacl](https://github.com/pyca/pynacl)  
 1.81 stars per week over 532 weeks  
@@ -8917,7 +8947,7 @@ pynacl: Python binding to the Networking and Cryptography (NaCl) library
 
 
 ### [spopt](https://github.com/pysal/spopt) by [pysal](https://github.com/pysal)  
-spopt: Spatial Optimization  
+Spatial Optimization  
 [https://pysal.org/spopt/](https://pysal.org/spopt/)  
 [https://github.com/pysal/spopt](https://github.com/pysal/spopt)  
 0.91 stars per week over 218 weeks  
@@ -8956,7 +8986,7 @@ aiopg is a library for accessing a PostgreSQL database from the asyncio
 
 
 ### [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) by [cogeotiff](https://github.com/cogeotiff)  
-rio-cogeo: Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
+Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
 [https://cogeotiff.github.io/rio-cogeo/](https://cogeotiff.github.io/rio-cogeo/)  
 [https://github.com/cogeotiff/rio-cogeo](https://github.com/cogeotiff/rio-cogeo)  
 0.85 stars per week over 269 weeks  
@@ -8966,7 +8996,7 @@ rio-cogeo: Cloud Optimized GeoTIFF creation and validation plugin for rasterio
 
 
 ### [lambeq](https://github.com/cqcl/lambeq) by [cqcl](https://github.com/cqcl)  
-lambeq: A high-level Python library for Quantum Natural Language Processing  
+A high-level Python library for Quantum Natural Language Processing  
 [https://cqcl.github.io/lambeq/](https://cqcl.github.io/lambeq/)  
 [https://github.com/cqcl/lambeq](https://github.com/cqcl/lambeq)  
 4.15 stars per week over 82 weeks  
@@ -8976,7 +9006,7 @@ lambeq: A high-level Python library for Quantum Natural Language Processing
 
 
 ### [AutoTS](https://github.com/winedarksea/autots) by [winedarksea](https://github.com/winedarksea)  
-AutoTS: Automated Time Series Forecasting  
+Automated Time Series Forecasting  
 [https://github.com/winedarksea/autots](https://github.com/winedarksea/autots)  
 4.06 stars per week over 179 weeks  
 730 stars, 68 forks, 17 watches  
@@ -8985,7 +9015,7 @@ AutoTS: Automated Time Series Forecasting
 
 
 ### [basana](https://github.com/gbeced/basana) by [gbeced](https://github.com/gbeced)  
-basana: A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.  
+A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.  
 [https://github.com/gbeced/basana](https://github.com/gbeced/basana)  
 8.42 stars per week over 9 weeks  
 77 stars, 5 forks, 8 watches  
@@ -8994,7 +9024,7 @@ basana: A Python async and event driven framework for algorithmic trading, with 
 
 
 ### [pyvis](https://github.com/westhealth/pyvis) by [westhealth](https://github.com/westhealth)  
-pyvis: Python package for creating and visualizing interactive network graphs.  
+Python package for creating and visualizing interactive network graphs.  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 [https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
 2.5 stars per week over 260 weeks  
@@ -9004,7 +9034,7 @@ pyvis: Python package for creating and visualizing interactive network graphs.
 
 
 ### [activitysim](https://github.com/activitysim/activitysim)  
-activitysim: An Open Platform for Activity-Based Travel Modeling  
+An Open Platform for Activity-Based Travel Modeling  
 [https://activitysim.github.io](https://activitysim.github.io)  
 [https://github.com/activitysim/activitysim](https://github.com/activitysim/activitysim)  
 0.34 stars per week over 463 weeks  
@@ -9014,7 +9044,7 @@ activitysim: An Open Platform for Activity-Based Travel Modeling
 
 
 ### [blaze](https://github.com/blaze/blaze)  
-blaze: NumPy and Pandas interface to Big Data  
+NumPy and Pandas interface to Big Data  
 [blaze.pydata.org](blaze.pydata.org)  
 [https://github.com/blaze/blaze](https://github.com/blaze/blaze)  
 5.71 stars per week over 549 weeks  
@@ -9023,7 +9053,7 @@ blaze: NumPy and Pandas interface to Big Data
 
 
 ### [language](https://github.com/google-research/language) by [google-research](https://github.com/google-research)  
-language: Shared repository for open-sourced projects from the Google AI Language team.  
+Shared repository for open-sourced projects from the Google AI Language team.  
 [https://ai.google/research/teams/language/](https://ai.google/research/teams/language/)  
 [https://github.com/google-research/language](https://github.com/google-research/language)  
 5.97 stars per week over 237 weeks  
@@ -9033,7 +9063,7 @@ language: Shared repository for open-sourced projects from the Google AI Languag
 
 
 ### [earthpy](https://github.com/earthlab/earthpy) by [earthlab](https://github.com/earthlab)  
-earthpy: A package built to support working with spatial data using open source python  
+A package built to support working with spatial data using open source python  
 [https://earthpy.readthedocs.io](https://earthpy.readthedocs.io)  
 [https://github.com/earthlab/earthpy](https://github.com/earthlab/earthpy)  
 1.61 stars per week over 271 weeks  
@@ -9043,7 +9073,7 @@ earthpy: A package built to support working with spatial data using open source 
 
 
 ### [snoop](https://github.com/alexmojaki/snoop) by [alexmojaki](https://github.com/alexmojaki)  
-snoop: A powerful set of Python debugging tools, based on PySnooper  
+A powerful set of Python debugging tools, based on PySnooper  
 [https://github.com/alexmojaki/snoop](https://github.com/alexmojaki/snoop)  
 4.43 stars per week over 207 weeks  
 920 stars, 32 forks, 18 watches  
@@ -9052,7 +9082,7 @@ snoop: A powerful set of Python debugging tools, based on PySnooper
 
 
 ### [starred](https://github.com/maguowei/starred) by [maguowei](https://github.com/maguowei)  
-starred: creating your own Awesome List by GitHub stars!  
+creating your own Awesome List by GitHub stars!  
 [https://github.com/maguowei/awesome-stars](https://github.com/maguowei/awesome-stars)  
 [https://github.com/maguowei/starred](https://github.com/maguowei/starred)  
 3.51 stars per week over 359 weeks  
@@ -9070,7 +9100,7 @@ Parameterized testing with any Python test framework
 
 
 ### [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) by [developmentseed](https://github.com/developmentseed)  
-geojson-pydantic: Pydantic data models for the GeoJSON spec  
+Pydantic data models for the GeoJSON spec  
 [https://github.com/developmentseed/geojson-pydantic](https://github.com/developmentseed/geojson-pydantic)  
 0.89 stars per week over 154 weeks  
 137 stars, 29 forks, 13 watches  
@@ -9088,7 +9118,7 @@ Mako Templates for Python
 
 
 ### [pyalgotrade](https://github.com/gbeced/pyalgotrade) by [gbeced](https://github.com/gbeced)  
-pyalgotrade: Python Algorithmic Trading Library  
+Python Algorithmic Trading Library  
 [http://gbeced.github.io/pyalgotrade/](http://gbeced.github.io/pyalgotrade/)  
 [https://github.com/gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade)  
 6.86 stars per week over 582 weeks  
@@ -9097,7 +9127,7 @@ pyalgotrade: Python Algorithmic Trading Library
 
 
 ### [algo-trader](https://github.com/idanya/algo-trader) by [idanya](https://github.com/idanya)  
-algo-trader: Trading bot with support for realtime trading, backtesting, custom strategies and much more.  
+Trading bot with support for realtime trading, backtesting, custom strategies and much more.  
 [https://github.com/idanya/algo-trader](https://github.com/idanya/algo-trader)  
 7.65 stars per week over 85 weeks  
 656 stars, 74 forks, 24 watches  
@@ -9106,7 +9136,7 @@ algo-trader: Trading bot with support for realtime trading, backtesting, custom 
 
 
 ### [sql-metadata](https://github.com/macbre/sql-metadata) by [macbre](https://github.com/macbre)  
-sql-metadata: Uses tokenized query returned by python-sqlparse and generates query metadata  
+Uses tokenized query returned by python-sqlparse and generates query metadata  
 [https://pypi.python.org/pypi/sql-metadata](https://pypi.python.org/pypi/sql-metadata)  
 [https://github.com/macbre/sql-metadata](https://github.com/macbre/sql-metadata)  
 1.74 stars per week over 308 weeks  
@@ -9116,7 +9146,7 @@ sql-metadata: Uses tokenized query returned by python-sqlparse and generates que
 
 
 ### [momepy](https://github.com/pysal/momepy) by [pysal](https://github.com/pysal)  
-momepy: Urban Morphology Measuring Toolkit  
+Urban Morphology Measuring Toolkit  
 [https://docs.momepy.org](https://docs.momepy.org)  
 [https://github.com/pysal/momepy](https://github.com/pysal/momepy)  
 1.42 stars per week over 266 weeks  
@@ -9134,7 +9164,7 @@ keirp/automatic_prompt_engineer
 
 
 ### [torchsde](https://github.com/google-research/torchsde) by [google-research](https://github.com/google-research)  
-torchsde: Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
+Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
 [https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
 8.46 stars per week over 147 weeks  
 1,251 stars, 152 forks, 35 watches  
@@ -9153,7 +9183,7 @@ PaL: Program-Aided Language Models
 
 
 ### [pyogrio](https://github.com/geopandas/pyogrio) by [geopandas](https://github.com/geopandas)  
-pyogrio: Vectorized vector I/O using OGR  
+Vectorized vector I/O using OGR  
 [https://pyogrio.readthedocs.io](https://pyogrio.readthedocs.io)  
 [https://github.com/geopandas/pyogrio](https://github.com/geopandas/pyogrio)  
 0.93 stars per week over 162 weeks  
@@ -9162,7 +9192,7 @@ pyogrio: Vectorized vector I/O using OGR
 
 
 ### [ethtx](https://github.com/ethtx/ethtx)  
-ethtx: Python package with core transaction decoding functions.  
+Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/ethtx/ethtx](https://github.com/ethtx/ethtx)  
 4.25 stars per week over 96 weeks  
@@ -9171,7 +9201,7 @@ ethtx: Python package with core transaction decoding functions.
 
 
 ### [P-tuning-v2](https://github.com/thudm/p-tuning-v2) by [thudm](https://github.com/thudm)  
-P-tuning-v2: An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks  
+An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks  
 [https://github.com/thudm/p-tuning-v2](https://github.com/thudm/p-tuning-v2)  
 12 stars per week over 81 weeks  
 1,011 stars, 105 forks, 29 watches  
@@ -9188,7 +9218,7 @@ conceptofmind/toolformer
 
 
 ### [weaviate-python-client](https://github.com/weaviate/weaviate-python-client) by [weaviate](https://github.com/weaviate)  
-weaviate-python-client: A python native client for easy interaction with a Weaviate instance.  
+A python native client for easy interaction with a Weaviate instance.  
 [https://weaviate.io/developers/weaviate/current/client-libraries/python.html](https://weaviate.io/developers/weaviate/current/client-libraries/python.html)  
 [https://github.com/weaviate/weaviate-python-client](https://github.com/weaviate/weaviate-python-client)  
 0.23 stars per week over 190 weeks  
@@ -9198,7 +9228,7 @@ weaviate-python-client: A python native client for easy interaction with a Weavi
 
 
 ### [eli5](https://github.com/teamhg-memex/eli5) by [teamhg-memex](https://github.com/teamhg-memex)  
-eli5: A library for debugging/inspecting machine learning classifiers and explaining their predictions  
+A library for debugging/inspecting machine learning classifiers and explaining their predictions  
 [http://eli5.readthedocs.io](http://eli5.readthedocs.io)  
 [https://github.com/teamhg-memex/eli5](https://github.com/teamhg-memex/eli5)  
 7.69 stars per week over 346 weeks  
@@ -9208,7 +9238,7 @@ eli5: A library for debugging/inspecting machine learning classifiers and explai
 
 
 ### [pinecone-python-client](https://github.com/pinecone-io/pinecone-python-client) by [pinecone-io](https://github.com/pinecone-io)  
-pinecone-python-client: The Pinecone Python client   
+The Pinecone Python client   
 [https://www.pinecone.io/docs](https://www.pinecone.io/docs)  
 [https://github.com/pinecone-io/pinecone-python-client](https://github.com/pinecone-io/pinecone-python-client)  
 1.17 stars per week over 85 weeks  
@@ -9217,7 +9247,7 @@ pinecone-python-client: The Pinecone Python client
 
 
 ### [geoviews](https://github.com/holoviz/geoviews) by [holoviz](https://github.com/holoviz)  
-geoviews: Simple, concise geographical visualization in Python  
+Simple, concise geographical visualization in Python  
 [http://geoviews.org](http://geoviews.org)  
 [https://github.com/holoviz/geoviews](https://github.com/holoviz/geoviews)  
 1.3 stars per week over 367 weeks  
@@ -9235,7 +9265,7 @@ shiv is a command line utility for building fully self contained Python zipapps 
 
 
 ### [spacy-stanza](https://github.com/explosion/spacy-stanza) by [explosion](https://github.com/explosion)  
-spacy-stanza: 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy  
+💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy  
 [https://github.com/explosion/spacy-stanza](https://github.com/explosion/spacy-stanza)  
 3.05 stars per week over 222 weeks  
 678 stars, 50 forks, 27 watches  
@@ -9244,7 +9274,7 @@ spacy-stanza: 💥 Use the latest Stanza (StanfordNLP) research models directly 
 
 
 ### [BookCode_Edition1](https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1) by [bayesianmodelingandcomputationinpython](https://github.com/bayesianmodelingandcomputationinpython)  
-bayesianmodelingandcomputationinpython/bookcode_edition1  
+bayesianmodelingandcomputationinpython/BookCode_Edition1  
 [https://www.bayesiancomputationbook.com](https://www.bayesiancomputationbook.com)  
 [https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1](https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1)  
 4.59 stars per week over 89 weeks  
@@ -9262,7 +9292,7 @@ Official PyTorch repo for JoJoGAN: One Shot Face Stylization
 
 
 ### [pyscript-cli](https://github.com/pyscript/pyscript-cli) by [pyscript](https://github.com/pyscript)  
-pyscript-cli: A CLI for PyScript  
+A CLI for PyScript  
 [https://github.com/pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli)  
 2.85 stars per week over 53 weeks  
 151 stars, 15 forks, 12 watches  
@@ -9270,7 +9300,7 @@ pyscript-cli: A CLI for PyScript
 
 
 ### [python-blosc](https://github.com/blosc/python-blosc) by [blosc](https://github.com/blosc)  
-python-blosc: A Python wrapper for the extremely fast Blosc compression library   
+A Python wrapper for the extremely fast Blosc compression library   
 [https://www.blosc.org/python-blosc/python-blosc.html](https://www.blosc.org/python-blosc/python-blosc.html)  
 [https://github.com/blosc/python-blosc](https://github.com/blosc/python-blosc)  
 0.51 stars per week over 657 weeks  
@@ -9280,7 +9310,7 @@ python-blosc: A Python wrapper for the extremely fast Blosc compression library
 
 
 ### [git-re-basin](https://github.com/samuela/git-re-basin) by [samuela](https://github.com/samuela)  
-git-re-basin: Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries"  
+Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries"  
 [https://arxiv.org/abs/2209.04836](https://arxiv.org/abs/2209.04836)  
 [https://github.com/samuela/git-re-basin](https://github.com/samuela/git-re-basin)  
 11 stars per week over 33 weeks  
@@ -9300,7 +9330,7 @@ Kalliope is a framework that will help you to create your own personal assistant
 
 
 ### [check-manifest](https://github.com/mgedmin/check-manifest) by [mgedmin](https://github.com/mgedmin)  
-check-manifest: Tool to check the completeness of MANIFEST.in for Python packages  
+Tool to check the completeness of MANIFEST.in for Python packages  
 [https://pypi.org/p/check-manifest](https://pypi.org/p/check-manifest)  
 [https://github.com/mgedmin/check-manifest](https://github.com/mgedmin/check-manifest)  
 0.53 stars per week over 530 weeks  
@@ -9319,7 +9349,7 @@ Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files ma
 
 
 ### [ghapi](https://github.com/fastai/ghapi) by [fastai](https://github.com/fastai)  
-ghapi: A delightful and complete interface to GitHub's amazing API  
+A delightful and complete interface to GitHub's amazing API  
 [https://ghapi.fast.ai/](https://ghapi.fast.ai/)  
 [https://github.com/fastai/ghapi](https://github.com/fastai/ghapi)  
 3.53 stars per week over 128 weeks  
@@ -9329,7 +9359,7 @@ ghapi: A delightful and complete interface to GitHub's amazing API
 
 
 ### [python-hunter](https://github.com/ionelmc/python-hunter) by [ionelmc](https://github.com/ionelmc)  
-python-hunter: Hunter is a flexible code tracing toolkit.   
+Hunter is a flexible code tracing toolkit.   
 [https://python-hunter.readthedocs.io/](https://python-hunter.readthedocs.io/)  
 [https://github.com/ionelmc/python-hunter](https://github.com/ionelmc/python-hunter)  
 1.7 stars per week over 424 weeks  
@@ -9339,7 +9369,7 @@ python-hunter: Hunter is a flexible code tracing toolkit.
 
 
 ### [aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo) by [giswqs](https://github.com/giswqs)  
-aws-open-data-geo: A list of open geospatial datasets on AWS  
+A list of open geospatial datasets on AWS  
 [https://github.com/giswqs/aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo)  
 12 stars per week over 20 weeks  
 245 stars, 7 forks, 10 watches  
@@ -9348,7 +9378,7 @@ aws-open-data-geo: A list of open geospatial datasets on AWS
 
 
 ### [latentblending](https://github.com/lunarring/latentblending) by [lunarring](https://github.com/lunarring)  
-latentblending: Create butter-smooth transitions between prompts, powered by stable diffusion  
+Create butter-smooth transitions between prompts, powered by stable diffusion  
 [https://github.com/lunarring/latentblending](https://github.com/lunarring/latentblending)  
 9.86 stars per week over 24 weeks  
 238 stars, 21 forks, 12 watches  
@@ -9357,7 +9387,7 @@ latentblending: Create butter-smooth transitions between prompts, powered by sta
 
 
 ### [arxiv.py](https://github.com/lukasschwab/arxiv.py) by [lukasschwab](https://github.com/lukasschwab)  
-arxiv.py: Python wrapper for the arXiv API  
+Python wrapper for the arXiv API  
 [https://github.com/lukasschwab/arxiv.py](https://github.com/lukasschwab/arxiv.py)  
 1.76 stars per week over 388 weeks  
 683 stars, 88 forks, 17 watches  
@@ -9366,7 +9396,7 @@ arxiv.py: Python wrapper for the arXiv API
 
 
 ### [orator](https://github.com/sdispater/orator) by [sdispater](https://github.com/sdispater)  
-orator: The Orator ORM provides a simple yet beautiful ActiveRecord implementation.  
+The Orator ORM provides a simple yet beautiful ActiveRecord implementation.  
 [https://orator-orm.com](https://orator-orm.com)  
 [https://github.com/sdispater/orator](https://github.com/sdispater/orator)  
 3.35 stars per week over 415 weeks  
@@ -9376,7 +9406,7 @@ orator: The Orator ORM provides a simple yet beautiful ActiveRecord implementati
 
 
 ### [human-learn](https://github.com/koaning/human-learn) by [koaning](https://github.com/koaning)  
-human-learn: Natural Intelligence is still a pretty good idea.  
+Natural Intelligence is still a pretty good idea.  
 [https://koaning.github.io/human-learn/](https://koaning.github.io/human-learn/)  
 [https://github.com/koaning/human-learn](https://github.com/koaning/human-learn)  
 4.79 stars per week over 147 weeks  
@@ -9386,7 +9416,7 @@ human-learn: Natural Intelligence is still a pretty good idea.
 
 
 ### [holoviz](https://github.com/holoviz/holoviz)  
-holoviz: High-level tools to simplify visualization in Python.  
+High-level tools to simplify visualization in Python.  
 [https://holoviz.org/](https://holoviz.org/)  
 [https://github.com/holoviz/holoviz](https://github.com/holoviz/holoviz)  
 2.34 stars per week over 293 weeks  
@@ -9396,7 +9426,7 @@ holoviz: High-level tools to simplify visualization in Python.
 
 
 ### [felicette](https://github.com/plant99/felicette) by [plant99](https://github.com/plant99)  
-felicette: Satellite imagery for dummies.  
+Satellite imagery for dummies.  
 [https://github.com/plant99/felicette](https://github.com/plant99/felicette)  
 12 stars per week over 147 weeks  
 1,798 stars, 86 forks, 39 watches  
@@ -9405,7 +9435,7 @@ felicette: Satellite imagery for dummies.
 
 
 ### [python-rasterstats](https://github.com/perrygeo/python-rasterstats) by [perrygeo](https://github.com/perrygeo)  
-python-rasterstats: Summary statistics of geospatial raster datasets based on vector geometries.  
+Summary statistics of geospatial raster datasets based on vector geometries.  
 [https://github.com/perrygeo/python-rasterstats](https://github.com/perrygeo/python-rasterstats)  
 0.92 stars per week over 502 weeks  
 461 stars, 108 forks, 33 watches  
@@ -9413,7 +9443,7 @@ python-rasterstats: Summary statistics of geospatial raster datasets based on ve
 
 
 ### [MEDIUM_NoteBook](https://github.com/cerlymarco/medium_notebook) by [cerlymarco](https://github.com/cerlymarco)  
-MEDIUM_NoteBook: Repository containing notebooks of my posts on Medium  
+Repository containing notebooks of my posts on Medium  
 [https://github.com/cerlymarco/medium_notebook](https://github.com/cerlymarco/medium_notebook)  
 8.58 stars per week over 210 weeks  
 1,810 stars, 938 forks, 96 watches  
@@ -9422,7 +9452,7 @@ MEDIUM_NoteBook: Repository containing notebooks of my posts on Medium
 
 
 ### [hypertools](https://github.com/contextlab/hypertools) by [contextlab](https://github.com/contextlab)  
-hypertools: A Python toolbox for gaining geometric insights into high-dimensional data  
+A Python toolbox for gaining geometric insights into high-dimensional data  
 [http://hypertools.readthedocs.io/en/latest/](http://hypertools.readthedocs.io/en/latest/)  
 [https://github.com/contextlab/hypertools](https://github.com/contextlab/hypertools)  
 5.15 stars per week over 344 weeks  
@@ -9441,7 +9471,7 @@ Breaching privacy in federated learning scenarios for vision and text
 
 
 ### [python-tcod](https://github.com/libtcod/python-tcod) by [libtcod](https://github.com/libtcod)  
-python-tcod: A high-performance Python port of libtcod.  Includes the libtcodpy module for backwards compatibility with older projects.  
+A high-performance Python port of libtcod.  Includes the libtcodpy module for backwards compatibility with older projects.  
 [https://github.com/libtcod/python-tcod](https://github.com/libtcod/python-tcod)  
 0.84 stars per week over 425 weeks  
 356 stars, 34 forks, 18 watches  
@@ -9450,7 +9480,7 @@ python-tcod: A high-performance Python port of libtcod.  Includes the libtcodpy 
 
 
 ### [emmett](https://github.com/emmett-framework/emmett) by [emmett-framework](https://github.com/emmett-framework)  
-emmett: The web framework for inventors  
+The web framework for inventors  
 [https://github.com/emmett-framework/emmett](https://github.com/emmett-framework/emmett)  
 1.86 stars per week over 445 weeks  
 831 stars, 62 forks, 29 watches  
@@ -9459,7 +9489,7 @@ emmett: The web framework for inventors
 
 
 ### [weather-tools](https://github.com/google/weather-tools) by [google](https://github.com/google)  
-weather-tools: Apache Beam pipelines to make weather data accessible and useful.  
+Apache Beam pipelines to make weather data accessible and useful.  
 [https://weather-tools.readthedocs.io/](https://weather-tools.readthedocs.io/)  
 [https://github.com/google/weather-tools](https://github.com/google/weather-tools)  
 1.78 stars per week over 75 weeks  
@@ -9469,7 +9499,7 @@ weather-tools: Apache Beam pipelines to make weather data accessible and useful.
 
 
 ### [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) by [developmentseed](https://github.com/developmentseed)  
-cogeo-mosaic: Create and use COG mosaic based on mosaicJSON  
+Create and use COG mosaic based on mosaicJSON  
 [https://developmentseed.org/cogeo-mosaic/](https://developmentseed.org/cogeo-mosaic/)  
 [https://github.com/developmentseed/cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic)  
 0.4 stars per week over 207 weeks  
@@ -9488,7 +9518,7 @@ Deepparse is a state-of-the-art library for parsing multinational street address
 
 
 ### [spatialpandas](https://github.com/holoviz/spatialpandas) by [holoviz](https://github.com/holoviz)  
-spatialpandas: Pandas extension arrays for spatial/geometric operations  
+Pandas extension arrays for spatial/geometric operations  
 [https://github.com/holoviz/spatialpandas](https://github.com/holoviz/spatialpandas)  
 1.45 stars per week over 183 weeks  
 267 stars, 21 forks, 23 watches  
@@ -9497,7 +9527,7 @@ spatialpandas: Pandas extension arrays for spatial/geometric operations
 
 
 ### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
-panoramix: Ethereum decompiler  
+Ethereum decompiler  
 [https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
 3.68 stars per week over 167 weeks  
 617 stars, 163 forks, 33 watches  
@@ -9514,7 +9544,7 @@ ffn - a financial function library for Python
 
 
 ### [pycoingecko](https://github.com/man-c/pycoingecko) by [man-c](https://github.com/man-c)  
-pycoingecko: Python wrapper for the CoinGecko API  
+Python wrapper for the CoinGecko API  
 [https://github.com/man-c/pycoingecko](https://github.com/man-c/pycoingecko)  
 3.97 stars per week over 245 weeks  
 975 stars, 259 forks, 33 watches  
@@ -9531,7 +9561,7 @@ eleutherai/the-pile
 
 
 ### [pyshp](https://github.com/geospatialpython/pyshp) by [geospatialpython](https://github.com/geospatialpython)  
-pyshp: This library reads and writes ESRI Shapefiles in pure Python.  
+This library reads and writes ESRI Shapefiles in pure Python.  
 [https://github.com/geospatialpython/pyshp](https://github.com/geospatialpython/pyshp)  
 2.13 stars per week over 478 weeks  
 1,021 stars, 258 forks, 64 watches  
@@ -9539,7 +9569,7 @@ pyshp: This library reads and writes ESRI Shapefiles in pure Python.
 
 
 ### [Wikipedia](https://github.com/goldsmith/wikipedia) by [goldsmith](https://github.com/goldsmith)  
-Wikipedia: A Pythonic wrapper for the Wikipedia API  
+A Pythonic wrapper for the Wikipedia API  
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 [https://github.com/goldsmith/wikipedia](https://github.com/goldsmith/wikipedia)  
 5.16 stars per week over 506 weeks  
@@ -9548,7 +9578,7 @@ Wikipedia: A Pythonic wrapper for the Wikipedia API
 
 
 ### [hstream](https://github.com/conradbez/hstream) by [conradbez](https://github.com/conradbez)  
-hstream: Hyper Stream  
+Hyper Stream  
 [https://github.com/conradbez/hstream](https://github.com/conradbez/hstream)  
 10 stars per week over 26 weeks  
 270 stars, 11 forks, 6 watches  
@@ -9556,7 +9586,7 @@ hstream: Hyper Stream
 
 
 ### [ydata-quality](https://github.com/ydataai/ydata-quality) by [ydataai](https://github.com/ydataai)  
-ydata-quality: Data Quality assessment with one line of code  
+Data Quality assessment with one line of code  
 [https://github.com/ydataai/ydata-quality](https://github.com/ydataai/ydata-quality)  
 3.71 stars per week over 97 weeks  
 361 stars, 45 forks, 6 watches  
@@ -9565,7 +9595,7 @@ ydata-quality: Data Quality assessment with one line of code
 
 
 ### [cgal-swig-bindings](https://github.com/cgal/cgal-swig-bindings) by [cgal](https://github.com/cgal)  
-cgal-swig-bindings: CGAL bindings using SWIG  
+CGAL bindings using SWIG  
 [https://github.com/cgal/cgal-swig-bindings](https://github.com/cgal/cgal-swig-bindings)  
 0.64 stars per week over 425 weeks  
 274 stars, 83 forks, 27 watches  
@@ -9573,7 +9603,7 @@ cgal-swig-bindings: CGAL bindings using SWIG
 
 
 ### [pyroad](https://github.com/amaargiru/pyroad) by [amaargiru](https://github.com/amaargiru)  
-pyroad: Detailed Python developer roadmap  
+Detailed Python developer roadmap  
 [https://github.com/amaargiru/pyroad](https://github.com/amaargiru/pyroad)  
 10 stars per week over 26 weeks  
 271 stars, 33 forks, 8 watches  
@@ -9592,7 +9622,7 @@ scikit-mobility: mobility analysis in Python
 
 
 ### [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) by [rsheftel](https://github.com/rsheftel)  
-pandas_market_calendars: Exchange calendars to use with pandas for trading applications  
+Exchange calendars to use with pandas for trading applications  
 [https://github.com/rsheftel/pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars)  
 1.79 stars per week over 334 weeks  
 600 stars, 132 forks, 30 watches  
@@ -9601,7 +9631,7 @@ pandas_market_calendars: Exchange calendars to use with pandas for trading appli
 
 
 ### [chatterbot-corpus](https://github.com/gunthercox/chatterbot-corpus) by [gunthercox](https://github.com/gunthercox)  
-chatterbot-corpus: A multilingual dialog corpus  
+A multilingual dialog corpus  
 [http://chatterbot-corpus.readthedocs.io](http://chatterbot-corpus.readthedocs.io)  
 [https://github.com/gunthercox/chatterbot-corpus](https://github.com/gunthercox/chatterbot-corpus)  
 3.84 stars per week over 329 weeks  
@@ -9611,7 +9641,7 @@ chatterbot-corpus: A multilingual dialog corpus
 
 
 ### [pebble](https://github.com/noxdafox/pebble) by [noxdafox](https://github.com/noxdafox)  
-pebble: Multi threading and processing eye-candy.  
+Multi threading and processing eye-candy.  
 [https://github.com/noxdafox/pebble](https://github.com/noxdafox/pebble)  
 0.84 stars per week over 498 weeks  
 419 stars, 47 forks, 10 watches  
@@ -9620,7 +9650,7 @@ pebble: Multi threading and processing eye-candy.
 
 
 ### [osmnx-examples](https://github.com/gboeing/osmnx-examples) by [gboeing](https://github.com/gboeing)  
-osmnx-examples: Usage examples, demos, and tutorials for OSMnx.  
+Usage examples, demos, and tutorials for OSMnx.  
 [https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)  
 [https://github.com/gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples)  
 4.16 stars per week over 302 weeks  
@@ -9630,7 +9660,7 @@ osmnx-examples: Usage examples, demos, and tutorials for OSMnx.
 
 
 ### [traceml](https://github.com/polyaxon/datatile) by [polyaxon](https://github.com/polyaxon)  
-traceml: Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.  
+Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.  
 [https://github.com/polyaxon/datatile](https://github.com/polyaxon/datatile)  
 1.27 stars per week over 371 weeks  
 470 stars, 42 forks, 13 watches  
@@ -9639,7 +9669,7 @@ traceml: Engine for ML/Data tracking, visualization, explainability, drift detec
 
 
 ### [FGVC](https://github.com/vt-vl-lab/fgvc) by [vt-vl-lab](https://github.com/vt-vl-lab)  
-FGVC: [ECCV 2020] Flow-edge Guided Video Completion   
+[ECCV 2020] Flow-edge Guided Video Completion   
 [https://github.com/vt-vl-lab/fgvc](https://github.com/vt-vl-lab/fgvc)  
 10 stars per week over 138 weeks  
 1,499 stars, 248 forks, 69 watches  
@@ -9647,7 +9677,7 @@ FGVC: [ECCV 2020] Flow-edge Guided Video Completion
 
 
 ### [colander](https://github.com/pylons/colander) by [pylons](https://github.com/pylons)  
-colander: A serialization/deserialization/validation library for strings, mappings and lists.  
+A serialization/deserialization/validation library for strings, mappings and lists.  
 [https://docs.pylonsproject.org/projects/colander/en/latest/](https://docs.pylonsproject.org/projects/colander/en/latest/)  
 [https://github.com/pylons/colander](https://github.com/pylons/colander)  
 0.68 stars per week over 637 weeks  
@@ -9657,7 +9687,7 @@ colander: A serialization/deserialization/validation library for strings, mappin
 
 
 ### [File-Injector](https://github.com/carlospuenteg/file-injector) by [carlospuenteg](https://github.com/carlospuenteg)  
-File-Injector: File Injector is a script that allows you to store any file in an image using steganography  
+File Injector is a script that allows you to store any file in an image using steganography  
 [https://github.com/carlospuenteg/file-injector](https://github.com/carlospuenteg/file-injector)  
 14 stars per week over 28 weeks  
 401 stars, 20 forks, 7 watches  
@@ -9666,7 +9696,7 @@ File-Injector: File Injector is a script that allows you to store any file in an
 
 
 ### [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) by [sharonzhou](https://github.com/sharonzhou)  
-long_stable_diffusion: Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)  
+Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)  
 [https://github.com/sharonzhou/long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)  
 18 stars per week over 35 weeks  
 645 stars, 51 forks, 14 watches  
@@ -9674,7 +9704,7 @@ long_stable_diffusion: Long-form text-to-images generation, using a pipeline of 
 
 
 ### [lovely-numpy](https://github.com/xl0/lovely-numpy) by [xl0](https://github.com/xl0)  
-lovely-numpy: NumPy arrays, ready for human consumption  
+NumPy arrays, ready for human consumption  
 [https://xl0.github.io/lovely-numpy](https://xl0.github.io/lovely-numpy)  
 [https://github.com/xl0/lovely-numpy](https://github.com/xl0/lovely-numpy)  
 2.13 stars per week over 24 weeks  
@@ -9684,7 +9714,7 @@ lovely-numpy: NumPy arrays, ready for human consumption
 
 
 ### [AutoProfiler](https://github.com/cmudig/autoprofiler) by [cmudig](https://github.com/cmudig)  
-AutoProfiler: Automatically profile dataframes in the Jupyter sidebar  
+Automatically profile dataframes in the Jupyter sidebar  
 [https://github.com/cmudig/autoprofiler](https://github.com/cmudig/autoprofiler)  
 3.7 stars per week over 58 weeks  
 216 stars, 7 forks, 5 watches  
@@ -9693,7 +9723,7 @@ AutoProfiler: Automatically profile dataframes in the Jupyter sidebar
 
 
 ### [openfisca-core](https://github.com/openfisca/openfisca-core) by [openfisca](https://github.com/openfisca)  
-openfisca-core: OpenFisca core engine. See other repositories for countries-specific code & data.  
+OpenFisca core engine. See other repositories for countries-specific code & data.  
 [https://openfisca.org](https://openfisca.org)  
 [https://github.com/openfisca/openfisca-core](https://github.com/openfisca/openfisca-core)  
 0.3 stars per week over 488 weeks  
@@ -9703,7 +9733,7 @@ openfisca-core: OpenFisca core engine. See other repositories for countries-spec
 
 
 ### [data-link-python](https://github.com/nasdaq/data-link-python) by [nasdaq](https://github.com/nasdaq)  
-data-link-python: A Python library for Nasdaq Data Link's RESTful API  
+A Python library for Nasdaq Data Link's RESTful API  
 [https://github.com/nasdaq/data-link-python](https://github.com/nasdaq/data-link-python)  
 3.04 stars per week over 78 weeks  
 239 stars, 50 forks, 9 watches  
@@ -9728,7 +9758,7 @@ PyStan, a Python interface to Stan, a platform for statistical modeling. Documen
 
 
 ### [tiny-diffusion](https://github.com/tanelp/tiny-diffusion) by [tanelp](https://github.com/tanelp)  
-tiny-diffusion: A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.  
+A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.  
 [https://github.com/tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion)  
 23 stars per week over 16 weeks  
 385 stars, 31 forks, 8 watches  
@@ -9745,7 +9775,7 @@ Rtree: spatial index for Python GIS ¶
 
 
 ### [pympler](https://github.com/pympler/pympler)  
-pympler: Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.  
+Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.  
 [https://github.com/pympler/pympler](https://github.com/pympler/pympler)  
 1.88 stars per week over 552 weeks  
 1,039 stars, 85 forks, 10 watches  
@@ -9761,7 +9791,7 @@ pytz Python historical timezone library and database
 
 
 ### [perfplot](https://github.com/nschloe/perfplot) by [nschloe](https://github.com/nschloe)  
-perfplot: :chart_with_upwards_trend: Performance analysis for Python snippets  
+:chart_with_upwards_trend: Performance analysis for Python snippets  
 [https://github.com/nschloe/perfplot](https://github.com/nschloe/perfplot)  
 3.56 stars per week over 323 weeks  
 1,154 stars, 61 forks, 18 watches  
@@ -9770,7 +9800,7 @@ perfplot: :chart_with_upwards_trend: Performance analysis for Python snippets
 
 
 ### [testbook](https://github.com/nteract/testbook) by [nteract](https://github.com/nteract)  
-testbook: 🧪 📗  Unit test your Jupyter Notebooks the right way  
+🧪 📗  Unit test your Jupyter Notebooks the right way  
 [https://testbook.readthedocs.io](https://testbook.readthedocs.io)  
 [https://github.com/nteract/testbook](https://github.com/nteract/testbook)  
 2.15 stars per week over 166 weeks  
@@ -9788,7 +9818,7 @@ jellezijlstra/autotyping
 
 
 ### [aws-adfs](https://github.com/venth/aws-adfs) by [venth](https://github.com/venth)  
-aws-adfs: Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)  
+Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)  
 [https://github.com/venth/aws-adfs](https://github.com/venth/aws-adfs)  
 0.78 stars per week over 358 weeks  
 279 stars, 93 forks, 11 watches  
@@ -9797,7 +9827,7 @@ aws-adfs: Command line tool to ease aws cli authentication against ADFS (multi f
 
 
 ### [GraphGPS](https://github.com/rampasek/graphgps) by [rampasek](https://github.com/rampasek)  
-GraphGPS: Recipe for a General, Powerful, Scalable Graph Transformer  
+Recipe for a General, Powerful, Scalable Graph Transformer  
 [https://github.com/rampasek/graphgps](https://github.com/rampasek/graphgps)  
 7.36 stars per week over 49 weeks  
 366 stars, 51 forks, 10 watches  
@@ -9806,7 +9836,7 @@ GraphGPS: Recipe for a General, Powerful, Scalable Graph Transformer
 
 
 ### [yappi](https://github.com/sumerc/yappi) by [sumerc](https://github.com/sumerc)  
-yappi: Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.  
+Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.  
 [https://github.com/sumerc/yappi](https://github.com/sumerc/yappi)  
 1.58 stars per week over 708 weeks  
 1,123 stars, 61 forks, 13 watches  
@@ -9815,7 +9845,7 @@ yappi: Yet Another Python Profiler, but this time multithreading, asyncio and ge
 
 
 ### [nbval](https://github.com/computationalmodelling/nbval) by [computationalmodelling](https://github.com/computationalmodelling)  
-nbval: A py.test plugin to validate Jupyter notebooks  
+A py.test plugin to validate Jupyter notebooks  
 [https://github.com/computationalmodelling/nbval](https://github.com/computationalmodelling/nbval)  
 0.95 stars per week over 421 weeks  
 401 stars, 51 forks, 9 watches  
@@ -9824,7 +9854,7 @@ nbval: A py.test plugin to validate Jupyter notebooks
 
 
 ### [eth-utils](https://github.com/ethereum/eth-utils) by [ethereum](https://github.com/ethereum)  
-eth-utils: Utility functions for working with ethereum related codebases.  
+Utility functions for working with ethereum related codebases.  
 [https://eth-utils.readthedocs.io/en/latest/](https://eth-utils.readthedocs.io/en/latest/)  
 [https://github.com/ethereum/eth-utils](https://github.com/ethereum/eth-utils)  
 0.84 stars per week over 325 weeks  
@@ -9834,7 +9864,7 @@ eth-utils: Utility functions for working with ethereum related codebases.
 
 
 ### [textstat](https://github.com/shivam5992/textstat) by [shivam5992](https://github.com/shivam5992)  
-textstat: :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.  
+:memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.  
 [https://textstat.org](https://textstat.org)  
 [https://github.com/shivam5992/textstat](https://github.com/shivam5992/textstat)  
 2.03 stars per week over 463 weeks  
@@ -9844,7 +9874,7 @@ textstat: :memo: python package to calculate readability statistics of a text ob
 
 
 ### [reclist](https://github.com/jacopotagliabue/reclist) by [jacopotagliabue](https://github.com/jacopotagliabue)  
-reclist: Behavioral "black-box" testing for recommender systems  
+Behavioral "black-box" testing for recommender systems  
 [https://github.com/jacopotagliabue/reclist](https://github.com/jacopotagliabue/reclist)  
 5.15 stars per week over 77 weeks  
 401 stars, 21 forks, 9 watches  
@@ -9853,7 +9883,7 @@ reclist: Behavioral "black-box" testing for recommender systems
 
 
 ### [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) by [openai](https://github.com/openai)  
-gpt-2-output-dataset: Dataset of GPT-2 outputs for research in detection, biases, and more  
+Dataset of GPT-2 outputs for research in detection, biases, and more  
 [https://github.com/openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)  
 8.08 stars per week over 209 weeks  
 1,690 stars, 491 forks, 71 watches  
@@ -9861,7 +9891,7 @@ gpt-2-output-dataset: Dataset of GPT-2 outputs for research in detection, biases
 
 
 ### [ion-python](https://github.com/amzn/ion-python) by [amzn](https://github.com/amzn)  
-ion-python: A Python implementation of Amazon Ion.  
+A Python implementation of Amazon Ion.  
 [https://amazon-ion.github.io/ion-docs/](https://amazon-ion.github.io/ion-docs/)  
 [https://github.com/amzn/ion-python](https://github.com/amzn/ion-python)  
 0.61 stars per week over 369 weeks  
@@ -9870,7 +9900,7 @@ ion-python: A Python implementation of Amazon Ion.
 
 
 ### [nest_asyncio](https://github.com/erdewit/nest_asyncio) by [erdewit](https://github.com/erdewit)  
-nest_asyncio: Patch asyncio to allow nested event loops  
+Patch asyncio to allow nested event loops  
 [https://github.com/erdewit/nest_asyncio](https://github.com/erdewit/nest_asyncio)  
 2.07 stars per week over 243 weeks  
 503 stars, 44 forks, 16 watches  
@@ -9879,7 +9909,7 @@ nest_asyncio: Patch asyncio to allow nested event loops
 
 
 ### [findatapy](https://github.com/cuemacro/findatapy) by [cuemacro](https://github.com/cuemacro)  
-findatapy: Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.  
+Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.  
 [https://github.com/cuemacro/findatapy](https://github.com/cuemacro/findatapy)  
 3.77 stars per week over 352 weeks  
 1,328 stars, 185 forks, 91 watches  
@@ -9888,7 +9918,7 @@ findatapy: Python library to download market data via Bloomberg, Eikon, Quandl, 
 
 
 ### [NeuroNER](https://github.com/franck-dernoncourt/neuroner) by [franck-dernoncourt](https://github.com/franck-dernoncourt)  
-NeuroNER: Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.  
+Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.  
 [http://neuroner.com](http://neuroner.com)  
 [https://github.com/franck-dernoncourt/neuroner](https://github.com/franck-dernoncourt/neuroner)  
 5.14 stars per week over 321 weeks  
@@ -9898,7 +9928,7 @@ NeuroNER: Named-entity recognition using neural networks. Easy-to-use and state-
 
 
 ### [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) by [sciunto-org](https://github.com/sciunto-org)  
-python-bibtexparser: Bibtex parser for Python 3  
+Bibtex parser for Python 3  
 [https://bibtexparser.readthedocs.io](https://bibtexparser.readthedocs.io)  
 [https://github.com/sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser)  
 0.65 stars per week over 539 weeks  
@@ -9908,7 +9938,7 @@ python-bibtexparser: Bibtex parser for Python 3
 
 
 ### [example-code-2e](https://github.com/fluentpython/example-code-2e) by [fluentpython](https://github.com/fluentpython)  
-example-code-2e: Example code for Fluent Python, 2nd edition (O'Reilly 2022)   
+Example code for Fluent Python, 2nd edition (O'Reilly 2022)   
 [https://amzn.to/3J48u2J](https://amzn.to/3J48u2J)  
 [https://github.com/fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e)  
 8.96 stars per week over 215 weeks  
@@ -9918,7 +9948,7 @@ example-code-2e: Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 
 
 ### [arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity)  
-arxiv-vanity: Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.  
+Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.  
 [https://www.arxiv-vanity.com](https://www.arxiv-vanity.com)  
 [https://github.com/arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity)  
 4.81 stars per week over 299 weeks  
@@ -9928,7 +9958,7 @@ arxiv-vanity: Renders papers from arXiv as responsive web pages so you don't hav
 
 
 ### [research_public](https://github.com/quantopian/research_public) by [quantopian](https://github.com/quantopian)  
-research_public: Quantitative research and educational materials  
+Quantitative research and educational materials  
 [https://www.quantopian.com/lectures](https://www.quantopian.com/lectures)  
 [https://github.com/quantopian/research_public](https://github.com/quantopian/research_public)  
 4.95 stars per week over 427 weeks  
@@ -9937,7 +9967,7 @@ research_public: Quantitative research and educational materials
 
 
 ### [ai-economist](https://github.com/salesforce/ai-economist) by [salesforce](https://github.com/salesforce)  
-ai-economist: Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
+Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 [https://github.com/salesforce/ai-economist](https://github.com/salesforce/ai-economist)  
 6.7 stars per week over 148 weeks  
@@ -9947,7 +9977,7 @@ ai-economist: Foundation is a flexible, modular, and composable framework to mod
 
 
 ### [transition-amr-parser](https://github.com/ibm/transition-amr-parser) by [ibm](https://github.com/ibm)  
-transition-amr-parser: SoTA Abstract Meaning Representation (AMR) parsing with word-node alignments in Pytorch. Includes checkpoints and other tools such as statistical significance Smatch.  
+SoTA Abstract Meaning Representation (AMR) parsing with word-node alignments in Pytorch. Includes checkpoints and other tools such as statistical significance Smatch.  
 [https://github.com/ibm/transition-amr-parser](https://github.com/ibm/transition-amr-parser)  
 1.0 stars per week over 186 weeks  
 187 stars, 42 forks, 10 watches  
@@ -9956,7 +9986,7 @@ transition-amr-parser: SoTA Abstract Meaning Representation (AMR) parsing with w
 
 
 ### [webob](https://github.com/pylons/webob) by [pylons](https://github.com/pylons)  
-webob: WSGI request and response objects  
+WSGI request and response objects  
 [https://webob.org/](https://webob.org/)  
 [https://github.com/pylons/webob](https://github.com/pylons/webob)  
 0.7 stars per week over 607 weeks  
@@ -9965,7 +9995,7 @@ webob: WSGI request and response objects
 
 
 ### [segno](https://github.com/heuer/segno) by [heuer](https://github.com/heuer)  
-segno: Python QR Code and Micro QR Code encoder  
+Python QR Code and Micro QR Code encoder  
 [https://pypi.org/project/segno/](https://pypi.org/project/segno/)  
 [https://github.com/heuer/segno](https://github.com/heuer/segno)  
 1.15 stars per week over 352 weeks  
@@ -9975,7 +10005,7 @@ segno: Python QR Code and Micro QR Code encoder
 
 
 ### [google-search-results-python](https://github.com/serpapi/google-search-results-python) by [serpapi](https://github.com/serpapi)  
-google-search-results-python: Google Search Results via SERP API pip Python Package  
+Google Search Results via SERP API pip Python Package  
 [https://github.com/serpapi/google-search-results-python](https://github.com/serpapi/google-search-results-python)  
 1.19 stars per week over 277 weeks  
 329 stars, 77 forks, 11 watches  
@@ -9984,7 +10014,7 @@ google-search-results-python: Google Search Results via SERP API pip Python Pack
 
 
 ### [contextily](https://github.com/geopandas/contextily) by [geopandas](https://github.com/geopandas)  
-contextily: Context geo-tiles in Python  
+Context geo-tiles in Python  
 [https://contextily.readthedocs.io/en/latest/](https://contextily.readthedocs.io/en/latest/)  
 [https://github.com/geopandas/contextily](https://github.com/geopandas/contextily)  
 1.17 stars per week over 347 weeks  
@@ -9994,7 +10024,7 @@ contextily: Context geo-tiles in Python
 
 
 ### [birdseye](https://github.com/alexmojaki/birdseye) by [alexmojaki](https://github.com/alexmojaki)  
-birdseye: Graphical Python debugger which lets you easily view the values of all evaluated expressions  
+Graphical Python debugger which lets you easily view the values of all evaluated expressions  
 [https://birdseye.readthedocs.io](https://birdseye.readthedocs.io)  
 [https://github.com/alexmojaki/birdseye](https://github.com/alexmojaki/birdseye)  
 5.12 stars per week over 302 weeks  
@@ -10004,7 +10034,7 @@ birdseye: Graphical Python debugger which lets you easily view the values of all
 
 
 ### [cacheout](https://github.com/dgilland/cacheout) by [dgilland](https://github.com/dgilland)  
-cacheout: A caching library for Python  
+A caching library for Python  
 [https://cacheout.readthedocs.io](https://cacheout.readthedocs.io)  
 [https://github.com/dgilland/cacheout](https://github.com/dgilland/cacheout)  
 1.28 stars per week over 277 weeks  
@@ -10014,17 +10044,17 @@ cacheout: A caching library for Python
 
 
 ### [pypistats](https://github.com/hugovk/pypistats) by [hugovk](https://github.com/hugovk)  
-pypistats: Command-line interface to PyPI Stats API to get download stats for Python packages  
+Command-line interface to PyPI Stats API to get download stats for Python packages  
 [https://pypistats.org/api/](https://pypistats.org/api/)  
 [https://github.com/hugovk/pypistats](https://github.com/hugovk/pypistats)  
 0.63 stars per week over 241 weeks  
 152 stars, 27 forks, 4 watches  
 [util](categories/util.md) category, created 2018-09-22, last commit 2023-05-01, main language Python  
-<sub><sup>api, cli, command-line, command-line-tool, downloads, hacktoberfest, pypi, statistics, stats</sup></sub>
+<sub><sup>api, cli, command-line, command-line-tool, downloads, hacktoberfest, statistics, stats</sup></sub>
 
 
 ### [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) by [borisbanushev](https://github.com/borisbanushev)  
-stockpredictionai:        In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.  
+       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.  
 [https://github.com/borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai)  
 16 stars per week over 225 weeks  
 3,655 stars, 1,598 forks, 264 watches  
@@ -10032,7 +10062,7 @@ stockpredictionai:        In this noteboook I will create a complete process for
 
 
 ### [FastTreeSHAP](https://github.com/linkedin/fasttreeshap) by [linkedin](https://github.com/linkedin)  
-FastTreeSHAP: Fast SHAP value computation for interpreting tree-based models  
+Fast SHAP value computation for interpreting tree-based models  
 [https://github.com/linkedin/fasttreeshap](https://github.com/linkedin/fasttreeshap)  
 6.37 stars per week over 66 weeks  
 426 stars, 25 forks, 8 watches  
@@ -10041,7 +10071,7 @@ FastTreeSHAP: Fast SHAP value computation for interpreting tree-based models
 
 
 ### [asyncpraw](https://github.com/praw-dev/asyncpraw) by [praw-dev](https://github.com/praw-dev)  
-asyncpraw: Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.  
+Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.  
 [https://asyncpraw.readthedocs.io](https://asyncpraw.readthedocs.io)  
 [https://github.com/praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)  
 0.38 stars per week over 221 weeks  
@@ -10051,7 +10081,7 @@ asyncpraw: Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapp
 
 
 ### [lexpredict-lexnlp](https://github.com/lexpredict/lexpredict-lexnlp) by [lexpredict](https://github.com/lexpredict)  
-lexpredict-lexnlp: LexNLP by LexPredict  
+LexNLP by LexPredict  
 [https://github.com/lexpredict/lexpredict-lexnlp](https://github.com/lexpredict/lexpredict-lexnlp)  
 2.06 stars per week over 292 weeks  
 602 stars, 160 forks, 51 watches  
@@ -10060,7 +10090,7 @@ lexpredict-lexnlp: LexNLP by LexPredict
 
 
 ### [hh-rlhf](https://github.com/anthropics/hh-rlhf) by [anthropics](https://github.com/anthropics)  
-hh-rlhf: Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"  
+Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"  
 [https://arxiv.org/abs/2204.05862](https://arxiv.org/abs/2204.05862)  
 [https://github.com/anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf)  
 14 stars per week over 56 weeks  
@@ -10069,7 +10099,7 @@ hh-rlhf: Human preference data for "Training a Helpful and Harmless Assistant wi
 
 
 ### [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
-metric-learn: Metric learning algorithms in Python  
+Metric learning algorithms in Python  
 [http://contrib.scikit-learn.org/metric-learn/](http://contrib.scikit-learn.org/metric-learn/)  
 [https://github.com/scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn)  
 2.67 stars per week over 496 weeks  
@@ -10079,7 +10109,7 @@ metric-learn: Metric learning algorithms in Python
 
 
 ### [xyzservices](https://github.com/geopandas/xyzservices) by [geopandas](https://github.com/geopandas)  
-xyzservices: Source of XYZ tiles providers  
+Source of XYZ tiles providers  
 [https://xyzservices.readthedocs.io/](https://xyzservices.readthedocs.io/)  
 [https://github.com/geopandas/xyzservices](https://github.com/geopandas/xyzservices)  
 0.91 stars per week over 102 weeks  
@@ -10088,7 +10118,7 @@ xyzservices: Source of XYZ tiles providers
 
 
 ### [auton-survival](https://github.com/autonlab/auton-survival) by [autonlab](https://github.com/autonlab)  
-auton-survival: Auton Survival -  an open source package for Regression, Counterfactual Estimation, Evaluation and Phenotyping with Censored Time-to-Events   
+Auton Survival -  an open source package for Regression, Counterfactual Estimation, Evaluation and Phenotyping with Censored Time-to-Events   
 [http://autonlab.github.io/auton-survival](http://autonlab.github.io/auton-survival)  
 [https://github.com/autonlab/auton-survival](https://github.com/autonlab/auton-survival)  
 1.46 stars per week over 161 weeks  
@@ -10108,7 +10138,7 @@ bamboolib - a GUI for pandas DataFrames
 
 
 ### [tfcausalimpact](https://github.com/willianfuks/tfcausalimpact) by [willianfuks](https://github.com/willianfuks)  
-tfcausalimpact: Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
+Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
 2.93 stars per week over 141 weeks  
 415 stars, 53 forks, 10 watches  
@@ -10127,7 +10157,7 @@ Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
 
 
 ### [t-zero](https://github.com/bigscience-workshop/t-zero) by [bigscience-workshop](https://github.com/bigscience-workshop)  
-t-zero: Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
+Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
 [https://github.com/bigscience-workshop/t-zero](https://github.com/bigscience-workshop/t-zero)  
 5.19 stars per week over 72 weeks  
 378 stars, 52 forks, 23 watches  
@@ -10144,7 +10174,7 @@ Enlighten Progress Bar for Python Console Apps
 
 
 ### [pymdp](https://github.com/infer-actively/pymdp) by [infer-actively](https://github.com/infer-actively)  
-pymdp: A Python implementation of active inference for Markov Decision Processes  
+A Python implementation of active inference for Markov Decision Processes  
 [https://github.com/infer-actively/pymdp](https://github.com/infer-actively/pymdp)  
 1.41 stars per week over 179 weeks  
 253 stars, 45 forks, 24 watches  
@@ -10162,7 +10192,7 @@ Bitcoin made easy.
 
 
 ### [py-frameworks-bench](https://github.com/klen/py-frameworks-bench) by [klen](https://github.com/klen)  
-py-frameworks-bench: Another benchmark for some python frameworks  
+Another benchmark for some python frameworks  
 [https://klen.github.io/py-frameworks-bench/](https://klen.github.io/py-frameworks-bench/)  
 [https://github.com/klen/py-frameworks-bench](https://github.com/klen/py-frameworks-bench)  
 1.64 stars per week over 418 weeks  
@@ -10172,7 +10202,7 @@ py-frameworks-bench: Another benchmark for some python frameworks
 
 
 ### [httptools](https://github.com/magicstack/httptools) by [magicstack](https://github.com/magicstack)  
-httptools: Fast HTTP parser  
+Fast HTTP parser  
 [https://github.com/magicstack/httptools](https://github.com/magicstack/httptools)  
 3.01 stars per week over 366 weeks  
 1,103 stars, 75 forks, 40 watches  
@@ -10180,7 +10210,7 @@ httptools: Fast HTTP parser
 
 
 ### [geosnap](https://github.com/spatialucr/geosnap) by [spatialucr](https://github.com/spatialucr)  
-geosnap: The Geospatial Neighborhood Analysis Package  
+The Geospatial Neighborhood Analysis Package  
 [https://oturns.github.io/geosnap/](https://oturns.github.io/geosnap/)  
 [https://github.com/spatialucr/geosnap](https://github.com/spatialucr/geosnap)  
 0.77 stars per week over 241 weeks  
@@ -10190,7 +10220,7 @@ geosnap: The Geospatial Neighborhood Analysis Package
 
 
 ### [rq-vae-transformer](https://github.com/kakaobrain/rq-vae-transformer) by [kakaobrain](https://github.com/kakaobrain)  
-rq-vae-transformer: The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)  
+The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)  
 [https://github.com/kakaobrain/rq-vae-transformer](https://github.com/kakaobrain/rq-vae-transformer)  
 9.13 stars per week over 61 weeks  
 561 stars, 63 forks, 15 watches  
@@ -10198,7 +10228,7 @@ rq-vae-transformer: The official implementation of Autoregressive Image Generati
 
 
 ### [cytoolz](https://github.com/pytoolz/cytoolz) by [pytoolz](https://github.com/pytoolz)  
-cytoolz: Cython implementation of Toolz: High performance functional utilities  
+Cython implementation of Toolz: High performance functional utilities  
 [https://github.com/pytoolz/cytoolz](https://github.com/pytoolz/cytoolz)  
 1.93 stars per week over 474 weeks  
 917 stars, 66 forks, 27 watches  
@@ -10206,7 +10236,7 @@ cytoolz: Cython implementation of Toolz: High performance functional utilities
 
 
 ### [kale](https://github.com/kubeflow-kale/kale) by [kubeflow-kale](https://github.com/kubeflow-kale)  
-kale: Kubeflow’s superfood for Data Scientists  
+Kubeflow’s superfood for Data Scientists  
 [http://kubeflow-kale.github.io](http://kubeflow-kale.github.io)  
 [https://github.com/kubeflow-kale/kale](https://github.com/kubeflow-kale/kale)  
 2.68 stars per week over 223 weeks  
@@ -10224,7 +10254,7 @@ aws/aws-lambda-python-runtime-interface-client
 
 
 ### [binarytree](https://github.com/joowani/binarytree) by [joowani](https://github.com/joowani)  
-binarytree: Python Library for Studying Binary Trees  
+Python Library for Studying Binary Trees  
 [http://binarytree.readthedocs.io](http://binarytree.readthedocs.io)  
 [https://github.com/joowani/binarytree](https://github.com/joowani/binarytree)  
 5.15 stars per week over 345 weeks  
@@ -10234,7 +10264,7 @@ binarytree: Python Library for Studying Binary Trees
 
 
 ### [whatlies](https://github.com/koaning/whatlies) by [koaning](https://github.com/koaning)  
-whatlies: Toolkit to help understand "what lies" in word embeddings. Also benchmarking!   
+Toolkit to help understand "what lies" in word embeddings. Also benchmarking!   
 [https://koaning.github.io/whatlies/](https://koaning.github.io/whatlies/)  
 [https://github.com/koaning/whatlies](https://github.com/koaning/whatlies)  
 2.74 stars per week over 167 weeks  
@@ -10252,7 +10282,7 @@ steamship-core/python-client
 
 
 ### [lightning](https://github.com/scikit-learn-contrib/lightning) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
-lightning: Large-scale linear classification, regression and ranking in Python  
+Large-scale linear classification, regression and ranking in Python  
 [https://contrib.scikit-learn.org/lightning/](https://contrib.scikit-learn.org/lightning/)  
 [https://github.com/scikit-learn-contrib/lightning](https://github.com/scikit-learn-contrib/lightning)  
 2.8 stars per week over 590 weeks  
@@ -10262,7 +10292,7 @@ lightning: Large-scale linear classification, regression and ranking in Python
 
 
 ### [jake](https://github.com/sonatype-nexus-community/jake) by [sonatype-nexus-community](https://github.com/sonatype-nexus-community)  
-jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
+Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
 [https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
 0.45 stars per week over 186 weeks  
@@ -10272,7 +10302,7 @@ jake: Check your Python environments for vulnerable Open Source packages with OS
 
 
 ### [pyql](https://github.com/enthought/pyql) by [enthought](https://github.com/enthought)  
-pyql: Cython QuantLib wrappers  
+Cython QuantLib wrappers  
 [https://github.com/enthought/pyql](https://github.com/enthought/pyql)  
 1.36 stars per week over 582 weeks  
 791 stars, 180 forks, 107 watches  
@@ -10289,7 +10319,7 @@ stanford-crfm/ecosystem-graphs
 
 
 ### [pygeos](https://github.com/pygeos/pygeos)  
-pygeos: Wraps GEOS geometry functions in numpy ufuncs.  
+Wraps GEOS geometry functions in numpy ufuncs.  
 [https://pygeos.readthedocs.io](https://pygeos.readthedocs.io)  
 [https://github.com/pygeos/pygeos](https://github.com/pygeos/pygeos)  
 1.8 stars per week over 203 weeks  
@@ -10298,7 +10328,7 @@ pygeos: Wraps GEOS geometry functions in numpy ufuncs.
 
 
 ### [logzero](https://github.com/metachris/logzero) by [metachris](https://github.com/metachris)  
-logzero: Robust and effective logging for Python 2 and 3.  
+Robust and effective logging for Python 2 and 3.  
 [https://logzero.readthedocs.io](https://logzero.readthedocs.io)  
 [https://github.com/metachris/logzero](https://github.com/metachris/logzero)  
 3.34 stars per week over 307 weeks  
@@ -10308,7 +10338,7 @@ logzero: Robust and effective logging for Python 2 and 3.
 
 
 ### [pyflux](https://github.com/rjt1990/pyflux) by [rjt1990](https://github.com/rjt1990)  
-pyflux: Open source time series library for Python  
+Open source time series library for Python  
 [https://github.com/rjt1990/pyflux](https://github.com/rjt1990/pyflux)  
 5.39 stars per week over 376 weeks  
 2,029 stars, 236 forks, 69 watches  
@@ -10317,7 +10347,7 @@ pyflux: Open source time series library for Python
 
 
 ### [magnitude](https://github.com/plasticityai/magnitude) by [plasticityai](https://github.com/plasticityai)  
-magnitude: A fast, efficient universal vector embedding utility package.  
+A fast, efficient universal vector embedding utility package.  
 [https://github.com/plasticityai/magnitude](https://github.com/plasticityai/magnitude)  
 5.81 stars per week over 271 weeks  
 1,576 stars, 114 forks, 37 watches  
@@ -10326,7 +10356,7 @@ magnitude: A fast, efficient universal vector embedding utility package.
 
 
 ### [kedro-kubeflow](https://github.com/getindata/kedro-kubeflow) by [getindata](https://github.com/getindata)  
-kedro-kubeflow: Kedro Plugin to support running workflows on Kubeflow Pipelines  
+Kedro Plugin to support running workflows on Kubeflow Pipelines  
 [https://kedro-kubeflow.readthedocs.io](https://kedro-kubeflow.readthedocs.io)  
 [https://github.com/getindata/kedro-kubeflow](https://github.com/getindata/kedro-kubeflow)  
 0.31 stars per week over 124 weeks  
@@ -10336,7 +10366,7 @@ kedro-kubeflow: Kedro Plugin to support running workflows on Kubeflow Pipelines
 
 
 ### [PokerPy](https://github.com/glpcc/pokerpy) by [glpcc](https://github.com/glpcc)  
-PokerPy: Texas Hold'em Poker Probability Calculator in Python  
+Texas Hold'em Poker Probability Calculator in Python  
 [https://github.com/glpcc/pokerpy](https://github.com/glpcc/pokerpy)  
 2.05 stars per week over 21 weeks  
 43 stars, 4 forks, 1 watches  
@@ -10345,7 +10375,7 @@ PokerPy: Texas Hold'em Poker Probability Calculator in Python
 
 
 ### [example-scripts](https://github.com/numerai/example-scripts) by [numerai](https://github.com/numerai)  
-example-scripts: The official example scripts for the Numerai Data Science Tournament  
+The official example scripts for the Numerai Data Science Tournament  
 [https://numer.ai/](https://numer.ai/)  
 [https://github.com/numerai/example-scripts](https://github.com/numerai/example-scripts)  
 1.64 stars per week over 330 weeks  
@@ -10355,7 +10385,7 @@ example-scripts: The official example scripts for the Numerai Data Science Tourn
 
 
 ### [micropip](https://github.com/pyodide/micropip) by [pyodide](https://github.com/pyodide)  
-micropip: A lightweight Python package installer for Pyodide  
+A lightweight Python package installer for Pyodide  
 [https://micropip.pyodide.org](https://micropip.pyodide.org)  
 [https://github.com/pyodide/micropip](https://github.com/pyodide/micropip)  
 0.6 stars per week over 33 weeks  
@@ -10365,7 +10395,7 @@ micropip: A lightweight Python package installer for Pyodide
 
 
 ### [bodywork-core](https://github.com/bodywork-ml/bodywork-core) by [bodywork-ml](https://github.com/bodywork-ml)  
-bodywork-core: ML pipeline orchestration and model deployments on Kubernetes, made really easy.  
+ML pipeline orchestration and model deployments on Kubernetes, made really easy.  
 [https://bodywork.readthedocs.io/en/latest/](https://bodywork.readthedocs.io/en/latest/)  
 [https://github.com/bodywork-ml/bodywork-core](https://github.com/bodywork-ml/bodywork-core)  
 3.25 stars per week over 128 weeks  
@@ -10375,7 +10405,7 @@ bodywork-core: ML pipeline orchestration and model deployments on Kubernetes, ma
 
 
 ### [gds_env](https://github.com/darribas/gds_env) by [darribas](https://github.com/darribas)  
-gds_env: A containerised platform for Geographic Data Science  
+A containerised platform for Geographic Data Science  
 [https://darribas.org/gds_env](https://darribas.org/gds_env)  
 [https://github.com/darribas/gds_env](https://github.com/darribas/gds_env)  
 0.27 stars per week over 351 weeks  
@@ -10385,7 +10415,7 @@ gds_env: A containerised platform for Geographic Data Science
 
 
 ### [ppuda](https://github.com/facebookresearch/ppuda) by [facebookresearch](https://github.com/facebookresearch)  
-ppuda: Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)  
+Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)  
 [https://github.com/facebookresearch/ppuda](https://github.com/facebookresearch/ppuda)  
 5.84 stars per week over 80 weeks  
 470 stars, 60 forks, 19 watches  
@@ -10393,7 +10423,7 @@ ppuda: Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021
 
 
 ### [empyrical](https://github.com/quantopian/empyrical) by [quantopian](https://github.com/quantopian)  
-empyrical: Common financial risk and performance metrics. Used by zipline and pyfolio.  
+Common financial risk and performance metrics. Used by zipline and pyfolio.  
 [https://quantopian.github.io/empyrical](https://quantopian.github.io/empyrical)  
 [https://github.com/quantopian/empyrical](https://github.com/quantopian/empyrical)  
 2.83 stars per week over 372 weeks  
@@ -10402,7 +10432,7 @@ empyrical: Common financial risk and performance metrics. Used by zipline and py
 
 
 ### [fiber](https://github.com/uber/fiber) by [uber](https://github.com/uber)  
-fiber: Distributed Computing for AI Made Simple  
+Distributed Computing for AI Made Simple  
 [https://uber.github.io/fiber/](https://uber.github.io/fiber/)  
 [https://github.com/uber/fiber](https://github.com/uber/fiber)  
 5.85 stars per week over 173 weeks  
@@ -10412,7 +10442,7 @@ fiber: Distributed Computing for AI Made Simple
 
 
 ### [odin](https://github.com/python-odin/odin) by [python-odin](https://github.com/python-odin)  
-odin: Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python  
+Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python  
 [https://odin.readthedocs.org/en/latest/](https://odin.readthedocs.org/en/latest/)  
 [https://github.com/python-odin/odin](https://github.com/python-odin/odin)  
 0.06 stars per week over 506 weeks  
@@ -10422,7 +10452,7 @@ odin: Data-structure definition/validation/traversal, mapping and serialisation 
 
 
 ### [repository-scanner](https://github.com/abnamro/repository-scanner) by [abnamro](https://github.com/abnamro)  
-repository-scanner: Tool to detect secrets in source code management systems.  
+Tool to detect secrets in source code management systems.  
 [https://github.com/abnamro/repository-scanner](https://github.com/abnamro/repository-scanner)  
 2.27 stars per week over 34 weeks  
 78 stars, 5 forks, 6 watches  
@@ -10430,7 +10460,7 @@ repository-scanner: Tool to detect secrets in source code management systems.
 
 
 ### [pyminiaudio](https://github.com/irmen/pyminiaudio) by [irmen](https://github.com/irmen)  
-pyminiaudio: python interface to the miniaudio audio playback, recording, decoding and conversion library  
+python interface to the miniaudio audio playback, recording, decoding and conversion library  
 [https://github.com/irmen/pyminiaudio](https://github.com/irmen/pyminiaudio)  
 0.66 stars per week over 201 weeks  
 133 stars, 19 forks, 4 watches  
@@ -10438,7 +10468,7 @@ pyminiaudio: python interface to the miniaudio audio playback, recording, decodi
 
 
 ### [watermark](https://github.com/rasbt/watermark) by [rasbt](https://github.com/rasbt)  
-watermark: An IPython magic extension for printing date and time stamps, version numbers, and hardware information  
+An IPython magic extension for printing date and time stamps, version numbers, and hardware information  
 [https://github.com/rasbt/watermark](https://github.com/rasbt/watermark)  
 1.72 stars per week over 457 weeks  
 788 stars, 83 forks, 14 watches  
@@ -10447,7 +10477,7 @@ watermark: An IPython magic extension for printing date and time stamps, version
 
 
 ### [spherely](https://github.com/benbovy/spherely) by [benbovy](https://github.com/benbovy)  
-spherely: Manipulation and analysis of geometric objects on the sphere.  
+Manipulation and analysis of geometric objects on the sphere.  
 [https://spherely.readthedocs.io/](https://spherely.readthedocs.io/)  
 [https://github.com/benbovy/spherely](https://github.com/benbovy/spherely)  
 3.88 stars per week over 23 weeks  
@@ -10456,7 +10486,7 @@ spherely: Manipulation and analysis of geometric objects on the sphere.
 
 
 ### [fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template) by [janetech-inc](https://github.com/janetech-inc)  
-fast-api-admin-template:  A test driven micro-service template to build and deploy a fast-api service with admin feature.  
+ A test driven micro-service template to build and deploy a fast-api service with admin feature.  
 [https://github.com/janetech-inc/fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template)  
 8.81 stars per week over 11 weeks  
 102 stars, 10 forks, 4 watches  
@@ -10464,7 +10494,7 @@ fast-api-admin-template:  A test driven micro-service template to build and depl
 
 
 ### [vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark) by [qdrant](https://github.com/qdrant)  
-vector-db-benchmark: Framework for benchmarking vector search engines  
+Framework for benchmarking vector search engines  
 [https://qdrant.tech/benchmarks/](https://qdrant.tech/benchmarks/)  
 [https://github.com/qdrant/vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark)  
 1.62 stars per week over 42 weeks  
@@ -10474,7 +10504,7 @@ vector-db-benchmark: Framework for benchmarking vector search engines
 
 
 ### [mordecai](https://github.com/openeventdata/mordecai) by [openeventdata](https://github.com/openeventdata)  
-mordecai: Full text geoparsing as a Python library  
+Full text geoparsing as a Python library  
 [https://github.com/openeventdata/mordecai](https://github.com/openeventdata/mordecai)  
 1.96 stars per week over 358 weeks  
 704 stars, 97 forks, 36 watches  
@@ -10483,7 +10513,7 @@ mordecai: Full text geoparsing as a Python library
 
 
 ### [Styleformer](https://github.com/prithivirajdamodaran/styleformer) by [prithivirajdamodaran](https://github.com/prithivirajdamodaran)  
-Styleformer: A Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles like formal/casual, active/passive, and many more. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.  
+A Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles like formal/casual, active/passive, and many more. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.  
 [https://github.com/prithivirajdamodaran/styleformer](https://github.com/prithivirajdamodaran/styleformer)  
 4.5 stars per week over 99 weeks  
 446 stars, 60 forks, 18 watches  
@@ -10509,7 +10539,7 @@ openai/image-gpt
 
 
 ### [pysnyk](https://github.com/snyk-labs/pysnyk) by [snyk-labs](https://github.com/snyk-labs)  
-pysnyk: A Python client for the Snyk API.  
+A Python client for the Snyk API.  
 [https://snyk.docs.apiary.io/](https://snyk.docs.apiary.io/)  
 [https://github.com/snyk-labs/pysnyk](https://github.com/snyk-labs/pysnyk)  
 0.24 stars per week over 222 weeks  
@@ -10519,7 +10549,7 @@ pysnyk: A Python client for the Snyk API.
 
 
 ### [forestatrisk](https://github.com/ghislainv/forestatrisk) by [ghislainv](https://github.com/ghislainv)  
-forestatrisk: :package: :snake: Python package to model and forecast the risk of deforestation  
+:package: :snake: Python package to model and forecast the risk of deforestation  
 [https://ecology.ghislainv.fr/forestatrisk](https://ecology.ghislainv.fr/forestatrisk)  
 [https://github.com/ghislainv/forestatrisk](https://github.com/ghislainv/forestatrisk)  
 0.3 stars per week over 335 weeks  
@@ -10538,7 +10568,7 @@ quandl/quandl-python
 
 
 ### [bayesian-torch](https://github.com/intellabs/bayesian-torch) by [intellabs](https://github.com/intellabs)  
-bayesian-torch: A library for Bayesian neural network layers and uncertainty estimation in Deep Learning extending the core of PyTorch  
+A library for Bayesian neural network layers and uncertainty estimation in Deep Learning extending the core of PyTorch  
 [https://github.com/intellabs/bayesian-torch](https://github.com/intellabs/bayesian-torch)  
 2.23 stars per week over 124 weeks  
 277 stars, 44 forks, 15 watches  
@@ -10547,7 +10577,7 @@ bayesian-torch: A library for Bayesian neural network layers and uncertainty est
 
 
 ### [torch-points3d](https://github.com/nicolas-chaulet/torch-points3d) by [nicolas-chaulet](https://github.com/nicolas-chaulet)  
-torch-points3d: Pytorch framework for doing deep learning on point clouds.  
+Pytorch framework for doing deep learning on point clouds.  
 [https://torch-points3d.readthedocs.io/en/latest/](https://torch-points3d.readthedocs.io/en/latest/)  
 [https://github.com/nicolas-chaulet/torch-points3d](https://github.com/nicolas-chaulet/torch-points3d)  
 2.03 stars per week over 69 weeks  
@@ -10556,7 +10586,7 @@ torch-points3d: Pytorch framework for doing deep learning on point clouds.
 
 
 ### [m1-machine-learning-test](https://github.com/mrdbourke/m1-machine-learning-test) by [mrdbourke](https://github.com/mrdbourke)  
-m1-machine-learning-test: Code for testing various M1 Chip benchmarks with TensorFlow.  
+Code for testing various M1 Chip benchmarks with TensorFlow.  
 [https://github.com/mrdbourke/m1-machine-learning-test](https://github.com/mrdbourke/m1-machine-learning-test)  
 5.22 stars per week over 77 weeks  
 402 stars, 122 forks, 13 watches  
@@ -10565,7 +10595,7 @@ m1-machine-learning-test: Code for testing various M1 Chip benchmarks with Tenso
 
 
 ### [parquet-tools](https://github.com/ktrueda/parquet-tools) by [ktrueda](https://github.com/ktrueda)  
-parquet-tools: easy install parquet-tools  
+easy install parquet-tools  
 [https://github.com/ktrueda/parquet-tools](https://github.com/ktrueda/parquet-tools)  
 0.7 stars per week over 157 weeks  
 110 stars, 14 forks, 3 watches  
@@ -10574,7 +10604,7 @@ parquet-tools: easy install parquet-tools
 
 
 ### [faster-cpython](https://github.com/markshannon/faster-cpython) by [markshannon](https://github.com/markshannon)  
-faster-cpython: How to make CPython faster.  
+How to make CPython faster.  
 [https://github.com/markshannon/faster-cpython](https://github.com/markshannon/faster-cpython)  
 6.85 stars per week over 132 weeks  
 910 stars, 21 forks, 84 watches  
@@ -10590,7 +10620,7 @@ Unsynchronize asyncio
 
 
 ### [fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate) by [rawheel](https://github.com/rawheel)  
-fastapi-boilerplate: Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀   
+Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀   
 [https://github.com/rawheel/fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate)  
 6.62 stars per week over 18 weeks  
 123 stars, 10 forks, 1 watches  
@@ -10599,7 +10629,7 @@ fastapi-boilerplate: Dockerized FastAPI boiler plate similar to Django code stru
 
 
 ### [pySBD](https://github.com/nipunsadvilkar/pysbd) by [nipunsadvilkar](https://github.com/nipunsadvilkar)  
-pySBD: 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.  
+🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.  
 [https://github.com/nipunsadvilkar/pysbd](https://github.com/nipunsadvilkar/pysbd)  
 1.98 stars per week over 308 weeks  
 611 stars, 68 forks, 10 watches  
@@ -10608,7 +10638,7 @@ pySBD: 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based s
 
 
 ### [quantumcomputingbook](https://github.com/jackhidary/quantumcomputingbook) by [jackhidary](https://github.com/jackhidary)  
-quantumcomputingbook: Companion site for the textbook Quantum Computing: An Applied Approach  
+Companion site for the textbook Quantum Computing: An Applied Approach  
 [https://github.com/jackhidary/quantumcomputingbook](https://github.com/jackhidary/quantumcomputingbook)  
 2.98 stars per week over 218 weeks  
 651 stars, 190 forks, 55 watches  
@@ -10625,7 +10655,7 @@ googlecloudplatform/dataflow-geobeam
 
 
 ### [forbiddenfruit](https://github.com/clarete/forbiddenfruit) by [clarete](https://github.com/clarete)  
-forbiddenfruit: Patch built-in python objects  
+Patch built-in python objects  
 [https://clarete.li/forbiddenfruit/](https://clarete.li/forbiddenfruit/)  
 [https://github.com/clarete/forbiddenfruit](https://github.com/clarete/forbiddenfruit)  
 1.46 stars per week over 526 weeks  
@@ -10635,7 +10665,7 @@ forbiddenfruit: Patch built-in python objects
 
 
 ### [psaw](https://github.com/dmarx/psaw) by [dmarx](https://github.com/dmarx)  
-psaw: Python Pushshift.io API Wrapper (for comment/submission search)  
+Python Pushshift.io API Wrapper (for comment/submission search)  
 [https://github.com/dmarx/psaw](https://github.com/dmarx/psaw)  
 1.31 stars per week over 264 weeks  
 345 stars, 56 forks, 9 watches  
@@ -10643,7 +10673,7 @@ psaw: Python Pushshift.io API Wrapper (for comment/submission search)
 
 
 ### [fonduer](https://github.com/hazyresearch/fonduer) by [hazyresearch](https://github.com/hazyresearch)  
-fonduer: A knowledge base construction engine for richly formatted data  
+A knowledge base construction engine for richly formatted data  
 [https://fonduer.readthedocs.io/](https://fonduer.readthedocs.io/)  
 [https://github.com/hazyresearch/fonduer](https://github.com/hazyresearch/fonduer)  
 1.43 stars per week over 274 weeks  
@@ -10653,7 +10683,7 @@ fonduer: A knowledge base construction engine for richly formatted data
 
 
 ### [omniduct](https://github.com/airbnb/omniduct) by [airbnb](https://github.com/airbnb)  
-omniduct: A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).  
+A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).  
 [https://github.com/airbnb/omniduct](https://github.com/airbnb/omniduct)  
 0.76 stars per week over 323 weeks  
 247 stars, 50 forks, 30 watches  
@@ -10661,7 +10691,7 @@ omniduct: A toolkit providing a uniform interface for connecting to and extracti
 
 
 ### [radiant-mlhub](https://github.com/radiantearth/radiant-mlhub) by [radiantearth](https://github.com/radiantearth)  
-radiant-mlhub: A Python client for the Radiant MLHub API (https://mlhub.earth).  
+A Python client for the Radiant MLHub API (https://mlhub.earth).  
 [https://radiant-mlhub.readthedocs.io/](https://radiant-mlhub.readthedocs.io/)  
 [https://github.com/radiantearth/radiant-mlhub](https://github.com/radiantearth/radiant-mlhub)  
 0.37 stars per week over 133 weeks  
@@ -10679,7 +10709,7 @@ jaraco/wolframalpha
 
 
 ### [finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) by [openai](https://github.com/openai)  
-finetune-transformer-lm: Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
+Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
 [https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 [https://github.com/openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm)  
 7.14 stars per week over 255 weeks  
@@ -10689,7 +10719,7 @@ finetune-transformer-lm: Code and model for the paper "Improving Language Unders
 
 
 ### [geoplot](https://github.com/residentmario/geoplot) by [residentmario](https://github.com/residentmario)  
-geoplot: High-level geospatial data visualization library for Python.  
+High-level geospatial data visualization library for Python.  
 [https://residentmario.github.io/geoplot/index.html](https://residentmario.github.io/geoplot/index.html)  
 [https://github.com/residentmario/geoplot](https://github.com/residentmario/geoplot)  
 2.98 stars per week over 357 weeks  
@@ -10699,7 +10729,7 @@ geoplot: High-level geospatial data visualization library for Python.
 
 
 ### [pandas_flavor](https://github.com/zsailer/pandas_flavor) by [zsailer](https://github.com/zsailer)  
-pandas_flavor: The easy way to write your own flavor of Pandas  
+The easy way to write your own flavor of Pandas  
 [https://zsailer.github.io/software/pandas-flavor/](https://zsailer.github.io/software/pandas-flavor/)  
 [https://github.com/zsailer/pandas_flavor](https://github.com/zsailer/pandas_flavor)  
 0.99 stars per week over 275 weeks  
@@ -10709,7 +10739,7 @@ pandas_flavor: The easy way to write your own flavor of Pandas
 
 
 ### [fmpsdk](https://github.com/daxm/fmpsdk) by [daxm](https://github.com/daxm)  
-fmpsdk: SDK for Financial Modeling Prep's (FMP) API  
+SDK for Financial Modeling Prep's (FMP) API  
 [https://github.com/daxm/fmpsdk](https://github.com/daxm/fmpsdk)  
 0.81 stars per week over 126 weeks  
 102 stars, 38 forks, 9 watches  
@@ -10717,7 +10747,7 @@ fmpsdk: SDK for Financial Modeling Prep's (FMP) API
 
 
 ### [pygamelib](https://github.com/pygamelib/pygamelib)  
-pygamelib: A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.  
+A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.  
 [https://www.pygamelib.org](https://www.pygamelib.org)  
 [https://github.com/pygamelib/pygamelib](https://github.com/pygamelib/pygamelib)  
 0.22 stars per week over 216 weeks  
@@ -10727,7 +10757,7 @@ pygamelib: A (not so) small python library for console (as in terminal) game dev
 
 
 ### [pyfuncol](https://github.com/gondolav/pyfuncol) by [gondolav](https://github.com/gondolav)  
-pyfuncol: Functional collections extension functions for Python  
+Functional collections extension functions for Python  
 [https://pyfuncol.readthedocs.io/](https://pyfuncol.readthedocs.io/)  
 [https://github.com/gondolav/pyfuncol](https://github.com/gondolav/pyfuncol)  
 0.44 stars per week over 72 weeks  
@@ -10737,7 +10767,7 @@ pyfuncol: Functional collections extension functions for Python
 
 
 ### [label-maker](https://github.com/developmentseed/label-maker) by [developmentseed](https://github.com/developmentseed)  
-label-maker: Data Preparation for Satellite Machine Learning  
+Data Preparation for Satellite Machine Learning  
 [http://devseed.com/label-maker/](http://devseed.com/label-maker/)  
 [https://github.com/developmentseed/label-maker](https://github.com/developmentseed/label-maker)  
 1.6 stars per week over 277 weeks  
@@ -10747,7 +10777,7 @@ label-maker: Data Preparation for Satellite Machine Learning
 
 
 ### [trafficSimulator](https://github.com/bilhim/trafficsimulator) by [bilhim](https://github.com/bilhim)  
-trafficSimulator: A microscopic traffic simulation in Python  
+A microscopic traffic simulation in Python  
 [https://github.com/bilhim/trafficsimulator](https://github.com/bilhim/trafficsimulator)  
 2.69 stars per week over 87 weeks  
 234 stars, 92 forks, 15 watches  
@@ -10755,7 +10785,7 @@ trafficSimulator: A microscopic traffic simulation in Python
 
 
 ### [landsat-util](https://github.com/developmentseed/landsat-util) by [developmentseed](https://github.com/developmentseed)  
-landsat-util: A utility to search, download and process Landsat 8 satellite imagery  
+A utility to search, download and process Landsat 8 satellite imagery  
 [https://github.com/developmentseed/landsat-util](https://github.com/developmentseed/landsat-util)  
 1.5 stars per week over 457 weeks  
 684 stars, 154 forks, 128 watches  
@@ -10763,7 +10793,7 @@ landsat-util: A utility to search, download and process Landsat 8 satellite imag
 
 
 ### [jupyterlab_tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard) by [chaoleili](https://github.com/chaoleili)  
-jupyterlab_tensorboard: Tensorboard extension for jupyterlab.  
+Tensorboard extension for jupyterlab.  
 [https://github.com/chaoleili/jupyterlab_tensorboard](https://github.com/chaoleili/jupyterlab_tensorboard)  
 1.21 stars per week over 246 weeks  
 299 stars, 36 forks, 11 watches  
@@ -10772,7 +10802,7 @@ jupyterlab_tensorboard: Tensorboard extension for jupyterlab.
 
 
 ### [heartrate](https://github.com/alexmojaki/heartrate) by [alexmojaki](https://github.com/alexmojaki)  
-heartrate: Simple real time visualisation of the execution of a Python program.  
+Simple real time visualisation of the execution of a Python program.  
 [https://github.com/alexmojaki/heartrate](https://github.com/alexmojaki/heartrate)  
 7.71 stars per week over 210 weeks  
 1,624 stars, 123 forks, 34 watches  
@@ -10781,7 +10811,7 @@ heartrate: Simple real time visualisation of the execution of a Python program.
 
 
 ### [numerai-cli](https://github.com/numerai/numerai-cli) by [numerai](https://github.com/numerai)  
-numerai-cli: Fully automated submission workflow in the cloud for <$1/mo  
+Fully automated submission workflow in the cloud for <$1/mo  
 [https://github.com/numerai/numerai-cli](https://github.com/numerai/numerai-cli)  
 0.41 stars per week over 206 weeks  
 84 stars, 27 forks, 21 watches  
@@ -10797,7 +10827,7 @@ openai/grade-school-math
 
 
 ### [AI-Feynman](https://github.com/sj001/ai-feynman) by [sj001](https://github.com/sj001)  
-sj001/ai-feynman  
+sj001/AI-Feynman  
 [https://github.com/sj001/ai-feynman](https://github.com/sj001/ai-feynman)  
 3.05 stars per week over 165 weeks  
 504 stars, 151 forks, 24 watches  
@@ -10805,7 +10835,7 @@ sj001/ai-feynman
 
 
 ### [ged2dot](https://github.com/vmiklos/ged2dot) by [vmiklos](https://github.com/vmiklos)  
-ged2dot: GEDCOM to Graphviz converter  
+GEDCOM to Graphviz converter  
 [https://vmiklos.hu/ged2dot/](https://vmiklos.hu/ged2dot/)  
 [https://github.com/vmiklos/ged2dot](https://github.com/vmiklos/ged2dot)  
 0.18 stars per week over 496 weeks  
@@ -10815,7 +10845,7 @@ ged2dot: GEDCOM to Graphviz converter
 
 
 ### [fairing](https://github.com/kubeflow/fairing) by [kubeflow](https://github.com/kubeflow)  
-fairing: Python SDK for building, training, and deploying ML models  
+Python SDK for building, training, and deploying ML models  
 [https://github.com/kubeflow/fairing](https://github.com/kubeflow/fairing)  
 1.36 stars per week over 243 weeks  
 331 stars, 147 forks, 40 watches  
@@ -10823,7 +10853,7 @@ fairing: Python SDK for building, training, and deploying ML models
 
 
 ### [pyesridump](https://github.com/openaddresses/pyesridump) by [openaddresses](https://github.com/openaddresses)  
-pyesridump: Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.  
+Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.  
 [https://github.com/openaddresses/pyesridump](https://github.com/openaddresses/pyesridump)  
 0.56 stars per week over 491 weeks  
 273 stars, 62 forks, 16 watches  
@@ -10840,7 +10870,7 @@ ACL 2022: BRIO: Bringing Order to Abstractive Summarization
 
 
 ### [urbansim](https://github.com/udst/urbansim) by [udst](https://github.com/udst)  
-urbansim: Platform for building statistical models of cities and regions  
+Platform for building statistical models of cities and regions  
 [https://udst.github.io/urbansim/](https://udst.github.io/urbansim/)  
 [https://github.com/udst/urbansim](https://github.com/udst/urbansim)  
 0.84 stars per week over 507 weeks  
@@ -10849,7 +10879,7 @@ urbansim: Platform for building statistical models of cities and regions
 
 
 ### [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) by [davidadsp](https://github.com/davidadsp)  
-Generative_Deep_Learning_2nd_Edition: The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.  
+The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.  
 [https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)  
 [https://github.com/davidadsp/generative_deep_learning_2nd_edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition)  
 1.75 stars per week over 58 weeks  
@@ -10859,7 +10889,7 @@ Generative_Deep_Learning_2nd_Edition: The official code repository for the secon
 
 
 ### [pytmx](https://github.com/bitcraft/pytmx) by [bitcraft](https://github.com/bitcraft)  
-pytmx: Python library to read Tiled Map Editor's TMX maps.  
+Python library to read Tiled Map Editor's TMX maps.  
 [https://github.com/bitcraft/pytmx](https://github.com/bitcraft/pytmx)  
 0.59 stars per week over 584 weeks  
 345 stars, 72 forks, 22 watches  
@@ -10867,7 +10897,7 @@ pytmx: Python library to read Tiled Map Editor's TMX maps.
 
 
 ### [semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) by [nomic-ai](https://github.com/nomic-ai)  
-semantic-search-app-template: Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI  
+Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI  
 [https://github.com/nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template)  
 6.71 stars per week over 6 weeks  
 46 stars, 4 forks, 5 watches  
@@ -10876,7 +10906,7 @@ semantic-search-app-template: Tutorial and template for a semantic search app po
 
 
 ### [mercantile](https://github.com/mapbox/mercantile) by [mapbox](https://github.com/mapbox)  
-mercantile: Spherical mercator tile and coordinate utilities  
+Spherical mercator tile and coordinate utilities  
 [https://github.com/mapbox/mercantile](https://github.com/mapbox/mercantile)  
 0.73 stars per week over 481 weeks  
 353 stars, 61 forks, 117 watches  
@@ -10885,7 +10915,7 @@ mercantile: Spherical mercator tile and coordinate utilities
 
 
 ### [pyheat](https://github.com/csurfer/pyheat) by [csurfer](https://github.com/csurfer)  
-pyheat: pprofile + matplotlib = Python program profiled as an awesome heatmap!  
+pprofile + matplotlib = Python program profiled as an awesome heatmap!  
 [https://github.com/csurfer/pyheat](https://github.com/csurfer/pyheat)  
 2.34 stars per week over 326 weeks  
 764 stars, 40 forks, 13 watches  
@@ -10894,7 +10924,7 @@ pyheat: pprofile + matplotlib = Python program profiled as an awesome heatmap!
 
 
 ### [pypackage](https://github.com/giswqs/pypackage) by [giswqs](https://github.com/giswqs)  
-pypackage: Cookiecutter template creating a Python package with mkdocs  
+Cookiecutter template creating a Python package with mkdocs  
 [https://giswqs.github.io/pypackage](https://giswqs.github.io/pypackage)  
 [https://github.com/giswqs/pypackage](https://github.com/giswqs/pypackage)  
 0.29 stars per week over 129 weeks  
@@ -10904,7 +10934,7 @@ pypackage: Cookiecutter template creating a Python package with mkdocs
 
 
 ### [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) by [amansrivastava17](https://github.com/amansrivastava17)  
-embedding-as-service: One-Stop Solution to encode sentence to fixed length vectors from various embedding techniques   
+One-Stop Solution to encode sentence to fixed length vectors from various embedding techniques   
 [https://github.com/amansrivastava17/embedding-as-service](https://github.com/amansrivastava17/embedding-as-service)  
 0.91 stars per week over 205 weeks  
 187 stars, 27 forks, 10 watches  
@@ -10913,7 +10943,7 @@ embedding-as-service: One-Stop Solution to encode sentence to fixed length vecto
 
 
 ### [Blackstone](https://github.com/iclrandd/blackstone) by [iclrandd](https://github.com/iclrandd)  
-Blackstone: :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.  
+:black_circle: A spaCy pipeline and model for NLP on unstructured legal text.  
 [https://research.iclr.co.uk](https://research.iclr.co.uk)  
 [https://github.com/iclrandd/blackstone](https://github.com/iclrandd/blackstone)  
 2.78 stars per week over 214 weeks  
@@ -10923,7 +10953,7 @@ Blackstone: :black_circle: A spaCy pipeline and model for NLP on unstructured le
 
 
 ### [dit](https://github.com/dit/dit)  
-dit: Python package for information theory.  
+Python package for information theory.  
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
 0.87 stars per week over 501 weeks  
@@ -10933,7 +10963,7 @@ dit: Python package for information theory.
 
 
 ### [mapply](https://github.com/ddelange/mapply) by [ddelange](https://github.com/ddelange)  
-mapply: Sensible multi-core apply function for Pandas  
+Sensible multi-core apply function for Pandas  
 [https://github.com/ddelange/mapply](https://github.com/ddelange/mapply)  
 0.31 stars per week over 131 weeks  
 41 stars, 3 forks, 4 watches  
@@ -10941,7 +10971,7 @@ mapply: Sensible multi-core apply function for Pandas
 
 
 ### [ethtx_ce](https://github.com/ethtx/ethtx_ce) by [ethtx](https://github.com/ethtx)  
-ethtx_ce: Ethereum transaction decoder (community version).  
+Ethereum transaction decoder (community version).  
 [https://ethtx.info](https://ethtx.info)  
 [https://github.com/ethtx/ethtx_ce](https://github.com/ethtx/ethtx_ce)  
 2.7 stars per week over 92 weeks  
@@ -10950,7 +10980,7 @@ ethtx_ce: Ethereum transaction decoder (community version).
 
 
 ### [nodevectors](https://github.com/vhranger/nodevectors) by [vhranger](https://github.com/vhranger)  
-nodevectors: Fastest network node embeddings in the west  
+Fastest network node embeddings in the west  
 [https://github.com/vhranger/nodevectors](https://github.com/vhranger/nodevectors)  
 2.36 stars per week over 197 weeks  
 466 stars, 55 forks, 11 watches  
@@ -10958,7 +10988,7 @@ nodevectors: Fastest network node embeddings in the west
 
 
 ### [Focal-Transformer](https://github.com/microsoft/focal-transformer) by [microsoft](https://github.com/microsoft)  
-Focal-Transformer: [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"  
+[NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"  
 [https://github.com/microsoft/focal-transformer](https://github.com/microsoft/focal-transformer)  
 5.27 stars per week over 95 weeks  
 501 stars, 58 forks, 18 watches  
@@ -10966,7 +10996,7 @@ Focal-Transformer: [NeurIPS 2021 Spotlight] Official code for "Focal Self-attent
 
 
 ### [scikit-geometry](https://github.com/scikit-geometry/scikit-geometry)  
-scikit-geometry: Scientific Python Geometric Algorithms Library  
+Scientific Python Geometric Algorithms Library  
 [https://scikit-geometry.github.io/scikit-geometry](https://scikit-geometry.github.io/scikit-geometry)  
 [https://github.com/scikit-geometry/scikit-geometry](https://github.com/scikit-geometry/scikit-geometry)  
 1.01 stars per week over 370 weeks  
@@ -10985,7 +11015,7 @@ CARLA: A Python Library to Benchmark Algorithmic Recourse and Counterfactual Exp
 
 
 ### [graph-force](https://github.com/h4kor/graph-force) by [h4kor](https://github.com/h4kor)  
-graph-force: Python library for embedding large graphs in 2D space, using force-directed layouts.  
+Python library for embedding large graphs in 2D space, using force-directed layouts.  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
 [https://github.com/h4kor/graph-force](https://github.com/h4kor/graph-force)  
 7.17 stars per week over 22 weeks  
@@ -10995,7 +11025,7 @@ graph-force: Python library for embedding large graphs in 2D space, using force-
 
 
 ### [PolyWorldPretrainedNetwork](https://github.com/zorzi-s/polyworldpretrainednetwork) by [zorzi-s](https://github.com/zorzi-s)  
-PolyWorldPretrainedNetwork: PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images  
+PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images  
 [https://github.com/zorzi-s/polyworldpretrainednetwork](https://github.com/zorzi-s/polyworldpretrainednetwork)  
 1.88 stars per week over 58 weeks  
 110 stars, 16 forks, 7 watches  
@@ -11013,7 +11043,7 @@ Genalog is an open source, cross-platform python package allowing generation of 
 
 
 ### [data-lineage](https://github.com/tokern/data-lineage) by [tokern](https://github.com/tokern)  
-data-lineage: Generate and Visualize Data Lineage from query history  
+Generate and Visualize Data Lineage from query history  
 [https://tokern.io/data-lineage/](https://tokern.io/data-lineage/)  
 [https://github.com/tokern/data-lineage](https://github.com/tokern/data-lineage)  
 1.56 stars per week over 163 weeks  
@@ -11023,7 +11053,7 @@ data-lineage: Generate and Visualize Data Lineage from query history
 
 
 ### [ModernConvNets](https://github.com/nyandwi/modernconvnets) by [nyandwi](https://github.com/nyandwi)  
-ModernConvNets: Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
+Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
 [https://github.com/nyandwi/modernconvnets](https://github.com/nyandwi/modernconvnets)  
 4.83 stars per week over 64 weeks  
 311 stars, 33 forks, 7 watches  
@@ -11032,7 +11062,7 @@ ModernConvNets: Revisions and implementations of modern Convolutional Neural Net
 
 
 ### [crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) by [dylanhogg](https://github.com/dylanhogg)  
-crazy-awesome-python: A curated list of awesome Python frameworks, with a bias towards data and machine learning  
+A curated list of awesome Python frameworks, with a bias towards data and machine learning  
 [https://www.awesomepython.org](https://www.awesomepython.org)  
 [https://github.com/dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python)  
 0.54 stars per week over 150 weeks  
@@ -11042,7 +11072,7 @@ crazy-awesome-python: A curated list of awesome Python frameworks, with a bias t
 
 
 ### [semantic-search-through-wikipedia-with-weaviate](https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate) by [weaviate](https://github.com/weaviate)  
-semantic-search-through-wikipedia-with-weaviate: Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine  
+Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine  
 [https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate](https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate)  
 2.71 stars per week over 79 weeks  
 216 stars, 21 forks, 8 watches  
@@ -11050,16 +11080,17 @@ semantic-search-through-wikipedia-with-weaviate: Semantic search through a vecto
 
 
 ### [lovely-jax](https://github.com/xl0/lovely-jax) by [xl0](https://github.com/xl0)  
-lovely-jax: JAX Arrays for human consumption  
+JAX Arrays for human consumption  
 [https://xl0.github.io/lovely-jax](https://xl0.github.io/lovely-jax)  
 [https://github.com/xl0/lovely-jax](https://github.com/xl0/lovely-jax)  
 1.09 stars per week over 25 weeks  
 28 stars, 1 forks, 1 watches  
 [ml-dl](categories/ml-dl.md) category, created 2022-11-08, last commit 2023-04-27, main language Jupyter Notebook  
+<sub><sup>jax</sup></sub>
 
 
 ### [populationsim](https://github.com/activitysim/populationsim) by [activitysim](https://github.com/activitysim)  
-populationsim: An Open Platform for Population Synthesis  
+An Open Platform for Population Synthesis  
 [https://activitysim.github.io/populationsim](https://activitysim.github.io/populationsim)  
 [https://github.com/activitysim/populationsim](https://github.com/activitysim/populationsim)  
 0.14 stars per week over 324 weeks  
@@ -11069,7 +11100,7 @@ populationsim: An Open Platform for Population Synthesis
 
 
 ### [python-patterns](https://github.com/brandon-rhodes/python-patterns) by [brandon-rhodes](https://github.com/brandon-rhodes)  
-python-patterns: Source code behind the python-patterns.guide site by Brandon Rhodes  
+Source code behind the python-patterns.guide site by Brandon Rhodes  
 [https://github.com/brandon-rhodes/python-patterns](https://github.com/brandon-rhodes/python-patterns)  
 3.84 stars per week over 274 weeks  
 1,055 stars, 95 forks, 260 watches  
@@ -11087,7 +11118,7 @@ AtsPy: Automated Time Series Models in Python (by @firmai)
 
 
 ### [crypto-whale-watching-app](https://github.com/pmaji/crypto-whale-watching-app) by [pmaji](https://github.com/pmaji)  
-crypto-whale-watching-app: Python Dash app that tracks whale activity in cryptocurrency markets.  
+Python Dash app that tracks whale activity in cryptocurrency markets.  
 [https://github.com/pmaji/crypto-whale-watching-app](https://github.com/pmaji/crypto-whale-watching-app)  
 2.05 stars per week over 275 weeks  
 566 stars, 134 forks, 47 watches  
@@ -11096,7 +11127,7 @@ crypto-whale-watching-app: Python Dash app that tracks whale activity in cryptoc
 
 
 ### [geolambda](https://github.com/developmentseed/geolambda) by [developmentseed](https://github.com/developmentseed)  
-geolambda: Create and deploy Geospatial AWS Lambda functions  
+Create and deploy Geospatial AWS Lambda functions  
 [https://github.com/developmentseed/geolambda](https://github.com/developmentseed/geolambda)  
 0.9 stars per week over 313 weeks  
 281 stars, 85 forks, 50 watches  
@@ -11112,7 +11143,7 @@ anthropics/evals
 
 
 ### [s2orc-doc2json](https://github.com/allenai/s2orc-doc2json) by [allenai](https://github.com/allenai)  
-s2orc-doc2json: Parsers for scientific papers (PDF2JSON, TEX2JSON, JATS2JSON)  
+Parsers for scientific papers (PDF2JSON, TEX2JSON, JATS2JSON)  
 [https://github.com/allenai/s2orc-doc2json](https://github.com/allenai/s2orc-doc2json)  
 1.6 stars per week over 125 weeks  
 201 stars, 44 forks, 7 watches  
@@ -11129,7 +11160,7 @@ PyTorch code for DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time
 
 
 ### [sota-extractor](https://github.com/paperswithcode/sota-extractor) by [paperswithcode](https://github.com/paperswithcode)  
-sota-extractor: The SOTA extractor pipeline  
+The SOTA extractor pipeline  
 [https://github.com/paperswithcode/sota-extractor](https://github.com/paperswithcode/sota-extractor)  
 1.11 stars per week over 230 weeks  
 255 stars, 28 forks, 13 watches  
@@ -11155,7 +11186,7 @@ Golly, a Game of Life simulator (unofficial mirror from SourceForge)
 
 
 ### [high_performance_python_2e](https://github.com/mynameisfiber/high_performance_python_2e) by [mynameisfiber](https://github.com/mynameisfiber)  
-high_performance_python_2e: Code for the book "High Performance Python 2e" by Micha Gorelick and Ian Ozsvald with OReilly   
+Code for the book "High Performance Python 2e" by Micha Gorelick and Ian Ozsvald with OReilly   
 [https://github.com/mynameisfiber/high_performance_python_2e](https://github.com/mynameisfiber/high_performance_python_2e)  
 2.07 stars per week over 160 weeks  
 331 stars, 108 forks, 6 watches  
@@ -11164,7 +11195,7 @@ high_performance_python_2e: Code for the book "High Performance Python 2e" by Mi
 
 
 ### [contractions](https://github.com/kootenpv/contractions) by [kootenpv](https://github.com/kootenpv)  
-contractions: Fixes contractions such as `you're` to `you are`  
+Fixes contractions such as `you're` to `you are`  
 [https://github.com/kootenpv/contractions](https://github.com/kootenpv/contractions)  
 0.84 stars per week over 332 weeks  
 280 stars, 38 forks, 9 watches  
@@ -11172,7 +11203,7 @@ contractions: Fixes contractions such as `you're` to `you are`
 
 
 ### [zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text) by [yoadtew](https://github.com/yoadtew)  
-zero-shot-image-to-text: Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic  
+Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic  
 [https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)  
 2.7 stars per week over 75 weeks  
 203 stars, 32 forks, 8 watches  
@@ -11180,7 +11211,7 @@ zero-shot-image-to-text: Implementation of Zero-Shot Image-to-Text Generation fo
 
 
 ### [in3](https://github.com/blockchainsllc/in3) by [blockchainsllc](https://github.com/blockchainsllc)  
-in3: The IN3 client (written in C).  
+The IN3 client (written in C).  
 [https://in3.readthedocs.io/en/develop/index.html](https://in3.readthedocs.io/en/develop/index.html)  
 [https://github.com/blockchainsllc/in3](https://github.com/blockchainsllc/in3)  
 0.36 stars per week over 189 weeks  
@@ -11190,7 +11221,7 @@ in3: The IN3 client (written in C).
 
 
 ### [cChardet](https://github.com/pyyoshi/cchardet) by [pyyoshi](https://github.com/pyyoshi)  
-cChardet: universal character encoding detector  
+universal character encoding detector  
 [https://github.com/pyyoshi/cchardet](https://github.com/pyyoshi/cchardet)  
 0.62 stars per week over 567 weeks  
 354 stars, 47 forks, 12 watches  
@@ -11206,7 +11237,7 @@ hazyresearch/domino
 
 
 ### [opendatasets](https://github.com/jovianml/opendatasets) by [jovianml](https://github.com/jovianml)  
-opendatasets: A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.  
+A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.  
 [https://github.com/jovianml/opendatasets](https://github.com/jovianml/opendatasets)  
 1.91 stars per week over 137 weeks  
 262 stars, 126 forks, 13 watches  
@@ -11215,16 +11246,16 @@ opendatasets: A Python library for downloading datasets from Kaggle, Google Driv
 
 
 ### [poetry-version-plugin](https://github.com/tiangolo/poetry-version-plugin) by [tiangolo](https://github.com/tiangolo)  
-poetry-version-plugin: Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.  
+Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.  
 [https://github.com/tiangolo/poetry-version-plugin](https://github.com/tiangolo/poetry-version-plugin)  
 2.77 stars per week over 101 weeks  
 281 stars, 24 forks, 5 watches  
 [util](categories/util.md) category, created 2021-05-27, last commit 2021-05-28, main language Python  
-<sub><sup>packaging, packaging-for-pypi, pypi, python-poetry</sup></sub>
+<sub><sup>packaging, packaging-for-pypi, python-poetry</sup></sub>
 
 
 ### [raster4ml](https://github.com/remotesensinglab/raster4ml) by [remotesensinglab](https://github.com/remotesensinglab)  
-raster4ml: A geospatial raster processing library for machine learning  
+A geospatial raster processing library for machine learning  
 [https://raster4ml.readthedocs.io](https://raster4ml.readthedocs.io)  
 [https://github.com/remotesensinglab/raster4ml](https://github.com/remotesensinglab/raster4ml)  
 2.47 stars per week over 42 weeks  
@@ -11234,7 +11265,7 @@ raster4ml: A geospatial raster processing library for machine learning
 
 
 ### [fraqtive](https://github.com/mimecorg/fraqtive) by [mimecorg](https://github.com/mimecorg)  
-fraqtive: Generator of the Mandelbrot family fractals.  
+Generator of the Mandelbrot family fractals.  
 [https://fraqtive.mimec.org/](https://fraqtive.mimec.org/)  
 [https://github.com/mimecorg/fraqtive](https://github.com/mimecorg/fraqtive)  
 0.1 stars per week over 269 weeks  
@@ -11244,7 +11275,7 @@ fraqtive: Generator of the Mandelbrot family fractals.
 
 
 ### [pytorch_image_classification](https://github.com/hysts/pytorch_image_classification) by [hysts](https://github.com/hysts)  
-pytorch_image_classification: PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST/ImageNet  
+PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST/ImageNet  
 [https://github.com/hysts/pytorch_image_classification](https://github.com/hysts/pytorch_image_classification)  
 4.29 stars per week over 282 weeks  
 1,211 stars, 292 forks, 26 watches  
@@ -11261,7 +11292,7 @@ ai21labs/in-context-ralm
 
 
 ### [chartpy](https://github.com/cuemacro/chartpy) by [cuemacro](https://github.com/cuemacro)  
-chartpy: Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more  
+Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more  
 [https://github.com/cuemacro/chartpy](https://github.com/cuemacro/chartpy)  
 1.47 stars per week over 352 weeks  
 517 stars, 99 forks, 49 watches  
@@ -11270,7 +11301,7 @@ chartpy: Easy to use Python API wrapper to plot charts with matplotlib, plotly, 
 
 
 ### [auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow) by [rafiqhasan](https://github.com/rafiqhasan)  
-auto-tensorflow: Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - https://www.linkedin.com/in/sam04/  
+Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - https://www.linkedin.com/in/sam04/  
 [https://github.com/rafiqhasan/auto-tensorflow](https://github.com/rafiqhasan/auto-tensorflow)  
 1.83 stars per week over 95 weeks  
 175 stars, 36 forks, 13 watches  
@@ -11279,7 +11310,7 @@ auto-tensorflow: Build Low Code Automated Tensorflow explainable models in just 
 
 
 ### [fonduer-tutorials](https://github.com/hazyresearch/fonduer-tutorials) by [hazyresearch](https://github.com/hazyresearch)  
-fonduer-tutorials: A collection of simple tutorials for using Fonduer  
+A collection of simple tutorials for using Fonduer  
 [https://github.com/HazyResearch/fonduer](https://github.com/HazyResearch/fonduer)  
 [https://github.com/hazyresearch/fonduer-tutorials](https://github.com/hazyresearch/fonduer-tutorials)  
 0.37 stars per week over 267 weeks  
@@ -11288,7 +11319,7 @@ fonduer-tutorials: A collection of simple tutorials for using Fonduer
 
 
 ### [AIQC](https://github.com/aiqc/aiqc) by [aiqc](https://github.com/aiqc)  
-AIQC: End-to-end deep learning on your desktop or server.  
+End-to-end deep learning on your desktop or server.  
 [https://github.com/aiqc/aiqc](https://github.com/aiqc/aiqc)  
 0.73 stars per week over 126 weeks  
 93 stars, 20 forks, 4 watches  
@@ -11296,7 +11327,7 @@ AIQC: End-to-end deep learning on your desktop or server.
 
 
 ### [richdem](https://github.com/r-barnes/richdem) by [r-barnes](https://github.com/r-barnes)  
-richdem: High-performance Terrain and Hydrology Analysis   
+High-performance Terrain and Hydrology Analysis   
 [https://github.com/r-barnes/richdem](https://github.com/r-barnes/richdem)  
 0.38 stars per week over 539 weeks  
 206 stars, 59 forks, 14 watches  
@@ -11313,7 +11344,7 @@ Exphormer: Sparse Transformer for Graphs
 
 
 ### [pyqrcode](https://github.com/mnooner256/pyqrcode) by [mnooner256](https://github.com/mnooner256)  
-pyqrcode: Python 3 module to generate QR Codes  
+Python 3 module to generate QR Codes  
 [https://github.com/mnooner256/pyqrcode](https://github.com/mnooner256/pyqrcode)  
 0.74 stars per week over 517 weeks  
 381 stars, 76 forks, 17 watches  
@@ -11321,7 +11352,7 @@ pyqrcode: Python 3 module to generate QR Codes
 
 
 ### [openapi-schema-pydantic](https://github.com/kuimono/openapi-schema-pydantic) by [kuimono](https://github.com/kuimono)  
-openapi-schema-pydantic: OpenAPI (v3) specification schema as pydantic class   
+OpenAPI (v3) specification schema as pydantic class   
 [https://github.com/kuimono/openapi-schema-pydantic](https://github.com/kuimono/openapi-schema-pydantic)  
 0.59 stars per week over 155 weeks  
 92 stars, 15 forks, 4 watches  
@@ -11330,7 +11361,7 @@ openapi-schema-pydantic: OpenAPI (v3) specification schema as pydantic class
 
 
 ### [SubredditMediaDownloader](https://github.com/psycoguana/subredditmediadownloader) by [psycoguana](https://github.com/psycoguana)  
-SubredditMediaDownloader: Simple Python script to download images and videos from public subreddits without using Reddit's API 😎  
+Simple Python script to download images and videos from public subreddits without using Reddit's API 😎  
 [https://github.com/psycoguana/subredditmediadownloader](https://github.com/psycoguana/subredditmediadownloader)  
 1.83 stars per week over 63 weeks  
 116 stars, 10 forks, 3 watches  
@@ -11346,7 +11377,7 @@ google-research/byt5
 
 
 ### [valhalla-nmt](https://github.com/jerryyli/valhalla-nmt) by [jerryyli](https://github.com/jerryyli)  
-valhalla-nmt: Code repository for CVPR 2022 paper "VALHALLA: Visual Hallucination for Machine Translation"  
+Code repository for CVPR 2022 paper "VALHALLA: Visual Hallucination for Machine Translation"  
 [https://github.com/jerryyli/valhalla-nmt](https://github.com/jerryyli/valhalla-nmt)  
 0.43 stars per week over 58 weeks  
 25 stars, 4 forks, 1 watches  
@@ -11355,7 +11386,7 @@ valhalla-nmt: Code repository for CVPR 2022 paper "VALHALLA: Visual Hallucinatio
 
 
 ### [axcell](https://github.com/paperswithcode/axcell) by [paperswithcode](https://github.com/paperswithcode)  
-axcell: Tools for extracting tables and results from Machine Learning papers  
+Tools for extracting tables and results from Machine Learning papers  
 [https://github.com/paperswithcode/axcell](https://github.com/paperswithcode/axcell)  
 1.75 stars per week over 201 weeks  
 352 stars, 56 forks, 13 watches  
@@ -11363,7 +11394,7 @@ axcell: Tools for extracting tables and results from Machine Learning papers
 
 
 ### [python-gedcom](https://github.com/nickreynke/python-gedcom) by [nickreynke](https://github.com/nickreynke)  
-python-gedcom: Python module for parsing, analyzing, and manipulating GEDCOM files  
+Python module for parsing, analyzing, and manipulating GEDCOM files  
 [https://nickreynke.github.io/python-gedcom/gedcom/index.html](https://nickreynke.github.io/python-gedcom/gedcom/index.html)  
 [https://github.com/nickreynke/python-gedcom](https://github.com/nickreynke/python-gedcom)  
 0.45 stars per week over 277 weeks  
@@ -11373,7 +11404,7 @@ python-gedcom: Python module for parsing, analyzing, and manipulating GEDCOM fil
 
 
 ### [ottr](https://github.com/airbnb/ottr) by [airbnb](https://github.com/airbnb)  
-ottr: Serverless Public Key Infrastructure Framework  
+Serverless Public Key Infrastructure Framework  
 [https://github.com/airbnb/ottr](https://github.com/airbnb/ottr)  
 2.97 stars per week over 88 weeks  
 262 stars, 29 forks, 8 watches  
@@ -11381,7 +11412,7 @@ ottr: Serverless Public Key Infrastructure Framework
 
 
 ### [apilogs](https://github.com/rpgreen/apilogs) by [rpgreen](https://github.com/rpgreen)  
-apilogs: Easy logging and debugging for Amazon API Gateway and AWS Lambda Serverless APIs  
+Easy logging and debugging for Amazon API Gateway and AWS Lambda Serverless APIs  
 [https://github.com/rpgreen/apilogs](https://github.com/rpgreen/apilogs)  
 0.72 stars per week over 347 weeks  
 250 stars, 19 forks, 9 watches  
@@ -11390,7 +11421,7 @@ apilogs: Easy logging and debugging for Amazon API Gateway and AWS Lambda Server
 
 
 ### [numerox](https://github.com/numerai/numerox) by [numerai](https://github.com/numerai)  
-numerox: Numerai tournament toolbox written in Python  
+Numerai tournament toolbox written in Python  
 [https://github.com/numerai/numerox](https://github.com/numerai/numerox)  
 0.45 stars per week over 289 weeks  
 130 stars, 36 forks, 29 watches  
@@ -11399,7 +11430,7 @@ numerox: Numerai tournament toolbox written in Python
 
 
 ### [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) by [kshitij12345](https://github.com/kshitij12345)  
-torchnnprofiler: Context Manager to profile the forward and backward times of PyTorch's nn.Module  
+Context Manager to profile the forward and backward times of PyTorch's nn.Module  
 [https://github.com/kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler)  
 2.66 stars per week over 28 weeks  
 75 stars, 3 forks, 5 watches  
@@ -11407,7 +11438,7 @@ torchnnprofiler: Context Manager to profile the forward and backward times of Py
 
 
 ### [mutate](https://github.com/infinitylogesh/mutate) by [infinitylogesh](https://github.com/infinitylogesh)  
-mutate: A library to synthesize text datasets using Large Language Models (LLM)  
+A library to synthesize text datasets using Large Language Models (LLM)  
 [https://github.com/infinitylogesh/mutate](https://github.com/infinitylogesh/mutate)  
 2.05 stars per week over 70 weeks  
 145 stars, 11 forks, 3 watches  
@@ -11416,7 +11447,7 @@ mutate: A library to synthesize text datasets using Large Language Models (LLM)
 
 
 ### [jsontopydantic](https://github.com/brokenloop/jsontopydantic) by [brokenloop](https://github.com/brokenloop)  
-jsontopydantic: Web tool for generating Pydantic models from JSON objects  
+Web tool for generating Pydantic models from JSON objects  
 [https://jsontopydantic.com](https://jsontopydantic.com)  
 [https://github.com/brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic)  
 1.9 stars per week over 127 weeks  
@@ -11443,7 +11474,7 @@ pycircular is a Python module for circular data analysis
 
 
 ### [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) by [rasbt](https://github.com/rasbt)  
-stat453-deep-learning-ss20: STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)  
+STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)  
 [http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/)  
 [https://github.com/rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20)  
 3.05 stars per week over 171 weeks  
@@ -11452,7 +11483,7 @@ stat453-deep-learning-ss20: STAT 453: Intro to Deep Learning @ UW-Madison (Sprin
 
 
 ### [prefect-anyscale](https://github.com/anyscale/prefect-anyscale) by [anyscale](https://github.com/anyscale)  
-prefect-anyscale: Prefect integration with Anyscale  
+Prefect integration with Anyscale  
 [https://github.com/anyscale/prefect-anyscale](https://github.com/anyscale/prefect-anyscale)  
 0.27 stars per week over 25 weeks  
 7 stars, 1 forks, 3 watches  
@@ -11460,7 +11491,7 @@ prefect-anyscale: Prefect integration with Anyscale
 
 
 ### [fastapi_client](https://github.com/dmontagu/fastapi_client) by [dmontagu](https://github.com/dmontagu)  
-fastapi_client: FastAPI client generator  
+FastAPI client generator  
 [https://github.com/dmontagu/fastapi_client](https://github.com/dmontagu/fastapi_client)  
 1.53 stars per week over 196 weeks  
 301 stars, 40 forks, 8 watches  
@@ -11468,7 +11499,7 @@ fastapi_client: FastAPI client generator
 
 
 ### [cowait](https://github.com/backtick-se/cowait) by [backtick-se](https://github.com/backtick-se)  
-cowait: Containerized distributed programming framework for Python  
+Containerized distributed programming framework for Python  
 [https://cowait.io](https://cowait.io)  
 [https://github.com/backtick-se/cowait](https://github.com/backtick-se/cowait)  
 0.28 stars per week over 189 weeks  
@@ -11488,7 +11519,7 @@ cowait: Containerized distributed programming framework for Python
 
 
 ### [tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments) by [tlkh](https://github.com/tlkh)  
-tf-metal-experiments: TensorFlow Metal Backend on Apple Silicon Experiments (just for fun)  
+TensorFlow Metal Backend on Apple Silicon Experiments (just for fun)  
 [https://github.com/tlkh/tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments)  
 2.6 stars per week over 79 weeks  
 207 stars, 21 forks, 13 watches  
@@ -11497,7 +11528,7 @@ tf-metal-experiments: TensorFlow Metal Backend on Apple Silicon Experiments (jus
 
 
 ### [Deep-Video-Inpainting](https://github.com/mcahny/deep-video-inpainting) by [mcahny](https://github.com/mcahny)  
-Deep-Video-Inpainting: Official pytorch implementation for "Deep Video Inpainting" (CVPR 2019)  
+Official pytorch implementation for "Deep Video Inpainting" (CVPR 2019)  
 [https://github.com/mcahny/deep-video-inpainting](https://github.com/mcahny/deep-video-inpainting)  
 2.28 stars per week over 206 weeks  
 472 stars, 90 forks, 14 watches  
@@ -11514,7 +11545,7 @@ peartree: A library for converting transit data into a directed graph for sketch
 
 
 ### [detectree](https://github.com/martibosch/detectree) by [martibosch](https://github.com/martibosch)  
-detectree: Tree detection from aerial imagery in Python  
+Tree detection from aerial imagery in Python  
 [https://doi.org/10.21105/joss.02172](https://doi.org/10.21105/joss.02172)  
 [https://github.com/martibosch/detectree](https://github.com/martibosch/detectree)  
 0.73 stars per week over 196 weeks  
@@ -11524,7 +11555,7 @@ detectree: Tree detection from aerial imagery in Python
 
 
 ### [stat451-machine-learning-fs20](https://github.com/rasbt/stat451-machine-learning-fs20) by [rasbt](https://github.com/rasbt)  
-stat451-machine-learning-fs20: STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)  
+STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)  
 [https://github.com/rasbt/stat451-machine-learning-fs20](https://github.com/rasbt/stat451-machine-learning-fs20)  
 2.41 stars per week over 143 weeks  
 345 stars, 182 forks, 19 watches  
@@ -11532,7 +11563,7 @@ stat451-machine-learning-fs20: STAT 451: Intro to Machine Learning @ UW-Madison 
 
 
 ### [easystac](https://github.com/cloudsen12/easystac) by [cloudsen12](https://github.com/cloudsen12)  
-easystac: A Python package for simple STAC queries  
+A Python package for simple STAC queries  
 [https://easystac.readthedocs.io/](https://easystac.readthedocs.io/)  
 [https://github.com/cloudsen12/easystac](https://github.com/cloudsen12/easystac)  
 0.9 stars per week over 67 weeks  
@@ -11542,7 +11573,7 @@ easystac: A Python package for simple STAC queries
 
 
 ### [python-bizdays](https://github.com/wilsonfreitas/python-bizdays) by [wilsonfreitas](https://github.com/wilsonfreitas)  
-python-bizdays: Business days calculations and utilities  
+Business days calculations and utilities  
 [http://wilsonfreitas.github.io/python-bizdays/](http://wilsonfreitas.github.io/python-bizdays/)  
 [https://github.com/wilsonfreitas/python-bizdays](https://github.com/wilsonfreitas/python-bizdays)  
 0.13 stars per week over 505 weeks  
@@ -11551,7 +11582,7 @@ python-bizdays: Business days calculations and utilities
 
 
 ### [pyfra](https://github.com/eleutherai/pyfra) by [eleutherai](https://github.com/eleutherai)  
-pyfra: Python Research Framework  
+Python Research Framework  
 [https://github.com/eleutherai/pyfra](https://github.com/eleutherai/pyfra)  
 1.0 stars per week over 107 weeks  
 107 stars, 10 forks, 3 watches  
@@ -11568,7 +11599,7 @@ TigerLily: Finding drug interactions in silico with the Graph.
 
 
 ### [bta-lib](https://github.com/mementum/bta-lib) by [mementum](https://github.com/mementum)  
-bta-lib: Technical Analysis library in pandas for backtesting algotrading and quantitative analysis  
+Technical Analysis library in pandas for backtesting algotrading and quantitative analysis  
 [https://github.com/mementum/bta-lib](https://github.com/mementum/bta-lib)  
 2.39 stars per week over 170 weeks  
 407 stars, 99 forks, 26 watches  
@@ -11576,7 +11607,7 @@ bta-lib: Technical Analysis library in pandas for backtesting algotrading and qu
 
 
 ### [google-drive-downloader](https://github.com/ndrplz/google-drive-downloader) by [ndrplz](https://github.com/ndrplz)  
-google-drive-downloader: Minimal class to download shared files from Google Drive.  
+Minimal class to download shared files from Google Drive.  
 [https://github.com/ndrplz/google-drive-downloader](https://github.com/ndrplz/google-drive-downloader)  
 0.9 stars per week over 282 weeks  
 254 stars, 62 forks, 12 watches  
@@ -11584,7 +11615,7 @@ google-drive-downloader: Minimal class to download shared files from Google Driv
 
 
 ### [terminaltables](https://github.com/matthewdeanmartin/terminaltables) by [matthewdeanmartin](https://github.com/matthewdeanmartin)  
-terminaltables: Generate simple tables in terminals from a nested list of strings.  
+Generate simple tables in terminals from a nested list of strings.  
 [https://robpol86.github.io/terminaltables](https://robpol86.github.io/terminaltables)  
 [https://github.com/matthewdeanmartin/terminaltables](https://github.com/matthewdeanmartin/terminaltables)  
 0.36 stars per week over 74 weeks  
@@ -11593,7 +11624,7 @@ terminaltables: Generate simple tables in terminals from a nested list of string
 
 
 ### [faker-security](https://github.com/snyk/faker-security) by [snyk](https://github.com/snyk)  
-faker-security: Python Faker provider for security related data  
+Python Faker provider for security related data  
 [https://github.com/snyk/faker-security](https://github.com/snyk/faker-security)  
 0.49 stars per week over 59 weeks  
 29 stars, 5 forks, 13 watches  
@@ -11601,7 +11632,7 @@ faker-security: Python Faker provider for security related data
 
 
 ### [DEMO-text2vec-openai](https://github.com/weaviate/demo-text2vec-openai) by [weaviate](https://github.com/weaviate)  
-DEMO-text2vec-openai: This repository contains an example of how to use the Weaviate vector search engine's text2vec-openai module  
+This repository contains an example of how to use the Weaviate vector search engine's text2vec-openai module  
 [https://github.com/weaviate/demo-text2vec-openai](https://github.com/weaviate/demo-text2vec-openai)  
 0.33 stars per week over 66 weeks  
 22 stars, 4 forks, 4 watches  
@@ -11610,7 +11641,7 @@ DEMO-text2vec-openai: This repository contains an example of how to use the Weav
 
 
 ### [Probing_framework](https://github.com/airi-institute/probing_framework) by [airi-institute](https://github.com/airi-institute)  
-Probing_framework: Framework for probing tasks  
+Framework for probing tasks  
 [https://github.com/airi-institute/probing_framework](https://github.com/airi-institute/probing_framework)  
 0.21 stars per week over 67 weeks  
 14 stars, 3 forks, 1 watches  
@@ -11619,7 +11650,7 @@ Probing_framework: Framework for probing tasks
 
 
 ### [stochastic](https://github.com/crflynn/stochastic) by [crflynn](https://github.com/crflynn)  
-stochastic: Generate realizations of stochastic processes in python.  
+Generate realizations of stochastic processes in python.  
 [http://stochastic.readthedocs.io/en/stable/](http://stochastic.readthedocs.io/en/stable/)  
 [https://github.com/crflynn/stochastic](https://github.com/crflynn/stochastic)  
 1.07 stars per week over 324 weeks  
@@ -11629,7 +11660,7 @@ stochastic: Generate realizations of stochastic processes in python.
 
 
 ### [crazy-awesome-crypto](https://github.com/dylanhogg/crazy-awesome-crypto) by [dylanhogg](https://github.com/dylanhogg)  
-crazy-awesome-crypto: A list of awesome crypto and blockchain projects  
+A list of awesome crypto and blockchain projects  
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 [https://github.com/dylanhogg/crazy-awesome-crypto](https://github.com/dylanhogg/crazy-awesome-crypto)  
 0.61 stars per week over 83 weeks  
@@ -11639,7 +11670,7 @@ crazy-awesome-crypto: A list of awesome crypto and blockchain projects
 
 
 ### [address-net](https://github.com/jasonrig/address-net) by [jasonrig](https://github.com/jasonrig)  
-address-net: A package to structure Australian addresses  
+A package to structure Australian addresses  
 [https://github.com/jasonrig/address-net](https://github.com/jasonrig/address-net)  
 0.78 stars per week over 230 weeks  
 179 stars, 73 forks, 13 watches  
@@ -11648,7 +11679,7 @@ address-net: A package to structure Australian addresses
 
 
 ### [SDNE](https://github.com/suanrong/sdne) by [suanrong](https://github.com/suanrong)  
-SDNE: This is a implementation of SDNE (Structural Deep Network embedding)  
+This is a implementation of SDNE (Structural Deep Network embedding)  
 [http://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding](http://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding)  
 [https://github.com/suanrong/sdne](https://github.com/suanrong/sdne)  
 0.94 stars per week over 335 weeks  
@@ -11657,7 +11688,7 @@ SDNE: This is a implementation of SDNE (Structural Deep Network embedding)
 
 
 ### [BoundaryVT](https://github.com/edomel/boundaryvt) by [edomel](https://github.com/edomel)  
-edomel/boundaryvt  
+edomel/BoundaryVT  
 [https://github.com/edomel/boundaryvt](https://github.com/edomel/boundaryvt)  
 0.02 stars per week over 40 weeks  
 1 stars, 0 forks, 2 watches  
@@ -11665,7 +11696,7 @@ edomel/boundaryvt
 
 
 ### [Polygonization-by-Frame-Field-Learning](https://github.com/lydorn/polygonization-by-frame-field-learning) by [lydorn](https://github.com/lydorn)  
-Polygonization-by-Frame-Field-Learning: This repository contains the code for our fast polygonal building extraction from overhead images pipeline.  
+This repository contains the code for our fast polygonal building extraction from overhead images pipeline.  
 [https://github.com/lydorn/polygonization-by-frame-field-learning](https://github.com/lydorn/polygonization-by-frame-field-learning)  
 1.46 stars per week over 153 weeks  
 225 stars, 55 forks, 12 watches  
@@ -11674,7 +11705,7 @@ Polygonization-by-Frame-Field-Learning: This repository contains the code for ou
 
 
 ### [airflow-provider-ray](https://github.com/anyscale/airflow-provider-ray) by [anyscale](https://github.com/anyscale)  
-airflow-provider-ray: Ray provider for Apache Airflow  
+Ray provider for Apache Airflow  
 [https://github.com/anyscale/airflow-provider-ray](https://github.com/anyscale/airflow-provider-ray)  
 0.29 stars per week over 113 weeks  
 33 stars, 9 forks, 13 watches  
@@ -11682,7 +11713,7 @@ airflow-provider-ray: Ray provider for Apache Airflow
 
 
 ### [LOD2BuildingModel](https://github.com/gdaosu/lod2buildingmodel) by [gdaosu](https://github.com/gdaosu)  
-LOD2BuildingModel: SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite-derived DSM and Orthophoto  
+SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite-derived DSM and Orthophoto  
 [https://github.com/gdaosu/lod2buildingmodel](https://github.com/gdaosu/lod2buildingmodel)  
 1.24 stars per week over 87 weeks  
 109 stars, 24 forks, 9 watches  
@@ -11690,7 +11721,7 @@ LOD2BuildingModel: SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite
 
 
 ### [ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm) by [nerolation](https://github.com/nerolation)  
-ethereum-datafarm: Scrap blockchain data from the public API of Etherscan.io  
+Scrap blockchain data from the public API of Etherscan.io  
 [https://github.com/nerolation/ethereum-datafarm](https://github.com/nerolation/ethereum-datafarm)  
 0.45 stars per week over 112 weeks  
 50 stars, 10 forks, 1 watches  
@@ -11698,7 +11729,7 @@ ethereum-datafarm: Scrap blockchain data from the public API of Etherscan.io
 
 
 ### [forward_forward_vhts](https://github.com/pgniewko/forward_forward_vhts) by [pgniewko](https://github.com/pgniewko)  
-forward_forward_vhts: The Forward-Forward Algorithm for Drug Discovery  
+The Forward-Forward Algorithm for Drug Discovery  
 [https://github.com/pgniewko/forward_forward_vhts](https://github.com/pgniewko/forward_forward_vhts)  
 1.63 stars per week over 18 weeks  
 30 stars, 5 forks, 1 watches  
@@ -11706,7 +11737,7 @@ forward_forward_vhts: The Forward-Forward Algorithm for Drug Discovery
 
 
 ### [dashing](https://github.com/federicoceratto/dashing) by [federicoceratto](https://github.com/federicoceratto)  
-dashing: Terminal dashboards for Python  
+Terminal dashboards for Python  
 [https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
 [https://github.com/federicoceratto/dashing](https://github.com/federicoceratto/dashing)  
 1.15 stars per week over 309 weeks  
@@ -11716,7 +11747,7 @@ dashing: Terminal dashboards for Python
 
 
 ### [malloy-py](https://github.com/malloydata/malloy-py) by [malloydata](https://github.com/malloydata)  
-malloy-py: Python package for executing Malloy  
+Python package for executing Malloy  
 [https://github.com/malloydata/malloy-py](https://github.com/malloydata/malloy-py)  
 0.15 stars per week over 26 weeks  
 4 stars, 1 forks, 6 watches  
@@ -11725,7 +11756,7 @@ malloy-py: Python package for executing Malloy
 
 
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  
-cookiecutter-modern-datascience: Start a data science project with modern tools  
+Start a data science project with modern tools  
 [https://github.com/crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience)  
 1.01 stars per week over 147 weeks  
 149 stars, 34 forks, 3 watches  
@@ -11734,7 +11765,7 @@ cookiecutter-modern-datascience: Start a data science project with modern tools
 
 
 ### [cottonwood](https://github.com/brohrer/cottonwood) by [brohrer](https://github.com/brohrer)  
-cottonwood: A flexible neural network framework for running experiments and trying ideas.  
+A flexible neural network framework for running experiments and trying ideas.  
 [https://end-to-end-machine-learning.teachable.com/p/write-a-neural-network-framework/](https://end-to-end-machine-learning.teachable.com/p/write-a-neural-network-framework/)  
 [https://github.com/brohrer/cottonwood](https://github.com/brohrer/cottonwood)  
 0.4 stars per week over 188 weeks  
@@ -11743,7 +11774,7 @@ cottonwood: A flexible neural network framework for running experiments and tryi
 
 
 ### [sparklines](https://github.com/deeplook/sparklines) by [deeplook](https://github.com/deeplook)  
-sparklines: Text-based sparkline command line mimicking those of Edward Tuft.  
+Text-based sparkline command line mimicking those of Edward Tuft.  
 [https://github.com/deeplook/sparklines](https://github.com/deeplook/sparklines)  
 0.23 stars per week over 363 weeks  
 84 stars, 5 forks, 3 watches  
@@ -11752,7 +11783,7 @@ sparklines: Text-based sparkline command line mimicking those of Edward Tuft.
 
 
 ### [calm-notebooks](https://github.com/koaning/calm-notebooks) by [koaning](https://github.com/koaning)  
-calm-notebooks: notebooks that are used at calmcode.io  
+notebooks that are used at calmcode.io  
 [https://calmcode.io](https://calmcode.io)  
 [https://github.com/koaning/calm-notebooks](https://github.com/koaning/calm-notebooks)  
 1.09 stars per week over 166 weeks  
@@ -11761,7 +11792,7 @@ calm-notebooks: notebooks that are used at calmcode.io
 
 
 ### [python-project-template](https://github.com/dylanhogg/python-project-template) by [dylanhogg](https://github.com/dylanhogg)  
-python-project-template: A quick-start Python project template with helpful functionality and common libraries.  
+A quick-start Python project template with helpful functionality and common libraries.  
 [https://github.com/dylanhogg/python-project-template](https://github.com/dylanhogg/python-project-template)  
 0.01 stars per week over 168 weeks  
 1 stars, 0 forks, 2 watches  
@@ -11770,7 +11801,7 @@ python-project-template: A quick-start Python project template with helpful func
 
 
 ### [lex-glue](https://github.com/coastalcph/lex-glue) by [coastalcph](https://github.com/coastalcph)  
-lex-glue: LexGLUE: A Benchmark Dataset for Legal Language Understanding in English  
+LexGLUE: A Benchmark Dataset for Legal Language Understanding in English  
 [https://github.com/coastalcph/lex-glue](https://github.com/coastalcph/lex-glue)  
 1.31 stars per week over 83 weeks  
 110 stars, 28 forks, 8 watches  
@@ -11779,7 +11810,7 @@ lex-glue: LexGLUE: A Benchmark Dataset for Legal Language Understanding in Engli
 
 
 ### [GameGAN_code](https://github.com/nv-tlabs/gamegan_code) by [nv-tlabs](https://github.com/nv-tlabs)  
-GameGAN_code: Learning to Simulate Dynamic Environments with GameGAN (CVPR 2020)  
+Learning to Simulate Dynamic Environments with GameGAN (CVPR 2020)  
 [https://github.com/nv-tlabs/gamegan_code](https://github.com/nv-tlabs/gamegan_code)  
 1.67 stars per week over 125 weeks  
 209 stars, 36 forks, 10 watches  
@@ -11797,7 +11828,7 @@ DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains
 
 
 ### [mapcompare](https://github.com/gregorhd/mapcompare) by [gregorhd](https://github.com/gregorhd)  
-mapcompare: Comparison of Python packages and libraries for visualising geospatial vector data: applications for Smarter Cities.  
+Comparison of Python packages and libraries for visualising geospatial vector data: applications for Smarter Cities.  
 [https://github.com/gregorhd/mapcompare](https://github.com/gregorhd/mapcompare)  
 0.28 stars per week over 102 weeks  
 29 stars, 0 forks, 2 watches  
@@ -11806,7 +11837,7 @@ mapcompare: Comparison of Python packages and libraries for visualising geospati
 
 
 ### [boundary-iou-api](https://github.com/bowenc0221/boundary-iou-api) by [bowenc0221](https://github.com/bowenc0221)  
-boundary-iou-api: Boundary IoU API (Beta version)  
+Boundary IoU API (Beta version)  
 [https://github.com/bowenc0221/boundary-iou-api](https://github.com/bowenc0221/boundary-iou-api)  
 1.66 stars per week over 109 weeks  
 182 stars, 20 forks, 8 watches  
@@ -11814,7 +11845,7 @@ boundary-iou-api: Boundary IoU API (Beta version)
 
 
 ### [socialways](https://github.com/crowdbotp/socialways) by [crowdbotp](https://github.com/crowdbotp)  
-socialways: Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs (CVPR 2019)  
+Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs (CVPR 2019)  
 [https://github.com/crowdbotp/socialways](https://github.com/crowdbotp/socialways)  
 0.54 stars per week over 210 weeks  
 113 stars, 45 forks, 9 watches  
@@ -11823,7 +11854,7 @@ socialways: Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajec
 
 
 ### [pytrait](https://github.com/xrudelis/pytrait) by [xrudelis](https://github.com/xrudelis)  
-pytrait: Traits for Python3  
+Traits for Python3  
 [https://github.com/xrudelis/pytrait](https://github.com/xrudelis/pytrait)  
 1.64 stars per week over 76 weeks  
 125 stars, 3 forks, 3 watches  
@@ -11831,7 +11862,7 @@ pytrait: Traits for Python3
 
 
 ### [geonetworkx](https://github.com/artelys/geonetworkx) by [artelys](https://github.com/artelys)  
-geonetworkx: Python tools for geographic graphs  
+Python tools for geographic graphs  
 [https://github.com/artelys/geonetworkx](https://github.com/artelys/geonetworkx)  
 0.16 stars per week over 184 weeks  
 30 stars, 1 forks, 7 watches  
@@ -11839,7 +11870,7 @@ geonetworkx: Python tools for geographic graphs
 
 
 ### [python-collab-template](https://github.com/eugeneyan/python-collab-template) by [eugeneyan](https://github.com/eugeneyan)  
-python-collab-template: 🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
+🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
 [https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)  
 [https://github.com/eugeneyan/python-collab-template](https://github.com/eugeneyan/python-collab-template)  
 0.85 stars per week over 150 weeks  
@@ -11849,7 +11880,7 @@ python-collab-template: 🛠 Python project template with unit tests, code cover
 
 
 ### [crowddynamics](https://github.com/crowddynamics/crowddynamics)  
-crowddynamics: Continuous-time multi-agent crowd simulation engine implemented in Python using Numba and Numpy for performance.  
+Continuous-time multi-agent crowd simulation engine implemented in Python using Numba and Numpy for performance.  
 [https://jaantollander.com/post/how-to-implement-continuous-time-multi-agent-crowd-simulation/](https://jaantollander.com/post/how-to-implement-continuous-time-multi-agent-crowd-simulation/)  
 [https://github.com/crowddynamics/crowddynamics](https://github.com/crowddynamics/crowddynamics)  
 0.08 stars per week over 371 weeks  
@@ -11859,7 +11890,7 @@ crowddynamics: Continuous-time multi-agent crowd simulation engine implemented i
 
 
 ### [MapRepair](https://github.com/zorzi-s/maprepair) by [zorzi-s](https://github.com/zorzi-s)  
-MapRepair: Deep Cadastre Maps Alignment and Temporal Inconsistencies Fix in Satellite Images  
+Deep Cadastre Maps Alignment and Temporal Inconsistencies Fix in Satellite Images  
 [https://github.com/zorzi-s/maprepair](https://github.com/zorzi-s/maprepair)  
 0.12 stars per week over 144 weeks  
 17 stars, 4 forks, 2 watches  
@@ -11867,7 +11898,7 @@ MapRepair: Deep Cadastre Maps Alignment and Temporal Inconsistencies Fix in Sate
 
 
 ### [punctuator](https://github.com/ferdinandzhong/punctuator) by [ferdinandzhong](https://github.com/ferdinandzhong)  
-punctuator: A small seq2seq punctuator tool based on DistilBERT  
+A small seq2seq punctuator tool based on DistilBERT  
 [https://github.com/ferdinandzhong/punctuator](https://github.com/ferdinandzhong/punctuator)  
 0.3 stars per week over 128 weeks  
 38 stars, 5 forks, 1 watches  
@@ -11876,7 +11907,7 @@ punctuator: A small seq2seq punctuator tool based on DistilBERT
 
 
 ### [arxiv-dl](https://github.com/markhershey/arxiv-dl) by [markhershey](https://github.com/markhershey)  
-arxiv-dl: Command-line ArXiv & CVF (CVPR, ICCV, WACV) Paper Downloader  
+Command-line ArXiv & CVF (CVPR, ICCV, WACV) Paper Downloader  
 [https://pypi.org/project/arxiv-dl/](https://pypi.org/project/arxiv-dl/)  
 [https://github.com/markhershey/arxiv-dl](https://github.com/markhershey/arxiv-dl)  
 0.14 stars per week over 119 weeks  
@@ -11902,7 +11933,7 @@ anyscale/rl-course
 
 
 ### [knowledge-neurons](https://github.com/eleutherai/knowledge-neurons) by [eleutherai](https://github.com/eleutherai)  
-knowledge-neurons: A library for finding knowledge neurons in pretrained transformer models.  
+A library for finding knowledge neurons in pretrained transformer models.  
 [https://github.com/eleutherai/knowledge-neurons](https://github.com/eleutherai/knowledge-neurons)  
 1.21 stars per week over 92 weeks  
 112 stars, 13 forks, 3 watches  
@@ -11911,7 +11942,7 @@ knowledge-neurons: A library for finding knowledge neurons in pretrained transfo
 
 
 ### [Unbiased-Trace-Driven-Simulation](https://github.com/causalsim/unbiased-trace-driven-simulation) by [causalsim](https://github.com/causalsim)  
-causalsim/unbiased-trace-driven-simulation  
+causalsim/Unbiased-Trace-Driven-Simulation  
 [https://github.com/causalsim/unbiased-trace-driven-simulation](https://github.com/causalsim/unbiased-trace-driven-simulation)  
 0.3 stars per week over 32 weeks  
 10 stars, 3 forks, 0 watches  
@@ -11919,7 +11950,7 @@ causalsim/unbiased-trace-driven-simulation
 
 
 ### [street-network-models](https://github.com/gboeing/street-network-models) by [gboeing](https://github.com/gboeing)  
-street-network-models: Street network models and indicators for every urban area in the world  
+Street network models and indicators for every urban area in the world  
 [https://osf.io/f2dqc](https://osf.io/f2dqc)  
 [https://github.com/gboeing/street-network-models](https://github.com/gboeing/street-network-models)  
 0.41 stars per week over 159 weeks  
@@ -11928,7 +11959,7 @@ street-network-models: Street network models and indicators for every urban area
 
 
 ### [projectRegularization](https://github.com/zorzi-s/projectregularization) by [zorzi-s](https://github.com/zorzi-s)  
-projectRegularization: Regularization of Building Boundaries using Adversarial and Regularized losses  
+Regularization of Building Boundaries using Adversarial and Regularized losses  
 [https://github.com/zorzi-s/projectregularization](https://github.com/zorzi-s/projectregularization)  
 0.83 stars per week over 102 weeks  
 85 stars, 9 forks, 2 watches  
@@ -11936,7 +11967,7 @@ projectRegularization: Regularization of Building Boundaries using Adversarial a
 
 
 ### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
-markov_clustering: markov clustering in python  
+markov clustering in python  
 [https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
 0.47 stars per week over 292 weeks  
 137 stars, 34 forks, 9 watches  
@@ -11945,7 +11976,7 @@ markov_clustering: markov clustering in python
 
 
 ### [wikinet](https://github.com/harangju/wikinet) by [harangju](https://github.com/harangju)  
-wikinet: Python library for exploring networks of hyperlinked Wikipedia articles  
+Python library for exploring networks of hyperlinked Wikipedia articles  
 [https://github.com/harangju/wikinet](https://github.com/harangju/wikinet)  
 0.05 stars per week over 195 weeks  
 10 stars, 5 forks, 3 watches  
@@ -11953,7 +11984,7 @@ wikinet: Python library for exploring networks of hyperlinked Wikipedia articles
 
 
 ### [The-Pile-FreeLaw](https://github.com/thoppe/the-pile-freelaw) by [thoppe](https://github.com/thoppe)  
-The-Pile-FreeLaw: Download, parse, and filter data from Court Listener, part of the FreeLaw projects. Data-ready for The-Pile.  
+Download, parse, and filter data from Court Listener, part of the FreeLaw projects. Data-ready for The-Pile.  
 [https://github.com/thoppe/the-pile-freelaw](https://github.com/thoppe/the-pile-freelaw)  
 0.01 stars per week over 138 weeks  
 2 stars, 2 forks, 2 watches  
@@ -11962,7 +11993,7 @@ The-Pile-FreeLaw: Download, parse, and filter data from Court Listener, part of 
 
 
 ### [area](https://github.com/scisco/area) by [scisco](https://github.com/scisco)  
-area: Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python  
+Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python  
 [https://github.com/scisco/area](https://github.com/scisco/area)  
 0.22 stars per week over 388 weeks  
 87 stars, 22 forks, 3 watches  
@@ -11970,7 +12001,7 @@ area: Calculate the area inside of any GeoJSON geometry. This is a port of Mapbo
 
 
 ### [mapalignment](https://github.com/lydorn/mapalignment) by [lydorn](https://github.com/lydorn)  
-mapalignment: Aligning and Updating Cadaster Maps with Remote Sensing Images  
+Aligning and Updating Cadaster Maps with Remote Sensing Images  
 [https://github.com/lydorn/mapalignment](https://github.com/lydorn/mapalignment)  
 0.24 stars per week over 243 weeks  
 59 stars, 13 forks, 4 watches  
@@ -11978,7 +12009,7 @@ mapalignment: Aligning and Updating Cadaster Maps with Remote Sensing Images
 
 
 ### [async-python-lambda-template](https://github.com/geeogi/async-python-lambda-template) by [geeogi](https://github.com/geeogi)  
-async-python-lambda-template: Build a high-performance Python function in AWS lambda using asyncio, aiohttp and aiobotocore.  
+Build a high-performance Python function in AWS lambda using asyncio, aiohttp and aiobotocore.  
 [https://github.com/geeogi/async-python-lambda-template](https://github.com/geeogi/async-python-lambda-template)  
 0.42 stars per week over 149 weeks  
 63 stars, 6 forks, 4 watches  
@@ -11986,7 +12017,7 @@ async-python-lambda-template: Build a high-performance Python function in AWS la
 
 
 ### [PyCausality](https://github.com/zackeskin/pycausality) by [zackeskin](https://github.com/zackeskin)  
-PyCausality: Calculate predictive causality between time series using information-theoretic techniques  
+Calculate predictive causality between time series using information-theoretic techniques  
 [https://github.com/zackeskin/pycausality](https://github.com/zackeskin/pycausality)  
 0.31 stars per week over 249 weeks  
 77 stars, 23 forks, 6 watches  
@@ -11994,7 +12025,7 @@ PyCausality: Calculate predictive causality between time series using informatio
 
 
 ### [dynpy](https://github.com/artemyk/dynpy) by [artemyk](https://github.com/artemyk)  
-dynpy: Dynamical systems for Python  
+Dynamical systems for Python  
 [https://github.com/artemyk/dynpy](https://github.com/artemyk/dynpy)  
 0.01 stars per week over 451 weeks  
 6 stars, 5 forks, 3 watches  
@@ -12002,7 +12033,7 @@ dynpy: Dynamical systems for Python
 
 
 ### [wagyu](https://github.com/lycantropos/wagyu) by [lycantropos](https://github.com/lycantropos)  
-wagyu: Python port of mapbox/wagyu library (with separate C++ binding)  
+Python port of mapbox/wagyu library (with separate C++ binding)  
 [https://github.com/mapbox/wagyu](https://github.com/mapbox/wagyu)  
 [https://github.com/lycantropos/wagyu](https://github.com/lycantropos/wagyu)  
 0.02 stars per week over 148 weeks  
@@ -12011,7 +12042,7 @@ wagyu: Python port of mapbox/wagyu library (with separate C++ binding)
 
 
 ### [Lenia-Tutorial](https://github.com/openlenia/lenia-tutorial) by [openlenia](https://github.com/openlenia)  
-openlenia/lenia-tutorial  
+openlenia/Lenia-Tutorial  
 [https://github.com/openlenia/lenia-tutorial](https://github.com/openlenia/lenia-tutorial)  
 0.25 stars per week over 94 weeks  
 24 stars, 2 forks, 2 watches  

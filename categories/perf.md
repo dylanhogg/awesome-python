@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [polars](https://github.com/pola-rs/polars) by [pola-rs](https://github.com/pola-rs)  
-polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js  
+Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js  
 [https://pola.rs/](https://pola.rs/)  
 [https://github.com/pola-rs/polars](https://github.com/pola-rs/polars)  
 108 stars per week over 155 weeks  
@@ -16,13 +16,13 @@ created 2020-05-13, last commit 2023-05-05, main language Rust
 
 
 ### [nebuly](https://github.com/nebuly-ai/nebullvm) by [nebuly-ai](https://github.com/nebuly-ai)  
-nebuly: The next-generation platform to monitor and optimize your AI costs in one place 🚀  
+The next-generation platform to monitor and optimize your AI costs in one place 🚀  
 [https://www.nebuly.com/](https://www.nebuly.com/)  
 [https://github.com/nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)  
 125 stars per week over 64 weeks  
 8,043 stars, 636 forks, 98 watches  
 created 2022-02-12, last commit 2023-05-05, main language Python  
-<sub><sup>compiler, computing, deep-learning, edge-computing, gpu, huggingface, inference, machine-learning, neural-network, onnx, openvino, optimization, pypi, pytorch, quantization, tensorflow, tensorrt, transformers, tvm</sup></sub>
+<sub><sup>compiler, computing, deep-learning, edge-computing, gpu, huggingface, inference, machine-learning, neural-network, onnx, openvino, optimization, pytorch, quantization, tensorflow, tensorrt, transformers, tvm</sup></sub>
 
 
 ### [flatbuffers](https://github.com/google/flatbuffers) by [google](https://github.com/google)  
@@ -36,7 +36,7 @@ created 2014-05-19, last commit 2023-05-05, main language C++
 
 
 ### [codon](https://github.com/exaloop/codon) by [exaloop](https://github.com/exaloop)  
-codon: A high-performance, zero-overhead, extensible Python compiler using LLVM  
+A high-performance, zero-overhead, extensible Python compiler using LLVM  
 [https://docs.exaloop.io/codon](https://docs.exaloop.io/codon)  
 [https://github.com/exaloop/codon](https://github.com/exaloop/codon)  
 148 stars per week over 83 weeks  
@@ -46,7 +46,7 @@ created 2021-09-27, last commit 2023-05-05, main language C++
 
 
 ### [dask](https://github.com/dask/dask)  
-dask: Parallel computing with task scheduling  
+Parallel computing with task scheduling  
 [https://dask.org](https://dask.org)  
 [https://github.com/dask/dask](https://github.com/dask/dask)  
 25 stars per week over 435 weeks  
@@ -56,7 +56,7 @@ created 2015-01-04, last commit 2023-05-05, main language Python
 
 
 ### [celery](https://github.com/celery/celery)  
-celery: Distributed Task Queue (development branch)  
+Distributed Task Queue (development branch)  
 [https://docs.celeryq.dev](https://docs.celeryq.dev)  
 [https://github.com/celery/celery](https://github.com/celery/celery)  
 29 stars per week over 732 weeks  
@@ -66,7 +66,7 @@ created 2009-04-24, last commit 2023-05-06, main language Python
 
 
 ### [pybind11](https://github.com/pybind/pybind11) by [pybind](https://github.com/pybind)  
-pybind11: Seamless operability between C++11 and Python  
+Seamless operability between C++11 and Python  
 [https://pybind11.readthedocs.io/](https://pybind11.readthedocs.io/)  
 [https://github.com/pybind/pybind11](https://github.com/pybind/pybind11)  
 30 stars per week over 409 weeks  
@@ -86,7 +86,7 @@ created 2018-06-21, last commit 2023-05-05, main language Python
 
 
 ### [numba](https://github.com/numba/numba)  
-numba: NumPy aware dynamic Python compiler using LLVM  
+NumPy aware dynamic Python compiler using LLVM  
 [http://numba.pydata.org/](http://numba.pydata.org/)  
 [https://github.com/numba/numba](https://github.com/numba/numba)  
 14 stars per week over 582 weeks  
@@ -106,7 +106,7 @@ created 2017-01-16, last commit 2023-05-05, main language Python
 
 
 ### [vaex](https://github.com/vaexio/vaex) by [vaexio](https://github.com/vaexio)  
-vaex: Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀  
+Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀  
 [https://vaex.io](https://vaex.io)  
 [https://github.com/vaexio/vaex](https://github.com/vaexio/vaex)  
 17 stars per week over 449 weeks  
@@ -116,7 +116,7 @@ created 2014-09-27, last commit 2022-12-08, main language Python
 
 
 ### [distributed](https://github.com/dask/distributed) by [dask](https://github.com/dask)  
-distributed: A distributed task scheduler for Dask  
+A distributed task scheduler for Dask  
 [https://distributed.dask.org](https://distributed.dask.org)  
 [https://github.com/dask/distributed](https://github.com/dask/distributed)  
 3.67 stars per week over 399 weeks  
@@ -126,7 +126,7 @@ created 2015-09-13, last commit 2023-05-05, main language Python
 
 
 ### [h5py](https://github.com/h5py/h5py)  
-h5py: HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.  
+HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.  
 [http://www.h5py.org](http://www.h5py.org)  
 [https://github.com/h5py/h5py](https://github.com/h5py/h5py)  
 3.37 stars per week over 554 weeks  
@@ -135,7 +135,7 @@ created 2012-09-21, last commit 2023-04-26, main language Python
 
 
 ### [ultrajson](https://github.com/ultrajson/ultrajson)  
-ultrajson: Ultra fast JSON decoder and encoder written in C with Python bindings  
+Ultra fast JSON decoder and encoder written in C with Python bindings  
 [https://pypi.org/project/ujson/](https://pypi.org/project/ujson/)  
 [https://github.com/ultrajson/ultrajson](https://github.com/ultrajson/ultrajson)  
 6.36 stars per week over 636 weeks  
@@ -145,7 +145,7 @@ created 2011-02-27, last commit 2023-05-01, main language C
 
 
 ### [intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) by [intel](https://github.com/intel)  
-intel-extension-for-pytorch: A Python package for extending the official PyTorch that can easily obtain performance on Intel platform  
+A Python package for extending the official PyTorch that can easily obtain performance on Intel platform  
 [https://github.com/intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch)  
 4.78 stars per week over 159 weeks  
 763 stars, 110 forks, 32 watches  
@@ -154,7 +154,7 @@ created 2020-04-15, last commit 2023-04-29, main language Python
 
 
 ### [ipyparallel](https://github.com/ipython/ipyparallel) by [ipython](https://github.com/ipython)  
-ipyparallel: IPython Parallel: Interactive Parallel Computing in Python  
+IPython Parallel: Interactive Parallel Computing in Python  
 [https://ipyparallel.readthedocs.io/](https://ipyparallel.readthedocs.io/)  
 [https://github.com/ipython/ipyparallel](https://github.com/ipython/ipyparallel)  
 5.72 stars per week over 421 weeks  
@@ -164,7 +164,7 @@ created 2015-04-09, last commit 2023-05-04, main language Jupyter Notebook
 
 
 ### [anyio](https://github.com/agronholm/anyio) by [agronholm](https://github.com/agronholm)  
-anyio: High level asynchronous concurrency and networking framework that works on top of either trio or asyncio  
+High level asynchronous concurrency and networking framework that works on top of either trio or asyncio  
 [https://github.com/agronholm/anyio](https://github.com/agronholm/anyio)  
 5.11 stars per week over 246 weeks  
 1,257 stars, 106 forks, 26 watches  
@@ -173,7 +173,7 @@ created 2018-08-19, last commit 2023-05-04, main language Python
 
 
 ### [flower](https://github.com/mher/flower) by [mher](https://github.com/mher)  
-flower: Real-time monitor and web admin for Celery distributed task queue  
+Real-time monitor and web admin for Celery distributed task queue  
 [https://flower.readthedocs.io](https://flower.readthedocs.io)  
 [https://github.com/mher/flower](https://github.com/mher/flower)  
 9.99 stars per week over 565 weeks  
@@ -183,7 +183,7 @@ created 2012-07-08, last commit 2022-11-14, main language Python
 
 
 ### [specialist](https://github.com/brandtbucher/specialist) by [brandtbucher](https://github.com/brandtbucher)  
-specialist: Visualize CPython 3.11's specializing, adaptive interpreter. :fire:  
+Visualize CPython 3.11's specializing, adaptive interpreter. :fire:  
 [https://github.com/brandtbucher/specialist](https://github.com/brandtbucher/specialist)  
 11 stars per week over 48 weeks  
 554 stars, 9 forks, 9 watches  
@@ -191,7 +191,7 @@ created 2022-06-01, last commit 2023-04-26, main language Python
 
 
 ### [scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex) by [intel](https://github.com/intel)  
-scikit-learn-intelex: Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application  
+Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application  
 [https://intel.github.io/scikit-learn-intelex/](https://intel.github.io/scikit-learn-intelex/)  
 [https://github.com/intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex)  
 3.86 stars per week over 247 weeks  
@@ -201,7 +201,7 @@ created 2018-08-07, last commit 2023-05-05, main language Python
 
 
 ### [intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) by [intel](https://github.com/intel)  
-intel-extension-for-transformers: Extending Hugging Face transformers APIs for Transformer-based models and improve the productivity of inference deployment. With extremely compressed models, the toolkit can greatly improve the inference efficiency on Intel platforms.  
+Extending Hugging Face transformers APIs for Transformer-based models and improve the productivity of inference deployment. With extremely compressed models, the toolkit can greatly improve the inference efficiency on Intel platforms.  
 [https://github.com/intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)  
 8.46 stars per week over 25 weeks  
 214 stars, 22 forks, 12 watches  
@@ -220,7 +220,7 @@ created 2022-01-04, last commit 2023-02-21, main language Python
 
 
 ### [asitop](https://github.com/tlkh/asitop) by [tlkh](https://github.com/tlkh)  
-asitop: Perf monitoring CLI tool for Apple Silicon  
+Perf monitoring CLI tool for Apple Silicon  
 [https://tlkh.github.io/asitop/](https://tlkh.github.io/asitop/)  
 [https://github.com/tlkh/asitop](https://github.com/tlkh/asitop)  
 19 stars per week over 79 weeks  
@@ -230,7 +230,7 @@ created 2021-10-27, last commit 2023-01-24, main language Python
 
 
 ### [pycom](https://github.com/omyyyy/pycom) by [omyyyy](https://github.com/omyyyy)  
-pycom: A Python compiler, down to native code, using C++  
+A Python compiler, down to native code, using C++  
 [https://github.com/omyyyy/pycom](https://github.com/omyyyy/pycom)  
 26 stars per week over 42 weeks  
 1,110 stars, 22 forks, 18 watches  
@@ -238,7 +238,7 @@ created 2022-07-16, last commit 2023-04-20, main language C++
 
 
 ### [pointers.py](https://github.com/zerointensity/pointers.py) by [zerointensity](https://github.com/zerointensity)  
-pointers.py: Bringing the hell of pointers to Python.  
+Bringing the hell of pointers to Python.  
 [https://pointers.zintensity.dev/](https://pointers.zintensity.dev/)  
 [https://github.com/zerointensity/pointers.py](https://github.com/zerointensity/pointers.py)  
 13 stars per week over 60 weeks  
@@ -248,7 +248,7 @@ created 2022-03-09, last commit 2023-02-14, main language Python
 
 
 ### [eventlet](https://github.com/eventlet/eventlet)  
-eventlet: Concurrent networking library for Python  
+Concurrent networking library for Python  
 [https://eventlet.net](https://eventlet.net)  
 [https://github.com/eventlet/eventlet](https://github.com/eventlet/eventlet)  
 2.16 stars per week over 542 weeks  
@@ -258,7 +258,7 @@ created 2012-12-11, last commit 2023-03-27, main language Python
 
 
 ### [loky](https://github.com/joblib/loky) by [joblib](https://github.com/joblib)  
-loky: Robust and reusable Executor for joblib  
+Robust and reusable Executor for joblib  
 [http://loky.readthedocs.io/en/stable/](http://loky.readthedocs.io/en/stable/)  
 [https://github.com/joblib/loky](https://github.com/joblib/loky)  
 1.18 stars per week over 384 weeks  
@@ -268,7 +268,7 @@ created 2015-12-25, last commit 2023-04-15, main language Python
 
 
 ### [cachier](https://github.com/python-cachier/cachier) by [python-cachier](https://github.com/python-cachier)  
-cachier: Persistent, stale-free, local and cross-machine caching for Python functions.  
+Persistent, stale-free, local and cross-machine caching for Python functions.  
 [https://github.com/python-cachier/cachier](https://github.com/python-cachier/cachier)  
 1.26 stars per week over 349 weeks  
 442 stars, 51 forks, 7 watches  
@@ -277,7 +277,7 @@ created 2016-08-24, last commit 2023-04-03, main language Python
 
 
 ### [python-blosc](https://github.com/blosc/python-blosc) by [blosc](https://github.com/blosc)  
-python-blosc: A Python wrapper for the extremely fast Blosc compression library   
+A Python wrapper for the extremely fast Blosc compression library   
 [https://www.blosc.org/python-blosc/python-blosc.html](https://www.blosc.org/python-blosc/python-blosc.html)  
 [https://github.com/blosc/python-blosc](https://github.com/blosc/python-blosc)  
 0.51 stars per week over 657 weeks  
@@ -287,7 +287,7 @@ created 2010-09-30, last commit 2023-05-01, main language Python
 
 
 ### [pebble](https://github.com/noxdafox/pebble) by [noxdafox](https://github.com/noxdafox)  
-pebble: Multi threading and processing eye-candy.  
+Multi threading and processing eye-candy.  
 [https://github.com/noxdafox/pebble](https://github.com/noxdafox/pebble)  
 0.84 stars per week over 498 weeks  
 419 stars, 47 forks, 10 watches  
@@ -296,7 +296,7 @@ created 2013-10-16, last commit 2023-03-01, main language Python
 
 
 ### [pympler](https://github.com/pympler/pympler)  
-pympler: Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.  
+Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.  
 [https://github.com/pympler/pympler](https://github.com/pympler/pympler)  
 1.88 stars per week over 552 weeks  
 1,039 stars, 85 forks, 10 watches  
@@ -304,7 +304,7 @@ created 2012-10-04, last commit 2022-07-24, main language Python
 
 
 ### [perfplot](https://github.com/nschloe/perfplot) by [nschloe](https://github.com/nschloe)  
-perfplot: :chart_with_upwards_trend: Performance analysis for Python snippets  
+:chart_with_upwards_trend: Performance analysis for Python snippets  
 [https://github.com/nschloe/perfplot](https://github.com/nschloe/perfplot)  
 3.56 stars per week over 323 weeks  
 1,154 stars, 61 forks, 18 watches  
@@ -313,7 +313,7 @@ created 2017-02-21, last commit 2022-06-06, main language Python
 
 
 ### [cacheout](https://github.com/dgilland/cacheout) by [dgilland](https://github.com/dgilland)  
-cacheout: A caching library for Python  
+A caching library for Python  
 [https://cacheout.readthedocs.io](https://cacheout.readthedocs.io)  
 [https://github.com/dgilland/cacheout](https://github.com/dgilland/cacheout)  
 1.28 stars per week over 277 weeks  
@@ -323,7 +323,7 @@ created 2018-01-12, last commit 2023-01-29, main language Python
 
 
 ### [py-frameworks-bench](https://github.com/klen/py-frameworks-bench) by [klen](https://github.com/klen)  
-py-frameworks-bench: Another benchmark for some python frameworks  
+Another benchmark for some python frameworks  
 [https://klen.github.io/py-frameworks-bench/](https://klen.github.io/py-frameworks-bench/)  
 [https://github.com/klen/py-frameworks-bench](https://github.com/klen/py-frameworks-bench)  
 1.64 stars per week over 418 weeks  
@@ -333,7 +333,7 @@ created 2015-04-30, last commit 2022-03-14, main language Python
 
 
 ### [vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark) by [qdrant](https://github.com/qdrant)  
-vector-db-benchmark: Framework for benchmarking vector search engines  
+Framework for benchmarking vector search engines  
 [https://qdrant.tech/benchmarks/](https://qdrant.tech/benchmarks/)  
 [https://github.com/qdrant/vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark)  
 1.62 stars per week over 42 weeks  
@@ -343,7 +343,7 @@ created 2022-07-12, last commit 2023-04-12, main language Python
 
 
 ### [faster-cpython](https://github.com/markshannon/faster-cpython) by [markshannon](https://github.com/markshannon)  
-faster-cpython: How to make CPython faster.  
+How to make CPython faster.  
 [https://github.com/markshannon/faster-cpython](https://github.com/markshannon/faster-cpython)  
 6.85 stars per week over 132 weeks  
 910 stars, 21 forks, 84 watches  
@@ -351,7 +351,7 @@ created 2020-10-19, last commit 2020-10-28, main language None
 
 
 ### [tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments) by [tlkh](https://github.com/tlkh)  
-tf-metal-experiments: TensorFlow Metal Backend on Apple Silicon Experiments (just for fun)  
+TensorFlow Metal Backend on Apple Silicon Experiments (just for fun)  
 [https://github.com/tlkh/tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments)  
 2.6 stars per week over 79 weeks  
 207 stars, 21 forks, 13 watches  

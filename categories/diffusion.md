@@ -26,7 +26,7 @@ created 2022-05-30, last commit 2023-05-05, main language Python
 
 
 ### [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) by [automatic1111](https://github.com/automatic1111)  
-stable-diffusion-webui: Stable Diffusion web UI  
+Stable Diffusion web UI  
 [https://github.com/automatic1111/stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui)  
 1952 stars per week over 36 weeks  
 71,950 stars, 13,651 forks, 666 watches  
@@ -45,7 +45,7 @@ created 2022-11-25, last commit 2023-05-03, main language Python
 
 
 ### [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) by [apple](https://github.com/apple)  
-ml-stable-diffusion: Stable Diffusion with Core ML on Apple Silicon  
+Stable Diffusion with Core ML on Apple Silicon  
 [https://github.com/apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion)  
 486 stars per week over 24 weeks  
 11,956 stars, 543 forks, 103 watches  
@@ -53,7 +53,7 @@ created 2022-11-16, last commit 2023-05-01, main language Python
 
 
 ### [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) by [divamgupta](https://github.com/divamgupta)  
-diffusionbee-stable-diffusion-ui: Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.  
+Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.  
 [https://diffusionbee.com](https://diffusionbee.com)  
 [https://github.com/divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)  
 275 stars per week over 34 weeks  
@@ -63,7 +63,7 @@ created 2022-09-06, last commit 2023-05-06, main language JavaScript
 
 
 ### [dream-textures](https://github.com/carson-katri/dream-textures) by [carson-katri](https://github.com/carson-katri)  
-dream-textures: Stable Diffusion built-in to Blender  
+Stable Diffusion built-in to Blender  
 [https://github.com/carson-katri/dream-textures](https://github.com/carson-katri/dream-textures)  
 190 stars per week over 34 weeks  
 6,565 stars, 345 forks, 100 watches  
@@ -72,7 +72,7 @@ created 2022-09-08, last commit 2023-04-21, main language Python
 
 
 ### [ControlNet](https://github.com/lllyasviel/controlnet) by [lllyasviel](https://github.com/lllyasviel)  
-ControlNet: Let us control diffusion models!  
+Let us control diffusion models!  
 [https://github.com/lllyasviel/controlnet](https://github.com/lllyasviel/controlnet)  
 1363 stars per week over 13 weeks  
 18,509 stars, 1,719 forks, 188 watches  
@@ -80,7 +80,7 @@ created 2023-02-01, last commit 2023-04-23, main language Python
 
 
 ### [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) by [ashawkey](https://github.com/ashawkey)  
-stable-dreamfusion: A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.  
+A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.  
 [https://github.com/ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)  
 171 stars per week over 30 weeks  
 5,217 stars, 471 forks, 105 watches  
@@ -89,7 +89,7 @@ created 2022-10-06, last commit 2023-05-06, main language Python
 
 
 ### [stablediffusion](https://github.com/stability-ai/stablediffusion) by [stability-ai](https://github.com/stability-ai)  
-stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models  
+High-Resolution Image Synthesis with Latent Diffusion Models  
 [https://github.com/stability-ai/stablediffusion](https://github.com/stability-ai/stablediffusion)  
 912 stars per week over 23 weeks  
 21,506 stars, 2,615 forks, 292 watches  
@@ -97,7 +97,7 @@ created 2022-11-23, last commit 2023-03-25, main language Python
 
 
 ### [DALLE2-pytorch](https://github.com/lucidrains/dalle2-pytorch) by [lucidrains](https://github.com/lucidrains)  
-DALLE2-pytorch: Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch  
+Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch  
 [https://github.com/lucidrains/dalle2-pytorch](https://github.com/lucidrains/dalle2-pytorch)  
 170 stars per week over 56 weeks  
 9,605 stars, 892 forks, 125 watches  
@@ -106,7 +106,7 @@ created 2022-04-07, last commit 2023-04-20, main language Python
 
 
 ### [stable-diffusion](https://github.com/compvis/stable-diffusion) by [compvis](https://github.com/compvis)  
-stable-diffusion: A latent text-to-image diffusion model  
+A latent text-to-image diffusion model  
 [https://ommer-lab.com/research/latent-diffusion-models/](https://ommer-lab.com/research/latent-diffusion-models/)  
 [https://github.com/compvis/stable-diffusion](https://github.com/compvis/stable-diffusion)  
 1378 stars per week over 38 weeks  
@@ -115,7 +115,7 @@ created 2022-08-10, last commit 2022-11-16, main language Jupyter Notebook
 
 
 ### [dinov2](https://github.com/facebookresearch/dinov2) by [facebookresearch](https://github.com/facebookresearch)  
-dinov2: PyTorch code and models for the DINOv2 self-supervised learning method.  
+PyTorch code and models for the DINOv2 self-supervised learning method.  
 [https://github.com/facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)  
 803 stars per week over 5 weeks  
 4,477 stars, 246 forks, 78 watches  
@@ -123,7 +123,7 @@ created 2023-03-29, last commit 2023-04-27, main language Python
 
 
 ### [consistency_models](https://github.com/openai/consistency_models) by [openai](https://github.com/openai)  
-consistency_models: Official repo for consistency models.  
+Official repo for consistency models.  
 [https://github.com/openai/consistency_models](https://github.com/openai/consistency_models)  
 507 stars per week over 10 weeks  
 5,074 stars, 301 forks, 61 watches  
@@ -131,7 +131,7 @@ created 2023-02-26, last commit 2023-04-12, main language Python
 
 
 ### [dalle-mini](https://github.com/borisdayma/dalle-mini) by [borisdayma](https://github.com/borisdayma)  
-dalle-mini: DALL·E Mini - Generate images from a text prompt  
+DALL·E Mini - Generate images from a text prompt  
 [https://www.craiyon.com](https://www.craiyon.com)  
 [https://github.com/borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)  
 146 stars per week over 96 weeks  
@@ -148,7 +148,7 @@ created 2023-01-09, last commit 2023-01-31, main language Python
 
 
 ### [stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) by [nateraw](https://github.com/nateraw)  
-stable-diffusion-videos: Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts  
+Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts  
 [https://github.com/nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)  
 76 stars per week over 34 weeks  
 2,669 stars, 260 forks, 35 watches  
@@ -157,7 +157,7 @@ created 2022-09-06, last commit 2023-02-18, main language Python
 
 
 ### [stability-sdk](https://github.com/stability-ai/stability-sdk) by [stability-ai](https://github.com/stability-ai)  
-stability-sdk: SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)  
+SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)  
 [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)  
 [https://github.com/stability-ai/stability-sdk](https://github.com/stability-ai/stability-sdk)  
 58 stars per week over 36 weeks  
@@ -187,7 +187,7 @@ created 2023-03-16, last commit 2023-04-29, main language Jupyter Notebook
 
 
 ### [discoart](https://github.com/jina-ai/discoart) by [jina-ai](https://github.com/jina-ai)  
-discoart: 🪩 Create Disco Diffusion artworks in one line  
+🪩 Create Disco Diffusion artworks in one line  
 [https://github.com/jina-ai/discoart](https://github.com/jina-ai/discoart)  
 84 stars per week over 44 weeks  
 3,772 stars, 236 forks, 33 watches  
@@ -196,7 +196,7 @@ created 2022-06-30, last commit 2023-04-20, main language Python
 
 
 ### [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) by [lkwq007](https://github.com/lkwq007)  
-stablediffusion-infinity: Outpainting with Stable Diffusion on an infinite canvas  
+Outpainting with Stable Diffusion on an infinite canvas  
 [https://github.com/lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)  
 93 stars per week over 35 weeks  
 3,291 stars, 255 forks, 36 watches  
@@ -205,7 +205,7 @@ created 2022-09-02, last commit 2023-01-24, main language Python
 
 
 ### [latent-diffusion](https://github.com/compvis/latent-diffusion) by [compvis](https://github.com/compvis)  
-latent-diffusion: High-Resolution Image Synthesis with Latent Diffusion Models  
+High-Resolution Image Synthesis with Latent Diffusion Models  
 [https://github.com/compvis/latent-diffusion](https://github.com/compvis/latent-diffusion)  
 102 stars per week over 71 weeks  
 7,383 stars, 995 forks, 81 watches  
@@ -213,7 +213,7 @@ created 2021-12-20, last commit 2022-07-26, main language Jupyter Notebook
 
 
 ### [Dreambooth-Stable-Diffusion](https://github.com/xavierxiao/dreambooth-stable-diffusion) by [xavierxiao](https://github.com/xavierxiao)  
-Dreambooth-Stable-Diffusion: Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion  
+Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion  
 [https://github.com/xavierxiao/dreambooth-stable-diffusion](https://github.com/xavierxiao/dreambooth-stable-diffusion)  
 182 stars per week over 34 weeks  
 6,338 stars, 699 forks, 90 watches  
@@ -222,7 +222,7 @@ created 2022-09-06, last commit 2022-09-21, main language Jupyter Notebook
 
 
 ### [dalle-playground](https://github.com/saharmor/dalle-playground) by [saharmor](https://github.com/saharmor)  
-dalle-playground: A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)  
+A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)  
 [https://github.com/saharmor/dalle-playground](https://github.com/saharmor/dalle-playground)  
 30 stars per week over 85 weeks  
 2,657 stars, 587 forks, 31 watches  
@@ -231,7 +231,7 @@ created 2021-09-13, last commit 2023-04-14, main language JavaScript
 
 
 ### [stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow) by [divamgupta](https://github.com/divamgupta)  
-stable-diffusion-tensorflow: Stable Diffusion in TensorFlow / Keras  
+Stable Diffusion in TensorFlow / Keras  
 [https://github.com/divamgupta/stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)  
 43 stars per week over 33 weeks  
 1,446 stars, 200 forks, 22 watches  
@@ -239,7 +239,7 @@ created 2022-09-15, last commit 2022-11-22, main language Python
 
 
 ### [unprompted](https://github.com/thereforegames/unprompted) by [thereforegames](https://github.com/thereforegames)  
-unprompted: Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.  
+Templating language written for Stable Diffusion workflows. Available as an extension for the Automatic1111 WebUI.  
 [https://github.com/thereforegames/unprompted](https://github.com/thereforegames/unprompted)  
 19 stars per week over 26 weeks  
 511 stars, 48 forks, 10 watches  
@@ -264,7 +264,7 @@ created 2023-01-02, last commit 2023-05-05, main language Python
 
 
 ### [glide-text2im](https://github.com/openai/glide-text2im) by [openai](https://github.com/openai)  
-glide-text2im: GLIDE: a diffusion-based text-conditional image synthesis model  
+GLIDE: a diffusion-based text-conditional image synthesis model  
 [https://github.com/openai/glide-text2im](https://github.com/openai/glide-text2im)  
 43 stars per week over 73 weeks  
 3,161 stars, 448 forks, 133 watches  
@@ -272,7 +272,7 @@ created 2021-12-10, last commit 2022-03-21, main language Python
 
 
 ### [latentblending](https://github.com/lunarring/latentblending) by [lunarring](https://github.com/lunarring)  
-latentblending: Create butter-smooth transitions between prompts, powered by stable diffusion  
+Create butter-smooth transitions between prompts, powered by stable diffusion  
 [https://github.com/lunarring/latentblending](https://github.com/lunarring/latentblending)  
 9.86 stars per week over 24 weeks  
 238 stars, 21 forks, 12 watches  
@@ -281,7 +281,7 @@ created 2022-11-19, last commit 2023-03-02, main language Python
 
 
 ### [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) by [sharonzhou](https://github.com/sharonzhou)  
-long_stable_diffusion: Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)  
+Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)  
 [https://github.com/sharonzhou/long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)  
 18 stars per week over 35 weeks  
 645 stars, 51 forks, 14 watches  
@@ -289,7 +289,7 @@ created 2022-09-04, last commit 2022-10-30, main language Python
 
 
 ### [tiny-diffusion](https://github.com/tanelp/tiny-diffusion) by [tanelp](https://github.com/tanelp)  
-tiny-diffusion: A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.  
+A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.  
 [https://github.com/tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion)  
 23 stars per week over 16 weeks  
 385 stars, 31 forks, 8 watches  

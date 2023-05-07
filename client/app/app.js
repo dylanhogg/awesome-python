@@ -179,9 +179,9 @@ $(document).ready( function () {
     });
 
     var initialSearchTerm = getUrlQuery();
-    var description_max_strlen = 99;
+    var description_max_strlen = 120;
     var topic_max_strlen = 30;
-    var topic_max_count = 3;
+    var topic_max_count = 4;
 
     var table = $("#table").DataTable( {
         ajax: {

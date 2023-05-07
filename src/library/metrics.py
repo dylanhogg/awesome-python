@@ -25,13 +25,20 @@ class StandardMetrics:
     @memory.cache(ignore=["ghw"])
     @retry(wait=wait_exponential(multiplier=2, min=10, max=1200), stop=stop_after_attempt(50), before_sleep=log_retry)
     def get_repo_topics(ghw: GithubWrapper, name: str):
-        topics = ghw.get_repo(name).get_topics()
+        topics = ghw.get_repo(name).get_topics()  # TODO: investigate ordering (influences topN in UI)
         # Remove generic topics
-        remove_topics = ["python", "python2", "python-2", "python3", "python-3", "python-library", "library"]
+        remove_topics = ["python", "python2", "python-2", "python3", "python-3",
+                         "python-library", "library", "pypi-package", "pypi"]
         for t in remove_topics:
             if t in topics:
                 topics.remove(t)
         return topics
+
+    @staticmethod
+    def join_topics(custom_topics: list, github_topics: list) -> list:
+        # Remove duplicates from a list, while preserving order
+        # https://stackoverflow.com/questions/480214/how-do-i-remove-duplicates-from-a-list-while-preserving-order/17016257#17016257
+        return list(dict.fromkeys(custom_topics + github_topics))
 
     @staticmethod
     @memory.cache(ignore=["ghw"])
@@ -42,6 +49,31 @@ class StandardMetrics:
             modified,
             "%a, %d %b %Y %H:%M:%S %Z",
         ).date()
+
+    @staticmethod
+    def get_display_description(row):
+        if row["_github_description"] is not None:
+            return row["_github_description"]
+        elif row["customabout"] is not None:
+            return row["customabout"]
+        else:
+            assert row["_organization"] is not None
+            assert row["_reponame"] is not None
+            return f'{row["_organization"]}/{row["_reponame"]}'
+
+        # TEMP: Old version before customabout introduced:
+        # repo = ghw.get_repo(name)
+        # if repo.description is None:
+        #     return f"{name}"
+        # else:
+        #     assert repo.name is not None
+        #     if (
+        #         repo.description.lower().startswith(repo.name.lower())
+        #         or f"{repo.name.lower()}:" in repo.description.lower()
+        #     ):
+        #         return f"{repo.description}"
+        #     else:
+        #         return f"{repo.name}: {repo.description}"
 
 
 class PopularityMetrics:

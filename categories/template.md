@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-cookiecutter: A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
+A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
 38 stars per week over 512 weeks  
@@ -16,7 +16,7 @@ created 2013-07-14, last commit 2022-09-09, main language Python
 
 
 ### [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) by [tiangolo](https://github.com/tiangolo)  
-full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
+Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
 [https://github.com/tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)  
 53 stars per week over 219 weeks  
 11,820 stars, 2,155 forks, 193 watches  
@@ -25,7 +25,7 @@ created 2019-02-23, last commit 2020-06-05, main language Python
 
 
 ### [pyscaffold](https://github.com/pyscaffold/pyscaffold)  
-pyscaffold: 🛠 Python project template generator with batteries included  
+🛠 Python project template generator with batteries included  
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
 3.76 stars per week over 474 weeks  
@@ -35,7 +35,7 @@ created 2014-04-02, last commit 2023-04-18, main language Python
 
 
 ### [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) by [drivendata](https://github.com/drivendata)  
-cookiecutter-data-science: A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
+A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 [https://github.com/drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)  
 16 stars per week over 392 weeks  
@@ -45,7 +45,7 @@ created 2015-10-30, last commit 2022-03-11, main language Python
 
 
 ### [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) by [ionelmc](https://github.com/ionelmc)  
-cookiecutter-pylibrary: Enhanced cookiecutter template for Python libraries.  
+Enhanced cookiecutter template for Python libraries.  
 [https://github.com/ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary)  
 2.43 stars per week over 466 weeks  
 1,133 stars, 199 forks, 23 watches  
@@ -54,7 +54,7 @@ created 2014-05-28, last commit 2023-05-03, main language Python
 
 
 ### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
-fastapi-react: 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
+🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
 9.87 stars per week over 163 weeks  
 1,610 stars, 263 forks, 39 watches  
@@ -63,7 +63,7 @@ created 2020-03-21, last commit 2022-02-18, main language Python
 
 
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
-python-package-template: 🚀 Your next Python package needs a bleeding-edge project structure.  
+🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
 6.03 stars per week over 159 weeks  
 962 stars, 96 forks, 7 watches  
@@ -81,7 +81,7 @@ created 2018-11-26, last commit 2023-01-03, main language Python
 
 
 ### [fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template) by [janetech-inc](https://github.com/janetech-inc)  
-fast-api-admin-template:  A test driven micro-service template to build and deploy a fast-api service with admin feature.  
+ A test driven micro-service template to build and deploy a fast-api service with admin feature.  
 [https://github.com/janetech-inc/fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template)  
 8.81 stars per week over 11 weeks  
 102 stars, 10 forks, 4 watches  
@@ -89,7 +89,7 @@ created 2023-02-15, last commit 2023-03-01, main language JavaScript
 
 
 ### [pypackage](https://github.com/giswqs/pypackage) by [giswqs](https://github.com/giswqs)  
-pypackage: Cookiecutter template creating a Python package with mkdocs  
+Cookiecutter template creating a Python package with mkdocs  
 [https://giswqs.github.io/pypackage](https://giswqs.github.io/pypackage)  
 [https://github.com/giswqs/pypackage](https://github.com/giswqs/pypackage)  
 0.29 stars per week over 129 weeks  
@@ -99,7 +99,7 @@ created 2020-11-15, last commit 2023-04-25, main language Python
 
 
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  
-cookiecutter-modern-datascience: Start a data science project with modern tools  
+Start a data science project with modern tools  
 [https://github.com/crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience)  
 1.01 stars per week over 147 weeks  
 149 stars, 34 forks, 3 watches  
@@ -108,7 +108,7 @@ created 2020-07-06, last commit 2022-06-10, main language Python
 
 
 ### [python-project-template](https://github.com/dylanhogg/python-project-template) by [dylanhogg](https://github.com/dylanhogg)  
-python-project-template: A quick-start Python project template with helpful functionality and common libraries.  
+A quick-start Python project template with helpful functionality and common libraries.  
 [https://github.com/dylanhogg/python-project-template](https://github.com/dylanhogg/python-project-template)  
 0.01 stars per week over 168 weeks  
 1 stars, 0 forks, 2 watches  
@@ -117,7 +117,7 @@ created 2020-02-12, last commit 2023-03-30, main language Python
 
 
 ### [python-collab-template](https://github.com/eugeneyan/python-collab-template) by [eugeneyan](https://github.com/eugeneyan)  
-python-collab-template: 🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
+🛠 Python project template with unit tests, code coverage, linting, type checking, Makefile wrapper, and GitHub Actions.  
 [https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/](https://eugeneyan.com/writing/setting-up-python-project-for-automation-and-collaboration/)  
 [https://github.com/eugeneyan/python-collab-template](https://github.com/eugeneyan/python-collab-template)  
 0.85 stars per week over 150 weeks  
@@ -127,7 +127,7 @@ created 2020-06-21, last commit 2022-07-02, main language Python
 
 
 ### [async-python-lambda-template](https://github.com/geeogi/async-python-lambda-template) by [geeogi](https://github.com/geeogi)  
-async-python-lambda-template: Build a high-performance Python function in AWS lambda using asyncio, aiohttp and aiobotocore.  
+Build a high-performance Python function in AWS lambda using asyncio, aiohttp and aiobotocore.  
 [https://github.com/geeogi/async-python-lambda-template](https://github.com/geeogi/async-python-lambda-template)  
 0.42 stars per week over 149 weeks  
 63 stars, 6 forks, 4 watches  

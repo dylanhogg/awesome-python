@@ -15,8 +15,15 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     df.columns = map(str.lower, df.columns)
     assert "githuburl" in df.columns
     assert "category" in df.columns
+    assert "customabout" in df.columns
+    assert "customtopics" in df.columns
 
-    df["githuburl"] = df["githuburl"].apply(lambda x: x.lower())
+    df["githuburl"] = df["githuburl"].apply(lambda x: x.strip().lower())
+    df["customabout"] = df["customabout"].apply(lambda x: x.strip() if type(x) == str else None)
+    df["customtopics"] = df["customtopics"].apply(
+        lambda x: list(set(x.strip().lower().replace(" ", "").split(","))) if type(x) == str else []
+    )
+
     duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
     duplicated_count = len(duplicated_githuburls)
     if duplicated_count > 0:
@@ -79,21 +86,6 @@ def make_markdown(row, include_category=False) -> str:
     )
 
 
-def _display_description(ghw, name) -> str:
-    repo = ghw.get_repo(name)
-    if repo.description is None:
-        return f"{name}"
-    else:
-        assert repo.name is not None
-        if (
-            repo.description.lower().startswith(repo.name.lower())
-            or f"{repo.name.lower()}:" in repo.description.lower()
-        ):
-            return f"{repo.description}"
-        else:
-            return f"{repo.name}: {repo.description}"
-
-
 def _column_apply(df: pd.DataFrame, target: str, source: str, fn: Callable):
     logger.info(f"apply: {source} -> {target}")
     df[target] = df[source].apply(fn)
@@ -113,7 +105,7 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     _column_apply(df, "_watches", "_repopath", lambda x: ghw.get_repo(x).subscribers_count)
     _column_apply(df, "_language", "_repopath", lambda x: ghw.get_repo(x).language)
     _column_apply(df, "_homepage", "_repopath", lambda x: ghw.get_repo(x).homepage)
-    _column_apply(df, "_description", "_repopath", lambda x: _display_description(ghw, x))
+    _column_apply(df, "_github_description", "_repopath", lambda x: ghw.get_repo(x).description)
     _column_apply(df, "_organization", "_repopath", lambda x: x.split("/")[0])
     _column_apply(df, "_updated_at", "_repopath", lambda x: ghw.get_repo(x).updated_at.date())
     _column_apply(df, "_created_at", "_repopath", lambda x: ghw.get_repo(x).created_at.date())
@@ -135,8 +127,24 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     logger.info(f"Add popularity metric columns...")
     std_metrics = StandardMetrics()
     t0 = datetime.now()
-    _column_apply(df, "_topics", "_repopath", lambda x: std_metrics.get_repo_topics(ghw, x))
+
+    assert "_github_description" in df.columns
+    assert "customabout" in df.columns
+    df["_description"] = df.apply(
+        lambda row: std_metrics.get_display_description(row),
+        axis=1,
+    )
+
+    _column_apply(df, "_github_topics", "_repopath", lambda x: std_metrics.get_repo_topics(ghw, x))
+    assert "_github_topics" in df.columns  # Derived from GitHub repo
+    assert "customtopics" in df.columns  # Derived from source csv/sheet
+    df["_topics"] = df.apply(
+        lambda row: std_metrics.join_topics(row["customtopics"], row["_github_topics"]),
+        axis=1,
+    )
+
     _column_apply(df, "_last_commit_date", "_repopath", lambda x: std_metrics.last_commit_date(ghw, x))
+
     timing_std = datetime.now() - t0
     logger.info(f"Timing: {timing_std.total_seconds()=}")
 

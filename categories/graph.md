@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [networkx](https://github.com/networkx/networkx)  
-networkx: Network Analysis in Python  
+Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
 19 stars per week over 660 weeks  
@@ -26,7 +26,7 @@ created 2018-04-13, last commit 2021-10-29, main language Python
 
 
 ### [pyvis](https://github.com/westhealth/pyvis) by [westhealth](https://github.com/westhealth)  
-pyvis: Python package for creating and visualizing interactive network graphs.  
+Python package for creating and visualizing interactive network graphs.  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 [https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
 2.5 stars per week over 260 weeks  
@@ -36,7 +36,7 @@ created 2018-05-10, last commit 2023-02-10, main language HTML
 
 
 ### [GraphGPS](https://github.com/rampasek/graphgps) by [rampasek](https://github.com/rampasek)  
-GraphGPS: Recipe for a General, Powerful, Scalable Graph Transformer  
+Recipe for a General, Powerful, Scalable Graph Transformer  
 [https://github.com/rampasek/graphgps](https://github.com/rampasek/graphgps)  
 7.36 stars per week over 49 weeks  
 366 stars, 51 forks, 10 watches  
@@ -45,7 +45,7 @@ created 2022-05-24, last commit 2023-02-17, main language Python
 
 
 ### [graph-force](https://github.com/h4kor/graph-force) by [h4kor](https://github.com/h4kor)  
-graph-force: Python library for embedding large graphs in 2D space, using force-directed layouts.  
+Python library for embedding large graphs in 2D space, using force-directed layouts.  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
 [https://github.com/h4kor/graph-force](https://github.com/h4kor/graph-force)  
 7.17 stars per week over 22 weeks  
@@ -63,7 +63,7 @@ created 2023-03-05, last commit 2023-03-13, main language Python
 
 
 ### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
-markov_clustering: markov clustering in python  
+markov clustering in python  
 [https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
 0.47 stars per week over 292 weeks  
 137 stars, 34 forks, 9 watches  

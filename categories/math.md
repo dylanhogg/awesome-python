@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [numpy](https://github.com/numpy/numpy)  
-numpy: The fundamental package for scientific computing with Python.  
+The fundamental package for scientific computing with Python.  
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
 35 stars per week over 659 weeks  
@@ -26,7 +26,7 @@ created 2011-03-09, last commit 2023-05-05, main language Python
 
 
 ### [sympy](https://github.com/sympy/sympy)  
-sympy: A computer algebra system written in pure Python  
+A computer algebra system written in pure Python  
 [https://sympy.org/](https://sympy.org/)  
 [https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
 15 stars per week over 679 weeks  
@@ -36,7 +36,7 @@ created 2010-04-30, last commit 2023-05-05, main language Python
 
 
 ### [cupy](https://github.com/cupy/cupy)  
-cupy: NumPy & SciPy for GPU  
+NumPy & SciPy for GPU  
 [https://cupy.dev](https://cupy.dev)  
 [https://github.com/cupy/cupy](https://github.com/cupy/cupy)  
 20 stars per week over 339 weeks  
@@ -46,7 +46,7 @@ created 2016-11-01, last commit 2023-04-27, main language Python
 
 
 ### [theseus](https://github.com/facebookresearch/theseus) by [facebookresearch](https://github.com/facebookresearch)  
-theseus: A library for differentiable nonlinear optimization  
+A library for differentiable nonlinear optimization  
 [https://github.com/facebookresearch/theseus](https://github.com/facebookresearch/theseus)  
 16 stars per week over 76 weeks  
 1,289 stars, 90 forks, 25 watches  
@@ -55,7 +55,7 @@ created 2021-11-18, last commit 2023-05-04, main language Python
 
 
 ### [pyomo](https://github.com/pyomo/pyomo)  
-pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.  
+An object-oriented algebraic modeling language in Python for structured optimization problems.  
 [https://www.pyomo.org](https://www.pyomo.org)  
 [https://github.com/pyomo/pyomo](https://github.com/pyomo/pyomo)  
 4.23 stars per week over 362 weeks  
@@ -65,7 +65,7 @@ created 2016-05-27, last commit 2023-05-05, main language Python
 
 
 ### [mpmath](https://github.com/fredrik-johansson/mpmath) by [fredrik-johansson](https://github.com/fredrik-johansson)  
-mpmath: Python library for arbitrary-precision floating-point arithmetic  
+Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
 1.29 stars per week over 595 weeks  
@@ -85,7 +85,7 @@ created 2020-12-06, last commit 2023-05-03, main language Python
 
 
 ### [torchsde](https://github.com/google-research/torchsde) by [google-research](https://github.com/google-research)  
-torchsde: Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
+Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
 [https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
 8.46 stars per week over 147 weeks  
 1,251 stars, 152 forks, 35 watches  
@@ -94,7 +94,7 @@ created 2020-07-06, last commit 2021-07-26, main language Python
 
 
 ### [tfcausalimpact](https://github.com/willianfuks/tfcausalimpact) by [willianfuks](https://github.com/willianfuks)  
-tfcausalimpact: Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
+Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
 2.93 stars per week over 141 weeks  
 415 stars, 53 forks, 10 watches  
@@ -103,7 +103,7 @@ created 2020-08-17, last commit 2022-12-20, main language Python
 
 
 ### [AI-Feynman](https://github.com/sj001/ai-feynman) by [sj001](https://github.com/sj001)  
-sj001/ai-feynman  
+sj001/AI-Feynman  
 [https://github.com/sj001/ai-feynman](https://github.com/sj001/ai-feynman)  
 3.05 stars per week over 165 weeks  
 504 stars, 151 forks, 24 watches  
@@ -111,7 +111,7 @@ created 2020-03-08, last commit 2021-05-16, main language Python
 
 
 ### [dit](https://github.com/dit/dit)  
-dit: Python package for information theory.  
+Python package for information theory.  
 [http://docs.dit.io](http://docs.dit.io)  
 [https://github.com/dit/dit](https://github.com/dit/dit)  
 0.87 stars per week over 501 weeks  
@@ -121,7 +121,7 @@ created 2013-09-29, last commit 2022-07-25, main language Python
 
 
 ### [fraqtive](https://github.com/mimecorg/fraqtive) by [mimecorg](https://github.com/mimecorg)  
-fraqtive: Generator of the Mandelbrot family fractals.  
+Generator of the Mandelbrot family fractals.  
 [https://fraqtive.mimec.org/](https://fraqtive.mimec.org/)  
 [https://github.com/mimecorg/fraqtive](https://github.com/mimecorg/fraqtive)  
 0.1 stars per week over 269 weeks  

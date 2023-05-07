@@ -42,7 +42,7 @@ api-rates:
 ## Serve local client
 serve-local-client:
 	open http://localhost:8002/
-	cd client; make serve-local-app
+	cd client; make copy-data-local-app; make serve-local-app
 
 ## AWS S3 cp app and data to S3
 s3-deploy-app-full:

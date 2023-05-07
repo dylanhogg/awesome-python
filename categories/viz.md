@@ -16,7 +16,7 @@ created 2019-08-24, last commit 2023-05-06, main language Python
 
 
 ### [gradio](https://github.com/gradio-app/gradio) by [gradio-app](https://github.com/gradio-app)  
-gradio: Create UIs for your machine learning model in Python in 3 minutes  
+Create UIs for your machine learning model in Python in 3 minutes  
 [http://www.gradio.app](http://www.gradio.app)  
 [https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)  
 74 stars per week over 228 weeks  
@@ -36,7 +36,7 @@ created 2011-02-19, last commit 2023-05-06, main language Python
 
 
 ### [bokeh](https://github.com/bokeh/bokeh)  
-bokeh: Interactive Data Visualization in the browser, from  Python  
+Interactive Data Visualization in the browser, from  Python  
 [https://bokeh.org](https://bokeh.org)  
 [https://github.com/bokeh/bokeh](https://github.com/bokeh/bokeh)  
 30 stars per week over 579 weeks  
@@ -46,7 +46,7 @@ created 2012-03-26, last commit 2023-05-04, main language Python
 
 
 ### [dash](https://github.com/plotly/dash) by [plotly](https://github.com/plotly)  
-dash: Data Apps & Dashboards for Python. No JavaScript Required.  
+Data Apps & Dashboards for Python. No JavaScript Required.  
 [https://plotly.com/dash](https://plotly.com/dash)  
 [https://github.com/plotly/dash](https://github.com/plotly/dash)  
 44 stars per week over 421 weeks  
@@ -56,7 +56,7 @@ created 2015-04-10, last commit 2023-04-26, main language Python
 
 
 ### [plotly.py](https://github.com/plotly/plotly.py) by [plotly](https://github.com/plotly)  
-plotly.py: The interactive graphing library for Python :sparkles: This project now includes Plotly Express!  
+The interactive graphing library for Python :sparkles: This project now includes Plotly Express!  
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
 27 stars per week over 493 weeks  
@@ -66,7 +66,7 @@ created 2013-11-21, last commit 2023-05-05, main language Python
 
 
 ### [deck.gl](https://github.com/visgl/deck.gl) by [visgl](https://github.com/visgl)  
-deck.gl: WebGL2 powered visualization framework  
+WebGL2 powered visualization framework  
 [https://deck.gl](https://deck.gl)  
 [https://github.com/visgl/deck.gl](https://github.com/visgl/deck.gl)  
 28 stars per week over 385 weeks  
@@ -76,7 +76,7 @@ created 2015-12-15, last commit 2023-05-05, main language JavaScript
 
 
 ### [altair](https://github.com/altair-viz/altair) by [altair-viz](https://github.com/altair-viz)  
-altair: Declarative statistical visualization library for Python  
+Declarative statistical visualization library for Python  
 [https://altair-viz.github.io/](https://altair-viz.github.io/)  
 [https://github.com/altair-viz/altair](https://github.com/altair-viz/altair)  
 20 stars per week over 398 weeks  
@@ -85,7 +85,7 @@ created 2015-09-19, last commit 2023-05-02, main language Python
 
 
 ### [seaborn](https://github.com/mwaskom/seaborn) by [mwaskom](https://github.com/mwaskom)  
-seaborn: Statistical data visualization in Python  
+Statistical data visualization in Python  
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 [https://github.com/mwaskom/seaborn](https://github.com/mwaskom/seaborn)  
 18 stars per week over 567 weeks  
@@ -95,7 +95,7 @@ created 2012-06-18, last commit 2023-05-05, main language Python
 
 
 ### [prettymaps](https://github.com/marceloprates/prettymaps) by [marceloprates](https://github.com/marceloprates)  
-prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  
+A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  
 [https://github.com/marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)  
 86 stars per week over 113 weeks  
 9,754 stars, 471 forks, 76 watches  
@@ -104,7 +104,7 @@ created 2021-03-05, last commit 2023-02-15, main language Jupyter Notebook
 
 
 ### [panel](https://github.com/holoviz/panel) by [holoviz](https://github.com/holoviz)  
-panel: A high-level app and dashboarding solution for Python  
+A high-level app and dashboarding solution for Python  
 [https://panel.holoviz.org](https://panel.holoviz.org)  
 [https://github.com/holoviz/panel](https://github.com/holoviz/panel)  
 11 stars per week over 245 weeks  
@@ -114,7 +114,7 @@ created 2018-08-23, last commit 2023-05-06, main language Python
 
 
 ### [vispy](https://github.com/vispy/vispy)  
-vispy: Main repository for Vispy  
+Main repository for Vispy  
 [http://vispy.org](http://vispy.org)  
 [https://github.com/vispy/vispy](https://github.com/vispy/vispy)  
 5.78 stars per week over 528 weeks  
@@ -124,7 +124,7 @@ created 2013-03-21, last commit 2023-05-03, main language Python
 
 
 ### [dtale](https://github.com/man-group/dtale) by [man-group](https://github.com/man-group)  
-dtale: Visualizer for pandas data structures  
+Visualizer for pandas data structures  
 [http://alphatechadmin.pythonanywhere.com](http://alphatechadmin.pythonanywhere.com)  
 [https://github.com/man-group/dtale](https://github.com/man-group/dtale)  
 20 stars per week over 198 weeks  
@@ -134,7 +134,7 @@ created 2019-07-15, last commit 2023-05-01, main language TypeScript
 
 
 ### [holoviews](https://github.com/holoviz/holoviews) by [holoviz](https://github.com/holoviz)  
-holoviews: With Holoviews, your data visualizes itself.  
+With Holoviews, your data visualizes itself.  
 [https://holoviews.org](https://holoviews.org)  
 [https://github.com/holoviz/holoviews](https://github.com/holoviz/holoviews)  
 5.15 stars per week over 469 weeks  
@@ -144,7 +144,7 @@ created 2014-05-07, last commit 2023-05-05, main language Python
 
 
 ### [plotnine](https://github.com/has2k1/plotnine) by [has2k1](https://github.com/has2k1)  
-plotnine: A grammar of graphics for Python  
+A grammar of graphics for Python  
 [https://plotnine.readthedocs.io/en/stable/](https://plotnine.readthedocs.io/en/stable/)  
 [https://github.com/has2k1/plotnine](https://github.com/has2k1/plotnine)  
 10 stars per week over 314 weeks  
@@ -154,7 +154,7 @@ created 2017-04-24, last commit 2023-04-19, main language Python
 
 
 ### [datapane](https://github.com/datapane/datapane)  
-datapane: Build full-stack data apps in 100% Python  
+Build full-stack data apps in 100% Python  
 [https://datapane.com](https://datapane.com)  
 [https://github.com/datapane/datapane](https://github.com/datapane/datapane)  
 7.51 stars per week over 158 weeks  
@@ -164,7 +164,7 @@ created 2020-04-23, last commit 2023-04-21, main language Python
 
 
 ### [lux](https://github.com/lux-org/lux) by [lux-org](https://github.com/lux-org)  
-lux: Automatically visualize your pandas dataframe via a single print! 📊 💡  
+Automatically visualize your pandas dataframe via a single print! 📊 💡  
 [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
 26 stars per week over 173 weeks  
 4,554 stars, 347 forks, 89 watches  
@@ -173,7 +173,7 @@ created 2020-01-08, last commit 2022-05-21, main language Python
 
 
 ### [dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) by [facultyai](https://github.com/facultyai)  
-dash-bootstrap-components: Bootstrap components for Plotly Dash  
+Bootstrap components for Plotly Dash  
 [https://dash-bootstrap-components.opensource.faculty.ai/](https://dash-bootstrap-components.opensource.faculty.ai/)  
 [https://github.com/facultyai/dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components)  
 4.05 stars per week over 241 weeks  
@@ -192,7 +192,7 @@ created 2019-11-08, last commit 2023-03-03, main language TypeScript
 
 
 ### [deepscatter](https://github.com/nomic-ai/deepscatter) by [nomic-ai](https://github.com/nomic-ai)  
-deepscatter: Zoomable, animated scatterplots in the browser that scales over a billion points  
+Zoomable, animated scatterplots in the browser that scales over a billion points  
 [https://github.com/nomic-ai/deepscatter](https://github.com/nomic-ai/deepscatter)  
 3.38 stars per week over 235 weeks  
 796 stars, 26 forks, 13 watches  
@@ -201,7 +201,7 @@ created 2018-10-30, last commit 2023-04-14, main language TypeScript
 
 
 ### [opyrator](https://github.com/ml-tooling/opyrator) by [ml-tooling](https://github.com/ml-tooling)  
-opyrator: 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.  
+🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.  
 [https://opyrator-playground.mltooling.org](https://opyrator-playground.mltooling.org)  
 [https://github.com/ml-tooling/opyrator](https://github.com/ml-tooling/opyrator)  
 26 stars per week over 108 weeks  
@@ -211,7 +211,7 @@ created 2021-04-06, last commit 2021-05-06, main language Python
 
 
 ### [mayavi](https://github.com/enthought/mayavi) by [enthought](https://github.com/enthought)  
-mayavi: 3D visualization of scientific data in Python  
+3D visualization of scientific data in Python  
 [http://docs.enthought.com/mayavi/mayavi/](http://docs.enthought.com/mayavi/mayavi/)  
 [https://github.com/enthought/mayavi](https://github.com/enthought/mayavi)  
 1.75 stars per week over 640 weeks  
@@ -220,7 +220,7 @@ created 2011-01-24, last commit 2022-10-18, main language Python
 
 
 ### [mahotas](https://github.com/luispedro/mahotas) by [luispedro](https://github.com/luispedro)  
-mahotas: Computer Vision in Python  
+Computer Vision in Python  
 [https://mahotas.rtfd.io](https://mahotas.rtfd.io)  
 [https://github.com/luispedro/mahotas](https://github.com/luispedro/mahotas)  
 1.15 stars per week over 692 weeks  
@@ -230,7 +230,7 @@ created 2010-01-31, last commit 2023-04-29, main language Python
 
 
 ### [holoviz](https://github.com/holoviz/holoviz)  
-holoviz: High-level tools to simplify visualization in Python.  
+High-level tools to simplify visualization in Python.  
 [https://holoviz.org/](https://holoviz.org/)  
 [https://github.com/holoviz/holoviz](https://github.com/holoviz/holoviz)  
 2.34 stars per week over 293 weeks  
@@ -240,7 +240,7 @@ created 2017-09-22, last commit 2023-04-19, main language Python
 
 
 ### [nodevectors](https://github.com/vhranger/nodevectors) by [vhranger](https://github.com/vhranger)  
-nodevectors: Fastest network node embeddings in the west  
+Fastest network node embeddings in the west  
 [https://github.com/vhranger/nodevectors](https://github.com/vhranger/nodevectors)  
 2.36 stars per week over 197 weeks  
 466 stars, 55 forks, 11 watches  
@@ -248,7 +248,7 @@ created 2019-07-25, last commit 2021-11-06, main language Python
 
 
 ### [chartpy](https://github.com/cuemacro/chartpy) by [cuemacro](https://github.com/cuemacro)  
-chartpy: Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more  
+Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more  
 [https://github.com/cuemacro/chartpy](https://github.com/cuemacro/chartpy)  
 1.47 stars per week over 352 weeks  
 517 stars, 99 forks, 49 watches  

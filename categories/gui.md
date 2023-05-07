@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [PySimpleGUI](https://github.com/pysimplegui/pysimplegui) by [pysimplegui](https://github.com/pysimplegui)  
-PySimpleGUI: Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs  
+Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs  
 [https://github.com/pysimplegui/pysimplegui](https://github.com/pysimplegui/pysimplegui)  
 46 stars per week over 251 weeks  
 11,582 stars, 1,727 forks, 223 watches  
@@ -15,7 +15,7 @@ created 2018-07-11, last commit 2023-04-26, main language Python
 
 
 ### [DearPyGui](https://github.com/hoffstadt/dearpygui) by [hoffstadt](https://github.com/hoffstadt)  
-DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
+Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
 [https://dearpygui.readthedocs.io/en/latest/](https://dearpygui.readthedocs.io/en/latest/)  
 [https://github.com/hoffstadt/dearpygui](https://github.com/hoffstadt/dearpygui)  
 66 stars per week over 153 weeks  
@@ -25,7 +25,7 @@ created 2020-05-28, last commit 2023-05-06, main language C++
 
 
 ### [pywebview](https://github.com/r0x0r/pywebview) by [r0x0r](https://github.com/r0x0r)  
-pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS  
+Build GUI for your Python program with JavaScript, HTML, and CSS  
 [https://pywebview.flowrl.com](https://pywebview.flowrl.com)  
 [https://github.com/r0x0r/pywebview](https://github.com/r0x0r/pywebview)  
 7.98 stars per week over 441 weeks  
@@ -35,7 +35,7 @@ created 2014-11-20, last commit 2023-05-02, main language Python
 
 
 ### [remi](https://github.com/dddomodossola/remi) by [dddomodossola](https://github.com/dddomodossola)  
-remi: Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
+Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
 [https://github.com/dddomodossola/remi](https://github.com/dddomodossola/remi)  
 6.87 stars per week over 476 weeks  
 3,274 stars, 393 forks, 120 watches  
@@ -44,7 +44,7 @@ created 2014-03-20, last commit 2023-03-22, main language Python
 
 
 ### [Phoenix](https://github.com/wxwidgets/phoenix) by [wxwidgets](https://github.com/wxwidgets)  
-Phoenix: wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
+wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
 [http://wxpython.org/](http://wxpython.org/)  
 [https://github.com/wxwidgets/phoenix](https://github.com/wxwidgets/phoenix)  
 3.53 stars per week over 563 weeks  

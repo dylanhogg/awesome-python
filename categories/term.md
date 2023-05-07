@@ -36,7 +36,7 @@ created 2019-12-24, last commit 2023-05-02, main language Python
 
 
 ### [tqdm](https://github.com/tqdm/tqdm)  
-tqdm: A Fast, Extensible Progress Bar for Python and CLI  
+A Fast, Extensible Progress Bar for Python and CLI  
 [https://tqdm.github.io](https://tqdm.github.io)  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 59 stars per week over 413 weeks  
@@ -46,7 +46,7 @@ created 2015-06-03, last commit 2023-03-03, main language Python
 
 
 ### [python-fire](https://github.com/google/python-fire) by [google](https://github.com/google)  
-python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
+Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
 [https://github.com/google/python-fire](https://github.com/google/python-fire)  
 75 stars per week over 323 weeks  
 24,467 stars, 1,387 forks, 381 watches  
@@ -55,7 +55,7 @@ created 2017-02-21, last commit 2023-02-13, main language Python
 
 
 ### [click](https://github.com/pallets/click) by [pallets](https://github.com/pallets)  
-click: Python composable command line interface toolkit  
+Python composable command line interface toolkit  
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
 [https://github.com/pallets/click](https://github.com/pallets/click)  
 29 stars per week over 471 weeks  
@@ -65,7 +65,7 @@ created 2014-04-24, last commit 2023-05-03, main language Python
 
 
 ### [urwid](https://github.com/urwid/urwid)  
-urwid: Console user interface library for Python (official repo)  
+Console user interface library for Python (official repo)  
 [urwid.org](urwid.org)  
 [https://github.com/urwid/urwid](https://github.com/urwid/urwid)  
 3.76 stars per week over 688 weeks  
@@ -74,7 +74,7 @@ created 2010-02-25, last commit 2023-05-05, main language Python
 
 
 ### [prettytable](https://github.com/jazzband/prettytable) by [jazzband](https://github.com/jazzband)  
-prettytable: Display tabular data in a visually appealing ASCII table format  
+Display tabular data in a visually appealing ASCII table format  
 [https://pypi.org/project/PrettyTable/](https://pypi.org/project/PrettyTable/)  
 [https://github.com/jazzband/prettytable](https://github.com/jazzband/prettytable)  
 2.65 stars per week over 381 weeks  
@@ -94,7 +94,7 @@ created 2014-03-01, last commit 2023-05-05, main language Python
 
 
 ### [halo](https://github.com/manrajgrover/halo) by [manrajgrover](https://github.com/manrajgrover)  
-halo: 💫 Beautiful spinners for terminal, IPython and Jupyter  
+💫 Beautiful spinners for terminal, IPython and Jupyter  
 [https://github.com/manrajgrover/halo](https://github.com/manrajgrover/halo)  
 9.23 stars per week over 296 weeks  
 2,731 stars, 141 forks, 26 watches  
@@ -112,7 +112,7 @@ created 2017-09-22, last commit 2023-04-13, main language Python
 
 
 ### [terminaltables](https://github.com/matthewdeanmartin/terminaltables) by [matthewdeanmartin](https://github.com/matthewdeanmartin)  
-terminaltables: Generate simple tables in terminals from a nested list of strings.  
+Generate simple tables in terminals from a nested list of strings.  
 [https://robpol86.github.io/terminaltables](https://robpol86.github.io/terminaltables)  
 [https://github.com/matthewdeanmartin/terminaltables](https://github.com/matthewdeanmartin/terminaltables)  
 0.36 stars per week over 74 weeks  
@@ -121,7 +121,7 @@ created 2021-12-04, last commit 2022-01-30, main language Python
 
 
 ### [dashing](https://github.com/federicoceratto/dashing) by [federicoceratto](https://github.com/federicoceratto)  
-dashing: Terminal dashboards for Python  
+Terminal dashboards for Python  
 [https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
 [https://github.com/federicoceratto/dashing](https://github.com/federicoceratto/dashing)  
 1.15 stars per week over 309 weeks  
@@ -131,7 +131,7 @@ created 2017-06-03, last commit 2020-09-06, main language Python
 
 
 ### [sparklines](https://github.com/deeplook/sparklines) by [deeplook](https://github.com/deeplook)  
-sparklines: Text-based sparkline command line mimicking those of Edward Tuft.  
+Text-based sparkline command line mimicking those of Edward Tuft.  
 [https://github.com/deeplook/sparklines](https://github.com/deeplook/sparklines)  
 0.23 stars per week over 363 weeks  
 84 stars, 5 forks, 3 watches  

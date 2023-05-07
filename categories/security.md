@@ -6,7 +6,7 @@ Checkout the interactive version that you can filter and sort:
 
 
 ### [trivy](https://github.com/aquasecurity/trivy) by [aquasecurity](https://github.com/aquasecurity)  
-trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more  
 [https://aquasecurity.github.io/trivy](https://aquasecurity.github.io/trivy)  
 [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)  
 81 stars per week over 212 weeks  
@@ -25,7 +25,7 @@ created 2014-11-12, last commit 2023-05-04, main language Python
 
 
 ### [sqlmap](https://github.com/sqlmapproject/sqlmap) by [sqlmapproject](https://github.com/sqlmapproject)  
-sqlmap: Automatic SQL injection and database takeover tool  
+Automatic SQL injection and database takeover tool  
 [http://sqlmap.org](http://sqlmap.org)  
 [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)  
 47 stars per week over 566 weeks  
@@ -35,7 +35,7 @@ created 2012-06-26, last commit 2023-05-01, main language Python
 
 
 ### [maltrail](https://github.com/stamparm/maltrail) by [stamparm](https://github.com/stamparm)  
-maltrail: Malicious traffic detection system  
+Malicious traffic detection system  
 [https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)  
 11 stars per week over 439 weeks  
 5,074 stars, 957 forks, 219 watches  
@@ -54,7 +54,7 @@ created 2018-04-26, last commit 2023-05-05, main language Python
 
 
 ### [pip-audit](https://github.com/trailofbits/pip-audit) by [trailofbits](https://github.com/trailofbits)  
-pip-audit: Audits Python environments and dependency trees for known vulnerabilities  
+Audits Python environments and dependency trees for known vulnerabilities  
 [https://pypi.org/project/pip-audit/](https://pypi.org/project/pip-audit/)  
 [https://github.com/trailofbits/pip-audit](https://github.com/trailofbits/pip-audit)  
 8.93 stars per week over 87 weeks  
@@ -74,7 +74,7 @@ created 2016-10-19, last commit 2023-02-26, main language Python
 
 
 ### [jake](https://github.com/sonatype-nexus-community/jake) by [sonatype-nexus-community](https://github.com/sonatype-nexus-community)  
-jake: Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
+Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [https://jake.readthedocs.io/](https://jake.readthedocs.io/)  
 [https://github.com/sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake)  
 0.45 stars per week over 186 weeks  
@@ -84,7 +84,7 @@ created 2019-10-10, last commit 2023-02-22, main language Python
 
 
 ### [repository-scanner](https://github.com/abnamro/repository-scanner) by [abnamro](https://github.com/abnamro)  
-repository-scanner: Tool to detect secrets in source code management systems.  
+Tool to detect secrets in source code management systems.  
 [https://github.com/abnamro/repository-scanner](https://github.com/abnamro/repository-scanner)  
 2.27 stars per week over 34 weeks  
 78 stars, 5 forks, 6 watches  
@@ -92,7 +92,7 @@ created 2022-09-08, last commit 2023-05-01, main language Python
 
 
 ### [pysnyk](https://github.com/snyk-labs/pysnyk) by [snyk-labs](https://github.com/snyk-labs)  
-pysnyk: A Python client for the Snyk API.  
+A Python client for the Snyk API.  
 [https://snyk.docs.apiary.io/](https://snyk.docs.apiary.io/)  
 [https://github.com/snyk-labs/pysnyk](https://github.com/snyk-labs/pysnyk)  
 0.24 stars per week over 222 weeks  
@@ -102,7 +102,7 @@ created 2019-02-03, last commit 2023-05-03, main language Python
 
 
 ### [faker-security](https://github.com/snyk/faker-security) by [snyk](https://github.com/snyk)  
-faker-security: Python Faker provider for security related data  
+Python Faker provider for security related data  
 [https://github.com/snyk/faker-security](https://github.com/snyk/faker-security)  
 0.49 stars per week over 59 weeks  
 29 stars, 5 forks, 13 watches  

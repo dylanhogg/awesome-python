@@ -5,9 +5,8 @@ from library import log, env, crawler, postprocess
 
 
 def main():
-    log.configure()
-
     joblib_cache_exists = Path(".joblib_cache").exists()
+    log.configure()
     if joblib_cache_exists:
         logger.warning(".joblib_cache folder exists, not all data will be fresh!")
 
