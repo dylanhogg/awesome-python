@@ -310,6 +310,7 @@ $(document).ready( function () {
             // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
             render: function(data, type, row, meta) {
                 if (data.length == 0) { return ""; }
+                // NOTE: max count values impacted by max_ui_topics & max_ui_sim values serverside.
                 var sim_max_count = 3;
                 var sim_max_strlen = 30;
                 var data = data.slice(0, sim_max_count);
@@ -321,7 +322,7 @@ $(document).ready( function () {
                         var common_topic_count = item[3];
 
                         var render = false;
-                        // TODO: this calc is a WIP...
+                        // TODO: this calc is a WIP, find a better approach. Also, move to server side once set.
                         if (sim >= 0.65) {
                             render = true;
                         } else if (sim >= 0.60 && category == row.category && category != "util") {

@@ -71,7 +71,7 @@ def get_lookup_dict(records: dict) -> dict:
                 }
             )
 
-    # Ensure sorted dict value by similarity (item[1])
+    # Ensure sorted dict value by similarity i.e. item[1] of (repo2, sim, category2, len(common_topics))
     lookup_dict = {k: sorted(v, key=lambda item: item[1], reverse=True) for k, v in lookup_dict.items()}
     return lookup_dict
 

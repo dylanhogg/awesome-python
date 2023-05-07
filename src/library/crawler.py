@@ -5,7 +5,12 @@ from loguru import logger
 from library import render, readme, requirements
 
 
-def write_files(csv_location: str, token_list: List[str], output_csv_filename: str, output_json_filename: str):
+def write_files(csv_location: str,
+                token_list: List[str],
+                output_csv_filename: str,
+                output_json_filename: str,
+                max_ui_topics: int = 4,
+                max_ui_sim: int = 3):
     start = datetime.now()
 
     # Read GitHub urls from google docs
@@ -62,6 +67,8 @@ def write_files(csv_location: str, token_list: List[str], output_csv_filename: s
         axis=1,
     )
 
+    # TODO: parse crawled df["_readme_localurl"] files and extract: pypi links & arxiv links
+
     # Write raw results to json table format (i.e. github_data.json)
     with open(output_json_filename, "w") as f:
         json_results = df.to_json(orient="table", double_precision=2)
@@ -102,7 +109,12 @@ def write_files(csv_location: str, token_list: List[str], output_csv_filename: s
             "sim",
             "_readme_localurl",
         ]
-        json_results = df[cols].to_json(orient="table", double_precision=2, index=False)
+
+        df_min_ui = df[cols].copy()
+        # NOTE: max_ui_topics & max_ui_sim values impact capability on Javascript UI side!
+        df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
+        df_min_ui["sim"] = df_min_ui["sim"].apply(lambda x: x[0:max_ui_sim])
+        json_results = df_min_ui[cols].to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)
         json.dump(data, f, separators=(",", ":"))
 

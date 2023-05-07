@@ -21,7 +21,7 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     df["githuburl"] = df["githuburl"].apply(lambda x: x.strip().lower())
     df["customabout"] = df["customabout"].apply(lambda x: x.strip() if type(x) == str else None)
     df["customtopics"] = df["customtopics"].apply(
-        lambda x: list(set(x.strip().lower().replace(" ", "").split(","))) if type(x) == str else []
+        lambda x: list(set(x.strip().strip(",").lower().replace(" ", "").split(","))) if type(x) == str else []
     )
 
     duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
@@ -65,7 +65,7 @@ def make_markdown(row, include_category=False) -> str:
     topics_display = "\n<sub><sup>" + ", ".join(sorted(topics)) + "</sup></sub>" if len(topics) > 0 else ""
     description = row["_description"]
     language = row["_language"]
-    if language is not None and language.lower() != "python":
+    if language is not None and language.lower() != "python" and language.lower() != "jupyter notebook":
         logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
     header = (
