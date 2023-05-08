@@ -18,7 +18,7 @@ def main():
 
     # Crawl and write files
     github_json_filename = "github_data.json"
-    crawler.write_files(csv_location, token_list, "github_data.csv", github_json_filename)
+    crawler.run(csv_location, token_list, "github_data.csv", github_json_filename)
 
     # Post-processing
     postprocess.write_tags(github_json_filename, "github_tags_data.json", most_common=200)

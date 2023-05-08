@@ -1,32 +1,13 @@
 import json
+import pandas as pd
 from datetime import datetime
 from typing import List
 from loguru import logger
 from library import render, readme, requirements
 
 
-def write_files(
-    csv_location: str,
-    token_list: List[str],
-    output_csv_filename: str,
-    output_json_filename: str,
-    max_ui_topics: int = 4,
-    max_ui_sim: int = 3,
-):
-    start = datetime.now()
-
-    # Read GitHub urls from google docs
-    df_input = render.get_input_data(csv_location)
-    # df_input = df_input.head(3)  # Testing
-    # df_input = df_input.iloc[9:11]  # Testing
-
-    # Augment repo name with metadata from GitHub
-    logger.info(f"Processing {len(df_input)} records from {csv_location} with {len(token_list)=}...")
-    df = render.process(df_input, token_list)
-
-    # Write raw results to csv
-    logger.info(f"Write raw results to csv...")
-    df.to_csv(output_csv_filename)
+def _crawl_external_files(df_input: pd.DataFrame):
+    df = df_input.copy()
 
     logger.info("Crawling readme files...")
     df["_readme_filename"] = df["_repopath"].apply(lambda x: readme.get_readme(x))
@@ -70,6 +51,14 @@ def write_files(
     )
 
     # TODO: parse crawled df["_readme_localurl"] files and extract: pypi links & arxiv links
+
+    return df
+
+
+def _save_json_data_files(df: pd.DataFrame,
+                          output_json_filename: str,
+                          max_ui_topics: int = 4,
+                          max_ui_sim: int = 3):
 
     # Write raw results to json table format (i.e. github_data.json)
     with open(output_json_filename, "w") as f:
@@ -128,6 +117,8 @@ def write_files(
     )
     df.to_pickle(output_pickle_filename)
 
+
+def _write_local_markdown_files(df: pd.DataFrame):
     # Add markdown columns for local README.md and categories/*.md file lists.
     logger.info(f"Add markdown columns...")
     df = render.add_markdown(df)
@@ -161,5 +152,36 @@ def write_files(
         logger.info(f"Writing {len(df_category)} entries to {filename}...")
         with open(filename, "w") as out:
             out.write("\n".join(lines))
+
+
+def run(
+    csv_location: str,
+    token_list: List[str],
+    output_csv_filename: str,
+    output_json_filename: str
+):
+    start = datetime.now()
+
+    # Read GitHub urls from google docs
+    df_input = render.get_input_data(csv_location)
+    # df_input = df_input.head(3)  # Testing
+    # df_input = df_input.iloc[9:11]  # Testing
+
+    # Augment repo name with metadata from GitHub
+    logger.info(f"Processing {len(df_input)} records from {csv_location} with {len(token_list)=}...")
+    df = render.process(df_input, token_list)
+
+    # Write raw results to csv (without external file info)
+    logger.info(f"Write raw results to csv...")
+    df.to_csv(output_csv_filename)
+
+    # Crawl and save external files (e.g. readme.md and requirements.txt files)
+    df = _crawl_external_files(df)
+
+    # Write results to various json files
+    _save_json_data_files(df, output_json_filename)
+
+    # Write local markdown files for GitHub viewing
+    _write_local_markdown_files(df)
 
     logger.info(f"Finished writing in {datetime.now() - start}")
