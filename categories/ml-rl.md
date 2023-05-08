@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) by [lucidrains](https://github.com/lucidrains)  
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
 [https://github.com/lucidrains/palm-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch)  
-306 stars per week over 21 weeks  
+304 stars per week over 21 weeks  
 6,528 stars, 542 forks, 126 watches  
 created 2022-12-09, last commit 2023-04-05, main language Python  
 <sub><sup>artificial-intelligence, attention-mechanisms, deep-learning, human-feedback, reinforcement-learning, transformers</sup></sub>
@@ -28,7 +28,7 @@ created 2016-04-27, last commit 2023-01-30, main language Python
 A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)  
 [https://gymnasium.farama.org](https://gymnasium.farama.org)  
 [https://github.com/farama-foundation/gymnasium](https://github.com/farama-foundation/gymnasium)  
-74 stars per week over 34 weeks  
+73 stars per week over 34 weeks  
 2,548 stars, 276 forks, 21 watches  
 created 2022-09-08, last commit 2023-05-03, main language Python  
 <sub><sup>api, gym, reinforcement-learning</sup></sub>
@@ -57,7 +57,7 @@ created 2022-02-01, last commit 2023-05-05, main language Python
 An elegant PyTorch deep reinforcement learning library.  
 [https://tianshou.readthedocs.io](https://tianshou.readthedocs.io)  
 [https://github.com/thu-ml/tianshou](https://github.com/thu-ml/tianshou)  
-23 stars per week over 263 weeks  
+23 stars per week over 264 weeks  
 6,240 stars, 971 forks, 85 watches  
 created 2018-04-16, last commit 2023-04-30, main language Python  
 <sub><sup>a2c, atari, bcq, benchmark, cql, ddpg, double-dqn, dqn, drl, imitation-learning, mujoco, npg, policy-gradient, ppo, pytorch, rl, sac, td3, trpo</sup></sub>
@@ -67,7 +67,7 @@ created 2018-04-16, last commit 2023-04-30, main language Python
 A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities  
 [https://pettingzoo.farama.org](https://pettingzoo.farama.org)  
 [https://github.com/pettingzoo-team/pettingzoo](https://github.com/pettingzoo-team/pettingzoo)  
-10 stars per week over 171 weeks  
+10 stars per week over 172 weeks  
 1,802 stars, 296 forks, 20 watches  
 created 2020-01-20, last commit 2023-05-03, main language Python  
 <sub><sup>api, gym, gymnasium, multi-agent-reinforcement-learning, reinforcement-learning</sup></sub>
@@ -132,7 +132,7 @@ created 2016-06-07, last commit 2023-02-18, main language Python
 robosuite: A Modular Simulation Framework and Benchmark for Robot Learning  
 [https://robosuite.ai](https://robosuite.ai)  
 [https://github.com/arise-initiative/robosuite](https://github.com/arise-initiative/robosuite)  
-3.59 stars per week over 236 weeks  
+3.58 stars per week over 236 weeks  
 848 stars, 273 forks, 24 watches  
 created 2018-10-25, last commit 2023-04-11, main language Python  
 <sub><sup>physics-simulation, reinforcement-learning, robot-learning, robot-manipulation, robotics</sup></sub>
@@ -166,7 +166,7 @@ Human preference data for "Training a Helpful and Harmless Assistant with Reinfo
 created 2022-04-10, last commit 2022-08-24, main language None  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

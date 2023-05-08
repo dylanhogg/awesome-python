@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Network Analysis in Python  
 [https://networkx.org](https://networkx.org)  
 [https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
-19 stars per week over 660 weeks  
+19 stars per week over 661 weeks  
 12,598 stars, 2,907 forks, 280 watches  
 created 2010-09-06, last commit 2023-05-03, main language Python  
 <sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization</sup></sub>
@@ -29,7 +29,7 @@ created 2018-04-13, last commit 2021-10-29, main language Python
 Python package for creating and visualizing interactive network graphs.  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 [https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
-2.5 stars per week over 260 weeks  
+2.49 stars per week over 260 weeks  
 650 stars, 121 forks, 15 watches  
 created 2018-05-10, last commit 2023-02-10, main language HTML  
 <sub><sup>network-visualization, networkx</sup></sub>
@@ -38,7 +38,7 @@ created 2018-05-10, last commit 2023-02-10, main language HTML
 ### [GraphGPS](https://github.com/rampasek/graphgps) by [rampasek](https://github.com/rampasek)  
 Recipe for a General, Powerful, Scalable Graph Transformer  
 [https://github.com/rampasek/graphgps](https://github.com/rampasek/graphgps)  
-7.36 stars per week over 49 weeks  
+7.34 stars per week over 49 weeks  
 366 stars, 51 forks, 10 watches  
 created 2022-05-24, last commit 2023-02-17, main language Python  
 <sub><sup>graph-neural-network, graph-representation-learning, graph-transformer, long-range-dependence</sup></sub>
@@ -48,7 +48,7 @@ created 2022-05-24, last commit 2023-02-17, main language Python
 Python library for embedding large graphs in 2D space, using force-directed layouts.  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
 [https://github.com/h4kor/graph-force](https://github.com/h4kor/graph-force)  
-7.17 stars per week over 22 weeks  
+7.13 stars per week over 23 weeks  
 164 stars, 0 forks, 9 watches  
 created 2022-11-28, last commit 2022-11-28, main language Rust  
 <sub><sup>force-directed-graphs, graph-algorithms</sup></sub>
@@ -57,7 +57,7 @@ created 2022-11-28, last commit 2022-11-28, main language Rust
 ### [Exphormer](https://github.com/hamed1375/exphormer) by [hamed1375](https://github.com/hamed1375)  
 Exphormer: Sparse Transformer for Graphs  
 [https://github.com/hamed1375/exphormer](https://github.com/hamed1375/exphormer)  
-4.33 stars per week over 9 weeks  
+4.27 stars per week over 9 weeks  
 39 stars, 7 forks, 0 watches  
 created 2023-03-05, last commit 2023-03-13, main language Python  
 
@@ -71,7 +71,7 @@ created 2017-09-27, last commit 2018-12-11, main language Python
 <sub><sup>clustering, markov-clustering, networks</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

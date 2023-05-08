@@ -48,7 +48,7 @@ created 2015-01-27, last commit 2023-05-03, main language Python
 A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-9.89 stars per week over 424 weeks  
+9.88 stars per week over 424 weeks  
 4,197 stars, 273 forks, 56 watches  
 created 2015-03-18, last commit 2023-05-04, main language Python  
 <sub><sup>linter, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
@@ -57,7 +57,7 @@ created 2015-03-18, last commit 2023-05-04, main language Python
 ### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
 Run-time type checker for Python  
 [https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
-3.08 stars per week over 384 weeks  
+3.07 stars per week over 384 weeks  
 1,181 stars, 93 forks, 18 watches  
 created 2015-12-27, last commit 2023-05-01, main language Python  
 <sub><sup>typechecker</sup></sub>
@@ -90,7 +90,7 @@ jellezijlstra/autotyping
 created 2021-06-25, last commit 2023-03-28, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

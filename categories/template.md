@@ -56,7 +56,7 @@ created 2014-05-28, last commit 2023-05-03, main language Python
 ### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
-9.87 stars per week over 163 weeks  
+9.86 stars per week over 163 weeks  
 1,610 stars, 263 forks, 39 watches  
 created 2020-03-21, last commit 2022-02-18, main language Python  
 <sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
@@ -65,7 +65,7 @@ created 2020-03-21, last commit 2022-02-18, main language Python
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
 🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
-6.03 stars per week over 159 weeks  
+6.02 stars per week over 159 weeks  
 962 stars, 96 forks, 7 watches  
 created 2020-04-15, last commit 2022-05-18, main language Python  
 <sub><sup>best-practices, codestyle, cookiecutter, formatters, makefile, poetry, python-packages, semantic-versions, template</sup></sub>
@@ -75,7 +75,7 @@ created 2020-04-15, last commit 2022-05-18, main language Python
 Mako Templates for Python  
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 [https://github.com/sqlalchemy/mako](https://github.com/sqlalchemy/mako)  
-1.09 stars per week over 231 weeks  
+1.09 stars per week over 232 weeks  
 253 stars, 48 forks, 12 watches  
 created 2018-11-26, last commit 2023-01-03, main language Python  
 
@@ -83,7 +83,7 @@ created 2018-11-26, last commit 2023-01-03, main language Python
 ### [fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template) by [janetech-inc](https://github.com/janetech-inc)  
  A test driven micro-service template to build and deploy a fast-api service with admin feature.  
 [https://github.com/janetech-inc/fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template)  
-8.81 stars per week over 11 weeks  
+8.71 stars per week over 11 weeks  
 102 stars, 10 forks, 4 watches  
 created 2023-02-15, last commit 2023-03-01, main language JavaScript  
 
@@ -101,7 +101,7 @@ created 2020-11-15, last commit 2023-04-25, main language Python
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  
 Start a data science project with modern tools  
 [https://github.com/crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience)  
-1.01 stars per week over 147 weeks  
+1.01 stars per week over 148 weeks  
 149 stars, 34 forks, 3 watches  
 created 2020-07-06, last commit 2022-06-10, main language Python  
 <sub><sup>cookiecutter, cookiecutter-data-science, cookiecutter-template, datascience</sup></sub>
@@ -134,7 +134,7 @@ Build a high-performance Python function in AWS lambda using asyncio, aiohttp an
 created 2020-06-27, last commit 2020-07-01, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

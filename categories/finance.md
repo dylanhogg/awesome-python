@@ -136,7 +136,7 @@ created 2015-11-27, last commit 2023-05-02, main language Python
 Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.   
 [https://vectorbt.dev](https://vectorbt.dev)  
 [https://github.com/polakowo/vectorbt](https://github.com/polakowo/vectorbt)  
-9.86 stars per week over 285 weeks  
+9.85 stars per week over 285 weeks  
 2,816 stars, 477 forks, 100 watches  
 created 2017-11-14, last commit 2023-05-05, main language Python  
 <sub><sup>algorithmic-trading, algorithmic-traiding, backtesting, cryptocurrency, data-science, data-visualization, finance, machine-learning, portfolio-optimization, quantitative-analysis, quantitative-finance, time-series, trading, trading-strategies</sup></sub>
@@ -173,7 +173,7 @@ created 2020-10-30, last commit 2023-05-02, main language Python
 Portfolio and risk analytics in Python  
 [https://quantopian.github.io/pyfolio](https://quantopian.github.io/pyfolio)  
 [https://github.com/quantopian/pyfolio](https://github.com/quantopian/pyfolio)  
-11 stars per week over 413 weeks  
+11 stars per week over 414 weeks  
 4,962 stars, 1,584 forks, 305 watches  
 created 2015-06-01, last commit 2020-07-15, main language Jupyter Notebook  
 
@@ -182,7 +182,7 @@ created 2015-06-01, last commit 2020-07-15, main language Jupyter Notebook
 Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)  
 [http://www.cuemacro.com](http://www.cuemacro.com)  
 [https://github.com/cuemacro/finmarketpy](https://github.com/cuemacro/finmarketpy)  
-7.23 stars per week over 428 weeks  
+7.22 stars per week over 428 weeks  
 3,096 stars, 481 forks, 216 watches  
 created 2015-02-19, last commit 2023-04-26, main language Python  
 <sub><sup>backtesting-trading-strategies, trading-strategies</sup></sub>
@@ -219,7 +219,7 @@ created 2015-12-17, last commit 2023-05-02, main language SWIG
 ### [basana](https://github.com/gbeced/basana) by [gbeced](https://github.com/gbeced)  
 A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.  
 [https://github.com/gbeced/basana](https://github.com/gbeced/basana)  
-8.42 stars per week over 9 weeks  
+8.29 stars per week over 9 weeks  
 77 stars, 5 forks, 8 watches  
 created 2023-03-04, last commit 2023-04-28, main language Python  
 <sub><sup>algorithmic-trading, asyncio, backtesting, binance, cryptocurrency, trading-bot</sup></sub>
@@ -237,7 +237,7 @@ created 2012-03-07, last commit 2023-03-05, main language Python
 ### [algo-trader](https://github.com/idanya/algo-trader) by [idanya](https://github.com/idanya)  
 Trading bot with support for realtime trading, backtesting, custom strategies and much more.  
 [https://github.com/idanya/algo-trader](https://github.com/idanya/algo-trader)  
-7.65 stars per week over 85 weeks  
+7.64 stars per week over 85 weeks  
 656 stars, 74 forks, 24 watches  
 created 2021-09-14, last commit 2023-03-02, main language Python  
 <sub><sup>algorithmic-trading, backtesting, crypto-bot, technical-analysis, trading-bot, trading-strategies</sup></sub>
@@ -264,7 +264,7 @@ created 2016-12-07, last commit 2023-02-04, main language Python
 ### [data-link-python](https://github.com/nasdaq/data-link-python) by [nasdaq](https://github.com/nasdaq)  
 A Python library for Nasdaq Data Link's RESTful API  
 [https://github.com/nasdaq/data-link-python](https://github.com/nasdaq/data-link-python)  
-3.04 stars per week over 78 weeks  
+3.03 stars per week over 78 weeks  
 239 stars, 50 forks, 9 watches  
 created 2021-11-02, last commit 2022-08-29, main language Python  
 
@@ -318,7 +318,7 @@ created 2017-01-06, last commit 2023-04-25, main language Jupyter Notebook
 Common financial risk and performance metrics. Used by zipline and pyfolio.  
 [https://quantopian.github.io/empyrical](https://quantopian.github.io/empyrical)  
 [https://github.com/quantopian/empyrical](https://github.com/quantopian/empyrical)  
-2.83 stars per week over 372 weeks  
+2.82 stars per week over 372 weeks  
 1,052 stars, 344 forks, 72 watches  
 created 2016-03-18, last commit 2020-10-14, main language Python  
 
@@ -374,7 +374,7 @@ Technical Analysis library in pandas for backtesting algotrading and quantitativ
 created 2020-01-31, last commit 2020-03-11, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

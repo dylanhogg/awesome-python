@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Rich is a Python library for rich text and beautiful formatting in the terminal.  
 [https://rich.readthedocs.io/en/latest/](https://rich.readthedocs.io/en/latest/)  
 [https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)  
-237 stars per week over 182 weeks  
+236 stars per week over 182 weeks  
 43,141 stars, 1,557 forks, 541 watches  
 created 2019-11-10, last commit 2023-04-27, main language Python  
 <sub><sup>ansi-colors, emoji, markdown, progress-bar, progress-bar-python, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich, tui</sup></sub>
@@ -96,7 +96,7 @@ created 2014-03-01, last commit 2023-05-05, main language Python
 ### [halo](https://github.com/manrajgrover/halo) by [manrajgrover](https://github.com/manrajgrover)  
 💫 Beautiful spinners for terminal, IPython and Jupyter  
 [https://github.com/manrajgrover/halo](https://github.com/manrajgrover/halo)  
-9.23 stars per week over 296 weeks  
+9.22 stars per week over 296 weeks  
 2,731 stars, 141 forks, 26 watches  
 created 2017-09-03, last commit 2020-11-09, main language Python  
 <sub><sup>async, halo, ipython, jupyter, ora, spinner</sup></sub>
@@ -139,7 +139,7 @@ created 2016-05-17, last commit 2021-06-26, main language Python
 <sub><sup>ascii, command-line-tool, graphs, sparkline-graphs, sparklines</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

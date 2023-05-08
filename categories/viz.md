@@ -39,7 +39,7 @@ created 2011-02-19, last commit 2023-05-06, main language Python
 Interactive Data Visualization in the browser, from  Python  
 [https://bokeh.org](https://bokeh.org)  
 [https://github.com/bokeh/bokeh](https://github.com/bokeh/bokeh)  
-30 stars per week over 579 weeks  
+30 stars per week over 580 weeks  
 17,546 stars, 4,097 forks, 448 watches  
 created 2012-03-26, last commit 2023-05-04, main language Python  
 <sub><sup>bokeh, data-visualisation, interactive-plots, javascript, jupyter, notebooks, numfocus, plots, plotting, visualisation, visualization</sup></sub>
@@ -89,7 +89,7 @@ created 2015-09-19, last commit 2023-05-02, main language Python
 Statistical data visualization in Python  
 [https://seaborn.pydata.org](https://seaborn.pydata.org)  
 [https://github.com/mwaskom/seaborn](https://github.com/mwaskom/seaborn)  
-18 stars per week over 567 weeks  
+18 stars per week over 568 weeks  
 10,678 stars, 1,723 forks, 257 watches  
 created 2012-06-18, last commit 2023-05-05, main language Python  
 <sub><sup>data-science, data-visualization, matplotlib, pandas</sup></sub>
@@ -98,7 +98,7 @@ created 2012-06-18, last commit 2023-05-05, main language Python
 ### [prettymaps](https://github.com/marceloprates/prettymaps) by [marceloprates](https://github.com/marceloprates)  
 A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.  
 [https://github.com/marceloprates/prettymaps](https://github.com/marceloprates/prettymaps)  
-86 stars per week over 113 weeks  
+85 stars per week over 113 weeks  
 9,754 stars, 471 forks, 76 watches  
 created 2021-03-05, last commit 2023-02-15, main language Jupyter Notebook  
 <sub><sup>cartography, generative-art, jupyter-notebook, maps, matplotlib, openstreetmap</sup></sub>
@@ -128,7 +128,7 @@ created 2013-03-21, last commit 2023-05-03, main language Python
 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)  
 [https://docs.pyvista.org](https://docs.pyvista.org)  
 [https://github.com/pyvista/pyvista](https://github.com/pyvista/pyvista)  
-5.75 stars per week over 309 weeks  
+5.74 stars per week over 309 weeks  
 1,779 stars, 326 forks, 31 watches  
 created 2017-05-31, last commit 2023-05-05, main language Python  
 <sub><sup>3d, hacktoberfest, mesh, mesh-processing, meshviewer, open-science, plotting, scientific-research, scientific-visualization, visualization, vtk</sup></sub>
@@ -148,7 +148,7 @@ created 2013-09-12, last commit 2023-05-03, main language Python
 Visualizer for pandas data structures  
 [http://alphatechadmin.pythonanywhere.com](http://alphatechadmin.pythonanywhere.com)  
 [https://github.com/man-group/dtale](https://github.com/man-group/dtale)  
-20 stars per week over 198 weeks  
+20 stars per week over 199 weeks  
 4,004 stars, 339 forks, 71 watches  
 created 2019-07-15, last commit 2023-05-01, main language TypeScript  
 <sub><sup>data-analysis, data-science, data-visualization, flask, ipython, jupyter-notebook, pandas, plotly-dash, python27, react, react-virtualized, visualization, xarray</sup></sub>
@@ -178,7 +178,7 @@ created 2014-05-07, last commit 2023-05-05, main language Python
 A grammar of graphics for Python  
 [https://plotnine.readthedocs.io/en/stable/](https://plotnine.readthedocs.io/en/stable/)  
 [https://github.com/has2k1/plotnine](https://github.com/has2k1/plotnine)  
-10 stars per week over 314 weeks  
+10 stars per week over 315 weeks  
 3,449 stars, 200 forks, 69 watches  
 created 2017-04-24, last commit 2023-04-19, main language Python  
 <sub><sup>data-analysis, grammar, graphics, plotting</sup></sub>
@@ -188,7 +188,7 @@ created 2017-04-24, last commit 2023-04-19, main language Python
 Build full-stack data apps in 100% Python  
 [https://datapane.com](https://datapane.com)  
 [https://github.com/datapane/datapane](https://github.com/datapane/datapane)  
-7.51 stars per week over 158 weeks  
+7.5 stars per week over 158 weeks  
 1,190 stars, 75 forks, 15 watches  
 created 2020-04-23, last commit 2023-04-21, main language Python  
 <sub><sup>dashboard, data-visualization, reporting</sup></sub>
@@ -225,7 +225,7 @@ created 2019-11-08, last commit 2023-03-03, main language TypeScript
 ### [deepscatter](https://github.com/nomic-ai/deepscatter) by [nomic-ai](https://github.com/nomic-ai)  
 Zoomable, animated scatterplots in the browser that scales over a billion points  
 [https://github.com/nomic-ai/deepscatter](https://github.com/nomic-ai/deepscatter)  
-3.38 stars per week over 235 weeks  
+3.37 stars per week over 235 weeks  
 796 stars, 26 forks, 13 watches  
 created 2018-10-30, last commit 2023-04-14, main language TypeScript  
 <sub><sup>data-visualization, visualization, webgl</sup></sub>
@@ -245,7 +245,7 @@ created 2021-04-06, last commit 2021-05-06, main language Python
 3D visualization of scientific data in Python  
 [http://docs.enthought.com/mayavi/mayavi/](http://docs.enthought.com/mayavi/mayavi/)  
 [https://github.com/enthought/mayavi](https://github.com/enthought/mayavi)  
-1.75 stars per week over 640 weeks  
+1.75 stars per week over 641 weeks  
 1,119 stars, 269 forks, 100 watches  
 created 2011-01-24, last commit 2022-10-18, main language Python  
 <sub><sup>scientific-visualization, visualization</sup></sub>
@@ -288,7 +288,7 @@ created 2016-08-03, last commit 2022-11-02, main language Python
 <sub><sup>bokeh, chart, matplotlib, plotly, plotting</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

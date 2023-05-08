@@ -54,7 +54,7 @@ created 2018-02-28, last commit 2022-02-16, main language Python
 ### [snoop](https://github.com/alexmojaki/snoop) by [alexmojaki](https://github.com/alexmojaki)  
 A powerful set of Python debugging tools, based on PySnooper  
 [https://github.com/alexmojaki/snoop](https://github.com/alexmojaki/snoop)  
-4.43 stars per week over 207 weeks  
+4.42 stars per week over 208 weeks  
 920 stars, 32 forks, 18 watches  
 created 2019-05-13, last commit 2022-12-22, main language Python  
 <sub><sup>debugger, debugging, debugging-tools, logging</sup></sub>
@@ -64,7 +64,7 @@ created 2019-05-13, last commit 2022-12-22, main language Python
 Hunter is a flexible code tracing toolkit.   
 [https://python-hunter.readthedocs.io/](https://python-hunter.readthedocs.io/)  
 [https://github.com/ionelmc/python-hunter](https://github.com/ionelmc/python-hunter)  
-1.7 stars per week over 424 weeks  
+1.7 stars per week over 425 weeks  
 723 stars, 43 forks, 15 watches  
 created 2015-03-16, last commit 2023-04-26, main language Python  
 <sub><sup>debugger, debugging, tracer</sup></sub>
@@ -74,7 +74,7 @@ created 2015-03-16, last commit 2023-04-26, main language Python
 Graphical Python debugger which lets you easily view the values of all evaluated expressions  
 [https://birdseye.readthedocs.io](https://birdseye.readthedocs.io)  
 [https://github.com/alexmojaki/birdseye](https://github.com/alexmojaki/birdseye)  
-5.12 stars per week over 302 weeks  
+5.11 stars per week over 302 weeks  
 1,546 stars, 77 forks, 42 watches  
 created 2017-07-22, last commit 2022-05-18, main language JavaScript  
 <sub><sup>ast, birdseye, debugger, debugging, python-debugger</sup></sub>
@@ -89,7 +89,7 @@ created 2019-04-24, last commit 2021-11-13, main language Python
 <sub><sup>debugger, visualization</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

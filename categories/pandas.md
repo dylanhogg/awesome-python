@@ -18,7 +18,7 @@ created 2010-08-24, last commit 2023-05-06, main language Python
 ### [pygwalker](https://github.com/kanaries/pygwalker) by [kanaries](https://github.com/kanaries)  
 PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis  
 [https://github.com/kanaries/pygwalker](https://github.com/kanaries/pygwalker)  
-457 stars per week over 11 weeks  
+451 stars per week over 11 weeks  
 5,228 stars, 171 forks, 22 watches  
 created 2023-02-16, last commit 2023-04-23, main language Python  
 <sub><sup>data-analysis, data-exploration, dataframe, matplotlib, pandas, plotly, tableau, tableau-alternative, visualization</sup></sub>
@@ -58,7 +58,7 @@ created 2018-11-01, last commit 2023-05-04, main language Python
 The Python DataFrame for Complex Data  
 [https://getdaft.io](https://getdaft.io)  
 [https://github.com/eventual-inc/daft](https://github.com/eventual-inc/daft)  
-10 stars per week over 53 weeks  
+10 stars per week over 54 weeks  
 547 stars, 24 forks, 8 watches  
 created 2022-04-25, last commit 2023-05-05, main language Python  
 <sub><sup>data-engineering, data-science, dataframe, deep-learning, distributed-computing, image-processing, machine-learning, rust</sup></sub>
@@ -97,7 +97,7 @@ created 2018-04-07, last commit 2023-03-24, main language Python
 Clean APIs for data cleaning. Python implementation of R package Janitor  
 [https://pyjanitor-devs.github.io/pyjanitor](https://pyjanitor-devs.github.io/pyjanitor)  
 [https://github.com/pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor)  
-4.23 stars per week over 270 weeks  
+4.22 stars per week over 270 weeks  
 1,141 stars, 157 forks, 20 watches  
 created 2018-03-04, last commit 2023-05-02, main language Python  
 <sub><sup>cleaning-data, data, data-engineering, dataframe, hacktoberfest, pandas, pydata</sup></sub>
@@ -116,7 +116,7 @@ created 2019-06-12, last commit 2022-03-16, main language Python
 A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  
 [https://hvplot.holoviz.org](https://hvplot.holoviz.org)  
 [https://github.com/holoviz/hvplot](https://github.com/holoviz/hvplot)  
-2.8 stars per week over 267 weeks  
+2.8 stars per week over 268 weeks  
 750 stars, 87 forks, 24 watches  
 created 2018-03-19, last commit 2023-04-06, main language Python  
 <sub><sup>datashader, holoviews, holoviz, plotting</sup></sub>
@@ -135,7 +135,7 @@ created 2015-01-15, last commit 2022-03-16, main language Python
 ### [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) by [scikit-learn-contrib](https://github.com/scikit-learn-contrib)  
 Pandas integration with sklearn  
 [https://github.com/scikit-learn-contrib/sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)  
-5.18 stars per week over 523 weeks  
+5.18 stars per week over 524 weeks  
 2,713 stars, 417 forks, 94 watches  
 created 2013-04-22, last commit 2022-07-17, main language Python  
 
@@ -144,7 +144,7 @@ created 2013-04-22, last commit 2022-07-17, main language Python
 Python library for using dplyr like syntax with pandas and SQL  
 [https://siuba.org](https://siuba.org)  
 [https://github.com/machow/siuba](https://github.com/machow/siuba)  
-4.63 stars per week over 221 weeks  
+4.62 stars per week over 221 weeks  
 1,023 stars, 43 forks, 21 watches  
 created 2019-02-09, last commit 2022-11-16, main language Python  
 <sub><sup>data-analysis, dplyr, pandas, sql</sup></sub>
@@ -162,7 +162,7 @@ created 2012-10-26, last commit 2019-08-15, main language Python
 ### [spatialpandas](https://github.com/holoviz/spatialpandas) by [holoviz](https://github.com/holoviz)  
 Pandas extension arrays for spatial/geometric operations  
 [https://github.com/holoviz/spatialpandas](https://github.com/holoviz/spatialpandas)  
-1.45 stars per week over 183 weeks  
+1.45 stars per week over 184 weeks  
 267 stars, 21 forks, 23 watches  
 created 2019-10-28, last commit 2023-05-03, main language Python  
 <sub><sup>geographic-data, geopandas, holoviz, pandas, spatialpandas</sup></sub>
@@ -200,12 +200,12 @@ created 2018-01-25, last commit 2023-03-19, main language Python
 ### [mapply](https://github.com/ddelange/mapply) by [ddelange](https://github.com/ddelange)  
 Sensible multi-core apply function for Pandas  
 [https://github.com/ddelange/mapply](https://github.com/ddelange/mapply)  
-0.31 stars per week over 131 weeks  
+0.31 stars per week over 132 weeks  
 41 stars, 3 forks, 4 watches  
 created 2020-10-26, last commit 2023-03-05, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

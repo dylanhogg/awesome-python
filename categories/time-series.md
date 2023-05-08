@@ -97,7 +97,7 @@ created 2021-07-28, last commit 2023-03-22, main language Python
 Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  
 [https://flow-forecast.atlassian.net/wiki/spaces/FF/overview](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)  
 [https://github.com/aistream-peelout/flow-forecast](https://github.com/aistream-peelout/flow-forecast)  
-7.34 stars per week over 194 weeks  
+7.33 stars per week over 194 weeks  
 1,427 stars, 235 forks, 21 watches  
 created 2019-08-15, last commit 2023-05-05, main language Python  
 <sub><sup>anomaly-detection, deep-learning, deep-neural-networks, forecasting, hacktoberfest, lstm, pytorch, state-of-the-art-models, time-series, time-series-analysis, time-series-forecasting, time-series-regression, transfer-learning, transformer</sup></sub>
@@ -107,7 +107,7 @@ created 2019-08-15, last commit 2023-05-05, main language Python
 A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.  
 [https://orbit-ml.readthedocs.io/en/stable/](https://orbit-ml.readthedocs.io/en/stable/)  
 [https://github.com/uber/orbit](https://github.com/uber/orbit)  
-9.39 stars per week over 173 weeks  
+9.38 stars per week over 173 weeks  
 1,631 stars, 125 forks, 34 watches  
 created 2020-01-07, last commit 2023-01-29, main language Python  
 <sub><sup>arima, bayesian, bayesian-methods, bayesian-statistics, changepoint, exponential-smoothing, forecast, forecasting, machine-learning, orbit, probabilistic, probabilistic-programming, pyro, pystan, pytorch, regression, regression-models, stan, time-series</sup></sub>
@@ -155,7 +155,7 @@ created 2020-02-20, last commit 2023-05-04, main language Jupyter Notebook
 ### [Auto_TS](https://github.com/autoviml/auto_ts) by [autoviml](https://github.com/autoviml)  
 Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.  
 [https://github.com/autoviml/auto_ts](https://github.com/autoviml/auto_ts)  
-3.4 stars per week over 168 weeks  
+3.39 stars per week over 168 weeks  
 571 stars, 99 forks, 18 watches  
 created 2020-02-15, last commit 2023-03-27, main language Jupyter Notebook  
 <sub><sup>arima, auto-arima, auto-sklearn, auto-timeseries, autokeras, automl, autosklearn, prophet, sklearn, time-series, time-series-analysis, tpot</sup></sub>
@@ -165,7 +165,7 @@ created 2020-02-15, last commit 2023-03-27, main language Jupyter Notebook
 Robust machine learning for responsible AI  
 [http://aka.ms/roblearn](http://aka.ms/roblearn)  
 [https://github.com/microsoft/robustlearn](https://github.com/microsoft/robustlearn)  
-7.35 stars per week over 28 weeks  
+7.32 stars per week over 28 weeks  
 209 stars, 15 forks, 6 watches  
 created 2022-10-20, last commit 2023-04-24, main language Python  
 
@@ -182,7 +182,7 @@ created 2019-11-26, last commit 2023-04-10, main language Python
 ### [pyflux](https://github.com/rjt1990/pyflux) by [rjt1990](https://github.com/rjt1990)  
 Open source time series library for Python  
 [https://github.com/rjt1990/pyflux](https://github.com/rjt1990/pyflux)  
-5.39 stars per week over 376 weeks  
+5.38 stars per week over 376 weeks  
 2,029 stars, 236 forks, 69 watches  
 created 2016-02-16, last commit 2018-12-16, main language Python  
 <sub><sup>statistics, time-series</sup></sub>
@@ -192,7 +192,7 @@ created 2016-02-16, last commit 2018-12-16, main language Python
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 [https://github.com/firmai/atspy](https://github.com/firmai/atspy)  
-2.81 stars per week over 170 weeks  
+2.8 stars per week over 170 weeks  
 479 stars, 88 forks, 21 watches  
 created 2020-01-28, last commit 2021-12-18, main language Python  
 <sub><sup>automated, finance, forecasting, forecasting-models, time-series, time-series-analysis</sup></sub>
@@ -201,7 +201,7 @@ created 2020-01-28, last commit 2021-12-18, main language Python
 ### [DeepTime](https://github.com/salesforce/deeptime) by [salesforce](https://github.com/salesforce)  
 PyTorch code for DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting  
 [https://github.com/salesforce/deeptime](https://github.com/salesforce/deeptime)  
-5.55 stars per week over 44 weeks  
+5.53 stars per week over 45 weeks  
 249 stars, 40 forks, 9 watches  
 created 2022-06-27, last commit 2022-11-03, main language Python  
 <sub><sup>deep-learning, forecasting, implicit-neural-representation, meta-learning, time-series, time-series-forecasting, time-series-regression</sup></sub>
@@ -215,7 +215,7 @@ Calculate predictive causality between time series using information-theoretic t
 created 2018-07-26, last commit 2018-12-24, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

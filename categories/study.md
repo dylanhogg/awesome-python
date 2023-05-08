@@ -18,7 +18,7 @@ created 2016-07-16, last commit 2023-05-02, main language Python
 ### [system-design-primer](https://github.com/donnemartin/system-design-primer) by [donnemartin](https://github.com/donnemartin)  
 Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.  
 [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
-679 stars per week over 323 weeks  
+678 stars per week over 323 weeks  
 219,349 stars, 38,968 forks, 6,478 watches  
 created 2017-02-26, last commit 2023-03-16, main language Python  
 <sub><sup>design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, system, web, web-application, webapp</sup></sub>
@@ -58,7 +58,7 @@ created 2016-08-10, last commit 2023-05-05, main language Jupyter Notebook
 Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.  
 [https://roboflow.com/models](https://roboflow.com/models)  
 [https://github.com/roboflow/notebooks](https://github.com/roboflow/notebooks)  
-86 stars per week over 24 weeks  
+85 stars per week over 24 weeks  
 2,090 stars, 296 forks, 36 watches  
 created 2022-11-18, last commit 2023-05-05, main language Jupyter Notebook  
 <sub><sup>amazon-sagemaker-lab, automatic-labeling-system, computer-vision, deep-learning, deep-neural-networks, google-colab, image-classification, image-segmentation, machine-learning, object-detection, open-vocabulary-detection, open-vocabulary-segmentation, pytorch, tutorial, yolov5, yolov6, yolov7, yolov8, zero-shot-classification, zero-shot-detection</sup></sub>
@@ -76,7 +76,7 @@ created 2022-04-21, last commit 2023-05-04, main language Jupyter Notebook
 ### [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) by [gkamradt](https://github.com/gkamradt)  
 Overview and tutorial of the LangChain Library  
 [https://github.com/gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials)  
-166 stars per week over 11 weeks  
+164 stars per week over 12 weeks  
 1,969 stars, 766 forks, 37 watches  
 created 2023-02-13, last commit 2023-05-05, main language Jupyter Notebook  
 
@@ -84,7 +84,7 @@ created 2023-02-13, last commit 2023-05-05, main language Jupyter Notebook
 ### [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) by [huggingface](https://github.com/huggingface)  
 Materials for the Hugging Face Diffusion Models Course  
 [https://github.com/huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class)  
-74 stars per week over 29 weeks  
+73 stars per week over 29 weeks  
 2,182 stars, 210 forks, 78 watches  
 created 2022-10-13, last commit 2023-02-21, main language Jupyter Notebook  
 
@@ -101,7 +101,7 @@ created 2022-08-09, last commit 2023-04-09, main language None
 ### [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) by [karpathy](https://github.com/karpathy)  
 Neural Networks: Zero to Hero  
 [https://github.com/karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)  
-235 stars per week over 34 weeks  
+234 stars per week over 34 weeks  
 8,115 stars, 851 forks, 251 watches  
 created 2022-09-08, last commit 2023-01-17, main language Jupyter Notebook  
 
@@ -117,7 +117,7 @@ created 2012-06-30, last commit 2023-04-12, main language Jupyter Notebook
 ### [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) by [nielsrogge](https://github.com/nielsrogge)  
 This repository contains demos I made with the Transformers library by HuggingFace.  
 [https://github.com/nielsrogge/transformers-tutorials](https://github.com/nielsrogge/transformers-tutorials)  
-30 stars per week over 139 weeks  
+30 stars per week over 140 weeks  
 4,231 stars, 687 forks, 90 watches  
 created 2020-08-31, last commit 2023-05-03, main language Jupyter Notebook  
 <sub><sup>bert, gpt-2, layoutlm, pytorch, transformers, vision-transformer</sup></sub>
@@ -208,7 +208,7 @@ created 2019-05-03, last commit 2021-12-18, main language Jupyter Notebook
 ### [micrograd](https://github.com/karpathy/micrograd) by [karpathy](https://github.com/karpathy)  
 A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  
 [https://github.com/karpathy/micrograd](https://github.com/karpathy/micrograd)  
-30 stars per week over 159 weeks  
+30 stars per week over 160 weeks  
 4,801 stars, 575 forks, 104 watches  
 created 2020-04-13, last commit 2020-04-18, main language Jupyter Notebook  
 
@@ -234,7 +234,7 @@ created 2021-08-17, last commit 2023-04-20, main language Jupyter Notebook
 ### [MEDIUM_NoteBook](https://github.com/cerlymarco/medium_notebook) by [cerlymarco](https://github.com/cerlymarco)  
 Repository containing notebooks of my posts on Medium  
 [https://github.com/cerlymarco/medium_notebook](https://github.com/cerlymarco/medium_notebook)  
-8.58 stars per week over 210 weeks  
+8.58 stars per week over 211 weeks  
 1,810 stars, 938 forks, 96 watches  
 created 2019-04-22, last commit 2023-04-06, main language Jupyter Notebook  
 <sub><sup>artificial-intelligence, data-science, deep-learning, machine-learning, notebooks</sup></sub>
@@ -262,7 +262,7 @@ created 2019-03-21, last commit 2022-04-24, main language Python
 ### [ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs) by [stanford-crfm](https://github.com/stanford-crfm)  
 stanford-crfm/ecosystem-graphs  
 [https://github.com/stanford-crfm/ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs)  
-1.74 stars per week over 60 weeks  
+1.73 stars per week over 60 weeks  
 105 stars, 10 forks, 8 watches  
 created 2022-03-10, last commit 2023-04-16, main language JavaScript  
 
@@ -289,7 +289,7 @@ created 2022-03-25, last commit 2023-04-19, main language Jupyter Notebook
 ### [semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) by [nomic-ai](https://github.com/nomic-ai)  
 Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI  
 [https://github.com/nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template)  
-6.71 stars per week over 6 weeks  
+6.57 stars per week over 7 weeks  
 46 stars, 4 forks, 5 watches  
 created 2023-03-20, last commit 2023-03-20, main language Python  
 <sub><sup>fastapi, openai, react, semantic-search, tutorial</sup></sub>
@@ -308,7 +308,7 @@ created 2020-06-20, last commit 2023-05-06, main language HTML
 ### [practical-ml-vision-book](https://github.com/googlecloudplatform/practical-ml-vision-book) by [googlecloudplatform](https://github.com/googlecloudplatform)  
 googlecloudplatform/practical-ml-vision-book  
 [https://github.com/googlecloudplatform/practical-ml-vision-book](https://github.com/googlecloudplatform/practical-ml-vision-book)  
-2.68 stars per week over 128 weeks  
+2.67 stars per week over 128 weeks  
 344 stars, 156 forks, 20 watches  
 created 2020-11-18, last commit 2022-11-21, main language Jupyter Notebook  
 
@@ -326,7 +326,7 @@ created 2020-04-12, last commit 2023-01-18, main language Python
 STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)  
 [http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/)  
 [https://github.com/rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20)  
-3.05 stars per week over 171 weeks  
+3.05 stars per week over 172 weeks  
 525 stars, 155 forks, 37 watches  
 created 2020-01-20, last commit 2020-05-01, main language Jupyter Notebook  
 
@@ -334,7 +334,7 @@ created 2020-01-20, last commit 2020-05-01, main language Jupyter Notebook
 ### [stat451-machine-learning-fs20](https://github.com/rasbt/stat451-machine-learning-fs20) by [rasbt](https://github.com/rasbt)  
 STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)  
 [https://github.com/rasbt/stat451-machine-learning-fs20](https://github.com/rasbt/stat451-machine-learning-fs20)  
-2.41 stars per week over 143 weeks  
+2.4 stars per week over 143 weeks  
 345 stars, 182 forks, 19 watches  
 created 2020-08-06, last commit 2020-12-03, main language Jupyter Notebook  
 
@@ -356,7 +356,7 @@ anyscale/rl-course
 created 2022-03-01, last commit 2023-01-02, main language Jupyter Notebook  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

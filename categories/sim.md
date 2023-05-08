@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Astronomy and astrophysics core library  
 [https://www.astropy.org](https://www.astropy.org)  
 [https://github.com/astropy/astropy](https://github.com/astropy/astropy)  
-6.12 stars per week over 615 weeks  
+6.11 stars per week over 615 weeks  
 3,764 stars, 1,590 forks, 139 watches  
 created 2011-07-21, last commit 2023-05-05, main language Python  
 <sub><sup>astronomy, astrophysics, astropy, science</sup></sub>
@@ -29,7 +29,7 @@ created 2016-12-02, last commit 2023-04-04, main language C++
 Python sample codes for robotics algorithms.  
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 [https://github.com/atsushisakai/pythonrobotics](https://github.com/atsushisakai/pythonrobotics)  
-49 stars per week over 371 weeks  
+49 stars per week over 372 weeks  
 18,512 stars, 5,731 forks, 508 watches  
 created 2016-03-21, last commit 2023-05-02, main language Python  
 <sub><sup>algorithm, animation, autonomous-driving, autonomous-navigation, autonomous-vehicles, control, cvxpy, ekf, hacktoberfest, localization, mapping, path-planning, robot, robotics, slam</sup></sub>
@@ -113,7 +113,7 @@ created 2014-05-02, last commit 2023-04-30, main language Python
 A modular high-level library to train embodied AI agents across a variety of tasks and environments.  
 [https://aihabitat.org/](https://aihabitat.org/)  
 [https://github.com/facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab)  
-4.83 stars per week over 221 weeks  
+4.83 stars per week over 222 weeks  
 1,072 stars, 370 forks, 41 watches  
 created 2019-02-04, last commit 2023-04-18, main language Python  
 <sub><sup>ai, computer-vision, deep-learning, deep-reinforcement-learning, reinforcement-learning, research, robotics, sim2real, simulator</sup></sub>
@@ -133,7 +133,7 @@ created 2017-12-12, last commit 2023-03-16, main language C++
 Machine learning algorithms for many-body quantum systems   
 [https://www.netket.org](https://www.netket.org)  
 [https://github.com/netket/netket](https://github.com/netket/netket)  
-1.64 stars per week over 262 weeks  
+1.64 stars per week over 263 weeks  
 431 stars, 155 forks, 24 watches  
 created 2018-04-23, last commit 2023-05-02, main language Python  
 <sub><sup>complex-neural-network, deep-learning, exact-diagonalization, hamiltonian, jax, machine-learning, machine-learning-algorithms, markov-chain-monte-carlo, monte-carlo-methods, neural-networks, physics-simulation, quantum, quantum-state-tomography, unitaryhack, variational-method, variational-monte-carlo</sup></sub>
@@ -160,7 +160,7 @@ created 2013-10-02, last commit 2023-04-01, main language Python
 ### [fairo](https://github.com/facebookresearch/droidlet) by [facebookresearch](https://github.com/facebookresearch)  
 A modular embodied agent architecture and platform for building embodied agents  
 [https://github.com/facebookresearch/droidlet](https://github.com/facebookresearch/droidlet)  
-6.1 stars per week over 130 weeks  
+6.09 stars per week over 131 weeks  
 798 stars, 81 forks, 39 watches  
 created 2020-11-02, last commit 2023-02-01, main language Jupyter Notebook  
 
@@ -208,7 +208,7 @@ created 2020-07-02, last commit 2022-05-09, main language Python
 ### [PokerPy](https://github.com/glpcc/pokerpy) by [glpcc](https://github.com/glpcc)  
 Texas Hold'em Poker Probability Calculator in Python  
 [https://github.com/glpcc/pokerpy](https://github.com/glpcc/pokerpy)  
-2.05 stars per week over 21 weeks  
+2.03 stars per week over 21 weeks  
 43 stars, 4 forks, 1 watches  
 created 2022-12-11, last commit 2023-02-10, main language C++  
 <sub><sup>cpp, fast, performance, poker, pybind11, texas-holdem</sup></sub>
@@ -255,7 +255,7 @@ created 2018-07-10, last commit 2023-04-30, main language C++
 Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.  
 [https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/](https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/)  
 [https://github.com/gboeing/pynamical](https://github.com/gboeing/pynamical)  
-1.29 stars per week over 449 weeks  
+1.28 stars per week over 449 weeks  
 577 stars, 111 forks, 32 watches  
 created 2014-09-28, last commit 2022-05-24, main language Python  
 <sub><sup>animation, bifurcation-diagram, chaos, cobweb-plot, fractal, fractals, ipynb, logistic, math, matplotlib, modeling, nonlinear, numba, numpy, pandas, phase-diagram, physics, systems, visualization</sup></sub>
@@ -321,7 +321,7 @@ created 2019-11-06, last commit 2022-03-28, main language Python
 ### [Unbiased-Trace-Driven-Simulation](https://github.com/causalsim/unbiased-trace-driven-simulation) by [causalsim](https://github.com/causalsim)  
 causalsim/Unbiased-Trace-Driven-Simulation  
 [https://github.com/causalsim/unbiased-trace-driven-simulation](https://github.com/causalsim/unbiased-trace-driven-simulation)  
-0.3 stars per week over 32 weeks  
+0.3 stars per week over 33 weeks  
 10 stars, 3 forks, 0 watches  
 created 2022-09-19, last commit 2023-04-15, main language Python  
 
@@ -330,7 +330,7 @@ created 2022-09-19, last commit 2023-04-15, main language Python
 Street network models and indicators for every urban area in the world  
 [https://osf.io/f2dqc](https://osf.io/f2dqc)  
 [https://github.com/gboeing/street-network-models](https://github.com/gboeing/street-network-models)  
-0.41 stars per week over 159 weeks  
+0.41 stars per week over 160 weeks  
 66 stars, 6 forks, 3 watches  
 created 2020-04-13, last commit 2021-03-05, main language Python  
 
@@ -351,7 +351,7 @@ openlenia/Lenia-Tutorial
 created 2021-07-15, last commit 2021-07-26, main language Jupyter Notebook  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

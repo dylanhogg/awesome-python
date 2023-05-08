@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 The fundamental package for scientific computing with Python.  
 [https://numpy.org](https://numpy.org)  
 [https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
-35 stars per week over 659 weeks  
+35 stars per week over 660 weeks  
 23,413 stars, 8,079 forks, 583 watches  
 created 2010-09-13, last commit 2023-05-05, main language Python  
 <sub><sup>numpy</sup></sub>
@@ -78,7 +78,7 @@ created 2011-12-07, last commit 2023-04-30, main language Python
 PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
 [https://github.com/lukaszahradnik/pyneuralogic](https://github.com/lukaszahradnik/pyneuralogic)  
-1.83 stars per week over 126 weeks  
+1.82 stars per week over 126 weeks  
 230 stars, 18 forks, 4 watches  
 created 2020-12-06, last commit 2023-05-03, main language Python  
 <sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, pytorch, relational-learning</sup></sub>
@@ -87,7 +87,7 @@ created 2020-12-06, last commit 2023-05-03, main language Python
 ### [torchsde](https://github.com/google-research/torchsde) by [google-research](https://github.com/google-research)  
 Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
 [https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
-8.46 stars per week over 147 weeks  
+8.45 stars per week over 148 weeks  
 1,251 stars, 152 forks, 35 watches  
 created 2020-07-06, last commit 2021-07-26, main language Python  
 <sub><sup>deep-learning, deep-neural-networks, differential-equations, dynamical-systems, neural-differential-equations, pytorch, stochastic-differential-equations, stochastic-processes, stochastic-volatility-models</sup></sub>
@@ -96,7 +96,7 @@ created 2020-07-06, last commit 2021-07-26, main language Python
 ### [tfcausalimpact](https://github.com/willianfuks/tfcausalimpact) by [willianfuks](https://github.com/willianfuks)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
-2.93 stars per week over 141 weeks  
+2.92 stars per week over 142 weeks  
 415 stars, 53 forks, 10 watches  
 created 2020-08-17, last commit 2022-12-20, main language Python  
 <sub><sup>causal-inference, causalimpact, tensorflow-probability</sup></sub>
@@ -133,7 +133,7 @@ created 2018-03-09, last commit 2023-03-06, main language C++
 ### [pycircular](https://github.com/albahnsen/pycircular) by [albahnsen](https://github.com/albahnsen)  
 pycircular is a Python module for circular data analysis  
 [https://github.com/albahnsen/pycircular](https://github.com/albahnsen/pycircular)  
-2.07 stars per week over 33 weeks  
+2.06 stars per week over 34 weeks  
 70 stars, 4 forks, 5 watches  
 created 2022-09-12, last commit 2023-01-21, main language Python  
 
@@ -141,12 +141,12 @@ created 2022-09-12, last commit 2023-01-21, main language Python
 ### [pacal](https://github.com/jszymon/pacal) by [jszymon](https://github.com/jszymon)  
 PaCAL - ProbAbilistic CALculator  
 [https://github.com/jszymon/pacal](https://github.com/jszymon/pacal)  
-0.05 stars per week over 456 weeks  
+0.05 stars per week over 457 weeks  
 21 stars, 8 forks, 6 watches  
 created 2014-08-04, last commit 2022-11-02, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

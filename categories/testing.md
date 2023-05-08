@@ -18,7 +18,7 @@ created 2011-02-17, last commit 2023-04-14, main language Python
 The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  
 [https://pytest.org](https://pytest.org)  
 [https://github.com/pytest-dev/pytest](https://github.com/pytest-dev/pytest)  
-24 stars per week over 411 weeks  
+24 stars per week over 412 weeks  
 10,122 stars, 2,324 forks, 194 watches  
 created 2015-06-15, last commit 2023-05-02, main language Python  
 <sub><sup>hacktoberfest, test, testing, unit-testing</sup></sub>
@@ -48,7 +48,7 @@ created 2013-03-10, last commit 2023-05-04, main language Python
 The code coverage tool for Python  
 [https://coverage.readthedocs.io](https://coverage.readthedocs.io)  
 [https://github.com/nedbat/coveragepy](https://github.com/nedbat/coveragepy)  
-9.81 stars per week over 254 weeks  
+9.8 stars per week over 254 weeks  
 2,492 stars, 369 forks, 28 watches  
 created 2018-06-23, last commit 2023-05-06, main language Python  
 
@@ -103,7 +103,7 @@ created 2015-09-01, last commit 2023-04-25, main language Python
 Thin-wrapper around the mock package for easier use with pytest  
 [https://pytest-mock.readthedocs.io/en/latest/](https://pytest-mock.readthedocs.io/en/latest/)  
 [https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)  
-3.45 stars per week over 459 weeks  
+3.44 stars per week over 459 weeks  
 1,583 stars, 124 forks, 35 watches  
 created 2014-07-17, last commit 2023-04-26, main language Python  
 <sub><sup>hacktoberfest, mock, pytest</sup></sub>
@@ -150,7 +150,7 @@ created 2015-03-15, last commit 2023-01-11, main language Python
 ### [pytest-sugar](https://github.com/teemu/pytest-sugar) by [teemu](https://github.com/teemu)  
 a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)  
 [https://github.com/teemu/pytest-sugar](https://github.com/teemu/pytest-sugar)  
-2.07 stars per week over 514 weeks  
+2.06 stars per week over 514 weeks  
 1,063 stars, 70 forks, 17 watches  
 created 2013-06-25, last commit 2023-04-10, main language Python  
 <sub><sup>pytest, pytest-plugin, pytest-sugar, testing</sup></sub>
@@ -168,7 +168,7 @@ created 2010-06-29, last commit 2017-12-20, main language Python
 ### [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) by [ionelmc](https://github.com/ionelmc)  
 py.test fixture for benchmarking code  
 [https://github.com/ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark)  
-2.41 stars per week over 447 weeks  
+2.4 stars per week over 447 weeks  
 1,076 stars, 107 forks, 18 watches  
 created 2014-10-10, last commit 2023-04-27, main language Python  
 <sub><sup>benchmark, benchmarking, performance, pytest</sup></sub>
@@ -191,7 +191,7 @@ Parameterized testing with any Python test framework
 created 2012-03-10, last commit 2023-03-27, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

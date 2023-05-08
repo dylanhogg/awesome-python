@@ -53,7 +53,7 @@ created 2012-07-17, last commit 2023-05-01, main language Python
 <sub><sup>awesome, cross-platform, gui, gui-framework, gui-toolkit, linux, macosx, windows, wxpython, wxwidgets</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

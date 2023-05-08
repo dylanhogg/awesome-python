@@ -105,7 +105,7 @@ created 2017-07-06, last commit 2022-10-18, main language Python
 ### [jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) by [jupyter-lsp](https://github.com/jupyter-lsp)  
 Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol  
 [https://github.com/jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp)  
-7.65 stars per week over 194 weeks  
+7.64 stars per week over 194 weeks  
 1,485 stars, 121 forks, 17 watches  
 created 2019-08-17, last commit 2023-04-24, main language TypeScript  
 <sub><sup>autocompletion, ipython, julia-language, jupyter, jupyter-lab, jupyter-notebook, jupyterlab, jupyterlab-extension, language-server-protocol, linter, lsp, notebook, notebook-jupyter, r</sup></sub>
@@ -134,7 +134,7 @@ created 2022-01-05, last commit 2023-05-02, main language Python
 Tools for diffing and merging of Jupyter notebooks.  
 [http://nbdime.readthedocs.io](http://nbdime.readthedocs.io)  
 [https://github.com/jupyter/nbdime](https://github.com/jupyter/nbdime)  
-6.27 stars per week over 389 weeks  
+6.27 stars per week over 390 weeks  
 2,446 stars, 161 forks, 46 watches  
 created 2015-11-16, last commit 2023-04-30, main language Python  
 <sub><sup>diff, diffing, git, hg, jupyter, jupyter-notebook, jupyterlab-extension, mercurial, merge, merge-driver, mergetool, vcs, version-control</sup></sub>
@@ -163,7 +163,7 @@ created 2016-12-21, last commit 2023-02-25, main language TypeScript
 Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks  
 [https://nbqa.readthedocs.io/en/latest/index.html](https://nbqa.readthedocs.io/en/latest/index.html)  
 [https://github.com/nbqa-dev/nbqa](https://github.com/nbqa-dev/nbqa)  
-5.18 stars per week over 147 weeks  
+5.17 stars per week over 147 weeks  
 762 stars, 36 forks, 8 watches  
 created 2020-07-11, last commit 2023-05-04, main language Python  
 <sub><sup>black, codequality, doctest, flake8, isort, jupyter-notebook, lint, mypy, pre-commit, pre-commit-hook, pylint, pyupgrade, ruff, yapf</sup></sub>
@@ -183,7 +183,7 @@ created 2012-08-05, last commit 2023-01-27, main language Python
 Move fast from data science prototype to pipeline. Capture, analyze, and transform messy notebooks into data pipelines with just two lines of code.  
 [https://lineapy.org](https://lineapy.org)  
 [https://github.com/linealabs/lineapy](https://github.com/linealabs/lineapy)  
-6.38 stars per week over 92 weeks  
+6.37 stars per week over 92 weeks  
 591 stars, 33 forks, 22 watches  
 created 2021-07-28, last commit 2023-01-31, main language Python  
 
@@ -208,7 +208,7 @@ created 2015-04-09, last commit 2023-04-13, main language Python
 ### [AutoProfiler](https://github.com/cmudig/autoprofiler) by [cmudig](https://github.com/cmudig)  
 Automatically profile dataframes in the Jupyter sidebar  
 [https://github.com/cmudig/autoprofiler](https://github.com/cmudig/autoprofiler)  
-3.7 stars per week over 58 weeks  
+3.69 stars per week over 58 weeks  
 216 stars, 7 forks, 5 watches  
 created 2022-03-24, last commit 2023-04-21, main language Svelte  
 <sub><sup>jupyter, pandas</sup></sub>
@@ -242,7 +242,7 @@ created 2018-08-14, last commit 2022-07-18, main language TypeScript
 <sub><sup>jupyterlab, jupyterlab-extension, tensorboard</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -38,7 +38,7 @@ created 2022-11-09, last commit 2023-05-04, main language Python
 Algorithms for explaining machine learning models  
 [https://docs.seldon.io/projects/alibi/en/stable/](https://docs.seldon.io/projects/alibi/en/stable/)  
 [https://github.com/seldonio/alibi](https://github.com/seldonio/alibi)  
-9.23 stars per week over 218 weeks  
+9.22 stars per week over 218 weeks  
 2,018 stars, 223 forks, 45 watches  
 created 2019-02-26, last commit 2023-05-03, main language Python  
 <sub><sup>counterfactual, explanations, interpretability, machine-learning, xai</sup></sub>
@@ -48,7 +48,7 @@ created 2019-02-26, last commit 2023-05-03, main language Python
 Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
 [https://github.com/oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard)  
-9.12 stars per week over 183 weeks  
+9.11 stars per week over 183 weeks  
 1,674 stars, 219 forks, 21 watches  
 created 2019-10-30, last commit 2023-05-04, main language Python  
 <sub><sup>dash, dashboard, data-scientists, explainer, inner-workings, interactive-dashboards, interactive-plots, model-predictions, permutation-importances, plotly, shap, shap-values, xai, xai-library</sup></sub>
@@ -105,7 +105,7 @@ created 2018-01-25, last commit 2021-03-19, main language Jupyter Notebook
 Tools for understanding how transformer predictions are built layer-by-layer  
 [https://tuned-lens.readthedocs.io/en/latest/](https://tuned-lens.readthedocs.io/en/latest/)  
 [https://github.com/alignmentresearch/tuned-lens](https://github.com/alignmentresearch/tuned-lens)  
-7.29 stars per week over 30 weeks  
+7.26 stars per week over 31 weeks  
 225 stars, 21 forks, 5 watches  
 created 2022-10-03, last commit 2023-05-02, main language Jupyter Notebook  
 <sub><sup>machine-learning, pytorch, transformers</sup></sub>
@@ -114,7 +114,7 @@ created 2022-10-03, last commit 2023-05-02, main language Jupyter Notebook
 ### [transformers-interpret](https://github.com/cdpierse/transformers-interpret) by [cdpierse](https://github.com/cdpierse)  
 Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
 [https://github.com/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)  
-6.58 stars per week over 153 weeks  
+6.57 stars per week over 153 weeks  
 1,010 stars, 86 forks, 18 watches  
 created 2020-05-27, last commit 2023-04-06, main language Jupyter Notebook  
 <sub><sup>captum, computer-vision, deep-learning, explainable-ai, interpretability, machine-learning, model-explainability, natural-language-processing, neural-network, nlp, transformers, transformers-model</sup></sub>
@@ -139,7 +139,7 @@ created 2021-07-28, last commit 2021-08-11, main language Python
 <sub><sup>interpretability, transformers</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Memray is a memory profiler for Python  
 [https://bloomberg.github.io/memray/](https://bloomberg.github.io/memray/)  
 [https://github.com/bloomberg/memray](https://github.com/bloomberg/memray)  
-186 stars per week over 56 weeks  
+185 stars per week over 56 weeks  
 10,491 stars, 310 forks, 56 watches  
 created 2022-04-08, last commit 2023-05-01, main language Python  
 <sub><sup>hacktoberfest, memory, memory-leak, memory-leak-detection, memory-profiler, profiler</sup></sub>
@@ -93,7 +93,7 @@ created 2012-06-26, last commit 2023-04-23, main language Python
 A Python memory profiler for data processing and scientific computing applications  
 [https://pythonspeed.com/products/filmemoryprofiler/](https://pythonspeed.com/products/filmemoryprofiler/)  
 [https://github.com/pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler)  
-5.04 stars per week over 150 weeks  
+5.03 stars per week over 150 weeks  
 758 stars, 22 forks, 9 watches  
 created 2020-06-18, last commit 2023-03-18, main language Rust  
 <sub><sup>memory, memory-, memory-leak, memory-leak-detection, memory-leak-finder, memory-leaks, memory-profiler, memory-profiling</sup></sub>
@@ -129,12 +129,12 @@ created 2017-02-04, last commit 2021-09-18, main language Python
 ### [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) by [kshitij12345](https://github.com/kshitij12345)  
 Context Manager to profile the forward and backward times of PyTorch's nn.Module  
 [https://github.com/kshitij12345/torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler)  
-2.66 stars per week over 28 weeks  
+2.65 stars per week over 28 weeks  
 75 stars, 3 forks, 5 watches  
 created 2022-10-22, last commit 2022-11-02, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

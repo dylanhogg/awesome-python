@@ -73,7 +73,7 @@ created 2021-05-08, last commit 2021-06-10, main language Python
 ### [binance-public-data](https://github.com/binance/binance-public-data) by [binance](https://github.com/binance)  
 Details on how to get Binance public data  
 [https://github.com/binance/binance-public-data](https://github.com/binance/binance-public-data)  
-7.71 stars per week over 140 weeks  
+7.7 stars per week over 141 weeks  
 1,086 stars, 381 forks, 28 watches  
 created 2020-08-24, last commit 2023-03-29, main language Python  
 
@@ -91,7 +91,7 @@ created 2017-12-16, last commit 2023-04-30, main language Python
 Python package with core transaction decoding functions.  
 [https://www.ethtx.info](https://www.ethtx.info)  
 [https://github.com/ethtx/ethtx](https://github.com/ethtx/ethtx)  
-4.25 stars per week over 96 weeks  
+4.25 stars per week over 97 weeks  
 412 stars, 67 forks, 16 watches  
 created 2021-06-28, last commit 2022-12-01, main language Python  
 
@@ -99,7 +99,7 @@ created 2021-06-28, last commit 2022-12-01, main language Python
 ### [panoramix](https://github.com/palkeo/panoramix) by [palkeo](https://github.com/palkeo)  
 Ethereum decompiler  
 [https://github.com/palkeo/panoramix](https://github.com/palkeo/panoramix)  
-3.68 stars per week over 167 weeks  
+3.67 stars per week over 168 weeks  
 617 stars, 163 forks, 33 watches  
 created 2020-02-17, last commit 2023-03-16, main language Python  
 
@@ -137,7 +137,7 @@ created 2016-11-12, last commit 2023-02-11, main language Python
 Ethereum transaction decoder (community version).  
 [https://ethtx.info](https://ethtx.info)  
 [https://github.com/ethtx/ethtx_ce](https://github.com/ethtx/ethtx_ce)  
-2.7 stars per week over 92 weeks  
+2.7 stars per week over 93 weeks  
 251 stars, 62 forks, 13 watches  
 created 2021-07-26, last commit 2022-12-22, main language Python  
 
@@ -165,7 +165,7 @@ created 2019-09-17, last commit 2022-04-01, main language C
 A list of awesome crypto and blockchain projects  
 [https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
 [https://github.com/dylanhogg/crazy-awesome-crypto](https://github.com/dylanhogg/crazy-awesome-crypto)  
-0.61 stars per week over 83 weeks  
+0.61 stars per week over 84 weeks  
 51 stars, 15 forks, 4 watches  
 created 2021-09-27, last commit 2023-04-12, main language Python  
 <sub><sup>awesome, awesome-list, bitcoin, blockchain, crypto, cryptocurrency, data, data-analysis, ethereum, github</sup></sub>
@@ -179,7 +179,7 @@ Scrap blockchain data from the public API of Etherscan.io
 created 2021-03-13, last commit 2023-02-25, main language Python  
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

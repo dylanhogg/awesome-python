@@ -29,7 +29,7 @@ created 2022-02-12, last commit 2023-05-05, main language Python
 FlatBuffers: Memory Efficient Serialization Library  
 [https://flatbuffers.dev/](https://flatbuffers.dev/)  
 [https://github.com/google/flatbuffers](https://github.com/google/flatbuffers)  
-43 stars per week over 467 weeks  
+43 stars per week over 468 weeks  
 20,360 stars, 3,078 forks, 640 watches  
 created 2014-05-19, last commit 2023-05-05, main language C++  
 <sub><sup>c, c-plus-plus, c-sharp, cross-platform, flatbuffers, go, grpc, java, javascript, json-parser, marshalling, mmap, protobuf, rpc, rust, serialization, serialization-library, typescript, zero-copy</sup></sub>
@@ -39,7 +39,7 @@ created 2014-05-19, last commit 2023-05-05, main language C++
 A high-performance, zero-overhead, extensible Python compiler using LLVM  
 [https://docs.exaloop.io/codon](https://docs.exaloop.io/codon)  
 [https://github.com/exaloop/codon](https://github.com/exaloop/codon)  
-148 stars per week over 83 weeks  
+148 stars per week over 84 weeks  
 12,446 stars, 452 forks, 112 watches  
 created 2021-09-27, last commit 2023-05-05, main language C++  
 <sub><sup>compiler, gpu-programming, high-performance, llvm, parallel-programming</sup></sub>
@@ -99,7 +99,7 @@ created 2012-03-08, last commit 2023-05-04, main language Python
 Trio – a friendly Python library for async concurrency and I/O  
 [https://trio.readthedocs.io](https://trio.readthedocs.io)  
 [https://github.com/python-trio/trio](https://github.com/python-trio/trio)  
-16 stars per week over 328 weeks  
+16 stars per week over 329 weeks  
 5,319 stars, 298 forks, 88 watches  
 created 2017-01-16, last commit 2023-05-05, main language Python  
 <sub><sup>async, async-await, io, networking, structured-concurrency, trio</sup></sub>
@@ -205,7 +205,7 @@ created 2018-08-07, last commit 2023-05-05, main language Python
 ### [intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) by [intel](https://github.com/intel)  
 Extending Hugging Face transformers APIs for Transformer-based models and improve the productivity of inference deployment. With extremely compressed models, the toolkit can greatly improve the inference efficiency on Intel platforms.  
 [https://github.com/intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)  
-8.46 stars per week over 25 weeks  
+8.42 stars per week over 25 weeks  
 214 stars, 22 forks, 12 watches  
 created 2022-11-11, last commit 2023-04-28, main language C++  
 <sub><sup>deep-learning, distributed-distillation, distributed-pruning, distributed-quantization, inference-acceleration, intel, length-adaptive-transformer, neural-architecture-search, neurips2021, neurips2022, nlp, nlp-deployment, sparse-gemm, sparse-model-inference, transformer, transformer-deploy, transformer-fusion, xbyak</sup></sub>
@@ -338,7 +338,7 @@ created 2015-04-30, last commit 2022-03-14, main language Python
 Framework for benchmarking vector search engines  
 [https://qdrant.tech/benchmarks/](https://qdrant.tech/benchmarks/)  
 [https://github.com/qdrant/vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark)  
-1.62 stars per week over 42 weeks  
+1.61 stars per week over 42 weeks  
 69 stars, 11 forks, 5 watches  
 created 2022-07-12, last commit 2023-04-12, main language Python  
 <sub><sup>benchmark, vector-database, vector-search, vector-search-engine</sup></sub>
@@ -347,7 +347,7 @@ created 2022-07-12, last commit 2023-04-12, main language Python
 ### [faster-cpython](https://github.com/markshannon/faster-cpython) by [markshannon](https://github.com/markshannon)  
 How to make CPython faster.  
 [https://github.com/markshannon/faster-cpython](https://github.com/markshannon/faster-cpython)  
-6.85 stars per week over 132 weeks  
+6.84 stars per week over 133 weeks  
 910 stars, 21 forks, 84 watches  
 created 2020-10-19, last commit 2020-10-28, main language None  
 
@@ -355,13 +355,13 @@ created 2020-10-19, last commit 2020-10-28, main language None
 ### [tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments) by [tlkh](https://github.com/tlkh)  
 TensorFlow Metal Backend on Apple Silicon Experiments (just for fun)  
 [https://github.com/tlkh/tf-metal-experiments](https://github.com/tlkh/tf-metal-experiments)  
-2.6 stars per week over 79 weeks  
+2.59 stars per week over 79 weeks  
 207 stars, 21 forks, 13 watches  
 created 2021-10-26, last commit 2021-11-15, main language Jupyter Notebook  
 <sub><sup>benchmark, bert, deep-learning, gpu, m1, m1-max, tensorflow</sup></sub>
 
 
-This file was automatically generated on 2023-05-07.  
+This file was automatically generated on 2023-05-08.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
