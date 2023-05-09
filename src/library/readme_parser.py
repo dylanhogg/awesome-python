@@ -39,8 +39,9 @@ def get_arxiv_links(row) -> list[list[str, str, str]]:
         if file.is_file():
             with open(file, "r") as f:
                 text = f.read()
-                paper_ids = re.findall(r'https?://arxiv\.org/abs/(\d{4}\.\d{4,5})', text)
-                paper_ids = list(dict.fromkeys(paper_ids))  # Remove duplicates from a list, while preserving order
+                paper_ids_abs = re.findall(r'https?://arxiv\.org/abs/(\d{4}\.\d{4,5})', text)
+                paper_ids_pdf = re.findall(r'https?://arxiv\.org/pdf/(\d{4}\.\d{4,5})v?\d?.pdf', text)
+                paper_ids = list(dict.fromkeys(paper_ids_abs + paper_ids_pdf))  # Remove duplicates from a list, while preserving order
 
     # Process paper_ids and get metadata from arxiv.org search
     results = []
@@ -57,6 +58,6 @@ def get_pypi_links(row) -> list[str]:
     if file.is_file():
         with open(file, "r") as f:
             text = f.read()
-            pypi_links = re.findall(r'https?://pypi\.org/project/\w+/', text)  # TODO: review regex, esp trailing / & compile it!
+            pypi_links = re.findall(r'https?://pypi\.org/project/[A-Za-z0-9_-]+/', text)  # TODO: review regex, esp trailing / & compile it!
             pypi_links = list(dict.fromkeys(pypi_links))  # Remove duplicates from a list, while preserving order
     return pypi_links

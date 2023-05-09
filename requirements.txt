@@ -3,6 +3,7 @@ pandas
 markdown
 docutils
 Pygments
+arxiv
 python-dotenv
 loguru
 joblib

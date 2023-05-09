@@ -260,10 +260,16 @@ $(document).ready( function () {
            { data: null,
             title: "Links",
             render: function(data, type, row, meta) {
-                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
-                var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
+                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" +
+                    "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+                var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" +
+                    "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
-                try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'><img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
+                try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'>" +
+                    "<img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>";
+                } catch {
+                    // Swollow any new URL exception
+                }
 
                 var displayUrls = [repoUrl, orgUrl];
                 if (homepageUrl.length > 0) {
@@ -275,7 +281,8 @@ $(document).ready( function () {
                 if (arxiv_links.length > 0) {
                     var arxiv_item = arxiv_links[0];
                     var arxiv_title = arxiv_item[1] + " (" + arxiv_item[2] + ")";
-                    var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'><img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='" + arxiv_title + "' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arXiv</a>";
+                    var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'>" +
+                        "<img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='View arXiv paper' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arxiv</a>";
                     var arxiv_total = row._arxiv_count;
                     if (arxiv_total > 1) {
                         arxiv_display += "&nbsp;<span class='light-text'>+" + (arxiv_total - 1) + " more</span>";
@@ -288,7 +295,8 @@ $(document).ready( function () {
 //                if (pypi_links.length > 0) {
 //                    var pypi_item = pypi_links[0];
 //                    var pypi_title = "title todo";  // pypi_item[1];  // TODO
-//                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'><img src='img/pypi16.png' width='16' height='16' alt='homepage' title='" + pypi_title + "' class='web-img'></img></a>&nbsp;<a href='" + pypi_item + "' title='" + pypi_title + "' target='_blank'>arXiv</a>";
+//                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
+//                        "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='" + pypi_item + "' title='" + pypi_title + "' target='_blank'>pypi</a>";
 //                    // var pypi_total = row._pypi_count;
 //                    displayUrls.push(pypi_display);
 //                }
