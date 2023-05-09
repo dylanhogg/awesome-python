@@ -51,6 +51,35 @@ def _crawl_external_files(df_input: pd.DataFrame):
     )
 
     # TODO: parse crawled df["_readme_localurl"] files and extract: pypi links & arxiv links
+    # TEMP: move this to a new function:
+    import re
+    from pathlib import Path
+
+    def _get_arxiv_links(readme_localurl: str) -> list[str]:
+        arxiv_links = []
+        file = Path(f"./data/{readme_localurl}.html")
+        if file.is_file():
+            with open(file, "r") as f:
+                text = f.read()
+                arxiv_links = re.findall(r'https?://arxiv\.org/abs/(\d{4}\.\d{4,5})', text)  # TODO: review regex & compile it!
+                arxiv_links = list(dict.fromkeys(arxiv_links))  # Remove duplicates from a list, while preserving order
+        return arxiv_links
+    # TODO: Remove https://arxiv.org/abs/ prefix from arxiv_links
+    df["_arxiv_links"] = df.apply(lambda row: _get_arxiv_links(row["_readme_localurl"]), axis=1)
+
+    def _get_pypi_links(readme_localurl: str) -> list[str]:
+        pypi_links = []
+        file = Path(f"./data/{readme_localurl}.html")
+        if file.is_file():
+            with open(file, "r") as f:
+                text = f.read()
+                pypi_links = re.findall(r'https?://pypi\.org/project/\w+/', text)  # TODO: review regex, esp trailing / & compile it!
+                pypi_links = list(dict.fromkeys(pypi_links))  # Remove duplicates from a list, while preserving order
+        return pypi_links
+    df["_pypi_links"] = df.apply(lambda row: _get_pypi_links(row["_readme_localurl"]), axis=1)
+
+    # TODO: https://huggingface.co/spaces/* e.g. https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Question_Answering
+    # TODO: https://wandb.ai/* e.g. https://wandb.ai/eleutherai/neox
 
     return df
 
@@ -99,6 +128,9 @@ def _save_json_data_files(df: pd.DataFrame,
             "_topics",
             "sim",
             "_readme_localurl",
+            # TODO: review and trim:
+            "_arxiv_links",
+            "_pypi_links",
         ]
 
         df_min_ui = df[cols].copy()

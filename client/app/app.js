@@ -274,6 +274,24 @@ $(document).ready( function () {
              }
            },
 
+           { data: "_arxiv_links", title: "arxiv_links",
+            render: function(data, type, row, meta) {
+                // TODO: fold into links column
+                if (data.length == 0) { return ""; }
+                var arxiv_max_count = 5;
+                var arxiv = data.slice(0, arxiv_max_count);
+                var arxiv_count = data.length;
+                var not_displayed_count = arxiv_count - arxiv_max_count;
+                arxiv_links = arxiv.map(item => {
+                    return "<a href='https://arxiv.org/abs/" + item + "'>arxiv&nbsp;" + item + "</a> ";
+                });
+                if (not_displayed_count > 0) {
+                    arxiv_links.push("+" + not_displayed_count + " more");
+                }
+                return arxiv_links.join("<br />");
+            }
+           },
+
 //           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
 //           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
 //            className: "text-nowrap",
