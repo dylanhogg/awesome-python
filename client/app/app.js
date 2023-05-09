@@ -264,43 +264,25 @@ $(document).ready( function () {
                 var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
                 try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'><img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
-                return "<div class='text-wrap links-column'>" + repoUrl + "<br />" + orgUrl + "<br />" + homepageUrl + "</div>";
 
-//                var repoUrl = "<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
-//                var orgUrl = "<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
-//                var homepageUrl = "";
-//                try { homepageUrl = "<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
-//                return "<div class='text-wrap links-column'>" + orgUrl + "/<b>" + repoUrl + "</b><br />" + homepageUrl + "</div>";
+                var displayUrls = [repoUrl, orgUrl];
+                if (homepageUrl.length > 0) {
+                    displayUrls.push(homepageUrl);
+                }
+
+                var arxiv_links = row._arxiv_links;
+                var arxiv_display = [];
+                if (arxiv_links.length > 0) {
+                    var arxiv_item = arxiv_links[0];
+                    var arxiv_title = arxiv_item[1] + " (" + arxiv_item[2] + ")";
+                    var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'><img src='img/arxiv16.png' width='16' height='16' alt='homepage' title='" + arxiv_title + "' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arXiv</a>";
+                    // var arxiv_total = row._arxiv_count;
+                    displayUrls.push(arxiv_display);
+                }
+
+                return "<div class='text-wrap links-column'>" + displayUrls.join("<br />") + "</div>";
              }
            },
-
-           { data: "_arxiv_links", title: "arxiv_links",
-            render: function(data, type, row, meta) {
-                // TODO: fold into links column
-                if (data.length == 0) { return ""; }
-                var arxiv_max_count = 5;
-                var arxiv = data.slice(0, arxiv_max_count);
-                var arxiv_count = data.length;
-                var not_displayed_count = arxiv_count - arxiv_max_count;
-                arxiv_links = arxiv.map(item => {
-                    return "<a href='https://arxiv.org/abs/" + item + "'>arxiv&nbsp;" + item + "</a> ";
-                });
-                if (not_displayed_count > 0) {
-                    arxiv_links.push("+" + not_displayed_count + " more");
-                }
-                return arxiv_links.join("<br />");
-            }
-           },
-
-//           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-//           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
-//            className: "text-nowrap",
-//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-//           },
-//           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
-//            className: "text-nowrap",
-//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-//           },
 
            { data: "category", title: "Category"
              ,render: function(data, type, row, meta) {
@@ -308,6 +290,29 @@ $(document).ready( function () {
                 return "<a class='label-link' title='" + CATEGORY_DATA[data]+ "' href='/?c=" + data + "'>" + data + "</a>";
              }
            },
+
+//           { data: null, title: "Arxiv",
+//            render: function(data, type, row, meta) {
+//                // TODO: fold into links column
+//                var arxiv_links = row._arxiv_links;
+//                var arxiv_display = [];
+//                if (arxiv_links.length > 0) {
+//                    var arxiv_max_count = 2;
+//                    var arxiv_display = arxiv_links.slice(0, arxiv_max_count);
+//                    arxiv_display = arxiv_display.map(item => {
+//                        var arxiv_id = item[0];
+//                        var title = item[1] + " (" + item[2] + ")";
+//                        return "<a href='https://arxiv.org/abs/" + arxiv_id + "' title='" + title + "'>arxiv&nbsp;" + arxiv_id + "</a> ";
+//                    });
+//                    var not_displayed_count = row._arxiv_count - arxiv_display.length;
+//                    if (not_displayed_count > 0) {
+//                        arxiv_display.push("+" + not_displayed_count + " more");
+//                    }
+//                }
+//                return arxiv_display.join("<br />");
+//            }
+//           },
+
            { data: "_topics", title: "Tags",
             // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
             render: function(data, type, row, meta) {
@@ -323,6 +328,16 @@ $(document).ready( function () {
                 }).join(" ");
             }
            },
+
+//           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
+//           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
 
            { data: "sim", title: "Similar libraries",
             // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }

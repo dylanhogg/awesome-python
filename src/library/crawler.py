@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 from typing import List
 from loguru import logger
-from library import render, readme, requirements
+from library import render, readme, requirements, readme_parser
 
 
 def _crawl_external_files(df_input: pd.DataFrame):
@@ -50,36 +50,12 @@ def _crawl_external_files(df_input: pd.DataFrame):
         axis=1,
     )
 
-    # TODO: parse crawled df["_readme_localurl"] files and extract: pypi links & arxiv links
-    # TEMP: move this to a new function:
-    import re
-    from pathlib import Path
-
-    def _get_arxiv_links(readme_localurl: str) -> list[str]:
-        arxiv_links = []
-        file = Path(f"./data/{readme_localurl}.html")
-        if file.is_file():
-            with open(file, "r") as f:
-                text = f.read()
-                arxiv_links = re.findall(r'https?://arxiv\.org/abs/(\d{4}\.\d{4,5})', text)  # TODO: review regex & compile it!
-                arxiv_links = list(dict.fromkeys(arxiv_links))  # Remove duplicates from a list, while preserving order
-        return arxiv_links
-    # TODO: Remove https://arxiv.org/abs/ prefix from arxiv_links
-    df["_arxiv_links"] = df.apply(lambda row: _get_arxiv_links(row["_readme_localurl"]), axis=1)
-
-    def _get_pypi_links(readme_localurl: str) -> list[str]:
-        pypi_links = []
-        file = Path(f"./data/{readme_localurl}.html")
-        if file.is_file():
-            with open(file, "r") as f:
-                text = f.read()
-                pypi_links = re.findall(r'https?://pypi\.org/project/\w+/', text)  # TODO: review regex, esp trailing / & compile it!
-                pypi_links = list(dict.fromkeys(pypi_links))  # Remove duplicates from a list, while preserving order
-        return pypi_links
-    df["_pypi_links"] = df.apply(lambda row: _get_pypi_links(row["_readme_localurl"]), axis=1)
-
-    # TODO: https://huggingface.co/spaces/* e.g. https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Question_Answering
-    # TODO: https://wandb.ai/* e.g. https://wandb.ai/eleutherai/neox
+    df["_arxiv_links"] = df.apply(lambda row: readme_parser.get_arxiv_links(row), axis=1)
+    df["_arxiv_count"] = df["_arxiv_links"].apply(lambda x: len(x))
+    df["_pypi_links"] = df.apply(lambda row: readme_parser.get_pypi_links(row), axis=1)
+    df["_pypi_count"] = df["_arxiv_links"].apply(lambda x: len(x))
+    # TODO: Add https://huggingface.co/spaces/* e.g. https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Question_Answering
+    # TODO: Add https://wandb.ai/* e.g. https://wandb.ai/eleutherai/neox
 
     return df
 
@@ -87,6 +63,7 @@ def _crawl_external_files(df_input: pd.DataFrame):
 def _save_json_data_files(df: pd.DataFrame,
                           output_json_filename: str,
                           max_ui_topics: int = 4,
+                          max_ui_arxiv: int = 3,  # TODO: review
                           max_ui_sim: int = 3):
 
     # Write raw results to json table format (i.e. github_data.json)
@@ -114,7 +91,7 @@ def _save_json_data_files(df: pd.DataFrame,
     )
     with open(output_ui_minjson_filename, "w") as f:
         # NOTE: this cols list must be synced with app.js DataTable columns for display
-        cols = [
+        minjson_cols = [
             "githuburl",
             "_reponame",
             "_organization",
@@ -130,14 +107,17 @@ def _save_json_data_files(df: pd.DataFrame,
             "_readme_localurl",
             # TODO: review and trim:
             "_arxiv_links",
+            "_arxiv_count",
             "_pypi_links",
+            "_pypi_count",
         ]
 
-        df_min_ui = df[cols].copy()
+        df_min_ui = df[minjson_cols].copy()
         # NOTE: max_ui_topics & max_ui_sim values impact capability on Javascript UI side!
         df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
+        df_min_ui["_arxiv_links"] = df_min_ui["_arxiv_links"].apply(lambda x: x[0:max_ui_arxiv])
         df_min_ui["sim"] = df_min_ui["sim"].apply(lambda x: x[0:max_ui_sim])
-        json_results = df_min_ui[cols].to_json(orient="table", double_precision=2, index=False)
+        json_results = df_min_ui.to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)
         json.dump(data, f, separators=(",", ":"))
 

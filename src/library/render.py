@@ -17,13 +17,20 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     assert "category" in df.columns
     assert "customabout" in df.columns
     assert "customtopics" in df.columns
+    assert "customarxiv" in df.columns
 
+    # Processing on input csv data
     df["githuburl"] = df["githuburl"].apply(lambda x: x.strip().lower())
     df["customabout"] = df["customabout"].apply(lambda x: x.strip() if type(x) == str else None)
     df["customtopics"] = df["customtopics"].apply(
         lambda x: list(set(x.strip().strip(",").lower().replace(" ", "").split(","))) if type(x) == str else []
     )
+    df["customarxiv"] = df["customarxiv"].apply(
+        # NOTE: lstrip "a" since include "a" prefix for str type
+        lambda x: list(set(x.strip().lstrip("a").strip(",").replace(" ", "").split(","))) if type(x) == str else []
+    )
 
+    # Check for duplicated githuburls
     duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
     duplicated_count = len(duplicated_githuburls)
     if duplicated_count > 0:
