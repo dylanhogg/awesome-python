@@ -64,6 +64,7 @@ def _save_json_data_files(df: pd.DataFrame,
                           output_json_filename: str,
                           max_ui_topics: int = 4,
                           max_ui_arxiv: int = 3,  # TODO: review
+                          max_ui_pypi: int = 1,  # TODO: review
                           max_ui_sim: int = 3):
 
     # Write raw results to json table format (i.e. github_data.json)
@@ -116,6 +117,7 @@ def _save_json_data_files(df: pd.DataFrame,
         # NOTE: max_ui_topics & max_ui_sim values impact capability on Javascript UI side!
         df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
         df_min_ui["_arxiv_links"] = df_min_ui["_arxiv_links"].apply(lambda x: x[0:max_ui_arxiv])
+        df_min_ui["_pypi_links"] = df_min_ui["_pypi_links"].apply(lambda x: x[0:max_ui_pypi])
         df_min_ui["sim"] = df_min_ui["sim"].apply(lambda x: x[0:max_ui_sim])
         json_results = df_min_ui.to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)

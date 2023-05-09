@@ -275,10 +275,23 @@ $(document).ready( function () {
                 if (arxiv_links.length > 0) {
                     var arxiv_item = arxiv_links[0];
                     var arxiv_title = arxiv_item[1] + " (" + arxiv_item[2] + ")";
-                    var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'><img src='img/arxiv16.png' width='16' height='16' alt='homepage' title='" + arxiv_title + "' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arXiv</a>";
-                    // var arxiv_total = row._arxiv_count;
+                    var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'><img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='" + arxiv_title + "' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arXiv</a>";
+                    var arxiv_total = row._arxiv_count;
+                    if (arxiv_total > 1) {
+                        arxiv_display += "&nbsp;<span class='light-text'>+" + (arxiv_total - 1) + " more</span>";
+                    }
                     displayUrls.push(arxiv_display);
                 }
+
+//                var pypi_links = row._pypi_links;
+//                var pypi_display = [];
+//                if (pypi_links.length > 0) {
+//                    var pypi_item = pypi_links[0];
+//                    var pypi_title = "title todo";  // pypi_item[1];  // TODO
+//                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'><img src='img/pypi16.png' width='16' height='16' alt='homepage' title='" + pypi_title + "' class='web-img'></img></a>&nbsp;<a href='" + pypi_item + "' title='" + pypi_title + "' target='_blank'>arXiv</a>";
+//                    // var pypi_total = row._pypi_count;
+//                    displayUrls.push(pypi_display);
+//                }
 
                 return "<div class='text-wrap links-column'>" + displayUrls.join("<br />") + "</div>";
              }

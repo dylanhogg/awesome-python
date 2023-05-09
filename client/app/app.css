@@ -32,7 +32,7 @@
 
 .links-column {
     max-width: 250px;
-    min-width: 100px;
+    min-width: 200px;
 }
 
 .label-link {
@@ -71,6 +71,10 @@
 
 img.info-img:hover {
   opacity: 0.5;
+}
+
+.light-text {
+    color: #BEBEBE;
 }
 
 .dataTables_filter {
