@@ -1,6 +1,6 @@
-const version = "v0.0.12";
-const CATEGORY_COL = 7;  // 0-based
-const TAG_COL = 8;
+const version = "v0.0.20";
+const CATEGORY_COL = 8;  // 0-based
+const TAG_COL = 9;
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -238,7 +238,7 @@ $(document).ready( function () {
            { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
-           { data: "_age_weeks", title: "Age in&nbsp;weeks",
+           { data: "_age_weeks", title: "Age<br />in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
            },
 
@@ -261,12 +261,12 @@ $(document).ready( function () {
             title: "Links",
             render: function(data, type, row, meta) {
                 var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" +
-                    "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
+                    "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "' title='View GitHub repo'>" + row._reponame.toLowerCase() + "</a>";
                 var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" +
-                    "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
+                    "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "' title='View GitHub organisation'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
                 try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'>" +
-                    "<img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>";
+                    "<img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "' title='View homepage'>" + new URL(row._homepage).hostname + "</a>";
                 } catch {
                     // Swollow any new URL exception
                 }
@@ -280,7 +280,7 @@ $(document).ready( function () {
                 var arxiv_display = [];
                 if (arxiv_links.length > 0) {
                     var arxiv_item = arxiv_links[0];
-                    var arxiv_title = arxiv_item[1] + " (" + arxiv_item[2] + ")";
+                    var arxiv_title = "View arXiv paper: " + arxiv_item[1] + " (" + arxiv_item[2] + ")";
                     var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'>" +
                         "<img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='View arXiv paper' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arxiv</a>";
                     var arxiv_total = row._arxiv_count;
@@ -290,19 +290,77 @@ $(document).ready( function () {
                     displayUrls.push(arxiv_display);
                 }
 
-//                var pypi_links = row._pypi_links;
-//                var pypi_display = [];
-//                if (pypi_links.length > 0) {
-//                    var pypi_item = pypi_links[0];
-//                    var pypi_title = "title todo";  // pypi_item[1];  // TODO
-//                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
-//                        "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='" + pypi_item + "' title='" + pypi_title + "' target='_blank'>pypi</a>";
-//                    // var pypi_total = row._pypi_count;
-//                    displayUrls.push(pypi_display);
-//                }
+                var pypi_links = row._pypi_links;
+                var pypi_display = [];
+                if (pypi_links.length > 0) {
+                    var pypi_item = pypi_links[0];
+                    var pypi_title = "View pypi package: " + pypi_item.replace("https://pypi.org/project/", "").replace("/", "");
+                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
+                        "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='" + pypi_item + "' title='" + pypi_title + "' target='_blank'>pypi</a>";
+                    // var pypi_total = row._pypi_count;
+                    displayUrls.push(pypi_display);
+                }
 
                 return "<div class='text-wrap links-column'>" + displayUrls.join("<br />") + "</div>";
              }
+           },
+
+           { data: "sim", title: "Similar<br />libraries",
+            // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
+            render: function(data, type, row, meta) {
+                if (data.length == 0) { return ""; }
+                // NOTE: max count values impacted by max_ui_topics & max_ui_sim values serverside.
+                var sim_max_count = 3;
+                var sim_max_strlen = 30;
+                var data = data.slice(0, sim_max_count);
+                var repo_links = data.map(item => {
+                    try {
+                        var repo = item[0];
+                        var sim = item[1];
+                        var category = item[2];
+                        var common_topic_count = item[3];
+
+                        var render = false;
+                        // TODO: this calc is a WIP, find a better approach. Also, move to server side once set.
+                        if (sim >= 0.65) {
+                            render = true;
+                        } else if (sim >= 0.60 && category == row.category && category != "util") {
+                            render = true;
+                        } else if (sim >= 0.60 && common_topic_count >= 3) {
+                            render = true;
+                        } else if (sim >= 0.55 && category == row.category && common_topic_count >= 2) {
+                            render = true;
+                        } else if (sim >= 0.51 && category == row.category && common_topic_count >= 4) {
+                            render = true;
+                        }
+
+                        var debug_render = false;
+                        if (!render && !debug_render) {
+                            return null;
+                        }
+
+                        var debug_text = false;
+                        var short_repo = repo.split("/")[1].toLowerCase();
+                        if (debug_text) {
+                            short_repo += ", " + render + ", " + sim + ", " + common_topic_count;
+                        }
+                        if (short_repo.length > sim_max_strlen) {
+                            short_repo = short_repo.substr(0, sim_max_strlen);
+                        }
+                        var title = repo + ", similarity:" + sim + ", category: " + category + ", common tags:" + common_topic_count;
+                        return "<a href='https://www.github.com/" + repo + "' title='" + title
+                                   + "' target='_blank'><img src='img/repo.png' width='16' height='16' alt='repo' title='"
+                                   + title + "' class='github-img'></img></a>&nbsp;<a href='https://www.github.com/" + repo + "' title='"
+                                   + title + "'>" + short_repo + "</a>";
+                    } catch(err) {
+                        return null;
+                    }
+                })
+
+                repo_links = repo_links.filter(function (el) { return el != null; });
+                repo_html = repo_links.join("<br />");
+                return "<div class='text-wrap links-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
+              }
            },
 
            { data: "category", title: "Category"
@@ -359,64 +417,6 @@ $(document).ready( function () {
 //            className: "text-nowrap",
 //            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
 //           },
-
-           { data: "sim", title: "Similar libraries",
-            // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
-            render: function(data, type, row, meta) {
-                if (data.length == 0) { return ""; }
-                // NOTE: max count values impacted by max_ui_topics & max_ui_sim values serverside.
-                var sim_max_count = 3;
-                var sim_max_strlen = 30;
-                var data = data.slice(0, sim_max_count);
-                var repo_links = data.map(item => {
-                    try {
-                        var repo = item[0];
-                        var sim = item[1];
-                        var category = item[2];
-                        var common_topic_count = item[3];
-
-                        var render = false;
-                        // TODO: this calc is a WIP, find a better approach. Also, move to server side once set.
-                        if (sim >= 0.65) {
-                            render = true;
-                        } else if (sim >= 0.60 && category == row.category && category != "util") {
-                            render = true;
-                        } else if (sim >= 0.60 && common_topic_count >= 3) {
-                            render = true;
-                        } else if (sim >= 0.55 && category == row.category && common_topic_count >= 2) {
-                            render = true;
-                        } else if (sim >= 0.51 && category == row.category && common_topic_count >= 4) {
-                            render = true;
-                        }
-
-                        var debug_render = false;
-                        if (!render && !debug_render) {
-                            return null;
-                        }
-
-                        var debug_text = false;
-                        var short_repo = repo.split("/")[1].toLowerCase();
-                        if (debug_text) {
-                            short_repo += ", " + render + ", " + sim + ", " + common_topic_count;
-                        }
-                        if (short_repo.length > sim_max_strlen) {
-                            short_repo = short_repo.substr(0, sim_max_strlen);
-                        }
-                        var title = repo + ", similarity:" + sim + ", category: " + category + ", common tags:" + common_topic_count;
-                        return "<a href='https://www.github.com/" + repo + "' title='" + title
-                                   + "' target='_blank'><img src='img/repo.png' width='16' height='16' alt='repo' title='"
-                                   + title + "' class='github-img'></img></a>&nbsp;<a href='https://www.github.com/" + repo + "' title='"
-                                   + title + "'>" + short_repo + "</a>";
-                    } catch(err) {
-                        return null;
-                    }
-                })
-
-                repo_links = repo_links.filter(function (el) { return el != null; });
-                repo_html = repo_links.join("<br />");
-                return "<div class='text-wrap links-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
-              }
-            },
 
 //           { data: "_readme_localurl", title: "Docs",
 //            orderable: false,
