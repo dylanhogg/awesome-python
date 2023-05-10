@@ -53,7 +53,7 @@ def _crawl_external_files(df_input: pd.DataFrame):
     df["_arxiv_links"] = df.apply(lambda row: readme_parser.get_arxiv_links(row), axis=1)
     df["_arxiv_count"] = df["_arxiv_links"].apply(lambda x: len(x))
     df["_pypi_links"] = df.apply(lambda row: readme_parser.get_pypi_links(row), axis=1)
-    df["_pypi_count"] = df["_arxiv_links"].apply(lambda x: len(x))
+    df["_pypi_count"] = df["_pypi_links"].apply(lambda x: len(x))
     # TODO: Add https://huggingface.co/spaces/* e.g. https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Question_Answering
     # TODO: Add https://wandb.ai/* e.g. https://wandb.ai/eleutherai/neox
 

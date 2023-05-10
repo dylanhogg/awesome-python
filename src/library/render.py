@@ -18,6 +18,7 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     assert "customabout" in df.columns
     assert "customtopics" in df.columns
     assert "customarxiv" in df.columns
+    assert "custompypi" in df.columns
 
     # Processing on input csv data
     df["githuburl"] = df["githuburl"].apply(lambda x: x.strip().lower())
@@ -26,8 +27,11 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
         lambda x: list(set(x.strip().strip(",").lower().replace(" ", "").split(","))) if type(x) == str else []
     )
     df["customarxiv"] = df["customarxiv"].apply(
-        # NOTE: lstrip "a" since include "a" prefix for str type
+        # NOTE: HACK: lstrip "a" since include "a" prefix for str type in google sheet :(
         lambda x: list(set(x.strip().lstrip("a").strip(",").replace(" ", "").split(","))) if type(x) == str else []
+    )
+    df["custompypi"] = df["custompypi"].apply(
+        lambda x: list(set(x.strip().strip(",").replace(" ", "").split(","))) if type(x) == str else []
     )
 
     # Check for duplicated githuburls

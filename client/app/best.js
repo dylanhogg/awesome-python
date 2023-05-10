@@ -6,6 +6,7 @@ const TAG_COL = 8;
 var CATEGORY_DATA = {
     '': 'Select category...',
     'all': 'All categories',
+    'awesome': 'Awesome Lists',
     'chatgpt': 'ChatGPT and LLMs',
     'crypto': 'Crypto',
     'data': 'Data',

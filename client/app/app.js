@@ -62,6 +62,7 @@ $(document).keydown(function(e) {
 var CATEGORY_DATA = {
     '': 'Select category...',
     'all': 'All categories',
+    'awesome': 'Awesome Lists',
     'chatgpt': 'ChatGPT and LLMs',
     'crypto': 'Crypto',
     'data': 'Data',
@@ -276,29 +277,38 @@ $(document).ready( function () {
                     displayUrls.push(homepageUrl);
                 }
 
+                var pypi_links = row._pypi_links;
+                var pypi_display = [];
+                var pypi_debug_view = false;
+                if (pypi_links.length > 0) {
+                    var pypi_item = pypi_links[0];
+                    var pypi_title = "View pypi package: " + pypi_item.replace("https://pypi.org/project/", "").replace("/", "");
+                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
+                        "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='https://pypi.org/project/" + pypi_item + "/' title='" + pypi_title + "' target='_blank'>pypi.org</a>";
+                    if (pypi_debug_view) {
+                        var pypi_total = row._pypi_count;
+                        if (pypi_total > 1) {
+                            pypi_display += "&nbsp;<span class='light-text'>+" + (pypi_total - 1) + " more (debug)</span>";
+                        }
+                        if (pypi_item.replace("_", "-") != row._reponame.toLowerCase().replace("_", "-")) {
+                            pypi_display += "&nbsp;<span class='light-text'>[diff: " + pypi_item + "] (debug)</span>";
+                        }
+                    }
+                    displayUrls.push(pypi_display);
+                }
+
                 var arxiv_links = row._arxiv_links;
                 var arxiv_display = [];
                 if (arxiv_links.length > 0) {
                     var arxiv_item = arxiv_links[0];
                     var arxiv_title = "View arXiv paper: " + arxiv_item[1] + " (" + arxiv_item[2] + ")";
                     var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'>" +
-                        "<img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='View arXiv paper' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arxiv</a>";
+                        "<img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='View arXiv paper' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arxiv.org</a>";
                     var arxiv_total = row._arxiv_count;
                     if (arxiv_total > 1) {
                         arxiv_display += "&nbsp;<span class='light-text'>+" + (arxiv_total - 1) + " more</span>";
                     }
                     displayUrls.push(arxiv_display);
-                }
-
-                var pypi_links = row._pypi_links;
-                var pypi_display = [];
-                if (pypi_links.length > 0) {
-                    var pypi_item = pypi_links[0];
-                    var pypi_title = "View pypi package: " + pypi_item.replace("https://pypi.org/project/", "").replace("/", "");
-                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
-                        "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='" + pypi_item + "' title='" + pypi_title + "' target='_blank'>pypi</a>";
-                    // var pypi_total = row._pypi_count;
-                    displayUrls.push(pypi_display);
                 }
 
                 return "<div class='text-wrap links-column'>" + displayUrls.join("<br />") + "</div>";

@@ -13,16 +13,16 @@ def _search_arxiv_ids(ids: list[str]) -> list[arxiv.arxiv.Result]:
 
 
 def get_arxiv_links(row) -> list[list[str, str, str]]:
-    def _get_entry_id(arxiv_paper) -> str:
+    def _get_entry_id(arxiv_paper: arxiv.arxiv.Result) -> str:
         short_id = arxiv_paper.get_short_id()
         find = re.findall(r"(.*)v\d", short_id)  # Cut off vN suffix
         return short_id if len(find) == 0 else find[0]
 
-    def _get_safe_title(arxiv_paper):
+    def _get_safe_title(arxiv_paper: arxiv.arxiv.Result):
         safe_title = " ".join(str.strip(x) for x in arxiv_paper.title.split("\n"))
         return safe_title.replace("  ", " ").replace("\"", "").replace("'", "")
 
-    def _get_author_et_al(arxiv_paper):
+    def _get_author_et_al(arxiv_paper: arxiv.arxiv.Result):
         authors = arxiv_paper.authors
         return authors[0] if len(authors) == 1 else f"{authors[0]} et al"
 
@@ -31,33 +31,49 @@ def get_arxiv_links(row) -> list[list[str, str, str]]:
     if row["customarxiv"]:
         # TODO: consider breaking up customarxiv from readmearxiv, include both and render _arxiv_links from these?
         paper_ids = row["customarxiv"]
-        logger.info(f"Searching arxiv for {len(paper_ids)} paper_ids from 'customarxiv' field")
+        paper_ids_source = "customarxiv"
     else:
         readme_localurl = row["_readme_localurl"]
+        paper_ids_source = readme_localurl
         file = Path(f"./data/{readme_localurl}.html")
-        logger.info(f"Searching arxiv for {len(paper_ids)} paper_ids from {readme_localurl}")
         if file.is_file():
             with open(file, "r") as f:
                 text = f.read()
                 paper_ids_abs = re.findall(r'https?://arxiv\.org/abs/(\d{4}\.\d{4,5})', text)
                 paper_ids_pdf = re.findall(r'https?://arxiv\.org/pdf/(\d{4}\.\d{4,5})v?\d?.pdf', text)
                 paper_ids = list(dict.fromkeys(paper_ids_abs + paper_ids_pdf))  # Remove duplicates from a list, while preserving order
+                # TODO: consider re-ordering based on similarity, or if reponame in paper title????
 
     # Process paper_ids and get metadata from arxiv.org search
     results = []
     if paper_ids:
+        logger.info(f"Searching arxiv for {len(paper_ids)} paper_ids from {paper_ids_source}")
         arxiv_papers = _search_arxiv_ids(paper_ids)
         results = [[_get_entry_id(x), _get_safe_title(x), _get_author_et_al(x)] for x in arxiv_papers]
     return results
 
 
 def get_pypi_links(row) -> list[str]:
-    readme_localurl = row["_readme_localurl"]
     pypi_links = []
-    file = Path(f"./data/{readme_localurl}.html")
-    if file.is_file():
-        with open(file, "r") as f:
-            text = f.read()
-            pypi_links = re.findall(r'https?://pypi\.org/project/[A-Za-z0-9_-]+/', text)  # TODO: review regex, esp trailing / & compile it!
-            pypi_links = list(dict.fromkeys(pypi_links))  # Remove duplicates from a list, while preserving order
+    custom_pypi = row["custompypi"]
+    if custom_pypi:
+        # TODO: consider breaking up custompypi from readmearxiv, include both and render _arxiv_links from these?
+        pypi_links = [] if custom_pypi[0].lower() == "<hide>" else custom_pypi
+    else:
+        readme_localurl = row["_readme_localurl"]
+        file = Path(f"./data/{readme_localurl}.html")
+        if file.is_file():
+            with open(file, "r") as f:
+                text = f.read()
+                pypi_links_slash = re.findall(r'https?://pypi\.org/project/([A-Za-z0-9_-]+)/', text)  # TODO: review regex, esp trailing /
+                pypi_links_quote = re.findall(r'https?://pypi\.org/project/([A-Za-z0-9_-]+)"', text)
+                pypi_links = list(dict.fromkeys(pypi_links_slash + pypi_links_quote))  # Remove duplicates from a list, while preserving order
+                pypi_links = [s.lower() for s in pypi_links]
+                # If reponame in one of the pypi links, put it first (if no custom override)
+                # TODO: consider re-ordering based on similarity??
+                repo_name_fixed = row["_reponame"].replace("_", "-")  # Replace _ to - for pypi naming convention
+                if repo_name_fixed in pypi_links:
+                    pypi_links.remove(repo_name_fixed)
+                    pypi_links.insert(0, repo_name_fixed)
+
     return pypi_links
