@@ -1,6 +1,6 @@
-const version = "v0.0.12";
-const CATEGORY_COL = 7;  // 0-based
-const TAG_COL = 8;
+const version = "v0.0.20";
+const CATEGORY_COL = 8;  // 0-based
+const TAG_COL = 9;
 
 function getUrlParams() {
     // Ref: https://stackoverflow.com/questions/4656843/get-querystring-from-url-using-jquery/4656873#4656873
@@ -62,6 +62,7 @@ $(document).keydown(function(e) {
 var CATEGORY_DATA = {
     '': 'Select category...',
     'all': 'All categories',
+    'awesome': 'Awesome Lists',
     'chatgpt': 'ChatGPT and LLMs',
     'crypto': 'Crypto',
     'data': 'Data',
@@ -182,6 +183,7 @@ $(document).ready( function () {
     var description_max_strlen = 120;
     var topic_max_strlen = 30;
     var topic_max_count = 4;
+    var debug_view = false;
 
     var table = $("#table").DataTable( {
         ajax: {
@@ -195,7 +197,8 @@ $(document).ready( function () {
         paging: true,
         pagingType: "full",  // https://datatables.net/reference/option/pagingType
         lengthChange: true,
-        lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
+        lengthMenu: [[5, 10, 50, 100], [5, 10, 50, 100]],
+        // lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
         pageLength: 5,
         search: {
            search: initialSearchTerm,
@@ -238,7 +241,7 @@ $(document).ready( function () {
            { data: "_stars_per_week", title: "Stars<br />per&nbsp;week",
             render: function(data, type, row, meta) { return data > 10 ? data.toFixed(0) : data.toFixed(1); }
            },
-           { data: "_age_weeks", title: "Age in&nbsp;weeks",
+           { data: "_age_weeks", title: "Age<br />in&nbsp;weeks",
             render: function(data, type, row, meta) { return data.toFixed(0); }
            },
 
@@ -260,53 +263,87 @@ $(document).ready( function () {
            { data: null,
             title: "Links",
             render: function(data, type, row, meta) {
-                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" + "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
-                var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" + "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
+                var repoUrl = "<a href='" + row.githuburl + "' target='_blank'>" +
+                    "<img src='img/repo.png' width='16' height='16' alt='repo' title='View GitHub repo' class='github-img'></img></a>&nbsp;<a href='" + row.githuburl + "' title='View GitHub repo'>" + row._reponame.toLowerCase() + "</a>";
+                var orgUrl = "<a href='https://github.com/" + row._organization + "' target='_blank'>" +
+                    "<img src='img/org.png' width='16' height='16' alt='organisation' title='View GitHub organisation' class='github-img'></img></a>&nbsp;<a href='https://github.com/" + row._organization + "' title='View GitHub organisation'>" + row._organization.toLowerCase() + "</a>";
                 var homepageUrl = "";
-                try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'><img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
-                return "<div class='text-wrap links-column'>" + repoUrl + "<br />" + orgUrl + "<br />" + homepageUrl + "</div>";
+                try { homepageUrl = "<a href='" + row._homepage + "' target='_blank'>" +
+                    "<img src='img/web16.png' width='16' height='16' alt='homepage' title='View homepage' class='web-img'></img></a>&nbsp;<a href='" + row._homepage + "' title='View homepage'>" + new URL(row._homepage).hostname + "</a>";
+                } catch {
+                    // Swollow any new URL exception
+                }
 
-//                var repoUrl = "<a href='" + row.githuburl + "'>" + row._reponame.toLowerCase() + "</a>";
-//                var orgUrl = "<a href='https://github.com/" + row._organization + "'>" + row._organization.toLowerCase() + "</a>";
-//                var homepageUrl = "";
-//                try { homepageUrl = "<a href='" + row._homepage + "'>" + new URL(row._homepage).hostname + "</a>"; } catch { }
-//                return "<div class='text-wrap links-column'>" + orgUrl + "/<b>" + repoUrl + "</b><br />" + homepageUrl + "</div>";
-             }
-           },
+                var displayUrls = [repoUrl, orgUrl];
+                if (homepageUrl.length > 0) {
+                    displayUrls.push(homepageUrl);
+                }
 
-//           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
-//           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
-//            className: "text-nowrap",
-//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-//           },
-//           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
-//            className: "text-nowrap",
-//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
-//           },
-
-           { data: "category", title: "Category"
-             ,render: function(data, type, row, meta) {
-                // return data;
-                return "<a class='label-link' title='" + CATEGORY_DATA[data]+ "' href='/?c=" + data + "'>" + data + "</a>";
-             }
-           },
-           { data: "_topics", title: "Tags",
-            // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
-            render: function(data, type, row, meta) {
-                if (data.length == 0) { return ""; }
-                var tags = data.slice(0, topic_max_count);
-                return tags.map(item => {
-                    var short_item = item;
-                    if (short_item.length > topic_max_strlen) {
-                        short_item = short_item.substr(0, topic_max_strlen);
+                var pypi_links = row._pypi_links;
+                var pypi_display = [];
+                if (pypi_links.length > 0) {
+                    var pypi_total = row._pypi_count;
+                    var pypi_item = pypi_links[0];
+                    var pypi_title = "View pypi package: " + pypi_item.replace("https://pypi.org/project/", "").replace("/", "");
+                    var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
+                        "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='https://pypi.org/project/" + pypi_item + "/' title='" + pypi_title + "' target='_blank'>pypi.org</a>";
+                    if (debug_view) {
+                        if (pypi_total > 1) {
+                            pypi_display += "&nbsp;<span class='light-text'>+" + (pypi_total - 1) + " more (debug)</span>";
+                        }
+                        if (pypi_item.replace("_", "-") != row._reponame.toLowerCase().replace("_", "-")) {
+                            pypi_display += "&nbsp;<span class='light-text'>[diff: " + pypi_item + "] (debug)</span>";
+                        }
                     }
-                    // return "<a class='label-link' href='https://github.com/topics/" + item + "?l=python'>" + item + "</a> ";
-                    return "<a class='label-link' href='/?q=" + short_item + "'>" + short_item + "</a> ";
-                }).join(" ");
-            }
+                    displayUrls.push(pypi_display);
+                }
+
+                var arxiv_links = row._arxiv_links;
+                var arxiv_display = [];
+                if (arxiv_links.length > 0) {
+                    var arxiv_total = row._arxiv_count;
+                    var arxiv_item = arxiv_links[0];
+                    // var arxiv_title = "View paper: " + arxiv_item[1] + " (" + arxiv_item[2] + ")";
+                    var arxiv_title = "View paper: " + arxiv_item[1];
+                    if (arxiv_total > 1) {
+                        arxiv_title += " (1/" + arxiv_total + " total papers in readme)";
+                    }
+                    var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'>" +
+                        "<img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='View arXiv paper' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arxiv.org</a>";
+                    if (debug_view) {
+                        if (arxiv_total > 1) {
+                            arxiv_display += "&nbsp;<span class='light-text'>+" + (arxiv_total - 1) + " more (debug)</span>";
+                        }
+                    }
+                    displayUrls.push(arxiv_display);
+                }
+
+//                // huggingface is a wip:
+//                var hf_links = row._hf_links;
+//                var hf_display = [];
+//                if (hf_links.length > 0) {
+//                    var hf_total = row._hf_count;
+//                    var hf_item = hf_links[0];
+//                    // var hf_title = "View paper: " + hf_item[1] + " (" + hf_item[2] + ")";
+//                    var hf_title = "View huggingface link";
+//                    if (hf_total > 1) {
+//                        hf_title += " (1/" + hf_total + " total huggingface links in readme)";
+//                    }
+//                    var hf_display = "<a href='https://huggingface.co/" + hf_item[0] + "' target='_blank'>" +
+//                        "<img src='img/pypi16.png' width='16' height='16' alt='hf' title='View huggingface link' class='web-img'></img></a>&nbsp;<a href='https://huggingface.co/" + hf_item + "' title='" + hf_title + "' target='_blank'>huggingface.co</a>";
+//                    if (debug_view) {
+//                        if (hf_total > 1) {
+//                            hf_display += "&nbsp;<span class='light-text'>+" + (hf_total - 1) + " more (debug)</span>";
+//                        }
+//                    }
+//                    displayUrls.push(hf_display);
+//                }
+
+                return "<div class='text-wrap links-column'>" + displayUrls.join("<br />") + "</div>";
+             }
            },
 
-           { data: "sim", title: "Similar libraries",
+           { data: "sim", title: "Similar<br />libraries",
             // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
             render: function(data, type, row, meta) {
                 if (data.length == 0) { return ""; }
@@ -360,9 +397,65 @@ $(document).ready( function () {
 
                 repo_links = repo_links.filter(function (el) { return el != null; });
                 repo_html = repo_links.join("<br />");
-                return "<div class='text-wrap links-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
+                return "<div class='text-wrap similar-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
               }
-            },
+           },
+
+           { data: "category", title: "Category"
+             ,render: function(data, type, row, meta) {
+                // return data;
+                return "<a class='label-link' title='" + CATEGORY_DATA[data]+ "' href='/?c=" + data + "'>" + data + "</a>";
+             }
+           },
+
+//           { data: null, title: "Arxiv",
+//            render: function(data, type, row, meta) {
+//                // TODO: fold into links column
+//                var arxiv_links = row._arxiv_links;
+//                var arxiv_display = [];
+//                if (arxiv_links.length > 0) {
+//                    var arxiv_max_count = 2;
+//                    var arxiv_display = arxiv_links.slice(0, arxiv_max_count);
+//                    arxiv_display = arxiv_display.map(item => {
+//                        var arxiv_id = item[0];
+//                        var title = item[1] + " (" + item[2] + ")";
+//                        return "<a href='https://arxiv.org/abs/" + arxiv_id + "' title='" + title + "'>arxiv&nbsp;" + arxiv_id + "</a> ";
+//                    });
+//                    var not_displayed_count = row._arxiv_count - arxiv_display.length;
+//                    if (not_displayed_count > 0) {
+//                        arxiv_display.push("+" + not_displayed_count + " more");
+//                    }
+//                }
+//                return arxiv_display.join("<br />");
+//            }
+//           },
+
+           { data: "_topics", title: "Tags",
+            // render: function(data, type, row, meta) { return data.slice(0, 3).join(", "); }
+            render: function(data, type, row, meta) {
+                if (data.length == 0) { return ""; }
+                var tags = data.slice(0, topic_max_count);
+                var tag_links = tags.map(item => {
+                    var short_item = item;
+                    if (short_item.length > topic_max_strlen) {
+                        short_item = short_item.substr(0, topic_max_strlen);
+                    }
+                    // return "<a class='label-link' href='https://github.com/topics/" + item + "?l=python'>" + item + "</a> ";
+                    return "<a class='label-link' href='/?q=" + short_item + "'>" + short_item + "</a> ";
+                }).join(" ");
+                return "<div class='tags-column'>" + tag_links + "</div>";
+            }
+           },
+
+//           { data: "_forks", title: "Forks&nbsp;<img src='img/fork.png' class='github-img' />", className: "text-nowrap", render: $.fn.dataTable.render.number(',', '.', 0) },
+//           { data: "_created_at", title: "Created&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
+//           { data: "_updated_at", title: "Updated&nbsp;<img src='img/clock.png' class='github-img' />",
+//            className: "text-nowrap",
+//            render: function(data, type, row, meta) { return new Date(data).toISOString().split('T')[0]; }
+//           },
 
 //           { data: "_readme_localurl", title: "Docs",
 //            orderable: false,

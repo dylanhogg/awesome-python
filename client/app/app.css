@@ -31,7 +31,17 @@
 }
 
 .links-column {
-    max-width: 300px;
+    max-width: 250px;
+    min-width: 200px;
+}
+
+.similar-column {
+    max-width: 250px;
+    min-width: 100px;
+}
+
+.tags-column {
+    max-width: 250px;
 }
 
 .label-link {
@@ -70,6 +80,10 @@
 
 img.info-img:hover {
   opacity: 0.5;
+}
+
+.light-text {
+    color: #BEBEBE;
 }
 
 .dataTables_filter {

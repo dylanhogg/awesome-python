@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 Investment Research for Everyone, Everywhere.  
 [https://openbb.co](https://openbb.co)  
 [https://github.com/openbb-finance/openbbterminal](https://github.com/openbb-finance/openbbterminal)  
-176 stars per week over 124 weeks  
+175 stars per week over 124 weeks  
 21,881 stars, 2,151 forks, 251 watches  
 created 2020-12-20, last commit 2023-05-05, main language Python  
 <sub><sup>artificial-intelligence, crypto, cryptocurrency, economics, finance, investment, investment-research, machine-learning, openbb, quantitative-finance, stocks</sup></sub>
@@ -19,7 +19,7 @@ created 2020-12-20, last commit 2023-05-05, main language Python
 Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.  
 [https://qlib.readthedocs.io/en/latest/](https://qlib.readthedocs.io/en/latest/)  
 [https://github.com/microsoft/qlib](https://github.com/microsoft/qlib)  
-76 stars per week over 142 weeks  
+75 stars per week over 142 weeks  
 10,840 stars, 1,938 forks, 260 watches  
 created 2020-08-14, last commit 2023-05-05, main language Python  
 <sub><sup>algorithmic-trading, auto-quant, deep-learning, finance, fintech, investment, machine-learning, paper, platform, quant, quant-dataset, quant-models, quantitative-finance, quantitative-trading, research, research-paper, stock-data</sup></sub>
@@ -49,7 +49,7 @@ created 2014-11-28, last commit 2023-05-03, main language C#
 Financial Markets Data Visualization using Matplotlib  
 [https://pypi.org/project/mplfinance/](https://pypi.org/project/mplfinance/)  
 [https://github.com/matplotlib/mplfinance](https://github.com/matplotlib/mplfinance)  
-15 stars per week over 178 weeks  
+15 stars per week over 179 weeks  
 2,737 stars, 547 forks, 83 watches  
 created 2019-12-05, last commit 2023-03-14, main language Python  
 <sub><sup>candlestick, candlestick-chart, candlestickchart, finance, hacktoberfest, hacktoberfest2022, hactoberfest, intraday-data, market-data, matplotlib, mplfinance, ohlc, ohlc-chart, ohlc-data, ohlc-plot, ohlcv, trading-days</sup></sub>
@@ -79,7 +79,7 @@ created 2012-10-19, last commit 2020-10-14, main language Python
 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.  
 [https://package.blankly.finance](https://package.blankly.finance)  
 [https://github.com/blankly-finance/blankly](https://github.com/blankly-finance/blankly)  
-14 stars per week over 112 weeks  
+13 stars per week over 113 weeks  
 1,585 stars, 214 forks, 31 watches  
 created 2021-03-09, last commit 2023-03-25, main language Python  
 <sub><sup>algotrading, binance, blankly, bot, bot-framework, bots, coinbase, crypto, cryptocurrency, framework, investment, platform, stocks, trading, trading-bot, trading-strategies</sup></sub>
@@ -89,7 +89,7 @@ created 2021-03-09, last commit 2023-03-25, main language Python
 :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.  
 [https://kernc.github.io/backtesting.py/](https://kernc.github.io/backtesting.py/)  
 [https://github.com/kernc/backtesting.py](https://github.com/kernc/backtesting.py)  
-15 stars per week over 226 weeks  
+15 stars per week over 227 weeks  
 3,599 stars, 716 forks, 96 watches  
 created 2019-01-02, last commit 2023-01-15, main language Python  
 <sub><sup>algo-trading, algorithmic-trading, backtesting, backtesting-engine, backtesting-frameworks, backtesting-trading-strategies, finance, financial-markets, forex, forex-trading, framework, hacktoberfest, investing, investment, investment-strategies, stocks, trading, trading-algorithms, trading-simulator, trading-strategies</sup></sub>
@@ -98,7 +98,7 @@ created 2019-01-02, last commit 2023-01-15, main language Python
 ### [tf-quant-finance](https://github.com/google/tf-quant-finance) by [google](https://github.com/google)  
 High-performance TensorFlow library for quantitative finance.  
 [https://github.com/google/tf-quant-finance](https://github.com/google/tf-quant-finance)  
-19 stars per week over 197 weeks  
+19 stars per week over 198 weeks  
 3,860 stars, 513 forks, 169 watches  
 created 2019-07-24, last commit 2023-03-20, main language Python  
 <sub><sup>finance, gpu, gpu-computing, high-performance, high-performance-computing, numerical-integration, numerical-methods, numerical-optimization, quantitative-finance, quantlib, tensorflow</sup></sub>
@@ -118,7 +118,7 @@ created 2012-03-23, last commit 2023-04-13, main language Cython
 A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.   
 [https://financepy.com/](https://financepy.com/)  
 [https://github.com/domokane/financepy](https://github.com/domokane/financepy)  
-7.64 stars per week over 184 weeks  
+7.62 stars per week over 184 weeks  
 1,406 stars, 213 forks, 53 watches  
 created 2019-10-27, last commit 2023-05-04, main language Jupyter Notebook  
 <sub><sup>asset-allocation, bonds, credit, currency, derivatives, derivatives-pricing, finance, fixed-income, investment, numba, pricing, risk, risk-management, students, valuation</sup></sub>
@@ -136,7 +136,7 @@ created 2015-11-27, last commit 2023-05-02, main language Python
 Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.   
 [https://vectorbt.dev](https://vectorbt.dev)  
 [https://github.com/polakowo/vectorbt](https://github.com/polakowo/vectorbt)  
-9.85 stars per week over 285 weeks  
+9.84 stars per week over 286 weeks  
 2,816 stars, 477 forks, 100 watches  
 created 2017-11-14, last commit 2023-05-05, main language Python  
 <sub><sup>algorithmic-trading, algorithmic-traiding, backtesting, cryptocurrency, data-science, data-visualization, finance, machine-learning, portfolio-optimization, quantitative-analysis, quantitative-finance, time-series, trading, trading-strategies</sup></sub>
@@ -145,7 +145,7 @@ created 2017-11-14, last commit 2023-05-05, main language Python
 ### [quantstats](https://github.com/ranaroussi/quantstats) by [ranaroussi](https://github.com/ranaroussi)  
 Portfolio analytics for quants, written in Python  
 [https://github.com/ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)  
-14 stars per week over 209 weeks  
+14 stars per week over 210 weeks  
 3,078 stars, 601 forks, 88 watches  
 created 2019-05-01, last commit 2022-07-05, main language Python  
 <sub><sup>algo-trading, algorithmic-trading, algotrading, finance, plotting, quant, quantitative-analysis, quantitative-finance, quantitative-trading, visualization</sup></sub>
@@ -155,7 +155,7 @@ created 2019-05-01, last commit 2022-07-05, main language Python
 Python toolkit for quantitative finance  
 [https://developer.gs.com/discover/products/gs-quant/](https://developer.gs.com/discover/products/gs-quant/)  
 [https://github.com/goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant)  
-7.64 stars per week over 229 weeks  
+7.62 stars per week over 229 weeks  
 1,752 stars, 353 forks, 76 watches  
 created 2018-12-14, last commit 2023-05-04, main language Jupyter Notebook  
 <sub><sup>derivatives, goldman-sachs, gs-quant, risk-management, trading-strategies</sup></sub>
@@ -164,7 +164,7 @@ created 2018-12-14, last commit 2023-05-04, main language Jupyter Notebook
 ### [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) by [gerrymanoim](https://github.com/gerrymanoim)  
 Calendars for various securities exchanges.  
 [https://github.com/gerrymanoim/exchange_calendars](https://github.com/gerrymanoim/exchange_calendars)  
-1.97 stars per week over 131 weeks  
+1.96 stars per week over 131 weeks  
 259 stars, 88 forks, 14 watches  
 created 2020-10-30, last commit 2023-05-02, main language Python  
 
@@ -182,7 +182,7 @@ created 2015-06-01, last commit 2020-07-15, main language Jupyter Notebook
 Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)  
 [http://www.cuemacro.com](http://www.cuemacro.com)  
 [https://github.com/cuemacro/finmarketpy](https://github.com/cuemacro/finmarketpy)  
-7.22 stars per week over 428 weeks  
+7.22 stars per week over 429 weeks  
 3,096 stars, 481 forks, 216 watches  
 created 2015-02-19, last commit 2023-04-26, main language Python  
 <sub><sup>backtesting-trading-strategies, trading-strategies</sup></sub>
@@ -192,7 +192,7 @@ created 2015-02-19, last commit 2023-04-26, main language Python
 Performance analysis of predictive (alpha) stock factors  
 [http://quantopian.github.io/alphalens](http://quantopian.github.io/alphalens)  
 [https://github.com/quantopian/alphalens](https://github.com/quantopian/alphalens)  
-7.31 stars per week over 361 weeks  
+7.3 stars per week over 361 weeks  
 2,641 stars, 1,008 forks, 166 watches  
 created 2016-06-03, last commit 2020-04-27, main language Jupyter Notebook  
 <sub><sup>algorithmic-trading, finance, jupyter, numpy, pandas</sup></sub>
@@ -202,7 +202,7 @@ created 2016-06-03, last commit 2020-04-27, main language Jupyter Notebook
 bt - flexible backtesting for Python  
 [http://pmorissette.github.io/bt](http://pmorissette.github.io/bt)  
 [https://github.com/pmorissette/bt](https://github.com/pmorissette/bt)  
-3.57 stars per week over 463 weeks  
+3.57 stars per week over 464 weeks  
 1,656 stars, 370 forks, 81 watches  
 created 2014-06-19, last commit 2023-04-30, main language Python  
 
@@ -210,34 +210,34 @@ created 2014-06-19, last commit 2023-04-30, main language Python
 ### [QuantLib-SWIG](https://github.com/lballabio/quantlib-swig) by [lballabio](https://github.com/lballabio)  
 QuantLib wrappers to other languages  
 [https://github.com/lballabio/quantlib-swig](https://github.com/lballabio/quantlib-swig)  
-0.73 stars per week over 385 weeks  
+0.73 stars per week over 386 weeks  
 282 stars, 265 forks, 39 watches  
 created 2015-12-17, last commit 2023-05-02, main language SWIG  
 <sub><sup>quantitative-finance</sup></sub>
-
-
-### [basana](https://github.com/gbeced/basana) by [gbeced](https://github.com/gbeced)  
-A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.  
-[https://github.com/gbeced/basana](https://github.com/gbeced/basana)  
-8.29 stars per week over 9 weeks  
-77 stars, 5 forks, 8 watches  
-created 2023-03-04, last commit 2023-04-28, main language Python  
-<sub><sup>algorithmic-trading, asyncio, backtesting, binance, cryptocurrency, trading-bot</sup></sub>
 
 
 ### [pyalgotrade](https://github.com/gbeced/pyalgotrade) by [gbeced](https://github.com/gbeced)  
 Python Algorithmic Trading Library  
 [http://gbeced.github.io/pyalgotrade/](http://gbeced.github.io/pyalgotrade/)  
 [https://github.com/gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade)  
-6.86 stars per week over 582 weeks  
+6.85 stars per week over 583 weeks  
 3,997 stars, 1,346 forks, 351 watches  
 created 2012-03-07, last commit 2023-03-05, main language Python  
+
+
+### [basana](https://github.com/gbeced/basana) by [gbeced](https://github.com/gbeced)  
+A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.  
+[https://github.com/gbeced/basana](https://github.com/gbeced/basana)  
+7.93 stars per week over 9 weeks  
+77 stars, 5 forks, 8 watches  
+created 2023-03-04, last commit 2023-04-28, main language Python  
+<sub><sup>algorithmic-trading, asyncio, backtesting, binance, cryptocurrency, trading-bot</sup></sub>
 
 
 ### [algo-trader](https://github.com/idanya/algo-trader) by [idanya](https://github.com/idanya)  
 Trading bot with support for realtime trading, backtesting, custom strategies and much more.  
 [https://github.com/idanya/algo-trader](https://github.com/idanya/algo-trader)  
-7.64 stars per week over 85 weeks  
+7.6 stars per week over 86 weeks  
 656 stars, 74 forks, 24 watches  
 created 2021-09-14, last commit 2023-03-02, main language Python  
 <sub><sup>algorithmic-trading, backtesting, crypto-bot, technical-analysis, trading-bot, trading-strategies</sup></sub>
@@ -247,7 +247,7 @@ created 2021-09-14, last commit 2023-03-02, main language Python
 ffn - a financial function library for Python  
 [pmorissette.github.io/ffn](pmorissette.github.io/ffn)  
 [https://github.com/pmorissette/ffn](https://github.com/pmorissette/ffn)  
-3.24 stars per week over 463 weeks  
+3.24 stars per week over 464 weeks  
 1,502 stars, 261 forks, 59 watches  
 created 2014-06-19, last commit 2022-12-21, main language Python  
 
@@ -255,7 +255,7 @@ created 2014-06-19, last commit 2022-12-21, main language Python
 ### [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) by [rsheftel](https://github.com/rsheftel)  
 Exchange calendars to use with pandas for trading applications  
 [https://github.com/rsheftel/pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars)  
-1.79 stars per week over 334 weeks  
+1.79 stars per week over 335 weeks  
 600 stars, 132 forks, 30 watches  
 created 2016-12-07, last commit 2023-02-04, main language Python  
 <sub><sup>calendar, date, datetime, exchange, pandas</sup></sub>
@@ -264,7 +264,7 @@ created 2016-12-07, last commit 2023-02-04, main language Python
 ### [data-link-python](https://github.com/nasdaq/data-link-python) by [nasdaq](https://github.com/nasdaq)  
 A Python library for Nasdaq Data Link's RESTful API  
 [https://github.com/nasdaq/data-link-python](https://github.com/nasdaq/data-link-python)  
-3.03 stars per week over 78 weeks  
+3.01 stars per week over 79 weeks  
 239 stars, 50 forks, 9 watches  
 created 2021-11-02, last commit 2022-08-29, main language Python  
 
@@ -272,7 +272,7 @@ created 2021-11-02, last commit 2022-08-29, main language Python
 ### [findatapy](https://github.com/cuemacro/findatapy) by [cuemacro](https://github.com/cuemacro)  
 Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.  
 [https://github.com/cuemacro/findatapy](https://github.com/cuemacro/findatapy)  
-3.77 stars per week over 352 weeks  
+3.76 stars per week over 353 weeks  
 1,328 stars, 185 forks, 91 watches  
 created 2016-08-03, last commit 2022-08-24, main language Python  
 <sub><sup>arctic, bloomberg, dukascopy, eikon, fred, market-data, python-api, quandl</sup></sub>
@@ -282,7 +282,7 @@ created 2016-08-03, last commit 2022-08-24, main language Python
 Quantitative research and educational materials  
 [https://www.quantopian.com/lectures](https://www.quantopian.com/lectures)  
 [https://github.com/quantopian/research_public](https://github.com/quantopian/research_public)  
-4.95 stars per week over 427 weeks  
+4.94 stars per week over 428 weeks  
 2,116 stars, 1,478 forks, 201 watches  
 created 2015-02-26, last commit 2020-10-30, main language Jupyter Notebook  
 
@@ -290,7 +290,7 @@ created 2015-02-26, last commit 2020-10-30, main language Jupyter Notebook
 ### [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) by [borisbanushev](https://github.com/borisbanushev)  
        In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.  
 [https://github.com/borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai)  
-16 stars per week over 225 weeks  
+16 stars per week over 226 weeks  
 3,655 stars, 1,598 forks, 264 watches  
 created 2019-01-09, last commit 2019-02-11, main language None  
 
@@ -298,7 +298,7 @@ created 2019-01-09, last commit 2019-02-11, main language None
 ### [pyql](https://github.com/enthought/pyql) by [enthought](https://github.com/enthought)  
 Cython QuantLib wrappers  
 [https://github.com/enthought/pyql](https://github.com/enthought/pyql)  
-1.36 stars per week over 582 weeks  
+1.36 stars per week over 583 weeks  
 791 stars, 180 forks, 107 watches  
 created 2012-03-08, last commit 2023-03-06, main language Cython  
 <sub><sup>cython, quantlib</sup></sub>
@@ -343,7 +343,7 @@ created 2020-12-06, last commit 2022-10-12, main language Python
 ### [numerai-cli](https://github.com/numerai/numerai-cli) by [numerai](https://github.com/numerai)  
 Fully automated submission workflow in the cloud for <$1/mo  
 [https://github.com/numerai/numerai-cli](https://github.com/numerai/numerai-cli)  
-0.41 stars per week over 206 weeks  
+0.41 stars per week over 207 weeks  
 84 stars, 27 forks, 21 watches  
 created 2019-05-22, last commit 2023-05-04, main language Python  
 
@@ -351,7 +351,7 @@ created 2019-05-22, last commit 2023-05-04, main language Python
 ### [numerox](https://github.com/numerai/numerox) by [numerai](https://github.com/numerai)  
 Numerai tournament toolbox written in Python  
 [https://github.com/numerai/numerox](https://github.com/numerai/numerox)  
-0.45 stars per week over 289 weeks  
+0.45 stars per week over 290 weeks  
 130 stars, 36 forks, 29 watches  
 created 2017-10-18, last commit 2020-12-08, main language Python  
 <sub><sup>numerai</sup></sub>
@@ -369,12 +369,12 @@ created 2013-09-01, last commit 2023-01-20, main language Jupyter Notebook
 ### [bta-lib](https://github.com/mementum/bta-lib) by [mementum](https://github.com/mementum)  
 Technical Analysis library in pandas for backtesting algotrading and quantitative analysis  
 [https://github.com/mementum/bta-lib](https://github.com/mementum/bta-lib)  
-2.39 stars per week over 170 weeks  
+2.38 stars per week over 170 weeks  
 407 stars, 99 forks, 26 watches  
 created 2020-01-31, last commit 2020-03-11, main language Python  
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

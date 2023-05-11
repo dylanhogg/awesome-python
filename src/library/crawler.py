@@ -1,32 +1,13 @@
 import json
+import pandas as pd
 from datetime import datetime
 from typing import List
 from loguru import logger
-from library import render, readme, requirements
+from library import render, readme, requirements, readme_parser
 
 
-def write_files(
-    csv_location: str,
-    token_list: List[str],
-    output_csv_filename: str,
-    output_json_filename: str,
-    max_ui_topics: int = 4,
-    max_ui_sim: int = 3,
-):
-    start = datetime.now()
-
-    # Read GitHub urls from google docs
-    df_input = render.get_input_data(csv_location)
-    # df_input = df_input.head(3)  # Testing
-    # df_input = df_input.iloc[9:11]  # Testing
-
-    # Augment repo name with metadata from GitHub
-    logger.info(f"Processing {len(df_input)} records from {csv_location} with {len(token_list)=}...")
-    df = render.process(df_input, token_list)
-
-    # Write raw results to csv
-    logger.info(f"Write raw results to csv...")
-    df.to_csv(output_csv_filename)
+def _crawl_external_files(df_input: pd.DataFrame):
+    df = df_input.copy()
 
     logger.info("Crawling readme files...")
     df["_readme_filename"] = df["_repopath"].apply(lambda x: readme.get_readme(x))
@@ -69,7 +50,24 @@ def write_files(
         axis=1,
     )
 
-    # TODO: parse crawled df["_readme_localurl"] files and extract: pypi links & arxiv links
+    df["_arxiv_links"] = df.apply(lambda row: readme_parser.get_arxiv_links(row), axis=1)
+    df["_arxiv_count"] = df["_arxiv_links"].apply(lambda x: len(x))
+    df["_pypi_links"] = df.apply(lambda row: readme_parser.get_pypi_links(row), axis=1)
+    df["_pypi_count"] = df["_pypi_links"].apply(lambda x: len(x))
+    df["_hf_links"] = df.apply(lambda row: readme_parser.get_huggingface_links(row), axis=1)
+    df["_hf_count"] = df["_hf_links"].apply(lambda x: len(x))
+    # TODO: Add https://wandb.ai/* e.g. https://wandb.ai/eleutherai/neox
+
+    return df
+
+
+def _save_json_data_files(df: pd.DataFrame,
+                          output_json_filename: str,
+                          max_ui_topics: int = 4,
+                          max_ui_other_link: int = 1,
+                          max_ui_arxiv: int = 1,
+                          max_ui_pypi: int = 1,
+                          max_ui_sim: int = 3):
 
     # Write raw results to json table format (i.e. github_data.json)
     with open(output_json_filename, "w") as f:
@@ -96,7 +94,7 @@ def write_files(
     )
     with open(output_ui_minjson_filename, "w") as f:
         # NOTE: this cols list must be synced with app.js DataTable columns for display
-        cols = [
+        minjson_cols = [
             "githuburl",
             "_reponame",
             "_organization",
@@ -110,13 +108,22 @@ def write_files(
             "_topics",
             "sim",
             "_readme_localurl",
+            "_arxiv_links",
+            "_arxiv_count",
+            "_pypi_links",
+            "_pypi_count",
+            # "_hf_links",
+            # "_hf_count",
         ]
 
-        df_min_ui = df[cols].copy()
+        df_min_ui = df[minjson_cols].copy()
         # NOTE: max_ui_topics & max_ui_sim values impact capability on Javascript UI side!
         df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
+        df_min_ui["_arxiv_links"] = df_min_ui["_arxiv_links"].apply(lambda x: x[0:max_ui_arxiv])
+        df_min_ui["_pypi_links"] = df_min_ui["_pypi_links"].apply(lambda x: x[0:max_ui_pypi])
+        # df_min_ui["_hf_links"] = df_min_ui["_hf_links"].apply(lambda x: x[0:max_ui_other_link])
         df_min_ui["sim"] = df_min_ui["sim"].apply(lambda x: x[0:max_ui_sim])
-        json_results = df_min_ui[cols].to_json(orient="table", double_precision=2, index=False)
+        json_results = df_min_ui.to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)
         json.dump(data, f, separators=(",", ":"))
 
@@ -128,6 +135,8 @@ def write_files(
     )
     df.to_pickle(output_pickle_filename)
 
+
+def _write_local_markdown_files(df: pd.DataFrame):
     # Add markdown columns for local README.md and categories/*.md file lists.
     logger.info(f"Add markdown columns...")
     df = render.add_markdown(df)
@@ -161,5 +170,36 @@ def write_files(
         logger.info(f"Writing {len(df_category)} entries to {filename}...")
         with open(filename, "w") as out:
             out.write("\n".join(lines))
+
+
+def run(
+    csv_location: str,
+    token_list: List[str],
+    output_csv_filename: str,
+    output_json_filename: str
+):
+    start = datetime.now()
+
+    # Read GitHub urls from google docs
+    df_input = render.get_input_data(csv_location)
+    # df_input = df_input.head(3)  # Testing
+    # df_input = df_input.iloc[9:11]  # Testing
+
+    # Augment repo name with metadata from GitHub
+    logger.info(f"Processing {len(df_input)} records from {csv_location} with {len(token_list)=}...")
+    df = render.process(df_input, token_list)
+
+    # Write raw results to csv (without external file info)
+    logger.info(f"Write raw results to csv...")
+    df.to_csv(output_csv_filename)
+
+    # Crawl and save external files (e.g. readme.md and requirements.txt files)
+    df = _crawl_external_files(df)
+
+    # Write results to various json files
+    _save_json_data_files(df, output_json_filename)
+
+    # Write local markdown files for GitHub viewing
+    _write_local_markdown_files(df)
 
     logger.info(f"Finished writing in {datetime.now() - start}")

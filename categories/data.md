@@ -1,5 +1,5 @@
 # Crazy Awesome Python
-A selection of 99 curated data Python libraries and frameworks ordered by stars.  
+A selection of 100 curated data Python libraries and frameworks ordered by stars.  
 
 Checkout the interactive version that you can filter and sort: 
 [https://www.awesomepython.org/](https://www.awesomepython.org/)  
@@ -9,10 +9,10 @@ Checkout the interactive version that you can filter and sort:
 Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing  
 [https://arrow.apache.org/](https://arrow.apache.org/)  
 [https://github.com/apache/arrow](https://github.com/apache/arrow)  
-30 stars per week over 376 weeks  
+30 stars per week over 377 weeks  
 11,662 stars, 2,883 forks, 347 watches  
 created 2016-02-17, last commit 2023-05-05, main language C++  
-<sub><sup>arrow</sup></sub>
+<sub><sup>apache-arrow, arrow, data-analysis</sup></sub>
 
 
 ### [scrapy](https://github.com/scrapy/scrapy)  
@@ -29,7 +29,7 @@ created 2010-02-22, last commit 2023-05-04, main language Python
 DuckDB is an in-process SQL OLAP Database Management System  
 [http://www.duckdb.org](http://www.duckdb.org)  
 [https://github.com/duckdb/duckdb](https://github.com/duckdb/duckdb)  
-39 stars per week over 253 weeks  
+38 stars per week over 254 weeks  
 9,915 stars, 919 forks, 144 watches  
 created 2018-06-26, last commit 2023-05-05, main language C++  
 <sub><sup>analytics, database, dataframe, embedded-database, olap, sql</sup></sub>
@@ -39,7 +39,7 @@ created 2018-06-26, last commit 2023-05-05, main language C++
 the AI-native open-source embedding database  
 [https://www.trychroma.com/](https://www.trychroma.com/)  
 [https://github.com/chroma-core/chroma](https://github.com/chroma-core/chroma)  
-148 stars per week over 30 weeks  
+146 stars per week over 31 weeks  
 4,556 stars, 250 forks, 37 watches  
 created 2022-10-05, last commit 2023-05-06, main language Python  
 <sub><sup>document-retrieval, embeddings, llms</sup></sub>
@@ -49,7 +49,7 @@ created 2022-10-05, last commit 2023-05-06, main language Python
 The Database Toolkit for Python  
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 [https://github.com/sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)  
-30 stars per week over 231 weeks  
+30 stars per week over 232 weeks  
 7,182 stars, 1,142 forks, 91 watches  
 created 2018-11-27, last commit 2023-05-05, main language Python  
 <sub><sup>sql, sqlalchemy</sup></sub>
@@ -119,7 +119,7 @@ created 2017-10-23, last commit 2023-04-27, main language Python
 SQL databases in Python, designed for simplicity, compatibility, and robustness.  
 [https://sqlmodel.tiangolo.com/](https://sqlmodel.tiangolo.com/)  
 [https://github.com/tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)  
-110 stars per week over 88 weeks  
+110 stars per week over 89 weeks  
 9,835 stars, 422 forks, 134 watches  
 created 2021-08-24, last commit 2023-02-21, main language Python  
 <sub><sup>fastapi, json, json-schema, pydantic, sql, sqlalchemy</sup></sub>
@@ -138,7 +138,7 @@ created 2009-11-06, last commit 2023-05-03, main language Python
 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store  
 [https://docs.docarray.org/](https://docs.docarray.org/)  
 [https://github.com/docarray/docarray](https://github.com/docarray/docarray)  
-29 stars per week over 72 weeks  
+29 stars per week over 73 weeks  
 2,154 stars, 174 forks, 39 watches  
 created 2021-12-14, last commit 2023-05-06, main language Python  
 <sub><sup>cross-modal, data-structures, dataclass, deep-learning, docarray, elasticsearch, fastapi, machine-learning, multi-modal, multimodal, nearest-neighbor-search, nested-data, neural-search, protobuf, pydantic, pytorch, qdrant, semantic-search, vector-search, weaviate</sup></sub>
@@ -168,7 +168,7 @@ created 2020-05-22, last commit 2023-05-04, main language TypeScript
 A data augmentations library for audio, image, text, and video.  
 [https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)  
 [https://github.com/facebookresearch/augly](https://github.com/facebookresearch/augly)  
-47 stars per week over 99 weeks  
+47 stars per week over 100 weeks  
 4,720 stars, 283 forks, 63 watches  
 created 2021-06-09, last commit 2023-05-04, main language Python  
 
@@ -206,7 +206,7 @@ created 2017-06-10, last commit 2021-03-02, main language Python
 Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.  
 [https://www.amundsen.io/amundsen/](https://www.amundsen.io/amundsen/)  
 [https://github.com/amundsen-io/amundsen](https://github.com/amundsen-io/amundsen)  
-18 stars per week over 207 weeks  
+18 stars per week over 208 weeks  
 3,890 stars, 922 forks, 244 watches  
 created 2019-05-14, last commit 2023-05-03, main language Python  
 <sub><sup>amundsen, data-catalog, data-discovery, linuxfoundation, metadata</sup></sub>
@@ -226,7 +226,7 @@ created 2016-09-09, last commit 2023-05-04, main language Python
 A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)  
 [http://pyod.readthedocs.io](http://pyod.readthedocs.io)  
 [https://github.com/yzhao062/pyod](https://github.com/yzhao062/pyod)  
-23 stars per week over 291 weeks  
+23 stars per week over 292 weeks  
 6,998 stars, 1,258 forks, 150 watches  
 created 2017-10-03, last commit 2023-03-20, main language Python  
 <sub><sup>anomaly, anomaly-detection, autoencoder, data-analysis, data-mining, data-science, deep-learning, fraud-detection, machine-learning, neural-networks, novelty-detection, out-of-distribution-detection, outlier-detection, outlier-ensembles, outliers, unsupervised-learning</sup></sub>
@@ -235,7 +235,7 @@ created 2017-10-03, last commit 2023-03-20, main language Python
 ### [alembic](https://github.com/sqlalchemy/alembic) by [sqlalchemy](https://github.com/sqlalchemy)  
 A database migrations tool for SQLAlchemy.  
 [https://github.com/sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)  
-8.24 stars per week over 231 weeks  
+8.23 stars per week over 232 weeks  
 1,911 stars, 184 forks, 20 watches  
 created 2018-11-27, last commit 2023-05-04, main language Python  
 <sub><sup>sql, sqlalchemy</sup></sub>
@@ -254,7 +254,7 @@ created 2015-04-17, last commit 2023-05-06, main language Python
 ### [data](https://github.com/pytorch/data) by [pytorch](https://github.com/pytorch)  
 A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.  
 [https://github.com/pytorch/data](https://github.com/pytorch/data)  
-9.31 stars per week over 103 weeks  
+9.28 stars per week over 104 weeks  
 966 stars, 123 forks, 29 watches  
 created 2021-05-12, last commit 2023-05-04, main language Python  
 
@@ -263,7 +263,7 @@ created 2021-05-12, last commit 2023-05-04, main language Python
 python async orm with fastapi in mind and pydantic validation  
 [https://collerek.github.io/ormar/](https://collerek.github.io/ormar/)  
 [https://github.com/collerek/ormar](https://github.com/collerek/ormar)  
-9.11 stars per week over 144 weeks  
+9.08 stars per week over 144 weeks  
 1,313 stars, 65 forks, 17 watches  
 created 2020-08-02, last commit 2023-05-04, main language Python  
 <sub><sup>alembic, async-orm, databases, fastapi, orm, pydantic, python-orm, sqlalchemy</sup></sub>
@@ -282,7 +282,7 @@ created 2014-03-17, last commit 2023-05-05, main language Python
 ### [knowledge-repo](https://github.com/airbnb/knowledge-repo) by [airbnb](https://github.com/airbnb)  
 A next-generation curated knowledge sharing platform for data scientists and other technical professions.  
 [https://github.com/airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo)  
-15 stars per week over 350 weeks  
+15 stars per week over 351 weeks  
 5,317 stars, 710 forks, 174 watches  
 created 2016-08-17, last commit 2023-04-17, main language Python  
 <sub><sup>data, data-analysis, data-science, knowledge</sup></sub>
@@ -292,7 +292,7 @@ created 2016-08-17, last commit 2023-04-17, main language Python
 Synthetic Data Generation for tabular, relational and time series data.  
 [https://sdv.dev/SDV](https://sdv.dev/SDV)  
 [https://github.com/sdv-dev/sdv](https://github.com/sdv-dev/sdv)  
-5.53 stars per week over 260 weeks  
+5.52 stars per week over 260 weeks  
 1,440 stars, 220 forks, 40 watches  
 created 2018-05-11, last commit 2023-05-04, main language Python  
 <sub><sup>data-generation, deep-learning, gan, gans, generative-adversarial-network, generative-ai, generative-model, machine-learning, multi-table, relational-datasets, sdv, synthetic-data, synthetic-data-generation, time-series</sup></sub>
@@ -311,7 +311,7 @@ created 2011-03-28, last commit 2023-04-11, main language Python
 Library for reading and writing large multi-dimensional arrays.  
 [https://google.github.io/tensorstore/](https://google.github.io/tensorstore/)  
 [https://github.com/google/tensorstore](https://github.com/google/tensorstore)  
-7.06 stars per week over 162 weeks  
+7.04 stars per week over 162 weeks  
 1,143 stars, 89 forks, 31 watches  
 created 2020-03-30, last commit 2023-05-04, main language C++  
 
@@ -320,7 +320,7 @@ created 2020-03-30, last commit 2023-05-04, main language C++
 An implementation of chunked, compressed, N-dimensional arrays for Python.  
 [http://zarr.readthedocs.io/](http://zarr.readthedocs.io/)  
 [https://github.com/zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)  
-2.94 stars per week over 385 weeks  
+2.94 stars per week over 386 weeks  
 1,135 stars, 216 forks, 47 watches  
 created 2015-12-15, last commit 2023-05-04, main language Python  
 <sub><sup>compressed, hacktoberfest, ndimensional-arrays, zarr</sup></sub>
@@ -339,7 +339,7 @@ created 2013-01-04, last commit 2023-05-04, main language Python
 ### [pygraphistry](https://github.com/graphistry/pygraphistry) by [graphistry](https://github.com/graphistry)  
 PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer  
 [https://github.com/graphistry/pygraphistry](https://github.com/graphistry/pygraphistry)  
-4.46 stars per week over 413 weeks  
+4.46 stars per week over 414 weeks  
 1,847 stars, 193 forks, 50 watches  
 created 2015-06-02, last commit 2023-05-04, main language Python  
 <sub><sup>csv, cudf, cugraph, gpu, graph, graph-visualization, graphistry, igraph, jupyter, neo4j, network-analysis, network-visualization, networkx, pandas, rapids, splunk, tigergraph, visualization, webgl</sup></sub>
@@ -349,7 +349,7 @@ created 2015-06-02, last commit 2023-05-04, main language Python
 Manipulate JSON-like data with NumPy-like idioms.  
 [https://awkward-array.org](https://awkward-array.org)  
 [https://github.com/scikit-hep/awkward-1.0](https://github.com/scikit-hep/awkward-1.0)  
-3.51 stars per week over 194 weeks  
+3.5 stars per week over 195 weeks  
 683 stars, 72 forks, 20 watches  
 created 2019-08-14, last commit 2023-05-05, main language Python  
 <sub><sup>apache-arrow, cern-root, columnar-format, data-analysis, jagged-array, json, numba, numpy, pandas, ragged-array, scikit-hep</sup></sub>
@@ -359,7 +359,7 @@ created 2019-08-14, last commit 2023-05-05, main language Python
 PyMongo - the Official MongoDB Python driver  
 [https://pymongo.readthedocs.io](https://pymongo.readthedocs.io)  
 [https://github.com/mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver)  
-5.13 stars per week over 746 weeks  
+5.13 stars per week over 747 weeks  
 3,832 stars, 1,105 forks, 239 watches  
 created 2009-01-15, last commit 2023-05-05, main language Python  
 <sub><sup>mongodb, mongodb-driver, pymongo</sup></sub>
@@ -369,7 +369,7 @@ created 2009-01-15, last commit 2023-05-05, main language Python
 Fastest library to load data from DB to DataFrames in Rust and Python  
 [https://sfu-db.github.io/connector-x/intro.html](https://sfu-db.github.io/connector-x/intro.html)  
 [https://github.com/sfu-db/connector-x](https://github.com/sfu-db/connector-x)  
-10 stars per week over 120 weeks  
+10 stars per week over 121 weeks  
 1,235 stars, 90 forks, 28 watches  
 created 2021-01-13, last commit 2023-04-18, main language Rust  
 <sub><sup>database, dataframe, rust, sql</sup></sub>
@@ -379,7 +379,7 @@ created 2021-01-13, last commit 2023-04-18, main language Rust
 A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.  
 [https://fugue-tutorials.readthedocs.io/](https://fugue-tutorials.readthedocs.io/)  
 [https://github.com/fugue-project/fugue](https://github.com/fugue-project/fugue)  
-9.63 stars per week over 162 weeks  
+9.6 stars per week over 163 weeks  
 1,568 stars, 84 forks, 21 watches  
 created 2020-03-24, last commit 2023-05-06, main language Python  
 <sub><sup>dask, data-practitioners, distributed, distributed-computing, distributed-systems, machine-learning, pandas, spark, sql</sup></sub>
@@ -397,7 +397,7 @@ created 2018-03-30, last commit 2022-12-20, main language Python
 ### [kaggle-api](https://github.com/kaggle/kaggle-api) by [kaggle](https://github.com/kaggle)  
 Official Kaggle API  
 [https://github.com/kaggle/kaggle-api](https://github.com/kaggle/kaggle-api)  
-19 stars per week over 275 weeks  
+19 stars per week over 276 weeks  
 5,296 stars, 994 forks, 189 watches  
 created 2018-01-25, last commit 2023-03-01, main language Python  
 
@@ -416,7 +416,7 @@ created 2014-02-21, last commit 2020-08-02, main language Python
 PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.  
 [http://praw.readthedocs.io/](http://praw.readthedocs.io/)  
 [https://github.com/praw-dev/praw](https://github.com/praw-dev/praw)  
-4.65 stars per week over 663 weeks  
+4.65 stars per week over 664 weeks  
 3,086 stars, 454 forks, 72 watches  
 created 2010-08-19, last commit 2023-04-16, main language Python  
 <sub><sup>api, oauth, praw, reddit, reddit-api</sup></sub>
@@ -435,7 +435,7 @@ created 2014-01-20, last commit 2023-04-21, main language Python
 ### [python-bigquery](https://github.com/googleapis/python-bigquery) by [googleapis](https://github.com/googleapis)  
 googleapis/python-bigquery  
 [https://github.com/googleapis/python-bigquery](https://github.com/googleapis/python-bigquery)  
-3.32 stars per week over 177 weeks  
+3.31 stars per week over 178 weeks  
 591 stars, 242 forks, 57 watches  
 created 2019-12-10, last commit 2023-04-20, main language Python  
 
@@ -452,7 +452,7 @@ created 2013-07-08, last commit 2023-05-02, main language Python
 serialize all of python  
 [http://dill.rtfd.io](http://dill.rtfd.io)  
 [https://github.com/uqfoundation/dill](https://github.com/uqfoundation/dill)  
-3.71 stars per week over 514 weeks  
+3.7 stars per week over 514 weeks  
 1,907 stars, 160 forks, 23 watches  
 created 2013-06-28, last commit 2023-04-03, main language Python  
 
@@ -480,7 +480,7 @@ created 2020-08-31, last commit 2022-07-17, main language Python
 Python CLI utility and library for manipulating SQLite databases  
 [https://sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)  
 [https://github.com/simonw/sqlite-utils](https://github.com/simonw/sqlite-utils)  
-4.52 stars per week over 251 weeks  
+4.51 stars per week over 251 weeks  
 1,135 stars, 86 forks, 20 watches  
 created 2018-07-14, last commit 2023-04-13, main language Python  
 <sub><sup>cli, click, datasette, datasette-io, datasette-tool, sqlite, sqlite-database</sup></sub>
@@ -489,7 +489,7 @@ created 2018-07-14, last commit 2023-04-13, main language Python
 ### [petastorm](https://github.com/uber/petastorm) by [uber](https://github.com/uber)  
 Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  
 [https://github.com/uber/petastorm](https://github.com/uber/petastorm)  
-6.32 stars per week over 255 weeks  
+6.31 stars per week over 255 weeks  
 1,614 stars, 274 forks, 43 watches  
 created 2018-06-15, last commit 2023-02-03, main language Python  
 <sub><sup>deep-learning, machine-learning, parquet, parquet-files, pyarrow, pyspark, pytorch, sysml, tensorflow</sup></sub>
@@ -498,7 +498,7 @@ created 2018-06-15, last commit 2023-02-03, main language Python
 ### [sqlparse](https://github.com/andialbrecht/sqlparse) by [andialbrecht](https://github.com/andialbrecht)  
 A non-validating SQL parser module for Python  
 [https://github.com/andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse)  
-5.61 stars per week over 576 weeks  
+5.61 stars per week over 577 weeks  
 3,238 stars, 640 forks, 93 watches  
 created 2012-04-18, last commit 2023-04-18, main language Python  
 
@@ -516,7 +516,7 @@ created 2011-06-03, last commit 2023-04-13, main language Python
 Synthetic data generators for tabular and time-series data  
 [https://datacentricai.community](https://datacentricai.community)  
 [https://github.com/ydataai/ydata-synthetic](https://github.com/ydataai/ydata-synthetic)  
-6.08 stars per week over 157 weeks  
+6.07 stars per week over 157 weeks  
 955 stars, 201 forks, 22 watches  
 created 2020-05-04, last commit 2023-04-29, main language Jupyter Notebook  
 <sub><sup>datageneration, datagenerator, deep-learning, gan, gan-architectures, gans, generative-adversarial-network, machine-learning, pytorch, synthetic-data, tensorflow2, time-series, timeseries, training-data</sup></sub>
@@ -535,7 +535,7 @@ created 2015-11-06, last commit 2023-04-27, main language Python
 Retrieve author and publication information from Google Scholar in a friendly, Pythonic way without having to worry about CAPTCHAs!  
 [https://scholarly.readthedocs.io/](https://scholarly.readthedocs.io/)  
 [https://github.com/scholarly-python-package/scholarly](https://github.com/scholarly-python-package/scholarly)  
-2.13 stars per week over 439 weeks  
+2.13 stars per week over 440 weeks  
 937 stars, 258 forks, 25 watches  
 created 2014-12-02, last commit 2023-01-16, main language Python  
 <sub><sup>citation-analysis, citation-index, citation-network, citations, googlescholar, publication-data, scholar, scholarly-articles, scholarly-communications</sup></sub>
@@ -554,7 +554,7 @@ created 2016-09-30, last commit 2023-05-01, main language Python
 ### [sqlacodegen](https://github.com/agronholm/sqlacodegen) by [agronholm](https://github.com/agronholm)  
 Automatic model code generator for SQLAlchemy  
 [https://github.com/agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen)  
-4.16 stars per week over 331 weeks  
+4.15 stars per week over 332 weeks  
 1,380 stars, 205 forks, 22 watches  
 created 2016-12-28, last commit 2023-04-10, main language Python  
 
@@ -563,7 +563,7 @@ created 2016-12-28, last commit 2023-04-10, main language Python
 Safely pass trusted data to untrusted environments and back.  
 [https://itsdangerous.palletsprojects.com](https://itsdangerous.palletsprojects.com)  
 [https://github.com/pallets/itsdangerous](https://github.com/pallets/itsdangerous)  
-4.29 stars per week over 619 weeks  
+4.28 stars per week over 619 weeks  
 2,655 stars, 218 forks, 57 watches  
 created 2011-06-24, last commit 2023-05-01, main language Python  
 <sub><sup>hmac, itsdangerous, pallets, security, serialization</sup></sub>
@@ -573,7 +573,7 @@ created 2011-06-24, last commit 2023-05-01, main language Python
 aiomysql is a library for accessing a MySQL database from the asyncio  
 [https://aiomysql.rtfd.io](https://aiomysql.rtfd.io)  
 [https://github.com/aio-libs/aiomysql](https://github.com/aio-libs/aiomysql)  
-3.64 stars per week over 434 weeks  
+3.63 stars per week over 435 weeks  
 1,581 stars, 247 forks, 45 watches  
 created 2015-01-07, last commit 2022-11-10, main language Python  
 <sub><sup>aiomysql, async, asyncio, mariadb, mysql, sqlalchemy</sup></sub>
@@ -583,7 +583,7 @@ created 2015-01-07, last commit 2022-11-10, main language Python
 Neo4j Bolt driver for Python  
 [https://neo4j.com/docs/api/python-driver/current/](https://neo4j.com/docs/api/python-driver/current/)  
 [https://github.com/neo4j/neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver)  
-1.89 stars per week over 417 weeks  
+1.89 stars per week over 418 weeks  
 790 stars, 174 forks, 97 watches  
 created 2015-05-05, last commit 2023-04-28, main language Python  
 <sub><sup>binary-protocol, cypher, database-driver, driver, graph-database, neo4j, protocol, query-language</sup></sub>
@@ -593,7 +593,7 @@ created 2015-05-05, last commit 2023-04-28, main language Python
 Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.  
 [https://jsonpickle.github.io](https://jsonpickle.github.io)  
 [https://github.com/jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle)  
-1.61 stars per week over 699 weeks  
+1.61 stars per week over 700 weeks  
 1,129 stars, 158 forks, 34 watches  
 created 2009-12-10, last commit 2023-02-22, main language Python  
 <sub><sup>bsd-3-clause, deserialization, json, objectstorage, pickle, serialization</sup></sub>
@@ -603,7 +603,7 @@ created 2009-12-10, last commit 2023-02-22, main language Python
 advertools - online marketing productivity and analysis tools  
 [https://advertools.readthedocs.io](https://advertools.readthedocs.io)  
 [https://github.com/eliasdabbas/advertools](https://github.com/eliasdabbas/advertools)  
-2.62 stars per week over 312 weeks  
+2.61 stars per week over 312 weeks  
 817 stars, 169 forks, 35 watches  
 created 2017-05-14, last commit 2023-05-05, main language Python  
 <sub><sup>advertising, adwords, digital-marketing, google-ads, keywords, log-analysis, logfile-parser, marketing, online-marketing, robots-txt, scrapy, search-engine-marketing, search-engine-optimization, seo, seo-crawler, serp, social-media, twitter-api, youtube</sup></sub>
@@ -612,7 +612,7 @@ created 2017-05-14, last commit 2023-05-05, main language Python
 ### [biomedical](https://github.com/bigscience-workshop/biomedical) by [bigscience-workshop](https://github.com/bigscience-workshop)  
 Tools for curating biomedical training data for large-scale language modeling   
 [https://github.com/bigscience-workshop/biomedical](https://github.com/bigscience-workshop/biomedical)  
-3.7 stars per week over 85 weeks  
+3.69 stars per week over 86 weeks  
 317 stars, 99 forks, 26 watches  
 created 2021-09-16, last commit 2023-04-05, main language Python  
 
@@ -620,7 +620,7 @@ created 2021-09-16, last commit 2023-04-05, main language Python
 ### [simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
 A very simple Salesforce.com REST API client for Python  
 [https://github.com/simple-salesforce/simple-salesforce](https://github.com/simple-salesforce/simple-salesforce)  
-2.66 stars per week over 537 weeks  
+2.66 stars per week over 538 weeks  
 1,431 stars, 624 forks, 91 watches  
 created 2013-01-17, last commit 2023-01-18, main language Python  
 <sub><sup>api, api-client, salesforce</sup></sub>
@@ -630,7 +630,7 @@ created 2013-01-17, last commit 2023-01-18, main language Python
 ScyllaDB Python Driver, originally DataStax Python Driver for Apache Cassandra  
 [https://python-driver.docs.scylladb.com](https://python-driver.docs.scylladb.com)  
 [https://github.com/scylladb/python-driver](https://github.com/scylladb/python-driver)  
-0.19 stars per week over 232 weeks  
+0.19 stars per week over 233 weeks  
 45 stars, 28 forks, 8 watches  
 created 2018-11-20, last commit 2023-04-24, main language Python  
 <sub><sup>scylladb</sup></sub>
@@ -640,7 +640,7 @@ created 2018-11-20, last commit 2023-04-24, main language Python
 Lightweight, extensible data validation library for Python  
 [http://python-cerberus.org](http://python-cerberus.org)  
 [https://github.com/pyeve/cerberus](https://github.com/pyeve/cerberus)  
-5.39 stars per week over 551 weeks  
+5.39 stars per week over 552 weeks  
 2,974 stars, 232 forks, 49 watches  
 created 2012-10-10, last commit 2021-05-05, main language Python  
 <sub><sup>data-validation</sup></sub>
@@ -669,7 +669,7 @@ created 2019-08-19, last commit 2023-04-27, main language JavaScript
 🐳 The stupidly simple CLI workspace for your data warehouse.  
 [https://rsyi.gitbook.io/whale](https://rsyi.gitbook.io/whale)  
 [https://github.com/hyperqueryhq/whale](https://github.com/hyperqueryhq/whale)  
-4.69 stars per week over 153 weeks  
+4.68 stars per week over 154 weeks  
 721 stars, 38 forks, 41 watches  
 created 2020-05-27, last commit 2022-10-13, main language Python  
 <sub><sup>data-catalog, data-discovery, data-documentation</sup></sub>
@@ -678,7 +678,7 @@ created 2020-05-27, last commit 2022-10-13, main language Python
 ### [flashtext](https://github.com/vi3k6i5/flashtext) by [vi3k6i5](https://github.com/vi3k6i5)  
 Extract Keywords from sentence or Replace keywords in sentences.  
 [https://github.com/vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext)  
-18 stars per week over 298 weeks  
+17 stars per week over 299 weeks  
 5,387 stars, 604 forks, 139 watches  
 created 2017-08-15, last commit 2020-05-03, main language Python  
 <sub><sup>data-extraction, keyword-extraction, nlp, search-in-text, word2vec</sup></sub>
@@ -688,7 +688,7 @@ created 2017-08-15, last commit 2020-05-03, main language Python
 aiopg is a library for accessing a PostgreSQL database from the asyncio  
 [http://aiopg.readthedocs.io](http://aiopg.readthedocs.io)  
 [https://github.com/aio-libs/aiopg](https://github.com/aio-libs/aiopg)  
-2.77 stars per week over 474 weeks  
+2.76 stars per week over 475 weeks  
 1,313 stars, 159 forks, 41 watches  
 created 2014-04-03, last commit 2022-10-26, main language Python  
 <sub><sup>asyncio, postgresql, sqlalchemy</sup></sub>
@@ -698,7 +698,7 @@ created 2014-04-03, last commit 2022-10-26, main language Python
 Uses tokenized query returned by python-sqlparse and generates query metadata  
 [https://pypi.python.org/pypi/sql-metadata](https://pypi.python.org/pypi/sql-metadata)  
 [https://github.com/macbre/sql-metadata](https://github.com/macbre/sql-metadata)  
-1.74 stars per week over 308 weeks  
+1.74 stars per week over 309 weeks  
 538 stars, 90 forks, 14 watches  
 created 2017-06-06, last commit 2023-04-25, main language Python  
 <sub><sup>database, hive, hiveql, metadata, mysql-query, parser, python-package, python3-library, sql, sql-parser, sqlparse</sup></sub>
@@ -708,7 +708,7 @@ created 2017-06-06, last commit 2023-04-25, main language Python
 The Pinecone Python client   
 [https://www.pinecone.io/docs](https://www.pinecone.io/docs)  
 [https://github.com/pinecone-io/pinecone-python-client](https://github.com/pinecone-io/pinecone-python-client)  
-1.17 stars per week over 85 weeks  
+1.16 stars per week over 86 weeks  
 100 stars, 22 forks, 18 watches  
 created 2021-09-16, last commit 2023-05-04, main language Python  
 <sub><sup>vector-search</sup></sub>
@@ -737,7 +737,7 @@ created 2015-05-24, last commit 2022-03-13, main language Python
 Natural Intelligence is still a pretty good idea.  
 [https://koaning.github.io/human-learn/](https://koaning.github.io/human-learn/)  
 [https://github.com/koaning/human-learn](https://github.com/koaning/human-learn)  
-4.79 stars per week over 147 weeks  
+4.77 stars per week over 147 weeks  
 705 stars, 54 forks, 14 watches  
 created 2020-07-11, last commit 2023-03-31, main language Jupyter Notebook  
 <sub><sup>benchmark, machine-learning, scikit-learn</sup></sub>
@@ -747,7 +747,7 @@ created 2020-07-11, last commit 2023-03-31, main language Jupyter Notebook
 Apache Beam pipelines to make weather data accessible and useful.  
 [https://weather-tools.readthedocs.io/](https://weather-tools.readthedocs.io/)  
 [https://github.com/google/weather-tools](https://github.com/google/weather-tools)  
-1.78 stars per week over 76 weeks  
+1.77 stars per week over 76 weeks  
 135 stars, 32 forks, 15 watches  
 created 2021-11-22, last commit 2023-05-03, main language Python  
 <sub><sup>apache-beam, weather</sup></sub>
@@ -756,7 +756,7 @@ created 2021-11-22, last commit 2023-05-03, main language Python
 ### [the-pile](https://github.com/eleutherai/the-pile) by [eleutherai](https://github.com/eleutherai)  
 eleutherai/the-pile  
 [https://github.com/eleutherai/the-pile](https://github.com/eleutherai/the-pile)  
-7.54 stars per week over 140 weeks  
+7.52 stars per week over 141 weeks  
 1,061 stars, 87 forks, 29 watches  
 created 2020-08-26, last commit 2021-06-16, main language Python  
 
@@ -765,7 +765,7 @@ created 2020-08-26, last commit 2021-06-16, main language Python
 A Pythonic wrapper for the Wikipedia API  
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 [https://github.com/goldsmith/wikipedia](https://github.com/goldsmith/wikipedia)  
-5.16 stars per week over 506 weeks  
+5.15 stars per week over 507 weeks  
 2,615 stars, 527 forks, 82 watches  
 created 2013-08-20, last commit 2020-10-09, main language Python  
 
@@ -773,7 +773,7 @@ created 2013-08-20, last commit 2020-10-09, main language Python
 ### [ydata-quality](https://github.com/ydataai/ydata-quality) by [ydataai](https://github.com/ydataai)  
 Data Quality assessment with one line of code  
 [https://github.com/ydataai/ydata-quality](https://github.com/ydataai/ydata-quality)  
-3.7 stars per week over 97 weeks  
+3.68 stars per week over 98 weeks  
 361 stars, 45 forks, 6 watches  
 created 2021-06-24, last commit 2023-04-05, main language Jupyter Notebook  
 <sub><sup>data, machine-learning, pandas, quality-assessment</sup></sub>
@@ -783,7 +783,7 @@ created 2021-06-24, last commit 2023-04-05, main language Jupyter Notebook
 A Python implementation of Amazon Ion.  
 [https://amazon-ion.github.io/ion-docs/](https://amazon-ion.github.io/ion-docs/)  
 [https://github.com/amzn/ion-python](https://github.com/amzn/ion-python)  
-0.61 stars per week over 369 weeks  
+0.61 stars per week over 370 weeks  
 227 stars, 51 forks, 23 watches  
 created 2016-04-07, last commit 2023-04-17, main language Python  
 
@@ -792,7 +792,7 @@ created 2016-04-07, last commit 2023-04-17, main language Python
 Distributed Computing for AI Made Simple  
 [https://uber.github.io/fiber/](https://uber.github.io/fiber/)  
 [https://github.com/uber/fiber](https://github.com/uber/fiber)  
-5.84 stars per week over 173 weeks  
+5.83 stars per week over 174 weeks  
 1,016 stars, 116 forks, 22 watches  
 created 2020-01-07, last commit 2021-03-15, main language Python  
 <sub><sup>distributed-computing, machine-learning, multiprocessing, sandbox</sup></sub>
@@ -810,7 +810,7 @@ created 2020-05-02, last commit 2023-03-27, main language Python
 ### [psaw](https://github.com/dmarx/psaw) by [dmarx](https://github.com/dmarx)  
 Python Pushshift.io API Wrapper (for comment/submission search)  
 [https://github.com/dmarx/psaw](https://github.com/dmarx/psaw)  
-1.31 stars per week over 264 weeks  
+1.3 stars per week over 264 weeks  
 345 stars, 56 forks, 9 watches  
 created 2018-04-15, last commit 2022-07-09, main language Python  
 
@@ -818,15 +818,24 @@ created 2018-04-15, last commit 2022-07-09, main language Python
 ### [omniduct](https://github.com/airbnb/omniduct) by [airbnb](https://github.com/airbnb)  
 A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).  
 [https://github.com/airbnb/omniduct](https://github.com/airbnb/omniduct)  
-0.76 stars per week over 323 weeks  
+0.76 stars per week over 324 weeks  
 247 stars, 50 forks, 30 watches  
 created 2017-02-22, last commit 2022-05-09, main language Python  
+
+
+### [arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets) by [mattbierbaum](https://github.com/mattbierbaum)  
+A set of scripts to grab public datasets from resources related to arXiv  
+[https://arxiv.org/abs/1905.00075](https://arxiv.org/abs/1905.00075)  
+[https://github.com/mattbierbaum/arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets)  
+1.23 stars per week over 223 weeks  
+274 stars, 48 forks, 15 watches  
+created 2019-01-29, last commit 2022-07-15, main language Python  
 
 
 ### [qdrant-haystack](https://github.com/qdrant/qdrant-haystack) by [qdrant](https://github.com/qdrant)  
 An integration of Qdrant ANN vector database backend with Haystack   
 [https://github.com/qdrant/qdrant-haystack](https://github.com/qdrant/qdrant-haystack)  
-1.44 stars per week over 13 weeks  
+1.4 stars per week over 14 weeks  
 20 stars, 3 forks, 3 watches  
 created 2023-01-31, last commit 2023-04-14, main language Python  
 <sub><sup>haystack</sup></sub>
@@ -846,7 +855,7 @@ created 2013-11-01, last commit 2023-05-01, main language Python
 Genalog is an open source, cross-platform python package allowing generation of synthetic document images with custom degradations and text alignment capabilities.  
 [https://microsoft.github.io/genalog/](https://microsoft.github.io/genalog/)  
 [https://github.com/microsoft/genalog](https://github.com/microsoft/genalog)  
-1.63 stars per week over 151 weeks  
+1.62 stars per week over 151 weeks  
 246 stars, 24 forks, 11 watches  
 created 2020-06-15, last commit 2023-02-14, main language Jupyter Notebook  
 <sub><sup>data-generation, data-science, machine-learning, ner, ocr-recognition, synthetic-data, synthetic-data-generation, synthetic-images, text-alignment</sup></sub>
@@ -856,7 +865,7 @@ created 2020-06-15, last commit 2023-02-14, main language Jupyter Notebook
 Generate and Visualize Data Lineage from query history  
 [https://tokern.io/data-lineage/](https://tokern.io/data-lineage/)  
 [https://github.com/tokern/data-lineage](https://github.com/tokern/data-lineage)  
-1.56 stars per week over 163 weeks  
+1.56 stars per week over 164 weeks  
 256 stars, 33 forks, 8 watches  
 created 2020-03-17, last commit 2022-05-02, main language Python  
 <sub><sup>data-governance, data-lineage, jupyter, postgresql</sup></sub>
@@ -865,7 +874,7 @@ created 2020-03-17, last commit 2022-05-02, main language Python
 ### [semantic-search-through-wikipedia-with-weaviate](https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate) by [weaviate](https://github.com/weaviate)  
 Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine  
 [https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate](https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate)  
-2.7 stars per week over 79 weeks  
+2.69 stars per week over 80 weeks  
 216 stars, 21 forks, 8 watches  
 created 2021-10-26, last commit 2023-02-17, main language Python  
 <sub><sup>vector-search</sup></sub>
@@ -874,7 +883,7 @@ created 2021-10-26, last commit 2023-02-17, main language Python
 ### [sota-extractor](https://github.com/paperswithcode/sota-extractor) by [paperswithcode](https://github.com/paperswithcode)  
 The SOTA extractor pipeline  
 [https://github.com/paperswithcode/sota-extractor](https://github.com/paperswithcode/sota-extractor)  
-1.11 stars per week over 230 weeks  
+1.1 stars per week over 230 weeks  
 255 stars, 28 forks, 13 watches  
 created 2018-12-07, last commit 2022-03-09, main language Python  
 
@@ -882,7 +891,7 @@ created 2018-12-07, last commit 2022-03-09, main language Python
 ### [opendatasets](https://github.com/jovianml/opendatasets) by [jovianml](https://github.com/jovianml)  
 A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.  
 [https://github.com/jovianml/opendatasets](https://github.com/jovianml/opendatasets)  
-1.9 stars per week over 137 weeks  
+1.9 stars per week over 138 weeks  
 262 stars, 126 forks, 13 watches  
 created 2020-09-17, last commit 2022-11-01, main language Python  
 <sub><sup>data-science, datasets, machine-learning</sup></sub>
@@ -891,7 +900,7 @@ created 2020-09-17, last commit 2022-11-01, main language Python
 ### [SubredditMediaDownloader](https://github.com/psycoguana/subredditmediadownloader) by [psycoguana](https://github.com/psycoguana)  
 Simple Python script to download images and videos from public subreddits without using Reddit's API 😎  
 [https://github.com/psycoguana/subredditmediadownloader](https://github.com/psycoguana/subredditmediadownloader)  
-1.83 stars per week over 63 weeks  
+1.82 stars per week over 63 weeks  
 116 stars, 10 forks, 3 watches  
 created 2022-02-18, last commit 2023-01-17, main language Python  
 
@@ -900,7 +909,7 @@ created 2022-02-18, last commit 2023-01-17, main language Python
 Python module for parsing, analyzing, and manipulating GEDCOM files  
 [https://nickreynke.github.io/python-gedcom/gedcom/index.html](https://nickreynke.github.io/python-gedcom/gedcom/index.html)  
 [https://github.com/nickreynke/python-gedcom](https://github.com/nickreynke/python-gedcom)  
-0.45 stars per week over 277 weeks  
+0.45 stars per week over 278 weeks  
 124 stars, 33 forks, 16 watches  
 created 2018-01-09, last commit 2021-06-03, main language Python  
 <sub><sup>gedcom, gedcom-parser, parser</sup></sub>
@@ -917,7 +926,7 @@ created 2017-12-08, last commit 2019-02-09, main language Python
 ### [malloy-py](https://github.com/malloydata/malloy-py) by [malloydata](https://github.com/malloydata)  
 Python package for executing Malloy  
 [https://github.com/malloydata/malloy-py](https://github.com/malloydata/malloy-py)  
-0.15 stars per week over 26 weeks  
+0.15 stars per week over 27 weeks  
 4 stars, 1 forks, 6 watches  
 created 2022-11-02, last commit 2023-05-04, main language Python  
 <sub><sup>business-analytics, business-intelligence, data, data-modeling, semantic-modeling, sql</sup></sub>
@@ -940,7 +949,7 @@ created 2020-09-11, last commit 2021-12-16, main language Python
 <sub><sup>datasets</sup></sub>
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

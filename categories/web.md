@@ -29,7 +29,7 @@ created 2018-12-08, last commit 2023-05-02, main language Python
 Home Page: https://pyscript.net  Examples: https://pyscript.net/examples  
 [https://github.com/pyscript/pyscript/discussions](https://github.com/pyscript/pyscript/discussions)  
 [https://github.com/pyscript/pyscript](https://github.com/pyscript/pyscript)  
-262 stars per week over 63 weeks  
+260 stars per week over 63 weeks  
 16,533 stars, 1,274 forks, 178 watches  
 created 2022-02-21, last commit 2023-05-06, main language Python  
 <sub><sup>html, javascript, wasm</sup></sub>
@@ -39,7 +39,7 @@ created 2022-02-21, last commit 2023-05-06, main language Python
 🕸 Web apps in pure Python 🐍  
 [https://pynecone.io](https://pynecone.io)  
 [https://github.com/pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)  
-307 stars per week over 27 weeks  
+303 stars per week over 28 weeks  
 8,574 stars, 451 forks, 80 watches  
 created 2022-10-25, last commit 2023-05-05, main language Python  
 <sub><sup>framework, fullstack, infrastructure, open-source, web, webdev</sup></sub>
@@ -49,7 +49,7 @@ created 2022-10-25, last commit 2023-05-05, main language Python
 The Python micro framework for building web applications.  
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 [https://github.com/pallets/flask](https://github.com/pallets/flask)  
-92 stars per week over 682 weeks  
+91 stars per week over 683 weeks  
 62,828 stars, 15,627 forks, 2,132 watches  
 created 2010-04-06, last commit 2023-05-02, main language Python  
 <sub><sup>flask, jinja, pallets, web-framework, werkzeug, wsgi</sup></sub>
@@ -79,7 +79,7 @@ created 2011-02-13, last commit 2023-05-03, main language Python
  Accelerate your web app development  | Build fast. Run fast.  
 [https://sanic.dev](https://sanic.dev)  
 [https://github.com/huge-success/sanic](https://github.com/huge-success/sanic)  
-46 stars per week over 362 weeks  
+46 stars per week over 363 weeks  
 17,030 stars, 1,514 forks, 408 watches  
 created 2016-05-26, last commit 2023-04-09, main language Python  
 <sub><sup>api-server, asgi, asyncio, framework, sanic, web, web-framework, web-server</sup></sub>
@@ -89,7 +89,7 @@ created 2016-05-26, last commit 2023-04-09, main language Python
 Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.  
 [https://flet.dev](https://flet.dev)  
 [https://github.com/flet-dev/flet](https://github.com/flet-dev/flet)  
-88 stars per week over 58 weeks  
+87 stars per week over 59 weeks  
 5,171 stars, 196 forks, 80 watches  
 created 2022-03-24, last commit 2023-05-05, main language Python  
 <sub><sup>android, flutter, ios, server-driven-ui, web</sup></sub>
@@ -99,7 +99,7 @@ created 2022-03-24, last commit 2023-05-05, main language Python
 Asynchronous HTTP client/server framework for asyncio and Python  
 [https://docs.aiohttp.org](https://docs.aiohttp.org)  
 [https://github.com/aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)  
-26 stars per week over 500 weeks  
+26 stars per week over 501 weeks  
 13,520 stars, 1,901 forks, 224 watches  
 created 2013-10-01, last commit 2023-05-02, main language Python  
 <sub><sup>aiohttp, async, asyncio, hacktoberfest, http, http-client, http-server</sup></sub>
@@ -119,7 +119,7 @@ created 2018-06-25, last commit 2023-05-04, main language Python
 A next generation HTTP client for Python. 🦋  
 [https://www.python-httpx.org/](https://www.python-httpx.org/)  
 [https://github.com/encode/httpx](https://github.com/encode/httpx)  
-48 stars per week over 213 weeks  
+48 stars per week over 214 weeks  
 10,450 stars, 692 forks, 108 watches  
 created 2019-04-04, last commit 2023-05-03, main language Python  
 <sub><sup>asyncio, http, trio</sup></sub>
@@ -129,7 +129,7 @@ created 2019-04-04, last commit 2023-05-03, main language Python
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
 [http://www.tornadoweb.org/](http://www.tornadoweb.org/)  
 [https://github.com/tornadoweb/tornado](https://github.com/tornadoweb/tornado)  
-29 stars per week over 712 weeks  
+29 stars per week over 713 weeks  
 21,092 stars, 5,484 forks, 999 watches  
 created 2009-09-09, last commit 2023-05-03, main language Python  
 <sub><sup>asynchronous</sup></sub>
@@ -149,7 +149,7 @@ created 2021-12-06, last commit 2023-05-03, main language Python
 An ASGI web server, for Python. 🦄  
 [https://www.uvicorn.org/](https://www.uvicorn.org/)  
 [https://github.com/encode/uvicorn](https://github.com/encode/uvicorn)  
-21 stars per week over 309 weeks  
+20 stars per week over 310 weeks  
 6,506 stars, 583 forks, 84 watches  
 created 2017-05-31, last commit 2023-05-01, main language Python  
 <sub><sup>asgi, asyncio, http, http-server</sup></sub>
@@ -159,7 +159,7 @@ created 2017-05-31, last commit 2023-05-01, main language Python
 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs  
 [https://django-ninja.rest-framework.com](https://django-ninja.rest-framework.com)  
 [https://github.com/vitalik/django-ninja](https://github.com/vitalik/django-ninja)  
-28 stars per week over 154 weeks  
+27 stars per week over 155 weeks  
 4,341 stars, 276 forks, 61 watches  
 created 2020-05-19, last commit 2023-04-26, main language Python  
 <sub><sup>django, django-ninja, openapi, pydantic, rest-api, swagger, swagger-ui</sup></sub>
@@ -199,7 +199,7 @@ created 2019-10-05, last commit 2023-04-29, main language Python
 GraphQL framework for Python  
 [http://graphene-python.org/](http://graphene-python.org/)  
 [https://github.com/graphql-python/graphene](https://github.com/graphql-python/graphene)  
-19 stars per week over 397 weeks  
+19 stars per week over 398 weeks  
 7,662 stars, 826 forks, 143 watches  
 created 2015-09-24, last commit 2023-03-13, main language Python  
 <sub><sup>framework, graphene, graphql, relay</sup></sub>
@@ -219,7 +219,7 @@ created 2020-02-29, last commit 2023-04-22, main language Python
 The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.  
 [https://falcon.readthedocs.io/en/stable/](https://falcon.readthedocs.io/en/stable/)  
 [https://github.com/falconry/falcon](https://github.com/falconry/falcon)  
-16 stars per week over 543 weeks  
+16 stars per week over 544 weeks  
 9,046 stars, 898 forks, 263 watches  
 created 2012-12-06, last commit 2023-01-18, main language Python  
 <sub><sup>api, api-rest, asgi, framework, http, microservices, rest, web, wsgi</sup></sub>
@@ -249,7 +249,7 @@ created 2012-10-22, last commit 2023-03-22, main language Python
 bottle.py is a fast and simple micro-framework for python web-applications.  
 [http://bottlepy.org/](http://bottlepy.org/)  
 [https://github.com/bottlepy/bottle](https://github.com/bottlepy/bottle)  
-11 stars per week over 722 weeks  
+11 stars per week over 723 weeks  
 7,975 stars, 1,452 forks, 311 watches  
 created 2009-06-30, last commit 2022-09-05, main language Python  
 <sub><sup>bottle, rest, web-framework, wsgi</sup></sub>
@@ -259,7 +259,7 @@ created 2009-06-30, last commit 2022-09-05, main language Python
 An async Python micro framework for building web applications.   
 [https://quart.palletsprojects.com](https://quart.palletsprojects.com)  
 [https://github.com/pallets/quart](https://github.com/pallets/quart)  
-6.32 stars per week over 286 weeks  
+6.31 stars per week over 286 weeks  
 1,810 stars, 112 forks, 27 watches  
 created 2017-11-10, last commit 2023-05-06, main language Python  
 <sub><sup>asgi, asyncio, http-server, quart</sup></sub>
@@ -269,7 +269,7 @@ created 2017-11-10, last commit 2023-05-06, main language Python
 Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask  
 [https://flask-restx.readthedocs.io/en/latest/](https://flask-restx.readthedocs.io/en/latest/)  
 [https://github.com/python-restx/flask-restx](https://github.com/python-restx/flask-restx)  
-10 stars per week over 173 weeks  
+10 stars per week over 174 weeks  
 1,813 stars, 302 forks, 66 watches  
 created 2020-01-09, last commit 2023-03-04, main language Python  
 <sub><sup>api, flask, json, rest, restful, restplus, restx, swagger</sup></sub>
@@ -279,7 +279,7 @@ created 2020-01-09, last commit 2023-03-04, main language Python
 WebSocket client for Python  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
-4.99 stars per week over 644 weeks  
+4.98 stars per week over 645 weeks  
 3,216 stars, 735 forks, 89 watches  
 created 2010-12-28, last commit 2023-04-08, main language Python  
 <sub><sup>rfc-6455, websocket, websocket-client, websockets, websockets-client</sup></sub>
@@ -289,7 +289,7 @@ created 2010-12-28, last commit 2023-04-08, main language Python
 uWSGI application server container  
 [http://projects.unbit.it/uwsgi](http://projects.unbit.it/uwsgi)  
 [https://github.com/unbit/uwsgi](https://github.com/unbit/uwsgi)  
-5.44 stars per week over 604 weeks  
+5.43 stars per week over 604 weeks  
 3,284 stars, 671 forks, 114 watches  
 created 2011-10-09, last commit 2023-03-17, main language C  
 
@@ -307,7 +307,7 @@ created 2016-04-30, last commit 2023-05-04, main language Python
 ### [FastAPI-template](https://github.com/s3rius/fastapi-template) by [s3rius](https://github.com/s3rius)  
 Feature rich robust FastAPI template.  
 [https://github.com/s3rius/fastapi-template](https://github.com/s3rius/fastapi-template)  
-5.81 stars per week over 135 weeks  
+5.79 stars per week over 135 weeks  
 784 stars, 77 forks, 14 watches  
 created 2020-10-05, last commit 2023-04-25, main language Python  
 <sub><sup>aerich, alembic, asynchronous, asyncio, cookiecutter, cookiecutter-python3, cookiecutter-template, fastapi, fastapi-boilerplate, fastapi-template, graphql, opentelemetry, ormar, prometheus, sentry, sqlalchemy-orm, strawberry-graphql, tortoise-orm</sup></sub>
@@ -317,7 +317,7 @@ created 2020-10-05, last commit 2023-04-25, main language Python
 web.py is a web framework for python that is as simple as it is powerful.   
 [http://webpy.org](http://webpy.org)  
 [https://github.com/webpy/webpy](https://github.com/webpy/webpy)  
-7.62 stars per week over 762 weeks  
+7.61 stars per week over 762 weeks  
 5,804 stars, 1,329 forks, 340 watches  
 created 2008-09-29, last commit 2023-04-20, main language Python  
 
@@ -326,7 +326,7 @@ created 2008-09-29, last commit 2023-04-20, main language Python
 Pyramid - A Python web framework  
 [https://trypyramid.com/](https://trypyramid.com/)  
 [https://github.com/pylons/pyramid](https://github.com/pylons/pyramid)  
-5.79 stars per week over 654 weeks  
+5.78 stars per week over 654 weeks  
 3,785 stars, 894 forks, 159 watches  
 created 2010-10-24, last commit 2023-02-16, main language Python  
 <sub><sup>pylons, pyramid, web-framework, wsgi</sup></sub>
@@ -336,7 +336,7 @@ created 2010-10-24, last commit 2023-02-16, main language Python
 Shiny for Python  
 [https://shiny.rstudio.com/py/](https://shiny.rstudio.com/py/)  
 [https://github.com/rstudio/py-shiny](https://github.com/rstudio/py-shiny)  
-4.58 stars per week over 92 weeks  
+4.56 stars per week over 93 weeks  
 425 stars, 22 forks, 22 watches  
 created 2021-07-27, last commit 2023-05-02, main language JavaScript  
 
@@ -345,7 +345,7 @@ created 2021-07-27, last commit 2023-05-02, main language JavaScript
 Fast ASGI web framework for Python  
 [https://www.neoteroi.dev/blacksheep/](https://www.neoteroi.dev/blacksheep/)  
 [https://github.com/neoteroi/blacksheep](https://github.com/neoteroi/blacksheep)  
-5.37 stars per week over 232 weeks  
+5.36 stars per week over 233 weeks  
 1,249 stars, 58 forks, 24 watches  
 created 2018-11-22, last commit 2023-05-05, main language Python  
 <sub><sup>asgi, asyncio, blacksheep, framework, http, http-server, server, web</sup></sub>
@@ -354,7 +354,7 @@ created 2018-11-22, last commit 2023-05-05, main language Python
 ### [fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) by [koxudaxi](https://github.com/koxudaxi)  
 This code generator creates FastAPI app from an openapi file.  
 [https://github.com/koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator)  
-4.71 stars per week over 151 weeks  
+4.7 stars per week over 151 weeks  
 712 stars, 79 forks, 16 watches  
 created 2020-06-14, last commit 2023-04-27, main language Python  
 <sub><sup>fastapi, generator, openapi, pydantic</sup></sub>
@@ -364,7 +364,7 @@ created 2020-06-14, last commit 2023-04-27, main language Python
 fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.  
 [https://github.com/long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache)  
 [https://github.com/long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache)  
-4.82 stars per week over 140 weeks  
+4.81 stars per week over 141 weeks  
 679 stars, 94 forks, 9 watches  
 created 2020-08-25, last commit 2023-04-28, main language Python  
 <sub><sup>cache, fastapi, memcached, redis</sup></sub>
@@ -374,7 +374,7 @@ created 2020-08-25, last commit 2023-04-28, main language Python
 AWS Lambda support for ASGI applications  
 [https://mangum.io/](https://mangum.io/)  
 [https://github.com/jordaneremieff/mangum](https://github.com/jordaneremieff/mangum)  
-5.82 stars per week over 225 weeks  
+5.81 stars per week over 225 weeks  
 1,310 stars, 85 forks, 16 watches  
 created 2019-01-14, last commit 2022-11-27, main language Python  
 <sub><sup>api-gateway, asgi, asyncio, aws, aws-lambda, django, fastapi, lambda, quart, sanic, serverless, starlette</sup></sub>
@@ -384,29 +384,29 @@ created 2019-01-14, last commit 2022-11-27, main language Python
 A dynamic FastAPI router that automatically creates CRUD routes for your models  
 [https://fastapi-crudrouter.awtkns.com](https://fastapi-crudrouter.awtkns.com)  
 [https://github.com/awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter)  
-8.66 stars per week over 124 weeks  
+8.63 stars per week over 124 weeks  
 1,076 stars, 128 forks, 12 watches  
 created 2020-12-19, last commit 2023-01-28, main language Python  
 <sub><sup>api, async, asyncio, code-generation, crud, crud-routes, fastapi, fastapi-crudrouter, framework, openapi, openapi-route, redoc, rest, sql, swagger-ui, web</sup></sub>
-
-
-### [FastAPI-Backend-Template](https://github.com/aeternalis-ingenium/fastapi-backend-template) by [aeternalis-ingenium](https://github.com/aeternalis-ingenium)  
-A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.  
-[https://github.com/aeternalis-ingenium/fastapi-backend-template](https://github.com/aeternalis-ingenium/fastapi-backend-template)  
-15 stars per week over 22 weeks  
-332 stars, 54 forks, 10 watches  
-created 2022-12-05, last commit 2023-05-01, main language Python  
-<sub><sup>alembic, asynchronous, asyncpg, codecov, coverage, docker, docker-compose, fastapi, githubactions, jwt, postgresql, pre-commit, pytest, sqlalchemy</sup></sub>
 
 
 ### [wtforms](https://github.com/wtforms/wtforms)  
 A flexible forms validation and rendering library for Python.  
 [https://wtforms.readthedocs.io](https://wtforms.readthedocs.io)  
 [https://github.com/wtforms/wtforms](https://github.com/wtforms/wtforms)  
-2.78 stars per week over 503 weeks  
+2.78 stars per week over 504 weeks  
 1,399 stars, 381 forks, 49 watches  
 created 2013-09-11, last commit 2023-01-13, main language Python  
 <sub><sup>forms, html, validation, wtforms</sup></sub>
+
+
+### [FastAPI-Backend-Template](https://github.com/aeternalis-ingenium/fastapi-backend-template) by [aeternalis-ingenium](https://github.com/aeternalis-ingenium)  
+A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.  
+[https://github.com/aeternalis-ingenium/fastapi-backend-template](https://github.com/aeternalis-ingenium/fastapi-backend-template)  
+14 stars per week over 22 weeks  
+332 stars, 54 forks, 10 watches  
+created 2022-12-05, last commit 2023-05-01, main language Python  
+<sub><sup>alembic, asynchronous, asyncpg, codecov, coverage, docker, docker-compose, fastapi, githubactions, jwt, postgresql, pre-commit, pytest, sqlalchemy</sup></sub>
 
 
 ### [waitress](https://github.com/pylons/waitress) by [pylons](https://github.com/pylons)  
@@ -422,7 +422,7 @@ created 2011-12-17, last commit 2023-04-06, main language Python
 ### [Astra](https://github.com/flipkart-incubator/astra) by [flipkart-incubator](https://github.com/flipkart-incubator)  
 Automated Security Testing For REST API's  
 [https://github.com/flipkart-incubator/astra](https://github.com/flipkart-incubator/astra)  
-8.01 stars per week over 277 weeks  
+8.0 stars per week over 278 weeks  
 2,225 stars, 371 forks, 84 watches  
 created 2018-01-10, last commit 2023-02-16, main language Python  
 <sub><sup>ci-cd, owasp, penetration-testing, penetration-testing-framework, postman-collection, restapiautomation, sdlc, security, security-automation</sup></sub>
@@ -431,7 +431,7 @@ created 2018-01-10, last commit 2023-02-16, main language Python
 ### [pyscript-cli](https://github.com/pyscript/pyscript-cli) by [pyscript](https://github.com/pyscript)  
 A CLI for PyScript  
 [https://github.com/pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli)  
-2.84 stars per week over 53 weeks  
+2.82 stars per week over 53 weeks  
 151 stars, 15 forks, 12 watches  
 created 2022-05-01, last commit 2023-04-24, main language Python  
 
@@ -448,7 +448,7 @@ created 2014-10-20, last commit 2023-03-19, main language Python
 ### [hstream](https://github.com/conradbez/hstream) by [conradbez](https://github.com/conradbez)  
 Hyper Stream  
 [https://github.com/conradbez/hstream](https://github.com/conradbez/hstream)  
-10 stars per week over 26 weeks  
+10 stars per week over 27 weeks  
 270 stars, 11 forks, 6 watches  
 created 2022-11-03, last commit 2023-02-10, main language Python  
 
@@ -456,7 +456,7 @@ created 2022-11-03, last commit 2023-02-10, main language Python
 ### [muffin](https://github.com/klen/muffin) by [klen](https://github.com/klen)  
 Muffin is a fast, simple and asyncronous web-framework for Python 3  
 [https://github.com/klen/muffin](https://github.com/klen/muffin)  
-1.46 stars per week over 430 weeks  
+1.46 stars per week over 431 weeks  
 631 stars, 25 forks, 32 watches  
 created 2015-02-03, last commit 2023-04-11, main language Python  
 <sub><sup>asgi, asyncio, curio, muffin, trio, webframework</sup></sub>
@@ -474,7 +474,7 @@ created 2011-09-17, last commit 2023-01-23, main language Python
 ### [httptools](https://github.com/magicstack/httptools) by [magicstack](https://github.com/magicstack)  
 Fast HTTP parser  
 [https://github.com/magicstack/httptools](https://github.com/magicstack/httptools)  
-3.01 stars per week over 367 weeks  
+3.0 stars per week over 367 weeks  
 1,103 stars, 75 forks, 40 watches  
 created 2016-04-25, last commit 2022-09-13, main language Python  
 
@@ -482,7 +482,7 @@ created 2016-04-25, last commit 2022-09-13, main language Python
 ### [fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate) by [rawheel](https://github.com/rawheel)  
 Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀   
 [https://github.com/rawheel/fastapi-boilerplate](https://github.com/rawheel/fastapi-boilerplate)  
-6.57 stars per week over 18 weeks  
+6.43 stars per week over 19 weeks  
 123 stars, 10 forks, 1 watches  
 created 2022-12-28, last commit 2023-01-07, main language Python  
 <sub><sup>alembic, boilerplate, docker, docker-compose, fastapi, fastapi-boilerplate, fastapi-sqlalchemy, orm, poetry-python, postgresql, pydantic, sqlalchemy, sqlalchemy-orm</sup></sub>
@@ -496,7 +496,7 @@ FastAPI client generator
 created 2019-08-03, last commit 2021-02-11, main language Python  
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

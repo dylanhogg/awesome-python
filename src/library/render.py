@@ -17,13 +17,25 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     assert "category" in df.columns
     assert "customabout" in df.columns
     assert "customtopics" in df.columns
+    assert "customarxiv" in df.columns
+    assert "custompypi" in df.columns
+    # TODO: add customhf
 
+    # Processing on input csv data
     df["githuburl"] = df["githuburl"].apply(lambda x: x.strip().lower())
     df["customabout"] = df["customabout"].apply(lambda x: x.strip() if type(x) == str else None)
     df["customtopics"] = df["customtopics"].apply(
         lambda x: list(set(x.strip().strip(",").lower().replace(" ", "").split(","))) if type(x) == str else []
     )
+    df["customarxiv"] = df["customarxiv"].apply(
+        # NOTE: HACK: lstrip "a" since include "a" prefix for str type in google sheet :(
+        lambda x: list(set(x.strip().lstrip("a").strip(",").replace(" ", "").split(","))) if type(x) == str else []
+    )
+    df["custompypi"] = df["custompypi"].apply(
+        lambda x: list(set(x.strip().strip(",").replace(" ", "").split(","))) if type(x) == str else []
+    )
 
+    # Check for duplicated githuburls
     duplicated_githuburls = df[df.duplicated(subset=["githuburl"])]
     duplicated_count = len(duplicated_githuburls)
     if duplicated_count > 0:
@@ -152,6 +164,7 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     logger.info(f"Calculate similarity metrics...")
     records = df[["_repopath", "_reponame", "category", "_description", "_topics"]].to_dict("records")
     lookup_dict = similarity.get_lookup_dict(records)
+    logger.info(f"Apply similarity metrics...")
     df["sim"] = df.apply(
         lambda row: similarity.lookup_similarity_record(row, lookup_dict),
         axis=1,
