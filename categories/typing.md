@@ -18,7 +18,7 @@ created 2012-12-07, last commit 2023-05-05, main language Python
 ### [pyright](https://github.com/microsoft/pyright) by [microsoft](https://github.com/microsoft)  
 Static Type Checker for Python  
 [https://github.com/microsoft/pyright](https://github.com/microsoft/pyright)  
-47 stars per week over 216 weeks  
+46 stars per week over 217 weeks  
 10,211 stars, 1,025 forks, 100 watches  
 created 2019-03-12, last commit 2023-05-06, main language Python  
 <sub><sup>typechecker</sup></sub>
@@ -38,7 +38,7 @@ created 2017-11-10, last commit 2023-05-06, main language OCaml
 Python Classes Without Boilerplate  
 [https://www.attrs.org/](https://www.attrs.org/)  
 [https://github.com/python-attrs/attrs](https://github.com/python-attrs/attrs)  
-10 stars per week over 431 weeks  
+10 stars per week over 432 weeks  
 4,734 stars, 338 forks, 61 watches  
 created 2015-01-27, last commit 2023-05-03, main language Python  
 <sub><sup>attributes, boilerplate, classes, oop</sup></sub>
@@ -48,7 +48,7 @@ created 2015-01-27, last commit 2023-05-03, main language Python
 A static type analyzer for Python code  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 [https://github.com/google/pytype](https://github.com/google/pytype)  
-9.88 stars per week over 424 weeks  
+9.87 stars per week over 425 weeks  
 4,197 stars, 273 forks, 56 watches  
 created 2015-03-18, last commit 2023-05-04, main language Python  
 <sub><sup>linter, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
@@ -76,7 +76,7 @@ created 2021-03-28, last commit 2023-03-16, main language Python
 Complex custom class converters for attrs.  
 [https://catt.rs](https://catt.rs)  
 [https://github.com/python-attrs/cattrs](https://github.com/python-attrs/cattrs)  
-1.8 stars per week over 349 weeks  
+1.79 stars per week over 349 weeks  
 627 stars, 90 forks, 18 watches  
 created 2016-08-28, last commit 2023-04-15, main language Python  
 <sub><sup>attrs, deserialization, serialization</sup></sub>
@@ -85,12 +85,12 @@ created 2016-08-28, last commit 2023-04-15, main language Python
 ### [autotyping](https://github.com/jellezijlstra/autotyping) by [jellezijlstra](https://github.com/jellezijlstra)  
 jellezijlstra/autotyping  
 [https://github.com/jellezijlstra/autotyping](https://github.com/jellezijlstra/autotyping)  
-1.45 stars per week over 97 weeks  
+1.44 stars per week over 97 weeks  
 141 stars, 10 forks, 5 watches  
 created 2021-06-25, last commit 2023-03-28, main language Python  
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -8,7 +8,7 @@ Checkout the interactive version that you can filter and sort:
 ### [PySnooper](https://github.com/cool-rr/pysnooper) by [cool-rr](https://github.com/cool-rr)  
 Never use print for debugging again  
 [https://github.com/cool-rr/pysnooper](https://github.com/cool-rr/pysnooper)  
-74 stars per week over 211 weeks  
+74 stars per week over 212 weeks  
 15,836 stars, 940 forks, 234 watches  
 created 2019-04-18, last commit 2023-04-12, main language Python  
 <sub><sup>debug, debugger, introspection, logging</sup></sub>
@@ -17,7 +17,7 @@ created 2019-04-18, last commit 2023-04-12, main language Python
 ### [icecream](https://github.com/gruns/icecream) by [gruns](https://github.com/gruns)  
 🍦 Never use print() to debug again.  
 [https://github.com/gruns/icecream](https://github.com/gruns/icecream)  
-24 stars per week over 272 weeks  
+24 stars per week over 273 weeks  
 6,742 stars, 137 forks, 51 watches  
 created 2018-02-13, last commit 2022-12-04, main language Python  
 <sub><sup>debug, debugging, debugging-tool, inspects, print</sup></sub>
@@ -45,7 +45,7 @@ created 2011-01-15, last commit 2023-04-11, main language Python
 ### [rebound](https://github.com/shobrook/rebound) by [shobrook](https://github.com/shobrook)  
 Command-line tool that instantly fetches Stack Overflow results when an exception is thrown  
 [https://github.com/shobrook/rebound](https://github.com/shobrook/rebound)  
-14 stars per week over 270 weeks  
+14 stars per week over 271 weeks  
 4,017 stars, 379 forks, 78 watches  
 created 2018-02-28, last commit 2022-02-16, main language Python  
 <sub><sup>command-line-interface, command-line-tool, error-messages, stackoverflow, terminal-app</sup></sub>
@@ -54,7 +54,7 @@ created 2018-02-28, last commit 2022-02-16, main language Python
 ### [snoop](https://github.com/alexmojaki/snoop) by [alexmojaki](https://github.com/alexmojaki)  
 A powerful set of Python debugging tools, based on PySnooper  
 [https://github.com/alexmojaki/snoop](https://github.com/alexmojaki/snoop)  
-4.42 stars per week over 208 weeks  
+4.41 stars per week over 208 weeks  
 920 stars, 32 forks, 18 watches  
 created 2019-05-13, last commit 2022-12-22, main language Python  
 <sub><sup>debugger, debugging, debugging-tools, logging</sup></sub>
@@ -83,13 +83,13 @@ created 2017-07-22, last commit 2022-05-18, main language JavaScript
 ### [heartrate](https://github.com/alexmojaki/heartrate) by [alexmojaki](https://github.com/alexmojaki)  
 Simple real time visualisation of the execution of a Python program.  
 [https://github.com/alexmojaki/heartrate](https://github.com/alexmojaki/heartrate)  
-7.71 stars per week over 210 weeks  
+7.69 stars per week over 211 weeks  
 1,624 stars, 123 forks, 34 watches  
 created 2019-04-24, last commit 2021-11-13, main language Python  
 <sub><sup>debugger, visualization</sup></sub>
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

@@ -19,7 +19,7 @@ created 2010-09-13, last commit 2023-05-05, main language Python
 SciPy library main repository  
 [https://scipy.org](https://scipy.org)  
 [https://github.com/scipy/scipy](https://github.com/scipy/scipy)  
-17 stars per week over 634 weeks  
+17 stars per week over 635 weeks  
 11,193 stars, 4,709 forks, 349 watches  
 created 2011-03-09, last commit 2023-05-05, main language Python  
 <sub><sup>algorithms, closember, scientific-computing, scipy</sup></sub>
@@ -39,7 +39,7 @@ created 2010-04-30, last commit 2023-05-05, main language Python
 NumPy & SciPy for GPU  
 [https://cupy.dev](https://cupy.dev)  
 [https://github.com/cupy/cupy](https://github.com/cupy/cupy)  
-20 stars per week over 339 weeks  
+20 stars per week over 340 weeks  
 6,875 stars, 683 forks, 128 watches  
 created 2016-11-01, last commit 2023-04-27, main language Python  
 <sub><sup>cublas, cuda, cudnn, cupy, curand, cusolver, cusparse, cusparselt, cutensor, gpu, nccl, numpy, nvrtc, nvtx, rocm, scipy, tensor</sup></sub>
@@ -48,7 +48,7 @@ created 2016-11-01, last commit 2023-04-27, main language Python
 ### [theseus](https://github.com/facebookresearch/theseus) by [facebookresearch](https://github.com/facebookresearch)  
 A library for differentiable nonlinear optimization  
 [https://github.com/facebookresearch/theseus](https://github.com/facebookresearch/theseus)  
-16 stars per week over 76 weeks  
+16 stars per week over 77 weeks  
 1,289 stars, 90 forks, 25 watches  
 created 2021-11-18, last commit 2023-05-04, main language Python  
 <sub><sup>bilevel-optimization, computer-vision, deep-learning, differentiable-optimization, embodied-ai, gauss-newton, implicit-differentiation, levenberg-marquardt, nonlinear-least-squares, pytorch, robotics</sup></sub>
@@ -68,7 +68,7 @@ created 2016-05-27, last commit 2023-05-05, main language Python
 Python library for arbitrary-precision floating-point arithmetic  
 [http://mpmath.org](http://mpmath.org)  
 [https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
-1.29 stars per week over 595 weeks  
+1.29 stars per week over 596 weeks  
 770 stars, 160 forks, 38 watches  
 created 2011-12-07, last commit 2023-04-30, main language Python  
 <sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, special-functions</sup></sub>
@@ -87,7 +87,7 @@ created 2020-12-06, last commit 2023-05-03, main language Python
 ### [torchsde](https://github.com/google-research/torchsde) by [google-research](https://github.com/google-research)  
 Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
 [https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
-8.45 stars per week over 148 weeks  
+8.43 stars per week over 148 weeks  
 1,251 stars, 152 forks, 35 watches  
 created 2020-07-06, last commit 2021-07-26, main language Python  
 <sub><sup>deep-learning, deep-neural-networks, differential-equations, dynamical-systems, neural-differential-equations, pytorch, stochastic-differential-equations, stochastic-processes, stochastic-volatility-models</sup></sub>
@@ -96,7 +96,7 @@ created 2020-07-06, last commit 2021-07-26, main language Python
 ### [tfcausalimpact](https://github.com/willianfuks/tfcausalimpact) by [willianfuks](https://github.com/willianfuks)  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 [https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
-2.92 stars per week over 142 weeks  
+2.91 stars per week over 142 weeks  
 415 stars, 53 forks, 10 watches  
 created 2020-08-17, last commit 2022-12-20, main language Python  
 <sub><sup>causal-inference, causalimpact, tensorflow-probability</sup></sub>
@@ -105,7 +105,7 @@ created 2020-08-17, last commit 2022-12-20, main language Python
 ### [AI-Feynman](https://github.com/sj001/ai-feynman) by [sj001](https://github.com/sj001)  
 sj001/AI-Feynman  
 [https://github.com/sj001/ai-feynman](https://github.com/sj001/ai-feynman)  
-3.05 stars per week over 165 weeks  
+3.04 stars per week over 165 weeks  
 504 stars, 151 forks, 24 watches  
 created 2020-03-08, last commit 2021-05-16, main language Python  
 
@@ -133,7 +133,7 @@ created 2018-03-09, last commit 2023-03-06, main language C++
 ### [pycircular](https://github.com/albahnsen/pycircular) by [albahnsen](https://github.com/albahnsen)  
 pycircular is a Python module for circular data analysis  
 [https://github.com/albahnsen/pycircular](https://github.com/albahnsen/pycircular)  
-2.06 stars per week over 34 weeks  
+2.03 stars per week over 34 weeks  
 70 stars, 4 forks, 5 watches  
 created 2022-09-12, last commit 2023-01-21, main language Python  
 
@@ -146,7 +146,7 @@ PaCAL - ProbAbilistic CALculator
 created 2014-08-04, last commit 2022-11-02, main language Python  
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

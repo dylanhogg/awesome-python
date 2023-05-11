@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
 [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)  
 [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-38 stars per week over 512 weeks  
+37 stars per week over 512 weeks  
 19,476 stars, 1,829 forks, 226 watches  
 created 2013-07-14, last commit 2022-09-09, main language Python  
 <sub><sup>cookiecutter</sup></sub>
@@ -28,7 +28,7 @@ created 2019-02-23, last commit 2020-06-05, main language Python
 🛠 Python project template generator with batteries included  
 [https://pyscaffold.org](https://pyscaffold.org)  
 [https://github.com/pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)  
-3.76 stars per week over 474 weeks  
+3.75 stars per week over 475 weeks  
 1,783 stars, 175 forks, 41 watches  
 created 2014-04-02, last commit 2023-04-18, main language Python  
 <sub><sup>distribution, git, package, package-creation, project-template, release-automation, template-project</sup></sub>
@@ -47,7 +47,7 @@ created 2015-10-30, last commit 2022-03-11, main language Python
 ### [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) by [ionelmc](https://github.com/ionelmc)  
 Enhanced cookiecutter template for Python libraries.  
 [https://github.com/ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary)  
-2.43 stars per week over 466 weeks  
+2.43 stars per week over 467 weeks  
 1,133 stars, 199 forks, 23 watches  
 created 2014-05-28, last commit 2023-05-03, main language Python  
 <sub><sup>cookiecutter, cookiecutter-template, template</sup></sub>
@@ -56,7 +56,7 @@ created 2014-05-28, last commit 2023-05-03, main language Python
 ### [fastapi-react](https://github.com/buuntu/fastapi-react) by [buuntu](https://github.com/buuntu)  
 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker  
 [https://github.com/buuntu/fastapi-react](https://github.com/buuntu/fastapi-react)  
-9.86 stars per week over 163 weeks  
+9.83 stars per week over 163 weeks  
 1,610 stars, 263 forks, 39 watches  
 created 2020-03-21, last commit 2022-02-18, main language Python  
 <sub><sup>boilerplate, cookiecutter, docker, fastapi, full-stack, jwt, nginx, oauth2, postgres, react, react-admin, sqlalchemy, typescript</sup></sub>
@@ -65,7 +65,7 @@ created 2020-03-21, last commit 2022-02-18, main language Python
 ### [python-package-template](https://github.com/tezromach/python-package-template) by [tezromach](https://github.com/tezromach)  
 🚀 Your next Python package needs a bleeding-edge project structure.  
 [https://github.com/tezromach/python-package-template](https://github.com/tezromach/python-package-template)  
-6.02 stars per week over 159 weeks  
+6.01 stars per week over 160 weeks  
 962 stars, 96 forks, 7 watches  
 created 2020-04-15, last commit 2022-05-18, main language Python  
 <sub><sup>best-practices, codestyle, cookiecutter, formatters, makefile, poetry, python-packages, semantic-versions, template</sup></sub>
@@ -83,7 +83,7 @@ created 2018-11-26, last commit 2023-01-03, main language Python
 ### [fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template) by [janetech-inc](https://github.com/janetech-inc)  
  A test driven micro-service template to build and deploy a fast-api service with admin feature.  
 [https://github.com/janetech-inc/fast-api-admin-template](https://github.com/janetech-inc/fast-api-admin-template)  
-8.71 stars per week over 11 weeks  
+8.4 stars per week over 12 weeks  
 102 stars, 10 forks, 4 watches  
 created 2023-02-15, last commit 2023-03-01, main language JavaScript  
 
@@ -101,7 +101,7 @@ created 2020-11-15, last commit 2023-04-25, main language Python
 ### [cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience) by [crmne](https://github.com/crmne)  
 Start a data science project with modern tools  
 [https://github.com/crmne/cookiecutter-modern-datascience](https://github.com/crmne/cookiecutter-modern-datascience)  
-1.01 stars per week over 148 weeks  
+1.0 stars per week over 148 weeks  
 149 stars, 34 forks, 3 watches  
 created 2020-07-06, last commit 2022-06-10, main language Python  
 <sub><sup>cookiecutter, cookiecutter-data-science, cookiecutter-template, datascience</sup></sub>
@@ -110,7 +110,7 @@ created 2020-07-06, last commit 2022-06-10, main language Python
 ### [python-project-template](https://github.com/dylanhogg/python-project-template) by [dylanhogg](https://github.com/dylanhogg)  
 A quick-start Python project template with helpful functionality and common libraries.  
 [https://github.com/dylanhogg/python-project-template](https://github.com/dylanhogg/python-project-template)  
-0.01 stars per week over 168 weeks  
+0.01 stars per week over 169 weeks  
 1 stars, 0 forks, 2 watches  
 created 2020-02-12, last commit 2023-03-30, main language Python  
 <sub><sup>cookiecutter, jupyterlab, template</sup></sub>
@@ -134,7 +134,7 @@ Build a high-performance Python function in AWS lambda using asyncio, aiohttp an
 created 2020-06-27, last commit 2020-07-01, main language Python  
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 

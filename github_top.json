@@ -96,6 +96,92 @@
     "data": [
         {
             "index": 0,
+            "category": "awesome",
+            "_organization": "vinta",
+            "_repopath": "vinta/awesome-python",
+            "_reponame": "awesome-python",
+            "_stars": 167201,
+            "_forks": 23121,
+            "_watches": 5791,
+            "_language": "Python",
+            "_homepage": "https://awesome-python.com/",
+            "_description": "A curated list of awesome Python frameworks, libraries, software and resources",
+            "_updated_at": "2023-05-10T00:00:00.000Z",
+            "_created_at": "2014-06-27T00:00:00.000Z",
+            "_age_weeks": 462,
+            "_stars_per_week": 361.24,
+            "_topics": [
+                "awesome",
+                "collections",
+                "python-framework",
+                "python-resources"
+            ],
+            "_last_commit_date": "2023-03-30T00:00:00.000Z",
+            "_pop_score": 74.68,
+            "_readme_filename": "README.md",
+            "_requirements_filenames": [
+                "requirements.txt"
+            ],
+            "rank": 1
+        },
+        {
+            "index": 1,
+            "category": "awesome",
+            "_organization": "eugeneyan",
+            "_repopath": "eugeneyan/open-llms",
+            "_reponame": "open-llms",
+            "_stars": 2858,
+            "_forks": 148,
+            "_watches": 68,
+            "_language": null,
+            "_homepage": "",
+            "_description": "\ud83e\udd16 A list of open LLMs available for commercial use.",
+            "_updated_at": "2023-05-10T00:00:00.000Z",
+            "_created_at": "2023-05-05T00:00:00.000Z",
+            "_age_weeks": 0,
+            "_stars_per_week": 3334.33,
+            "_topics": [
+                "commercial",
+                "large-language-models",
+                "llm",
+                "llms"
+            ],
+            "_last_commit_date": "2023-05-10T00:00:00.000Z",
+            "_pop_score": 65.93,
+            "_readme_filename": "README.md",
+            "_requirements_filenames": [],
+            "rank": 2
+        },
+        {
+            "index": 2,
+            "category": "awesome",
+            "_organization": "mooler0410",
+            "_repopath": "mooler0410/llmspracticalguide",
+            "_reponame": "LLMsPracticalGuide",
+            "_stars": 3359,
+            "_forks": 219,
+            "_watches": 74,
+            "_language": null,
+            "_homepage": "https://arxiv.org/abs/2304.13712v2",
+            "_description": "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",
+            "_updated_at": "2023-05-10T00:00:00.000Z",
+            "_created_at": "2023-04-23T00:00:00.000Z",
+            "_age_weeks": 2,
+            "_stars_per_week": 1306.28,
+            "_topics": [
+                "large-language-models",
+                "natural-language-processing",
+                "nlp",
+                "survey"
+            ],
+            "_last_commit_date": "2023-05-10T00:00:00.000Z",
+            "_pop_score": 65.68,
+            "_readme_filename": "README.md",
+            "_requirements_filenames": [],
+            "rank": 3
+        },
+        {
+            "index": 3,
             "category": "chatgpt",
             "_organization": "hwchase17",
             "_repopath": "hwchase17/langchain",
@@ -109,11 +195,11 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-10-17T00:00:00.000Z",
             "_age_weeks": 29,
-            "_stars_per_week": 1209.72,
+            "_stars_per_week": 1192.11,
             "_topics": [
+                "chatbot",
                 "language-model",
-                "langchain",
-                "chatbot"
+                "langchain"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
             "_pop_score": 86.37,
@@ -124,7 +210,7 @@
             "rank": 1
         },
         {
-            "index": 1,
+            "index": 4,
             "category": "chatgpt",
             "_organization": "hpcaitech",
             "_repopath": "hpcaitech/colossalai",
@@ -137,8 +223,8 @@
             "_description": "Making large AI models cheaper, faster and more accessible",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2021-10-28T00:00:00.000Z",
-            "_age_weeks": 79,
-            "_stars_per_week": 367.19,
+            "_age_weeks": 80,
+            "_stars_per_week": 365.23,
             "_topics": [
                 "deep-learning",
                 "hpc",
@@ -154,7 +240,7 @@
                 "foundation-models"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 85.88,
+            "_pop_score": 85.83,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -162,7 +248,7 @@
             "rank": 2
         },
         {
-            "index": 2,
+            "index": 5,
             "category": "chatgpt",
             "_organization": "torantulino",
             "_repopath": "torantulino/auto-gpt",
@@ -175,8 +261,8 @@
             "_description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2023-03-16T00:00:00.000Z",
-            "_age_weeks": 7,
-            "_stars_per_week": 16535.19,
+            "_age_weeks": 8,
+            "_stars_per_week": 15649.38,
             "_topics": [
                 "autonomous-agents",
                 "ai",
@@ -194,7 +280,7 @@
             "rank": 3
         },
         {
-            "index": 3,
+            "index": 6,
             "category": "crypto",
             "_organization": "freqtrade",
             "_repopath": "freqtrade/freqtrade",
@@ -207,8 +293,8 @@
             "_description": "Free, open source crypto trading bot",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2017-05-17T00:00:00.000Z",
-            "_age_weeks": 311,
-            "_stars_per_week": 69.06,
+            "_age_weeks": 312,
+            "_stars_per_week": 68.97,
             "_topics": [
                 "cryptocurrencies",
                 "trading-bot",
@@ -220,7 +306,7 @@
                 "freqtrade"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 77.1,
+            "_pop_score": 77.09,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -230,7 +316,7 @@
             "rank": 1
         },
         {
-            "index": 4,
+            "index": 7,
             "category": "crypto",
             "_organization": "ccxt",
             "_repopath": "ccxt/ccxt",
@@ -244,7 +330,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2017-05-14T00:00:00.000Z",
             "_age_weeks": 312,
-            "_stars_per_week": 90.09,
+            "_stars_per_week": 89.97,
             "_topics": [
                 "altcoin",
                 "api",
@@ -266,13 +352,13 @@
                 "market-data"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 77.05,
+            "_pop_score": 77.04,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 5,
+            "index": 8,
             "category": "crypto",
             "_organization": "ethereum",
             "_repopath": "ethereum/consensus-specs",
@@ -285,11 +371,11 @@
             "_description": "Ethereum Proof-of-Stake Consensus Specifications",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-09-20T00:00:00.000Z",
-            "_age_weeks": 241,
-            "_stars_per_week": 13.06,
+            "_age_weeks": 242,
+            "_stars_per_week": 13.04,
             "_topics": [],
             "_last_commit_date": "2023-05-04T00:00:00.000Z",
-            "_pop_score": 55.48,
+            "_pop_score": 55.47,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -297,7 +383,7 @@
             "rank": 3
         },
         {
-            "index": 6,
+            "index": 9,
             "category": "data",
             "_organization": "apache",
             "_repopath": "apache/arrow",
@@ -310,19 +396,21 @@
             "_description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-02-17T00:00:00.000Z",
-            "_age_weeks": 376,
-            "_stars_per_week": 30.96,
+            "_age_weeks": 377,
+            "_stars_per_week": 30.92,
             "_topics": [
+                "apache-arrow",
+                "data-analysis",
                 "arrow"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 73.64,
+            "_pop_score": 73.63,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 1
         },
         {
-            "index": 7,
+            "index": 10,
             "category": "data",
             "_organization": "scrapy",
             "_repopath": "scrapy/scrapy",
@@ -336,7 +424,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2010-02-22T00:00:00.000Z",
             "_age_weeks": 689,
-            "_stars_per_week": 68.34,
+            "_stars_per_week": 68.3,
             "_topics": [
                 "scraping",
                 "crawling",
@@ -347,7 +435,7 @@
                 "web-scraping-python"
             ],
             "_last_commit_date": "2023-05-04T00:00:00.000Z",
-            "_pop_score": 72.84,
+            "_pop_score": 72.83,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py"
@@ -355,7 +443,7 @@
             "rank": 2
         },
         {
-            "index": 8,
+            "index": 11,
             "category": "data",
             "_organization": "duckdb",
             "_repopath": "duckdb/duckdb",
@@ -368,8 +456,8 @@
             "_description": "DuckDB is an in-process SQL OLAP Database Management System",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-06-26T00:00:00.000Z",
-            "_age_weeks": 253,
-            "_stars_per_week": 39.06,
+            "_age_weeks": 254,
+            "_stars_per_week": 38.99,
             "_topics": [
                 "dataframe",
                 "sql",
@@ -379,13 +467,13 @@
                 "embedded-database"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 71.09,
+            "_pop_score": 71.08,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 3
         },
         {
-            "index": 9,
+            "index": 12,
             "category": "debug",
             "_organization": "cool-rr",
             "_repopath": "cool-rr/pysnooper",
@@ -398,8 +486,8 @@
             "_description": "Never use print for debugging again",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-04-18T00:00:00.000Z",
-            "_age_weeks": 211,
-            "_stars_per_week": 74.85,
+            "_age_weeks": 212,
+            "_stars_per_week": 74.7,
             "_topics": [
                 "debug",
                 "debugger",
@@ -407,7 +495,7 @@
                 "logging"
             ],
             "_last_commit_date": "2023-04-12T00:00:00.000Z",
-            "_pop_score": 61.22,
+            "_pop_score": 61.21,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -416,7 +504,7 @@
             "rank": 1
         },
         {
-            "index": 10,
+            "index": 13,
             "category": "debug",
             "_organization": "gruns",
             "_repopath": "gruns/icecream",
@@ -429,8 +517,8 @@
             "_description": "\ud83c\udf66 Never use print() to debug again.",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2018-02-13T00:00:00.000Z",
-            "_age_weeks": 272,
-            "_stars_per_week": 24.71,
+            "_age_weeks": 273,
+            "_stars_per_week": 24.67,
             "_topics": [
                 "inspects",
                 "debug",
@@ -439,7 +527,7 @@
                 "print"
             ],
             "_last_commit_date": "2022-12-04T00:00:00.000Z",
-            "_pop_score": 47.02,
+            "_pop_score": 47.01,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -447,7 +535,7 @@
             "rank": 2
         },
         {
-            "index": 11,
+            "index": 14,
             "category": "debug",
             "_organization": "inducer",
             "_repopath": "inducer/pudb",
@@ -481,7 +569,7 @@
             "rank": 3
         },
         {
-            "index": 12,
+            "index": 15,
             "category": "diffusion",
             "_organization": "invoke-ai",
             "_repopath": "invoke-ai/invokeai",
@@ -494,8 +582,8 @@
             "_description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-08-17T00:00:00.000Z",
-            "_age_weeks": 37,
-            "_stars_per_week": 367.39,
+            "_age_weeks": 38,
+            "_stars_per_week": 363.27,
             "_topics": [
                 "ai-art",
                 "artificial-intelligence",
@@ -512,7 +600,7 @@
                 "stable-diffusion"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 87.04,
+            "_pop_score": 86.94,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -520,7 +608,7 @@
             "rank": 1
         },
         {
-            "index": 13,
+            "index": 16,
             "category": "diffusion",
             "_organization": "huggingface",
             "_repopath": "huggingface/diffusers",
@@ -534,7 +622,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-05-30T00:00:00.000Z",
             "_age_weeks": 49,
-            "_stars_per_week": 292.45,
+            "_stars_per_week": 289.91,
             "_topics": [
                 "deep-learning",
                 "diffusion",
@@ -547,7 +635,7 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 83.57,
+            "_pop_score": 83.5,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -556,7 +644,7 @@
             "rank": 2
         },
         {
-            "index": 14,
+            "index": 17,
             "category": "diffusion",
             "_organization": "automatic1111",
             "_repopath": "automatic1111/stable-diffusion-webui",
@@ -570,7 +658,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-08-22T00:00:00.000Z",
             "_age_weeks": 37,
-            "_stars_per_week": 1944.59,
+            "_stars_per_week": 1922.33,
             "_topics": [
                 "deep-learning",
                 "diffusion",
@@ -598,7 +686,7 @@
             "rank": 3
         },
         {
-            "index": 15,
+            "index": 18,
             "category": "finance",
             "_organization": "openbb-finance",
             "_repopath": "openbb-finance/openbbterminal",
@@ -612,7 +700,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2020-12-20T00:00:00.000Z",
             "_age_weeks": 124,
-            "_stars_per_week": 176.26,
+            "_stars_per_week": 175.65,
             "_topics": [
                 "investment",
                 "machine-learning",
@@ -627,7 +715,7 @@
                 "openbb"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 79.72,
+            "_pop_score": 79.69,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -636,7 +724,7 @@
             "rank": 1
         },
         {
-            "index": 16,
+            "index": 19,
             "category": "finance",
             "_organization": "microsoft",
             "_repopath": "microsoft/qlib",
@@ -650,7 +738,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2020-08-14T00:00:00.000Z",
             "_age_weeks": 142,
-            "_stars_per_week": 76.11,
+            "_stars_per_week": 75.88,
             "_topics": [
                 "quantitative-finance",
                 "machine-learning",
@@ -671,7 +759,7 @@
                 "deep-learning"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 65.01,
+            "_pop_score": 64.99,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -679,7 +767,7 @@
             "rank": 2
         },
         {
-            "index": 17,
+            "index": 20,
             "category": "finance",
             "_organization": "ranaroussi",
             "_repopath": "ranaroussi/yfinance",
@@ -693,7 +781,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2017-05-21T00:00:00.000Z",
             "_age_weeks": 311,
-            "_stars_per_week": 30.3,
+            "_stars_per_week": 30.26,
             "_topics": [
                 "pandas",
                 "yahoo-finance-api",
@@ -704,7 +792,7 @@
                 "fix-yahoo-finance"
             ],
             "_last_commit_date": "2023-04-26T00:00:00.000Z",
-            "_pop_score": 62.36,
+            "_pop_score": 62.34,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -713,7 +801,7 @@
             "rank": 3
         },
         {
-            "index": 18,
+            "index": 21,
             "category": "gamedev",
             "_organization": "kitao",
             "_repopath": "kitao/pyxel",
@@ -727,7 +815,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-06-10T00:00:00.000Z",
             "_age_weeks": 256,
-            "_stars_per_week": 46.11,
+            "_stars_per_week": 46.03,
             "_topics": [
                 "pyxel",
                 "gamedev",
@@ -742,7 +830,7 @@
                 "rust"
             ],
             "_last_commit_date": "2023-04-29T00:00:00.000Z",
-            "_pop_score": 62.76,
+            "_pop_score": 62.74,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -751,7 +839,7 @@
             "rank": 1
         },
         {
-            "index": 19,
+            "index": 22,
             "category": "gamedev",
             "_organization": "pygame",
             "_repopath": "pygame/pygame",
@@ -765,7 +853,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2017-03-26T00:00:00.000Z",
             "_age_weeks": 319,
-            "_stars_per_week": 18.63,
+            "_stars_per_week": 18.61,
             "_topics": [
                 "pygame",
                 "sdl2",
@@ -775,7 +863,7 @@
                 "game-dev"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 53.74,
+            "_pop_score": 53.73,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py"
@@ -783,7 +871,7 @@
             "rank": 2
         },
         {
-            "index": 20,
+            "index": 23,
             "category": "gamedev",
             "_organization": "pyglet",
             "_repopath": "pyglet/pyglet",
@@ -797,7 +885,7 @@
             "_updated_at": "2023-05-03T00:00:00.000Z",
             "_created_at": "2019-06-09T00:00:00.000Z",
             "_age_weeks": 204,
-            "_stars_per_week": 7.23,
+            "_stars_per_week": 7.22,
             "_topics": [
                 "pyglet",
                 "opengl",
@@ -805,7 +893,7 @@
                 "scientific-visualization"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 49.71,
+            "_pop_score": 49.69,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -813,7 +901,7 @@
             "rank": 3
         },
         {
-            "index": 21,
+            "index": 24,
             "category": "gis",
             "_organization": "osgeo",
             "_repopath": "osgeo/gdal",
@@ -826,7 +914,7 @@
             "_description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2012-10-09T00:00:00.000Z",
-            "_age_weeks": 551,
+            "_age_weeks": 552,
             "_stars_per_week": 6.84,
             "_topics": [
                 "raster",
@@ -841,7 +929,7 @@
             "rank": 1
         },
         {
-            "index": 22,
+            "index": 25,
             "category": "gis",
             "_organization": "microsoft",
             "_repopath": "microsoft/torchgeo",
@@ -855,7 +943,7 @@
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2021-05-21T00:00:00.000Z",
             "_age_weeks": 102,
-            "_stars_per_week": 15.5,
+            "_stars_per_week": 15.44,
             "_topics": [
                 "pytorch",
                 "torchvision",
@@ -867,7 +955,7 @@
                 "earth-observation"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 55.57,
+            "_pop_score": 55.54,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -875,7 +963,7 @@
             "rank": 2
         },
         {
-            "index": 23,
+            "index": 26,
             "category": "gis",
             "_organization": "giswqs",
             "_repopath": "giswqs/geemap",
@@ -889,7 +977,7 @@
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2020-03-08T00:00:00.000Z",
             "_age_weeks": 165,
-            "_stars_per_week": 16.27,
+            "_stars_per_week": 16.23,
             "_topics": [
                 "google-earth-engine",
                 "gis",
@@ -912,7 +1000,7 @@
                 "earthengine"
             ],
             "_last_commit_date": "2023-04-25T00:00:00.000Z",
-            "_pop_score": 54.69,
+            "_pop_score": 54.67,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -921,7 +1009,7 @@
             "rank": 3
         },
         {
-            "index": 24,
+            "index": 27,
             "category": "graph",
             "_organization": "networkx",
             "_repopath": "networkx/networkx",
@@ -935,7 +1023,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2010-09-06T00:00:00.000Z",
             "_age_weeks": 661,
-            "_stars_per_week": 19.06,
+            "_stars_per_week": 19.05,
             "_topics": [
                 "complex-networks",
                 "graph-theory",
@@ -945,7 +1033,7 @@
                 "graph-visualization"
             ],
             "_last_commit_date": "2023-05-03T00:00:00.000Z",
-            "_pop_score": 61.45,
+            "_pop_score": 61.44,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py"
@@ -953,7 +1041,7 @@
             "rank": 1
         },
         {
-            "index": 25,
+            "index": 28,
             "category": "graph",
             "_organization": "stellargraph",
             "_repopath": "stellargraph/stellargraph",
@@ -967,7 +1055,7 @@
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2018-04-13T00:00:00.000Z",
             "_age_weeks": 264,
-            "_stars_per_week": 10.16,
+            "_stars_per_week": 10.15,
             "_topics": [
                 "graphs",
                 "machine-learning",
@@ -989,7 +1077,7 @@
                 "data-science"
             ],
             "_last_commit_date": "2021-10-29T00:00:00.000Z",
-            "_pop_score": 41.1,
+            "_pop_score": 41.08,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -998,7 +1086,7 @@
             "rank": 2
         },
         {
-            "index": 26,
+            "index": 29,
             "category": "graph",
             "_organization": "westhealth",
             "_repopath": "westhealth/pyvis",
@@ -1011,14 +1099,14 @@
             "_description": "Python package for creating and visualizing interactive network graphs.",
             "_updated_at": "2023-05-04T00:00:00.000Z",
             "_created_at": "2018-05-10T00:00:00.000Z",
-            "_age_weeks": 260,
+            "_age_weeks": 261,
             "_stars_per_week": 2.49,
             "_topics": [
                 "network-visualization",
                 "networkx"
             ],
             "_last_commit_date": "2023-02-10T00:00:00.000Z",
-            "_pop_score": 32.74,
+            "_pop_score": 32.73,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -1027,7 +1115,7 @@
             "rank": 3
         },
         {
-            "index": 27,
+            "index": 30,
             "category": "gui",
             "_organization": "pysimplegui",
             "_repopath": "pysimplegui/pysimplegui",
@@ -1040,8 +1128,8 @@
             "_description": "Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-07-11T00:00:00.000Z",
-            "_age_weeks": 251,
-            "_stars_per_week": 46.01,
+            "_age_weeks": 252,
+            "_stars_per_week": 45.93,
             "_topics": [
                 "pysimplegui",
                 "gui-framework",
@@ -1064,7 +1152,7 @@
                 "user-interface"
             ],
             "_last_commit_date": "2023-04-26T00:00:00.000Z",
-            "_pop_score": 65.43,
+            "_pop_score": 65.42,
             "_readme_filename": "readme.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -1072,7 +1160,7 @@
             "rank": 1
         },
         {
-            "index": 28,
+            "index": 31,
             "category": "gui",
             "_organization": "hoffstadt",
             "_repopath": "hoffstadt/dearpygui",
@@ -1085,8 +1173,8 @@
             "_description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2020-05-28T00:00:00.000Z",
-            "_age_weeks": 153,
-            "_stars_per_week": 66.03,
+            "_age_weeks": 154,
+            "_stars_per_week": 65.85,
             "_topics": [
                 "cpp",
                 "imgui",
@@ -1104,7 +1192,7 @@
                 "dearpygui"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 62.39,
+            "_pop_score": 62.37,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -1112,7 +1200,7 @@
             "rank": 2
         },
         {
-            "index": 29,
+            "index": 32,
             "category": "gui",
             "_organization": "r0x0r",
             "_repopath": "r0x0r/pywebview",
@@ -1125,8 +1213,8 @@
             "_description": "Build GUI for your Python program with JavaScript, HTML, and CSS",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2014-11-20T00:00:00.000Z",
-            "_age_weeks": 441,
-            "_stars_per_week": 7.98,
+            "_age_weeks": 442,
+            "_stars_per_week": 7.97,
             "_topics": [
                 "webkit",
                 "gtk",
@@ -1141,7 +1229,7 @@
                 "cef"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
-            "_pop_score": 50.64,
+            "_pop_score": 50.63,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -1150,7 +1238,7 @@
             "rank": 3
         },
         {
-            "index": 30,
+            "index": 33,
             "category": "jupyter",
             "_organization": "jupyterlab",
             "_repopath": "jupyterlab/jupyterlab",
@@ -1164,13 +1252,13 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-06-03T00:00:00.000Z",
             "_age_weeks": 361,
-            "_stars_per_week": 35.65,
+            "_stars_per_week": 35.61,
             "_topics": [
                 "jupyterlab",
                 "jupyter"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 72.55,
+            "_pop_score": 72.54,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1179,7 +1267,7 @@
             "rank": 1
         },
         {
-            "index": 31,
+            "index": 34,
             "category": "jupyter",
             "_organization": "jupyter",
             "_repopath": "jupyter/notebook",
@@ -1192,8 +1280,8 @@
             "_description": "Jupyter Interactive Notebook",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2015-04-09T00:00:00.000Z",
-            "_age_weeks": 421,
-            "_stars_per_week": 23.84,
+            "_age_weeks": 422,
+            "_stars_per_week": 23.82,
             "_topics": [
                 "closember",
                 "jupyter",
@@ -1201,7 +1289,7 @@
                 "notebook"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 67.16,
+            "_pop_score": 67.15,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1210,7 +1298,7 @@
             "rank": 2
         },
         {
-            "index": 32,
+            "index": 35,
             "category": "jupyter",
             "_organization": "jupyterlite",
             "_repopath": "jupyterlite/jupyterlite",
@@ -1224,7 +1312,7 @@
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2021-03-27T00:00:00.000Z",
             "_age_weeks": 110,
-            "_stars_per_week": 29.05,
+            "_stars_per_week": 28.94,
             "_topics": [
                 "jupyter",
                 "jupyterlab",
@@ -1235,7 +1323,7 @@
                 "pyodide"
             ],
             "_last_commit_date": "2023-04-26T00:00:00.000Z",
-            "_pop_score": 61.42,
+            "_pop_score": 61.39,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -1243,7 +1331,7 @@
             "rank": 3
         },
         {
-            "index": 33,
+            "index": 36,
             "category": "math",
             "_organization": "numpy",
             "_repopath": "numpy/numpy",
@@ -1257,12 +1345,12 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2010-09-13T00:00:00.000Z",
             "_age_weeks": 660,
-            "_stars_per_week": 35.47,
+            "_stars_per_week": 35.45,
             "_topics": [
                 "numpy"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 74.94,
+            "_pop_score": 74.93,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1271,7 +1359,7 @@
             "rank": 1
         },
         {
-            "index": 34,
+            "index": 37,
             "category": "math",
             "_organization": "scipy",
             "_repopath": "scipy/scipy",
@@ -1284,8 +1372,8 @@
             "_description": "SciPy library main repository",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2011-03-09T00:00:00.000Z",
-            "_age_weeks": 634,
-            "_stars_per_week": 17.63,
+            "_age_weeks": 635,
+            "_stars_per_week": 17.62,
             "_topics": [
                 "scipy",
                 "algorithms",
@@ -1302,7 +1390,7 @@
             "rank": 2
         },
         {
-            "index": 35,
+            "index": 38,
             "category": "math",
             "_organization": "sympy",
             "_repopath": "sympy/sympy",
@@ -1316,7 +1404,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2010-04-30T00:00:00.000Z",
             "_age_weeks": 679,
-            "_stars_per_week": 15.67,
+            "_stars_per_week": 15.66,
             "_topics": [
                 "math",
                 "computer-algebra",
@@ -1333,7 +1421,7 @@
             "rank": 3
         },
         {
-            "index": 36,
+            "index": 39,
             "category": "ml",
             "_organization": "scikit-learn",
             "_repopath": "scikit-learn/scikit-learn",
@@ -1346,8 +1434,8 @@
             "_description": "scikit-learn: machine learning in Python",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2010-08-17T00:00:00.000Z",
-            "_age_weeks": 663,
-            "_stars_per_week": 81.48,
+            "_age_weeks": 664,
+            "_stars_per_week": 81.42,
             "_topics": [
                 "machine-learning",
                 "statistics",
@@ -1355,7 +1443,7 @@
                 "data-analysis"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 81.26,
+            "_pop_score": 81.25,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py",
@@ -1364,7 +1452,7 @@
             "rank": 1
         },
         {
-            "index": 37,
+            "index": 40,
             "category": "ml",
             "_organization": "openai",
             "_repopath": "openai/evals",
@@ -1378,7 +1466,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2023-01-23T00:00:00.000Z",
             "_age_weeks": 15,
-            "_stars_per_week": 611.33,
+            "_stars_per_week": 594.35,
             "_topics": [
                 "evaluation",
                 "language-model"
@@ -1392,7 +1480,7 @@
             "rank": 2
         },
         {
-            "index": 38,
+            "index": 41,
             "category": "ml",
             "_organization": "openai",
             "_repopath": "openai/openai-cookbook",
@@ -1406,7 +1494,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-03-11T00:00:00.000Z",
             "_age_weeks": 60,
-            "_stars_per_week": 557.35,
+            "_stars_per_week": 553.43,
             "_topics": [
                 "openai",
                 "chatgpt",
@@ -1422,7 +1510,7 @@
             "rank": 3
         },
         {
-            "index": 39,
+            "index": 42,
             "category": "ml-dl",
             "_organization": "tensorflow",
             "_repopath": "tensorflow/tensorflow",
@@ -1436,7 +1524,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2015-11-07T00:00:00.000Z",
             "_age_weeks": 391,
-            "_stars_per_week": 444.98,
+            "_stars_per_week": 444.49,
             "_topics": [
                 "tensorflow",
                 "machine-learning",
@@ -1453,7 +1541,7 @@
             "rank": 1
         },
         {
-            "index": 40,
+            "index": 43,
             "category": "ml-dl",
             "_organization": "pytorch",
             "_repopath": "pytorch/pytorch",
@@ -1467,7 +1555,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-08-13T00:00:00.000Z",
             "_age_weeks": 351,
-            "_stars_per_week": 188.89,
+            "_stars_per_week": 188.66,
             "_topics": [
                 "neural-network",
                 "autograd",
@@ -1478,7 +1566,7 @@
                 "machine-learning"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 89.96,
+            "_pop_score": 89.95,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -1488,7 +1576,7 @@
             "rank": 2
         },
         {
-            "index": 41,
+            "index": 44,
             "category": "ml-dl",
             "_organization": "keras-team",
             "_repopath": "keras-team/keras",
@@ -1502,7 +1590,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2015-03-28T00:00:00.000Z",
             "_age_weeks": 423,
-            "_stars_per_week": 137.56,
+            "_stars_per_week": 137.42,
             "_topics": [
                 "deep-learning",
                 "tensorflow",
@@ -1511,7 +1599,7 @@
                 "data-science"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 80.67,
+            "_pop_score": 80.66,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt"
@@ -1519,7 +1607,7 @@
             "rank": 3
         },
         {
-            "index": 42,
+            "index": 45,
             "category": "ml-interpretability",
             "_organization": "slundberg",
             "_repopath": "slundberg/shap",
@@ -1532,8 +1620,8 @@
             "_description": "A game theoretic approach to explain the output of any machine learning model.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-11-22T00:00:00.000Z",
-            "_age_weeks": 336,
-            "_stars_per_week": 56.81,
+            "_age_weeks": 337,
+            "_stars_per_week": 56.74,
             "_topics": [
                 "interpretability",
                 "machine-learning",
@@ -1544,7 +1632,7 @@
                 "explainability"
             ],
             "_last_commit_date": "2022-06-16T00:00:00.000Z",
-            "_pop_score": 57.26,
+            "_pop_score": 57.25,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -1554,7 +1642,7 @@
             "rank": 1
         },
         {
-            "index": 43,
+            "index": 46,
             "category": "ml-interpretability",
             "_organization": "pytorch",
             "_repopath": "pytorch/captum",
@@ -1567,8 +1655,8 @@
             "_description": "Model interpretability and understanding for PyTorch",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-08-27T00:00:00.000Z",
-            "_age_weeks": 192,
-            "_stars_per_week": 20.25,
+            "_age_weeks": 193,
+            "_stars_per_week": 20.21,
             "_topics": [
                 "interpretability",
                 "interpretable-ai",
@@ -1577,7 +1665,7 @@
                 "feature-attribution"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
-            "_pop_score": 53.74,
+            "_pop_score": 53.72,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1586,7 +1674,7 @@
             "rank": 2
         },
         {
-            "index": 44,
+            "index": 47,
             "category": "ml-interpretability",
             "_organization": "arize-ai",
             "_repopath": "arize-ai/phoenix",
@@ -1599,8 +1687,8 @@
             "_description": "ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-11-09T00:00:00.000Z",
-            "_age_weeks": 25,
-            "_stars_per_week": 24.77,
+            "_age_weeks": 26,
+            "_stars_per_week": 24.37,
             "_topics": [
                 "ml-observability",
                 "model-observability",
@@ -1609,7 +1697,7 @@
                 "mlops"
             ],
             "_last_commit_date": "2023-05-04T00:00:00.000Z",
-            "_pop_score": 50.79,
+            "_pop_score": 50.66,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -1617,7 +1705,7 @@
             "rank": 3
         },
         {
-            "index": 45,
+            "index": 48,
             "category": "ml-ops",
             "_organization": "apache",
             "_repopath": "apache/airflow",
@@ -1631,7 +1719,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2015-04-13T00:00:00.000Z",
             "_age_weeks": 421,
-            "_stars_per_week": 71.42,
+            "_stars_per_week": 71.35,
             "_topics": [
                 "airflow",
                 "apache",
@@ -1641,7 +1729,7 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 81.41,
+            "_pop_score": 81.4,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1650,7 +1738,7 @@
             "rank": 1
         },
         {
-            "index": 46,
+            "index": 49,
             "category": "ml-ops",
             "_organization": "ray-project",
             "_repopath": "ray-project/ray",
@@ -1663,8 +1751,8 @@
             "_description": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-10-25T00:00:00.000Z",
-            "_age_weeks": 340,
-            "_stars_per_week": 74.63,
+            "_age_weeks": 341,
+            "_stars_per_week": 74.54,
             "_topics": [
                 "ray",
                 "distributed",
@@ -1686,13 +1774,13 @@
                 "tensorflow"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 79.29,
+            "_pop_score": 79.28,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 47,
+            "index": 50,
             "category": "ml-ops",
             "_organization": "mlflow",
             "_repopath": "mlflow/mlflow",
@@ -1705,8 +1793,8 @@
             "_description": "Open source platform for the machine learning lifecycle",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-06-05T00:00:00.000Z",
-            "_age_weeks": 256,
-            "_stars_per_week": 55.62,
+            "_age_weeks": 257,
+            "_stars_per_week": 55.53,
             "_topics": [
                 "machine-learning",
                 "ai",
@@ -1716,7 +1804,7 @@
                 "model-management"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 71.9,
+            "_pop_score": 71.88,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py",
@@ -1725,7 +1813,7 @@
             "rank": 3
         },
         {
-            "index": 48,
+            "index": 51,
             "category": "ml-rl",
             "_organization": "lucidrains",
             "_repopath": "lucidrains/palm-rlhf-pytorch",
@@ -1739,7 +1827,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-12-09T00:00:00.000Z",
             "_age_weeks": 21,
-            "_stars_per_week": 304.64,
+            "_stars_per_week": 298.67,
             "_topics": [
                 "artificial-intelligence",
                 "attention-mechanisms",
@@ -1749,7 +1837,7 @@
                 "human-feedback"
             ],
             "_last_commit_date": "2023-04-05T00:00:00.000Z",
-            "_pop_score": 69.91,
+            "_pop_score": 69.75,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -1757,7 +1845,7 @@
             "rank": 1
         },
         {
-            "index": 49,
+            "index": 52,
             "category": "ml-rl",
             "_organization": "openai",
             "_repopath": "openai/gym",
@@ -1770,13 +1858,13 @@
             "_description": "A toolkit for developing and comparing reinforcement learning algorithms.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-04-27T00:00:00.000Z",
-            "_age_weeks": 366,
-            "_stars_per_week": 84.95,
+            "_age_weeks": 367,
+            "_stars_per_week": 84.85,
             "_topics": [
                 "reinforcement-learning"
             ],
             "_last_commit_date": "2023-01-30T00:00:00.000Z",
-            "_pop_score": 68.74,
+            "_pop_score": 68.73,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -1786,7 +1874,7 @@
             "rank": 2
         },
         {
-            "index": 50,
+            "index": 53,
             "category": "ml-rl",
             "_organization": "farama-foundation",
             "_repopath": "farama-foundation/gymnasium",
@@ -1799,15 +1887,15 @@
             "_description": "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-09-08T00:00:00.000Z",
-            "_age_weeks": 34,
-            "_stars_per_week": 73.7,
+            "_age_weeks": 35,
+            "_stars_per_week": 72.8,
             "_topics": [
                 "api",
                 "gym",
                 "reinforcement-learning"
             ],
             "_last_commit_date": "2023-05-03T00:00:00.000Z",
-            "_pop_score": 66.86,
+            "_pop_score": 66.76,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1816,7 +1904,7 @@
             "rank": 3
         },
         {
-            "index": 51,
+            "index": 54,
             "category": "nlp",
             "_organization": "huggingface",
             "_repopath": "huggingface/transformers",
@@ -1830,7 +1918,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-10-29T00:00:00.000Z",
             "_age_weeks": 236,
-            "_stars_per_week": 414.97,
+            "_stars_per_week": 414.22,
             "_topics": [
                 "nlp",
                 "natural-language-processing",
@@ -1862,7 +1950,7 @@
             "rank": 1
         },
         {
-            "index": 52,
+            "index": 55,
             "category": "nlp",
             "_organization": "togethercomputer",
             "_repopath": "togethercomputer/openchatkit",
@@ -1876,7 +1964,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2023-03-03T00:00:00.000Z",
             "_age_weeks": 9,
-            "_stars_per_week": 861.42,
+            "_stars_per_week": 823.97,
             "_topics": [
                 "chatbot"
             ],
@@ -1887,7 +1975,7 @@
             "rank": 2
         },
         {
-            "index": 53,
+            "index": 56,
             "category": "nlp",
             "_organization": "huggingface",
             "_repopath": "huggingface/datasets",
@@ -1900,8 +1988,8 @@
             "_description": "\ud83e\udd17 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2020-03-26T00:00:00.000Z",
-            "_age_weeks": 162,
-            "_stars_per_week": 98.9,
+            "_age_weeks": 163,
+            "_stars_per_week": 98.64,
             "_topics": [
                 "nlp",
                 "datasets",
@@ -1917,7 +2005,7 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 75.69,
+            "_pop_score": 75.66,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1926,7 +2014,7 @@
             "rank": 3
         },
         {
-            "index": 54,
+            "index": 57,
             "category": "pandas",
             "_organization": "pandas-dev",
             "_repopath": "pandas-dev/pandas",
@@ -1939,8 +2027,8 @@
             "_description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2010-08-24T00:00:00.000Z",
-            "_age_weeks": 662,
-            "_stars_per_week": 57.65,
+            "_age_weeks": 663,
+            "_stars_per_week": 57.61,
             "_topics": [
                 "data-analysis",
                 "pandas",
@@ -1949,7 +2037,7 @@
                 "data-science"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 78.64,
+            "_pop_score": 78.63,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -1958,7 +2046,7 @@
             "rank": 1
         },
         {
-            "index": 55,
+            "index": 58,
             "category": "pandas",
             "_organization": "kanaries",
             "_repopath": "kanaries/pygwalker",
@@ -1971,8 +2059,8 @@
             "_description": "PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2023-02-16T00:00:00.000Z",
-            "_age_weeks": 11,
-            "_stars_per_week": 451.8,
+            "_age_weeks": 12,
+            "_stars_per_week": 435.67,
             "_topics": [
                 "data-analysis",
                 "pandas",
@@ -1993,7 +2081,7 @@
             "rank": 2
         },
         {
-            "index": 56,
+            "index": 59,
             "category": "pandas",
             "_organization": "aws",
             "_repopath": "aws/aws-sdk-pandas",
@@ -2006,8 +2094,8 @@
             "_description": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2019-02-26T00:00:00.000Z",
-            "_age_weeks": 218,
-            "_stars_per_week": 15.63,
+            "_age_weeks": 219,
+            "_stars_per_week": 15.6,
             "_topics": [
                 "aws",
                 "pandas",
@@ -2028,7 +2116,7 @@
                 "amazon-sagemaker-notebook"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 63.16,
+            "_pop_score": 63.14,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -2036,7 +2124,7 @@
             "rank": 3
         },
         {
-            "index": 57,
+            "index": 60,
             "category": "perf",
             "_organization": "pola-rs",
             "_repopath": "pola-rs/polars",
@@ -2049,8 +2137,8 @@
             "_description": "Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2020-05-13T00:00:00.000Z",
-            "_age_weeks": 155,
-            "_stars_per_week": 108.6,
+            "_age_weeks": 156,
+            "_stars_per_week": 108.3,
             "_topics": [
                 "dataframe-library",
                 "dataframe",
@@ -2060,13 +2148,13 @@
                 "out-of-core"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 78.42,
+            "_pop_score": 78.39,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 1
         },
         {
-            "index": 58,
+            "index": 61,
             "category": "perf",
             "_organization": "nebuly-ai",
             "_repopath": "nebuly-ai/nebullvm",
@@ -2080,7 +2168,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-02-12T00:00:00.000Z",
             "_age_weeks": 64,
-            "_stars_per_week": 125.11,
+            "_stars_per_week": 124.28,
             "_topics": [
                 "deep-learning",
                 "pytorch",
@@ -2102,13 +2190,13 @@
                 "transformers"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 72.1,
+            "_pop_score": 72.04,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 59,
+            "index": 62,
             "category": "perf",
             "_organization": "google",
             "_repopath": "google/flatbuffers",
@@ -2122,7 +2210,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2014-05-19T00:00:00.000Z",
             "_age_weeks": 468,
-            "_stars_per_week": 43.5,
+            "_stars_per_week": 43.46,
             "_topics": [
                 "flatbuffers",
                 "serialization",
@@ -2145,13 +2233,13 @@
                 "protobuf"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 69.91,
+            "_pop_score": 69.9,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 3
         },
         {
-            "index": 60,
+            "index": 63,
             "category": "profiling",
             "_organization": "bloomberg",
             "_repopath": "bloomberg/memray",
@@ -2165,7 +2253,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-04-08T00:00:00.000Z",
             "_age_weeks": 56,
-            "_stars_per_week": 185.92,
+            "_stars_per_week": 184.52,
             "_topics": [
                 "memory",
                 "memory-leak",
@@ -2175,7 +2263,7 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-01T00:00:00.000Z",
-            "_pop_score": 71.95,
+            "_pop_score": 71.89,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -2184,7 +2272,7 @@
             "rank": 1
         },
         {
-            "index": 61,
+            "index": 64,
             "category": "profiling",
             "_organization": "plasma-umass",
             "_repopath": "plasma-umass/scalene",
@@ -2197,8 +2285,8 @@
             "_description": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2019-12-17T00:00:00.000Z",
-            "_age_weeks": 176,
-            "_stars_per_week": 43.23,
+            "_age_weeks": 177,
+            "_stars_per_week": 43.12,
             "_topics": [
                 "profiling",
                 "performance-analysis",
@@ -2215,7 +2303,7 @@
                 "memory-consumption"
             ],
             "_last_commit_date": "2023-04-25T00:00:00.000Z",
-            "_pop_score": 62.72,
+            "_pop_score": 62.7,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -2225,7 +2313,7 @@
             "rank": 2
         },
         {
-            "index": 62,
+            "index": 65,
             "category": "profiling",
             "_organization": "benfred",
             "_repopath": "benfred/py-spy",
@@ -2238,15 +2326,15 @@
             "_description": "Sampling profiler for Python programs",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-08-01T00:00:00.000Z",
-            "_age_weeks": 248,
-            "_stars_per_week": 41.05,
+            "_age_weeks": 249,
+            "_stars_per_week": 40.98,
             "_topics": [
                 "profiler",
                 "performance-analysis",
                 "profiling"
             ],
             "_last_commit_date": "2022-12-09T00:00:00.000Z",
-            "_pop_score": 54.12,
+            "_pop_score": 54.1,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -2254,7 +2342,7 @@
             "rank": 3
         },
         {
-            "index": 63,
+            "index": 66,
             "category": "security",
             "_organization": "aquasecurity",
             "_repopath": "aquasecurity/trivy",
@@ -2267,8 +2355,8 @@
             "_description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-04-11T00:00:00.000Z",
-            "_age_weeks": 212,
-            "_stars_per_week": 80.98,
+            "_age_weeks": 213,
+            "_stars_per_week": 80.82,
             "_topics": [
                 "security",
                 "security-tools",
@@ -2287,13 +2375,13 @@
                 "iac"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 72.58,
+            "_pop_score": 72.57,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 1
         },
         {
-            "index": 64,
+            "index": 67,
             "category": "security",
             "_organization": "certbot",
             "_repopath": "certbot/certbot",
@@ -2306,8 +2394,8 @@
             "_description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2014-11-12T00:00:00.000Z",
-            "_age_weeks": 442,
-            "_stars_per_week": 67.5,
+            "_age_weeks": 443,
+            "_stars_per_week": 67.43,
             "_topics": [
                 "acme",
                 "acme-client",
@@ -2316,13 +2404,13 @@
                 "letsencrypt"
             ],
             "_last_commit_date": "2023-05-04T00:00:00.000Z",
-            "_pop_score": 71.94,
+            "_pop_score": 71.93,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 65,
+            "index": 68,
             "category": "security",
             "_organization": "sqlmapproject",
             "_repopath": "sqlmapproject/sqlmap",
@@ -2335,8 +2423,8 @@
             "_description": "Automatic SQL injection and database takeover tool",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2012-06-26T00:00:00.000Z",
-            "_age_weeks": 566,
-            "_stars_per_week": 47.46,
+            "_age_weeks": 567,
+            "_stars_per_week": 47.42,
             "_topics": [
                 "sql-injection",
                 "detection",
@@ -2348,13 +2436,13 @@
                 "sqlmap"
             ],
             "_last_commit_date": "2023-05-01T00:00:00.000Z",
-            "_pop_score": 61.91,
+            "_pop_score": 61.9,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 3
         },
         {
-            "index": 66,
+            "index": 69,
             "category": "sim",
             "_organization": "astropy",
             "_repopath": "astropy/astropy",
@@ -2367,7 +2455,7 @@
             "_description": "Astronomy and astrophysics core library",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2011-07-21T00:00:00.000Z",
-            "_age_weeks": 615,
+            "_age_weeks": 616,
             "_stars_per_week": 6.11,
             "_topics": [
                 "astronomy",
@@ -2376,7 +2464,7 @@
                 "astropy"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 59.73,
+            "_pop_score": 59.72,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py",
@@ -2385,7 +2473,7 @@
             "rank": 1
         },
         {
-            "index": 67,
+            "index": 70,
             "category": "sim",
             "_organization": "isl-org",
             "_repopath": "isl-org/open3d",
@@ -2399,7 +2487,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-12-02T00:00:00.000Z",
             "_age_weeks": 335,
-            "_stars_per_week": 25.62,
+            "_stars_per_week": 25.59,
             "_topics": [
                 "mesh-processing",
                 "computer-graphics",
@@ -2422,13 +2510,13 @@
                 "tensorflow"
             ],
             "_last_commit_date": "2023-04-04T00:00:00.000Z",
-            "_pop_score": 59.12,
+            "_pop_score": 59.11,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 68,
+            "index": 71,
             "category": "sim",
             "_organization": "atsushisakai",
             "_repopath": "atsushisakai/pythonrobotics",
@@ -2442,7 +2530,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-03-21T00:00:00.000Z",
             "_age_weeks": 372,
-            "_stars_per_week": 49.76,
+            "_stars_per_week": 49.71,
             "_topics": [
                 "robotics",
                 "algorithm",
@@ -2461,13 +2549,13 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
-            "_pop_score": 57.84,
+            "_pop_score": 57.83,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 3
         },
         {
-            "index": 69,
+            "index": 72,
             "category": "study",
             "_organization": "thealgorithms",
             "_repopath": "thealgorithms/python",
@@ -2481,7 +2569,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-07-16T00:00:00.000Z",
             "_age_weeks": 355,
-            "_stars_per_week": 445.2,
+            "_stars_per_week": 444.67,
             "_topics": [
                 "algorithm",
                 "algorithms-implemented",
@@ -2507,7 +2595,7 @@
             "rank": 1
         },
         {
-            "index": 70,
+            "index": 73,
             "category": "study",
             "_organization": "donnemartin",
             "_repopath": "donnemartin/system-design-primer",
@@ -2521,7 +2609,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2017-02-26T00:00:00.000Z",
             "_age_weeks": 323,
-            "_stars_per_week": 678.8,
+            "_stars_per_week": 677.9,
             "_topics": [
                 "programming",
                 "development",
@@ -2543,7 +2631,7 @@
             "rank": 2
         },
         {
-            "index": 71,
+            "index": 74,
             "category": "study",
             "_organization": "d2l-ai",
             "_repopath": "d2l-ai/d2l-en",
@@ -2556,8 +2644,8 @@
             "_description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-10-09T00:00:00.000Z",
-            "_age_weeks": 238,
-            "_stars_per_week": 74.22,
+            "_age_weeks": 239,
+            "_stars_per_week": 74.09,
             "_topics": [
                 "deep-learning",
                 "machine-learning",
@@ -2578,7 +2666,7 @@
                 "jax"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 69.42,
+            "_pop_score": 69.41,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py"
@@ -2586,7 +2674,7 @@
             "rank": 3
         },
         {
-            "index": 72,
+            "index": 75,
             "category": "template",
             "_organization": "cookiecutter",
             "_repopath": "cookiecutter/cookiecutter",
@@ -2600,12 +2688,12 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2013-07-14T00:00:00.000Z",
             "_age_weeks": 512,
-            "_stars_per_week": 38.03,
+            "_stars_per_week": 38.0,
             "_topics": [
                 "cookiecutter"
             ],
             "_last_commit_date": "2022-09-09T00:00:00.000Z",
-            "_pop_score": 57.77,
+            "_pop_score": 57.76,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -2614,7 +2702,7 @@
             "rank": 1
         },
         {
-            "index": 73,
+            "index": 76,
             "category": "template",
             "_organization": "tiangolo",
             "_repopath": "tiangolo/full-stack-fastapi-postgresql",
@@ -2628,7 +2716,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-02-23T00:00:00.000Z",
             "_age_weeks": 219,
-            "_stars_per_week": 53.9,
+            "_stars_per_week": 53.8,
             "_topics": [
                 "json",
                 "json-schema",
@@ -2650,13 +2738,13 @@
                 "pgadmin"
             ],
             "_last_commit_date": "2020-06-05T00:00:00.000Z",
-            "_pop_score": 51.51,
+            "_pop_score": 51.49,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 74,
+            "index": 77,
             "category": "template",
             "_organization": "pyscaffold",
             "_repopath": "pyscaffold/pyscaffold",
@@ -2669,8 +2757,8 @@
             "_description": "\ud83d\udee0 Python project template generator with batteries included",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2014-04-02T00:00:00.000Z",
-            "_age_weeks": 474,
-            "_stars_per_week": 3.76,
+            "_age_weeks": 475,
+            "_stars_per_week": 3.75,
             "_topics": [
                 "release-automation",
                 "git",
@@ -2690,7 +2778,7 @@
             "rank": 3
         },
         {
-            "index": 75,
+            "index": 78,
             "category": "term",
             "_organization": "willmcgugan",
             "_repopath": "willmcgugan/rich",
@@ -2704,7 +2792,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-11-10T00:00:00.000Z",
             "_age_weeks": 182,
-            "_stars_per_week": 236.85,
+            "_stars_per_week": 236.3,
             "_topics": [
                 "terminal",
                 "terminal-color",
@@ -2721,7 +2809,7 @@
                 "tui"
             ],
             "_last_commit_date": "2023-04-27T00:00:00.000Z",
-            "_pop_score": 81.21,
+            "_pop_score": 81.19,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -2730,7 +2818,7 @@
             "rank": 1
         },
         {
-            "index": 76,
+            "index": 79,
             "category": "term",
             "_organization": "willmcgugan",
             "_repopath": "willmcgugan/textual",
@@ -2743,8 +2831,8 @@
             "_description": "Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2021-04-08T00:00:00.000Z",
-            "_age_weeks": 108,
-            "_stars_per_week": 176.24,
+            "_age_weeks": 109,
+            "_stars_per_week": 175.55,
             "_topics": [
                 "terminal",
                 "tui",
@@ -2753,7 +2841,7 @@
                 "framework"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 80.75,
+            "_pop_score": 80.72,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -2761,7 +2849,7 @@
             "rank": 2
         },
         {
-            "index": 77,
+            "index": 80,
             "category": "term",
             "_organization": "tiangolo",
             "_repopath": "tiangolo/typer",
@@ -2774,8 +2862,8 @@
             "_description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2019-12-24T00:00:00.000Z",
-            "_age_weeks": 175,
-            "_stars_per_week": 63.2,
+            "_age_weeks": 176,
+            "_stars_per_week": 63.05,
             "_topics": [
                 "cli",
                 "click",
@@ -2785,7 +2873,7 @@
                 "typer"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
-            "_pop_score": 65.19,
+            "_pop_score": 65.17,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -2793,7 +2881,7 @@
             "rank": 3
         },
         {
-            "index": 78,
+            "index": 81,
             "category": "testing",
             "_organization": "locustio",
             "_repopath": "locustio/locust",
@@ -2806,8 +2894,8 @@
             "_description": "Write scalable load tests in plain Python \ud83d\ude97\ud83d\udca8",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2011-02-17T00:00:00.000Z",
-            "_age_weeks": 637,
-            "_stars_per_week": 33.34,
+            "_age_weeks": 638,
+            "_stars_per_week": 33.32,
             "_topics": [
                 "locust",
                 "load-testing",
@@ -2820,7 +2908,7 @@
                 "performance"
             ],
             "_last_commit_date": "2023-04-14T00:00:00.000Z",
-            "_pop_score": 65.94,
+            "_pop_score": 65.93,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -2828,7 +2916,7 @@
             "rank": 1
         },
         {
-            "index": 79,
+            "index": 82,
             "category": "testing",
             "_organization": "pytest-dev",
             "_repopath": "pytest-dev/pytest",
@@ -2842,7 +2930,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2015-06-15T00:00:00.000Z",
             "_age_weeks": 412,
-            "_stars_per_week": 24.57,
+            "_stars_per_week": 24.54,
             "_topics": [
                 "unit-testing",
                 "test",
@@ -2850,7 +2938,7 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
-            "_pop_score": 64.69,
+            "_pop_score": 64.68,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py",
@@ -2859,7 +2947,7 @@
             "rank": 2
         },
         {
-            "index": 80,
+            "index": 83,
             "category": "testing",
             "_organization": "robotframework",
             "_repopath": "robotframework/robotframework",
@@ -2873,7 +2961,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2014-06-27T00:00:00.000Z",
             "_age_weeks": 462,
-            "_stars_per_week": 17.29,
+            "_stars_per_week": 17.27,
             "_topics": [
                 "robotframework",
                 "testing",
@@ -2884,7 +2972,7 @@
                 "rpa"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 61.03,
+            "_pop_score": 61.02,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "setup.py"
@@ -2892,7 +2980,7 @@
             "rank": 3
         },
         {
-            "index": 81,
+            "index": 84,
             "category": "time-series",
             "_organization": "sktime",
             "_repopath": "sktime/sktime",
@@ -2905,8 +2993,8 @@
             "_description": "A unified framework for machine learning with time series",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-11-06T00:00:00.000Z",
-            "_age_weeks": 234,
-            "_stars_per_week": 27.42,
+            "_age_weeks": 235,
+            "_stars_per_week": 27.37,
             "_topics": [
                 "time-series",
                 "machine-learning",
@@ -2919,7 +3007,7 @@
                 "data-mining"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 66.45,
+            "_pop_score": 66.44,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -2927,7 +3015,7 @@
             "rank": 1
         },
         {
-            "index": 82,
+            "index": 85,
             "category": "time-series",
             "_organization": "unit8co",
             "_repopath": "unit8co/darts",
@@ -2940,8 +3028,8 @@
             "_description": "A python library for user-friendly forecasting and anomaly detection on time series.",
             "_updated_at": "2023-05-05T00:00:00.000Z",
             "_created_at": "2018-09-13T00:00:00.000Z",
-            "_age_weeks": 242,
-            "_stars_per_week": 24.02,
+            "_age_weeks": 243,
+            "_stars_per_week": 23.98,
             "_topics": [
                 "time-series",
                 "forecasting",
@@ -2951,7 +3039,7 @@
                 "data-science"
             ],
             "_last_commit_date": "2023-04-28T00:00:00.000Z",
-            "_pop_score": 60.19,
+            "_pop_score": 60.18,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "setup.py",
@@ -2960,7 +3048,7 @@
             "rank": 2
         },
         {
-            "index": 83,
+            "index": 86,
             "category": "time-series",
             "_organization": "facebook",
             "_repopath": "facebook/prophet",
@@ -2973,21 +3061,21 @@
             "_description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2016-11-16T00:00:00.000Z",
-            "_age_weeks": 337,
-            "_stars_per_week": 46.88,
+            "_age_weeks": 338,
+            "_stars_per_week": 46.82,
             "_topics": [
                 "time-series",
                 "forecasting",
                 "r"
             ],
             "_last_commit_date": "2023-02-28T00:00:00.000Z",
-            "_pop_score": 59.09,
+            "_pop_score": 59.08,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 3
         },
         {
-            "index": 84,
+            "index": 87,
             "category": "typing",
             "_organization": "python",
             "_repopath": "python/mypy",
@@ -3001,7 +3089,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2012-12-07T00:00:00.000Z",
             "_age_weeks": 543,
-            "_stars_per_week": 28.14,
+            "_stars_per_week": 28.12,
             "_topics": [
                 "types",
                 "typing",
@@ -3018,7 +3106,7 @@
             "rank": 1
         },
         {
-            "index": 85,
+            "index": 88,
             "category": "typing",
             "_organization": "microsoft",
             "_repopath": "microsoft/pyright",
@@ -3031,19 +3119,19 @@
             "_description": "Static Type Checker for Python",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-03-12T00:00:00.000Z",
-            "_age_weeks": 216,
-            "_stars_per_week": 47.09,
+            "_age_weeks": 217,
+            "_stars_per_week": 46.99,
             "_topics": [
                 "typechecker"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 66.72,
+            "_pop_score": 66.7,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 2
         },
         {
-            "index": 86,
+            "index": 89,
             "category": "typing",
             "_organization": "facebook",
             "_repopath": "facebook/pyre-check",
@@ -3057,7 +3145,7 @@
             "_updated_at": "2023-05-04T00:00:00.000Z",
             "_created_at": "2017-11-10T00:00:00.000Z",
             "_age_weeks": 286,
-            "_stars_per_week": 22.11,
+            "_stars_per_week": 22.07,
             "_topics": [
                 "typechecker",
                 "type-check",
@@ -3071,7 +3159,7 @@
                 "control-flow-analysis"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 58.29,
+            "_pop_score": 58.28,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -3080,7 +3168,7 @@
             "rank": 3
         },
         {
-            "index": 87,
+            "index": 90,
             "category": "util",
             "_organization": "python",
             "_repopath": "python/cpython",
@@ -3094,18 +3182,18 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2017-02-10T00:00:00.000Z",
             "_age_weeks": 325,
-            "_stars_per_week": 161.0,
+            "_stars_per_week": 160.79,
             "_topics": [
                 "cpython"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 88.98,
+            "_pop_score": 88.97,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [],
             "rank": 1
         },
         {
-            "index": 88,
+            "index": 91,
             "category": "util",
             "_organization": "charliermarsh",
             "_repopath": "charliermarsh/ruff",
@@ -3118,8 +3206,8 @@
             "_description": "An extremely fast Python linter, written in Rust.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-08-09T00:00:00.000Z",
-            "_age_weeks": 38,
-            "_stars_per_week": 369.17,
+            "_age_weeks": 39,
+            "_stars_per_week": 365.15,
             "_topics": [
                 "linter",
                 "pep8",
@@ -3132,7 +3220,7 @@
                 "ruff"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
-            "_pop_score": 88.15,
+            "_pop_score": 88.06,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -3140,7 +3228,7 @@
             "rank": 2
         },
         {
-            "index": 89,
+            "index": 92,
             "category": "util",
             "_organization": "home-assistant",
             "_repopath": "home-assistant/core",
@@ -3153,8 +3241,8 @@
             "_description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2013-09-17T00:00:00.000Z",
-            "_age_weeks": 502,
-            "_stars_per_week": 119.71,
+            "_age_weeks": 503,
+            "_stars_per_week": 119.61,
             "_topics": [
                 "home-automation",
                 "iot",
@@ -3165,7 +3253,7 @@
                 "hacktoberfest"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 87.47,
+            "_pop_score": 87.46,
             "_readme_filename": "README.rst",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -3174,7 +3262,7 @@
             "rank": 3
         },
         {
-            "index": 90,
+            "index": 93,
             "category": "viz",
             "_organization": "streamlit",
             "_repopath": "streamlit/streamlit",
@@ -3188,7 +3276,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2019-08-24T00:00:00.000Z",
             "_age_weeks": 193,
-            "_stars_per_week": 126.5,
+            "_stars_per_week": 126.22,
             "_topics": [
                 "machine-learning",
                 "data-science",
@@ -3199,13 +3287,13 @@
                 "developer-tools"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 75.22,
+            "_pop_score": 75.2,
             "_readme_filename": "README.md",
             "_requirements_filenames": [],
             "rank": 1
         },
         {
-            "index": 91,
+            "index": 94,
             "category": "viz",
             "_organization": "gradio-app",
             "_repopath": "gradio-app/gradio",
@@ -3218,8 +3306,8 @@
             "_description": "Create UIs for your machine learning model in Python in 3 minutes",
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-12-19T00:00:00.000Z",
-            "_age_weeks": 228,
-            "_stars_per_week": 74.27,
+            "_age_weeks": 229,
+            "_stars_per_week": 74.13,
             "_topics": [
                 "machine-learning",
                 "models",
@@ -3236,7 +3324,7 @@
                 "deploy"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 72.37,
+            "_pop_score": 72.35,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "requirements.txt",
@@ -3245,7 +3333,7 @@
             "rank": 2
         },
         {
-            "index": 92,
+            "index": 95,
             "category": "viz",
             "_organization": "matplotlib",
             "_repopath": "matplotlib/matplotlib",
@@ -3259,7 +3347,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2011-02-19T00:00:00.000Z",
             "_age_weeks": 637,
-            "_stars_per_week": 27.2,
+            "_stars_per_week": 27.18,
             "_topics": [
                 "matplotlib",
                 "data-visualization",
@@ -3281,7 +3369,7 @@
             "rank": 3
         },
         {
-            "index": 93,
+            "index": 96,
             "category": "web",
             "_organization": "django",
             "_repopath": "django/django",
@@ -3295,7 +3383,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2012-04-28T00:00:00.000Z",
             "_age_weeks": 575,
-            "_stars_per_week": 122.18,
+            "_stars_per_week": 122.09,
             "_topics": [
                 "django",
                 "web",
@@ -3316,7 +3404,7 @@
             "rank": 1
         },
         {
-            "index": 94,
+            "index": 97,
             "category": "web",
             "_organization": "tiangolo",
             "_repopath": "tiangolo/fastapi",
@@ -3330,7 +3418,7 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2018-12-08T00:00:00.000Z",
             "_age_weeks": 230,
-            "_stars_per_week": 249.62,
+            "_stars_per_week": 249.16,
             "_topics": [
                 "json",
                 "swagger-ui",
@@ -3352,7 +3440,7 @@
                 "web"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
-            "_pop_score": 80.6,
+            "_pop_score": 80.59,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"
@@ -3360,7 +3448,7 @@
             "rank": 2
         },
         {
-            "index": 95,
+            "index": 98,
             "category": "web",
             "_organization": "pyscript",
             "_repopath": "pyscript/pyscript",
@@ -3374,14 +3462,14 @@
             "_updated_at": "2023-05-06T00:00:00.000Z",
             "_created_at": "2022-02-21T00:00:00.000Z",
             "_age_weeks": 63,
-            "_stars_per_week": 262.43,
+            "_stars_per_week": 260.66,
             "_topics": [
                 "html",
                 "javascript",
                 "wasm"
             ],
             "_last_commit_date": "2023-05-06T00:00:00.000Z",
-            "_pop_score": 78.22,
+            "_pop_score": 78.17,
             "_readme_filename": "README.md",
             "_requirements_filenames": [
                 "pyproject.toml"

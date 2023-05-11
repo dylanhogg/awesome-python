@@ -19,7 +19,7 @@ created 2019-08-24, last commit 2023-05-06, main language Python
 Create UIs for your machine learning model in Python in 3 minutes  
 [http://www.gradio.app](http://www.gradio.app)  
 [https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)  
-74 stars per week over 228 weeks  
+74 stars per week over 229 weeks  
 16,987 stars, 1,116 forks, 118 watches  
 created 2018-12-19, last commit 2023-05-06, main language HTML  
 <sub><sup>data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python-notebook, ui, ui-components</sup></sub>
@@ -59,7 +59,7 @@ created 2015-04-10, last commit 2023-04-26, main language Python
 The interactive graphing library for Python :sparkles: This project now includes Plotly Express!  
 [https://plotly.com/python/](https://plotly.com/python/)  
 [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)  
-27 stars per week over 493 weeks  
+27 stars per week over 494 weeks  
 13,389 stars, 2,355 forks, 277 watches  
 created 2013-11-21, last commit 2023-05-05, main language Python  
 <sub><sup>d3, dashboard, declarative, graph-library, interactive, jupyter-notebook, plotly, plotly-dash, plotlyjs, regl, sparkles, visualization, webgl</sup></sub>
@@ -69,7 +69,7 @@ created 2013-11-21, last commit 2023-05-05, main language Python
 WebGL2 powered visualization framework  
 [https://deck.gl](https://deck.gl)  
 [https://github.com/visgl/deck.gl](https://github.com/visgl/deck.gl)  
-28 stars per week over 385 weeks  
+28 stars per week over 386 weeks  
 10,846 stars, 1,976 forks, 1,712 watches  
 created 2015-12-15, last commit 2023-05-05, main language JavaScript  
 <sub><sup>data-visualization, geospatial-analysis, javascript, maps, visualization, webgl</sup></sub>
@@ -108,7 +108,7 @@ created 2021-03-05, last commit 2023-02-15, main language Jupyter Notebook
 A high-level app and dashboarding solution for Python  
 [https://panel.holoviz.org](https://panel.holoviz.org)  
 [https://github.com/holoviz/panel](https://github.com/holoviz/panel)  
-11 stars per week over 245 weeks  
+11 stars per week over 246 weeks  
 2,740 stars, 328 forks, 49 watches  
 created 2018-08-23, last commit 2023-05-06, main language Python  
 <sub><sup>bokeh, control-panels, dashboards, dataapp, datascience, dataviz, gui, holoviews, holoviz, hvplot, jupyter, matplotlib, panel, plotly</sup></sub>
@@ -118,7 +118,7 @@ created 2018-08-23, last commit 2023-05-06, main language Python
 Main repository for Vispy  
 [http://vispy.org](http://vispy.org)  
 [https://github.com/vispy/vispy](https://github.com/vispy/vispy)  
-5.78 stars per week over 528 weeks  
+5.78 stars per week over 529 weeks  
 3,055 stars, 603 forks, 119 watches  
 created 2013-03-21, last commit 2023-05-03, main language Python  
 <sub><sup>closember, hacktoberfest, opengl, visualization</sup></sub>
@@ -128,7 +128,7 @@ created 2013-03-21, last commit 2023-05-03, main language Python
 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)  
 [https://docs.pyvista.org](https://docs.pyvista.org)  
 [https://github.com/pyvista/pyvista](https://github.com/pyvista/pyvista)  
-5.74 stars per week over 309 weeks  
+5.74 stars per week over 310 weeks  
 1,779 stars, 326 forks, 31 watches  
 created 2017-05-31, last commit 2023-05-05, main language Python  
 <sub><sup>3d, hacktoberfest, mesh, mesh-processing, meshviewer, open-science, plotting, scientific-research, scientific-visualization, visualization, vtk</sup></sub>
@@ -138,7 +138,7 @@ created 2017-05-31, last commit 2023-05-05, main language Python
 Fast data visualization and GUI tools for scientific / engineering applications  
 [http://www.pyqtgraph.org](http://www.pyqtgraph.org)  
 [https://github.com/pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)  
-6.42 stars per week over 503 weeks  
+6.41 stars per week over 504 weeks  
 3,233 stars, 1,005 forks, 152 watches  
 created 2013-09-12, last commit 2023-05-03, main language Python  
 <sub><sup>hacktoberfest, numpy, qt, scientific-visualization, visualization</sup></sub>
@@ -158,7 +158,7 @@ created 2019-07-15, last commit 2023-05-01, main language TypeScript
 A python module for scientific analysis of 3D data based on VTK and Numpy  
 [https://vedo.embl.es](https://vedo.embl.es)  
 [https://github.com/marcomusy/vedo](https://github.com/marcomusy/vedo)  
-5.67 stars per week over 286 weeks  
+5.66 stars per week over 286 weeks  
 1,624 stars, 230 forks, 28 watches  
 created 2017-11-10, last commit 2023-05-01, main language Python  
 <sub><sup>3d, 3d-graphics, dolfin, fenics, finite-elements, mesh, numpy, scientific-research, scientific-visualization, simulations, visualization, vtk</sup></sub>
@@ -168,7 +168,7 @@ created 2017-11-10, last commit 2023-05-01, main language Python
 With Holoviews, your data visualizes itself.  
 [https://holoviews.org](https://holoviews.org)  
 [https://github.com/holoviz/holoviews](https://github.com/holoviz/holoviews)  
-5.15 stars per week over 469 weeks  
+5.15 stars per week over 470 weeks  
 2,420 stars, 376 forks, 61 watches  
 created 2014-05-07, last commit 2023-05-05, main language Python  
 <sub><sup>holoviews, holoviz, plotting</sup></sub>
@@ -188,7 +188,7 @@ created 2017-04-24, last commit 2023-04-19, main language Python
 Build full-stack data apps in 100% Python  
 [https://datapane.com](https://datapane.com)  
 [https://github.com/datapane/datapane](https://github.com/datapane/datapane)  
-7.5 stars per week over 158 weeks  
+7.48 stars per week over 159 weeks  
 1,190 stars, 75 forks, 15 watches  
 created 2020-04-23, last commit 2023-04-21, main language Python  
 <sub><sup>dashboard, data-visualization, reporting</sup></sub>
@@ -197,7 +197,7 @@ created 2020-04-23, last commit 2023-04-21, main language Python
 ### [lux](https://github.com/lux-org/lux) by [lux-org](https://github.com/lux-org)  
 Automatically visualize your pandas dataframe via a single print! 📊 💡  
 [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
-26 stars per week over 173 weeks  
+26 stars per week over 174 weeks  
 4,554 stars, 347 forks, 89 watches  
 created 2020-01-08, last commit 2022-05-21, main language Python  
 <sub><sup>data-science, exploratory-data-analysis, jupyter, pandas, visualization, visualization-tools</sup></sub>
@@ -207,7 +207,7 @@ created 2020-01-08, last commit 2022-05-21, main language Python
 Bootstrap components for Plotly Dash  
 [https://dash-bootstrap-components.opensource.faculty.ai/](https://dash-bootstrap-components.opensource.faculty.ai/)  
 [https://github.com/facultyai/dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components)  
-4.05 stars per week over 241 weeks  
+4.04 stars per week over 241 weeks  
 977 stars, 207 forks, 22 watches  
 created 2018-09-21, last commit 2023-03-17, main language JavaScript  
 <sub><sup>bootstrap, dashboards, julia, plotly-dash, r</sup></sub>
@@ -225,7 +225,7 @@ created 2019-11-08, last commit 2023-03-03, main language TypeScript
 ### [deepscatter](https://github.com/nomic-ai/deepscatter) by [nomic-ai](https://github.com/nomic-ai)  
 Zoomable, animated scatterplots in the browser that scales over a billion points  
 [https://github.com/nomic-ai/deepscatter](https://github.com/nomic-ai/deepscatter)  
-3.37 stars per week over 235 weeks  
+3.37 stars per week over 236 weeks  
 796 stars, 26 forks, 13 watches  
 created 2018-10-30, last commit 2023-04-14, main language TypeScript  
 <sub><sup>data-visualization, visualization, webgl</sup></sub>
@@ -235,7 +235,7 @@ created 2018-10-30, last commit 2023-04-14, main language TypeScript
 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.  
 [https://opyrator-playground.mltooling.org](https://opyrator-playground.mltooling.org)  
 [https://github.com/ml-tooling/opyrator](https://github.com/ml-tooling/opyrator)  
-26 stars per week over 108 weeks  
+25 stars per week over 109 weeks  
 2,840 stars, 141 forks, 49 watches  
 created 2021-04-06, last commit 2021-05-06, main language Python  
 <sub><sup>deployment, faas, fastapi, functions, machine-learning, microservices, pydantic, python-functions, serverless, streamlit, type-hints</sup></sub>
@@ -245,7 +245,7 @@ created 2021-04-06, last commit 2021-05-06, main language Python
 3D visualization of scientific data in Python  
 [http://docs.enthought.com/mayavi/mayavi/](http://docs.enthought.com/mayavi/mayavi/)  
 [https://github.com/enthought/mayavi](https://github.com/enthought/mayavi)  
-1.75 stars per week over 641 weeks  
+1.74 stars per week over 641 weeks  
 1,119 stars, 269 forks, 100 watches  
 created 2011-01-24, last commit 2022-10-18, main language Python  
 <sub><sup>scientific-visualization, visualization</sup></sub>
@@ -274,7 +274,7 @@ created 2017-09-22, last commit 2023-04-19, main language Python
 ### [nodevectors](https://github.com/vhranger/nodevectors) by [vhranger](https://github.com/vhranger)  
 Fastest network node embeddings in the west  
 [https://github.com/vhranger/nodevectors](https://github.com/vhranger/nodevectors)  
-2.36 stars per week over 197 weeks  
+2.35 stars per week over 198 weeks  
 466 stars, 55 forks, 11 watches  
 created 2019-07-25, last commit 2021-11-06, main language Python  
 
@@ -282,13 +282,13 @@ created 2019-07-25, last commit 2021-11-06, main language Python
 ### [chartpy](https://github.com/cuemacro/chartpy) by [cuemacro](https://github.com/cuemacro)  
 Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more  
 [https://github.com/cuemacro/chartpy](https://github.com/cuemacro/chartpy)  
-1.47 stars per week over 352 weeks  
+1.46 stars per week over 353 weeks  
 517 stars, 99 forks, 49 watches  
 created 2016-08-03, last commit 2022-11-02, main language Python  
 <sub><sup>bokeh, chart, matplotlib, plotly, plotting</sup></sub>
 
 
-This file was automatically generated on 2023-05-08.  
+This file was automatically generated on 2023-05-11.  
 
 To curate your own github list, simply clone and change the input csv file.  
 
