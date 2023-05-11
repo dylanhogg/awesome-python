@@ -1,224 +1,134 @@
-# Crazy Awesome Python
-A selection of 22 curated time-series Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [sktime](https://github.com/sktime/sktime)  
-A unified framework for machine learning with time series  
+<a href="https://github.com/sktime)">sktime</a>/<b><a href="https://github.com/sktime/sktime">sktime</a></b>  
 [https://www.sktime.net](https://www.sktime.net)  
-[https://github.com/sktime/sktime](https://github.com/sktime/sktime)  
-27 stars per week over 235 weeks  
-6,440 stars, 1,079 forks, 106 watches  
-created 2018-11-06, last commit 2023-05-05, main language Python  
-<sub><sup>data-mining, data-science, forecasting, machine-learning, scikit-learn, time-series, time-series-analysis, time-series-classification, time-series-regression</sup></sub>
+A unified framework for machine learning with time series  
+Score: 66/100, Stars: 6,440, Stars/week: 27, Forks: 1,079  
 
 
-### [darts](https://github.com/unit8co/darts) by [unit8co](https://github.com/unit8co)  
-A python library for user-friendly forecasting and anomaly detection on time series.  
+<a href="https://github.com/unit8co)">unit8co</a>/<b><a href="https://github.com/unit8co/darts">darts</a></b>  
 [https://unit8co.github.io/darts/](https://unit8co.github.io/darts/)  
-[https://github.com/unit8co/darts](https://github.com/unit8co/darts)  
-23 stars per week over 243 weeks  
-5,827 stars, 653 forks, 50 watches  
-created 2018-09-13, last commit 2023-04-28, main language Python  
-<sub><sup>anomaly-detection, data-science, deep-learning, forecasting, machine-learning, time-series</sup></sub>
+A python library for user-friendly forecasting and anomaly detection on time series.  
+Score: 60/100, Stars: 5,827, Stars/week: 23, Forks: 653  
 
 
-### [prophet](https://github.com/facebook/prophet) by [facebook](https://github.com/facebook)  
-Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.  
+<a href="https://github.com/facebook)">facebook</a>/<b><a href="https://github.com/facebook/prophet">prophet</a></b>  
 [https://facebook.github.io/prophet](https://facebook.github.io/prophet)  
-[https://github.com/facebook/prophet](https://github.com/facebook/prophet)  
-46 stars per week over 338 weeks  
-15,832 stars, 4,402 forks, 422 watches  
-created 2016-11-16, last commit 2023-02-28, main language Python  
-<sub><sup>forecasting, r, time-series</sup></sub>
+Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.  
+Score: 59/100, Stars: 15,832, Stars/week: 46, Forks: 4,402  
 
 
-### [gluonts](https://github.com/awslabs/gluonts) by [awslabs](https://github.com/awslabs)  
-Probabilistic time series modeling in Python  
+<a href="https://github.com/awslabs)">awslabs</a>/<b><a href="https://github.com/awslabs/gluonts">gluonts</a></b>  
 [https://ts.gluon.ai](https://ts.gluon.ai)  
-[https://github.com/awslabs/gluonts](https://github.com/awslabs/gluonts)  
-16 stars per week over 208 weeks  
-3,519 stars, 697 forks, 71 watches  
-created 2019-05-15, last commit 2023-05-05, main language Python  
-<sub><sup>artificial-intelligence, aws, data-science, deep-learning, forecasting, machine-learning, mxnet, neural-networks, pytorch, sagemaker, time-series, time-series-forecasting, time-series-prediction, timeseries, torch</sup></sub>
+Probabilistic time series modeling in Python  
+Score: 58/100, Stars: 3,519, Stars/week: 16, Forks: 697  
 
 
-### [statsforecast](https://github.com/nixtla/statsforecast) by [nixtla](https://github.com/nixtla)  
-Lightning ⚡️ fast forecasting with statistical and econometric models.  
+<a href="https://github.com/nixtla)">nixtla</a>/<b><a href="https://github.com/nixtla/statsforecast">statsforecast</a></b>  
 [https://nixtla.github.io/statsforecast/](https://nixtla.github.io/statsforecast/)  
-[https://github.com/nixtla/statsforecast](https://github.com/nixtla/statsforecast)  
-33 stars per week over 76 weeks  
-2,520 stars, 169 forks, 23 watches  
-created 2021-11-24, last commit 2023-04-22, main language Python  
-<sub><sup>arima, automl, baselines, data-science, econometrics, ets, exponential-smoothing, fbprophet, forecasting, machine-learning, mstl, naive, neuralprophet, predictions, prophet, seasonal-naive, statistics, theta, time-series</sup></sub>
+Lightning ⚡️ fast forecasting with statistical and econometric models.  
+Score: 58/100, Stars: 2,520, Stars/week: 33, Forks: 169  
 
 
-### [Kats](https://github.com/facebookresearch/kats) by [facebookresearch](https://github.com/facebookresearch)  
+<a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/kats">Kats</a></b>  
 Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.   
-[https://github.com/facebookresearch/kats](https://github.com/facebookresearch/kats)  
-37 stars per week over 115 weeks  
-4,355 stars, 476 forks, 74 watches  
-created 2021-02-25, last commit 2023-05-03, main language Python  
-<sub><sup>time-series</sup></sub>
+Score: 56/100, Stars: 4,355, Stars/week: 37, Forks: 476  
 
 
-### [stumpy](https://github.com/tdameritrade/stumpy) by [tdameritrade](https://github.com/tdameritrade)  
-STUMPY is a powerful and scalable Python library for modern time series analysis  
+<a href="https://github.com/tdameritrade)">tdameritrade</a>/<b><a href="https://github.com/tdameritrade/stumpy">stumpy</a></b>  
 [https://stumpy.readthedocs.io/en/latest/](https://stumpy.readthedocs.io/en/latest/)  
-[https://github.com/tdameritrade/stumpy](https://github.com/tdameritrade/stumpy)  
-12 stars per week over 209 weeks  
-2,660 stars, 256 forks, 53 watches  
-created 2019-05-03, last commit 2023-05-06, main language Python  
-<sub><sup>anomaly-detection, dask, data-science, matrix-profile, motif-discovery, numba, pattern-matching, pydata, time-series-analysis, time-series-data-mining, time-series-segmentation</sup></sub>
+STUMPY is a powerful and scalable Python library for modern time series analysis  
+Score: 54/100, Stars: 2,660, Stars/week: 12, Forks: 256  
 
 
-### [tsfresh](https://github.com/blue-yonder/tsfresh) by [blue-yonder](https://github.com/blue-yonder)  
-Automatic extraction of relevant features from time series:  
+<a href="https://github.com/blue-yonder)">blue-yonder</a>/<b><a href="https://github.com/blue-yonder/tsfresh">tsfresh</a></b>  
 [http://tsfresh.readthedocs.io](http://tsfresh.readthedocs.io)  
-[https://github.com/blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh)  
-21 stars per week over 341 weeks  
-7,301 stars, 1,147 forks, 161 watches  
-created 2016-10-26, last commit 2023-05-01, main language Jupyter Notebook  
-<sub><sup>data-science, feature-extraction, time-series</sup></sub>
+Automatic extraction of relevant features from time series:  
+Score: 53/100, Stars: 7,301, Stars/week: 21, Forks: 1,147  
 
 
-### [Merlion](https://github.com/salesforce/merlion) by [salesforce](https://github.com/salesforce)  
+<a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/merlion">Merlion</a></b>  
 Merlion: A Machine Learning Framework for Time Series Intelligence  
-[https://github.com/salesforce/merlion](https://github.com/salesforce/merlion)  
-31 stars per week over 93 weeks  
-2,956 stars, 254 forks, 48 watches  
-created 2021-07-28, last commit 2023-03-22, main language Python  
-<sub><sup>anomaly-detection, automl, benchmarking, ensemble-learning, forecasting, machine-learning, time-series</sup></sub>
+Score: 51/100, Stars: 2,956, Stars/week: 31, Forks: 254  
 
 
-### [flow-forecast](https://github.com/aistream-peelout/flow-forecast) by [aistream-peelout](https://github.com/aistream-peelout)  
-Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  
+<a href="https://github.com/aistream-peelout)">aistream-peelout</a>/<b><a href="https://github.com/aistream-peelout/flow-forecast">flow-forecast</a></b>  
 [https://flow-forecast.atlassian.net/wiki/spaces/FF/overview](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview)  
-[https://github.com/aistream-peelout/flow-forecast](https://github.com/aistream-peelout/flow-forecast)  
-7.32 stars per week over 195 weeks  
-1,427 stars, 235 forks, 21 watches  
-created 2019-08-15, last commit 2023-05-05, main language Python  
-<sub><sup>anomaly-detection, deep-learning, deep-neural-networks, forecasting, hacktoberfest, lstm, pytorch, state-of-the-art-models, time-series, time-series-analysis, time-series-forecasting, time-series-regression, transfer-learning, transformer</sup></sub>
+Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  
+Score: 43/100, Stars: 1,427, Stars/week: 7, Forks: 235  
 
 
-### [orbit](https://github.com/uber/orbit) by [uber](https://github.com/uber)  
-A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.  
+<a href="https://github.com/uber)">uber</a>/<b><a href="https://github.com/uber/orbit">orbit</a></b>  
 [https://orbit-ml.readthedocs.io/en/stable/](https://orbit-ml.readthedocs.io/en/stable/)  
-[https://github.com/uber/orbit](https://github.com/uber/orbit)  
-9.36 stars per week over 174 weeks  
-1,631 stars, 125 forks, 34 watches  
-created 2020-01-07, last commit 2023-01-29, main language Python  
-<sub><sup>arima, bayesian, bayesian-methods, bayesian-statistics, changepoint, exponential-smoothing, forecast, forecasting, machine-learning, orbit, probabilistic, probabilistic-programming, pyro, pystan, pytorch, regression, regression-models, stan, time-series</sup></sub>
+A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.  
+Score: 41/100, Stars: 1,631, Stars/week: 9, Forks: 125  
 
 
-### [pmdarima](https://github.com/alkaline-ml/pmdarima) by [alkaline-ml](https://github.com/alkaline-ml)  
-A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  
+<a href="https://github.com/alkaline-ml)">alkaline-ml</a>/<b><a href="https://github.com/alkaline-ml/pmdarima">pmdarima</a></b>  
 [https://www.alkaline-ml.com/pmdarima](https://www.alkaline-ml.com/pmdarima)  
-[https://github.com/alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima)  
-4.24 stars per week over 319 weeks  
-1,354 stars, 224 forks, 35 watches  
-created 2017-03-30, last commit 2023-03-15, main language Python  
-<sub><sup>arima, econometrics, forecasting, forecasting-models, machine-learning, pmdarima, sarimax, time-series</sup></sub>
+A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  
+Score: 38/100, Stars: 1,354, Stars/week: 4, Forks: 224  
 
 
-### [arch](https://github.com/bashtage/arch) by [bashtage](https://github.com/bashtage)  
+<a href="https://github.com/bashtage)">bashtage</a>/<b><a href="https://github.com/bashtage/arch">arch</a></b>  
 ARCH models in Python  
-[https://github.com/bashtage/arch](https://github.com/bashtage/arch)  
-2.42 stars per week over 453 weeks  
-1,098 stars, 236 forks, 43 watches  
-created 2014-08-29, last commit 2023-04-26, main language Python  
-<sub><sup>adf, arch, bootstrap, df-gls, dickey-fuller, finance, financial-econometrics, forecasting, model-confidence-set, multiple-comparison-procedures, phillips-perron, reality-check, risk, spa, time-series, unit-root, variance, volatility</sup></sub>
+Score: 35/100, Stars: 1,098, Stars/week: 2, Forks: 236  
 
 
-### [pastas](https://github.com/pastas/pastas)  
-:spaghetti: Pastas is an open-source Python framework for the analysis of groundwater time series.  
+<a href="https://github.com/pastas)">pastas</a>/<b><a href="https://github.com/pastas/pastas">pastas</a></b>  
 [https://pastas.readthedocs.io](https://pastas.readthedocs.io)  
-[https://github.com/pastas/pastas](https://github.com/pastas/pastas)  
-0.83 stars per week over 368 weeks  
-305 stars, 58 forks, 17 watches  
-created 2016-04-15, last commit 2023-02-07, main language Python  
-<sub><sup>analysis, groundwater, hydrology, pastas, timeseries</sup></sub>
+:spaghetti: Pastas is an open-source Python framework for the analysis of groundwater time series.  
+Score: 34/100, Stars: 305, Stars/week: 1, Forks: 58  
 
 
-### [microprediction](https://github.com/microprediction/microprediction)  
-If you can measure it, consider it predicted  
+<a href="https://github.com/microprediction)">microprediction</a>/<b><a href="https://github.com/microprediction/microprediction">microprediction</a></b>  
 [http://www.microprediction.org](http://www.microprediction.org)  
-[https://github.com/microprediction/microprediction](https://github.com/microprediction/microprediction)  
-1.53 stars per week over 168 weeks  
-257 stars, 47 forks, 13 watches  
-created 2020-02-20, last commit 2023-05-04, main language Jupyter Notebook  
-<sub><sup>fbprophet, filterpy, hmmlearn, kalman-filter, keras, nowcasting, online-algorithms, pmdarima, time-series, timeseries, timeseries-analysis, timeseries-clustering, timeseries-data, timeseries-database, timeseries-forecasting, timeseries-prediction, tsfresh, tslearn</sup></sub>
+If you can measure it, consider it predicted  
+Score: 34/100, Stars: 257, Stars/week: 2, Forks: 47  
 
 
-### [Auto_TS](https://github.com/autoviml/auto_ts) by [autoviml](https://github.com/autoviml)  
+<a href="https://github.com/autoviml)">autoviml</a>/<b><a href="https://github.com/autoviml/auto_ts">Auto_TS</a></b>  
 Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.  
-[https://github.com/autoviml/auto_ts](https://github.com/autoviml/auto_ts)  
-3.38 stars per week over 168 weeks  
-571 stars, 99 forks, 18 watches  
-created 2020-02-15, last commit 2023-03-27, main language Jupyter Notebook  
-<sub><sup>arima, auto-arima, auto-sklearn, auto-timeseries, autokeras, automl, autosklearn, prophet, sklearn, time-series, time-series-analysis, tpot</sup></sub>
+Score: 33/100, Stars: 571, Stars/week: 3, Forks: 99  
 
 
-### [robustlearn](https://github.com/microsoft/robustlearn) by [microsoft](https://github.com/microsoft)  
-Robust machine learning for responsible AI  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/robustlearn">robustlearn</a></b>  
 [http://aka.ms/roblearn](http://aka.ms/roblearn)  
-[https://github.com/microsoft/robustlearn](https://github.com/microsoft/robustlearn)  
-7.21 stars per week over 29 weeks  
-209 stars, 15 forks, 6 watches  
-created 2022-10-20, last commit 2023-04-24, main language Python  
+Robust machine learning for responsible AI  
+Score: 33/100, Stars: 209, Stars/week: 7, Forks: 15  
 
 
-### [AutoTS](https://github.com/winedarksea/autots) by [winedarksea](https://github.com/winedarksea)  
+<a href="https://github.com/winedarksea)">winedarksea</a>/<b><a href="https://github.com/winedarksea/autots">AutoTS</a></b>  
 Automated Time Series Forecasting  
-[https://github.com/winedarksea/autots](https://github.com/winedarksea/autots)  
-4.05 stars per week over 180 weeks  
-730 stars, 68 forks, 17 watches  
-created 2019-11-26, last commit 2023-04-10, main language Python  
-<sub><sup>automl, autots, deep-learning, feature-engineering, forecasting, machine-learning, preprocessing, time-series</sup></sub>
+Score: 33/100, Stars: 730, Stars/week: 4, Forks: 68  
 
 
-### [pyflux](https://github.com/rjt1990/pyflux) by [rjt1990](https://github.com/rjt1990)  
+<a href="https://github.com/rjt1990)">rjt1990</a>/<b><a href="https://github.com/rjt1990/pyflux">pyflux</a></b>  
 Open source time series library for Python  
-[https://github.com/rjt1990/pyflux](https://github.com/rjt1990/pyflux)  
-5.38 stars per week over 377 weeks  
-2,029 stars, 236 forks, 69 watches  
-created 2016-02-16, last commit 2018-12-16, main language Python  
-<sub><sup>statistics, time-series</sup></sub>
+Score: 25/100, Stars: 2,029, Stars/week: 5, Forks: 236  
 
 
-### [atspy](https://github.com/firmai/atspy) by [firmai](https://github.com/firmai)  
-AtsPy: Automated Time Series Models in Python (by @firmai)  
+<a href="https://github.com/firmai)">firmai</a>/<b><a href="https://github.com/firmai/atspy">atspy</a></b>  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
-[https://github.com/firmai/atspy](https://github.com/firmai/atspy)  
-2.8 stars per week over 171 weeks  
-479 stars, 88 forks, 21 watches  
-created 2020-01-28, last commit 2021-12-18, main language Python  
-<sub><sup>automated, finance, forecasting, forecasting-models, time-series, time-series-analysis</sup></sub>
+AtsPy: Automated Time Series Models in Python (by @firmai)  
+Score: 19/100, Stars: 479, Stars/week: 3, Forks: 88  
 
 
-### [DeepTime](https://github.com/salesforce/deeptime) by [salesforce](https://github.com/salesforce)  
+<a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/deeptime">DeepTime</a></b>  
 PyTorch code for DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting  
-[https://github.com/salesforce/deeptime](https://github.com/salesforce/deeptime)  
-5.48 stars per week over 45 weeks  
-249 stars, 40 forks, 9 watches  
-created 2022-06-27, last commit 2022-11-03, main language Python  
-<sub><sup>deep-learning, forecasting, implicit-neural-representation, meta-learning, time-series, time-series-forecasting, time-series-regression</sup></sub>
+Score: 19/100, Stars: 249, Stars/week: 5, Forks: 40  
 
 
-### [PyCausality](https://github.com/zackeskin/pycausality) by [zackeskin](https://github.com/zackeskin)  
+<a href="https://github.com/zackeskin)">zackeskin</a>/<b><a href="https://github.com/zackeskin/pycausality">PyCausality</a></b>  
 Calculate predictive causality between time series using information-theoretic techniques  
-[https://github.com/zackeskin/pycausality](https://github.com/zackeskin/pycausality)  
-0.31 stars per week over 250 weeks  
-77 stars, 23 forks, 6 watches  
-created 2018-07-26, last commit 2018-12-24, main language Python  
+Score: 3/100, Stars: 77, Stars/week: 0, Forks: 23  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

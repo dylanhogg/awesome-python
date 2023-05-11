@@ -1,62 +1,38 @@
-# Crazy Awesome Python
-A selection of 5 curated gui Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [PySimpleGUI](https://github.com/pysimplegui/pysimplegui) by [pysimplegui](https://github.com/pysimplegui)  
-Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs  
-[https://github.com/pysimplegui/pysimplegui](https://github.com/pysimplegui/pysimplegui)  
-45 stars per week over 252 weeks  
-11,582 stars, 1,727 forks, 223 watches  
-created 2018-07-11, last commit 2023-04-26, main language Python  
-<sub><sup>beginner-friendly, datavisualization, games, gui, gui-framework, gui-programming, gui-window, pyside2, pysimplegui, python-gui, qt, qt-gui, remi, systemtray, tkinter, tkinter-gui, tkinter-python, user-interface, wxpython</sup></sub>
+<a href="https://github.com/pysimplegui)">pysimplegui</a>/<b><a href="https://github.com/pysimplegui/pysimplegui">PySimpleGUI</a></b>  
+Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookboo...  
+Score: 65/100, Stars: 11,582, Stars/week: 45, Forks: 1,727  
 
 
-### [DearPyGui](https://github.com/hoffstadt/dearpygui) by [hoffstadt](https://github.com/hoffstadt)  
-Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
+<a href="https://github.com/hoffstadt)">hoffstadt</a>/<b><a href="https://github.com/hoffstadt/dearpygui">DearPyGui</a></b>  
 [https://dearpygui.readthedocs.io/en/latest/](https://dearpygui.readthedocs.io/en/latest/)  
-[https://github.com/hoffstadt/dearpygui](https://github.com/hoffstadt/dearpygui)  
-65 stars per week over 154 weeks  
-10,141 stars, 548 forks, 140 watches  
-created 2020-05-28, last commit 2023-05-06, main language C++  
-<sub><sup>cpp, cross-platform, dearpygui, graphics, gui, imgui, linux, macos, native, python-gui, toolkit, tools, ui, windows</sup></sub>
+Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies  
+Score: 62/100, Stars: 10,141, Stars/week: 65, Forks: 548  
 
 
-### [pywebview](https://github.com/r0x0r/pywebview) by [r0x0r](https://github.com/r0x0r)  
-Build GUI for your Python program with JavaScript, HTML, and CSS  
+<a href="https://github.com/r0x0r)">r0x0r</a>/<b><a href="https://github.com/r0x0r/pywebview">pywebview</a></b>  
 [https://pywebview.flowrl.com](https://pywebview.flowrl.com)  
-[https://github.com/r0x0r/pywebview](https://github.com/r0x0r/pywebview)  
-7.97 stars per week over 442 weeks  
-3,523 stars, 460 forks, 59 watches  
-created 2014-11-20, last commit 2023-05-02, main language Python  
-<sub><sup>cef, cocoa, gtk, gui, html, javascript, linux, osx, qt, webkit, windows</sup></sub>
+Build GUI for your Python program with JavaScript, HTML, and CSS  
+Score: 51/100, Stars: 3,523, Stars/week: 8, Forks: 460  
 
 
-### [remi](https://github.com/dddomodossola/remi) by [dddomodossola](https://github.com/dddomodossola)  
+<a href="https://github.com/dddomodossola)">dddomodossola</a>/<b><a href="https://github.com/dddomodossola/remi">remi</a></b>  
 Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
-[https://github.com/dddomodossola/remi](https://github.com/dddomodossola/remi)  
-6.86 stars per week over 477 weeks  
-3,274 stars, 393 forks, 120 watches  
-created 2014-03-20, last commit 2023-03-22, main language Python  
-<sub><sup>gui, gui-library, platform-independent, remi, ui</sup></sub>
+Score: 45/100, Stars: 3,274, Stars/week: 7, Forks: 393  
 
 
-### [Phoenix](https://github.com/wxwidgets/phoenix) by [wxwidgets](https://github.com/wxwidgets)  
-wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
+<a href="https://github.com/wxwidgets)">wxwidgets</a>/<b><a href="https://github.com/wxwidgets/phoenix">Phoenix</a></b>  
 [http://wxpython.org/](http://wxpython.org/)  
-[https://github.com/wxwidgets/phoenix](https://github.com/wxwidgets/phoenix)  
-3.53 stars per week over 564 weeks  
-1,992 stars, 502 forks, 108 watches  
-created 2012-07-17, last commit 2023-05-01, main language Python  
-<sub><sup>awesome, cross-platform, gui, gui-framework, gui-toolkit, linux, macosx, windows, wxpython, wxwidgets</sup></sub>
+wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
+Score: 42/100, Stars: 1,992, Stars/week: 4, Forks: 502  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

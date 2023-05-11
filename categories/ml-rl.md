@@ -1,175 +1,106 @@
-# Crazy Awesome Python
-A selection of 17 curated ml-rl Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) by [lucidrains](https://github.com/lucidrains)  
+<a href="https://github.com/lucidrains)">lucidrains</a>/<b><a href="https://github.com/lucidrains/palm-rlhf-pytorch">PaLM-rlhf-pytorch</a></b>  
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
-[https://github.com/lucidrains/palm-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch)  
-298 stars per week over 21 weeks  
-6,528 stars, 542 forks, 126 watches  
-created 2022-12-09, last commit 2023-04-05, main language Python  
-<sub><sup>artificial-intelligence, attention-mechanisms, deep-learning, human-feedback, reinforcement-learning, transformers</sup></sub>
+Score: 70/100, Stars: 6,528, Stars/week: 298, Forks: 542  
 
 
-### [gym](https://github.com/openai/gym) by [openai](https://github.com/openai)  
-A toolkit for developing and comparing reinforcement learning algorithms.  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/gym">gym</a></b>  
 [https://www.gymlibrary.dev](https://www.gymlibrary.dev)  
-[https://github.com/openai/gym](https://github.com/openai/gym)  
-84 stars per week over 367 weeks  
-31,152 stars, 8,385 forks, 1,030 watches  
-created 2016-04-27, last commit 2023-01-30, main language Python  
-<sub><sup>reinforcement-learning</sup></sub>
+A toolkit for developing and comparing reinforcement learning algorithms.  
+Score: 69/100, Stars: 31,152, Stars/week: 84, Forks: 8,385  
 
 
-### [Gymnasium](https://github.com/farama-foundation/gymnasium) by [farama-foundation](https://github.com/farama-foundation)  
-A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)  
+<a href="https://github.com/farama-foundation)">farama-foundation</a>/<b><a href="https://github.com/farama-foundation/gymnasium">Gymnasium</a></b>  
 [https://gymnasium.farama.org](https://gymnasium.farama.org)  
-[https://github.com/farama-foundation/gymnasium](https://github.com/farama-foundation/gymnasium)  
-72 stars per week over 35 weeks  
-2,548 stars, 276 forks, 21 watches  
-created 2022-09-08, last commit 2023-05-03, main language Python  
-<sub><sup>api, gym, reinforcement-learning</sup></sub>
+A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)  
+Score: 67/100, Stars: 2,548, Stars/week: 72, Forks: 276  
 
 
-### [ml-agents](https://github.com/unity-technologies/ml-agents) by [unity-technologies](https://github.com/unity-technologies)  
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
+<a href="https://github.com/unity-technologies)">unity-technologies</a>/<b><a href="https://github.com/unity-technologies/ml-agents">ml-agents</a></b>  
 [https://unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
-[https://github.com/unity-technologies/ml-agents](https://github.com/unity-technologies/ml-agents)  
-49 stars per week over 295 weeks  
-14,619 stars, 3,830 forks, 549 watches  
-created 2017-09-08, last commit 2023-04-27, main language C#  
-<sub><sup>deep-learning, deep-reinforcement-learning, machine-learning, neural-networks, reinforcement-learning, unity, unity3d</sup></sub>
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
+Score: 62/100, Stars: 14,619, Stars/week: 49, Forks: 3,830  
 
 
-### [rl](https://github.com/pytorch/rl) by [pytorch](https://github.com/pytorch)  
+<a href="https://github.com/pytorch)">pytorch</a>/<b><a href="https://github.com/pytorch/rl">rl</a></b>  
 A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.  
-[https://github.com/pytorch/rl](https://github.com/pytorch/rl)  
-17 stars per week over 66 weeks  
-1,131 stars, 159 forks, 35 watches  
-created 2022-02-01, last commit 2023-05-05, main language Python  
-<sub><sup>reinforcement-learning</sup></sub>
+Score: 57/100, Stars: 1,131, Stars/week: 17, Forks: 159  
 
 
-### [tianshou](https://github.com/thu-ml/tianshou) by [thu-ml](https://github.com/thu-ml)  
-An elegant PyTorch deep reinforcement learning library.  
+<a href="https://github.com/thu-ml)">thu-ml</a>/<b><a href="https://github.com/thu-ml/tianshou">tianshou</a></b>  
 [https://tianshou.readthedocs.io](https://tianshou.readthedocs.io)  
-[https://github.com/thu-ml/tianshou](https://github.com/thu-ml/tianshou)  
-23 stars per week over 264 weeks  
-6,240 stars, 971 forks, 85 watches  
-created 2018-04-16, last commit 2023-04-30, main language Python  
-<sub><sup>a2c, atari, bcq, benchmark, cql, ddpg, double-dqn, dqn, drl, imitation-learning, mujoco, npg, policy-gradient, ppo, pytorch, rl, sac, td3, trpo</sup></sub>
+An elegant PyTorch deep reinforcement learning library.  
+Score: 56/100, Stars: 6,240, Stars/week: 23, Forks: 971  
 
 
-### [PettingZoo](https://github.com/pettingzoo-team/pettingzoo) by [pettingzoo-team](https://github.com/pettingzoo-team)  
-A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities  
+<a href="https://github.com/pettingzoo-team)">pettingzoo-team</a>/<b><a href="https://github.com/pettingzoo-team/pettingzoo">PettingZoo</a></b>  
 [https://pettingzoo.farama.org](https://pettingzoo.farama.org)  
-[https://github.com/pettingzoo-team/pettingzoo](https://github.com/pettingzoo-team/pettingzoo)  
-10 stars per week over 172 weeks  
-1,802 stars, 296 forks, 20 watches  
-created 2020-01-20, last commit 2023-05-03, main language Python  
-<sub><sup>api, gym, gymnasium, multi-agent-reinforcement-learning, reinforcement-learning</sup></sub>
+A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities  
+Score: 50/100, Stars: 1,802, Stars/week: 10, Forks: 296  
 
 
-### [pysc2](https://github.com/deepmind/pysc2) by [deepmind](https://github.com/deepmind)  
+<a href="https://github.com/deepmind)">deepmind</a>/<b><a href="https://github.com/deepmind/pysc2">pysc2</a></b>  
 StarCraft II Learning Environment  
-[https://github.com/deepmind/pysc2](https://github.com/deepmind/pysc2)  
-25 stars per week over 302 weeks  
-7,751 stars, 1,150 forks, 354 watches  
-created 2017-07-25, last commit 2023-04-19, main language Python  
-<sub><sup>blizzard-api, deepmind, machine-learning, reinforcement-learning, starcraft-ii, starcraft-ii-replays</sup></sub>
+Score: 50/100, Stars: 7,751, Stars/week: 25, Forks: 1,150  
 
 
-### [dopamine](https://github.com/google/dopamine) by [google](https://github.com/google)  
+<a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/dopamine">dopamine</a></b>  
+[https://github.com/google/dopamine](https://github.com/google/dopamine)  
 Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.   
-[https://github.com/google/dopamine](https://github.com/google/dopamine)  
-[https://github.com/google/dopamine](https://github.com/google/dopamine)  
-40 stars per week over 250 weeks  
-10,092 stars, 1,360 forks, 442 watches  
-created 2018-07-26, last commit 2023-03-20, main language Jupyter Notebook  
-<sub><sup>ai, google, ml, rl, tensorflow</sup></sub>
+Score: 50/100, Stars: 10,092, Stars/week: 40, Forks: 1,360  
 
 
-### [dm_control](https://github.com/deepmind/dm_control) by [deepmind](https://github.com/deepmind)  
+<a href="https://github.com/deepmind)">deepmind</a>/<b><a href="https://github.com/deepmind/dm_control">dm_control</a></b>  
 DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.  
-[https://github.com/deepmind/dm_control](https://github.com/deepmind/dm_control)  
-11 stars per week over 279 weeks  
-3,180 stars, 608 forks, 127 watches  
-created 2017-12-29, last commit 2023-04-25, main language Python  
-<sub><sup>artificial-intelligence, deep-learning, machine-learning, mujoco, neural-networks, physics-simulation, reinforcement-learning</sup></sub>
+Score: 49/100, Stars: 3,180, Stars/week: 11, Forks: 608  
 
 
-### [ReAgent](https://github.com/facebookresearch/reagent) by [facebookresearch](https://github.com/facebookresearch)  
-A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)  
+<a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/reagent">ReAgent</a></b>  
 [https://reagent.ai](https://reagent.ai)  
-[https://github.com/facebookresearch/reagent](https://github.com/facebookresearch/reagent)  
-11 stars per week over 302 weeks  
-3,386 stars, 509 forks, 152 watches  
-created 2017-07-27, last commit 2023-05-04, main language Python  
+A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)  
+Score: 48/100, Stars: 3,386, Stars/week: 11, Forks: 509  
 
 
-### [baselines](https://github.com/openai/baselines) by [openai](https://github.com/openai)  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/baselines">baselines</a></b>  
 OpenAI Baselines: high-quality implementations of reinforcement learning algorithms  
-[https://github.com/openai/baselines](https://github.com/openai/baselines)  
-46 stars per week over 311 weeks  
-14,318 stars, 4,645 forks, 627 watches  
-created 2017-05-24, last commit 2020-01-31, main language Python  
+Score: 48/100, Stars: 14,318, Stars/week: 46, Forks: 4,645  
 
 
-### [TensorLayer](https://github.com/tensorlayer/tensorlayer) by [tensorlayer](https://github.com/tensorlayer)  
-Deep Learning and Reinforcement Learning Library for Scientists and Engineers   
+<a href="https://github.com/tensorlayer)">tensorlayer</a>/<b><a href="https://github.com/tensorlayer/tensorlayer">TensorLayer</a></b>  
 [http://tensorlayerx.com](http://tensorlayerx.com)  
-[https://github.com/tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer)  
-19 stars per week over 361 weeks  
-7,178 stars, 1,629 forks, 464 watches  
-created 2016-06-07, last commit 2023-02-18, main language Python  
-<sub><sup>a3c, artificial-intelligence, chatbot, deep-learning, dqn, gan, google, imagenet, neural-network, object-detection, reinforcement-learning, tensorflow, tensorflow-tutorial, tensorflow-tutorials, tensorlayer</sup></sub>
+Deep Learning and Reinforcement Learning Library for Scientists and Engineers   
+Score: 48/100, Stars: 7,178, Stars/week: 19, Forks: 1,629  
 
 
-### [robosuite](https://github.com/arise-initiative/robosuite) by [arise-initiative](https://github.com/arise-initiative)  
-robosuite: A Modular Simulation Framework and Benchmark for Robot Learning  
+<a href="https://github.com/arise-initiative)">arise-initiative</a>/<b><a href="https://github.com/arise-initiative/robosuite">robosuite</a></b>  
 [https://robosuite.ai](https://robosuite.ai)  
-[https://github.com/arise-initiative/robosuite](https://github.com/arise-initiative/robosuite)  
-3.58 stars per week over 237 weeks  
-848 stars, 273 forks, 24 watches  
-created 2018-10-25, last commit 2023-04-11, main language Python  
-<sub><sup>physics-simulation, reinforcement-learning, robot-learning, robot-manipulation, robotics</sup></sub>
+robosuite: A Modular Simulation Framework and Benchmark for Robot Learning  
+Score: 35/100, Stars: 848, Stars/week: 4, Forks: 273  
 
 
-### [keras-rl](https://github.com/keras-rl/keras-rl)  
-Deep Reinforcement Learning for Keras.  
+<a href="https://github.com/keras-rl)">keras-rl</a>/<b><a href="https://github.com/keras-rl/keras-rl">keras-rl</a></b>  
 [http://keras-rl.readthedocs.io/](http://keras-rl.readthedocs.io/)  
-[https://github.com/keras-rl/keras-rl](https://github.com/keras-rl/keras-rl)  
-15 stars per week over 357 weeks  
-5,405 stars, 1,358 forks, 209 watches  
-created 2016-07-02, last commit 2019-11-11, main language Python  
-<sub><sup>keras, machine-learning, neural-networks, reinforcement-learning, tensorflow, theano</sup></sub>
+Deep Reinforcement Learning for Keras.  
+Score: 35/100, Stars: 5,405, Stars/week: 15, Forks: 1,358  
 
 
-### [warp-drive](https://github.com/salesforce/warp-drive) by [salesforce](https://github.com/salesforce)  
+<a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/warp-drive">warp-drive</a></b>  
 Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU (JMLR 2022)  
-[https://github.com/salesforce/warp-drive](https://github.com/salesforce/warp-drive)  
-4.13 stars per week over 89 weeks  
-368 stars, 69 forks, 12 watches  
-created 2021-08-25, last commit 2023-03-22, main language Python  
-<sub><sup>cuda, deep-learning, gpu, high-throughput, multiagent-reinforcement-learning, numba, pytorch, reinforcement-learning</sup></sub>
+Score: 35/100, Stars: 368, Stars/week: 4, Forks: 69  
 
 
-### [hh-rlhf](https://github.com/anthropics/hh-rlhf) by [anthropics](https://github.com/anthropics)  
-Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"  
+<a href="https://github.com/anthropics)">anthropics</a>/<b><a href="https://github.com/anthropics/hh-rlhf">hh-rlhf</a></b>  
 [https://arxiv.org/abs/2204.05862](https://arxiv.org/abs/2204.05862)  
-[https://github.com/anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf)  
-14 stars per week over 56 weeks  
-809 stars, 64 forks, 14 watches  
-created 2022-04-10, last commit 2022-08-24, main language None  
+Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"  
+Score: 27/100, Stars: 809, Stars/week: 14, Forks: 64  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

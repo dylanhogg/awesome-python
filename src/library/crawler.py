@@ -63,6 +63,7 @@ def _crawl_external_files(df_input: pd.DataFrame):
 
 def _save_json_data_files(df: pd.DataFrame,
                           output_json_filename: str,
+                          max_ui_description: int = 200,
                           max_ui_topics: int = 4,
                           max_ui_other_link: int = 1,
                           max_ui_arxiv: int = 1,
@@ -117,7 +118,8 @@ def _save_json_data_files(df: pd.DataFrame,
         ]
 
         df_min_ui = df[minjson_cols].copy()
-        # NOTE: max_ui_topics & max_ui_sim values impact capability on Javascript UI side!
+        # NOTE: max_ui_description, max_ui_topics & max_ui_sim etc values impact capability on Javascript UI side!
+        df_min_ui["_description"] = df_min_ui["_description"].apply(lambda x: x[0:max_ui_description])
         df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
         df_min_ui["_arxiv_links"] = df_min_ui["_arxiv_links"].apply(lambda x: x[0:max_ui_arxiv])
         df_min_ui["_pypi_links"] = df_min_ui["_pypi_links"].apply(lambda x: x[0:max_ui_pypi])
@@ -143,11 +145,7 @@ def _write_local_markdown_files(df: pd.DataFrame):
 
     # Write all results to README.md
     lines_footer = [
-        f"This file was automatically generated on {datetime.now().date()}.  "
-        f"\n\nTo curate your own github list, simply clone and change the input csv file.  "
-        f"\n\nInspired by:  "
-        f"\n[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  "
-        f"\n[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  "
+        f"This list was updated on {datetime.now().date()}."
     ]
     lines = []
     lines.extend(render.lines_header(len(df)))

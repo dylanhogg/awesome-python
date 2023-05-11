@@ -1,849 +1,505 @@
-# Crazy Awesome Python
-A selection of 92 curated chatgpt Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [langchain](https://github.com/hwchase17/langchain) by [hwchase17](https://github.com/hwchase17)  
+<a href="https://github.com/hwchase17)">hwchase17</a>/<b><a href="https://github.com/hwchase17/langchain">langchain</a></b>  
 ⚡ Building applications with LLMs through composability ⚡  
-[https://github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)  
-1192 stars per week over 29 weeks  
-35,082 stars, 3,804 forks, 386 watches  
-created 2022-10-17, last commit 2023-05-06, main language Python  
-<sub><sup>chatbot, langchain, language-model</sup></sub>
+Score: 86/100, Stars: 35,082, Stars/week: 1192, Forks: 3,804  
 
 
-### [ColossalAI](https://github.com/hpcaitech/colossalai) by [hpcaitech](https://github.com/hpcaitech)  
-Making large AI models cheaper, faster and more accessible  
+<a href="https://github.com/hpcaitech)">hpcaitech</a>/<b><a href="https://github.com/hpcaitech/colossalai">ColossalAI</a></b>  
 [https://www.colossalai.org](https://www.colossalai.org)  
-[https://github.com/hpcaitech/colossalai](https://github.com/hpcaitech/colossalai)  
-365 stars per week over 80 weeks  
-29,218 stars, 3,388 forks, 318 watches  
-created 2021-10-28, last commit 2023-05-06, main language Python  
-<sub><sup>ai, big-model, data-parallelism, deep-learning, distributed-computing, foundation-models, heterogeneous-training, hpc, inference, large-scale, model-parallelism, pipeline-parallelism</sup></sub>
+Making large AI models cheaper, faster and more accessible  
+Score: 86/100, Stars: 29,218, Stars/week: 365, Forks: 3,388  
 
 
-### [Auto-GPT](https://github.com/torantulino/auto-gpt) by [torantulino](https://github.com/torantulino)  
-An experimental open-source attempt to make GPT-4 fully autonomous.  
+<a href="https://github.com/torantulino)">torantulino</a>/<b><a href="https://github.com/torantulino/auto-gpt">Auto-GPT</a></b>  
 [https://agpt.co](https://agpt.co)  
-[https://github.com/torantulino/auto-gpt](https://github.com/torantulino/auto-gpt)  
-15649 stars per week over 8 weeks  
-125,195 stars, 24,650 forks, 1,401 watches  
-created 2023-03-16, last commit 2023-05-06, main language Python  
-<sub><sup>ai, artificial-intelligence, autonomous-agents, gpt-4, openai</sup></sub>
+An experimental open-source attempt to make GPT-4 fully autonomous.  
+Score: 86/100, Stars: 125,195, Stars/week: 15649, Forks: 24,650  
 
 
-### [ChatGPT](https://github.com/acheong08/chatgpt) by [acheong08](https://github.com/acheong08)  
+<a href="https://github.com/acheong08)">acheong08</a>/<b><a href="https://github.com/acheong08/chatgpt">ChatGPT</a></b>  
 Reverse engineered ChatGPT API  
-[https://github.com/acheong08/chatgpt](https://github.com/acheong08/chatgpt)  
-1110 stars per week over 22 weeks  
-25,228 stars, 4,107 forks, 271 watches  
-created 2022-12-03, last commit 2023-04-28, main language Python  
-<sub><sup>chatgpt, cli, gpt-35-turbo, gptchat, revchatgpt</sup></sub>
+Score: 85/100, Stars: 25,228, Stars/week: 1110, Forks: 4,107  
 
 
-### [llama_index](https://github.com/jerryjliu/llama_index) by [jerryjliu](https://github.com/jerryjliu)  
-LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
+<a href="https://github.com/jerryjliu)">jerryjliu</a>/<b><a href="https://github.com/jerryjliu/llama_index">llama_index</a></b>  
 [https://gpt-index.readthedocs.io/en/latest/](https://gpt-index.readthedocs.io/en/latest/)  
-[https://github.com/jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)  
-535 stars per week over 27 weeks  
-14,524 stars, 1,507 forks, 134 watches  
-created 2022-11-02, last commit 2023-05-06, main language Python  
-<sub><sup>language-model, llama, llama-index</sup></sub>
+LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
+Score: 85/100, Stars: 14,524, Stars/week: 535, Forks: 1,507  
 
 
-### [Open-Assistant](https://github.com/laion-ai/open-assistant) by [laion-ai](https://github.com/laion-ai)  
-OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.  
+<a href="https://github.com/laion-ai)">laion-ai</a>/<b><a href="https://github.com/laion-ai/open-assistant">Open-Assistant</a></b>  
 [https://open-assistant.io](https://open-assistant.io)  
-[https://github.com/laion-ai/open-assistant](https://github.com/laion-ai/open-assistant)  
-1494 stars per week over 21 weeks  
-31,805 stars, 2,691 forks, 403 watches  
-created 2022-12-13, last commit 2023-05-05, main language Python  
-<sub><sup>ai, assistant, chatgpt, discord-bot, language-model, machine-learning, nextjs, rlhf</sup></sub>
+OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.  
+Score: 85/100, Stars: 31,805, Stars/week: 1494, Forks: 2,691  
 
 
-### [llama.cpp](https://github.com/ggerganov/llama.cpp) by [ggerganov](https://github.com/ggerganov)  
+<a href="https://github.com/ggerganov)">ggerganov</a>/<b><a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a></b>  
 Port of Facebook's LLaMA model in C/C++  
-[https://github.com/ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)  
-2928 stars per week over 8 weeks  
-25,942 stars, 3,737 forks, 295 watches  
-created 2023-03-10, last commit 2023-05-05, main language C  
-<sub><sup>language-model, llama</sup></sub>
+Score: 84/100, Stars: 25,942, Stars/week: 2928, Forks: 3,737  
 
 
-### [EdgeGPT](https://github.com/acheong08/edgegpt) by [acheong08](https://github.com/acheong08)  
+<a href="https://github.com/acheong08)">acheong08</a>/<b><a href="https://github.com/acheong08/edgegpt">EdgeGPT</a></b>  
 Reverse engineered API of Microsoft's Bing Chat AI  
-[https://github.com/acheong08/edgegpt](https://github.com/acheong08/edgegpt)  
-488 stars per week over 13 weeks  
-6,354 stars, 653 forks, 70 watches  
-created 2023-02-09, last commit 2023-05-03, main language Python  
-<sub><sup>bing-ai, binggpt, chatgpt, edge, edgegpt, gpt, reverse-engineering</sup></sub>
+Score: 82/100, Stars: 6,354, Stars/week: 488, Forks: 653  
 
 
-### [babyagi](https://github.com/yoheinakajima/babyagi) by [yoheinakajima](https://github.com/yoheinakajima)  
+<a href="https://github.com/yoheinakajima)">yoheinakajima</a>/<b><a href="https://github.com/yoheinakajima/babyagi">babyagi</a></b>  
 GPT-4 powered task-driven autonomous agent  
-[https://github.com/yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)  
-2473 stars per week over 5 weeks  
-13,430 stars, 1,848 forks, 216 watches  
-created 2023-04-03, last commit 2023-05-01, main language Python  
-<sub><sup>artificial-intelligence, autonomous-agents</sup></sub>
+Score: 79/100, Stars: 13,430, Stars/week: 2473, Forks: 1,848  
 
 
-### [FastChat](https://github.com/lm-sys/fastchat) by [lm-sys](https://github.com/lm-sys)  
+<a href="https://github.com/lm-sys)">lm-sys</a>/<b><a href="https://github.com/lm-sys/fastchat">FastChat</a></b>  
 An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.  
-[https://github.com/lm-sys/fastchat](https://github.com/lm-sys/fastchat)  
-2402 stars per week over 7 weeks  
-18,188 stars, 1,989 forks, 245 watches  
-created 2023-03-19, last commit 2023-05-06, main language Python  
-<sub><sup>chatbot, evaluation, language-model</sup></sub>
+Score: 78/100, Stars: 18,188, Stars/week: 2402, Forks: 1,989  
 
 
-### [alpaca-lora](https://github.com/tloen/alpaca-lora) by [tloen](https://github.com/tloen)  
+<a href="https://github.com/tloen)">tloen</a>/<b><a href="https://github.com/tloen/alpaca-lora">alpaca-lora</a></b>  
 Instruct-tune LLaMA on consumer hardware  
-[https://github.com/tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)  
-1457 stars per week over 8 weeks  
-12,285 stars, 1,481 forks, 127 watches  
-created 2023-03-13, last commit 2023-04-18, main language Jupyter Notebook  
-<sub><sup>language-model, llama</sup></sub>
+Score: 77/100, Stars: 12,285, Stars/week: 1457, Forks: 1,481  
 
 
-### [ChatGLM-6B](https://github.com/thudm/chatglm-6b) by [thudm](https://github.com/thudm)  
+<a href="https://github.com/thudm)">thudm</a>/<b><a href="https://github.com/thudm/chatglm-6b">ChatGLM-6B</a></b>  
 ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型  
-[https://github.com/thudm/chatglm-6b](https://github.com/thudm/chatglm-6b)  
-2703 stars per week over 8 weeks  
-22,783 stars, 2,747 forks, 265 watches  
-created 2023-03-13, last commit 2023-05-06, main language Python  
-<sub><sup>language-model</sup></sub>
+Score: 77/100, Stars: 22,783, Stars/week: 2703, Forks: 2,747  
 
 
-### [gpt4free](https://github.com/xtekky/gpt4free) by [xtekky](https://github.com/xtekky)  
-decentralising the Ai Industry, just some language model api's...  
+<a href="https://github.com/xtekky)">xtekky</a>/<b><a href="https://github.com/xtekky/gpt4free">gpt4free</a></b>  
 [https://discord.gg/gpt4free](https://discord.gg/gpt4free)  
-[https://github.com/xtekky/gpt4free](https://github.com/xtekky/gpt4free)  
-5244 stars per week over 6 weeks  
-32,219 stars, 8,003 forks, 345 watches  
-created 2023-03-29, last commit 2023-05-06, main language Python  
-<sub><sup>chatbot, chatbots, chatgpt, chatgpt-4, chatgpt-api, chatgpt-free, chatgpt4, free-gpt, gpt, gpt-3, gpt-4, gpt3, gpt4, gpt4-api, language-model, openai, openai-api, openai-chatgpt, reverse-engineering</sup></sub>
+decentralising the Ai Industry, just some language model api's...  
+Score: 75/100, Stars: 32,219, Stars/week: 5244, Forks: 8,003  
 
 
-### [peft](https://github.com/huggingface/peft) by [huggingface](https://github.com/huggingface)  
-🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.  
+<a href="https://github.com/huggingface)">huggingface</a>/<b><a href="https://github.com/huggingface/peft">peft</a></b>  
 [https://huggingface.co/docs/peft](https://huggingface.co/docs/peft)  
-[https://github.com/huggingface/peft](https://github.com/huggingface/peft)  
-215 stars per week over 23 weeks  
-5,139 stars, 362 forks, 67 watches  
-created 2022-11-25, last commit 2023-05-03, main language Python  
-<sub><sup>adapter, diffusion, llm, parameter-efficient-learning, pytorch, transformers</sup></sub>
+🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.  
+Score: 75/100, Stars: 5,139, Stars/week: 215, Forks: 362  
 
 
-### [Grounded-Segment-Anything](https://github.com/idea-research/grounded-segment-anything) by [idea-research](https://github.com/idea-research)  
+<a href="https://github.com/idea-research)">idea-research</a>/<b><a href="https://github.com/idea-research/grounded-segment-anything">Grounded-Segment-Anything</a></b>  
 Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs  
-[https://github.com/idea-research/grounded-segment-anything](https://github.com/idea-research/grounded-segment-anything)  
-1593 stars per week over 5 weeks  
-7,968 stars, 658 forks, 89 watches  
-created 2023-04-06, last commit 2023-05-05, main language Jupyter Notebook  
-<sub><sup>automatic-labeling-system, caption, data-generation, open-vocabulary-detection, open-vocabulary-segmentation, speech</sup></sub>
+Score: 75/100, Stars: 7,968, Stars/week: 1593, Forks: 658  
 
 
-### [GPTCache](https://github.com/zilliztech/gptcache) by [zilliztech](https://github.com/zilliztech)  
-GPTCache is a library for creating semantic cache to store responses from LLM queries.  
+<a href="https://github.com/zilliztech)">zilliztech</a>/<b><a href="https://github.com/zilliztech/gptcache">GPTCache</a></b>  
 [https://gptcache.readthedocs.io](https://gptcache.readthedocs.io)  
-[https://github.com/zilliztech/gptcache](https://github.com/zilliztech/gptcache)  
-434 stars per week over 6 weeks  
-2,981 stars, 182 forks, 39 watches  
-created 2023-03-24, last commit 2023-05-07, main language Python  
-<sub><sup>aigc, autogpt, babyagi, chatbot, chatgpt, chatgpt-api, dolly, gpt, langchain, llama, llama-index, llm, memcache, milvus, openai, redis, semantic-search, similarity-search, vector-search</sup></sub>
+GPTCache is a library for creating semantic cache to store responses from LLM queries.  
+Score: 74/100, Stars: 2,981, Stars/week: 434, Forks: 182  
 
 
-### [TaskMatrix](https://github.com/microsoft/taskmatrix) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/taskmatrix">TaskMatrix</a></b>  
 Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.  
-[https://github.com/microsoft/taskmatrix](https://github.com/microsoft/taskmatrix)  
-3249 stars per week over 10 weeks  
-32,497 stars, 3,091 forks, 294 watches  
-created 2023-03-02, last commit 2023-04-26, main language Python  
-<sub><sup>chatgpt</sup></sub>
+Score: 74/100, Stars: 32,497, Stars/week: 3249, Forks: 3,091  
 
 
-### [LMFlow](https://github.com/optimalscale/lmflow) by [optimalscale](https://github.com/optimalscale)  
-An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.  
+<a href="https://github.com/optimalscale)">optimalscale</a>/<b><a href="https://github.com/optimalscale/lmflow">LMFlow</a></b>  
 [https://optimalscale.github.io/LMFlow/](https://optimalscale.github.io/LMFlow/)  
-[https://github.com/optimalscale/lmflow](https://github.com/optimalscale/lmflow)  
-783 stars per week over 6 weeks  
-5,034 stars, 508 forks, 55 watches  
-created 2023-03-27, last commit 2023-05-07, main language Python  
-<sub><sup>chatgpt, deep-learning, instruction-following, language-model, pretrained-models, pytorch, transformer</sup></sub>
+An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.  
+Score: 74/100, Stars: 5,034, Stars/week: 783, Forks: 508  
 
 
-### [gpt4all](https://github.com/nomic-ai/gpt4all) by [nomic-ai](https://github.com/nomic-ai)  
+<a href="https://github.com/nomic-ai)">nomic-ai</a>/<b><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></b>  
 gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue  
-[https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)  
-5824 stars per week over 6 weeks  
-37,443 stars, 3,985 forks, 494 watches  
-created 2023-03-27, last commit 2023-05-02, main language Python  
-<sub><sup>chatbot, language-model</sup></sub>
+Score: 74/100, Stars: 37,443, Stars/week: 5824, Forks: 3,985  
 
 
-### [lit-llama](https://github.com/lightning-ai/lit-llama) by [lightning-ai](https://github.com/lightning-ai)  
+<a href="https://github.com/lightning-ai)">lightning-ai</a>/<b><a href="https://github.com/lightning-ai/lit-llama">lit-llama</a></b>  
 Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.  
-[https://github.com/lightning-ai/lit-llama](https://github.com/lightning-ai/lit-llama)  
-431 stars per week over 7 weeks  
-3,081 stars, 206 forks, 49 watches  
-created 2023-03-22, last commit 2023-05-05, main language Python  
-<sub><sup>language-model, llama, nanogpt</sup></sub>
+Score: 74/100, Stars: 3,081, Stars/week: 431, Forks: 206  
 
 
-### [ChatRWKV](https://github.com/blinkdl/chatrwkv) by [blinkdl](https://github.com/blinkdl)  
+<a href="https://github.com/blinkdl)">blinkdl</a>/<b><a href="https://github.com/blinkdl/chatrwkv">ChatRWKV</a></b>  
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.  
-[https://github.com/blinkdl/chatrwkv](https://github.com/blinkdl/chatrwkv)  
-394 stars per week over 16 weeks  
-6,653 stars, 460 forks, 84 watches  
-created 2023-01-13, last commit 2023-05-07, main language Python  
-<sub><sup>chatbot, chatgpt, language-model, pytorch, rnn, rwkv</sup></sub>
+Score: 74/100, Stars: 6,653, Stars/week: 394, Forks: 460  
 
 
-### [semantic-kernel](https://github.com/microsoft/semantic-kernel) by [microsoft](https://github.com/microsoft)  
-Integrate cutting-edge LLM technology quickly and easily into your apps  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/semantic-kernel">semantic-kernel</a></b>  
 [https://aka.ms/semantic-kernel](https://aka.ms/semantic-kernel)  
-[https://github.com/microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)  
-696 stars per week over 10 weeks  
-7,260 stars, 803 forks, 118 watches  
-created 2023-02-27, last commit 2023-05-06, main language C#  
-<sub><sup>ai, artificial-intelligence, llm, openai, sdk</sup></sub>
+Integrate cutting-edge LLM technology quickly and easily into your apps  
+Score: 74/100, Stars: 7,260, Stars/week: 696, Forks: 803  
 
 
-### [nanoGPT](https://github.com/karpathy/nanogpt) by [karpathy](https://github.com/karpathy)  
+<a href="https://github.com/karpathy)">karpathy</a>/<b><a href="https://github.com/karpathy/nanogpt">nanoGPT</a></b>  
 The simplest, fastest repository for training/finetuning medium-sized GPTs.  
-[https://github.com/karpathy/nanogpt](https://github.com/karpathy/nanogpt)  
-1028 stars per week over 19 weeks  
-19,688 stars, 2,293 forks, 251 watches  
-created 2022-12-28, last commit 2023-04-18, main language Python  
-<sub><sup>nanogpt</sup></sub>
+Score: 73/100, Stars: 19,688, Stars/week: 1028, Forks: 2,293  
 
 
-### [fauxpilot](https://github.com/fauxpilot/fauxpilot)  
+<a href="https://github.com/fauxpilot)">fauxpilot</a>/<b><a href="https://github.com/fauxpilot/fauxpilot">fauxpilot</a></b>  
 FauxPilot - an open-source alternative to GitHub Copilot server  
-[https://github.com/fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)  
-294 stars per week over 40 weeks  
-11,822 stars, 484 forks, 109 watches  
-created 2022-08-03, last commit 2023-04-27, main language Python  
+Score: 72/100, Stars: 11,822, Stars/week: 294, Forks: 484  
 
 
-### [LLaVA](https://github.com/haotian-liu/llava) by [haotian-liu](https://github.com/haotian-liu)  
-Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.  
+<a href="https://github.com/haotian-liu)">haotian-liu</a>/<b><a href="https://github.com/haotian-liu/llava">LLaVA</a></b>  
 [https://llava.hliu.cc](https://llava.hliu.cc)  
-[https://github.com/haotian-liu/llava](https://github.com/haotian-liu/llava)  
-660 stars per week over 3 weeks  
-2,264 stars, 149 forks, 37 watches  
-created 2023-04-17, last commit 2023-05-05, main language Python  
-<sub><sup>chatbot, chatgpt, gpt-4, llama, llava, multimodal</sup></sub>
+Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.  
+Score: 72/100, Stars: 2,264, Stars/week: 660, Forks: 149  
 
 
-### [JARVIS](https://github.com/microsoft/jarvis) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/jarvis">JARVIS</a></b>  
 JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf  
-[https://github.com/microsoft/jarvis](https://github.com/microsoft/jarvis)  
-3313 stars per week over 6 weeks  
-19,881 stars, 1,595 forks, 357 watches  
-created 2023-03-30, last commit 2023-05-04, main language Python  
-<sub><sup>deep-learning, platform, pytorch</sup></sub>
+Score: 72/100, Stars: 19,881, Stars/week: 3313, Forks: 1,595  
 
 
-### [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) by [openai](https://github.com/openai)  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/chatgpt-retrieval-plugin">chatgpt-retrieval-plugin</a></b>  
 The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.  
-[https://github.com/openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
-2256 stars per week over 7 weeks  
-15,794 stars, 2,374 forks, 246 watches  
-created 2023-03-23, last commit 2023-05-05, main language Python  
-<sub><sup>chatgpt, chatgpt-plugins</sup></sub>
+Score: 71/100, Stars: 15,794, Stars/week: 2256, Forks: 2,374  
 
 
-### [rasa](https://github.com/rasahq/rasa) by [rasahq](https://github.com/rasahq)  
-💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  
+<a href="https://github.com/rasahq)">rasahq</a>/<b><a href="https://github.com/rasahq/rasa">rasa</a></b>  
 [https://rasa.com/docs/rasa/](https://rasa.com/docs/rasa/)  
-[https://github.com/rasahq/rasa](https://github.com/rasahq/rasa)  
-46 stars per week over 342 weeks  
-16,089 stars, 4,321 forks, 347 watches  
-created 2016-10-14, last commit 2023-05-06, main language Python  
-<sub><sup>bot, bot-framework, botkit, bots, chatbot, chatbots, chatbots-framework, conversation-driven-development, conversational-agents, conversational-ai, conversational-bots, machine-learning, machine-learning-library, mitie, natural-language-processing, nlp, nlu, rasa, spacy, wit</sup></sub>
+💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  
+Score: 71/100, Stars: 16,089, Stars/week: 46, Forks: 4,321  
 
 
-### [llama](https://github.com/facebookresearch/llama) by [facebookresearch](https://github.com/facebookresearch)  
+<a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/llama">llama</a></b>  
 Inference code for LLaMA models  
-[https://github.com/facebookresearch/llama](https://github.com/facebookresearch/llama)  
-1664 stars per week over 12 weeks  
-20,446 stars, 3,281 forks, 214 watches  
-created 2023-02-14, last commit 2023-03-07, main language Python  
-<sub><sup>language-model, llama</sup></sub>
+Score: 70/100, Stars: 20,446, Stars/week: 1664, Forks: 3,281  
 
 
-### [dolly](https://github.com/databrickslabs/dolly) by [databrickslabs](https://github.com/databrickslabs)  
-Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
+<a href="https://github.com/databrickslabs)">databrickslabs</a>/<b><a href="https://github.com/databrickslabs/dolly">dolly</a></b>  
 [https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
-[https://github.com/databrickslabs/dolly](https://github.com/databrickslabs/dolly)  
-1405 stars per week over 6 weeks  
-9,641 stars, 971 forks, 122 watches  
-created 2023-03-24, last commit 2023-05-03, main language Python  
-<sub><sup>chatbot, databricks, dolly, gpt</sup></sub>
+Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
+Score: 70/100, Stars: 9,641, Stars/week: 1405, Forks: 971  
 
 
-### [web-llm](https://github.com/mlc-ai/web-llm) by [mlc-ai](https://github.com/mlc-ai)  
-Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.  
+<a href="https://github.com/mlc-ai)">mlc-ai</a>/<b><a href="https://github.com/mlc-ai/web-llm">web-llm</a></b>  
 [https://mlc.ai/web-llm](https://mlc.ai/web-llm)  
-[https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)  
-1320 stars per week over 4 weeks  
-5,282 stars, 274 forks, 64 watches  
-created 2023-04-13, last commit 2023-05-04, main language Python  
-<sub><sup>chatgpt, deep-learning, language-model, llm, tvm, webgpu, webml</sup></sub>
+Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.  
+Score: 70/100, Stars: 5,282, Stars/week: 1320, Forks: 274  
 
 
-### [MiniGPT-4](https://github.com/vision-cair/minigpt-4) by [vision-cair](https://github.com/vision-cair)  
-MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models  
+<a href="https://github.com/vision-cair)">vision-cair</a>/<b><a href="https://github.com/vision-cair/minigpt-4">MiniGPT-4</a></b>  
 [https://minigpt-4.github.io](https://minigpt-4.github.io)  
-[https://github.com/vision-cair/minigpt-4](https://github.com/vision-cair/minigpt-4)  
-4855 stars per week over 3 weeks  
-18,033 stars, 1,968 forks, 174 watches  
-created 2023-04-15, last commit 2023-05-01, main language Python  
+MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models  
+Score: 70/100, Stars: 18,033, Stars/week: 4855, Forks: 1,968  
 
 
-### [LLaMA-Adapter](https://github.com/zrrskywalker/llama-adapter) by [zrrskywalker](https://github.com/zrrskywalker)  
+<a href="https://github.com/zrrskywalker)">zrrskywalker</a>/<b><a href="https://github.com/zrrskywalker/llama-adapter">LLaMA-Adapter</a></b>  
 Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters  
-[https://github.com/zrrskywalker/llama-adapter](https://github.com/zrrskywalker/llama-adapter)  
-417 stars per week over 7 weeks  
-3,164 stars, 194 forks, 83 watches  
-created 2023-03-19, last commit 2023-05-06, main language Python  
-<sub><sup>language-model, llama</sup></sub>
+Score: 70/100, Stars: 3,164, Stars/week: 417, Forks: 194  
 
 
-### [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) by [tatsu-lab](https://github.com/tatsu-lab)  
-Code and documentation to train Stanford's Alpaca models, and generate the data.  
+<a href="https://github.com/tatsu-lab)">tatsu-lab</a>/<b><a href="https://github.com/tatsu-lab/stanford_alpaca">stanford_alpaca</a></b>  
 [https://crfm.stanford.edu/2023/03/13/alpaca.html](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
-[https://github.com/tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)  
-2584 stars per week over 8 weeks  
-22,887 stars, 3,277 forks, 300 watches  
-created 2023-03-10, last commit 2023-04-16, main language Python  
-<sub><sup>deep-learning, instruction-following, language-model</sup></sub>
+Code and documentation to train Stanford's Alpaca models, and generate the data.  
+Score: 68/100, Stars: 22,887, Stars/week: 2584, Forks: 3,277  
 
 
-### [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) by [abetlen](https://github.com/abetlen)  
-Python bindings for llama.cpp  
+<a href="https://github.com/abetlen)">abetlen</a>/<b><a href="https://github.com/abetlen/llama-cpp-python">llama-cpp-python</a></b>  
 [https://abetlen.github.io/llama-cpp-python/](https://abetlen.github.io/llama-cpp-python/)  
-[https://github.com/abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python)  
-133 stars per week over 7 weeks  
-932 stars, 109 forks, 18 watches  
-created 2023-03-23, last commit 2023-05-05, main language Python  
-<sub><sup>language-model, llama</sup></sub>
+Python bindings for llama.cpp  
+Score: 68/100, Stars: 932, Stars/week: 133, Forks: 109  
 
 
-### [turbopilot](https://github.com/ravenscroftj/turbopilot) by [ravenscroftj](https://github.com/ravenscroftj)  
+<a href="https://github.com/ravenscroftj)">ravenscroftj</a>/<b><a href="https://github.com/ravenscroftj/turbopilot">turbopilot</a></b>  
 Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU  
-[https://github.com/ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot)  
-736 stars per week over 4 weeks  
-3,367 stars, 109 forks, 38 watches  
-created 2023-04-09, last commit 2023-04-23, main language Python  
-<sub><sup>code-completion, cpp, language-model, machine-learning</sup></sub>
+Score: 68/100, Stars: 3,367, Stars/week: 736, Forks: 109  
 
 
-### [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) by [h2oai](https://github.com/h2oai)  
-H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
+<a href="https://github.com/h2oai)">h2oai</a>/<b><a href="https://github.com/h2oai/h2o-llmstudio">h2o-llmstudio</a></b>  
 [https://h2o.ai](https://h2o.ai)  
-[https://github.com/h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)  
-322 stars per week over 3 weeks  
-1,104 stars, 88 forks, 15 watches  
-created 2023-04-17, last commit 2023-05-05, main language Python  
+H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
+Score: 68/100, Stars: 1,104, Stars/week: 322, Forks: 88  
 
 
-### [haystack](https://github.com/deepset-ai/haystack) by [deepset-ai](https://github.com/deepset-ai)  
-:mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more.  
+<a href="https://github.com/deepset-ai)">deepset-ai</a>/<b><a href="https://github.com/deepset-ai/haystack">haystack</a></b>  
 [https://haystack.deepset.ai](https://haystack.deepset.ai)  
-[https://github.com/deepset-ai/haystack](https://github.com/deepset-ai/haystack)  
-46 stars per week over 182 weeks  
-8,550 stars, 1,185 forks, 106 watches  
-created 2019-11-14, last commit 2023-05-05, main language Python  
-<sub><sup>ai, bert, chatgpt, elasticsearch, generative-ai, gpt-3, haystack, information-retrieval, language-model, large-language-models, machine-learning, natural-language-processing, nlp, pytorch, question-answering, semantic-search, squad, summarization, transfer-learning, transformers</sup></sub>
+:mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more.  
+Score: 67/100, Stars: 8,550, Stars/week: 46, Forks: 1,185  
 
 
-### [pygpt4all](https://github.com/nomic-ai/pygpt4all) by [nomic-ai](https://github.com/nomic-ai)  
-Official supported Python bindings for llama.cpp + gpt4all  
+<a href="https://github.com/nomic-ai)">nomic-ai</a>/<b><a href="https://github.com/nomic-ai/pygpt4all">pygpt4all</a></b>  
 [https://nomic-ai.github.io/pygpt4all/](https://nomic-ai.github.io/pygpt4all/)  
-[https://github.com/nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all)  
-171 stars per week over 5 weeks  
-930 stars, 144 forks, 11 watches  
-created 2023-04-03, last commit 2023-05-10, main language C++  
+Official supported Python bindings for llama.cpp + gpt4all  
+Score: 67/100, Stars: 930, Stars/week: 171, Forks: 144  
 
 
-### [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) by [mmabrouk](https://github.com/mmabrouk)  
+<a href="https://github.com/mmabrouk)">mmabrouk</a>/<b><a href="https://github.com/mmabrouk/chatgpt-wrapper">chatgpt-wrapper</a></b>  
 API for interacting with ChatGPT and GPT4 using Python and from Shell.  
-[https://github.com/mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper)  
-140 stars per week over 22 weeks  
-3,195 stars, 412 forks, 42 watches  
-created 2022-12-03, last commit 2023-05-03, main language Python  
-<sub><sup>chatbot, chatgpt, gpt-3, gpt3, gpt4, llm, openai</sup></sub>
+Score: 67/100, Stars: 3,195, Stars/week: 140, Forks: 412  
 
 
-### [RedPajama-Data](https://github.com/togethercomputer/redpajama-data) by [togethercomputer](https://github.com/togethercomputer)  
+<a href="https://github.com/togethercomputer)">togethercomputer</a>/<b><a href="https://github.com/togethercomputer/redpajama-data">RedPajama-Data</a></b>  
 The RedPajama-Data repository contains code for preparing large datasets for training large language models.  
-[https://github.com/togethercomputer/redpajama-data](https://github.com/togethercomputer/redpajama-data)  
-605 stars per week over 3 weeks  
-2,336 stars, 177 forks, 59 watches  
-created 2023-04-14, last commit 2023-04-30, main language Python  
+Score: 66/100, Stars: 2,336, Stars/week: 605, Forks: 177  
 
 
-### [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) by [mayooear](https://github.com/mayooear)  
-GPT4 & LangChain Chatbot for large PDF docs  
+<a href="https://github.com/mayooear)">mayooear</a>/<b><a href="https://github.com/mayooear/gpt4-pdf-chatbot-langchain">gpt4-pdf-chatbot-langchain</a></b>  
 [https://www.youtube.com/watch?v=ih9PBGVVOO4](https://www.youtube.com/watch?v=ih9PBGVVOO4)  
-[https://github.com/mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)  
-1238 stars per week over 7 weeks  
-9,730 stars, 1,842 forks, 114 watches  
-created 2023-03-17, last commit 2023-04-13, main language TypeScript  
-<sub><sup>gpt4, langchain, nextjs, openai, pdf, typescript</sup></sub>
+GPT4 & LangChain Chatbot for large PDF docs  
+Score: 66/100, Stars: 9,730, Stars/week: 1238, Forks: 1,842  
 
 
-### [LLMZoo](https://github.com/freedomintelligence/llmzoo) by [freedomintelligence](https://github.com/freedomintelligence)  
+<a href="https://github.com/freedomintelligence)">freedomintelligence</a>/<b><a href="https://github.com/freedomintelligence/llmzoo">LLMZoo</a></b>  
 ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡  
-[https://github.com/freedomintelligence/llmzoo](https://github.com/freedomintelligence/llmzoo)  
-308 stars per week over 5 weeks  
-1,760 stars, 92 forks, 40 watches  
-created 2023-04-01, last commit 2023-05-05, main language Python  
-<sub><sup>language-model</sup></sub>
+Score: 65/100, Stars: 1,760, Stars/week: 308, Forks: 92  
 
 
-### [NeMo-Guardrails](https://github.com/nvidia/nemo-guardrails) by [nvidia](https://github.com/nvidia)  
+<a href="https://github.com/nvidia)">nvidia</a>/<b><a href="https://github.com/nvidia/nemo-guardrails">NeMo-Guardrails</a></b>  
 NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.  
-[https://github.com/nvidia/nemo-guardrails](https://github.com/nvidia/nemo-guardrails)  
-359 stars per week over 3 weeks  
-1,182 stars, 64 forks, 22 watches  
-created 2023-04-18, last commit 2023-05-04, main language Python  
+Score: 65/100, Stars: 1,182, Stars/week: 359, Forks: 64  
 
 
-### [pyllama](https://github.com/juncongmoo/pyllama) by [juncongmoo](https://github.com/juncongmoo)  
+<a href="https://github.com/juncongmoo)">juncongmoo</a>/<b><a href="https://github.com/juncongmoo/pyllama">pyllama</a></b>  
 LLaMA: Open and Efficient Foundation Language Models  
-[https://github.com/juncongmoo/pyllama](https://github.com/juncongmoo/pyllama)  
-180 stars per week over 10 weeks  
-1,853 stars, 209 forks, 31 watches  
-created 2023-02-28, last commit 2023-04-25, main language Python  
+Score: 64/100, Stars: 1,853, Stars/week: 180, Forks: 209  
 
 
-### [CodeGeeX](https://github.com/thudm/codegeex) by [thudm](https://github.com/thudm)  
-CodeGeeX: An Open Multilingual Code Generation Model  
+<a href="https://github.com/thudm)">thudm</a>/<b><a href="https://github.com/thudm/codegeex">CodeGeeX</a></b>  
 [https://codegeex.cn](https://codegeex.cn)  
-[https://github.com/thudm/codegeex](https://github.com/thudm/codegeex)  
-143 stars per week over 33 weeks  
-4,848 stars, 326 forks, 55 watches  
-created 2022-09-17, last commit 2023-04-25, main language Python  
-<sub><sup>code-generation, pretrained-models, tools</sup></sub>
+CodeGeeX: An Open Multilingual Code Generation Model  
+Score: 64/100, Stars: 4,848, Stars/week: 143, Forks: 326  
 
 
-### [GPT-4-LLM](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm) by [instruction-tuning-with-gpt-4](https://github.com/instruction-tuning-with-gpt-4)  
-Instruction Tuning with GPT-4  
+<a href="https://github.com/instruction-tuning-with-gpt-4)">instruction-tuning-with-gpt-4</a>/<b><a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">GPT-4-LLM</a></b>  
 [https://instruction-tuning-with-gpt-4.github.io/](https://instruction-tuning-with-gpt-4.github.io/)  
-[https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm)  
-489 stars per week over 5 weeks  
-2,447 stars, 176 forks, 37 watches  
-created 2023-04-06, last commit 2023-04-19, main language HTML  
-<sub><sup>alpaca, chatgpt, gpt-4, instruction-tuning, llama</sup></sub>
+Instruction Tuning with GPT-4  
+Score: 64/100, Stars: 2,447, Stars/week: 489, Forks: 176  
 
 
-### [WizardLM](https://github.com/nlpxucan/wizardlm) by [nlpxucan](https://github.com/nlpxucan)  
+<a href="https://github.com/nlpxucan)">nlpxucan</a>/<b><a href="https://github.com/nlpxucan/wizardlm">WizardLM</a></b>  
 WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions  
-[https://github.com/nlpxucan/wizardlm](https://github.com/nlpxucan/wizardlm)  
-519 stars per week over 2 weeks  
-1,337 stars, 86 forks, 35 watches  
-created 2023-04-23, last commit 2023-05-03, main language Python  
+Score: 62/100, Stars: 1,337, Stars/week: 519, Forks: 86  
 
 
-### [gpt-neox](https://github.com/eleutherai/gpt-neox) by [eleutherai](https://github.com/eleutherai)  
+<a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/gpt-neox">gpt-neox</a></b>  
 An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.  
-[https://github.com/eleutherai/gpt-neox](https://github.com/eleutherai/gpt-neox)  
-42 stars per week over 124 weeks  
-5,241 stars, 733 forks, 115 watches  
-created 2020-12-22, last commit 2023-05-02, main language Python  
-<sub><sup>deepspeed-library, gpt-3, language-model, transformers</sup></sub>
+Score: 62/100, Stars: 5,241, Stars/week: 42, Forks: 733  
 
 
-### [open_llama](https://github.com/openlm-research/open_llama) by [openlm-research](https://github.com/openlm-research)  
+<a href="https://github.com/openlm-research)">openlm-research</a>/<b><a href="https://github.com/openlm-research/open_llama">open_llama</a></b>  
 OpenLLaMA: An Open Reproduction of LLaMA  
-[https://github.com/openlm-research/open_llama](https://github.com/openlm-research/open_llama)  
-1337 stars per week over 1 weeks  
-2,484 stars, 80 forks, 66 watches  
-created 2023-04-28, last commit 2023-05-04, main language None  
-<sub><sup>language-model, llama</sup></sub>
+Score: 62/100, Stars: 2,484, Stars/week: 1337, Forks: 80  
 
 
-### [BioGPT](https://github.com/microsoft/biogpt) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b>  
 microsoft/BioGPT  
-[https://github.com/microsoft/biogpt](https://github.com/microsoft/biogpt)  
-99 stars per week over 38 weeks  
-3,815 stars, 381 forks, 66 watches  
-created 2022-08-15, last commit 2023-04-03, main language Python  
+Score: 58/100, Stars: 3,815, Stars/week: 99, Forks: 381  
 
 
-### [trl](https://github.com/lvwerra/trl) by [lvwerra](https://github.com/lvwerra)  
-Train transformer language models with reinforcement learning.  
+<a href="https://github.com/lvwerra)">lvwerra</a>/<b><a href="https://github.com/lvwerra/trl">trl</a></b>  
 [http://hf.co/docs/trl](http://hf.co/docs/trl)  
-[https://github.com/lvwerra/trl](https://github.com/lvwerra/trl)  
-20 stars per week over 162 weeks  
-3,262 stars, 350 forks, 46 watches  
-created 2020-03-27, last commit 2023-05-04, main language Python  
+Train transformer language models with reinforcement learning.  
+Score: 58/100, Stars: 3,262, Stars/week: 20, Forks: 350  
 
 
-### [babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi) by [oliveirabruno01](https://github.com/oliveirabruno01)  
+<a href="https://github.com/oliveirabruno01)">oliveirabruno01</a>/<b><a href="https://github.com/oliveirabruno01/babyagi-asi">babyagi-asi</a></b>  
 BabyAGI: an Autonomous and Self-Improving agent, or BASI  
-[https://github.com/oliveirabruno01/babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi)  
-120 stars per week over 4 weeks  
-583 stars, 55 forks, 10 watches  
-created 2023-04-07, last commit 2023-04-26, main language Python  
-<sub><sup>agi, ai, autonomous-agents, chain-of-thought, program-of-thoughts</sup></sub>
+Score: 58/100, Stars: 583, Stars/week: 120, Forks: 55  
 
 
-### [GLM-130B](https://github.com/thudm/glm-130b) by [thudm](https://github.com/thudm)  
+<a href="https://github.com/thudm)">thudm</a>/<b><a href="https://github.com/thudm/glm-130b">GLM-130B</a></b>  
 GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)  
-[https://github.com/thudm/glm-130b](https://github.com/thudm/glm-130b)  
-130 stars per week over 40 weeks  
-5,247 stars, 377 forks, 79 watches  
-created 2022-08-03, last commit 2023-04-18, main language Python  
+Score: 57/100, Stars: 5,247, Stars/week: 130, Forks: 377  
 
 
-### [lmql](https://github.com/eth-sri/lmql) by [eth-sri](https://github.com/eth-sri)  
-A query language for programming (large) language models.   
+<a href="https://github.com/eth-sri)">eth-sri</a>/<b><a href="https://github.com/eth-sri/lmql">lmql</a></b>  
 [https://lmql.ai](https://lmql.ai)  
-[https://github.com/eth-sri/lmql](https://github.com/eth-sri/lmql)  
-33 stars per week over 24 weeks  
-815 stars, 43 forks, 13 watches  
-created 2022-11-24, last commit 2023-05-07, main language Python  
-<sub><sup>chatgpt, gpt-3, huggingface, language-model, programming-language</sup></sub>
+A query language for programming (large) language models.   
+Score: 56/100, Stars: 815, Stars/week: 33, Forks: 43  
 
 
-### [toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) by [lucidrains](https://github.com/lucidrains)  
+<a href="https://github.com/lucidrains)">lucidrains</a>/<b><a href="https://github.com/lucidrains/toolformer-pytorch">toolformer-pytorch</a></b>  
 Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI  
-[https://github.com/lucidrains/toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch)  
-100 stars per week over 12 weeks  
-1,291 stars, 71 forks, 46 watches  
-created 2023-02-10, last commit 2023-04-08, main language Python  
-<sub><sup>api-calling, artificial-intelligence, attention-mechanisms, deep-learning, language-model, toolformer, transformers</sup></sub>
+Score: 55/100, Stars: 1,291, Stars/week: 100, Forks: 71  
 
 
-### [minGPT](https://github.com/karpathy/mingpt) by [karpathy](https://github.com/karpathy)  
+<a href="https://github.com/karpathy)">karpathy</a>/<b><a href="https://github.com/karpathy/mingpt">minGPT</a></b>  
 A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training  
-[https://github.com/karpathy/mingpt](https://github.com/karpathy/mingpt)  
-105 stars per week over 142 weeks  
-15,049 stars, 1,749 forks, 241 watches  
-created 2020-08-17, last commit 2023-01-08, main language Python  
+Score: 55/100, Stars: 15,049, Stars/week: 105, Forks: 1,749  
 
 
-### [chatarena](https://github.com/chatarena/chatarena)  
+<a href="https://github.com/chatarena)">chatarena</a>/<b><a href="https://github.com/chatarena/chatarena">chatarena</a></b>  
 ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.  
-[https://github.com/chatarena/chatarena](https://github.com/chatarena/chatarena)  
-74 stars per week over 9 weeks  
-699 stars, 50 forks, 14 watches  
-created 2023-03-06, last commit 2023-04-21, main language Python  
-<sub><sup>ai, artificial-intelligence, chatgpt, gpt-4, large-language-models, multi-agent, multi-agent-reinforcement-learning, multi-agent-simulation, natural-language-processing</sup></sub>
+Score: 54/100, Stars: 699, Stars/week: 74, Forks: 50  
 
 
-### [torchscale](https://github.com/microsoft/torchscale) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/torchscale">torchscale</a></b>  
+[https://aka.ms/nlpagi](https://aka.ms/nlpagi)  
 Transformers at any scale  
-[https://aka.ms/nlpagi](https://aka.ms/nlpagi)  
-[https://github.com/microsoft/torchscale](https://github.com/microsoft/torchscale)  
-64 stars per week over 25 weeks  
-1,622 stars, 89 forks, 27 watches  
-created 2022-11-17, last commit 2023-04-26, main language Python  
-<sub><sup>computer-vision, machine-learning, multimodal, natural-language-processing, pretrained-language-model, speech-processing, transformer, translation</sup></sub>
+Score: 53/100, Stars: 1,622, Stars/week: 64, Forks: 89  
 
 
-### [Megatron-LM](https://github.com/nvidia/megatron-lm) by [nvidia](https://github.com/nvidia)  
+<a href="https://github.com/nvidia)">nvidia</a>/<b><a href="https://github.com/nvidia/megatron-lm">Megatron-LM</a></b>  
 Ongoing research training transformer models at scale  
-[https://github.com/nvidia/megatron-lm](https://github.com/nvidia/megatron-lm)  
-22 stars per week over 216 weeks  
-4,880 stars, 986 forks, 108 watches  
-created 2019-03-21, last commit 2023-05-05, main language Python  
+Score: 52/100, Stars: 4,880, Stars/week: 22, Forks: 986  
 
 
-### [LMOps](https://github.com/microsoft/lmops) by [microsoft](https://github.com/microsoft)  
-General technology for enabling AI capabilities w/ LLMs and MLLMs  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/lmops">LMOps</a></b>  
 [https://aka.ms/nlpagi](https://aka.ms/nlpagi)  
-[https://github.com/microsoft/lmops](https://github.com/microsoft/lmops)  
-70 stars per week over 21 weeks  
-1,492 stars, 79 forks, 42 watches  
-created 2022-12-13, last commit 2023-04-18, main language Python  
-<sub><sup>agi, gpt, language-model, llm, lm, lmops, nlp, pretraining, prompt, promptist, x-prompt</sup></sub>
+General technology for enabling AI capabilities w/ LLMs and MLLMs  
+Score: 52/100, Stars: 1,492, Stars/week: 70, Forks: 79  
 
 
-### [llama-lab](https://github.com/run-llama/llama-lab) by [run-llama](https://github.com/run-llama)  
+<a href="https://github.com/run-llama)">run-llama</a>/<b><a href="https://github.com/run-llama/llama-lab">llama-lab</a></b>  
 Llama Lab is a repo dedicated to building cutting-edge projects using LlamaIndex  
-[https://github.com/run-llama/llama-lab](https://github.com/run-llama/llama-lab)  
-127 stars per week over 3 weeks  
-490 stars, 33 forks, 9 watches  
-created 2023-04-14, last commit 2023-04-25, main language Python  
-<sub><sup>language-model, llama, llama-index</sup></sub>
+Score: 51/100, Stars: 490, Stars/week: 127, Forks: 33  
 
 
-### [LoRA](https://github.com/microsoft/lora) by [microsoft](https://github.com/microsoft)  
-Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/lora">LoRA</a></b>  
 [https://arxiv.org/abs/2106.09685](https://arxiv.org/abs/2106.09685)  
-[https://github.com/microsoft/lora](https://github.com/microsoft/lora)  
-35 stars per week over 98 weeks  
-3,476 stars, 181 forks, 29 watches  
-created 2021-06-18, last commit 2023-04-28, main language Python  
-<sub><sup>adaptation, deberta, deep-learning, gpt-2, gpt-3, language-model, lora, low-rank, pytorch, roberta</sup></sub>
+Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"  
+Score: 50/100, Stars: 3,476, Stars/week: 35, Forks: 181  
 
 
-### [gpt-2](https://github.com/openai/gpt-2) by [openai](https://github.com/openai)  
-Code for the paper "Language Models are Unsupervised Multitask Learners"  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/gpt-2">gpt-2</a></b>  
 [https://openai.com/blog/better-language-models/](https://openai.com/blog/better-language-models/)  
-[https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)  
-85 stars per week over 221 weeks  
-18,953 stars, 4,833 forks, 619 watches  
-created 2019-02-11, last commit 2020-12-02, main language Python  
-<sub><sup>paper</sup></sub>
+Code for the paper "Language Models are Unsupervised Multitask Learners"  
+Score: 50/100, Stars: 18,953, Stars/week: 85, Forks: 4,833  
 
 
-### [OFA](https://github.com/ofa-sys/ofa) by [ofa-sys](https://github.com/ofa-sys)  
+<a href="https://github.com/ofa-sys)">ofa-sys</a>/<b><a href="https://github.com/ofa-sys/ofa">OFA</a></b>  
 Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework  
-[https://github.com/ofa-sys/ofa](https://github.com/ofa-sys/ofa)  
-27 stars per week over 66 weeks  
-1,837 stars, 216 forks, 17 watches  
-created 2022-01-29, last commit 2023-04-25, main language Python  
-<sub><sup>chinese, image-captioning, multimodal, pretrained-models, pretraining, prompt, prompt-tuning, referring-expression-comprehension, text-to-image-synthesis, vision-language, visual-question-answering</sup></sub>
+Score: 50/100, Stars: 1,837, Stars/week: 27, Forks: 216  
 
 
-### [self-instruct](https://github.com/yizhongw/self-instruct) by [yizhongw](https://github.com/yizhongw)  
+<a href="https://github.com/yizhongw)">yizhongw</a>/<b><a href="https://github.com/yizhongw/self-instruct">self-instruct</a></b>  
 Aligning pretrained language models with instruction data generated by themselves.  
-[https://github.com/yizhongw/self-instruct](https://github.com/yizhongw/self-instruct)  
-103 stars per week over 20 weeks  
-2,103 stars, 258 forks, 40 watches  
-created 2022-12-20, last commit 2023-03-27, main language Python  
-<sub><sup>general-purpose-model, instruction-tuning, language-model</sup></sub>
+Score: 50/100, Stars: 2,103, Stars/week: 103, Forks: 258  
 
 
-### [lm-evaluation-harness](https://github.com/eleutherai/lm-evaluation-harness) by [eleutherai](https://github.com/eleutherai)  
+<a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b>  
 A framework for few-shot evaluation of autoregressive language models.  
-[https://github.com/eleutherai/lm-evaluation-harness](https://github.com/eleutherai/lm-evaluation-harness)  
-7.49 stars per week over 140 weeks  
-1,055 stars, 294 forks, 20 watches  
-created 2020-08-28, last commit 2023-05-05, main language Python  
+Score: 46/100, Stars: 1,055, Stars/week: 7, Forks: 294  
 
 
-### [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) by [openai](https://github.com/openai)  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
 Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
-[https://github.com/openai/gpt-discord-bot](https://github.com/openai/gpt-discord-bot)  
-70 stars per week over 20 weeks  
-1,413 stars, 536 forks, 31 watches  
-created 2022-12-21, last commit 2023-02-08, main language Python  
+Score: 44/100, Stars: 1,413, Stars/week: 70, Forks: 536  
 
 
-### [gpt-neo](https://github.com/eleutherai/gpt-neo) by [eleutherai](https://github.com/eleutherai)  
-An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
+<a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b>  
 [https://www.eleuther.ai](https://www.eleuther.ai)  
-[https://github.com/eleutherai/gpt-neo](https://github.com/eleutherai/gpt-neo)  
-52 stars per week over 148 weeks  
-7,764 stars, 874 forks, 177 watches  
-created 2020-07-05, last commit 2022-02-25, main language Python  
-<sub><sup>gpt, gpt-2, gpt-3, language-model, transformers</sup></sub>
+An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
+Score: 43/100, Stars: 7,764, Stars/week: 52, Forks: 874  
 
 
-### [aitextgen](https://github.com/minimaxir/aitextgen) by [minimaxir](https://github.com/minimaxir)  
-A robust Python tool for text-based AI training and generation using GPT-2.  
+<a href="https://github.com/minimaxir)">minimaxir</a>/<b><a href="https://github.com/minimaxir/aitextgen">aitextgen</a></b>  
 [https://docs.aitextgen.io](https://docs.aitextgen.io)  
-[https://github.com/minimaxir/aitextgen](https://github.com/minimaxir/aitextgen)  
-10 stars per week over 175 weeks  
-1,759 stars, 207 forks, 42 watches  
-created 2019-12-29, last commit 2023-03-16, main language Python  
+A robust Python tool for text-based AI training and generation using GPT-2.  
+Score: 43/100, Stars: 1,759, Stars/week: 10, Forks: 207  
 
 
-### [spacy-transformers](https://github.com/explosion/spacy-transformers) by [explosion](https://github.com/explosion)  
-🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
+<a href="https://github.com/explosion)">explosion</a>/<b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
 [https://spacy.io/usage/embeddings-transformers](https://spacy.io/usage/embeddings-transformers)  
-[https://github.com/explosion/spacy-transformers](https://github.com/explosion/spacy-transformers)  
-6.27 stars per week over 197 weeks  
-1,241 stars, 160 forks, 31 watches  
-created 2019-07-26, last commit 2023-04-26, main language Python  
-<sub><sup>bert, google, gpt-2, huggingface, language-model, machine-learning, natural-language-processing, natural-language-understanding, nlp, openai, pytorch, pytorch-model, spacy, spacy-extension, spacy-pipeline, transfer-learning, xlnet</sup></sub>
+🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
+Score: 42/100, Stars: 1,241, Stars/week: 6, Forks: 160  
 
 
-### [gptq](https://github.com/ist-daslab/gptq) by [ist-daslab](https://github.com/ist-daslab)  
-Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".  
+<a href="https://github.com/ist-daslab)">ist-daslab</a>/<b><a href="https://github.com/ist-daslab/gptq">gptq</a></b>  
 [https://arxiv.org/abs/2210.17323](https://arxiv.org/abs/2210.17323)  
-[https://github.com/ist-daslab/gptq](https://github.com/ist-daslab/gptq)  
-23 stars per week over 29 weeks  
-686 stars, 59 forks, 20 watches  
-created 2022-10-19, last commit 2023-04-03, main language Python  
+Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".  
+Score: 42/100, Stars: 686, Stars/week: 23, Forks: 59  
 
 
-### [H3](https://github.com/hazyresearch/h3) by [hazyresearch](https://github.com/hazyresearch)  
+<a href="https://github.com/hazyresearch)">hazyresearch</a>/<b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
 Language Modeling with the H3 State Space Model  
-[https://github.com/hazyresearch/h3](https://github.com/hazyresearch/h3)  
-21 stars per week over 19 weeks  
-407 stars, 39 forks, 29 watches  
-created 2022-12-28, last commit 2023-03-08, main language Assembly  
+Score: 41/100, Stars: 407, Stars/week: 21, Forks: 39  
 
 
-### [Megatron-DeepSpeed](https://github.com/bigscience-workshop/megatron-deepspeed) by [bigscience-workshop](https://github.com/bigscience-workshop)  
+<a href="https://github.com/bigscience-workshop)">bigscience-workshop</a>/<b><a href="https://github.com/bigscience-workshop/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
-[https://github.com/bigscience-workshop/megatron-deepspeed](https://github.com/bigscience-workshop/megatron-deepspeed)  
-7.46 stars per week over 96 weeks  
-723 stars, 149 forks, 22 watches  
-created 2021-07-02, last commit 2023-02-21, main language Python  
+Score: 40/100, Stars: 723, Stars/week: 7, Forks: 149  
 
 
-### [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) by [minimaxir](https://github.com/minimaxir)  
+<a href="https://github.com/minimaxir)">minimaxir</a>/<b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b>  
 Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts  
-[https://github.com/minimaxir/gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)  
-15 stars per week over 212 weeks  
-3,259 stars, 666 forks, 75 watches  
-created 2019-04-13, last commit 2022-05-22, main language Python  
-<sub><sup>openai, tensorflow, text-generation, textgenrnn</sup></sub>
+Score: 40/100, Stars: 3,259, Stars/week: 15, Forks: 666  
 
 
-### [Megatron-DeepSpeed](https://github.com/microsoft/megatron-deepspeed) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
-[https://github.com/microsoft/megatron-deepspeed](https://github.com/microsoft/megatron-deepspeed)  
-5.79 stars per week over 98 weeks  
-570 stars, 117 forks, 11 watches  
-created 2021-06-21, last commit 2023-05-06, main language Python  
+Score: 39/100, Stars: 570, Stars/week: 6, Forks: 117  
 
 
-### [medAlpaca](https://github.com/kbressem/medalpaca) by [kbressem](https://github.com/kbressem)  
+<a href="https://github.com/kbressem)">kbressem</a>/<b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
 LLM finetuned for medical question answering  
-[https://github.com/kbressem/medalpaca](https://github.com/kbressem/medalpaca)  
-21 stars per week over 6 weeks  
-136 stars, 10 forks, 6 watches  
-created 2023-03-28, last commit 2023-04-07, main language Python  
+Score: 38/100, Stars: 136, Stars/week: 21, Forks: 10  
 
 
-### [medical-chatgpt](https://github.com/lucidrains/medical-chatgpt) by [lucidrains](https://github.com/lucidrains)  
+<a href="https://github.com/lucidrains)">lucidrains</a>/<b><a href="https://github.com/lucidrains/medical-chatgpt">medical-chatgpt</a></b>  
 Implementation of ChatGPT, but tailored towards primary care medicine, with the reward being able to collect patient histories in a thorough and efficient manner and come up with a reasonable differential diagnosis  
-[https://github.com/lucidrains/medical-chatgpt](https://github.com/lucidrains/medical-chatgpt)  
-12 stars per week over 21 weeks  
-281 stars, 27 forks, 31 watches  
-created 2022-12-10, last commit 2023-03-24, main language Python  
-<sub><sup>artificial-intelligence, attention-mechanisms, deep-learning, medicine, transformers</sup></sub>
+Score: 35/100, Stars: 281, Stars/week: 12, Forks: 27  
 
 
-### [sgpt](https://github.com/muennighoff/sgpt) by [muennighoff](https://github.com/muennighoff)  
+<a href="https://github.com/muennighoff)">muennighoff</a>/<b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
 SGPT: GPT Sentence Embeddings for Semantic Search  
-[https://github.com/muennighoff/sgpt](https://github.com/muennighoff/sgpt)  
-7.14 stars per week over 64 weeks  
-463 stars, 30 forks, 7 watches  
-created 2022-02-11, last commit 2023-03-30, main language Jupyter Notebook  
-<sub><sup>gpt, information-retrieval, language-model, large-language-models, neural-search, retrieval, semantic-search, sentence-embeddings, sgpt, text-embedding</sup></sub>
+Score: 34/100, Stars: 463, Stars/week: 7, Forks: 30  
 
 
-### [ChatGPT-Robot-Manipulation-Prompts](https://github.com/microsoft/chatgpt-robot-manipulation-prompts) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/chatgpt-robot-manipulation-prompts">ChatGPT-Robot-Manipulation-Prompts</a></b>  
 microsoft/ChatGPT-Robot-Manipulation-Prompts  
-[https://github.com/microsoft/chatgpt-robot-manipulation-prompts](https://github.com/microsoft/chatgpt-robot-manipulation-prompts)  
-34 stars per week over 5 weeks  
-172 stars, 12 forks, 6 watches  
-created 2023-04-06, last commit 2023-04-18, main language None  
+Score: 34/100, Stars: 172, Stars/week: 34, Forks: 12  
 
 
-### [automatic_prompt_engineer](https://github.com/keirp/automatic_prompt_engineer) by [keirp](https://github.com/keirp)  
+<a href="https://github.com/keirp)">keirp</a>/<b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b>  
 Large Language Models Are Human-Level Prompt Engineers  
-[https://github.com/keirp/automatic_prompt_engineer](https://github.com/keirp/automatic_prompt_engineer)  
-15 stars per week over 28 weeks  
-452 stars, 38 forks, 8 watches  
-created 2022-10-24, last commit 2023-03-08, main language Python  
-<sub><sup>language-model, prompt-engineering</sup></sub>
+Score: 32/100, Stars: 452, Stars/week: 15, Forks: 38  
 
 
-### [pal](https://github.com/reasoning-machines/pal) by [reasoning-machines](https://github.com/reasoning-machines)  
-PaL: Program-Aided Language Models  
+<a href="https://github.com/reasoning-machines)">reasoning-machines</a>/<b><a href="https://github.com/reasoning-machines/pal">pal</a></b>  
 [https://reasonwithpal.com](https://reasonwithpal.com)  
-[https://github.com/reasoning-machines/pal](https://github.com/reasoning-machines/pal)  
-10 stars per week over 24 weeks  
-253 stars, 23 forks, 5 watches  
-created 2022-11-18, last commit 2023-03-22, main language Python  
-<sub><sup>commonsense-reasoning, few-shot-learning, language-generation, language-model, large-language-models, reasoning</sup></sub>
+PaL: Program-Aided Language Models  
+Score: 32/100, Stars: 253, Stars/week: 10, Forks: 23  
 
 
-### [toolformer](https://github.com/conceptofmind/toolformer) by [conceptofmind](https://github.com/conceptofmind)  
+<a href="https://github.com/conceptofmind)">conceptofmind</a>/<b><a href="https://github.com/conceptofmind/toolformer">toolformer</a></b>  
 Open-source implementation of Toolformer: Language Models Can Teach Themselves to Use Tools  
-[https://github.com/conceptofmind/toolformer](https://github.com/conceptofmind/toolformer)  
-16 stars per week over 11 weeks  
-201 stars, 24 forks, 9 watches  
-created 2023-02-17, last commit 2023-03-04, main language Python  
-<sub><sup>language-model, toolformer</sup></sub>
+Score: 32/100, Stars: 201, Stars/week: 16, Forks: 24  
 
 
-### [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) by [openai](https://github.com/openai)  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
 Dataset of GPT-2 outputs for research in detection, biases, and more  
-[https://github.com/openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)  
-8.05 stars per week over 209 weeks  
-1,690 stars, 491 forks, 71 watches  
-created 2019-05-03, last commit 2021-02-18, main language Python  
+Score: 28/100, Stars: 1,690, Stars/week: 8, Forks: 491  
 
 
-### [t-zero](https://github.com/bigscience-workshop/t-zero) by [bigscience-workshop](https://github.com/bigscience-workshop)  
+<a href="https://github.com/bigscience-workshop)">bigscience-workshop</a>/<b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
 Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
-[https://github.com/bigscience-workshop/t-zero](https://github.com/bigscience-workshop/t-zero)  
-5.15 stars per week over 73 weeks  
-378 stars, 52 forks, 23 watches  
-created 2021-12-13, last commit 2022-07-29, main language Python  
+Score: 27/100, Stars: 378, Stars/week: 5, Forks: 52  
 
 
-### [bricky](https://github.com/larsbaunwall/bricky) by [larsbaunwall](https://github.com/larsbaunwall)  
+<a href="https://github.com/larsbaunwall)">larsbaunwall</a>/<b><a href="https://github.com/larsbaunwall/bricky">bricky</a></b>  
 Haystack/OpenAI based chatbot curating a custom knowledgebase  
-[https://github.com/larsbaunwall/bricky](https://github.com/larsbaunwall/bricky)  
-5.22 stars per week over 14 weeks  
-76 stars, 11 forks, 6 watches  
-created 2023-01-29, last commit 2023-03-30, main language Python  
-<sub><sup>ai, haystack, nextjs, openai</sup></sub>
+Score: 27/100, Stars: 76, Stars/week: 5, Forks: 11  
 
 
-### [image-gpt](https://github.com/openai/image-gpt) by [openai](https://github.com/openai)  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
 Archived. Code and models from the paper "Generative Pretraining from Pixels"  
-[https://github.com/openai/image-gpt](https://github.com/openai/image-gpt)  
-11 stars per week over 157 weeks  
-1,874 stars, 352 forks, 79 watches  
-created 2020-05-07, last commit 2020-12-04, main language Python  
+Score: 24/100, Stars: 1,874, Stars/week: 11, Forks: 352  
 
 
-### [jaxformer](https://github.com/salesforce/jaxformer) by [salesforce](https://github.com/salesforce)  
+<a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/jaxformer">jaxformer</a></b>  
 Minimal library to train LLMs on TPU in JAX with pjit().  
-[https://github.com/salesforce/jaxformer](https://github.com/salesforce/jaxformer)  
-5.11 stars per week over 36 weeks  
-186 stars, 25 forks, 7 watches  
-created 2022-08-29, last commit 2022-12-17, main language Python  
+Score: 23/100, Stars: 186, Stars/week: 5, Forks: 25  
 
 
-### [finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) by [openai](https://github.com/openai)  
-Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
+<a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
 [https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
-[https://github.com/openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm)  
-7.12 stars per week over 256 weeks  
-1,826 stars, 455 forks, 73 watches  
-created 2018-06-11, last commit 2018-11-22, main language Python  
-<sub><sup>paper</sup></sub>
+Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
+Score: 22/100, Stars: 1,826, Stars/week: 7, Forks: 455  
 
 
-### [evals](https://github.com/anthropics/evals) by [anthropics](https://github.com/anthropics)  
+<a href="https://github.com/anthropics)">anthropics</a>/<b><a href="https://github.com/anthropics/evals">evals</a></b>  
 Model-Written Evaluation Datasets  
-[https://github.com/anthropics/evals](https://github.com/anthropics/evals)  
-6.21 stars per week over 21 weeks  
-133 stars, 9 forks, 5 watches  
-created 2022-12-12, last commit 2023-01-03, main language None  
+Score: 18/100, Stars: 133, Stars/week: 6, Forks: 9  
 
 
-### [in-context-ralm](https://github.com/ai21labs/in-context-ralm) by [ai21labs](https://github.com/ai21labs)  
+<a href="https://github.com/ai21labs)">ai21labs</a>/<b><a href="https://github.com/ai21labs/in-context-ralm">in-context-ralm</a></b>  
 In-Context Retrieval-Augmented Language Models  
-[https://github.com/ai21labs/in-context-ralm](https://github.com/ai21labs/in-context-ralm)  
-5.13 stars per week over 15 weeks  
-77 stars, 8 forks, 4 watches  
-created 2023-01-26, last commit 2023-02-02, main language Python  
+Score: 16/100, Stars: 77, Stars/week: 5, Forks: 8  
 
 
-### [DrBERT](https://github.com/qanastek/drbert) by [qanastek](https://github.com/qanastek)  
-DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains  
+<a href="https://github.com/qanastek)">qanastek</a>/<b><a href="https://github.com/qanastek/drbert">DrBERT</a></b>  
 [https://drbert.univ-avignon.fr/](https://drbert.univ-avignon.fr/)  
-[https://github.com/qanastek/drbert](https://github.com/qanastek/drbert)  
-0.44 stars per week over 18 weeks  
-8 stars, 0 forks, 1 watches  
-created 2023-01-05, last commit 2023-04-26, main language Python  
-<sub><sup>bert, biomedical, french, learning, machine, machine-learning, medical, ml, nlp, nlp-machine-learning, taln, text</sup></sub>
+DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains  
+Score: 10/100, Stars: 8, Stars/week: 0, Forks: 0  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

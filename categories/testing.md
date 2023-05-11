@@ -1,200 +1,123 @@
-# Crazy Awesome Python
-A selection of 20 curated testing Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [locust](https://github.com/locustio/locust) by [locustio](https://github.com/locustio)  
+<a href="https://github.com/locustio)">locustio</a>/<b><a href="https://github.com/locustio/locust">locust</a></b>  
 Write scalable load tests in plain Python 🚗💨  
-[https://github.com/locustio/locust](https://github.com/locustio/locust)  
-33 stars per week over 638 weeks  
-21,259 stars, 2,684 forks, 435 watches  
-created 2011-02-17, last commit 2023-04-14, main language Python  
-<sub><sup>benchmarking, http, load-generator, load-test, load-testing, load-tests, locust, performance, performance-testing</sup></sub>
+Score: 66/100, Stars: 21,259, Stars/week: 33, Forks: 2,684  
 
 
-### [pytest](https://github.com/pytest-dev/pytest) by [pytest-dev](https://github.com/pytest-dev)  
-The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest">pytest</a></b>  
 [https://pytest.org](https://pytest.org)  
-[https://github.com/pytest-dev/pytest](https://github.com/pytest-dev/pytest)  
-24 stars per week over 412 weeks  
-10,122 stars, 2,324 forks, 194 watches  
-created 2015-06-15, last commit 2023-05-02, main language Python  
-<sub><sup>hacktoberfest, test, testing, unit-testing</sup></sub>
+The pytest framework makes it easy to write small tests, yet scales to support complex functional testing  
+Score: 65/100, Stars: 10,122, Stars/week: 24, Forks: 2,324  
 
 
-### [robotframework](https://github.com/robotframework/robotframework)  
-Generic automation framework for acceptance testing and RPA  
+<a href="https://github.com/robotframework)">robotframework</a>/<b><a href="https://github.com/robotframework/robotframework">robotframework</a></b>  
 [http://robotframework.org](http://robotframework.org)  
-[https://github.com/robotframework/robotframework](https://github.com/robotframework/robotframework)  
-17 stars per week over 462 weeks  
-7,995 stars, 2,130 forks, 477 watches  
-created 2014-06-27, last commit 2023-05-05, main language Python  
-<sub><sup>attd, automation, bdd, robotframework, rpa, testautomation, testing</sup></sub>
+Generic automation framework for acceptance testing and RPA  
+Score: 61/100, Stars: 7,995, Stars/week: 17, Forks: 2,130  
 
 
-### [hypothesis](https://github.com/hypothesisworks/hypothesis) by [hypothesisworks](https://github.com/hypothesisworks)  
-Hypothesis is a powerful, flexible, and easy to use library for property-based testing.  
+<a href="https://github.com/hypothesisworks)">hypothesisworks</a>/<b><a href="https://github.com/hypothesisworks/hypothesis">hypothesis</a></b>  
 [https://hypothesis.works](https://hypothesis.works)  
-[https://github.com/hypothesisworks/hypothesis](https://github.com/hypothesisworks/hypothesis)  
-12 stars per week over 530 weeks  
-6,684 stars, 561 forks, 69 watches  
-created 2013-03-10, last commit 2023-05-04, main language Python  
-<sub><sup>fuzzing, property-based-testing, testing</sup></sub>
+Hypothesis is a powerful, flexible, and easy to use library for property-based testing.  
+Score: 60/100, Stars: 6,684, Stars/week: 12, Forks: 561  
 
 
-### [coveragepy](https://github.com/nedbat/coveragepy) by [nedbat](https://github.com/nedbat)  
-The code coverage tool for Python  
+<a href="https://github.com/nedbat)">nedbat</a>/<b><a href="https://github.com/nedbat/coveragepy">coveragepy</a></b>  
 [https://coverage.readthedocs.io](https://coverage.readthedocs.io)  
-[https://github.com/nedbat/coveragepy](https://github.com/nedbat/coveragepy)  
-9.78 stars per week over 254 weeks  
-2,492 stars, 369 forks, 28 watches  
-created 2018-06-23, last commit 2023-05-06, main language Python  
+The code coverage tool for Python  
+Score: 56/100, Stars: 2,492, Stars/week: 10, Forks: 369  
 
 
-### [SeleniumBase](https://github.com/seleniumbase/seleniumbase) by [seleniumbase](https://github.com/seleniumbase)  
-A Python browser automation framework for creating reliable end-to-end tests.  
+<a href="https://github.com/seleniumbase)">seleniumbase</a>/<b><a href="https://github.com/seleniumbase/seleniumbase">SeleniumBase</a></b>  
 [https://seleniumbase.io](https://seleniumbase.io)  
-[https://github.com/seleniumbase/seleniumbase](https://github.com/seleniumbase/seleniumbase)  
-6.82 stars per week over 479 weeks  
-3,267 stars, 783 forks, 123 watches  
-created 2014-03-04, last commit 2023-05-04, main language Python  
-<sub><sup>behave, chrome, chromedriver, e2e-testing, firefox, pytest, pytest-plugin, selenium, selenium-python, seleniumbase, test, web-automation, webdriver, webkit</sup></sub>
+A Python browser automation framework for creating reliable end-to-end tests.  
+Score: 53/100, Stars: 3,267, Stars/week: 7, Forks: 783  
 
 
-### [tox](https://github.com/tox-dev/tox) by [tox-dev](https://github.com/tox-dev)  
-Command line driven CI frontend and development task automation tool.  
+<a href="https://github.com/tox-dev)">tox-dev</a>/<b><a href="https://github.com/tox-dev/tox">tox</a></b>  
 [https://tox.wiki](https://tox.wiki)  
-[https://github.com/tox-dev/tox](https://github.com/tox-dev/tox)  
-9.39 stars per week over 346 weeks  
-3,257 stars, 474 forks, 41 watches  
-created 2016-09-17, last commit 2023-05-03, main language Python  
-<sub><sup>actions, appveyor, automation, azure-pipelines, circleci, cli, continuous-integration, gitlab, hacktoberfest, pep-621, testing, travis, venv, virtualenv</sup></sub>
+Command line driven CI frontend and development task automation tool.  
+Score: 52/100, Stars: 3,257, Stars/week: 9, Forks: 474  
 
 
-### [freezegun](https://github.com/spulec/freezegun) by [spulec](https://github.com/spulec)  
+<a href="https://github.com/spulec)">spulec</a>/<b><a href="https://github.com/spulec/freezegun">freezegun</a></b>  
 Let your Python tests travel through time  
-[https://github.com/spulec/freezegun](https://github.com/spulec/freezegun)  
-6.72 stars per week over 543 weeks  
-3,653 stars, 255 forks, 33 watches  
-created 2012-12-11, last commit 2023-02-22, main language Python  
+Score: 44/100, Stars: 3,653, Stars/week: 7, Forks: 255  
 
 
-### [behave](https://github.com/behave/behave)  
+<a href="https://github.com/behave)">behave</a>/<b><a href="https://github.com/behave/behave">behave</a></b>  
 BDD, Python style.  
-[https://github.com/behave/behave](https://github.com/behave/behave)  
-4.73 stars per week over 602 weeks  
-2,847 stars, 624 forks, 123 watches  
-created 2011-10-25, last commit 2023-05-04, main language Python  
+Score: 44/100, Stars: 2,847, Stars/week: 5, Forks: 624  
 
 
-### [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) by [pytest-dev](https://github.com/pytest-dev)  
-pytest plugin for distributed testing and loop-on-failures testing modes.   
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest-xdist">pytest-xdist</a></b>  
 [https://pytest-xdist.readthedocs.io](https://pytest-xdist.readthedocs.io)  
-[https://github.com/pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist)  
-2.85 stars per week over 401 weeks  
-1,143 stars, 197 forks, 48 watches  
-created 2015-09-01, last commit 2023-04-25, main language Python  
-<sub><sup>hacktoberfest, pytest, pytest-plugin</sup></sub>
+pytest plugin for distributed testing and loop-on-failures testing modes.   
+Score: 44/100, Stars: 1,143, Stars/week: 3, Forks: 197  
 
 
-### [pytest-mock](https://github.com/pytest-dev/pytest-mock) by [pytest-dev](https://github.com/pytest-dev)  
-Thin-wrapper around the mock package for easier use with pytest  
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest-mock">pytest-mock</a></b>  
 [https://pytest-mock.readthedocs.io/en/latest/](https://pytest-mock.readthedocs.io/en/latest/)  
-[https://github.com/pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock)  
-3.44 stars per week over 460 weeks  
-1,583 stars, 124 forks, 35 watches  
-created 2014-07-17, last commit 2023-04-26, main language Python  
-<sub><sup>hacktoberfest, mock, pytest</sup></sub>
+Thin-wrapper around the mock package for easier use with pytest  
+Score: 42/100, Stars: 1,583, Stars/week: 3, Forks: 124  
 
 
-### [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) by [pytest-dev](https://github.com/pytest-dev)  
-Asyncio support for pytest  
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest-asyncio">pytest-asyncio</a></b>  
 [https://pytest-asyncio.readthedocs.io](https://pytest-asyncio.readthedocs.io)  
-[https://github.com/pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)  
-2.7 stars per week over 421 weeks  
-1,137 stars, 121 forks, 37 watches  
-created 2015-04-11, last commit 2023-05-01, main language Python  
+Asyncio support for pytest  
+Score: 41/100, Stars: 1,137, Stars/week: 3, Forks: 121  
 
 
-### [tavern](https://github.com/taverntesting/tavern) by [taverntesting](https://github.com/taverntesting)  
-A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
+<a href="https://github.com/taverntesting)">taverntesting</a>/<b><a href="https://github.com/taverntesting/tavern">tavern</a></b>  
 [https://taverntesting.github.io/](https://taverntesting.github.io/)  
-[https://github.com/taverntesting/tavern](https://github.com/taverntesting/tavern)  
-3.21 stars per week over 288 weeks  
-924 stars, 185 forks, 28 watches  
-created 2017-11-01, last commit 2023-04-15, main language Python  
-<sub><sup>http, mqtt, pytest, test-automation, testing</sup></sub>
+A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
+Score: 41/100, Stars: 924, Stars/week: 3, Forks: 185  
 
 
-### [pytest-cov](https://github.com/pytest-dev/pytest-cov) by [pytest-dev](https://github.com/pytest-dev)  
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest-cov">pytest-cov</a></b>  
 Coverage plugin for pytest.  
-[https://github.com/pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov)  
-3.01 stars per week over 473 weeks  
-1,426 stars, 202 forks, 36 watches  
-created 2014-04-17, last commit 2023-02-28, main language Python  
-<sub><sup>pytest</sup></sub>
+Score: 39/100, Stars: 1,426, Stars/week: 3, Forks: 202  
 
 
-### [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) by [pytest-dev](https://github.com/pytest-dev)  
-Testinfra test your infrastructures  
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest-testinfra">pytest-testinfra</a></b>  
 [https://testinfra.readthedocs.io](https://testinfra.readthedocs.io)  
-[https://github.com/pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra)  
-5.16 stars per week over 425 weeks  
-2,196 stars, 325 forks, 82 watches  
-created 2015-03-15, last commit 2023-01-11, main language Python  
-<sub><sup>ansible, chef, devops, devops-tools, docker, infrastructure-as-code, infrastructure-testing, kubernetes, nagios, puppet, pytest-plugin, saltstack, tdd, tdd-utilities, testing, testing-tools</sup></sub>
+Testinfra test your infrastructures  
+Score: 38/100, Stars: 2,196, Stars/week: 5, Forks: 325  
 
 
-### [pytest-sugar](https://github.com/teemu/pytest-sugar) by [teemu](https://github.com/teemu)  
+<a href="https://github.com/teemu)">teemu</a>/<b><a href="https://github.com/teemu/pytest-sugar">pytest-sugar</a></b>  
 a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)  
-[https://github.com/teemu/pytest-sugar](https://github.com/teemu/pytest-sugar)  
-2.06 stars per week over 515 weeks  
-1,063 stars, 70 forks, 17 watches  
-created 2013-06-25, last commit 2023-04-10, main language Python  
-<sub><sup>pytest, pytest-plugin, pytest-sugar, testing</sup></sub>
+Score: 37/100, Stars: 1,063, Stars/week: 2, Forks: 70  
 
 
-### [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) by [newsapps](https://github.com/newsapps)  
-A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).  
+<a href="https://github.com/newsapps)">newsapps</a>/<b><a href="https://github.com/newsapps/beeswithmachineguns">beeswithmachineguns</a></b>  
 [http://apps.chicagotribune.com/](http://apps.chicagotribune.com/)  
-[https://github.com/newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)  
-9.42 stars per week over 671 weeks  
-6,321 stars, 664 forks, 227 watches  
-created 2010-06-29, last commit 2017-12-20, main language Python  
+A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).  
+Score: 36/100, Stars: 6,321, Stars/week: 9, Forks: 664  
 
 
-### [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) by [ionelmc](https://github.com/ionelmc)  
+<a href="https://github.com/ionelmc)">ionelmc</a>/<b><a href="https://github.com/ionelmc/pytest-benchmark">pytest-benchmark</a></b>  
 py.test fixture for benchmarking code  
-[https://github.com/ionelmc/pytest-benchmark](https://github.com/ionelmc/pytest-benchmark)  
-2.4 stars per week over 447 weeks  
-1,076 stars, 107 forks, 18 watches  
-created 2014-10-10, last commit 2023-04-27, main language Python  
-<sub><sup>benchmark, benchmarking, performance, pytest</sup></sub>
+Score: 35/100, Stars: 1,076, Stars/week: 2, Forks: 107  
 
 
-### [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) by [pytest-dev](https://github.com/pytest-dev)  
-BDD library for the py.test runner  
+<a href="https://github.com/pytest-dev)">pytest-dev</a>/<b><a href="https://github.com/pytest-dev/pytest-bdd">pytest-bdd</a></b>  
 [https://pytest-bdd.readthedocs.io/en/latest/](https://pytest-bdd.readthedocs.io/en/latest/)  
-[https://github.com/pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd)  
-2.19 stars per week over 527 weeks  
-1,157 stars, 196 forks, 55 watches  
-created 2013-03-29, last commit 2023-04-04, main language Python  
+BDD library for the py.test runner  
+Score: 34/100, Stars: 1,157, Stars/week: 2, Forks: 196  
 
 
-### [parameterized](https://github.com/wolever/parameterized) by [wolever](https://github.com/wolever)  
+<a href="https://github.com/wolever)">wolever</a>/<b><a href="https://github.com/wolever/parameterized">parameterized</a></b>  
 Parameterized testing with any Python test framework  
-[https://github.com/wolever/parameterized](https://github.com/wolever/parameterized)  
-1.28 stars per week over 582 weeks  
-748 stars, 99 forks, 19 watches  
-created 2012-03-10, last commit 2023-03-27, main language Python  
+Score: 33/100, Stars: 748, Stars/week: 1, Forks: 99  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.
