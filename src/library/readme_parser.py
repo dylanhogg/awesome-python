@@ -42,7 +42,7 @@ def get_arxiv_links(row) -> list[list[str, str, str]]:
                 paper_ids_abs = re.findall(r'https?://arxiv\.org/abs/(\d{4}\.\d{4,5})', text)
                 paper_ids_pdf = re.findall(r'https?://arxiv\.org/pdf/(\d{4}\.\d{4,5})v?\d?.pdf', text)
                 paper_ids = list(dict.fromkeys(paper_ids_abs + paper_ids_pdf))  # Remove duplicates from a list, while preserving order
-                # TODO: consider re-ordering based on similarity, or if reponame in paper title????
+                # TODO: consider re-ordering based on similarity, or if reponame in paper title?
 
     # Process paper_ids and get metadata from arxiv.org search
     results = []
@@ -65,7 +65,7 @@ def get_pypi_links(row) -> list[str]:
         if file.is_file():
             with open(file, "r") as f:
                 text = f.read()
-                pypi_links_slash = re.findall(r'https?://pypi\.org/project/([A-Za-z0-9_-]+)/', text)  # TODO: review regex, esp trailing /
+                pypi_links_slash = re.findall(r'https?://pypi\.org/project/([A-Za-z0-9_-]+)/', text)
                 pypi_links_quote = re.findall(r'https?://pypi\.org/project/([A-Za-z0-9_-]+)"', text)
                 pypi_links = list(dict.fromkeys(pypi_links_slash + pypi_links_quote))  # Remove duplicates from a list, while preserving order
                 pypi_links = [s.lower() for s in pypi_links]
@@ -77,3 +77,23 @@ def get_pypi_links(row) -> list[str]:
                     pypi_links.insert(0, repo_name_fixed)
 
     return pypi_links
+
+
+def get_huggingface_links(row) -> list[str]:
+    huggingface_links = []
+    custom_huggingface = []  # TODO: add to sheet & render.py: row["customhuggingface"]
+    if custom_huggingface:
+        # TODO: consider breaking up customhuggingface from readmearxiv, include both and render _arxiv_links from these?
+        huggingface_links = [] if custom_huggingface[0].lower() == "<hide>" else custom_huggingface
+    else:
+        readme_localurl = row["_readme_localurl"]
+        file = Path(f"./data/{readme_localurl}.html")
+        if file.is_file():
+            with open(file, "r") as f:
+                text = f.read()
+                huggingface_links = re.findall(r'https?://huggingface\.co/([A-Za-z0-9/_-]+)"', text)
+                huggingface_links = list(dict.fromkeys(huggingface_links))  # Remove duplicates from a list, while preserving order
+                # TODO: review filters for huggingface.co links
+                huggingface_links = [s.lower() for s in huggingface_links if not s.endswith(".svg")]
+
+    return huggingface_links

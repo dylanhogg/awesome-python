@@ -19,6 +19,7 @@ def get_input_data(csv_location: str) -> pd.DataFrame:
     assert "customtopics" in df.columns
     assert "customarxiv" in df.columns
     assert "custompypi" in df.columns
+    # TODO: add customhf
 
     # Processing on input csv data
     df["githuburl"] = df["githuburl"].apply(lambda x: x.strip().lower())
@@ -163,6 +164,7 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
     logger.info(f"Calculate similarity metrics...")
     records = df[["_repopath", "_reponame", "category", "_description", "_topics"]].to_dict("records")
     lookup_dict = similarity.get_lookup_dict(records)
+    logger.info(f"Apply similarity metrics...")
     df["sim"] = df.apply(
         lambda row: similarity.lookup_similarity_record(row, lookup_dict),
         axis=1,

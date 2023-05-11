@@ -35,6 +35,15 @@
     min-width: 200px;
 }
 
+.similar-column {
+    max-width: 250px;
+    min-width: 100px;
+}
+
+.tags-column {
+    max-width: 250px;
+}
+
 .label-link {
     margin: 1px 1px;
     padding: 1px 5px;

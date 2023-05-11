@@ -54,7 +54,8 @@ def _crawl_external_files(df_input: pd.DataFrame):
     df["_arxiv_count"] = df["_arxiv_links"].apply(lambda x: len(x))
     df["_pypi_links"] = df.apply(lambda row: readme_parser.get_pypi_links(row), axis=1)
     df["_pypi_count"] = df["_pypi_links"].apply(lambda x: len(x))
-    # TODO: Add https://huggingface.co/spaces/* e.g. https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Question_Answering
+    df["_hf_links"] = df.apply(lambda row: readme_parser.get_huggingface_links(row), axis=1)
+    df["_hf_count"] = df["_hf_links"].apply(lambda x: len(x))
     # TODO: Add https://wandb.ai/* e.g. https://wandb.ai/eleutherai/neox
 
     return df
@@ -63,8 +64,9 @@ def _crawl_external_files(df_input: pd.DataFrame):
 def _save_json_data_files(df: pd.DataFrame,
                           output_json_filename: str,
                           max_ui_topics: int = 4,
-                          max_ui_arxiv: int = 3,  # TODO: review
-                          max_ui_pypi: int = 1,  # TODO: review
+                          max_ui_other_link: int = 1,
+                          max_ui_arxiv: int = 1,
+                          max_ui_pypi: int = 1,
                           max_ui_sim: int = 3):
 
     # Write raw results to json table format (i.e. github_data.json)
@@ -106,11 +108,12 @@ def _save_json_data_files(df: pd.DataFrame,
             "_topics",
             "sim",
             "_readme_localurl",
-            # TODO: review and trim:
             "_arxiv_links",
             "_arxiv_count",
             "_pypi_links",
             "_pypi_count",
+            # "_hf_links",
+            # "_hf_count",
         ]
 
         df_min_ui = df[minjson_cols].copy()
@@ -118,6 +121,7 @@ def _save_json_data_files(df: pd.DataFrame,
         df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
         df_min_ui["_arxiv_links"] = df_min_ui["_arxiv_links"].apply(lambda x: x[0:max_ui_arxiv])
         df_min_ui["_pypi_links"] = df_min_ui["_pypi_links"].apply(lambda x: x[0:max_ui_pypi])
+        # df_min_ui["_hf_links"] = df_min_ui["_hf_links"].apply(lambda x: x[0:max_ui_other_link])
         df_min_ui["sim"] = df_min_ui["sim"].apply(lambda x: x[0:max_ui_sim])
         json_results = df_min_ui.to_json(orient="table", double_precision=2, index=False)
         data = json.loads(json_results)

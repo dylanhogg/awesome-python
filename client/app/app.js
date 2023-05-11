@@ -183,6 +183,7 @@ $(document).ready( function () {
     var description_max_strlen = 120;
     var topic_max_strlen = 30;
     var topic_max_count = 4;
+    var debug_view = false;
 
     var table = $("#table").DataTable( {
         ajax: {
@@ -196,7 +197,8 @@ $(document).ready( function () {
         paging: true,
         pagingType: "full",  // https://datatables.net/reference/option/pagingType
         lengthChange: true,
-        lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
+        lengthMenu: [[5, 10, 50, 100], [5, 10, 50, 100]],
+        // lengthMenu: [[5, 10, 50, -1], [5, 10, 50, "All"]],
         pageLength: 5,
         search: {
            search: initialSearchTerm,
@@ -279,14 +281,13 @@ $(document).ready( function () {
 
                 var pypi_links = row._pypi_links;
                 var pypi_display = [];
-                var pypi_debug_view = false;
                 if (pypi_links.length > 0) {
+                    var pypi_total = row._pypi_count;
                     var pypi_item = pypi_links[0];
                     var pypi_title = "View pypi package: " + pypi_item.replace("https://pypi.org/project/", "").replace("/", "");
                     var pypi_display = "<a href='" + pypi_item + "' target='_blank'>" +
                         "<img src='img/pypi16.png' width='16' height='16' alt='pypi' title='View pypi package' class='web-img'></img></a>&nbsp;<a href='https://pypi.org/project/" + pypi_item + "/' title='" + pypi_title + "' target='_blank'>pypi.org</a>";
-                    if (pypi_debug_view) {
-                        var pypi_total = row._pypi_count;
+                    if (debug_view) {
                         if (pypi_total > 1) {
                             pypi_display += "&nbsp;<span class='light-text'>+" + (pypi_total - 1) + " more (debug)</span>";
                         }
@@ -300,16 +301,43 @@ $(document).ready( function () {
                 var arxiv_links = row._arxiv_links;
                 var arxiv_display = [];
                 if (arxiv_links.length > 0) {
+                    var arxiv_total = row._arxiv_count;
                     var arxiv_item = arxiv_links[0];
-                    var arxiv_title = "View arXiv paper: " + arxiv_item[1] + " (" + arxiv_item[2] + ")";
+                    // var arxiv_title = "View paper: " + arxiv_item[1] + " (" + arxiv_item[2] + ")";
+                    var arxiv_title = "View paper: " + arxiv_item[1];
+                    if (arxiv_total > 1) {
+                        arxiv_title += " (1/" + arxiv_total + " total papers in readme)";
+                    }
                     var arxiv_display = "<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' target='_blank'>" +
                         "<img src='img/arxiv16.png' width='16' height='16' alt='arXiv' title='View arXiv paper' class='web-img'></img></a>&nbsp;<a href='https://arxiv.org/abs/" + arxiv_item[0] + "' title='" + arxiv_title + "' target='_blank'>arxiv.org</a>";
-                    var arxiv_total = row._arxiv_count;
-                    if (arxiv_total > 1) {
-                        arxiv_display += "&nbsp;<span class='light-text'>+" + (arxiv_total - 1) + " more</span>";
+                    if (debug_view) {
+                        if (arxiv_total > 1) {
+                            arxiv_display += "&nbsp;<span class='light-text'>+" + (arxiv_total - 1) + " more (debug)</span>";
+                        }
                     }
                     displayUrls.push(arxiv_display);
                 }
+
+//                // huggingface is a wip:
+//                var hf_links = row._hf_links;
+//                var hf_display = [];
+//                if (hf_links.length > 0) {
+//                    var hf_total = row._hf_count;
+//                    var hf_item = hf_links[0];
+//                    // var hf_title = "View paper: " + hf_item[1] + " (" + hf_item[2] + ")";
+//                    var hf_title = "View huggingface link";
+//                    if (hf_total > 1) {
+//                        hf_title += " (1/" + hf_total + " total huggingface links in readme)";
+//                    }
+//                    var hf_display = "<a href='https://huggingface.co/" + hf_item[0] + "' target='_blank'>" +
+//                        "<img src='img/pypi16.png' width='16' height='16' alt='hf' title='View huggingface link' class='web-img'></img></a>&nbsp;<a href='https://huggingface.co/" + hf_item + "' title='" + hf_title + "' target='_blank'>huggingface.co</a>";
+//                    if (debug_view) {
+//                        if (hf_total > 1) {
+//                            hf_display += "&nbsp;<span class='light-text'>+" + (hf_total - 1) + " more (debug)</span>";
+//                        }
+//                    }
+//                    displayUrls.push(hf_display);
+//                }
 
                 return "<div class='text-wrap links-column'>" + displayUrls.join("<br />") + "</div>";
              }
@@ -369,7 +397,7 @@ $(document).ready( function () {
 
                 repo_links = repo_links.filter(function (el) { return el != null; });
                 repo_html = repo_links.join("<br />");
-                return "<div class='text-wrap links-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
+                return "<div class='text-wrap similar-column' style='white-space: nowrap!important;'>" + repo_html + "</div>";
               }
            },
 
@@ -407,7 +435,7 @@ $(document).ready( function () {
             render: function(data, type, row, meta) {
                 if (data.length == 0) { return ""; }
                 var tags = data.slice(0, topic_max_count);
-                return tags.map(item => {
+                var tag_links = tags.map(item => {
                     var short_item = item;
                     if (short_item.length > topic_max_strlen) {
                         short_item = short_item.substr(0, topic_max_strlen);
@@ -415,6 +443,7 @@ $(document).ready( function () {
                     // return "<a class='label-link' href='https://github.com/topics/" + item + "?l=python'>" + item + "</a> ";
                     return "<a class='label-link' href='/?q=" + short_item + "'>" + short_item + "</a> ";
                 }).join(" ");
+                return "<div class='tags-column'>" + tag_links + "</div>";
             }
            },
 
