@@ -88,7 +88,7 @@ def make_markdown(row, include_category=False) -> str:
     if language is not None and language.lower() != "python" and language.lower() != "jupyter notebook":
         logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
-    header = f'<a href="https://github.com/{organization})">{organization}</a>/<b><a href="{url}">{name}</a></b>'
+    header = f'<a href="https://github.com/{organization})">{organization}/</a><b><a href="{url}">{name}</a></b>'
 
     if include_category:
         # Main readme.md
@@ -247,8 +247,14 @@ def lines_header(count: int, category: str = "") -> List[str]:
         f"Hand-picked awesome Python libraries and frameworks, ",
         f"with an emphasis on data and machine learning, ranked by popularity score 🐍  \n",
 
-        f"Checkout the interactive version that you can filter and sort: ",
-        f"[www.awesomepython.org](https://www.awesomepython.org/) 🔥  \n\n",
+        f"Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  \n\n",
+    ]
+
+
+def lines_footer() -> List[str]:
+    return [
+        f"Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  \n\n",
+        f"This list was updated on {datetime.now().date()}."
     ]
 
 

@@ -144,13 +144,10 @@ def _write_local_markdown_files(df: pd.DataFrame):
     df = render.add_markdown(df)
 
     # Write all results to README.md
-    lines_footer = [
-        f"This list was updated on {datetime.now().date()}."
-    ]
     lines = []
     lines.extend(render.lines_header(len(df)))
     lines.extend(list(df["_doclines_main"]))
-    lines.extend(lines_footer)
+    lines.extend(render.lines_footer())
 
     logger.info(f"Writing {len(df)} entries to README.md...")
     with open("README.md", "w") as out:
@@ -163,7 +160,7 @@ def _write_local_markdown_files(df: pd.DataFrame):
         lines = []
         lines.extend(render.lines_header(len(df_category), category))
         lines.extend(list(df_category["_doclines_child"]))
-        lines.extend(lines_footer)
+        lines.extend(render.lines_footer())
         filename = f"categories/{category}.md"
         logger.info(f"Writing {len(df_category)} entries to {filename}...")
         with open(filename, "w") as out:
