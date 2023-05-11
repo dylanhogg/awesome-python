@@ -63,6 +63,7 @@ def _crawl_external_files(df_input: pd.DataFrame):
 
 def _save_json_data_files(df: pd.DataFrame,
                           output_json_filename: str,
+                          max_ui_description: int = 200,
                           max_ui_topics: int = 4,
                           max_ui_other_link: int = 1,
                           max_ui_arxiv: int = 1,
@@ -117,7 +118,8 @@ def _save_json_data_files(df: pd.DataFrame,
         ]
 
         df_min_ui = df[minjson_cols].copy()
-        # NOTE: max_ui_topics & max_ui_sim values impact capability on Javascript UI side!
+        # NOTE: max_ui_description, max_ui_topics & max_ui_sim etc values impact capability on Javascript UI side!
+        df_min_ui["_description"] = df_min_ui["_description"].apply(lambda x: x[0:max_ui_description])
         df_min_ui["_topics"] = df_min_ui["_topics"].apply(lambda x: x[0:max_ui_topics])
         df_min_ui["_arxiv_links"] = df_min_ui["_arxiv_links"].apply(lambda x: x[0:max_ui_arxiv])
         df_min_ui["_pypi_links"] = df_min_ui["_pypi_links"].apply(lambda x: x[0:max_ui_pypi])

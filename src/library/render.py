@@ -53,17 +53,23 @@ def make_markdown(row, include_category=False) -> str:
     name = row["_reponame"]
     organization = row["_organization"]
     homepage = row["_homepage"]
+    # homepage_display = (
+    #     f"[{homepage}]({homepage})  \n[{url}]({url})"
+    #     if homepage is not None and len(homepage) > 0
+    #     else f"[{url}]({url})"
+    # )
     homepage_display = (
-        f"[{homepage}]({homepage})  \n[{url}]({url})"
+        f"[{homepage}]({homepage})"
         if homepage is not None and len(homepage) > 0
-        else f"[{url}]({url})"
-    )
-    category = row["category"]
-    category_display = (
-        f"[{category}](categories/{category}.md) category, "
-        if include_category and category is not None and len(category) > 0
         else ""
     )
+    category = row["category"]
+    # category_display = (
+    #     f"[{category}](categories/{category}.md) category, "
+    #     if include_category and category is not None and len(category) > 0
+    #     else ""
+    # )
+    score = row["_pop_score"]
     stars = row["_stars"]
     stars_per_week = row["_stars_per_week"]
     stars_per_week = round(stars_per_week, 2) if stars_per_week < 10 else int(stars_per_week)
@@ -76,26 +82,43 @@ def make_markdown(row, include_category=False) -> str:
     topics = row["_topics"]
     topics_display = "\n<sub><sup>" + ", ".join(sorted(topics)) + "</sup></sub>" if len(topics) > 0 else ""
     description = row["_description"]
+    if len(description) > 320:
+        description = description[0:317] + "..."
     language = row["_language"]
     if language is not None and language.lower() != "python" and language.lower() != "jupyter notebook":
         logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
+    # header = (
+    #     f"[{name}]({url})"
+    #     if name == organization
+    #     else f"[{name}]({url}) by [{organization}](https://github.com/{organization})"
+    # )
+
     header = (
-        f"[{name}]({url})"
-        if name == organization
-        else f"[{name}]({url}) by [{organization}](https://github.com/{organization})"
+        f'<a href="https://github.com/{organization})">{organization}</a>/<b><a href="{url}">{name}</a></b>'
     )
 
-    return (
-        f"### {header}  "
+    if include_category:
+        # Main readme.md
+        result = f"{row.name + 1}. {header}  "
+    else:
+        # Category markdown
+        result = f"{header}  "  # TODO: fix ordering for specific category dataframe subset
+
+    if homepage_display:
+        result += f"\n{homepage_display}  "
+
+    result += (
         f"\n{description}  "
-        f"\n{homepage_display}  "
-        f"\n{stars_per_week} stars per week over {age_weeks} weeks  "
-        f"\n{stars:,} stars, {forks:,} forks, {watches:,} watches  "
-        f"\n{category_display}created {created}, last commit {last_commit_date}, main language {language}  "
-        f"{topics_display}"
+        # f"\n{stars_per_week} stars/week  "
+        # f"\n{score:.0f} score, {stars:,} stars, {forks:,} forks, {watches:,} watches  "
+        f"\nScore: {score:.0f}/100, Stars: {stars:,}, Stars/week: {stars_per_week:,}, Forks: {forks:,}  "
+        # f"\n{category_display}created {created}, last commit {last_commit_date}, main language {language}  "
+        # f"{topics_display}"
         f"\n\n"
     )
+
+    return result
 
 
 def _column_apply(df: pd.DataFrame, target: str, source: str, fn: Callable):
@@ -229,21 +252,21 @@ def process(df_input: pd.DataFrame, token_list: List[str]) -> pd.DataFrame:
 
 
 def lines_header(count: int, category: str = "") -> List[str]:
-    category_line = f"A selection of {count} curated Python libraries and frameworks ordered by stars.  \n"
-    if len(category) > 0:
-        category_line = (
-            f"A selection of {count} curated {category} Python libraries and frameworks ordered by stars.  \n"
-        )
-
+    # TODO: reintroduce category description via lookup
     return [
-        f"# Crazy Awesome Python",
-        category_line,
+        f"# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  \n",
+
+        f"Hand-picked awesome Python libraries and frameworks, ",
+        f"with an emphasis on data and machine learning, ranked by popularity score 🐍  \n",
+
         f"Checkout the interactive version that you can filter and sort: ",
-        f"[https://www.awesomepython.org/](https://www.awesomepython.org/)  \n\n",
+        f"[www.awesomepython.org](https://www.awesomepython.org/) 🔥  \n\n",
     ]
 
 
-def add_markdown(df: pd.DataFrame) -> pd.DataFrame:
+def add_markdown(df_input: pd.DataFrame) -> pd.DataFrame:
+    df = df_input.copy()
+    df = df.reset_index()
     df["_doclines_main"] = df.apply(lambda x: make_markdown(x, include_category=True), axis=1)
     df["_doclines_child"] = df.apply(lambda x: make_markdown(x, include_category=False), axis=1)
     return df
