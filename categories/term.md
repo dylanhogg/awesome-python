@@ -1,142 +1,91 @@
-# Crazy Awesome Python
-A selection of 14 curated term Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [rich](https://github.com/willmcgugan/rich) by [willmcgugan](https://github.com/willmcgugan)  
-Rich is a Python library for rich text and beautiful formatting in the terminal.  
+<a href="https://github.com/willmcgugan)">willmcgugan</a>/<b><a href="https://github.com/willmcgugan/rich">rich</a></b>  
 [https://rich.readthedocs.io/en/latest/](https://rich.readthedocs.io/en/latest/)  
-[https://github.com/willmcgugan/rich](https://github.com/willmcgugan/rich)  
-236 stars per week over 182 weeks  
-43,141 stars, 1,557 forks, 541 watches  
-created 2019-11-10, last commit 2023-04-27, main language Python  
-<sub><sup>ansi-colors, emoji, markdown, progress-bar, progress-bar-python, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich, tui</sup></sub>
+Rich is a Python library for rich text and beautiful formatting in the terminal.  
+Score: 81/100, Stars: 43,141, Stars/week: 236, Forks: 1,557  
 
 
-### [textual](https://github.com/willmcgugan/textual) by [willmcgugan](https://github.com/willmcgugan)  
-Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!  
+<a href="https://github.com/willmcgugan)">willmcgugan</a>/<b><a href="https://github.com/willmcgugan/textual">textual</a></b>  
 [https://textual.textualize.io/](https://textual.textualize.io/)  
-[https://github.com/willmcgugan/textual](https://github.com/willmcgugan/textual)  
-175 stars per week over 109 weeks  
-19,135 stars, 561 forks, 153 watches  
-created 2021-04-08, last commit 2023-05-05, main language Python  
-<sub><sup>cli, framework, rich, terminal, tui</sup></sub>
+Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!  
+Score: 81/100, Stars: 19,135, Stars/week: 175, Forks: 561  
 
 
-### [typer](https://github.com/tiangolo/typer) by [tiangolo](https://github.com/tiangolo)  
-Typer, build great CLIs. Easy to code. Based on Python type hints.  
+<a href="https://github.com/tiangolo)">tiangolo</a>/<b><a href="https://github.com/tiangolo/typer">typer</a></b>  
 [https://typer.tiangolo.com/](https://typer.tiangolo.com/)  
-[https://github.com/tiangolo/typer](https://github.com/tiangolo/typer)  
-63 stars per week over 176 weeks  
-11,115 stars, 457 forks, 66 watches  
-created 2019-12-24, last commit 2023-05-02, main language Python  
-<sub><sup>cli, click, shell, terminal, typehints, typer</sup></sub>
+Typer, build great CLIs. Easy to code. Based on Python type hints.  
+Score: 65/100, Stars: 11,115, Stars/week: 63, Forks: 457  
 
 
-### [tqdm](https://github.com/tqdm/tqdm)  
-A Fast, Extensible Progress Bar for Python and CLI  
+<a href="https://github.com/tqdm)">tqdm</a>/<b><a href="https://github.com/tqdm/tqdm">tqdm</a></b>  
 [https://tqdm.github.io](https://tqdm.github.io)  
-[https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
-59 stars per week over 414 weeks  
-24,689 stars, 1,270 forks, 210 watches  
-created 2015-06-03, last commit 2023-03-03, main language Python  
-<sub><sup>cli, closember, console, discord, gui, jupyter, keras, meter, pandas, parallel, progress, progress-bar, progressbar, progressmeter, rate, telegram, terminal, time, utilities</sup></sub>
+A Fast, Extensible Progress Bar for Python and CLI  
+Score: 59/100, Stars: 24,689, Stars/week: 59, Forks: 1,270  
 
 
-### [python-fire](https://github.com/google/python-fire) by [google](https://github.com/google)  
+<a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/python-fire">python-fire</a></b>  
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.  
-[https://github.com/google/python-fire](https://github.com/google/python-fire)  
-75 stars per week over 324 weeks  
-24,467 stars, 1,387 forks, 381 watches  
-created 2017-02-21, last commit 2023-02-13, main language Python  
-<sub><sup>cli</sup></sub>
+Score: 59/100, Stars: 24,467, Stars/week: 75, Forks: 1,387  
 
 
-### [click](https://github.com/pallets/click) by [pallets](https://github.com/pallets)  
-Python composable command line interface toolkit  
+<a href="https://github.com/pallets)">pallets</a>/<b><a href="https://github.com/pallets/click">click</a></b>  
 [https://click.palletsprojects.com](https://click.palletsprojects.com)  
-[https://github.com/pallets/click](https://github.com/pallets/click)  
-29 stars per week over 472 weeks  
-13,800 stars, 1,342 forks, 183 watches  
-created 2014-04-24, last commit 2023-05-03, main language Python  
-<sub><sup>cli, click, pallets</sup></sub>
+Python composable command line interface toolkit  
+Score: 58/100, Stars: 13,800, Stars/week: 29, Forks: 1,342  
 
 
-### [urwid](https://github.com/urwid/urwid)  
-Console user interface library for Python (official repo)  
+<a href="https://github.com/urwid)">urwid</a>/<b><a href="https://github.com/urwid/urwid">urwid</a></b>  
 [urwid.org](urwid.org)  
-[https://github.com/urwid/urwid](https://github.com/urwid/urwid)  
-3.75 stars per week over 689 weeks  
-2,587 stars, 313 forks, 65 watches  
-created 2010-02-25, last commit 2023-05-05, main language Python  
+Console user interface library for Python (official repo)  
+Score: 39/100, Stars: 2,587, Stars/week: 3.75, Forks: 313  
 
 
-### [prettytable](https://github.com/jazzband/prettytable) by [jazzband](https://github.com/jazzband)  
-Display tabular data in a visually appealing ASCII table format  
+<a href="https://github.com/jazzband)">jazzband</a>/<b><a href="https://github.com/jazzband/prettytable">prettytable</a></b>  
 [https://pypi.org/project/PrettyTable/](https://pypi.org/project/PrettyTable/)  
-[https://github.com/jazzband/prettytable](https://github.com/jazzband/prettytable)  
-2.65 stars per week over 381 weeks  
-1,011 stars, 122 forks, 21 watches  
-created 2016-01-15, last commit 2023-04-10, main language Python  
-<sub><sup>package, utility-library</sup></sub>
+Display tabular data in a visually appealing ASCII table format  
+Score: 39/100, Stars: 1,011, Stars/week: 2.65, Forks: 122  
 
 
-### [blessed](https://github.com/jquast/blessed) by [jquast](https://github.com/jquast)  
-Blessed is an easy, practical library for making python terminal apps  
+<a href="https://github.com/jquast)">jquast</a>/<b><a href="https://github.com/jquast/blessed">blessed</a></b>  
 [http://pypi.python.org/pypi/blessed](http://pypi.python.org/pypi/blessed)  
-[https://github.com/jquast/blessed](https://github.com/jquast/blessed)  
-1.9 stars per week over 479 weeks  
-912 stars, 66 forks, 23 watches  
-created 2014-03-01, last commit 2023-05-05, main language Python  
-<sub><sup>cli, curses, terminal</sup></sub>
+Blessed is an easy, practical library for making python terminal apps  
+Score: 35/100, Stars: 912, Stars/week: 1.9, Forks: 66  
 
 
-### [halo](https://github.com/manrajgrover/halo) by [manrajgrover](https://github.com/manrajgrover)  
+<a href="https://github.com/manrajgrover)">manrajgrover</a>/<b><a href="https://github.com/manrajgrover/halo">halo</a></b>  
 💫 Beautiful spinners for terminal, IPython and Jupyter  
-[https://github.com/manrajgrover/halo](https://github.com/manrajgrover/halo)  
-9.21 stars per week over 296 weeks  
-2,731 stars, 141 forks, 26 watches  
-created 2017-09-03, last commit 2020-11-09, main language Python  
-<sub><sup>async, halo, ipython, jupyter, ora, spinner</sup></sub>
+Score: 35/100, Stars: 2,731, Stars/week: 9.21, Forks: 141  
 
 
-### [enlighten](https://github.com/rockhopper-technologies/enlighten) by [rockhopper-technologies](https://github.com/rockhopper-technologies)  
-Enlighten Progress Bar for Python Console Apps  
+<a href="https://github.com/rockhopper-technologies)">rockhopper-technologies</a>/<b><a href="https://github.com/rockhopper-technologies/enlighten">enlighten</a></b>  
 [https://python-enlighten.readthedocs.io](https://python-enlighten.readthedocs.io)  
-[https://github.com/rockhopper-technologies/enlighten](https://github.com/rockhopper-technologies/enlighten)  
-0.99 stars per week over 293 weeks  
-292 stars, 20 forks, 5 watches  
-created 2017-09-22, last commit 2023-04-13, main language Python  
+Enlighten Progress Bar for Python Console Apps  
+Score: 27/100, Stars: 292, Stars/week: 0.99, Forks: 20  
 
 
-### [terminaltables](https://github.com/matthewdeanmartin/terminaltables) by [matthewdeanmartin](https://github.com/matthewdeanmartin)  
-Generate simple tables in terminals from a nested list of strings.  
+<a href="https://github.com/matthewdeanmartin)">matthewdeanmartin</a>/<b><a href="https://github.com/matthewdeanmartin/terminaltables">terminaltables</a></b>  
 [https://robpol86.github.io/terminaltables](https://robpol86.github.io/terminaltables)  
-[https://github.com/matthewdeanmartin/terminaltables](https://github.com/matthewdeanmartin/terminaltables)  
-0.36 stars per week over 74 weeks  
-27 stars, 5 forks, 1 watches  
-created 2021-12-04, last commit 2022-01-30, main language Python  
+Generate simple tables in terminals from a nested list of strings.  
+Score: 13/100, Stars: 27, Stars/week: 0.36, Forks: 5  
 
 
-### [dashing](https://github.com/federicoceratto/dashing) by [federicoceratto](https://github.com/federicoceratto)  
-Terminal dashboards for Python  
+<a href="https://github.com/federicoceratto)">federicoceratto</a>/<b><a href="https://github.com/federicoceratto/dashing">dashing</a></b>  
 [https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
-[https://github.com/federicoceratto/dashing](https://github.com/federicoceratto/dashing)  
-1.15 stars per week over 309 weeks  
-355 stars, 30 forks, 9 watches  
-created 2017-06-03, last commit 2020-09-06, main language Python  
-<sub><sup>charts, dashboard, gauges, terminal, terminal-based</sup></sub>
+Terminal dashboards for Python  
+Score: 11/100, Stars: 355, Stars/week: 1.15, Forks: 30  
 
 
-### [sparklines](https://github.com/deeplook/sparklines) by [deeplook](https://github.com/deeplook)  
+<a href="https://github.com/deeplook)">deeplook</a>/<b><a href="https://github.com/deeplook/sparklines">sparklines</a></b>  
 Text-based sparkline command line mimicking those of Edward Tuft.  
-[https://github.com/deeplook/sparklines](https://github.com/deeplook/sparklines)  
-0.23 stars per week over 364 weeks  
-84 stars, 5 forks, 3 watches  
-created 2016-05-17, last commit 2021-06-26, main language Python  
-<sub><sup>ascii, command-line-tool, graphs, sparkline-graphs, sparklines</sup></sub>
+Score: 11/100, Stars: 84, Stars/week: 0.23, Forks: 5  
 
 
 This file was automatically generated on 2023-05-11.  

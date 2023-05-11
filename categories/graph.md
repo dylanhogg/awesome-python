@@ -1,74 +1,49 @@
-# Crazy Awesome Python
-A selection of 7 curated graph Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [networkx](https://github.com/networkx/networkx)  
-Network Analysis in Python  
+<a href="https://github.com/networkx)">networkx</a>/<b><a href="https://github.com/networkx/networkx">networkx</a></b>  
 [https://networkx.org](https://networkx.org)  
-[https://github.com/networkx/networkx](https://github.com/networkx/networkx)  
-19 stars per week over 661 weeks  
-12,598 stars, 2,907 forks, 280 watches  
-created 2010-09-06, last commit 2023-05-03, main language Python  
-<sub><sup>complex-networks, graph-algorithms, graph-analysis, graph-generation, graph-theory, graph-visualization</sup></sub>
+Network Analysis in Python  
+Score: 61/100, Stars: 12,598, Stars/week: 19, Forks: 2,907  
 
 
-### [stellargraph](https://github.com/stellargraph/stellargraph)  
-StellarGraph - Machine Learning on Graphs  
+<a href="https://github.com/stellargraph)">stellargraph</a>/<b><a href="https://github.com/stellargraph/stellargraph">stellargraph</a></b>  
 [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/)  
-[https://github.com/stellargraph/stellargraph](https://github.com/stellargraph/stellargraph)  
-10 stars per week over 264 weeks  
-2,687 stars, 409 forks, 63 watches  
-created 2018-04-13, last commit 2021-10-29, main language Python  
-<sub><sup>data-science, deep-learning, gcn, geometric-deep-learning, graph-analysis, graph-convolutional-networks, graph-data, graph-machine-learning, graph-neural-networks, graphs, heterogeneous-networks, interpretability, link-prediction, machine-learning, machine-learning-algorithms, networkx, saliency-map, stellargraph-library</sup></sub>
+StellarGraph - Machine Learning on Graphs  
+Score: 41/100, Stars: 2,687, Stars/week: 10, Forks: 409  
 
 
-### [pyvis](https://github.com/westhealth/pyvis) by [westhealth](https://github.com/westhealth)  
-Python package for creating and visualizing interactive network graphs.  
+<a href="https://github.com/westhealth)">westhealth</a>/<b><a href="https://github.com/westhealth/pyvis">pyvis</a></b>  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
-[https://github.com/westhealth/pyvis](https://github.com/westhealth/pyvis)  
-2.49 stars per week over 261 weeks  
-650 stars, 121 forks, 15 watches  
-created 2018-05-10, last commit 2023-02-10, main language HTML  
-<sub><sup>network-visualization, networkx</sup></sub>
+Python package for creating and visualizing interactive network graphs.  
+Score: 33/100, Stars: 650, Stars/week: 2.49, Forks: 121  
 
 
-### [GraphGPS](https://github.com/rampasek/graphgps) by [rampasek](https://github.com/rampasek)  
+<a href="https://github.com/rampasek)">rampasek</a>/<b><a href="https://github.com/rampasek/graphgps">GraphGPS</a></b>  
 Recipe for a General, Powerful, Scalable Graph Transformer  
-[https://github.com/rampasek/graphgps](https://github.com/rampasek/graphgps)  
-7.28 stars per week over 50 weeks  
-366 stars, 51 forks, 10 watches  
-created 2022-05-24, last commit 2023-02-17, main language Python  
-<sub><sup>graph-neural-network, graph-representation-learning, graph-transformer, long-range-dependence</sup></sub>
+Score: 28/100, Stars: 366, Stars/week: 7.28, Forks: 51  
 
 
-### [graph-force](https://github.com/h4kor/graph-force) by [h4kor](https://github.com/h4kor)  
-Python library for embedding large graphs in 2D space, using force-directed layouts.  
+<a href="https://github.com/h4kor)">h4kor</a>/<b><a href="https://github.com/h4kor/graph-force">graph-force</a></b>  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
-[https://github.com/h4kor/graph-force](https://github.com/h4kor/graph-force)  
-7.0 stars per week over 23 weeks  
-164 stars, 0 forks, 9 watches  
-created 2022-11-28, last commit 2022-11-28, main language Rust  
-<sub><sup>force-directed-graphs, graph-algorithms</sup></sub>
+Python library for embedding large graphs in 2D space, using force-directed layouts.  
+Score: 19/100, Stars: 164, Stars/week: 7.0, Forks: 0  
 
 
-### [Exphormer](https://github.com/hamed1375/exphormer) by [hamed1375](https://github.com/hamed1375)  
+<a href="https://github.com/hamed1375)">hamed1375</a>/<b><a href="https://github.com/hamed1375/exphormer">Exphormer</a></b>  
 Exphormer: Sparse Transformer for Graphs  
-[https://github.com/hamed1375/exphormer](https://github.com/hamed1375/exphormer)  
-4.07 stars per week over 9 weeks  
-39 stars, 7 forks, 0 watches  
-created 2023-03-05, last commit 2023-03-13, main language Python  
+Score: 16/100, Stars: 39, Stars/week: 4.07, Forks: 7  
 
 
-### [markov_clustering](https://github.com/guyallard/markov_clustering) by [guyallard](https://github.com/guyallard)  
+<a href="https://github.com/guyallard)">guyallard</a>/<b><a href="https://github.com/guyallard/markov_clustering">markov_clustering</a></b>  
 markov clustering in python  
-[https://github.com/guyallard/markov_clustering](https://github.com/guyallard/markov_clustering)  
-0.47 stars per week over 293 weeks  
-137 stars, 34 forks, 9 watches  
-created 2017-09-27, last commit 2018-12-11, main language Python  
-<sub><sup>clustering, markov-clustering, networks</sup></sub>
+Score: 5/100, Stars: 137, Stars/week: 0.47, Forks: 34  
 
 
 This file was automatically generated on 2023-05-11.  

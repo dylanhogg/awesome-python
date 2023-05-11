@@ -1,898 +1,548 @@
-# Crazy Awesome Python
-A selection of 95 curated gis Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [gdal](https://github.com/osgeo/gdal) by [osgeo](https://github.com/osgeo)  
-GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.  
+<a href="https://github.com/osgeo)">osgeo</a>/<b><a href="https://github.com/osgeo/gdal">gdal</a></b>  
 [https://gdal.org](https://gdal.org)  
-[https://github.com/osgeo/gdal](https://github.com/osgeo/gdal)  
-6.84 stars per week over 552 weeks  
-3,777 stars, 2,085 forks, 166 watches  
-created 2012-10-09, last commit 2023-05-05, main language C++  
-<sub><sup>geospatial-data, raster, remote-sensing, vector</sup></sub>
+GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.  
+Score: 59/100, Stars: 3,777, Stars/week: 6.84, Forks: 2,085  
 
 
-### [torchgeo](https://github.com/microsoft/torchgeo) by [microsoft](https://github.com/microsoft)  
-TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/torchgeo">torchgeo</a></b>  
 [https://torchgeo.rtfd.io](https://torchgeo.rtfd.io)  
-[https://github.com/microsoft/torchgeo](https://github.com/microsoft/torchgeo)  
-15 stars per week over 102 weeks  
-1,588 stars, 192 forks, 39 watches  
-created 2021-05-21, last commit 2023-05-05, main language Python  
-<sub><sup>datasets, deep-learning, earth-observation, models, pytorch, remote-sensing, torchvision, transforms</sup></sub>
+TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data  
+Score: 56/100, Stars: 1,588, Stars/week: 15, Forks: 192  
 
 
-### [geemap](https://github.com/giswqs/geemap) by [giswqs](https://github.com/giswqs)  
-A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
+<a href="https://github.com/giswqs)">giswqs</a>/<b><a href="https://github.com/giswqs/geemap">geemap</a></b>  
 [https://geemap.org](https://geemap.org)  
-[https://github.com/giswqs/geemap](https://github.com/giswqs/geemap)  
-16 stars per week over 165 weeks  
-2,687 stars, 968 forks, 107 watches  
-created 2020-03-08, last commit 2023-04-25, main language Python  
-<sub><sup>colab, data-science, dataviz, earth-engine, earthengine, folium, geospatial, gis, google-earth-engine, image-processing, ipyleaflet, ipywidgets, jupyter, jupyter-notebook, landsat, mapping, remote-sensing, streamlit, streamlit-webapp</sup></sub>
+A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
+Score: 55/100, Stars: 2,687, Stars/week: 16, Forks: 968  
 
 
-### [osmnx](https://github.com/gboeing/osmnx) by [gboeing](https://github.com/gboeing)  
-OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.  
+<a href="https://github.com/gboeing)">gboeing</a>/<b><a href="https://github.com/gboeing/osmnx">osmnx</a></b>  
 [https://geoffboeing.com/publications/osmnx-complex-street-networks/](https://geoffboeing.com/publications/osmnx-complex-street-networks/)  
-[https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)  
-11 stars per week over 354 weeks  
-4,186 stars, 759 forks, 123 watches  
-created 2016-07-24, last commit 2023-05-01, main language Python  
-<sub><sup>geography, geospatial, gis, mapping, networks, networkx, openstreetmap, osm, osmnx, overpass-api, routing, spatial, spatial-analysis, spatial-data, street-networks, transport, transportation, urban, urban-planning</sup></sub>
+OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.  
+Score: 53/100, Stars: 4,186, Stars/week: 11, Forks: 759  
 
 
-### [folium](https://github.com/python-visualization/folium) by [python-visualization](https://github.com/python-visualization)  
-Python Data. Leaflet.js Maps.   
+<a href="https://github.com/python-visualization)">python-visualization</a>/<b><a href="https://github.com/python-visualization/folium">folium</a></b>  
 [https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)  
-[https://github.com/python-visualization/folium](https://github.com/python-visualization/folium)  
-11 stars per week over 522 weeks  
-6,219 stars, 2,192 forks, 167 watches  
-created 2013-05-09, last commit 2023-04-09, main language Python  
-<sub><sup>closember, data-science, data-visualization, javascript, maps</sup></sub>
+Python Data. Leaflet.js Maps.   
+Score: 53/100, Stars: 6,219, Stars/week: 11, Forks: 2,192  
 
 
-### [shapely](https://github.com/shapely/shapely)  
-Manipulation and analysis of geometric objects  
+<a href="https://github.com/shapely)">shapely</a>/<b><a href="https://github.com/shapely/shapely">shapely</a></b>  
 [https://shapely.readthedocs.io/en/stable/](https://shapely.readthedocs.io/en/stable/)  
-[https://github.com/shapely/shapely](https://github.com/shapely/shapely)  
-5.53 stars per week over 592 weeks  
-3,277 stars, 529 forks, 87 watches  
-created 2011-12-31, last commit 2023-05-01, main language Python  
-<sub><sup>geometric-algorithms, geometry</sup></sub>
+Manipulation and analysis of geometric objects  
+Score: 52/100, Stars: 3,277, Stars/week: 5.53, Forks: 529  
 
 
-### [leafmap](https://github.com/opengeos/leafmap) by [opengeos](https://github.com/opengeos)  
-A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment  
+<a href="https://github.com/opengeos)">opengeos</a>/<b><a href="https://github.com/opengeos/leafmap">leafmap</a></b>  
 [https://leafmap.org](https://leafmap.org)  
-[https://github.com/opengeos/leafmap](https://github.com/opengeos/leafmap)  
-14 stars per week over 113 weeks  
-1,607 stars, 212 forks, 47 watches  
-created 2021-03-10, last commit 2023-04-25, main language Python  
-<sub><sup>data-science, dataviz, folium, geopython, geospatial, geospatial-analysis, gis, ipyleaflet, jupyter, jupyter-notebook, keplergl, leafmap, mapping, plotly, pydeck, streamlit, streamlit-webapp, whiteboxtools</sup></sub>
+A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment  
+Score: 52/100, Stars: 1,607, Stars/week: 14, Forks: 212  
 
 
-### [geopandas](https://github.com/geopandas/geopandas)  
-Python tools for geographic data  
+<a href="https://github.com/geopandas)">geopandas</a>/<b><a href="https://github.com/geopandas/geopandas">geopandas</a></b>  
 [http://geopandas.org/](http://geopandas.org/)  
-[https://github.com/geopandas/geopandas](https://github.com/geopandas/geopandas)  
-7.12 stars per week over 515 weeks  
-3,666 stars, 818 forks, 108 watches  
-created 2013-06-27, last commit 2023-05-06, main language Python  
-<sub><sup>geopandas, gis, pandas</sup></sub>
+Python tools for geographic data  
+Score: 51/100, Stars: 3,666, Stars/week: 7.12, Forks: 818  
 
 
-### [satpy](https://github.com/pytroll/satpy) by [pytroll](https://github.com/pytroll)  
-Python package for earth-observing satellite data processing  
+<a href="https://github.com/pytroll)">pytroll</a>/<b><a href="https://github.com/pytroll/satpy">satpy</a></b>  
 [http://satpy.readthedocs.org/en/latest/](http://satpy.readthedocs.org/en/latest/)  
-[https://github.com/pytroll/satpy](https://github.com/pytroll/satpy)  
-2.42 stars per week over 378 weeks  
-916 stars, 260 forks, 32 watches  
-created 2016-02-09, last commit 2023-05-02, main language Python  
-<sub><sup>closember, dask, hacktoberfest, satellite, weather, xarray</sup></sub>
+Python package for earth-observing satellite data processing  
+Score: 51/100, Stars: 916, Stars/week: 2.42, Forks: 260  
 
 
-### [datashader](https://github.com/holoviz/datashader) by [holoviz](https://github.com/holoviz)  
-Quickly and accurately render even the largest data.  
+<a href="https://github.com/holoviz)">holoviz</a>/<b><a href="https://github.com/holoviz/datashader">datashader</a></b>  
 [http://datashader.org](http://datashader.org)  
-[https://github.com/holoviz/datashader](https://github.com/holoviz/datashader)  
-7.72 stars per week over 385 weeks  
-2,973 stars, 363 forks, 93 watches  
-created 2015-12-23, last commit 2023-05-02, main language Python  
-<sub><sup>data-visualizations, datashader, holoviz, rasterization</sup></sub>
+Quickly and accurately render even the largest data.  
+Score: 48/100, Stars: 2,973, Stars/week: 7.72, Forks: 363  
 
 
-### [rasterio](https://github.com/rasterio/rasterio)  
-Rasterio reads and writes geospatial raster datasets  
+<a href="https://github.com/rasterio)">rasterio</a>/<b><a href="https://github.com/rasterio/rasterio">rasterio</a></b>  
 [https://rasterio.readthedocs.io/](https://rasterio.readthedocs.io/)  
-[https://github.com/rasterio/rasterio](https://github.com/rasterio/rasterio)  
-3.92 stars per week over 496 weeks  
-1,946 stars, 518 forks, 149 watches  
-created 2013-11-04, last commit 2023-05-03, main language Python  
-<sub><sup>cli, cython, gdal, gis, mapbox-satellite-oss, raster</sup></sub>
+Rasterio reads and writes geospatial raster datasets  
+Score: 48/100, Stars: 1,946, Stars/week: 3.92, Forks: 518  
 
 
-### [grass](https://github.com/osgeo/grass) by [osgeo](https://github.com/osgeo)  
-GRASS GIS - free and open source Geographic Information System (GIS)  
+<a href="https://github.com/osgeo)">osgeo</a>/<b><a href="https://github.com/osgeo/grass">grass</a></b>  
 [https://grass.osgeo.org](https://grass.osgeo.org)  
-[https://github.com/osgeo/grass](https://github.com/osgeo/grass)  
-2.98 stars per week over 207 weeks  
-620 stars, 227 forks, 45 watches  
-created 2019-05-17, last commit 2023-05-05, main language C  
-<sub><sup>earth-observation, geospatial, geospatial-analysis, gis, grass-gis, hacktoberfest, open-science, osgeo, raster, remote-sensing, science, spatial, timeseries-analysis, vector</sup></sub>
+GRASS GIS - free and open source Geographic Information System (GIS)  
+Score: 47/100, Stars: 620, Stars/week: 2.98, Forks: 227  
 
 
-### [sedona](https://github.com/apache/incubator-sedona) by [apache](https://github.com/apache)  
-A cluster computing framework for processing large-scale geospatial data  
+<a href="https://github.com/apache)">apache</a>/<b><a href="https://github.com/apache/incubator-sedona">sedona</a></b>  
 [http://sedona.apache.org/](http://sedona.apache.org/)  
-[https://github.com/apache/incubator-sedona](https://github.com/apache/incubator-sedona)  
-3.4 stars per week over 419 weeks  
-1,427 stars, 575 forks, 105 watches  
-created 2015-04-24, last commit 2023-05-01, main language Java  
-<sub><sup>cluster-computing, geospatial, java, scala, spatial-analysis, spatial-query, spatial-sql</sup></sub>
+A cluster computing framework for processing large-scale geospatial data  
+Score: 45/100, Stars: 1,427, Stars/week: 3.4, Forks: 575  
 
 
-### [raster-vision](https://github.com/azavea/raster-vision) by [azavea](https://github.com/azavea)  
-An open source library and framework for deep learning on satellite and aerial imagery.  
+<a href="https://github.com/azavea)">azavea</a>/<b><a href="https://github.com/azavea/raster-vision">raster-vision</a></b>  
 [https://docs.rastervision.io](https://docs.rastervision.io)  
-[https://github.com/azavea/raster-vision](https://github.com/azavea/raster-vision)  
-5.63 stars per week over 327 weeks  
-1,842 stars, 359 forks, 80 watches  
-created 2017-02-02, last commit 2023-04-13, main language Python  
-<sub><sup>classification, computer-vision, deep-learning, geospatial, machine-learning, object-detection, pytorch, remote-sensing, semantic-segmentation</sup></sub>
+An open source library and framework for deep learning on satellite and aerial imagery.  
+Score: 44/100, Stars: 1,842, Stars/week: 5.63, Forks: 359  
 
 
-### [BlenderGIS](https://github.com/domlysz/blendergis) by [domlysz](https://github.com/domlysz)  
+<a href="https://github.com/domlysz)">domlysz</a>/<b><a href="https://github.com/domlysz/blendergis">BlenderGIS</a></b>  
 Blender addons to make the bridge between Blender and geographic data  
-[https://github.com/domlysz/blendergis](https://github.com/domlysz/blendergis)  
-13 stars per week over 470 weeks  
-6,284 stars, 1,172 forks, 252 watches  
-created 2014-05-08, last commit 2022-05-31, main language Python  
-<sub><sup>3d, 3d-map, 3dgis, addon, basemap, blender, delaunay-triangulation, dem, geodata, georeferencing, geospatial, gis, importexport, map, openstreetmap, raster, shapefile, terrain-model</sup></sub>
+Score: 44/100, Stars: 6,284, Stars/week: 13, Forks: 1,172  
 
 
-### [eo-learn](https://github.com/sentinel-hub/eo-learn) by [sentinel-hub](https://github.com/sentinel-hub)  
-Earth observation processing framework for machine learning in Python  
+<a href="https://github.com/sentinel-hub)">sentinel-hub</a>/<b><a href="https://github.com/sentinel-hub/eo-learn">eo-learn</a></b>  
 [https://eo-learn.readthedocs.io/en/latest/](https://eo-learn.readthedocs.io/en/latest/)  
-[https://github.com/sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn)  
-3.85 stars per week over 258 weeks  
-993 stars, 287 forks, 47 watches  
-created 2018-05-31, last commit 2023-04-21, main language Python  
-<sub><sup>eo-data, eo-research, machine-learning, python-package</sup></sub>
+Earth observation processing framework for machine learning in Python  
+Score: 43/100, Stars: 993, Stars/week: 3.85, Forks: 287  
 
 
-### [movingpandas](https://github.com/anitagraser/movingpandas) by [anitagraser](https://github.com/anitagraser)  
-Implementation of Trajectory classes and functions built on top of GeoPandas  
+<a href="https://github.com/anitagraser)">anitagraser</a>/<b><a href="https://github.com/anitagraser/movingpandas">movingpandas</a></b>  
 [http://movingpandas.org](http://movingpandas.org)  
-[https://github.com/anitagraser/movingpandas](https://github.com/anitagraser/movingpandas)  
-4.18 stars per week over 229 weeks  
-959 stars, 175 forks, 40 watches  
-created 2018-12-16, last commit 2023-05-03, main language Python  
-<sub><sup>geopandas, movement-data, spatial-data-analysis, trajectory, trajectory-analysis</sup></sub>
+Implementation of Trajectory classes and functions built on top of GeoPandas  
+Score: 42/100, Stars: 959, Stars/week: 4.18, Forks: 175  
 
 
-### [titiler](https://github.com/developmentseed/titiler) by [developmentseed](https://github.com/developmentseed)  
-Build your own Raster dynamic map tile services  
+<a href="https://github.com/developmentseed)">developmentseed</a>/<b><a href="https://github.com/developmentseed/titiler">titiler</a></b>  
 [https://developmentseed.org/titiler/](https://developmentseed.org/titiler/)  
-[https://github.com/developmentseed/titiler](https://github.com/developmentseed/titiler)  
-2.53 stars per week over 201 weeks  
-511 stars, 107 forks, 20 watches  
-created 2019-06-28, last commit 2023-04-27, main language Python  
-<sub><sup>aws-cdk, aws-lambda, cog, cogeotiff, dynamic, fastapi, gdal, map-tile-server, map-tiles, mosaicjson, raster, rasterio, rest, server, stac, tile</sup></sub>
+Build your own Raster dynamic map tile services  
+Score: 42/100, Stars: 511, Stars/week: 2.53, Forks: 107  
 
 
-### [cartopy](https://github.com/scitools/cartopy) by [scitools](https://github.com/scitools)  
-Cartopy - a cartographic python library with matplotlib support  
+<a href="https://github.com/scitools)">scitools</a>/<b><a href="https://github.com/scitools/cartopy">cartopy</a></b>  
 [https://scitools.org.uk/cartopy/docs/latest](https://scitools.org.uk/cartopy/docs/latest)  
-[https://github.com/scitools/cartopy](https://github.com/scitools/cartopy)  
-2.16 stars per week over 561 weeks  
-1,213 stars, 343 forks, 57 watches  
-created 2012-08-03, last commit 2023-05-06, main language Python  
-<sub><sup>cartopy, geometry, maps, matplotlib, projections, spatial</sup></sub>
+Cartopy - a cartographic python library with matplotlib support  
+Score: 41/100, Stars: 1,213, Stars/week: 2.16, Forks: 343  
 
 
-### [rioxarray](https://github.com/corteva/rioxarray) by [corteva](https://github.com/corteva)  
-geospatial xarray extension powered by rasterio  
+<a href="https://github.com/corteva)">corteva</a>/<b><a href="https://github.com/corteva/rioxarray">rioxarray</a></b>  
 [https://corteva.github.io/rioxarray](https://corteva.github.io/rioxarray)  
-[https://github.com/corteva/rioxarray](https://github.com/corteva/rioxarray)  
-1.82 stars per week over 212 weeks  
-387 stars, 61 forks, 14 watches  
-created 2019-04-16, last commit 2023-05-05, main language Python  
-<sub><sup>gdal, geospatial, gis, hacktoberfest, netcdf, raster, rasterio, xarray</sup></sub>
+geospatial xarray extension powered by rasterio  
+Score: 41/100, Stars: 387, Stars/week: 1.82, Forks: 61  
 
 
-### [pyproj](https://github.com/pyproj4/pyproj) by [pyproj4](https://github.com/pyproj4)  
-Python interface to PROJ (cartographic projections and coordinate transformations library)  
+<a href="https://github.com/pyproj4)">pyproj4</a>/<b><a href="https://github.com/pyproj4/pyproj">pyproj</a></b>  
 [https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)  
-[https://github.com/pyproj4/pyproj](https://github.com/pyproj4/pyproj)  
-2.02 stars per week over 436 weeks  
-880 stars, 194 forks, 30 watches  
-created 2014-12-29, last commit 2023-04-25, main language Python  
-<sub><sup>cartographic-projection, coordinate-systems, coordinate-transformation, geodesic, geospatial, hacktoberfest</sup></sub>
+Python interface to PROJ (cartographic projections and coordinate transformations library)  
+Score: 40/100, Stars: 880, Stars/week: 2.02, Forks: 194  
 
 
-### [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) by [sentinel-hub](https://github.com/sentinel-hub)  
-Download and process satellite imagery in Python using Sentinel Hub services.  
+<a href="https://github.com/sentinel-hub)">sentinel-hub</a>/<b><a href="https://github.com/sentinel-hub/sentinelhub-py">sentinelhub-py</a></b>  
 [http://sentinelhub-py.readthedocs.io/en/latest/](http://sentinelhub-py.readthedocs.io/en/latest/)  
-[https://github.com/sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py)  
-2.21 stars per week over 312 weeks  
-689 stars, 227 forks, 46 watches  
-created 2017-05-17, last commit 2023-05-05, main language Python  
-<sub><sup>aws, ogc-services, satellite-imagery, sentinel-hub</sup></sub>
+Download and process satellite imagery in Python using Sentinel Hub services.  
+Score: 40/100, Stars: 689, Stars/week: 2.21, Forks: 227  
 
 
-### [iris](https://github.com/scitools/iris) by [scitools](https://github.com/scitools)  
-A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data  
+<a href="https://github.com/scitools)">scitools</a>/<b><a href="https://github.com/scitools/iris">iris</a></b>  
 [https://scitools-iris.readthedocs.io/en/latest/](https://scitools-iris.readthedocs.io/en/latest/)  
-[https://github.com/scitools/iris](https://github.com/scitools/iris)  
-0.97 stars per week over 561 weeks  
-543 stars, 268 forks, 46 watches  
-created 2012-08-06, last commit 2023-05-05, main language Python  
-<sub><sup>data-analysis, earth-science, grib, iris, meteorology, netcdf, oceanography, spaceweather, visualisation</sup></sub>
+A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data  
+Score: 39/100, Stars: 543, Stars/week: 0.97, Forks: 268  
 
 
-### [dask-geopandas](https://github.com/geopandas/dask-geopandas) by [geopandas](https://github.com/geopandas)  
-Parallel GeoPandas with Dask  
+<a href="https://github.com/geopandas)">geopandas</a>/<b><a href="https://github.com/geopandas/dask-geopandas">dask-geopandas</a></b>  
 [https://dask-geopandas.readthedocs.io/](https://dask-geopandas.readthedocs.io/)  
-[https://github.com/geopandas/dask-geopandas](https://github.com/geopandas/dask-geopandas)  
-2.24 stars per week over 169 weeks  
-378 stars, 42 forks, 23 watches  
-created 2020-02-13, last commit 2023-04-28, main language Python  
+Parallel GeoPandas with Dask  
+Score: 39/100, Stars: 378, Stars/week: 2.24, Forks: 42  
 
 
-### [pysal](https://github.com/pysal/pysal)  
-PySAL: Python Spatial Analysis Library Meta-Package  
+<a href="https://github.com/pysal)">pysal</a>/<b><a href="https://github.com/pysal/pysal">pysal</a></b>  
 [http://pysal.org/pysal](http://pysal.org/pysal)  
-[https://github.com/pysal/pysal](https://github.com/pysal/pysal)  
-2.14 stars per week over 533 weeks  
-1,139 stars, 295 forks, 83 watches  
-created 2013-02-19, last commit 2023-03-15, main language Jupyter Notebook  
+PySAL: Python Spatial Analysis Library Meta-Package  
+Score: 39/100, Stars: 1,139, Stars/week: 2.14, Forks: 295  
 
 
-### [Fiona](https://github.com/toblerity/fiona) by [toblerity](https://github.com/toblerity)  
-Fiona reads and writes geographic data files  
+<a href="https://github.com/toblerity)">toblerity</a>/<b><a href="https://github.com/toblerity/fiona">Fiona</a></b>  
 [https://fiona.readthedocs.io/](https://fiona.readthedocs.io/)  
-[https://github.com/toblerity/fiona](https://github.com/toblerity/fiona)  
-1.75 stars per week over 592 weeks  
-1,039 stars, 200 forks, 49 watches  
-created 2011-12-31, last commit 2023-04-18, main language Python  
-<sub><sup>cli, cython, gdal, gis, ogr, vector</sup></sub>
+Fiona reads and writes geographic data files  
+Score: 39/100, Stars: 1,039, Stars/week: 1.75, Forks: 200  
 
 
-### [rio-tiler](https://github.com/cogeotiff/rio-tiler) by [cogeotiff](https://github.com/cogeotiff)  
-User friendly Rasterio plugin to read raster datasets.  
+<a href="https://github.com/cogeotiff)">cogeotiff</a>/<b><a href="https://github.com/cogeotiff/rio-tiler">rio-tiler</a></b>  
 [https://cogeotiff.github.io/rio-tiler/](https://cogeotiff.github.io/rio-tiler/)  
-[https://github.com/cogeotiff/rio-tiler](https://github.com/cogeotiff/rio-tiler)  
-1.38 stars per week over 291 weeks  
-403 stars, 88 forks, 65 watches  
-created 2017-10-06, last commit 2023-05-02, main language Python  
-<sub><sup>cog, cogeotiff, gdal, maptile, mercator, raster, raster-processing, rasterio, satellite, slippy-map, tile</sup></sub>
+User friendly Rasterio plugin to read raster datasets.  
+Score: 38/100, Stars: 403, Stars/week: 1.38, Forks: 88  
 
 
-### [DeepForest](https://github.com/weecology/deepforest) by [weecology](https://github.com/weecology)  
-Python Package for Tree Crown Detection in Airborne RGB imagery  
+<a href="https://github.com/weecology)">weecology</a>/<b><a href="https://github.com/weecology/deepforest">DeepForest</a></b>  
 [https://deepforest.readthedocs.io/](https://deepforest.readthedocs.io/)  
-[https://github.com/weecology/deepforest](https://github.com/weecology/deepforest)  
-1.33 stars per week over 270 weeks  
-358 stars, 142 forks, 16 watches  
-created 2018-03-07, last commit 2023-04-27, main language JavaScript  
+Python Package for Tree Crown Detection in Airborne RGB imagery  
+Score: 38/100, Stars: 358, Stars/week: 1.33, Forks: 142  
 
 
-### [CoastSat](https://github.com/kvos/coastsat) by [kvos](https://github.com/kvos)  
-Global shoreline mapping tool from satellite imagery  
+<a href="https://github.com/kvos)">kvos</a>/<b><a href="https://github.com/kvos/coastsat">CoastSat</a></b>  
 [http://coastsat.wrl.unsw.edu.au/](http://coastsat.wrl.unsw.edu.au/)  
-[https://github.com/kvos/coastsat](https://github.com/kvos/coastsat)  
-2.18 stars per week over 240 weeks  
-526 stars, 211 forks, 22 watches  
-created 2018-09-28, last commit 2023-04-26, main language Jupyter Notebook  
-<sub><sup>coastal-engineering, earth-engine, google-earth-engine, remote-sensing, satellite-images, shoreline-detection</sup></sub>
+Global shoreline mapping tool from satellite imagery  
+Score: 37/100, Stars: 526, Stars/week: 2.18, Forks: 211  
 
 
-### [GlobalMLBuildingFootprints](https://github.com/microsoft/globalmlbuildingfootprints) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/globalmlbuildingfootprints">GlobalMLBuildingFootprints</a></b>  
 Worldwide building footprints derived from satellite imagery   
-[https://github.com/microsoft/globalmlbuildingfootprints](https://github.com/microsoft/globalmlbuildingfootprints)  
-15 stars per week over 54 weeks  
-825 stars, 108 forks, 34 watches  
-created 2022-04-22, last commit 2023-04-28, main language Python  
+Score: 37/100, Stars: 825, Stars/week: 15, Forks: 108  
 
 
-### [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) by [jupyter-widgets](https://github.com/jupyter-widgets)  
-A Jupyter - Leaflet.js bridge  
+<a href="https://github.com/jupyter-widgets)">jupyter-widgets</a>/<b><a href="https://github.com/jupyter-widgets/ipyleaflet">ipyleaflet</a></b>  
 [https://ipyleaflet.readthedocs.io](https://ipyleaflet.readthedocs.io)  
-[https://github.com/jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)  
-2.88 stars per week over 470 weeks  
-1,355 stars, 348 forks, 63 watches  
-created 2014-05-07, last commit 2023-02-10, main language JavaScript  
-<sub><sup>jupyter, jupyterlab-extension, leaflet, visualization</sup></sub>
+A Jupyter - Leaflet.js bridge  
+Score: 37/100, Stars: 1,355, Stars/week: 2.88, Forks: 348  
 
 
-### [basemap](https://github.com/matplotlib/basemap) by [matplotlib](https://github.com/matplotlib)  
+<a href="https://github.com/matplotlib)">matplotlib</a>/<b><a href="https://github.com/matplotlib/basemap">basemap</a></b>  
 Plot on map projections (with coastlines and political boundaries) using matplotlib  
-[https://github.com/matplotlib/basemap](https://github.com/matplotlib/basemap)  
-1.13 stars per week over 637 weeks  
-720 stars, 396 forks, 60 watches  
-created 2011-02-19, last commit 2023-05-04, main language Python  
-<sub><sup>gis, maps, plots</sup></sub>
+Score: 37/100, Stars: 720, Stars/week: 1.13, Forks: 396  
 
 
-### [cityscapesScripts](https://github.com/mcordts/cityscapesscripts) by [mcordts](https://github.com/mcordts)  
+<a href="https://github.com/mcordts)">mcordts</a>/<b><a href="https://github.com/mcordts/cityscapesscripts">cityscapesScripts</a></b>  
 README and scripts for the Cityscapes Dataset  
-[https://github.com/mcordts/cityscapesscripts](https://github.com/mcordts/cityscapesscripts)  
-5.09 stars per week over 376 weeks  
-1,919 stars, 596 forks, 45 watches  
-created 2016-02-20, last commit 2022-10-22, main language Python  
+Score: 37/100, Stars: 1,919, Stars/week: 5.09, Forks: 596  
 
 
-### [GeoTorchAI](https://github.com/datasystemslab/geotorch) by [datasystemslab](https://github.com/datasystemslab)  
-GeoTorchAI: A Spatiotemporal Deep Learning Framework (https://dl.acm.org/doi/abs/10.1145/3557915.3561036)  
+<a href="https://github.com/datasystemslab)">datasystemslab</a>/<b><a href="https://github.com/datasystemslab/geotorch">GeoTorchAI</a></b>  
 [https://kanchanchy.github.io/geotorchai/](https://kanchanchy.github.io/geotorchai/)  
-[https://github.com/datasystemslab/geotorch](https://github.com/datasystemslab/geotorch)  
-7.02 stars per week over 50 weeks  
-354 stars, 22 forks, 12 watches  
-created 2022-05-23, last commit 2023-05-03, main language Python  
-<sub><sup>classification-model, convlstm-pytorch, deep-learning, deep-neural-networks, deepsat, prediction-model, raster-data, satellite-classification, satellite-images, segmentation-models, sequence-models, spatial-data-analysis, spatio-temporal-analysis, spatio-temporal-models, spatio-temporal-prediction, st-resnet</sup></sub>
+GeoTorchAI: A Spatiotemporal Deep Learning Framework (https://dl.acm.org/doi/abs/10.1145/3557915.3561036)  
+Score: 36/100, Stars: 354, Stars/week: 7.02, Forks: 22  
 
 
-### [h3-py](https://github.com/uber/h3-py) by [uber](https://github.com/uber)  
-Python bindings for H3, a hierarchical hexagonal geospatial indexing system  
+<a href="https://github.com/uber)">uber</a>/<b><a href="https://github.com/uber/h3-py">h3-py</a></b>  
 [https://uber.github.io/h3-py](https://uber.github.io/h3-py)  
-[https://github.com/uber/h3-py](https://github.com/uber/h3-py)  
-2.5 stars per week over 256 weeks  
-641 stars, 120 forks, 34 watches  
-created 2018-06-12, last commit 2023-03-26, main language Python  
-<sub><sup>geocoding, geospatial, gis, h3, hexagonal-architecture, uber</sup></sub>
+Python bindings for H3, a hierarchical hexagonal geospatial indexing system  
+Score: 35/100, Stars: 641, Stars/week: 2.5, Forks: 120  
 
 
-### [OWSLib](https://github.com/geopython/owslib) by [geopython](https://github.com/geopython)  
-OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.  
+<a href="https://github.com/geopython)">geopython</a>/<b><a href="https://github.com/geopython/owslib">OWSLib</a></b>  
 [https://owslib.readthedocs.io](https://owslib.readthedocs.io)  
-[https://github.com/geopython/owslib](https://github.com/geopython/owslib)  
-0.57 stars per week over 590 weeks  
-337 stars, 266 forks, 31 watches  
-created 2012-01-13, last commit 2023-05-01, main language Python  
-<sub><sup>ogc, ogcapi, ows</sup></sub>
+OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.  
+Score: 35/100, Stars: 337, Stars/week: 0.57, Forks: 266  
 
 
-### [mapwidget](https://github.com/giswqs/mapwidget) by [giswqs](https://github.com/giswqs)  
-Custom Jupyter widgets for creating interactive 2D/3D maps using popular JavaScript libraries with bidirectional communication, such as Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers  
+<a href="https://github.com/giswqs)">giswqs</a>/<b><a href="https://github.com/giswqs/mapwidget">mapwidget</a></b>  
 [http://mapwidget.gishub.org](http://mapwidget.gishub.org)  
-[https://github.com/giswqs/mapwidget](https://github.com/giswqs/mapwidget)  
-11 stars per week over 15 weeks  
-179 stars, 10 forks, 8 watches  
-created 2023-01-21, last commit 2023-03-24, main language Python  
-<sub><sup>anywidget, cesium, geopython, geospatial, ipywidgets, jupyter, leaflet, mapbox, maplibre, mapping, openlayers</sup></sub>
+Custom Jupyter widgets for creating interactive 2D/3D maps using popular JavaScript libraries with bidirectional communication, such as Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers  
+Score: 35/100, Stars: 179, Stars/week: 11, Forks: 10  
 
 
-### [sentinelsat](https://github.com/sentinelsat/sentinelsat)  
-Search and download Copernicus Sentinel satellite images  
+<a href="https://github.com/sentinelsat)">sentinelsat</a>/<b><a href="https://github.com/sentinelsat/sentinelsat">sentinelsat</a></b>  
 [https://sentinelsat.readthedocs.io](https://sentinelsat.readthedocs.io)  
-[https://github.com/sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat)  
-2.11 stars per week over 415 weeks  
-878 stars, 232 forks, 59 watches  
-created 2015-05-22, last commit 2023-03-10, main language Python  
-<sub><sup>copernicus, esa, geographic-data, hacktoberfest, open-data, remote-sensing, satellite-imagery, sentinel</sup></sub>
+Search and download Copernicus Sentinel satellite images  
+Score: 35/100, Stars: 878, Stars/week: 2.11, Forks: 232  
 
 
-### [earth-forecasting-transformer](https://github.com/amazon-science/earth-forecasting-transformer) by [amazon-science](https://github.com/amazon-science)  
+<a href="https://github.com/amazon-science)">amazon-science</a>/<b><a href="https://github.com/amazon-science/earth-forecasting-transformer">earth-forecasting-transformer</a></b>  
 Official implementation of Earthformer  
-[https://github.com/amazon-science/earth-forecasting-transformer](https://github.com/amazon-science/earth-forecasting-transformer)  
-5.78 stars per week over 34 weeks  
-199 stars, 35 forks, 10 watches  
-created 2022-09-12, last commit 2023-02-03, main language Jupyter Notebook  
+Score: 35/100, Stars: 199, Stars/week: 5.78, Forks: 35  
 
 
-### [earthengine-api](https://github.com/google/earthengine-api) by [google](https://github.com/google)  
+<a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/earthengine-api">earthengine-api</a></b>  
 Python and JavaScript bindings for calling the Earth Engine API.  
-[https://github.com/google/earthengine-api](https://github.com/google/earthengine-api)  
-5.28 stars per week over 420 weeks  
-2,217 stars, 936 forks, 210 watches  
-created 2015-04-22, last commit 2023-05-03, main language JavaScript  
+Score: 35/100, Stars: 2,217, Stars/week: 5.28, Forks: 936  
 
 
-### [verde](https://github.com/fatiando/verde) by [fatiando](https://github.com/fatiando)  
-Processing and interpolating spatial data with a twist of machine learning  
+<a href="https://github.com/fatiando)">fatiando</a>/<b><a href="https://github.com/fatiando/verde">verde</a></b>  
 [https://www.fatiando.org/verde](https://www.fatiando.org/verde)  
-[https://github.com/fatiando/verde](https://github.com/fatiando/verde)  
-1.86 stars per week over 263 weeks  
-490 stars, 61 forks, 20 watches  
-created 2018-04-25, last commit 2023-05-04, main language Python  
-<sub><sup>earth-science, fatiando-a-terra, geophysics, geoscience, geospatial, interpolation, scipy, scipy-stack</sup></sub>
+Processing and interpolating spatial data with a twist of machine learning  
+Score: 34/100, Stars: 490, Stars/week: 1.86, Forks: 61  
 
 
-### [xarray-spatial](https://github.com/makepath/xarray-spatial) by [makepath](https://github.com/makepath)  
-Raster-based Spatial Analytics for Python  
+<a href="https://github.com/makepath)">makepath</a>/<b><a href="https://github.com/makepath/xarray-spatial">xarray-spatial</a></b>  
 [https://xarray-spatial.org](https://xarray-spatial.org)  
-[https://github.com/makepath/xarray-spatial](https://github.com/makepath/xarray-spatial)  
-4.15 stars per week over 169 weeks  
-704 stars, 78 forks, 24 watches  
-created 2020-02-08, last commit 2023-03-02, main language Python  
-<sub><sup>datashader, numba, raster-analysis, spatial-analysis, xarray</sup></sub>
+Raster-based Spatial Analytics for Python  
+Score: 34/100, Stars: 704, Stars/week: 4.15, Forks: 78  
 
 
-### [spopt](https://github.com/pysal/spopt) by [pysal](https://github.com/pysal)  
-Spatial Optimization  
+<a href="https://github.com/pysal)">pysal</a>/<b><a href="https://github.com/pysal/spopt">spopt</a></b>  
 [https://pysal.org/spopt/](https://pysal.org/spopt/)  
-[https://github.com/pysal/spopt](https://github.com/pysal/spopt)  
-0.91 stars per week over 218 weeks  
-199 stars, 35 forks, 14 watches  
-created 2019-03-01, last commit 2023-05-02, main language Python  
-<sub><sup>facility-location, location-allocation, location-modeling, regionalization, resource-planning, routing, spatial-analysis, spatial-optimization, transportation</sup></sub>
+Spatial Optimization  
+Score: 33/100, Stars: 199, Stars/week: 0.91, Forks: 35  
 
 
-### [rio-cogeo](https://github.com/cogeotiff/rio-cogeo) by [cogeotiff](https://github.com/cogeotiff)  
-Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
+<a href="https://github.com/cogeotiff)">cogeotiff</a>/<b><a href="https://github.com/cogeotiff/rio-cogeo">rio-cogeo</a></b>  
 [https://cogeotiff.github.io/rio-cogeo/](https://cogeotiff.github.io/rio-cogeo/)  
-[https://github.com/cogeotiff/rio-cogeo](https://github.com/cogeotiff/rio-cogeo)  
-0.84 stars per week over 269 weeks  
-228 stars, 31 forks, 43 watches  
-created 2018-03-09, last commit 2023-04-06, main language Python  
-<sub><sup>cog, cogeotiff, geotiff, rasterio, satellite</sup></sub>
+Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
+Score: 33/100, Stars: 228, Stars/week: 0.84, Forks: 31  
 
 
-### [earthpy](https://github.com/earthlab/earthpy) by [earthlab](https://github.com/earthlab)  
-A package built to support working with spatial data using open source python  
+<a href="https://github.com/earthlab)">earthlab</a>/<b><a href="https://github.com/earthlab/earthpy">earthpy</a></b>  
 [https://earthpy.readthedocs.io](https://earthpy.readthedocs.io)  
-[https://github.com/earthlab/earthpy](https://github.com/earthlab/earthpy)  
-1.6 stars per week over 272 weeks  
-437 stars, 155 forks, 21 watches  
-created 2018-02-20, last commit 2021-12-20, main language Python  
-<sub><sup>education, raster, spatial-data, vector</sup></sub>
+A package built to support working with spatial data using open source python  
+Score: 33/100, Stars: 437, Stars/week: 1.6, Forks: 155  
 
 
-### [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) by [developmentseed](https://github.com/developmentseed)  
+<a href="https://github.com/developmentseed)">developmentseed</a>/<b><a href="https://github.com/developmentseed/geojson-pydantic">geojson-pydantic</a></b>  
 Pydantic data models for the GeoJSON spec  
-[https://github.com/developmentseed/geojson-pydantic](https://github.com/developmentseed/geojson-pydantic)  
-0.88 stars per week over 155 weeks  
-137 stars, 29 forks, 13 watches  
-created 2020-05-21, last commit 2023-04-04, main language Python  
-<sub><sup>geojson, geojson-spec, pydantic</sup></sub>
+Score: 33/100, Stars: 137, Stars/week: 0.88, Forks: 29  
 
 
-### [momepy](https://github.com/pysal/momepy) by [pysal](https://github.com/pysal)  
-Urban Morphology Measuring Toolkit  
+<a href="https://github.com/pysal)">pysal</a>/<b><a href="https://github.com/pysal/momepy">momepy</a></b>  
 [https://docs.momepy.org](https://docs.momepy.org)  
-[https://github.com/pysal/momepy](https://github.com/pysal/momepy)  
-1.41 stars per week over 266 weeks  
-377 stars, 50 forks, 17 watches  
-created 2018-03-30, last commit 2023-05-02, main language Python  
-<sub><sup>morphological-analysis, morphology, morphometrics, urban, urban-morphometrics, urban-street-networks</sup></sub>
+Urban Morphology Measuring Toolkit  
+Score: 32/100, Stars: 377, Stars/week: 1.41, Forks: 50  
 
 
-### [pyogrio](https://github.com/geopandas/pyogrio) by [geopandas](https://github.com/geopandas)  
-Vectorized vector I/O using OGR  
+<a href="https://github.com/geopandas)">geopandas</a>/<b><a href="https://github.com/geopandas/pyogrio">pyogrio</a></b>  
 [https://pyogrio.readthedocs.io](https://pyogrio.readthedocs.io)  
-[https://github.com/geopandas/pyogrio](https://github.com/geopandas/pyogrio)  
-0.93 stars per week over 162 weeks  
-151 stars, 11 forks, 10 watches  
-created 2020-03-27, last commit 2023-04-27, main language Python  
+Vectorized vector I/O using OGR  
+Score: 32/100, Stars: 151, Stars/week: 0.93, Forks: 11  
 
 
-### [geoviews](https://github.com/holoviz/geoviews) by [holoviz](https://github.com/holoviz)  
-Simple, concise geographical visualization in Python  
+<a href="https://github.com/holoviz)">holoviz</a>/<b><a href="https://github.com/holoviz/geoviews">geoviews</a></b>  
 [http://geoviews.org](http://geoviews.org)  
-[https://github.com/holoviz/geoviews](https://github.com/holoviz/geoviews)  
-1.3 stars per week over 368 weeks  
-477 stars, 68 forks, 27 watches  
-created 2016-04-19, last commit 2023-04-29, main language Python  
-<sub><sup>cartopy, geographic-visualizations, geoviews, holoviews, holoviz, plotting</sup></sub>
+Simple, concise geographical visualization in Python  
+Score: 32/100, Stars: 477, Stars/week: 1.3, Forks: 68  
 
 
-### [laspy](https://github.com/laspy/laspy)  
-Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files matching specification 1.0-1.4.   
+<a href="https://github.com/laspy)">laspy</a>/<b><a href="https://github.com/laspy/laspy">laspy</a></b>  
 [https://laspy.readthedocs.io/en/latest/](https://laspy.readthedocs.io/en/latest/)  
-[https://github.com/laspy/laspy](https://github.com/laspy/laspy)  
-0.63 stars per week over 573 weeks  
-360 stars, 110 forks, 32 watches  
-created 2012-05-16, last commit 2023-04-19, main language Python  
-<sub><sup>copc, las, laz, lidar, point-cloud, pointcloud</sup></sub>
+Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files matching specification 1.0-1.4.   
+Score: 31/100, Stars: 360, Stars/week: 0.63, Forks: 110  
 
 
-### [aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo) by [giswqs](https://github.com/giswqs)  
+<a href="https://github.com/giswqs)">giswqs</a>/<b><a href="https://github.com/giswqs/aws-open-data-geo">aws-open-data-geo</a></b>  
 A list of open geospatial datasets on AWS  
-[https://github.com/giswqs/aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo)  
-11 stars per week over 20 weeks  
-245 stars, 7 forks, 10 watches  
-created 2022-12-18, last commit 2023-05-06, main language Python  
-<sub><sup>aws, environment, geospatial, mapping, open-data, satellite-imagery, sustainability</sup></sub>
+Score: 31/100, Stars: 245, Stars/week: 11, Forks: 7  
 
 
-### [python-rasterstats](https://github.com/perrygeo/python-rasterstats) by [perrygeo](https://github.com/perrygeo)  
+<a href="https://github.com/perrygeo)">perrygeo</a>/<b><a href="https://github.com/perrygeo/python-rasterstats">python-rasterstats</a></b>  
 Summary statistics of geospatial raster datasets based on vector geometries.  
-[https://github.com/perrygeo/python-rasterstats](https://github.com/perrygeo/python-rasterstats)  
-0.92 stars per week over 503 weeks  
-461 stars, 108 forks, 33 watches  
-created 2013-09-18, last commit 2023-03-01, main language Python  
+Score: 31/100, Stars: 461, Stars/week: 0.92, Forks: 108  
 
 
-### [felicette](https://github.com/plant99/felicette) by [plant99](https://github.com/plant99)  
+<a href="https://github.com/plant99)">plant99</a>/<b><a href="https://github.com/plant99/felicette">felicette</a></b>  
 Satellite imagery for dummies.  
-[https://github.com/plant99/felicette](https://github.com/plant99/felicette)  
-12 stars per week over 147 weeks  
-1,798 stars, 86 forks, 39 watches  
-created 2020-07-12, last commit 2021-09-08, main language Python  
-<sub><sup>earth-observation, earth-science, geoinformatics, geospatial, geospatial-data, geospatial-visualization, gis, satellite-data, satellite-imagery, satellite-images</sup></sub>
+Score: 31/100, Stars: 1,798, Stars/week: 12, Forks: 86  
 
 
-### [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) by [developmentseed](https://github.com/developmentseed)  
-Create and use COG mosaic based on mosaicJSON  
+<a href="https://github.com/developmentseed)">developmentseed</a>/<b><a href="https://github.com/developmentseed/cogeo-mosaic">cogeo-mosaic</a></b>  
 [https://developmentseed.org/cogeo-mosaic/](https://developmentseed.org/cogeo-mosaic/)  
-[https://github.com/developmentseed/cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic)  
-0.4 stars per week over 208 weeks  
-83 stars, 25 forks, 9 watches  
-created 2019-05-14, last commit 2023-03-23, main language Python  
+Create and use COG mosaic based on mosaicJSON  
+Score: 30/100, Stars: 83, Stars/week: 0.4, Forks: 25  
 
 
-### [deepparse](https://github.com/graal-research/deepparse) by [graal-research](https://github.com/graal-research)  
-Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning  
+<a href="https://github.com/graal-research)">graal-research</a>/<b><a href="https://github.com/graal-research/deepparse">deepparse</a></b>  
 [https://deepparse.org/](https://deepparse.org/)  
-[https://github.com/graal-research/deepparse](https://github.com/graal-research/deepparse)  
-1.48 stars per week over 149 weeks  
-221 stars, 24 forks, 4 watches  
-created 2020-07-01, last commit 2023-03-31, main language Python  
-<sub><sup>addresses-parsing, machine-learning</sup></sub>
+Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning  
+Score: 30/100, Stars: 221, Stars/week: 1.48, Forks: 24  
 
 
-### [pyshp](https://github.com/geospatialpython/pyshp) by [geospatialpython](https://github.com/geospatialpython)  
+<a href="https://github.com/geospatialpython)">geospatialpython</a>/<b><a href="https://github.com/geospatialpython/pyshp">pyshp</a></b>  
 This library reads and writes ESRI Shapefiles in pure Python.  
-[https://github.com/geospatialpython/pyshp](https://github.com/geospatialpython/pyshp)  
-2.13 stars per week over 479 weeks  
-1,021 stars, 258 forks, 64 watches  
-created 2014-03-04, last commit 2023-02-02, main language Python  
+Score: 30/100, Stars: 1,021, Stars/week: 2.13, Forks: 258  
 
 
-### [cgal-swig-bindings](https://github.com/cgal/cgal-swig-bindings) by [cgal](https://github.com/cgal)  
+<a href="https://github.com/cgal)">cgal</a>/<b><a href="https://github.com/cgal/cgal-swig-bindings">cgal-swig-bindings</a></b>  
 CGAL bindings using SWIG  
-[https://github.com/cgal/cgal-swig-bindings](https://github.com/cgal/cgal-swig-bindings)  
-0.64 stars per week over 425 weeks  
-274 stars, 83 forks, 27 watches  
-created 2015-03-14, last commit 2023-04-11, main language C++  
+Score: 30/100, Stars: 274, Stars/week: 0.64, Forks: 83  
 
 
-### [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)  
-scikit-mobility: mobility analysis in Python  
+<a href="https://github.com/scikit-mobility)">scikit-mobility</a>/<b><a href="https://github.com/scikit-mobility/scikit-mobility">scikit-mobility</a></b>  
 [https://scikit-mobility.github.io/scikit-mobility/](https://scikit-mobility.github.io/scikit-mobility/)  
-[https://github.com/scikit-mobility/scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)  
-2.91 stars per week over 210 weeks  
-612 stars, 140 forks, 26 watches  
-created 2019-04-30, last commit 2023-01-20, main language Python  
-<sub><sup>complex-systems, data-analysis, data-science, human-mobility, mobility-analysis, mobility-flows, network-science, risk-assessment, scikit-mobility, statistics, synthetic-flows</sup></sub>
+scikit-mobility: mobility analysis in Python  
+Score: 30/100, Stars: 612, Stars/week: 2.91, Forks: 140  
 
 
-### [osmnx-examples](https://github.com/gboeing/osmnx-examples) by [gboeing](https://github.com/gboeing)  
-Usage examples, demos, and tutorials for OSMnx.  
+<a href="https://github.com/gboeing)">gboeing</a>/<b><a href="https://github.com/gboeing/osmnx-examples">osmnx-examples</a></b>  
 [https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)  
-[https://github.com/gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples)  
-4.15 stars per week over 302 weeks  
-1,257 stars, 464 forks, 55 watches  
-created 2017-07-22, last commit 2023-01-01, main language Jupyter Notebook  
-<sub><sup>accessibility, binder, cities, city, jupyter-notebook, network-analysis, notebooks, openstreetmap, public-transport, street-networks, transit, transport, transportation, urban-analytics, urban-data-science, urban-design, urban-planning</sup></sub>
+Usage examples, demos, and tutorials for OSMnx.  
+Score: 30/100, Stars: 1,257, Stars/week: 4.15, Forks: 464  
 
 
-### [rtree](https://github.com/toblerity/rtree) by [toblerity](https://github.com/toblerity)  
-Rtree: spatial index for Python GIS ¶  
+<a href="https://github.com/toblerity)">toblerity</a>/<b><a href="https://github.com/toblerity/rtree">rtree</a></b>  
 [https://rtree.readthedocs.io/en/latest/](https://rtree.readthedocs.io/en/latest/)  
-[https://github.com/toblerity/rtree](https://github.com/toblerity/rtree)  
-0.88 stars per week over 620 weeks  
-543 stars, 125 forks, 34 watches  
-created 2011-06-19, last commit 2023-04-24, main language Python  
+Rtree: spatial index for Python GIS ¶  
+Score: 29/100, Stars: 543, Stars/week: 0.88, Forks: 125  
 
 
-### [contextily](https://github.com/geopandas/contextily) by [geopandas](https://github.com/geopandas)  
-Context geo-tiles in Python  
+<a href="https://github.com/geopandas)">geopandas</a>/<b><a href="https://github.com/geopandas/contextily">contextily</a></b>  
 [https://contextily.readthedocs.io/en/latest/](https://contextily.readthedocs.io/en/latest/)  
-[https://github.com/geopandas/contextily](https://github.com/geopandas/contextily)  
-1.17 stars per week over 348 weeks  
-408 stars, 72 forks, 15 watches  
-created 2016-09-08, last commit 2023-02-06, main language Jupyter Notebook  
-<sub><sup>cartography, geography, mapping, matplotlib, openstreetmap, osm, stamen, stamen-maps, tile, tiles, webtiles</sup></sub>
+Context geo-tiles in Python  
+Score: 28/100, Stars: 408, Stars/week: 1.17, Forks: 72  
 
 
-### [xyzservices](https://github.com/geopandas/xyzservices) by [geopandas](https://github.com/geopandas)  
-Source of XYZ tiles providers  
+<a href="https://github.com/geopandas)">geopandas</a>/<b><a href="https://github.com/geopandas/xyzservices">xyzservices</a></b>  
 [https://xyzservices.readthedocs.io/](https://xyzservices.readthedocs.io/)  
-[https://github.com/geopandas/xyzservices](https://github.com/geopandas/xyzservices)  
-0.9 stars per week over 102 weeks  
-93 stars, 21 forks, 12 watches  
-created 2021-05-21, last commit 2023-04-26, main language Python  
+Source of XYZ tiles providers  
+Score: 27/100, Stars: 93, Stars/week: 0.9, Forks: 21  
 
 
-### [geosnap](https://github.com/spatialucr/geosnap) by [spatialucr](https://github.com/spatialucr)  
-The Geospatial Neighborhood Analysis Package  
+<a href="https://github.com/spatialucr)">spatialucr</a>/<b><a href="https://github.com/spatialucr/geosnap">geosnap</a></b>  
 [https://oturns.github.io/geosnap/](https://oturns.github.io/geosnap/)  
-[https://github.com/spatialucr/geosnap](https://github.com/spatialucr/geosnap)  
-0.77 stars per week over 242 weeks  
-187 stars, 28 forks, 17 watches  
-created 2018-09-19, last commit 2023-03-08, main language Python  
-<sub><sup>geodemographics, neighborhood-dynamics, spatial-analysis, urban-modeling</sup></sub>
+The Geospatial Neighborhood Analysis Package  
+Score: 26/100, Stars: 187, Stars/week: 0.77, Forks: 28  
 
 
-### [pygeos](https://github.com/pygeos/pygeos)  
-Wraps GEOS geometry functions in numpy ufuncs.  
+<a href="https://github.com/pygeos)">pygeos</a>/<b><a href="https://github.com/pygeos/pygeos">pygeos</a></b>  
 [https://pygeos.readthedocs.io](https://pygeos.readthedocs.io)  
-[https://github.com/pygeos/pygeos](https://github.com/pygeos/pygeos)  
-1.79 stars per week over 204 weeks  
-366 stars, 40 forks, 15 watches  
-created 2019-06-10, last commit 2022-12-14, main language Python  
+Wraps GEOS geometry functions in numpy ufuncs.  
+Score: 25/100, Stars: 366, Stars/week: 1.79, Forks: 40  
 
 
-### [gds_env](https://github.com/darribas/gds_env) by [darribas](https://github.com/darribas)  
-A containerised platform for Geographic Data Science  
+<a href="https://github.com/darribas)">darribas</a>/<b><a href="https://github.com/darribas/gds_env">gds_env</a></b>  
 [https://darribas.org/gds_env](https://darribas.org/gds_env)  
-[https://github.com/darribas/gds_env](https://github.com/darribas/gds_env)  
-0.27 stars per week over 351 weeks  
-95 stars, 38 forks, 10 watches  
-created 2016-08-12, last commit 2023-05-04, main language Jupyter Notebook  
-<sub><sup>docker, geographic-data-science, jupyter-lab, latex, r</sup></sub>
+A containerised platform for Geographic Data Science  
+Score: 25/100, Stars: 95, Stars/week: 0.27, Forks: 38  
 
 
-### [spherely](https://github.com/benbovy/spherely) by [benbovy](https://github.com/benbovy)  
-Manipulation and analysis of geometric objects on the sphere.  
+<a href="https://github.com/benbovy)">benbovy</a>/<b><a href="https://github.com/benbovy/spherely">spherely</a></b>  
 [https://spherely.readthedocs.io/](https://spherely.readthedocs.io/)  
-[https://github.com/benbovy/spherely](https://github.com/benbovy/spherely)  
-3.79 stars per week over 24 weeks  
-91 stars, 4 forks, 4 watches  
-created 2022-11-24, last commit 2023-03-20, main language C++  
-<sub><sup>geometric-algorithms, geometry</sup></sub>
+Manipulation and analysis of geometric objects on the sphere.  
+Score: 24/100, Stars: 91, Stars/week: 3.79, Forks: 4  
 
 
-### [mordecai](https://github.com/openeventdata/mordecai) by [openeventdata](https://github.com/openeventdata)  
+<a href="https://github.com/openeventdata)">openeventdata</a>/<b><a href="https://github.com/openeventdata/mordecai">mordecai</a></b>  
 Full text geoparsing as a Python library  
-[https://github.com/openeventdata/mordecai](https://github.com/openeventdata/mordecai)  
-1.96 stars per week over 359 weeks  
-704 stars, 97 forks, 36 watches  
-created 2016-06-23, last commit 2021-02-01, main language Python  
-<sub><sup>geocoding, geonames, geoparsing, nlp, spacy, toponym-resolution</sup></sub>
+Score: 24/100, Stars: 704, Stars/week: 1.96, Forks: 97  
 
 
-### [forestatrisk](https://github.com/ghislainv/forestatrisk) by [ghislainv](https://github.com/ghislainv)  
-:package: :snake: Python package to model and forecast the risk of deforestation  
+<a href="https://github.com/ghislainv)">ghislainv</a>/<b><a href="https://github.com/ghislainv/forestatrisk">forestatrisk</a></b>  
 [https://ecology.ghislainv.fr/forestatrisk](https://ecology.ghislainv.fr/forestatrisk)  
-[https://github.com/ghislainv/forestatrisk](https://github.com/ghislainv/forestatrisk)  
-0.29 stars per week over 336 weeks  
-99 stars, 22 forks, 5 watches  
-created 2016-12-01, last commit 2023-04-28, main language Python  
-<sub><sup>biodiversity-scenario, co2-emissions, deforestation, deforestation-risk, forecasting, forest-cover-change, ipbes, ipcc, land-use-change, protected-areas, redd, roads, spatial-analysis, spatial-autocorrelation, spatial-modelling, tropical-forests</sup></sub>
+:package: :snake: Python package to model and forecast the risk of deforestation  
+Score: 23/100, Stars: 99, Stars/week: 0.29, Forks: 22  
 
 
-### [dataflow-geobeam](https://github.com/googlecloudplatform/dataflow-geobeam) by [googlecloudplatform](https://github.com/googlecloudplatform)  
+<a href="https://github.com/googlecloudplatform)">googlecloudplatform</a>/<b><a href="https://github.com/googlecloudplatform/dataflow-geobeam">dataflow-geobeam</a></b>  
 googlecloudplatform/dataflow-geobeam  
-[https://github.com/googlecloudplatform/dataflow-geobeam](https://github.com/googlecloudplatform/dataflow-geobeam)  
-0.62 stars per week over 118 weeks  
-73 stars, 26 forks, 11 watches  
-created 2021-02-04, last commit 2023-04-16, main language Python  
+Score: 22/100, Stars: 73, Stars/week: 0.62, Forks: 26  
 
 
-### [radiant-mlhub](https://github.com/radiantearth/radiant-mlhub) by [radiantearth](https://github.com/radiantearth)  
-A Python client for the Radiant MLHub API (https://mlhub.earth).  
+<a href="https://github.com/radiantearth)">radiantearth</a>/<b><a href="https://github.com/radiantearth/radiant-mlhub">radiant-mlhub</a></b>  
 [https://radiant-mlhub.readthedocs.io/](https://radiant-mlhub.readthedocs.io/)  
-[https://github.com/radiantearth/radiant-mlhub](https://github.com/radiantearth/radiant-mlhub)  
-0.36 stars per week over 134 weeks  
-49 stars, 10 forks, 5 watches  
-created 2020-10-13, last commit 2023-02-13, main language Python  
-<sub><sup>machine-learning, python-client, satellite-imagery, stac</sup></sub>
+A Python client for the Radiant MLHub API (https://mlhub.earth).  
+Score: 22/100, Stars: 49, Stars/week: 0.36, Forks: 10  
 
 
-### [geoplot](https://github.com/residentmario/geoplot) by [residentmario](https://github.com/residentmario)  
-High-level geospatial data visualization library for Python.  
+<a href="https://github.com/residentmario)">residentmario</a>/<b><a href="https://github.com/residentmario/geoplot">geoplot</a></b>  
 [https://residentmario.github.io/geoplot/index.html](https://residentmario.github.io/geoplot/index.html)  
-[https://github.com/residentmario/geoplot](https://github.com/residentmario/geoplot)  
-2.98 stars per week over 358 weeks  
-1,067 stars, 93 forks, 35 watches  
-created 2016-06-29, last commit 2022-03-18, main language Python  
-<sub><sup>geopandas, geospatial-data, geospatial-visualization, matplotlib, spatial-analysis</sup></sub>
+High-level geospatial data visualization library for Python.  
+Score: 22/100, Stars: 1,067, Stars/week: 2.98, Forks: 93  
 
 
-### [label-maker](https://github.com/developmentseed/label-maker) by [developmentseed](https://github.com/developmentseed)  
-Data Preparation for Satellite Machine Learning  
+<a href="https://github.com/developmentseed)">developmentseed</a>/<b><a href="https://github.com/developmentseed/label-maker">label-maker</a></b>  
 [http://devseed.com/label-maker/](http://devseed.com/label-maker/)  
-[https://github.com/developmentseed/label-maker](https://github.com/developmentseed/label-maker)  
-1.6 stars per week over 278 weeks  
-445 stars, 112 forks, 53 watches  
-created 2018-01-10, last commit 2020-11-19, main language Python  
-<sub><sup>computer-vision, data-preparation, deep-learning, keras, remote-sensing, satellite-imagery</sup></sub>
+Data Preparation for Satellite Machine Learning  
+Score: 21/100, Stars: 445, Stars/week: 1.6, Forks: 112  
 
 
-### [landsat-util](https://github.com/developmentseed/landsat-util) by [developmentseed](https://github.com/developmentseed)  
+<a href="https://github.com/developmentseed)">developmentseed</a>/<b><a href="https://github.com/developmentseed/landsat-util">landsat-util</a></b>  
 A utility to search, download and process Landsat 8 satellite imagery  
-[https://github.com/developmentseed/landsat-util](https://github.com/developmentseed/landsat-util)  
-1.49 stars per week over 457 weeks  
-684 stars, 154 forks, 128 watches  
-created 2014-08-01, last commit 2018-07-30, main language Python  
+Score: 21/100, Stars: 684, Stars/week: 1.49, Forks: 154  
 
 
-### [pyesridump](https://github.com/openaddresses/pyesridump) by [openaddresses](https://github.com/openaddresses)  
+<a href="https://github.com/openaddresses)">openaddresses</a>/<b><a href="https://github.com/openaddresses/pyesridump">pyesridump</a></b>  
 Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.  
-[https://github.com/openaddresses/pyesridump](https://github.com/openaddresses/pyesridump)  
-0.56 stars per week over 491 weeks  
-273 stars, 62 forks, 16 watches  
-created 2013-12-06, last commit 2023-02-01, main language Python  
+Score: 21/100, Stars: 273, Stars/week: 0.56, Forks: 62  
 
 
-### [mercantile](https://github.com/mapbox/mercantile) by [mapbox](https://github.com/mapbox)  
+<a href="https://github.com/mapbox)">mapbox</a>/<b><a href="https://github.com/mapbox/mercantile">mercantile</a></b>  
 Spherical mercator tile and coordinate utilities  
-[https://github.com/mapbox/mercantile](https://github.com/mapbox/mercantile)  
-0.73 stars per week over 482 weeks  
-353 stars, 61 forks, 117 watches  
-created 2014-02-12, last commit 2021-10-22, main language Python  
-<sub><sup>imagery, pxm, satellite</sup></sub>
+Score: 20/100, Stars: 353, Stars/week: 0.73, Forks: 61  
 
 
-### [scikit-geometry](https://github.com/scikit-geometry/scikit-geometry)  
-Scientific Python Geometric Algorithms Library  
+<a href="https://github.com/scikit-geometry)">scikit-geometry</a>/<b><a href="https://github.com/scikit-geometry/scikit-geometry">scikit-geometry</a></b>  
 [https://scikit-geometry.github.io/scikit-geometry](https://scikit-geometry.github.io/scikit-geometry)  
-[https://github.com/scikit-geometry/scikit-geometry](https://github.com/scikit-geometry/scikit-geometry)  
-1.0 stars per week over 371 weeks  
-373 stars, 50 forks, 14 watches  
-created 2016-03-28, last commit 2022-10-14, main language Jupyter Notebook  
-<sub><sup>cgal, geometric-algorithms, geometry, wrapper</sup></sub>
+Scientific Python Geometric Algorithms Library  
+Score: 20/100, Stars: 373, Stars/week: 1.0, Forks: 50  
 
 
-### [PolyWorldPretrainedNetwork](https://github.com/zorzi-s/polyworldpretrainednetwork) by [zorzi-s](https://github.com/zorzi-s)  
+<a href="https://github.com/zorzi-s)">zorzi-s</a>/<b><a href="https://github.com/zorzi-s/polyworldpretrainednetwork">PolyWorldPretrainedNetwork</a></b>  
 PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images  
-[https://github.com/zorzi-s/polyworldpretrainednetwork](https://github.com/zorzi-s/polyworldpretrainednetwork)  
-1.86 stars per week over 59 weeks  
-110 stars, 16 forks, 7 watches  
-created 2022-03-23, last commit 2022-11-10, main language Python  
+Score: 19/100, Stars: 110, Stars/week: 1.86, Forks: 16  
 
 
-### [geolambda](https://github.com/developmentseed/geolambda) by [developmentseed](https://github.com/developmentseed)  
+<a href="https://github.com/developmentseed)">developmentseed</a>/<b><a href="https://github.com/developmentseed/geolambda">geolambda</a></b>  
 Create and deploy Geospatial AWS Lambda functions  
-[https://github.com/developmentseed/geolambda](https://github.com/developmentseed/geolambda)  
-0.89 stars per week over 314 weeks  
-281 stars, 85 forks, 50 watches  
-created 2017-05-02, last commit 2021-02-16, main language Dockerfile  
+Score: 19/100, Stars: 281, Stars/week: 0.89, Forks: 85  
 
 
-### [raster4ml](https://github.com/remotesensinglab/raster4ml) by [remotesensinglab](https://github.com/remotesensinglab)  
-A geospatial raster processing library for machine learning  
+<a href="https://github.com/remotesensinglab)">remotesensinglab</a>/<b><a href="https://github.com/remotesensinglab/raster4ml">raster4ml</a></b>  
 [https://raster4ml.readthedocs.io](https://raster4ml.readthedocs.io)  
-[https://github.com/remotesensinglab/raster4ml](https://github.com/remotesensinglab/raster4ml)  
-2.44 stars per week over 43 weeks  
-106 stars, 13 forks, 4 watches  
-created 2022-07-11, last commit 2022-11-01, main language Python  
-<sub><sup>agriculture-research, data-science, geospatial-data, machine-learning, remote-sensing, vegetation, vegetation-index</sup></sub>
+A geospatial raster processing library for machine learning  
+Score: 17/100, Stars: 106, Stars/week: 2.44, Forks: 13  
 
 
-### [richdem](https://github.com/r-barnes/richdem) by [r-barnes](https://github.com/r-barnes)  
+<a href="https://github.com/r-barnes)">r-barnes</a>/<b><a href="https://github.com/r-barnes/richdem">richdem</a></b>  
 High-performance Terrain and Hydrology Analysis   
-[https://github.com/r-barnes/richdem](https://github.com/r-barnes/richdem)  
-0.38 stars per week over 539 weeks  
-206 stars, 59 forks, 14 watches  
-created 2013-01-06, last commit 2022-11-18, main language C++  
-<sub><sup>big-data, digital-elevation-model, geosciences, geospatial, hydrologic-modeling, hydrology</sup></sub>
+Score: 16/100, Stars: 206, Stars/week: 0.38, Forks: 59  
 
 
-### [peartree](https://github.com/kuanb/peartree) by [kuanb](https://github.com/kuanb)  
+<a href="https://github.com/kuanb)">kuanb</a>/<b><a href="https://github.com/kuanb/peartree">peartree</a></b>  
 peartree: A library for converting transit data into a directed graph for sketch network analysis.  
-[https://github.com/kuanb/peartree](https://github.com/kuanb/peartree)  
-0.67 stars per week over 286 weeks  
-193 stars, 19 forks, 13 watches  
-created 2017-11-12, last commit 2021-01-18, main language Python  
-<sub><sup>gis, graphs, gtfs, modeling, network-analysis, spatial-analysis, transit</sup></sub>
+Score: 14/100, Stars: 193, Stars/week: 0.67, Forks: 19  
 
 
-### [detectree](https://github.com/martibosch/detectree) by [martibosch](https://github.com/martibosch)  
-Tree detection from aerial imagery in Python  
+<a href="https://github.com/martibosch)">martibosch</a>/<b><a href="https://github.com/martibosch/detectree">detectree</a></b>  
 [https://doi.org/10.21105/joss.02172](https://doi.org/10.21105/joss.02172)  
-[https://github.com/martibosch/detectree](https://github.com/martibosch/detectree)  
-0.73 stars per week over 197 weeks  
-144 stars, 24 forks, 8 watches  
-created 2019-07-31, last commit 2022-10-24, main language Python  
-<sub><sup>image-segmentation, remote-sensing, tree-canopy, tree-detection, tree-pixels</sup></sub>
+Tree detection from aerial imagery in Python  
+Score: 14/100, Stars: 144, Stars/week: 0.73, Forks: 24  
 
 
-### [easystac](https://github.com/cloudsen12/easystac) by [cloudsen12](https://github.com/cloudsen12)  
-A Python package for simple STAC queries  
+<a href="https://github.com/cloudsen12)">cloudsen12</a>/<b><a href="https://github.com/cloudsen12/easystac">easystac</a></b>  
 [https://easystac.readthedocs.io/](https://easystac.readthedocs.io/)  
-[https://github.com/cloudsen12/easystac](https://github.com/cloudsen12/easystac)  
-0.9 stars per week over 68 weeks  
-61 stars, 1 forks, 3 watches  
-created 2022-01-20, last commit 2022-08-07, main language Python  
-<sub><sup>earth-observation, gis, planetary-computer, radiant, remote-sensing, spatio-temporal, spatio-temporal-data, stac</sup></sub>
+A Python package for simple STAC queries  
+Score: 14/100, Stars: 61, Stars/week: 0.9, Forks: 1  
 
 
-### [address-net](https://github.com/jasonrig/address-net) by [jasonrig](https://github.com/jasonrig)  
+<a href="https://github.com/jasonrig)">jasonrig</a>/<b><a href="https://github.com/jasonrig/address-net">address-net</a></b>  
 A package to structure Australian addresses  
-[https://github.com/jasonrig/address-net](https://github.com/jasonrig/address-net)  
-0.77 stars per week over 231 weeks  
-179 stars, 73 forks, 13 watches  
-created 2018-12-05, last commit 2020-09-09, main language Python  
-<sub><sup>address-parser, deep-learning, machine-learning, rnn</sup></sub>
+Score: 13/100, Stars: 179, Stars/week: 0.77, Forks: 73  
 
 
-### [BoundaryVT](https://github.com/edomel/boundaryvt) by [edomel](https://github.com/edomel)  
+<a href="https://github.com/edomel)">edomel</a>/<b><a href="https://github.com/edomel/boundaryvt">BoundaryVT</a></b>  
 edomel/BoundaryVT  
-[https://github.com/edomel/boundaryvt](https://github.com/edomel/boundaryvt)  
-0.02 stars per week over 40 weeks  
-1 stars, 0 forks, 2 watches  
-created 2022-07-29, last commit 2023-02-24, main language Python  
+Score: 12/100, Stars: 1, Stars/week: 0.02, Forks: 0  
 
 
-### [Polygonization-by-Frame-Field-Learning](https://github.com/lydorn/polygonization-by-frame-field-learning) by [lydorn](https://github.com/lydorn)  
+<a href="https://github.com/lydorn)">lydorn</a>/<b><a href="https://github.com/lydorn/polygonization-by-frame-field-learning">Polygonization-by-Frame-Field-Learning</a></b>  
 This repository contains the code for our fast polygonal building extraction from overhead images pipeline.  
-[https://github.com/lydorn/polygonization-by-frame-field-learning](https://github.com/lydorn/polygonization-by-frame-field-learning)  
-1.46 stars per week over 154 weeks  
-225 stars, 55 forks, 12 watches  
-created 2020-05-26, last commit 2022-12-09, main language Python  
-<sub><sup>field, frame, polygonization, remote, segmentation, sensing</sup></sub>
+Score: 12/100, Stars: 225, Stars/week: 1.46, Forks: 55  
 
 
-### [LOD2BuildingModel](https://github.com/gdaosu/lod2buildingmodel) by [gdaosu](https://github.com/gdaosu)  
+<a href="https://github.com/gdaosu)">gdaosu</a>/<b><a href="https://github.com/gdaosu/lod2buildingmodel">LOD2BuildingModel</a></b>  
 SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite-derived DSM and Orthophoto  
-[https://github.com/gdaosu/lod2buildingmodel](https://github.com/gdaosu/lod2buildingmodel)  
-1.23 stars per week over 88 weeks  
-109 stars, 24 forks, 9 watches  
-created 2021-08-30, last commit 2022-07-21, main language Python  
+Score: 12/100, Stars: 109, Stars/week: 1.23, Forks: 24  
 
 
-### [mapcompare](https://github.com/gregorhd/mapcompare) by [gregorhd](https://github.com/gregorhd)  
+<a href="https://github.com/gregorhd)">gregorhd</a>/<b><a href="https://github.com/gregorhd/mapcompare">mapcompare</a></b>  
 Comparison of Python packages and libraries for visualising geospatial vector data: applications for Smarter Cities.  
-[https://github.com/gregorhd/mapcompare](https://github.com/gregorhd/mapcompare)  
-0.28 stars per week over 102 weeks  
-29 stars, 0 forks, 2 watches  
-created 2021-05-21, last commit 2022-12-03, main language Python  
-<sub><sup>comparison, data-visualisation, data-viz, interactive-visualisations, sample-visualisation, urban-data-science, visualisation-libraries</sup></sub>
+Score: 10/100, Stars: 29, Stars/week: 0.28, Forks: 0  
 
 
-### [boundary-iou-api](https://github.com/bowenc0221/boundary-iou-api) by [bowenc0221](https://github.com/bowenc0221)  
+<a href="https://github.com/bowenc0221)">bowenc0221</a>/<b><a href="https://github.com/bowenc0221/boundary-iou-api">boundary-iou-api</a></b>  
 Boundary IoU API (Beta version)  
-[https://github.com/bowenc0221/boundary-iou-api](https://github.com/bowenc0221/boundary-iou-api)  
-1.65 stars per week over 110 weeks  
-182 stars, 20 forks, 8 watches  
-created 2021-03-29, last commit 2021-04-05, main language Python  
+Score: 9/100, Stars: 182, Stars/week: 1.65, Forks: 20  
 
 
-### [geonetworkx](https://github.com/artelys/geonetworkx) by [artelys](https://github.com/artelys)  
+<a href="https://github.com/artelys)">artelys</a>/<b><a href="https://github.com/artelys/geonetworkx">geonetworkx</a></b>  
 Python tools for geographic graphs  
-[https://github.com/artelys/geonetworkx](https://github.com/artelys/geonetworkx)  
-0.16 stars per week over 185 weeks  
-30 stars, 1 forks, 7 watches  
-created 2019-10-24, last commit 2021-06-28, main language Python  
+Score: 9/100, Stars: 30, Stars/week: 0.16, Forks: 1  
 
 
-### [MapRepair](https://github.com/zorzi-s/maprepair) by [zorzi-s](https://github.com/zorzi-s)  
+<a href="https://github.com/zorzi-s)">zorzi-s</a>/<b><a href="https://github.com/zorzi-s/maprepair">MapRepair</a></b>  
 Deep Cadastre Maps Alignment and Temporal Inconsistencies Fix in Satellite Images  
-[https://github.com/zorzi-s/maprepair](https://github.com/zorzi-s/maprepair)  
-0.12 stars per week over 145 weeks  
-17 stars, 4 forks, 2 watches  
-created 2020-07-30, last commit 2023-05-03, main language Python  
+Score: 8/100, Stars: 17, Stars/week: 0.12, Forks: 4  
 
 
-### [projectRegularization](https://github.com/zorzi-s/projectregularization) by [zorzi-s](https://github.com/zorzi-s)  
+<a href="https://github.com/zorzi-s)">zorzi-s</a>/<b><a href="https://github.com/zorzi-s/projectregularization">projectRegularization</a></b>  
 Regularization of Building Boundaries using Adversarial and Regularized losses  
-[https://github.com/zorzi-s/projectregularization](https://github.com/zorzi-s/projectregularization)  
-0.82 stars per week over 103 weeks  
-85 stars, 9 forks, 2 watches  
-created 2021-05-18, last commit 2021-09-17, main language Python  
+Score: 7/100, Stars: 85, Stars/week: 0.82, Forks: 9  
 
 
-### [area](https://github.com/scisco/area) by [scisco](https://github.com/scisco)  
+<a href="https://github.com/scisco)">scisco</a>/<b><a href="https://github.com/scisco/area">area</a></b>  
 Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python  
-[https://github.com/scisco/area](https://github.com/scisco/area)  
-0.22 stars per week over 389 weeks  
-87 stars, 22 forks, 3 watches  
-created 2015-11-25, last commit 2018-10-31, main language Python  
-<sub><sup>geometry</sup></sub>
+Score: 4/100, Stars: 87, Stars/week: 0.22, Forks: 22  
 
 
-### [mapalignment](https://github.com/lydorn/mapalignment) by [lydorn](https://github.com/lydorn)  
+<a href="https://github.com/lydorn)">lydorn</a>/<b><a href="https://github.com/lydorn/mapalignment">mapalignment</a></b>  
 Aligning and Updating Cadaster Maps with Remote Sensing Images  
-[https://github.com/lydorn/mapalignment](https://github.com/lydorn/mapalignment)  
-0.24 stars per week over 244 weeks  
-59 stars, 13 forks, 4 watches  
-created 2018-09-05, last commit 2020-09-03, main language Python  
+Score: 4/100, Stars: 59, Stars/week: 0.24, Forks: 13  
 
 
-### [wagyu](https://github.com/lycantropos/wagyu) by [lycantropos](https://github.com/lycantropos)  
-Python port of mapbox/wagyu library (with separate C++ binding)  
+<a href="https://github.com/lycantropos)">lycantropos</a>/<b><a href="https://github.com/lycantropos/wagyu">wagyu</a></b>  
 [https://github.com/mapbox/wagyu](https://github.com/mapbox/wagyu)  
-[https://github.com/lycantropos/wagyu](https://github.com/lycantropos/wagyu)  
-0.02 stars per week over 149 weeks  
-3 stars, 2 forks, 1 watches  
-created 2020-06-30, last commit 2020-11-21, main language Python  
+Python port of mapbox/wagyu library (with separate C++ binding)  
+Score: 3/100, Stars: 3, Stars/week: 0.02, Forks: 2  
 
 
 This file was automatically generated on 2023-05-11.  

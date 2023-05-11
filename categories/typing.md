@@ -1,93 +1,60 @@
-# Crazy Awesome Python
-A selection of 9 curated typing Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [mypy](https://github.com/python/mypy) by [python](https://github.com/python)  
-Optional static typing for Python  
+<a href="https://github.com/python)">python</a>/<b><a href="https://github.com/python/mypy">mypy</a></b>  
 [https://www.mypy-lang.org/](https://www.mypy-lang.org/)  
-[https://github.com/python/mypy](https://github.com/python/mypy)  
-28 stars per week over 543 weeks  
-15,293 stars, 2,521 forks, 232 watches  
-created 2012-12-07, last commit 2023-05-05, main language Python  
-<sub><sup>linter, typechecker, types, typing</sup></sub>
+Optional static typing for Python  
+Score: 68/100, Stars: 15,293, Stars/week: 28, Forks: 2,521  
 
 
-### [pyright](https://github.com/microsoft/pyright) by [microsoft](https://github.com/microsoft)  
+<a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/pyright">pyright</a></b>  
 Static Type Checker for Python  
-[https://github.com/microsoft/pyright](https://github.com/microsoft/pyright)  
-46 stars per week over 217 weeks  
-10,211 stars, 1,025 forks, 100 watches  
-created 2019-03-12, last commit 2023-05-06, main language Python  
-<sub><sup>typechecker</sup></sub>
+Score: 67/100, Stars: 10,211, Stars/week: 46, Forks: 1,025  
 
 
-### [pyre-check](https://github.com/facebook/pyre-check) by [facebook](https://github.com/facebook)  
-Performant type-checking for python.  
+<a href="https://github.com/facebook)">facebook</a>/<b><a href="https://github.com/facebook/pyre-check">pyre-check</a></b>  
 [https://pyre-check.org/](https://pyre-check.org/)  
-[https://github.com/facebook/pyre-check](https://github.com/facebook/pyre-check)  
-22 stars per week over 286 weeks  
-6,332 stars, 421 forks, 112 watches  
-created 2017-11-10, last commit 2023-05-06, main language OCaml  
-<sub><sup>abstract-interpretation, code-quality, control-flow-analysis, ocaml, program-analysis, security, static-analysis, taint-analysis, type-check, typechecker</sup></sub>
+Performant type-checking for python.  
+Score: 58/100, Stars: 6,332, Stars/week: 22, Forks: 421  
 
 
-### [attrs](https://github.com/python-attrs/attrs) by [python-attrs](https://github.com/python-attrs)  
-Python Classes Without Boilerplate  
+<a href="https://github.com/python-attrs)">python-attrs</a>/<b><a href="https://github.com/python-attrs/attrs">attrs</a></b>  
 [https://www.attrs.org/](https://www.attrs.org/)  
-[https://github.com/python-attrs/attrs](https://github.com/python-attrs/attrs)  
-10 stars per week over 432 weeks  
-4,734 stars, 338 forks, 61 watches  
-created 2015-01-27, last commit 2023-05-03, main language Python  
-<sub><sup>attributes, boilerplate, classes, oop</sup></sub>
+Python Classes Without Boilerplate  
+Score: 53/100, Stars: 4,734, Stars/week: 10, Forks: 338  
 
 
-### [pytype](https://github.com/google/pytype) by [google](https://github.com/google)  
-A static type analyzer for Python code  
+<a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/pytype">pytype</a></b>  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
-[https://github.com/google/pytype](https://github.com/google/pytype)  
-9.87 stars per week over 425 weeks  
-4,197 stars, 273 forks, 56 watches  
-created 2015-03-18, last commit 2023-05-04, main language Python  
-<sub><sup>linter, static-analysis, static-code-analysis, typechecker, types, typing</sup></sub>
+A static type analyzer for Python code  
+Score: 51/100, Stars: 4,197, Stars/week: 9.87, Forks: 273  
 
 
-### [typeguard](https://github.com/agronholm/typeguard) by [agronholm](https://github.com/agronholm)  
+<a href="https://github.com/agronholm)">agronholm</a>/<b><a href="https://github.com/agronholm/typeguard">typeguard</a></b>  
 Run-time type checker for Python  
-[https://github.com/agronholm/typeguard](https://github.com/agronholm/typeguard)  
-3.07 stars per week over 384 weeks  
-1,181 stars, 93 forks, 18 watches  
-created 2015-12-27, last commit 2023-05-01, main language Python  
-<sub><sup>typechecker</sup></sub>
+Score: 47/100, Stars: 1,181, Stars/week: 3.07, Forks: 93  
 
 
-### [torchtyping](https://github.com/patrick-kidger/torchtyping) by [patrick-kidger](https://github.com/patrick-kidger)  
+<a href="https://github.com/patrick-kidger)">patrick-kidger</a>/<b><a href="https://github.com/patrick-kidger/torchtyping">torchtyping</a></b>  
 Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.  
-[https://github.com/patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping)  
-11 stars per week over 110 weeks  
-1,229 stars, 29 forks, 14 watches  
-created 2021-03-28, last commit 2023-03-16, main language Python  
-<sub><sup>named-tensors, python-typing, pytorch, shape, tensors, typing</sup></sub>
+Score: 40/100, Stars: 1,229, Stars/week: 11, Forks: 29  
 
 
-### [cattrs](https://github.com/python-attrs/cattrs) by [python-attrs](https://github.com/python-attrs)  
-Complex custom class converters for attrs.  
+<a href="https://github.com/python-attrs)">python-attrs</a>/<b><a href="https://github.com/python-attrs/cattrs">cattrs</a></b>  
 [https://catt.rs](https://catt.rs)  
-[https://github.com/python-attrs/cattrs](https://github.com/python-attrs/cattrs)  
-1.79 stars per week over 349 weeks  
-627 stars, 90 forks, 18 watches  
-created 2016-08-28, last commit 2023-04-15, main language Python  
-<sub><sup>attrs, deserialization, serialization</sup></sub>
+Complex custom class converters for attrs.  
+Score: 39/100, Stars: 627, Stars/week: 1.79, Forks: 90  
 
 
-### [autotyping](https://github.com/jellezijlstra/autotyping) by [jellezijlstra](https://github.com/jellezijlstra)  
+<a href="https://github.com/jellezijlstra)">jellezijlstra</a>/<b><a href="https://github.com/jellezijlstra/autotyping">autotyping</a></b>  
 jellezijlstra/autotyping  
-[https://github.com/jellezijlstra/autotyping](https://github.com/jellezijlstra/autotyping)  
-1.44 stars per week over 97 weeks  
-141 stars, 10 forks, 5 watches  
-created 2021-06-25, last commit 2023-03-28, main language Python  
+Score: 29/100, Stars: 141, Stars/week: 1.44, Forks: 10  
 
 
 This file was automatically generated on 2023-05-11.  

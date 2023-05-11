@@ -1,142 +1,88 @@
-# Crazy Awesome Python
-A selection of 14 curated ml-interpretability Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [shap](https://github.com/slundberg/shap) by [slundberg](https://github.com/slundberg)  
+<a href="https://github.com/slundberg)">slundberg</a>/<b><a href="https://github.com/slundberg/shap">shap</a></b>  
 A game theoretic approach to explain the output of any machine learning model.  
-[https://github.com/slundberg/shap](https://github.com/slundberg/shap)  
-56 stars per week over 337 weeks  
-19,138 stars, 2,873 forks, 262 watches  
-created 2016-11-22, last commit 2022-06-16, main language Jupyter Notebook  
-<sub><sup>deep-learning, explainability, gradient-boosting, interpretability, machine-learning, shap, shapley</sup></sub>
+Score: 57/100, Stars: 19,138, Stars/week: 56, Forks: 2,873  
 
 
-### [captum](https://github.com/pytorch/captum) by [pytorch](https://github.com/pytorch)  
-Model interpretability and understanding for PyTorch  
+<a href="https://github.com/pytorch)">pytorch</a>/<b><a href="https://github.com/pytorch/captum">captum</a></b>  
 [https://captum.ai](https://captum.ai)  
-[https://github.com/pytorch/captum](https://github.com/pytorch/captum)  
-20 stars per week over 193 weeks  
-3,906 stars, 429 forks, 212 watches  
-created 2019-08-27, last commit 2023-05-02, main language Python  
-<sub><sup>feature-attribution, feature-importance, interpretability, interpretable-ai, interpretable-ml</sup></sub>
+Model interpretability and understanding for PyTorch  
+Score: 54/100, Stars: 3,906, Stars/week: 20, Forks: 429  
 
 
-### [phoenix](https://github.com/arize-ai/phoenix) by [arize-ai](https://github.com/arize-ai)  
-ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models  
+<a href="https://github.com/arize-ai)">arize-ai</a>/<b><a href="https://github.com/arize-ai/phoenix">phoenix</a></b>  
 [https://docs.arize.com/phoenix](https://docs.arize.com/phoenix)  
-[https://github.com/arize-ai/phoenix](https://github.com/arize-ai/phoenix)  
-24 stars per week over 26 weeks  
-637 stars, 31 forks, 11 watches  
-created 2022-11-09, last commit 2023-05-04, main language Python  
-<sub><sup>ai-roi, llmops, ml-observability, mlops, model-observability</sup></sub>
+ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models  
+Score: 51/100, Stars: 637, Stars/week: 24, Forks: 31  
 
 
-### [alibi](https://github.com/seldonio/alibi) by [seldonio](https://github.com/seldonio)  
-Algorithms for explaining machine learning models  
+<a href="https://github.com/seldonio)">seldonio</a>/<b><a href="https://github.com/seldonio/alibi">alibi</a></b>  
 [https://docs.seldon.io/projects/alibi/en/stable/](https://docs.seldon.io/projects/alibi/en/stable/)  
-[https://github.com/seldonio/alibi](https://github.com/seldonio/alibi)  
-9.2 stars per week over 219 weeks  
-2,018 stars, 223 forks, 45 watches  
-created 2019-02-26, last commit 2023-05-03, main language Python  
-<sub><sup>counterfactual, explanations, interpretability, machine-learning, xai</sup></sub>
+Algorithms for explaining machine learning models  
+Score: 48/100, Stars: 2,018, Stars/week: 9.2, Forks: 223  
 
 
-### [explainerdashboard](https://github.com/oegedijk/explainerdashboard) by [oegedijk](https://github.com/oegedijk)  
-Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
+<a href="https://github.com/oegedijk)">oegedijk</a>/<b><a href="https://github.com/oegedijk/explainerdashboard">explainerdashboard</a></b>  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
-[https://github.com/oegedijk/explainerdashboard](https://github.com/oegedijk/explainerdashboard)  
-9.09 stars per week over 184 weeks  
-1,674 stars, 219 forks, 21 watches  
-created 2019-10-30, last commit 2023-05-04, main language Python  
-<sub><sup>dash, dashboard, data-scientists, explainer, inner-workings, interactive-dashboards, interactive-plots, model-predictions, permutation-importances, plotly, shap, shap-values, xai, xai-library</sup></sub>
+Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
+Score: 48/100, Stars: 1,674, Stars/week: 9.09, Forks: 219  
 
 
-### [lime](https://github.com/marcotcr/lime) by [marcotcr](https://github.com/marcotcr)  
+<a href="https://github.com/marcotcr)">marcotcr</a>/<b><a href="https://github.com/marcotcr/lime">lime</a></b>  
 Lime: Explaining the predictions of any machine learning classifier  
-[https://github.com/marcotcr/lime](https://github.com/marcotcr/lime)  
-28 stars per week over 373 weeks  
-10,629 stars, 1,735 forks, 266 watches  
-created 2016-03-15, last commit 2021-07-29, main language JavaScript  
-<sub><sup>interpretable-ml</sup></sub>
+Score: 48/100, Stars: 10,629, Stars/week: 28, Forks: 1,735  
 
 
-### [pythia](https://github.com/eleutherai/pythia) by [eleutherai](https://github.com/eleutherai)  
+<a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/pythia">pythia</a></b>  
 Interpretability analysis and scaling laws to understand how knowledge develops and evolves during training in autoregressive transformers  
-[https://github.com/eleutherai/pythia](https://github.com/eleutherai/pythia)  
-14 stars per week over 71 weeks  
-1,026 stars, 65 forks, 21 watches  
-created 2021-12-25, last commit 2023-05-03, main language Jupyter Notebook  
-<sub><sup>interpretability, interpretable-ml</sup></sub>
+Score: 47/100, Stars: 1,026, Stars/week: 14, Forks: 65  
 
 
-### [lit](https://github.com/pair-code/lit) by [pair-code](https://github.com/pair-code)  
-The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.  
+<a href="https://github.com/pair-code)">pair-code</a>/<b><a href="https://github.com/pair-code/lit">lit</a></b>  
 [https://pair-code.github.io/lit](https://pair-code.github.io/lit)  
-[https://github.com/pair-code/lit](https://github.com/pair-code/lit)  
-21 stars per week over 145 weeks  
-3,113 stars, 330 forks, 71 watches  
-created 2020-07-28, last commit 2022-12-02, main language TypeScript  
-<sub><sup>machine-learning, natural-language-processing, visualization</sup></sub>
+The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface.  
+Score: 46/100, Stars: 3,113, Stars/week: 21, Forks: 330  
 
 
-### [PiML-Toolbox](https://github.com/selfexplainml/piml-toolbox) by [selfexplainml](https://github.com/selfexplainml)  
-PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
+<a href="https://github.com/selfexplainml)">selfexplainml</a>/<b><a href="https://github.com/selfexplainml/piml-toolbox">PiML-Toolbox</a></b>  
 [https://selfexplainml.github.io/PiML-Toolbox](https://selfexplainml.github.io/PiML-Toolbox)  
-[https://github.com/selfexplainml/piml-toolbox](https://github.com/selfexplainml/piml-toolbox)  
-11 stars per week over 53 weeks  
-614 stars, 74 forks, 16 watches  
-created 2022-04-29, last commit 2023-05-05, main language Jupyter Notebook  
-<sub><sup>interpretable-machine-learning, low-code, ml-workflow, model-diagnostics</sup></sub>
+PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
+Score: 45/100, Stars: 614, Stars/week: 11, Forks: 74  
 
 
-### [lucid](https://github.com/tensorflow/lucid) by [tensorflow](https://github.com/tensorflow)  
+<a href="https://github.com/tensorflow)">tensorflow</a>/<b><a href="https://github.com/tensorflow/lucid">lucid</a></b>  
 A collection of infrastructure and tools for research in neural network interpretability.  
-[https://github.com/tensorflow/lucid](https://github.com/tensorflow/lucid)  
-16 stars per week over 276 weeks  
-4,542 stars, 652 forks, 162 watches  
-created 2018-01-25, last commit 2021-03-19, main language Jupyter Notebook  
-<sub><sup>colab, interpretability, jupyter-notebook, machine-learning, tensorflow, visualization</sup></sub>
+Score: 40/100, Stars: 4,542, Stars/week: 16, Forks: 652  
 
 
-### [tuned-lens](https://github.com/alignmentresearch/tuned-lens) by [alignmentresearch](https://github.com/alignmentresearch)  
-Tools for understanding how transformer predictions are built layer-by-layer  
+<a href="https://github.com/alignmentresearch)">alignmentresearch</a>/<b><a href="https://github.com/alignmentresearch/tuned-lens">tuned-lens</a></b>  
 [https://tuned-lens.readthedocs.io/en/latest/](https://tuned-lens.readthedocs.io/en/latest/)  
-[https://github.com/alignmentresearch/tuned-lens](https://github.com/alignmentresearch/tuned-lens)  
-7.16 stars per week over 31 weeks  
-225 stars, 21 forks, 5 watches  
-created 2022-10-03, last commit 2023-05-02, main language Jupyter Notebook  
-<sub><sup>machine-learning, pytorch, transformers</sup></sub>
+Tools for understanding how transformer predictions are built layer-by-layer  
+Score: 39/100, Stars: 225, Stars/week: 7.16, Forks: 21  
 
 
-### [transformers-interpret](https://github.com/cdpierse/transformers-interpret) by [cdpierse](https://github.com/cdpierse)  
+<a href="https://github.com/cdpierse)">cdpierse</a>/<b><a href="https://github.com/cdpierse/transformers-interpret">transformers-interpret</a></b>  
 Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
-[https://github.com/cdpierse/transformers-interpret](https://github.com/cdpierse/transformers-interpret)  
-6.55 stars per week over 154 weeks  
-1,010 stars, 86 forks, 18 watches  
-created 2020-05-27, last commit 2023-04-06, main language Jupyter Notebook  
-<sub><sup>captum, computer-vision, deep-learning, explainable-ai, interpretability, machine-learning, model-explainability, natural-language-processing, neural-network, nlp, transformers, transformers-model</sup></sub>
+Score: 38/100, Stars: 1,010, Stars/week: 6.55, Forks: 86  
 
 
-### [ecco](https://github.com/jalammar/ecco) by [jalammar](https://github.com/jalammar)  
-Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
+<a href="https://github.com/jalammar)">jalammar</a>/<b><a href="https://github.com/jalammar/ecco">ecco</a></b>  
 [https://ecco.readthedocs.io](https://ecco.readthedocs.io)  
-[https://github.com/jalammar/ecco](https://github.com/jalammar/ecco)  
-12 stars per week over 130 weeks  
-1,680 stars, 126 forks, 21 watches  
-created 2020-11-07, last commit 2022-01-18, main language Jupyter Notebook  
-<sub><sup>explorables, language-models, natural-language-processing, nlp, pytorch, visualization</sup></sub>
+Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).  
+Score: 35/100, Stars: 1,680, Stars/week: 12, Forks: 126  
 
 
-### [knowledge-neurons](https://github.com/eleutherai/knowledge-neurons) by [eleutherai](https://github.com/eleutherai)  
+<a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/knowledge-neurons">knowledge-neurons</a></b>  
 A library for finding knowledge neurons in pretrained transformer models.  
-[https://github.com/eleutherai/knowledge-neurons](https://github.com/eleutherai/knowledge-neurons)  
-1.2 stars per week over 93 weeks  
-112 stars, 13 forks, 3 watches  
-created 2021-07-28, last commit 2021-08-11, main language Python  
-<sub><sup>interpretability, transformers</sup></sub>
+Score: 7/100, Stars: 112, Stars/week: 1.2, Forks: 13  
 
 
 This file was automatically generated on 2023-05-11.  

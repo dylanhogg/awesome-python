@@ -229,8 +229,8 @@
             "_age_weeks": 6,
             "_stars_per_week": 5824.47,
             "_topics": [
-                "chatbot",
-                "language-model"
+                "language-model",
+                "chatbot"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
             "_pop_score": 73.81,
@@ -1516,8 +1516,8 @@
             "_age_weeks": 7,
             "_stars_per_week": 4501.0,
             "_topics": [
-                "instance-segmentation",
-                "object-detection"
+                "object-detection",
+                "instance-segmentation"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
             "_pop_score": 73.1,
@@ -1980,8 +1980,8 @@
             "_age_weeks": 23,
             "_stars_per_week": 191.26,
             "_topics": [
-                "chatgpt",
-                "tokeniser"
+                "tokeniser",
+                "chatgpt"
             ],
             "_last_commit_date": "2023-04-24T00:00:00.000Z",
             "_pop_score": 67.58,

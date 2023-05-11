@@ -1,149 +1,94 @@
-# Crazy Awesome Python
-A selection of 15 curated math Python libraries and frameworks ordered by stars.  
+# dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+
+Hand-picked awesome Python libraries and frameworks, 
+with an emphasis on data and machine learning, ranked by popularity score 🐍  
 
 Checkout the interactive version that you can filter and sort: 
-[https://www.awesomepython.org/](https://www.awesomepython.org/)  
+[www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-### [numpy](https://github.com/numpy/numpy)  
-The fundamental package for scientific computing with Python.  
+<a href="https://github.com/numpy)">numpy</a>/<b><a href="https://github.com/numpy/numpy">numpy</a></b>  
 [https://numpy.org](https://numpy.org)  
-[https://github.com/numpy/numpy](https://github.com/numpy/numpy)  
-35 stars per week over 660 weeks  
-23,413 stars, 8,079 forks, 583 watches  
-created 2010-09-13, last commit 2023-05-05, main language Python  
-<sub><sup>numpy</sup></sub>
+The fundamental package for scientific computing with Python.  
+Score: 75/100, Stars: 23,413, Stars/week: 35, Forks: 8,079  
 
 
-### [scipy](https://github.com/scipy/scipy)  
-SciPy library main repository  
+<a href="https://github.com/scipy)">scipy</a>/<b><a href="https://github.com/scipy/scipy">scipy</a></b>  
 [https://scipy.org](https://scipy.org)  
-[https://github.com/scipy/scipy](https://github.com/scipy/scipy)  
-17 stars per week over 635 weeks  
-11,193 stars, 4,709 forks, 349 watches  
-created 2011-03-09, last commit 2023-05-05, main language Python  
-<sub><sup>algorithms, closember, scientific-computing, scipy</sup></sub>
+SciPy library main repository  
+Score: 69/100, Stars: 11,193, Stars/week: 17, Forks: 4,709  
 
 
-### [sympy](https://github.com/sympy/sympy)  
-A computer algebra system written in pure Python  
+<a href="https://github.com/sympy)">sympy</a>/<b><a href="https://github.com/sympy/sympy">sympy</a></b>  
 [https://sympy.org/](https://sympy.org/)  
-[https://github.com/sympy/sympy](https://github.com/sympy/sympy)  
-15 stars per week over 679 weeks  
-10,646 stars, 3,958 forks, 290 watches  
-created 2010-04-30, last commit 2023-05-05, main language Python  
-<sub><sup>computer-algebra, hacktoberfest, math, science</sup></sub>
+A computer algebra system written in pure Python  
+Score: 66/100, Stars: 10,646, Stars/week: 15, Forks: 3,958  
 
 
-### [cupy](https://github.com/cupy/cupy)  
-NumPy & SciPy for GPU  
+<a href="https://github.com/cupy)">cupy</a>/<b><a href="https://github.com/cupy/cupy">cupy</a></b>  
 [https://cupy.dev](https://cupy.dev)  
-[https://github.com/cupy/cupy](https://github.com/cupy/cupy)  
-20 stars per week over 340 weeks  
-6,875 stars, 683 forks, 128 watches  
-created 2016-11-01, last commit 2023-04-27, main language Python  
-<sub><sup>cublas, cuda, cudnn, cupy, curand, cusolver, cusparse, cusparselt, cutensor, gpu, nccl, numpy, nvrtc, nvtx, rocm, scipy, tensor</sup></sub>
+NumPy & SciPy for GPU  
+Score: 64/100, Stars: 6,875, Stars/week: 20, Forks: 683  
 
 
-### [theseus](https://github.com/facebookresearch/theseus) by [facebookresearch](https://github.com/facebookresearch)  
+<a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/theseus">theseus</a></b>  
 A library for differentiable nonlinear optimization  
-[https://github.com/facebookresearch/theseus](https://github.com/facebookresearch/theseus)  
-16 stars per week over 77 weeks  
-1,289 stars, 90 forks, 25 watches  
-created 2021-11-18, last commit 2023-05-04, main language Python  
-<sub><sup>bilevel-optimization, computer-vision, deep-learning, differentiable-optimization, embodied-ai, gauss-newton, implicit-differentiation, levenberg-marquardt, nonlinear-least-squares, pytorch, robotics</sup></sub>
+Score: 51/100, Stars: 1,289, Stars/week: 16, Forks: 90  
 
 
-### [pyomo](https://github.com/pyomo/pyomo)  
-An object-oriented algebraic modeling language in Python for structured optimization problems.  
+<a href="https://github.com/pyomo)">pyomo</a>/<b><a href="https://github.com/pyomo/pyomo">pyomo</a></b>  
 [https://www.pyomo.org](https://www.pyomo.org)  
-[https://github.com/pyomo/pyomo](https://github.com/pyomo/pyomo)  
-4.23 stars per week over 362 weeks  
-1,534 stars, 441 forks, 59 watches  
-created 2016-05-27, last commit 2023-05-05, main language Python  
-<sub><sup>linear-programming, mathematical-programming, modeling-language, nonlinear-programming, optimization</sup></sub>
+An object-oriented algebraic modeling language in Python for structured optimization problems.  
+Score: 48/100, Stars: 1,534, Stars/week: 4.23, Forks: 441  
 
 
-### [mpmath](https://github.com/fredrik-johansson/mpmath) by [fredrik-johansson](https://github.com/fredrik-johansson)  
-Python library for arbitrary-precision floating-point arithmetic  
+<a href="https://github.com/fredrik-johansson)">fredrik-johansson</a>/<b><a href="https://github.com/fredrik-johansson/mpmath">mpmath</a></b>  
 [http://mpmath.org](http://mpmath.org)  
-[https://github.com/fredrik-johansson/mpmath](https://github.com/fredrik-johansson/mpmath)  
-1.29 stars per week over 596 weeks  
-770 stars, 160 forks, 38 watches  
-created 2011-12-07, last commit 2023-04-30, main language Python  
-<sub><sup>arbitrary-precision, complex-numbers, floating-point, multiprecision, numerical-integration, numerical-methods, numerical-optimization, ordinary-differential-equations, plotting, special-functions</sup></sub>
+Python library for arbitrary-precision floating-point arithmetic  
+Score: 36/100, Stars: 770, Stars/week: 1.29, Forks: 160  
 
 
-### [PyNeuraLogic](https://github.com/lukaszahradnik/pyneuralogic) by [lukaszahradnik](https://github.com/lukaszahradnik)  
-PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
+<a href="https://github.com/lukaszahradnik)">lukaszahradnik</a>/<b><a href="https://github.com/lukaszahradnik/pyneuralogic">PyNeuraLogic</a></b>  
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
-[https://github.com/lukaszahradnik/pyneuralogic](https://github.com/lukaszahradnik/pyneuralogic)  
-1.82 stars per week over 126 weeks  
-230 stars, 18 forks, 4 watches  
-created 2020-12-06, last commit 2023-05-03, main language Python  
-<sub><sup>deep-learning, differentiable-programming, geometric-deep-learning, graph-neural-networks, logic-programming, machine-learning, pytorch, relational-learning</sup></sub>
+PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
+Score: 33/100, Stars: 230, Stars/week: 1.82, Forks: 18  
 
 
-### [torchsde](https://github.com/google-research/torchsde) by [google-research](https://github.com/google-research)  
+<a href="https://github.com/google-research)">google-research</a>/<b><a href="https://github.com/google-research/torchsde">torchsde</a></b>  
 Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
-[https://github.com/google-research/torchsde](https://github.com/google-research/torchsde)  
-8.43 stars per week over 148 weeks  
-1,251 stars, 152 forks, 35 watches  
-created 2020-07-06, last commit 2021-07-26, main language Python  
-<sub><sup>deep-learning, deep-neural-networks, differential-equations, dynamical-systems, neural-differential-equations, pytorch, stochastic-differential-equations, stochastic-processes, stochastic-volatility-models</sup></sub>
+Score: 32/100, Stars: 1,251, Stars/week: 8.43, Forks: 152  
 
 
-### [tfcausalimpact](https://github.com/willianfuks/tfcausalimpact) by [willianfuks](https://github.com/willianfuks)  
+<a href="https://github.com/willianfuks)">willianfuks</a>/<b><a href="https://github.com/willianfuks/tfcausalimpact">tfcausalimpact</a></b>  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
-[https://github.com/willianfuks/tfcausalimpact](https://github.com/willianfuks/tfcausalimpact)  
-2.91 stars per week over 142 weeks  
-415 stars, 53 forks, 10 watches  
-created 2020-08-17, last commit 2022-12-20, main language Python  
-<sub><sup>causal-inference, causalimpact, tensorflow-probability</sup></sub>
+Score: 27/100, Stars: 415, Stars/week: 2.91, Forks: 53  
 
 
-### [AI-Feynman](https://github.com/sj001/ai-feynman) by [sj001](https://github.com/sj001)  
+<a href="https://github.com/sj001)">sj001</a>/<b><a href="https://github.com/sj001/ai-feynman">AI-Feynman</a></b>  
 sj001/AI-Feynman  
-[https://github.com/sj001/ai-feynman](https://github.com/sj001/ai-feynman)  
-3.04 stars per week over 165 weeks  
-504 stars, 151 forks, 24 watches  
-created 2020-03-08, last commit 2021-05-16, main language Python  
+Score: 21/100, Stars: 504, Stars/week: 3.04, Forks: 151  
 
 
-### [dit](https://github.com/dit/dit)  
-Python package for information theory.  
+<a href="https://github.com/dit)">dit</a>/<b><a href="https://github.com/dit/dit">dit</a></b>  
 [http://docs.dit.io](http://docs.dit.io)  
-[https://github.com/dit/dit](https://github.com/dit/dit)  
-0.87 stars per week over 501 weeks  
-435 stars, 79 forks, 24 watches  
-created 2013-09-29, last commit 2022-07-25, main language Python  
-<sub><sup>information-theory</sup></sub>
+Python package for information theory.  
+Score: 20/100, Stars: 435, Stars/week: 0.87, Forks: 79  
 
 
-### [fraqtive](https://github.com/mimecorg/fraqtive) by [mimecorg](https://github.com/mimecorg)  
-Generator of the Mandelbrot family fractals.  
+<a href="https://github.com/mimecorg)">mimecorg</a>/<b><a href="https://github.com/mimecorg/fraqtive">fraqtive</a></b>  
 [https://fraqtive.mimec.org/](https://fraqtive.mimec.org/)  
-[https://github.com/mimecorg/fraqtive](https://github.com/mimecorg/fraqtive)  
-0.1 stars per week over 269 weeks  
-28 stars, 7 forks, 3 watches  
-created 2018-03-09, last commit 2023-03-06, main language C++  
-<sub><sup>fractal, mandelbrot, qt</sup></sub>
+Generator of the Mandelbrot family fractals.  
+Score: 17/100, Stars: 28, Stars/week: 0.1, Forks: 7  
 
 
-### [pycircular](https://github.com/albahnsen/pycircular) by [albahnsen](https://github.com/albahnsen)  
+<a href="https://github.com/albahnsen)">albahnsen</a>/<b><a href="https://github.com/albahnsen/pycircular">pycircular</a></b>  
 pycircular is a Python module for circular data analysis  
-[https://github.com/albahnsen/pycircular](https://github.com/albahnsen/pycircular)  
-2.03 stars per week over 34 weeks  
-70 stars, 4 forks, 5 watches  
-created 2022-09-12, last commit 2023-01-21, main language Python  
+Score: 15/100, Stars: 70, Stars/week: 2.03, Forks: 4  
 
 
-### [pacal](https://github.com/jszymon/pacal) by [jszymon](https://github.com/jszymon)  
+<a href="https://github.com/jszymon)">jszymon</a>/<b><a href="https://github.com/jszymon/pacal">pacal</a></b>  
 PaCAL - ProbAbilistic CALculator  
-[https://github.com/jszymon/pacal](https://github.com/jszymon/pacal)  
-0.05 stars per week over 457 weeks  
-21 stars, 8 forks, 6 watches  
-created 2014-08-04, last commit 2022-11-02, main language Python  
+Score: 8/100, Stars: 21, Stars/week: 0.05, Forks: 8  
 
 
 This file was automatically generated on 2023-05-11.  
