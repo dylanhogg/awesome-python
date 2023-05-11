@@ -229,8 +229,8 @@
             "_age_weeks": 6,
             "_stars_per_week": 5824.47,
             "_topics": [
-                "language-model",
-                "chatbot"
+                "chatbot",
+                "language-model"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
             "_pop_score": 73.81,
@@ -1516,8 +1516,8 @@
             "_age_weeks": 7,
             "_stars_per_week": 4501.0,
             "_topics": [
-                "object-detection",
-                "instance-segmentation"
+                "instance-segmentation",
+                "object-detection"
             ],
             "_last_commit_date": "2023-05-02T00:00:00.000Z",
             "_pop_score": 73.1,
@@ -1544,8 +1544,8 @@
             "_age_weeks": 33,
             "_stars_per_week": 1053.16,
             "_topics": [
-                "speech-to-text",
-                "speech-recognition"
+                "speech-recognition",
+                "speech-to-text"
             ],
             "_last_commit_date": "2023-05-05T00:00:00.000Z",
             "_pop_score": 78.79,
@@ -1980,8 +1980,8 @@
             "_age_weeks": 23,
             "_stars_per_week": 191.26,
             "_topics": [
-                "tokeniser",
-                "chatgpt"
+                "chatgpt",
+                "tokeniser"
             ],
             "_last_commit_date": "2023-04-24T00:00:00.000Z",
             "_pop_score": 67.58,

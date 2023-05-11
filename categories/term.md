@@ -45,53 +45,47 @@ Score: 58/100, Stars: 13,800, Stars/week: 29, Forks: 1,342
 <a href="https://github.com/urwid)">urwid</a>/<b><a href="https://github.com/urwid/urwid">urwid</a></b>  
 [urwid.org](urwid.org)  
 Console user interface library for Python (official repo)  
-Score: 39/100, Stars: 2,587, Stars/week: 3.75, Forks: 313  
+Score: 39/100, Stars: 2,587, Stars/week: 4, Forks: 313  
 
 
 <a href="https://github.com/jazzband)">jazzband</a>/<b><a href="https://github.com/jazzband/prettytable">prettytable</a></b>  
 [https://pypi.org/project/PrettyTable/](https://pypi.org/project/PrettyTable/)  
 Display tabular data in a visually appealing ASCII table format  
-Score: 39/100, Stars: 1,011, Stars/week: 2.65, Forks: 122  
+Score: 39/100, Stars: 1,011, Stars/week: 3, Forks: 122  
 
 
 <a href="https://github.com/jquast)">jquast</a>/<b><a href="https://github.com/jquast/blessed">blessed</a></b>  
 [http://pypi.python.org/pypi/blessed](http://pypi.python.org/pypi/blessed)  
 Blessed is an easy, practical library for making python terminal apps  
-Score: 35/100, Stars: 912, Stars/week: 1.9, Forks: 66  
+Score: 35/100, Stars: 912, Stars/week: 2, Forks: 66  
 
 
 <a href="https://github.com/manrajgrover)">manrajgrover</a>/<b><a href="https://github.com/manrajgrover/halo">halo</a></b>  
 💫 Beautiful spinners for terminal, IPython and Jupyter  
-Score: 35/100, Stars: 2,731, Stars/week: 9.21, Forks: 141  
+Score: 35/100, Stars: 2,731, Stars/week: 9, Forks: 141  
 
 
 <a href="https://github.com/rockhopper-technologies)">rockhopper-technologies</a>/<b><a href="https://github.com/rockhopper-technologies/enlighten">enlighten</a></b>  
 [https://python-enlighten.readthedocs.io](https://python-enlighten.readthedocs.io)  
 Enlighten Progress Bar for Python Console Apps  
-Score: 27/100, Stars: 292, Stars/week: 0.99, Forks: 20  
+Score: 27/100, Stars: 292, Stars/week: 1, Forks: 20  
 
 
 <a href="https://github.com/matthewdeanmartin)">matthewdeanmartin</a>/<b><a href="https://github.com/matthewdeanmartin/terminaltables">terminaltables</a></b>  
 [https://robpol86.github.io/terminaltables](https://robpol86.github.io/terminaltables)  
 Generate simple tables in terminals from a nested list of strings.  
-Score: 13/100, Stars: 27, Stars/week: 0.36, Forks: 5  
+Score: 13/100, Stars: 27, Stars/week: 0, Forks: 5  
 
 
 <a href="https://github.com/federicoceratto)">federicoceratto</a>/<b><a href="https://github.com/federicoceratto/dashing">dashing</a></b>  
 [https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
 Terminal dashboards for Python  
-Score: 11/100, Stars: 355, Stars/week: 1.15, Forks: 30  
+Score: 11/100, Stars: 355, Stars/week: 1, Forks: 30  
 
 
 <a href="https://github.com/deeplook)">deeplook</a>/<b><a href="https://github.com/deeplook/sparklines">sparklines</a></b>  
 Text-based sparkline command line mimicking those of Edward Tuft.  
-Score: 11/100, Stars: 84, Stars/week: 0.23, Forks: 5  
+Score: 11/100, Stars: 84, Stars/week: 0, Forks: 5  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

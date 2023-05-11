@@ -21,7 +21,7 @@ Score: 84/100, Stars: 14,330, Stars/week: 289, Forks: 2,880
 
 <a href="https://github.com/automatic1111)">automatic1111</a>/<b><a href="https://github.com/automatic1111/stable-diffusion-webui">stable-diffusion-webui</a></b>  
 Stable Diffusion web UI  
-Score: 82/100, Stars: 71,950, Stars/week: 1,922, Forks: 13,651  
+Score: 82/100, Stars: 71,950, Stars/week: 1922, Forks: 13,651  
 
 
 <a href="https://github.com/apple)">apple</a>/<b><a href="https://github.com/apple/ml-stable-diffusion">ml-stable-diffusion</a></b>  
@@ -42,7 +42,7 @@ Score: 72/100, Stars: 6,565, Stars/week: 187, Forks: 345
 
 <a href="https://github.com/lllyasviel)">lllyasviel</a>/<b><a href="https://github.com/lllyasviel/controlnet">ControlNet</a></b>  
 Let us control diffusion models!  
-Score: 72/100, Stars: 18,509, Stars/week: 1,308, Forks: 1,719  
+Score: 72/100, Stars: 18,509, Stars/week: 1308, Forks: 1,719  
 
 
 <a href="https://github.com/ashawkey)">ashawkey</a>/<b><a href="https://github.com/ashawkey/stable-dreamfusion">stable-dreamfusion</a></b>  
@@ -68,7 +68,7 @@ Score: 67/100, Stars: 1,685, Stars/week: 187, Forks: 143
 <a href="https://github.com/compvis)">compvis</a>/<b><a href="https://github.com/compvis/stable-diffusion">stable-diffusion</a></b>  
 [https://ommer-lab.com/research/latent-diffusion-models/](https://ommer-lab.com/research/latent-diffusion-models/)  
 A latent text-to-image diffusion model  
-Score: 66/100, Stars: 53,167, Stars/week: 1,358, Forks: 8,280  
+Score: 66/100, Stars: 53,167, Stars/week: 1358, Forks: 8,280  
 
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/dinov2">dinov2</a></b>  
@@ -167,12 +167,12 @@ Score: 37/100, Stars: 3,161, Stars/week: 42, Forks: 448
 
 <a href="https://github.com/albarji)">albarji</a>/<b><a href="https://github.com/albarji/mixture-of-diffusers">mixture-of-diffusers</a></b>  
 Mixture of Diffusers for scene composition and high resolution image generation  
-Score: 32/100, Stars: 226, Stars/week: 6.06, Forks: 25  
+Score: 32/100, Stars: 226, Stars/week: 6, Forks: 25  
 
 
 <a href="https://github.com/lunarring)">lunarring</a>/<b><a href="https://github.com/lunarring/latentblending">latentblending</a></b>  
 Create butter-smooth transitions between prompts, powered by stable diffusion  
-Score: 31/100, Stars: 238, Stars/week: 9.63, Forks: 21  
+Score: 31/100, Stars: 238, Stars/week: 10, Forks: 21  
 
 
 <a href="https://github.com/sharonzhou)">sharonzhou</a>/<b><a href="https://github.com/sharonzhou/long_stable_diffusion">long_stable_diffusion</a></b>  
@@ -185,10 +185,4 @@ A minimal PyTorch implementation of probabilistic diffusion models for 2D datase
 Score: 29/100, Stars: 385, Stars/week: 22, Forks: 31  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

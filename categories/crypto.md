@@ -39,7 +39,7 @@ Score: 52/100, Stars: 4,115, Stars/week: 16, Forks: 756
 <a href="https://github.com/ethereum)">ethereum</a>/<b><a href="https://github.com/ethereum/py-evm">py-evm</a></b>  
 [https://py-evm.readthedocs.io/en/latest/](https://py-evm.readthedocs.io/en/latest/)  
 A Python implementation of the Ethereum Virtual Machine  
-Score: 44/100, Stars: 1,971, Stars/week: 5.93, Forks: 590  
+Score: 44/100, Stars: 1,971, Stars/week: 6, Forks: 590  
 
 
 <a href="https://github.com/cyberpunkmetalhead)">cyberpunkmetalhead</a>/<b><a href="https://github.com/cyberpunkmetalhead/binance-volatility-trading-bot">Binance-volatility-trading-bot</a></b>  
@@ -49,68 +49,62 @@ Score: 42/100, Stars: 3,254, Stars/week: 31, Forks: 757
 
 <a href="https://github.com/binance)">binance</a>/<b><a href="https://github.com/binance/binance-public-data">binance-public-data</a></b>  
 Details on how to get Binance public data  
-Score: 39/100, Stars: 1,086, Stars/week: 7.68, Forks: 381  
+Score: 39/100, Stars: 1,086, Stars/week: 8, Forks: 381  
 
 
 <a href="https://github.com/bmoscon)">bmoscon</a>/<b><a href="https://github.com/bmoscon/cryptofeed">cryptofeed</a></b>  
 Cryptocurrency Exchange Websocket Data Feed Handler  
-Score: 38/100, Stars: 1,754, Stars/week: 6.23, Forks: 554  
+Score: 38/100, Stars: 1,754, Stars/week: 6, Forks: 554  
 
 
 <a href="https://github.com/ethtx)">ethtx</a>/<b><a href="https://github.com/ethtx/ethtx">ethtx</a></b>  
 [https://www.ethtx.info](https://www.ethtx.info)  
 Python package with core transaction decoding functions.  
-Score: 32/100, Stars: 412, Stars/week: 4.23, Forks: 67  
+Score: 32/100, Stars: 412, Stars/week: 4, Forks: 67  
 
 
 <a href="https://github.com/palkeo)">palkeo</a>/<b><a href="https://github.com/palkeo/panoramix">panoramix</a></b>  
 Ethereum decompiler  
-Score: 30/100, Stars: 617, Stars/week: 3.66, Forks: 163  
+Score: 30/100, Stars: 617, Stars/week: 4, Forks: 163  
 
 
 <a href="https://github.com/man-c)">man-c</a>/<b><a href="https://github.com/man-c/pycoingecko">pycoingecko</a></b>  
 Python wrapper for the CoinGecko API  
-Score: 30/100, Stars: 975, Stars/week: 3.97, Forks: 259  
+Score: 30/100, Stars: 975, Stars/week: 4, Forks: 259  
 
 
 <a href="https://github.com/ethereum)">ethereum</a>/<b><a href="https://github.com/ethereum/eth-utils">eth-utils</a></b>  
 [https://eth-utils.readthedocs.io/en/latest/](https://eth-utils.readthedocs.io/en/latest/)  
 Utility functions for working with ethereum related codebases.  
-Score: 29/100, Stars: 274, Stars/week: 0.84, Forks: 144  
+Score: 29/100, Stars: 274, Stars/week: 1, Forks: 144  
 
 
 <a href="https://github.com/ofek)">ofek</a>/<b><a href="https://github.com/ofek/bit">bit</a></b>  
 [https://ofek.dev/bit/](https://ofek.dev/bit/)  
 Bitcoin made easy.  
-Score: 26/100, Stars: 1,144, Stars/week: 3.38, Forks: 193  
+Score: 26/100, Stars: 1,144, Stars/week: 3, Forks: 193  
 
 
 <a href="https://github.com/ethtx)">ethtx</a>/<b><a href="https://github.com/ethtx/ethtx_ce">ethtx_ce</a></b>  
 [https://ethtx.info](https://ethtx.info)  
 Ethereum transaction decoder (community version).  
-Score: 20/100, Stars: 251, Stars/week: 2.69, Forks: 62  
+Score: 20/100, Stars: 251, Stars/week: 3, Forks: 62  
 
 
 <a href="https://github.com/pmaji)">pmaji</a>/<b><a href="https://github.com/pmaji/crypto-whale-watching-app">crypto-whale-watching-app</a></b>  
 Python Dash app that tracks whale activity in cryptocurrency markets.  
-Score: 19/100, Stars: 566, Stars/week: 2.05, Forks: 134  
+Score: 19/100, Stars: 566, Stars/week: 2, Forks: 134  
 
 
 <a href="https://github.com/blockchainsllc)">blockchainsllc</a>/<b><a href="https://github.com/blockchainsllc/in3">in3</a></b>  
 [https://in3.readthedocs.io/en/develop/index.html](https://in3.readthedocs.io/en/develop/index.html)  
 The IN3 client (written in C).  
-Score: 18/100, Stars: 69, Stars/week: 0.36, Forks: 21  
+Score: 18/100, Stars: 69, Stars/week: 0, Forks: 21  
 
 
 <a href="https://github.com/nerolation)">nerolation</a>/<b><a href="https://github.com/nerolation/ethereum-datafarm">ethereum-datafarm</a></b>  
 Scrap blockchain data from the public API of Etherscan.io  
-Score: 11/100, Stars: 50, Stars/week: 0.44, Forks: 10  
+Score: 11/100, Stars: 50, Stars/week: 0, Forks: 10  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

@@ -22,34 +22,28 @@ Score: 41/100, Stars: 2,687, Stars/week: 10, Forks: 409
 <a href="https://github.com/westhealth)">westhealth</a>/<b><a href="https://github.com/westhealth/pyvis">pyvis</a></b>  
 [http://pyvis.readthedocs.io/en/latest/](http://pyvis.readthedocs.io/en/latest/)  
 Python package for creating and visualizing interactive network graphs.  
-Score: 33/100, Stars: 650, Stars/week: 2.49, Forks: 121  
+Score: 33/100, Stars: 650, Stars/week: 2, Forks: 121  
 
 
 <a href="https://github.com/rampasek)">rampasek</a>/<b><a href="https://github.com/rampasek/graphgps">GraphGPS</a></b>  
 Recipe for a General, Powerful, Scalable Graph Transformer  
-Score: 28/100, Stars: 366, Stars/week: 7.28, Forks: 51  
+Score: 28/100, Stars: 366, Stars/week: 7, Forks: 51  
 
 
 <a href="https://github.com/h4kor)">h4kor</a>/<b><a href="https://github.com/h4kor/graph-force">graph-force</a></b>  
 [https://pypi.org/project/graph-force/](https://pypi.org/project/graph-force/)  
 Python library for embedding large graphs in 2D space, using force-directed layouts.  
-Score: 19/100, Stars: 164, Stars/week: 7.0, Forks: 0  
+Score: 19/100, Stars: 164, Stars/week: 7, Forks: 0  
 
 
 <a href="https://github.com/hamed1375)">hamed1375</a>/<b><a href="https://github.com/hamed1375/exphormer">Exphormer</a></b>  
 Exphormer: Sparse Transformer for Graphs  
-Score: 16/100, Stars: 39, Stars/week: 4.07, Forks: 7  
+Score: 16/100, Stars: 39, Stars/week: 4, Forks: 7  
 
 
 <a href="https://github.com/guyallard)">guyallard</a>/<b><a href="https://github.com/guyallard/markov_clustering">markov_clustering</a></b>  
 markov clustering in python  
-Score: 5/100, Stars: 137, Stars/week: 0.47, Forks: 34  
+Score: 5/100, Stars: 137, Stars/week: 0, Forks: 34  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

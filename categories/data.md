@@ -145,30 +145,30 @@ Score: 55/100, Stars: 6,998, Stars/week: 23, Forks: 1,258
 
 <a href="https://github.com/sqlalchemy)">sqlalchemy</a>/<b><a href="https://github.com/sqlalchemy/alembic">alembic</a></b>  
 A database migrations tool for SQLAlchemy.  
-Score: 55/100, Stars: 1,911, Stars/week: 8.23, Forks: 184  
+Score: 55/100, Stars: 1,911, Stars/week: 8, Forks: 184  
 
 
 <a href="https://github.com/ibis-project)">ibis-project</a>/<b><a href="https://github.com/ibis-project/ibis">ibis</a></b>  
 [https://ibis-project.org](https://ibis-project.org)  
 The flexibility of Python with the scale and performance of modern SQL.  
-Score: 55/100, Stars: 2,671, Stars/week: 6.35, Forks: 412  
+Score: 55/100, Stars: 2,671, Stars/week: 6, Forks: 412  
 
 
 <a href="https://github.com/pytorch)">pytorch</a>/<b><a href="https://github.com/pytorch/data">data</a></b>  
 A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.  
-Score: 54/100, Stars: 966, Stars/week: 9.28, Forks: 123  
+Score: 54/100, Stars: 966, Stars/week: 9, Forks: 123  
 
 
 <a href="https://github.com/collerek)">collerek</a>/<b><a href="https://github.com/collerek/ormar">ormar</a></b>  
 [https://collerek.github.io/ormar/](https://collerek.github.io/ormar/)  
 python async orm with fastapi in mind and pydantic validation  
-Score: 49/100, Stars: 1,313, Stars/week: 9.08, Forks: 65  
+Score: 49/100, Stars: 1,313, Stars/week: 9, Forks: 65  
 
 
 <a href="https://github.com/zoomeranalytics)">zoomeranalytics</a>/<b><a href="https://github.com/zoomeranalytics/xlwings">xlwings</a></b>  
 [https://www.xlwings.org](https://www.xlwings.org)  
 xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.   
-Score: 49/100, Stars: 2,582, Stars/week: 5.41, Forks: 468  
+Score: 49/100, Stars: 2,582, Stars/week: 5, Forks: 468  
 
 
 <a href="https://github.com/airbnb)">airbnb</a>/<b><a href="https://github.com/airbnb/knowledge-repo">knowledge-repo</a></b>  
@@ -179,48 +179,48 @@ Score: 48/100, Stars: 5,317, Stars/week: 15, Forks: 710
 <a href="https://github.com/sdv-dev)">sdv-dev</a>/<b><a href="https://github.com/sdv-dev/sdv">SDV</a></b>  
 [https://sdv.dev/SDV](https://sdv.dev/SDV)  
 Synthetic Data Generation for tabular, relational and time series data.  
-Score: 48/100, Stars: 1,440, Stars/week: 5.52, Forks: 220  
+Score: 48/100, Stars: 1,440, Stars/week: 6, Forks: 220  
 
 
 <a href="https://github.com/jazzband)">jazzband</a>/<b><a href="https://github.com/jazzband/tablib">tablib</a></b>  
 [https://tablib.readthedocs.io/](https://tablib.readthedocs.io/)  
 Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  
-Score: 48/100, Stars: 4,249, Stars/week: 6.72, Forks: 577  
+Score: 48/100, Stars: 4,249, Stars/week: 7, Forks: 577  
 
 
 <a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/tensorstore">tensorstore</a></b>  
 [https://google.github.io/tensorstore/](https://google.github.io/tensorstore/)  
 Library for reading and writing large multi-dimensional arrays.  
-Score: 48/100, Stars: 1,143, Stars/week: 7.04, Forks: 89  
+Score: 48/100, Stars: 1,143, Stars/week: 7, Forks: 89  
 
 
 <a href="https://github.com/zarr-developers)">zarr-developers</a>/<b><a href="https://github.com/zarr-developers/zarr-python">zarr-python</a></b>  
 [http://zarr.readthedocs.io/](http://zarr.readthedocs.io/)  
 An implementation of chunked, compressed, N-dimensional arrays for Python.  
-Score: 47/100, Stars: 1,135, Stars/week: 2.94, Forks: 216  
+Score: 47/100, Stars: 1,135, Stars/week: 3, Forks: 216  
 
 
 <a href="https://github.com/jmcnamara)">jmcnamara</a>/<b><a href="https://github.com/jmcnamara/xlsxwriter">XlsxWriter</a></b>  
 [https://xlsxwriter.readthedocs.io](https://xlsxwriter.readthedocs.io)  
 A Python module for creating Excel XLSX files.  
-Score: 47/100, Stars: 3,227, Stars/week: 5.98, Forks: 601  
+Score: 47/100, Stars: 3,227, Stars/week: 6, Forks: 601  
 
 
 <a href="https://github.com/graphistry)">graphistry</a>/<b><a href="https://github.com/graphistry/pygraphistry">pygraphistry</a></b>  
 PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer  
-Score: 47/100, Stars: 1,847, Stars/week: 4.46, Forks: 193  
+Score: 47/100, Stars: 1,847, Stars/week: 4, Forks: 193  
 
 
 <a href="https://github.com/scikit-hep)">scikit-hep</a>/<b><a href="https://github.com/scikit-hep/awkward-1.0">awkward</a></b>  
 [https://awkward-array.org](https://awkward-array.org)  
 Manipulate JSON-like data with NumPy-like idioms.  
-Score: 47/100, Stars: 683, Stars/week: 3.5, Forks: 72  
+Score: 47/100, Stars: 683, Stars/week: 4, Forks: 72  
 
 
 <a href="https://github.com/mongodb)">mongodb</a>/<b><a href="https://github.com/mongodb/mongo-python-driver">mongo-python-driver</a></b>  
 [https://pymongo.readthedocs.io](https://pymongo.readthedocs.io)  
 PyMongo - the Official MongoDB Python driver  
-Score: 46/100, Stars: 3,832, Stars/week: 5.13, Forks: 1,105  
+Score: 46/100, Stars: 3,832, Stars/week: 5, Forks: 1,105  
 
 
 <a href="https://github.com/sfu-db)">sfu-db</a>/<b><a href="https://github.com/sfu-db/connector-x">connector-x</a></b>  
@@ -232,7 +232,7 @@ Score: 45/100, Stars: 1,235, Stars/week: 10, Forks: 90
 <a href="https://github.com/fugue-project)">fugue-project</a>/<b><a href="https://github.com/fugue-project/fugue">fugue</a></b>  
 [https://fugue-tutorials.readthedocs.io/](https://fugue-tutorials.readthedocs.io/)  
 A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.  
-Score: 45/100, Stars: 1,568, Stars/week: 9.6, Forks: 84  
+Score: 45/100, Stars: 1,568, Stars/week: 10, Forks: 84  
 
 
 <a href="https://github.com/s0md3v)">s0md3v</a>/<b><a href="https://github.com/s0md3v/photon">Photon</a></b>  
@@ -254,35 +254,35 @@ Score: 45/100, Stars: 15,854, Stars/week: 32, Forks: 3,674
 <a href="https://github.com/praw-dev)">praw-dev</a>/<b><a href="https://github.com/praw-dev/praw">praw</a></b>  
 [http://praw.readthedocs.io/](http://praw.readthedocs.io/)  
 PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.  
-Score: 44/100, Stars: 3,086, Stars/week: 4.65, Forks: 454  
+Score: 44/100, Stars: 3,086, Stars/week: 5, Forks: 454  
 
 
 <a href="https://github.com/pynamodb)">pynamodb</a>/<b><a href="https://github.com/pynamodb/pynamodb">PynamoDB</a></b>  
 [http://pynamodb.readthedocs.io](http://pynamodb.readthedocs.io)  
 A pythonic interface to Amazon's DynamoDB  
-Score: 43/100, Stars: 2,169, Stars/week: 4.47, Forks: 421  
+Score: 43/100, Stars: 2,169, Stars/week: 4, Forks: 421  
 
 
 <a href="https://github.com/googleapis)">googleapis</a>/<b><a href="https://github.com/googleapis/python-bigquery">python-bigquery</a></b>  
 googleapis/python-bigquery  
-Score: 43/100, Stars: 591, Stars/week: 3.31, Forks: 242  
+Score: 43/100, Stars: 591, Stars/week: 3, Forks: 242  
 
 
 <a href="https://github.com/datastax)">datastax</a>/<b><a href="https://github.com/datastax/python-driver">python-driver</a></b>  
 DataStax Python Driver for Apache Cassandra  
-Score: 43/100, Stars: 1,331, Stars/week: 2.59, Forks: 522  
+Score: 43/100, Stars: 1,331, Stars/week: 3, Forks: 522  
 
 
 <a href="https://github.com/uqfoundation)">uqfoundation</a>/<b><a href="https://github.com/uqfoundation/dill">dill</a></b>  
 [http://dill.rtfd.io](http://dill.rtfd.io)  
 serialize all of python  
-Score: 43/100, Stars: 1,907, Stars/week: 3.7, Forks: 160  
+Score: 43/100, Stars: 1,907, Stars/week: 4, Forks: 160  
 
 
 <a href="https://github.com/intake)">intake</a>/<b><a href="https://github.com/intake/intake">intake</a></b>  
 [https://intake.readthedocs.io/](https://intake.readthedocs.io/)  
 Intake is a lightweight package for finding, investigating, loading and disseminating data.  
-Score: 42/100, Stars: 892, Stars/week: 2.98, Forks: 128  
+Score: 42/100, Stars: 892, Stars/week: 3, Forks: 128  
 
 
 <a href="https://github.com/alirezamika)">alirezamika</a>/<b><a href="https://github.com/alirezamika/autoscraper">autoscraper</a></b>  
@@ -293,121 +293,121 @@ Score: 42/100, Stars: 5,138, Stars/week: 36, Forks: 549
 <a href="https://github.com/simonw)">simonw</a>/<b><a href="https://github.com/simonw/sqlite-utils">sqlite-utils</a></b>  
 [https://sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)  
 Python CLI utility and library for manipulating SQLite databases  
-Score: 42/100, Stars: 1,135, Stars/week: 4.51, Forks: 86  
+Score: 42/100, Stars: 1,135, Stars/week: 5, Forks: 86  
 
 
 <a href="https://github.com/uber)">uber</a>/<b><a href="https://github.com/uber/petastorm">petastorm</a></b>  
 Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  
-Score: 41/100, Stars: 1,614, Stars/week: 6.31, Forks: 274  
+Score: 41/100, Stars: 1,614, Stars/week: 6, Forks: 274  
 
 
 <a href="https://github.com/andialbrecht)">andialbrecht</a>/<b><a href="https://github.com/andialbrecht/sqlparse">sqlparse</a></b>  
 A non-validating SQL parser module for Python  
-Score: 40/100, Stars: 3,238, Stars/week: 5.61, Forks: 640  
+Score: 40/100, Stars: 3,238, Stars/week: 6, Forks: 640  
 
 
 <a href="https://github.com/pytables)">pytables</a>/<b><a href="https://github.com/pytables/pytables">PyTables</a></b>  
 [http://www.pytables.org](http://www.pytables.org)  
 A Python package to manage extremely large amounts of data  
-Score: 40/100, Stars: 1,203, Stars/week: 1.93, Forks: 247  
+Score: 40/100, Stars: 1,203, Stars/week: 2, Forks: 247  
 
 
 <a href="https://github.com/ydataai)">ydataai</a>/<b><a href="https://github.com/ydataai/ydata-synthetic">ydata-synthetic</a></b>  
 [https://datacentricai.community](https://datacentricai.community)  
 Synthetic data generators for tabular and time-series data  
-Score: 39/100, Stars: 955, Stars/week: 6.07, Forks: 201  
+Score: 39/100, Stars: 955, Stars/week: 6, Forks: 201  
 
 
 <a href="https://github.com/dask)">dask</a>/<b><a href="https://github.com/dask/fastparquet">fastparquet</a></b>  
 python implementation of the parquet columnar file format.  
-Score: 39/100, Stars: 657, Stars/week: 1.68, Forks: 167  
+Score: 39/100, Stars: 657, Stars/week: 2, Forks: 167  
 
 
 <a href="https://github.com/scholarly-python-package)">scholarly-python-package</a>/<b><a href="https://github.com/scholarly-python-package/scholarly">scholarly</a></b>  
 [https://scholarly.readthedocs.io/](https://scholarly.readthedocs.io/)  
 Retrieve author and publication information from Google Scholar in a friendly, Pythonic way without having to worry about CAPTCHAs!  
-Score: 39/100, Stars: 937, Stars/week: 2.13, Forks: 258  
+Score: 39/100, Stars: 937, Stars/week: 2, Forks: 258  
 
 
 <a href="https://github.com/aio-libs)">aio-libs</a>/<b><a href="https://github.com/aio-libs/aiocache">aiocache</a></b>  
 [http://aiocache.readthedocs.io](http://aiocache.readthedocs.io)  
 Asyncio cache manager for redis, memcached and memory  
-Score: 39/100, Stars: 834, Stars/week: 2.42, Forks: 129  
+Score: 39/100, Stars: 834, Stars/week: 2, Forks: 129  
 
 
 <a href="https://github.com/agronholm)">agronholm</a>/<b><a href="https://github.com/agronholm/sqlacodegen">sqlacodegen</a></b>  
 Automatic model code generator for SQLAlchemy  
-Score: 39/100, Stars: 1,380, Stars/week: 4.15, Forks: 205  
+Score: 39/100, Stars: 1,380, Stars/week: 4, Forks: 205  
 
 
 <a href="https://github.com/pallets)">pallets</a>/<b><a href="https://github.com/pallets/itsdangerous">itsdangerous</a></b>  
 [https://itsdangerous.palletsprojects.com](https://itsdangerous.palletsprojects.com)  
 Safely pass trusted data to untrusted environments and back.  
-Score: 38/100, Stars: 2,655, Stars/week: 4.28, Forks: 218  
+Score: 38/100, Stars: 2,655, Stars/week: 4, Forks: 218  
 
 
 <a href="https://github.com/aio-libs)">aio-libs</a>/<b><a href="https://github.com/aio-libs/aiomysql">aiomysql</a></b>  
 [https://aiomysql.rtfd.io](https://aiomysql.rtfd.io)  
 aiomysql is a library for accessing a MySQL database from the asyncio  
-Score: 37/100, Stars: 1,581, Stars/week: 3.63, Forks: 247  
+Score: 37/100, Stars: 1,581, Stars/week: 4, Forks: 247  
 
 
 <a href="https://github.com/neo4j)">neo4j</a>/<b><a href="https://github.com/neo4j/neo4j-python-driver">neo4j-python-driver</a></b>  
 [https://neo4j.com/docs/api/python-driver/current/](https://neo4j.com/docs/api/python-driver/current/)  
 Neo4j Bolt driver for Python  
-Score: 37/100, Stars: 790, Stars/week: 1.89, Forks: 174  
+Score: 37/100, Stars: 790, Stars/week: 2, Forks: 174  
 
 
 <a href="https://github.com/jsonpickle)">jsonpickle</a>/<b><a href="https://github.com/jsonpickle/jsonpickle">jsonpickle</a></b>  
 [https://jsonpickle.github.io](https://jsonpickle.github.io)  
 Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.  
-Score: 36/100, Stars: 1,129, Stars/week: 1.61, Forks: 158  
+Score: 36/100, Stars: 1,129, Stars/week: 2, Forks: 158  
 
 
 <a href="https://github.com/eliasdabbas)">eliasdabbas</a>/<b><a href="https://github.com/eliasdabbas/advertools">advertools</a></b>  
 [https://advertools.readthedocs.io](https://advertools.readthedocs.io)  
 advertools - online marketing productivity and analysis tools  
-Score: 36/100, Stars: 817, Stars/week: 2.61, Forks: 169  
+Score: 36/100, Stars: 817, Stars/week: 3, Forks: 169  
 
 
 <a href="https://github.com/bigscience-workshop)">bigscience-workshop</a>/<b><a href="https://github.com/bigscience-workshop/biomedical">biomedical</a></b>  
 Tools for curating biomedical training data for large-scale language modeling   
-Score: 36/100, Stars: 317, Stars/week: 3.69, Forks: 99  
+Score: 36/100, Stars: 317, Stars/week: 4, Forks: 99  
 
 
 <a href="https://github.com/simple-salesforce)">simple-salesforce</a>/<b><a href="https://github.com/simple-salesforce/simple-salesforce">simple-salesforce</a></b>  
 A very simple Salesforce.com REST API client for Python  
-Score: 36/100, Stars: 1,431, Stars/week: 2.66, Forks: 624  
+Score: 36/100, Stars: 1,431, Stars/week: 3, Forks: 624  
 
 
 <a href="https://github.com/scylladb)">scylladb</a>/<b><a href="https://github.com/scylladb/python-driver">python-driver</a></b>  
 [https://python-driver.docs.scylladb.com](https://python-driver.docs.scylladb.com)  
 ScyllaDB Python Driver, originally DataStax Python Driver for Apache Cassandra  
-Score: 36/100, Stars: 45, Stars/week: 0.19, Forks: 28  
+Score: 36/100, Stars: 45, Stars/week: 0, Forks: 28  
 
 
 <a href="https://github.com/pyeve)">pyeve</a>/<b><a href="https://github.com/pyeve/cerberus">cerberus</a></b>  
 [http://python-cerberus.org](http://python-cerberus.org)  
 Lightweight, extensible data validation library for Python  
-Score: 36/100, Stars: 2,974, Stars/week: 5.39, Forks: 232  
+Score: 36/100, Stars: 2,974, Stars/week: 5, Forks: 232  
 
 
 <a href="https://github.com/aio-libs)">aio-libs</a>/<b><a href="https://github.com/aio-libs/aiokafka">aiokafka</a></b>  
 [http://aiokafka.readthedocs.io/](http://aiokafka.readthedocs.io/)  
 asyncio client for kafka  
-Score: 34/100, Stars: 875, Stars/week: 1.97, Forks: 191  
+Score: 34/100, Stars: 875, Stars/week: 2, Forks: 191  
 
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/mephisto">Mephisto</a></b>  
 [https://mephisto.ai/](https://mephisto.ai/)  
 A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.   
-Score: 34/100, Stars: 268, Stars/week: 1.38, Forks: 60  
+Score: 34/100, Stars: 268, Stars/week: 1, Forks: 60  
 
 
 <a href="https://github.com/hyperqueryhq)">hyperqueryhq</a>/<b><a href="https://github.com/hyperqueryhq/whale">whale</a></b>  
 [https://rsyi.gitbook.io/whale](https://rsyi.gitbook.io/whale)  
 🐳 The stupidly simple CLI workspace for your data warehouse.  
-Score: 34/100, Stars: 721, Stars/week: 4.68, Forks: 38  
+Score: 34/100, Stars: 721, Stars/week: 5, Forks: 38  
 
 
 <a href="https://github.com/vi3k6i5)">vi3k6i5</a>/<b><a href="https://github.com/vi3k6i5/flashtext">flashtext</a></b>  
@@ -418,19 +418,19 @@ Score: 33/100, Stars: 5,387, Stars/week: 17, Forks: 604
 <a href="https://github.com/aio-libs)">aio-libs</a>/<b><a href="https://github.com/aio-libs/aiopg">aiopg</a></b>  
 [http://aiopg.readthedocs.io](http://aiopg.readthedocs.io)  
 aiopg is a library for accessing a PostgreSQL database from the asyncio  
-Score: 33/100, Stars: 1,313, Stars/week: 2.76, Forks: 159  
+Score: 33/100, Stars: 1,313, Stars/week: 3, Forks: 159  
 
 
 <a href="https://github.com/macbre)">macbre</a>/<b><a href="https://github.com/macbre/sql-metadata">sql-metadata</a></b>  
 [https://pypi.python.org/pypi/sql-metadata](https://pypi.python.org/pypi/sql-metadata)  
 Uses tokenized query returned by python-sqlparse and generates query metadata  
-Score: 32/100, Stars: 538, Stars/week: 1.74, Forks: 90  
+Score: 32/100, Stars: 538, Stars/week: 2, Forks: 90  
 
 
 <a href="https://github.com/pinecone-io)">pinecone-io</a>/<b><a href="https://github.com/pinecone-io/pinecone-python-client">pinecone-python-client</a></b>  
 [https://www.pinecone.io/docs](https://www.pinecone.io/docs)  
 The Pinecone Python client   
-Score: 32/100, Stars: 100, Stars/week: 1.16, Forks: 22  
+Score: 32/100, Stars: 100, Stars/week: 1, Forks: 22  
 
 
 <a href="https://github.com/mchong6)">mchong6</a>/<b><a href="https://github.com/mchong6/jojogan">JoJoGAN</a></b>  
@@ -441,143 +441,137 @@ Score: 31/100, Stars: 1,317, Stars/week: 18, Forks: 198
 <a href="https://github.com/sdispater)">sdispater</a>/<b><a href="https://github.com/sdispater/orator">orator</a></b>  
 [https://orator-orm.com](https://orator-orm.com)  
 The Orator ORM provides a simple yet beautiful ActiveRecord implementation.  
-Score: 31/100, Stars: 1,392, Stars/week: 3.35, Forks: 166  
+Score: 31/100, Stars: 1,392, Stars/week: 3, Forks: 166  
 
 
 <a href="https://github.com/koaning)">koaning</a>/<b><a href="https://github.com/koaning/human-learn">human-learn</a></b>  
 [https://koaning.github.io/human-learn/](https://koaning.github.io/human-learn/)  
 Natural Intelligence is still a pretty good idea.  
-Score: 31/100, Stars: 705, Stars/week: 4.77, Forks: 54  
+Score: 31/100, Stars: 705, Stars/week: 5, Forks: 54  
 
 
 <a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/weather-tools">weather-tools</a></b>  
 [https://weather-tools.readthedocs.io/](https://weather-tools.readthedocs.io/)  
 Apache Beam pipelines to make weather data accessible and useful.  
-Score: 30/100, Stars: 135, Stars/week: 1.77, Forks: 32  
+Score: 30/100, Stars: 135, Stars/week: 2, Forks: 32  
 
 
 <a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/the-pile">the-pile</a></b>  
 eleutherai/the-pile  
-Score: 30/100, Stars: 1,061, Stars/week: 7.52, Forks: 87  
+Score: 30/100, Stars: 1,061, Stars/week: 8, Forks: 87  
 
 
 <a href="https://github.com/goldsmith)">goldsmith</a>/<b><a href="https://github.com/goldsmith/wikipedia">Wikipedia</a></b>  
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 A Pythonic wrapper for the Wikipedia API  
-Score: 30/100, Stars: 2,615, Stars/week: 5.15, Forks: 527  
+Score: 30/100, Stars: 2,615, Stars/week: 5, Forks: 527  
 
 
 <a href="https://github.com/ydataai)">ydataai</a>/<b><a href="https://github.com/ydataai/ydata-quality">ydata-quality</a></b>  
 Data Quality assessment with one line of code  
-Score: 30/100, Stars: 361, Stars/week: 3.68, Forks: 45  
+Score: 30/100, Stars: 361, Stars/week: 4, Forks: 45  
 
 
 <a href="https://github.com/amzn)">amzn</a>/<b><a href="https://github.com/amzn/ion-python">ion-python</a></b>  
 [https://amazon-ion.github.io/ion-docs/](https://amazon-ion.github.io/ion-docs/)  
 A Python implementation of Amazon Ion.  
-Score: 28/100, Stars: 227, Stars/week: 0.61, Forks: 51  
+Score: 28/100, Stars: 227, Stars/week: 1, Forks: 51  
 
 
 <a href="https://github.com/uber)">uber</a>/<b><a href="https://github.com/uber/fiber">fiber</a></b>  
 [https://uber.github.io/fiber/](https://uber.github.io/fiber/)  
 Distributed Computing for AI Made Simple  
-Score: 25/100, Stars: 1,016, Stars/week: 5.83, Forks: 116  
+Score: 25/100, Stars: 1,016, Stars/week: 6, Forks: 116  
 
 
 <a href="https://github.com/ktrueda)">ktrueda</a>/<b><a href="https://github.com/ktrueda/parquet-tools">parquet-tools</a></b>  
 easy install parquet-tools  
-Score: 23/100, Stars: 110, Stars/week: 0.7, Forks: 14  
+Score: 23/100, Stars: 110, Stars/week: 1, Forks: 14  
 
 
 <a href="https://github.com/dmarx)">dmarx</a>/<b><a href="https://github.com/dmarx/psaw">psaw</a></b>  
 Python Pushshift.io API Wrapper (for comment/submission search)  
-Score: 22/100, Stars: 345, Stars/week: 1.3, Forks: 56  
+Score: 22/100, Stars: 345, Stars/week: 1, Forks: 56  
 
 
 <a href="https://github.com/airbnb)">airbnb</a>/<b><a href="https://github.com/airbnb/omniduct">omniduct</a></b>  
 A toolkit providing a uniform interface for connecting to and extracting data from a wide variety of (potentially remote) data stores (including HDFS, Hive, Presto, MySQL, etc).  
-Score: 22/100, Stars: 247, Stars/week: 0.76, Forks: 50  
+Score: 22/100, Stars: 247, Stars/week: 1, Forks: 50  
 
 
 <a href="https://github.com/mattbierbaum)">mattbierbaum</a>/<b><a href="https://github.com/mattbierbaum/arxiv-public-datasets">arxiv-public-datasets</a></b>  
 [https://arxiv.org/abs/1905.00075](https://arxiv.org/abs/1905.00075)  
 A set of scripts to grab public datasets from resources related to arXiv  
-Score: 22/100, Stars: 274, Stars/week: 1.23, Forks: 48  
+Score: 22/100, Stars: 274, Stars/week: 1, Forks: 48  
 
 
 <a href="https://github.com/qdrant)">qdrant</a>/<b><a href="https://github.com/qdrant/qdrant-haystack">qdrant-haystack</a></b>  
 An integration of Qdrant ANN vector database backend with Haystack   
-Score: 22/100, Stars: 20, Stars/week: 1.4, Forks: 3  
+Score: 22/100, Stars: 20, Stars/week: 1, Forks: 3  
 
 
 <a href="https://github.com/vmiklos)">vmiklos</a>/<b><a href="https://github.com/vmiklos/ged2dot">ged2dot</a></b>  
 [https://vmiklos.hu/ged2dot/](https://vmiklos.hu/ged2dot/)  
 GEDCOM to Graphviz converter  
-Score: 21/100, Stars: 89, Stars/week: 0.18, Forks: 18  
+Score: 21/100, Stars: 89, Stars/week: 0, Forks: 18  
 
 
 <a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/genalog">genalog</a></b>  
 [https://microsoft.github.io/genalog/](https://microsoft.github.io/genalog/)  
 Genalog is an open source, cross-platform python package allowing generation of synthetic document images with custom degradations and text alignment capabilities.  
-Score: 19/100, Stars: 246, Stars/week: 1.62, Forks: 24  
+Score: 19/100, Stars: 246, Stars/week: 2, Forks: 24  
 
 
 <a href="https://github.com/tokern)">tokern</a>/<b><a href="https://github.com/tokern/data-lineage">data-lineage</a></b>  
 [https://tokern.io/data-lineage/](https://tokern.io/data-lineage/)  
 Generate and Visualize Data Lineage from query history  
-Score: 19/100, Stars: 256, Stars/week: 1.56, Forks: 33  
+Score: 19/100, Stars: 256, Stars/week: 2, Forks: 33  
 
 
 <a href="https://github.com/weaviate)">weaviate</a>/<b><a href="https://github.com/weaviate/semantic-search-through-wikipedia-with-weaviate">semantic-search-through-wikipedia-with-weaviate</a></b>  
 Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine  
-Score: 19/100, Stars: 216, Stars/week: 2.69, Forks: 21  
+Score: 19/100, Stars: 216, Stars/week: 3, Forks: 21  
 
 
 <a href="https://github.com/paperswithcode)">paperswithcode</a>/<b><a href="https://github.com/paperswithcode/sota-extractor">sota-extractor</a></b>  
 The SOTA extractor pipeline  
-Score: 18/100, Stars: 255, Stars/week: 1.1, Forks: 28  
+Score: 18/100, Stars: 255, Stars/week: 1, Forks: 28  
 
 
 <a href="https://github.com/jovianml)">jovianml</a>/<b><a href="https://github.com/jovianml/opendatasets">opendatasets</a></b>  
 A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.  
-Score: 17/100, Stars: 262, Stars/week: 1.9, Forks: 126  
+Score: 17/100, Stars: 262, Stars/week: 2, Forks: 126  
 
 
 <a href="https://github.com/psycoguana)">psycoguana</a>/<b><a href="https://github.com/psycoguana/subredditmediadownloader">SubredditMediaDownloader</a></b>  
 Simple Python script to download images and videos from public subreddits without using Reddit's API 😎  
-Score: 16/100, Stars: 116, Stars/week: 1.82, Forks: 10  
+Score: 16/100, Stars: 116, Stars/week: 2, Forks: 10  
 
 
 <a href="https://github.com/nickreynke)">nickreynke</a>/<b><a href="https://github.com/nickreynke/python-gedcom">python-gedcom</a></b>  
 [https://nickreynke.github.io/python-gedcom/gedcom/index.html](https://nickreynke.github.io/python-gedcom/gedcom/index.html)  
 Python module for parsing, analyzing, and manipulating GEDCOM files  
-Score: 16/100, Stars: 124, Stars/week: 0.45, Forks: 33  
+Score: 16/100, Stars: 124, Stars/week: 0, Forks: 33  
 
 
 <a href="https://github.com/ndrplz)">ndrplz</a>/<b><a href="https://github.com/ndrplz/google-drive-downloader">google-drive-downloader</a></b>  
 Minimal class to download shared files from Google Drive.  
-Score: 14/100, Stars: 254, Stars/week: 0.9, Forks: 62  
+Score: 14/100, Stars: 254, Stars/week: 1, Forks: 62  
 
 
 <a href="https://github.com/malloydata)">malloydata</a>/<b><a href="https://github.com/malloydata/malloy-py">malloy-py</a></b>  
 Python package for executing Malloy  
-Score: 11/100, Stars: 4, Stars/week: 0.15, Forks: 1  
+Score: 11/100, Stars: 4, Stars/week: 0, Forks: 1  
 
 
 <a href="https://github.com/harangju)">harangju</a>/<b><a href="https://github.com/harangju/wikinet">wikinet</a></b>  
 Python library for exploring networks of hyperlinked Wikipedia articles  
-Score: 5/100, Stars: 10, Stars/week: 0.05, Forks: 5  
+Score: 5/100, Stars: 10, Stars/week: 0, Forks: 5  
 
 
 <a href="https://github.com/thoppe)">thoppe</a>/<b><a href="https://github.com/thoppe/the-pile-freelaw">The-Pile-FreeLaw</a></b>  
 Download, parse, and filter data from Court Listener, part of the FreeLaw projects. Data-ready for The-Pile.  
-Score: 4/100, Stars: 2, Stars/week: 0.01, Forks: 2  
+Score: 4/100, Stars: 2, Stars/week: 0, Forks: 2  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

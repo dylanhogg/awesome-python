@@ -21,24 +21,18 @@ Score: 62/100, Stars: 10,141, Stars/week: 65, Forks: 548
 <a href="https://github.com/r0x0r)">r0x0r</a>/<b><a href="https://github.com/r0x0r/pywebview">pywebview</a></b>  
 [https://pywebview.flowrl.com](https://pywebview.flowrl.com)  
 Build GUI for your Python program with JavaScript, HTML, and CSS  
-Score: 51/100, Stars: 3,523, Stars/week: 7.97, Forks: 460  
+Score: 51/100, Stars: 3,523, Stars/week: 8, Forks: 460  
 
 
 <a href="https://github.com/dddomodossola)">dddomodossola</a>/<b><a href="https://github.com/dddomodossola/remi">remi</a></b>  
 Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.  
-Score: 45/100, Stars: 3,274, Stars/week: 6.86, Forks: 393  
+Score: 45/100, Stars: 3,274, Stars/week: 7, Forks: 393  
 
 
 <a href="https://github.com/wxwidgets)">wxwidgets</a>/<b><a href="https://github.com/wxwidgets/phoenix">Phoenix</a></b>  
 [http://wxpython.org/](http://wxpython.org/)  
 wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.  
-Score: 42/100, Stars: 1,992, Stars/week: 3.53, Forks: 502  
+Score: 42/100, Stars: 1,992, Stars/week: 4, Forks: 502  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

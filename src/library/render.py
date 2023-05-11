@@ -88,15 +88,7 @@ def make_markdown(row, include_category=False) -> str:
     if language is not None and language.lower() != "python" and language.lower() != "jupyter notebook":
         logger.info(f"Is {name} really a Python library? Main language is {language}.")
 
-    # header = (
-    #     f"[{name}]({url})"
-    #     if name == organization
-    #     else f"[{name}]({url}) by [{organization}](https://github.com/{organization})"
-    # )
-
-    header = (
-        f'<a href="https://github.com/{organization})">{organization}</a>/<b><a href="{url}">{name}</a></b>'
-    )
+    header = f'<a href="https://github.com/{organization})">{organization}</a>/<b><a href="{url}">{name}</a></b>'
 
     if include_category:
         # Main readme.md
@@ -110,11 +102,7 @@ def make_markdown(row, include_category=False) -> str:
 
     result += (
         f"\n{description}  "
-        # f"\n{stars_per_week} stars/week  "
-        # f"\n{score:.0f} score, {stars:,} stars, {forks:,} forks, {watches:,} watches  "
-        f"\nScore: {score:.0f}/100, Stars: {stars:,}, Stars/week: {stars_per_week:,}, Forks: {forks:,}  "
-        # f"\n{category_display}created {created}, last commit {last_commit_date}, main language {language}  "
-        # f"{topics_display}"
+        f"\nScore: {score:.0f}/100, Stars: {stars:,}, Stars/week: {stars_per_week:.0f}, Forks: {forks:,}  "
         f"\n\n"
     )
 

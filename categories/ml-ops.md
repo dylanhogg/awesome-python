@@ -158,114 +158,108 @@ Score: 52/100, Stars: 3,064, Stars/week: 17, Forks: 210
 <a href="https://github.com/skops-dev)">skops-dev</a>/<b><a href="https://github.com/skops-dev/skops">skops</a></b>  
 [https://skops.readthedocs.io/en/stable/](https://skops.readthedocs.io/en/stable/)  
 skops is a Python library helping you share your scikit-learn based models and put them in production  
-Score: 46/100, Stars: 319, Stars/week: 6.0, Forks: 44  
+Score: 46/100, Stars: 319, Stars/week: 6, Forks: 44  
 
 
 <a href="https://github.com/polyaxon)">polyaxon</a>/<b><a href="https://github.com/polyaxon/polyaxon">polyaxon</a></b>  
 [https://polyaxon.com](https://polyaxon.com)  
 MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle  
-Score: 45/100, Stars: 3,307, Stars/week: 9.95, Forks: 318  
+Score: 45/100, Stars: 3,307, Stars/week: 10, Forks: 318  
 
 
 <a href="https://github.com/astronomer)">astronomer</a>/<b><a href="https://github.com/astronomer/astro-sdk">astro-sdk</a></b>  
 [https://astro-sdk-python.rtfd.io/](https://astro-sdk-python.rtfd.io/)  
 Astro SDK allows rapid and clean development of {Extract, Load, Transform} workflows using Python and SQL, powered by Apache Airflow.  
-Score: 42/100, Stars: 254, Stars/week: 3.41, Forks: 32  
+Score: 42/100, Stars: 254, Stars/week: 3, Forks: 32  
 
 
 <a href="https://github.com/kedro-org)">kedro-org</a>/<b><a href="https://github.com/kedro-org/kedro-viz">kedro-viz</a></b>  
 [https://demo.kedro.org/](https://demo.kedro.org/)  
 Visualise your Kedro data and machine-learning pipelines and track your experiments.   
-Score: 41/100, Stars: 549, Stars/week: 2.63, Forks: 89  
+Score: 41/100, Stars: 549, Stars/week: 3, Forks: 89  
 
 
 <a href="https://github.com/nccr-itmo)">nccr-itmo</a>/<b><a href="https://github.com/nccr-itmo/fedot">FEDOT</a></b>  
 [https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
 Automated modeling and machine learning framework FEDOT  
-Score: 40/100, Stars: 525, Stars/week: 3.03, Forks: 73  
+Score: 40/100, Stars: 525, Stars/week: 3, Forks: 73  
 
 
 <a href="https://github.com/hi-primus)">hi-primus</a>/<b><a href="https://github.com/hi-primus/optimus">optimus</a></b>  
 [https://hi-optimus.com](https://hi-optimus.com)  
 :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  
-Score: 39/100, Stars: 1,359, Stars/week: 4.47, Forks: 227  
+Score: 39/100, Stars: 1,359, Stars/week: 4, Forks: 227  
 
 
 <a href="https://github.com/astronomer)">astronomer</a>/<b><a href="https://github.com/astronomer/astronomer">astronomer</a></b>  
 [https://www.astronomer.io](https://www.astronomer.io)  
 Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes  
-Score: 38/100, Stars: 444, Stars/week: 1.6, Forks: 81  
+Score: 38/100, Stars: 444, Stars/week: 2, Forks: 81  
 
 
 <a href="https://github.com/tensorflow)">tensorflow</a>/<b><a href="https://github.com/tensorflow/data-validation">data-validation</a></b>  
 Library for exploring and validating machine learning data  
-Score: 37/100, Stars: 713, Stars/week: 2.81, Forks: 151  
+Score: 37/100, Stars: 713, Stars/week: 3, Forks: 151  
 
 
 <a href="https://github.com/kubeflow)">kubeflow</a>/<b><a href="https://github.com/kubeflow/examples">examples</a></b>  
 A repository to host extended examples and tutorials  
-Score: 35/100, Stars: 1,285, Stars/week: 4.67, Forks: 720  
+Score: 35/100, Stars: 1,285, Stars/week: 5, Forks: 720  
 
 
 <a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/ml-metadata">ml-metadata</a></b>  
 [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)  
 For recording and retrieving metadata associated with ML developer and data scientist workflows.  
-Score: 34/100, Stars: 529, Stars/week: 2.35, Forks: 120  
+Score: 34/100, Stars: 529, Stars/week: 2, Forks: 120  
 
 
 <a href="https://github.com/unionai-oss)">unionai-oss</a>/<b><a href="https://github.com/unionai-oss/unionml">unionml</a></b>  
 [https://www.union.ai/unionml](https://www.union.ai/unionml)  
 UnionML: the easiest way to build and deploy machine learning microservices  
-Score: 34/100, Stars: 286, Stars/week: 3.71, Forks: 37  
+Score: 34/100, Stars: 286, Stars/week: 4, Forks: 37  
 
 
 <a href="https://github.com/astronomer)">astronomer</a>/<b><a href="https://github.com/astronomer/airflow-chart">airflow-chart</a></b>  
 A Helm chart to install Apache Airflow on Kubernetes  
-Score: 34/100, Stars: 247, Stars/week: 1.43, Forks: 90  
+Score: 34/100, Stars: 247, Stars/week: 1, Forks: 90  
 
 
 <a href="https://github.com/kubeflow-kale)">kubeflow-kale</a>/<b><a href="https://github.com/kubeflow-kale/kale">kale</a></b>  
 [http://kubeflow-kale.github.io](http://kubeflow-kale.github.io)  
 Kubeflow’s superfood for Data Scientists  
-Score: 26/100, Stars: 598, Stars/week: 2.67, Forks: 123  
+Score: 26/100, Stars: 598, Stars/week: 3, Forks: 123  
 
 
 <a href="https://github.com/getindata)">getindata</a>/<b><a href="https://github.com/getindata/kedro-kubeflow">kedro-kubeflow</a></b>  
 [https://kedro-kubeflow.readthedocs.io](https://kedro-kubeflow.readthedocs.io)  
 Kedro Plugin to support running workflows on Kubeflow Pipelines  
-Score: 25/100, Stars: 39, Stars/week: 0.31, Forks: 16  
+Score: 25/100, Stars: 39, Stars/week: 0, Forks: 16  
 
 
 <a href="https://github.com/bodywork-ml)">bodywork-ml</a>/<b><a href="https://github.com/bodywork-ml/bodywork-core">bodywork-core</a></b>  
 [https://bodywork.readthedocs.io/en/latest/](https://bodywork.readthedocs.io/en/latest/)  
 ML pipeline orchestration and model deployments on Kubernetes, made really easy.  
-Score: 25/100, Stars: 418, Stars/week: 3.23, Forks: 19  
+Score: 25/100, Stars: 418, Stars/week: 3, Forks: 19  
 
 
 <a href="https://github.com/kubeflow)">kubeflow</a>/<b><a href="https://github.com/kubeflow/fairing">fairing</a></b>  
 Python SDK for building, training, and deploying ML models  
-Score: 21/100, Stars: 331, Stars/week: 1.35, Forks: 147  
+Score: 21/100, Stars: 331, Stars/week: 1, Forks: 147  
 
 
 <a href="https://github.com/aiqc)">aiqc</a>/<b><a href="https://github.com/aiqc/aiqc">AIQC</a></b>  
 End-to-end deep learning on your desktop or server.  
-Score: 16/100, Stars: 93, Stars/week: 0.73, Forks: 20  
+Score: 16/100, Stars: 93, Stars/week: 1, Forks: 20  
 
 
 <a href="https://github.com/anyscale)">anyscale</a>/<b><a href="https://github.com/anyscale/prefect-anyscale">prefect-anyscale</a></b>  
 Prefect integration with Anyscale  
-Score: 15/100, Stars: 7, Stars/week: 0.26, Forks: 1  
+Score: 15/100, Stars: 7, Stars/week: 0, Forks: 1  
 
 
 <a href="https://github.com/anyscale)">anyscale</a>/<b><a href="https://github.com/anyscale/airflow-provider-ray">airflow-provider-ray</a></b>  
 Ray provider for Apache Airflow  
-Score: 12/100, Stars: 33, Stars/week: 0.29, Forks: 9  
+Score: 12/100, Stars: 33, Stars/week: 0, Forks: 9  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

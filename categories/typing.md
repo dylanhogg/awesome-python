@@ -33,12 +33,12 @@ Score: 53/100, Stars: 4,734, Stars/week: 10, Forks: 338
 <a href="https://github.com/google)">google</a>/<b><a href="https://github.com/google/pytype">pytype</a></b>  
 [https://google.github.io/pytype](https://google.github.io/pytype)  
 A static type analyzer for Python code  
-Score: 51/100, Stars: 4,197, Stars/week: 9.87, Forks: 273  
+Score: 51/100, Stars: 4,197, Stars/week: 10, Forks: 273  
 
 
 <a href="https://github.com/agronholm)">agronholm</a>/<b><a href="https://github.com/agronholm/typeguard">typeguard</a></b>  
 Run-time type checker for Python  
-Score: 47/100, Stars: 1,181, Stars/week: 3.07, Forks: 93  
+Score: 47/100, Stars: 1,181, Stars/week: 3, Forks: 93  
 
 
 <a href="https://github.com/patrick-kidger)">patrick-kidger</a>/<b><a href="https://github.com/patrick-kidger/torchtyping">torchtyping</a></b>  
@@ -49,18 +49,12 @@ Score: 40/100, Stars: 1,229, Stars/week: 11, Forks: 29
 <a href="https://github.com/python-attrs)">python-attrs</a>/<b><a href="https://github.com/python-attrs/cattrs">cattrs</a></b>  
 [https://catt.rs](https://catt.rs)  
 Complex custom class converters for attrs.  
-Score: 39/100, Stars: 627, Stars/week: 1.79, Forks: 90  
+Score: 39/100, Stars: 627, Stars/week: 2, Forks: 90  
 
 
 <a href="https://github.com/jellezijlstra)">jellezijlstra</a>/<b><a href="https://github.com/jellezijlstra/autotyping">autotyping</a></b>  
 jellezijlstra/autotyping  
-Score: 29/100, Stars: 141, Stars/week: 1.44, Forks: 10  
+Score: 29/100, Stars: 141, Stars/week: 1, Forks: 10  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

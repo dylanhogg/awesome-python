@@ -39,62 +39,56 @@ Score: 51/100, Stars: 1,289, Stars/week: 16, Forks: 90
 <a href="https://github.com/pyomo)">pyomo</a>/<b><a href="https://github.com/pyomo/pyomo">pyomo</a></b>  
 [https://www.pyomo.org](https://www.pyomo.org)  
 An object-oriented algebraic modeling language in Python for structured optimization problems.  
-Score: 48/100, Stars: 1,534, Stars/week: 4.23, Forks: 441  
+Score: 48/100, Stars: 1,534, Stars/week: 4, Forks: 441  
 
 
 <a href="https://github.com/fredrik-johansson)">fredrik-johansson</a>/<b><a href="https://github.com/fredrik-johansson/mpmath">mpmath</a></b>  
 [http://mpmath.org](http://mpmath.org)  
 Python library for arbitrary-precision floating-point arithmetic  
-Score: 36/100, Stars: 770, Stars/week: 1.29, Forks: 160  
+Score: 36/100, Stars: 770, Stars/week: 1, Forks: 160  
 
 
 <a href="https://github.com/lukaszahradnik)">lukaszahradnik</a>/<b><a href="https://github.com/lukaszahradnik/pyneuralogic">PyNeuraLogic</a></b>  
 [https://pyneuralogic.readthedocs.io/](https://pyneuralogic.readthedocs.io/)  
 PyNeuraLogic lets you use Python to create Differentiable Logic Programs  
-Score: 33/100, Stars: 230, Stars/week: 1.82, Forks: 18  
+Score: 33/100, Stars: 230, Stars/week: 2, Forks: 18  
 
 
 <a href="https://github.com/google-research)">google-research</a>/<b><a href="https://github.com/google-research/torchsde">torchsde</a></b>  
 Differentiable SDE solvers with GPU support and efficient sensitivity analysis.   
-Score: 32/100, Stars: 1,251, Stars/week: 8.43, Forks: 152  
+Score: 32/100, Stars: 1,251, Stars/week: 8, Forks: 152  
 
 
 <a href="https://github.com/willianfuks)">willianfuks</a>/<b><a href="https://github.com/willianfuks/tfcausalimpact">tfcausalimpact</a></b>  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
-Score: 27/100, Stars: 415, Stars/week: 2.91, Forks: 53  
+Score: 27/100, Stars: 415, Stars/week: 3, Forks: 53  
 
 
 <a href="https://github.com/sj001)">sj001</a>/<b><a href="https://github.com/sj001/ai-feynman">AI-Feynman</a></b>  
 sj001/AI-Feynman  
-Score: 21/100, Stars: 504, Stars/week: 3.04, Forks: 151  
+Score: 21/100, Stars: 504, Stars/week: 3, Forks: 151  
 
 
 <a href="https://github.com/dit)">dit</a>/<b><a href="https://github.com/dit/dit">dit</a></b>  
 [http://docs.dit.io](http://docs.dit.io)  
 Python package for information theory.  
-Score: 20/100, Stars: 435, Stars/week: 0.87, Forks: 79  
+Score: 20/100, Stars: 435, Stars/week: 1, Forks: 79  
 
 
 <a href="https://github.com/mimecorg)">mimecorg</a>/<b><a href="https://github.com/mimecorg/fraqtive">fraqtive</a></b>  
 [https://fraqtive.mimec.org/](https://fraqtive.mimec.org/)  
 Generator of the Mandelbrot family fractals.  
-Score: 17/100, Stars: 28, Stars/week: 0.1, Forks: 7  
+Score: 17/100, Stars: 28, Stars/week: 0, Forks: 7  
 
 
 <a href="https://github.com/albahnsen)">albahnsen</a>/<b><a href="https://github.com/albahnsen/pycircular">pycircular</a></b>  
 pycircular is a Python module for circular data analysis  
-Score: 15/100, Stars: 70, Stars/week: 2.03, Forks: 4  
+Score: 15/100, Stars: 70, Stars/week: 2, Forks: 4  
 
 
 <a href="https://github.com/jszymon)">jszymon</a>/<b><a href="https://github.com/jszymon/pacal">pacal</a></b>  
 PaCAL - ProbAbilistic CALculator  
-Score: 8/100, Stars: 21, Stars/week: 0.05, Forks: 8  
+Score: 8/100, Stars: 21, Stars/week: 0, Forks: 8  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

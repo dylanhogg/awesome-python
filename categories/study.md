@@ -139,12 +139,12 @@ Score: 35/100, Stars: 1,930, Stars/week: 12, Forks: 1,649
 <a href="https://github.com/bayesianmodelingandcomputationinpython)">bayesianmodelingandcomputationinpython</a>/<b><a href="https://github.com/bayesianmodelingandcomputationinpython/bookcode_edition1">BookCode_Edition1</a></b>  
 [https://www.bayesiancomputationbook.com](https://www.bayesiancomputationbook.com)  
 bayesianmodelingandcomputationinpython/BookCode_Edition1  
-Score: 31/100, Stars: 412, Stars/week: 4.56, Forks: 103  
+Score: 31/100, Stars: 412, Stars/week: 5, Forks: 103  
 
 
 <a href="https://github.com/cerlymarco)">cerlymarco</a>/<b><a href="https://github.com/cerlymarco/medium_notebook">MEDIUM_NoteBook</a></b>  
 Repository containing notebooks of my posts on Medium  
-Score: 31/100, Stars: 1,810, Stars/week: 8.56, Forks: 938  
+Score: 31/100, Stars: 1,810, Stars/week: 9, Forks: 938  
 
 
 <a href="https://github.com/amaargiru)">amaargiru</a>/<b><a href="https://github.com/amaargiru/pyroad">pyroad</a></b>  
@@ -155,66 +155,60 @@ Score: 29/100, Stars: 271, Stars/week: 10, Forks: 33
 <a href="https://github.com/fluentpython)">fluentpython</a>/<b><a href="https://github.com/fluentpython/example-code-2e">example-code-2e</a></b>  
 [https://amzn.to/3J48u2J](https://amzn.to/3J48u2J)  
 Example code for Fluent Python, 2nd edition (O'Reilly 2022)   
-Score: 28/100, Stars: 1,931, Stars/week: 8.94, Forks: 587  
+Score: 28/100, Stars: 1,931, Stars/week: 9, Forks: 587  
 
 
 <a href="https://github.com/stanford-crfm)">stanford-crfm</a>/<b><a href="https://github.com/stanford-crfm/ecosystem-graphs">ecosystem-graphs</a></b>  
 stanford-crfm/ecosystem-graphs  
-Score: 25/100, Stars: 105, Stars/week: 1.72, Forks: 10  
+Score: 25/100, Stars: 105, Stars/week: 2, Forks: 10  
 
 
 <a href="https://github.com/jackhidary)">jackhidary</a>/<b><a href="https://github.com/jackhidary/quantumcomputingbook">quantumcomputingbook</a></b>  
 Companion site for the textbook Quantum Computing: An Applied Approach  
-Score: 22/100, Stars: 651, Stars/week: 2.97, Forks: 190  
+Score: 22/100, Stars: 651, Stars/week: 3, Forks: 190  
 
 
 <a href="https://github.com/davidadsp)">davidadsp</a>/<b><a href="https://github.com/davidadsp/generative_deep_learning_2nd_edition">Generative_Deep_Learning_2nd_Edition</a></b>  
 [https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)  
 The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.  
-Score: 21/100, Stars: 102, Stars/week: 1.73, Forks: 28  
+Score: 21/100, Stars: 102, Stars/week: 2, Forks: 28  
 
 
 <a href="https://github.com/nomic-ai)">nomic-ai</a>/<b><a href="https://github.com/nomic-ai/semantic-search-app-template">semantic-search-app-template</a></b>  
 Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI  
-Score: 20/100, Stars: 46, Stars/week: 6.19, Forks: 4  
+Score: 20/100, Stars: 46, Stars/week: 6, Forks: 4  
 
 
 <a href="https://github.com/googlecloudplatform)">googlecloudplatform</a>/<b><a href="https://github.com/googlecloudplatform/practical-ml-vision-book">practical-ml-vision-book</a></b>  
 googlecloudplatform/practical-ml-vision-book  
-Score: 18/100, Stars: 344, Stars/week: 2.66, Forks: 156  
+Score: 18/100, Stars: 344, Stars/week: 3, Forks: 156  
 
 
 <a href="https://github.com/mynameisfiber)">mynameisfiber</a>/<b><a href="https://github.com/mynameisfiber/high_performance_python_2e">high_performance_python_2e</a></b>  
 Code for the book "High Performance Python 2e" by Micha Gorelick and Ian Ozsvald with OReilly   
-Score: 18/100, Stars: 331, Stars/week: 2.06, Forks: 108  
+Score: 18/100, Stars: 331, Stars/week: 2, Forks: 108  
 
 
 <a href="https://github.com/rasbt)">rasbt</a>/<b><a href="https://github.com/rasbt/stat453-deep-learning-ss20">stat453-deep-learning-ss20</a></b>  
 [http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/)  
 STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)  
-Score: 15/100, Stars: 525, Stars/week: 3.04, Forks: 155  
+Score: 15/100, Stars: 525, Stars/week: 3, Forks: 155  
 
 
 <a href="https://github.com/rasbt)">rasbt</a>/<b><a href="https://github.com/rasbt/stat451-machine-learning-fs20">stat451-machine-learning-fs20</a></b>  
 STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)  
-Score: 14/100, Stars: 345, Stars/week: 2.4, Forks: 182  
+Score: 14/100, Stars: 345, Stars/week: 2, Forks: 182  
 
 
 <a href="https://github.com/koaning)">koaning</a>/<b><a href="https://github.com/koaning/calm-notebooks">calm-notebooks</a></b>  
 [https://calmcode.io](https://calmcode.io)  
 notebooks that are used at calmcode.io  
-Score: 11/100, Stars: 181, Stars/week: 1.09, Forks: 161  
+Score: 11/100, Stars: 181, Stars/week: 1, Forks: 161  
 
 
 <a href="https://github.com/anyscale)">anyscale</a>/<b><a href="https://github.com/anyscale/rl-course">rl-course</a></b>  
 anyscale/rl-course  
-Score: 8/100, Stars: 19, Stars/week: 0.31, Forks: 1  
+Score: 8/100, Stars: 19, Stars/week: 0, Forks: 1  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

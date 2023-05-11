@@ -112,7 +112,7 @@ Score: 59/100, Stars: 3,179, Stars/week: 13, Forks: 404
 <a href="https://github.com/pallets)">pallets</a>/<b><a href="https://github.com/pallets/werkzeug">werkzeug</a></b>  
 [https://werkzeug.palletsprojects.com](https://werkzeug.palletsprojects.com)  
 The comprehensive WSGI web application library.  
-Score: 56/100, Stars: 6,349, Stars/week: 9.69, Forks: 1,690  
+Score: 56/100, Stars: 6,349, Stars/week: 10, Forks: 1,690  
 
 
 <a href="https://github.com/fastapi-users)">fastapi-users</a>/<b><a href="https://github.com/fastapi-users/fastapi-users">fastapi-users</a></b>  
@@ -160,7 +160,7 @@ Score: 48/100, Stars: 7,975, Stars/week: 11, Forks: 1,452
 <a href="https://github.com/pallets)">pallets</a>/<b><a href="https://github.com/pallets/quart">quart</a></b>  
 [https://quart.palletsprojects.com](https://quart.palletsprojects.com)  
 An async Python micro framework for building web applications.   
-Score: 48/100, Stars: 1,810, Stars/week: 6.31, Forks: 112  
+Score: 48/100, Stars: 1,810, Stars/week: 6, Forks: 112  
 
 
 <a href="https://github.com/python-restx)">python-restx</a>/<b><a href="https://github.com/python-restx/flask-restx">flask-restx</a></b>  
@@ -172,77 +172,77 @@ Score: 48/100, Stars: 1,813, Stars/week: 10, Forks: 302
 <a href="https://github.com/websocket-client)">websocket-client</a>/<b><a href="https://github.com/websocket-client/websocket-client">websocket-client</a></b>  
 [https://github.com/websocket-client/websocket-client](https://github.com/websocket-client/websocket-client)  
 WebSocket client for Python  
-Score: 46/100, Stars: 3,216, Stars/week: 4.98, Forks: 735  
+Score: 46/100, Stars: 3,216, Stars/week: 5, Forks: 735  
 
 
 <a href="https://github.com/unbit)">unbit</a>/<b><a href="https://github.com/unbit/uwsgi">uwsgi</a></b>  
 [http://projects.unbit.it/uwsgi](http://projects.unbit.it/uwsgi)  
 uWSGI application server container  
-Score: 46/100, Stars: 3,284, Stars/week: 5.43, Forks: 671  
+Score: 46/100, Stars: 3,284, Stars/week: 5, Forks: 671  
 
 
 <a href="https://github.com/cherrypy)">cherrypy</a>/<b><a href="https://github.com/cherrypy/cherrypy">cherrypy</a></b>  
 [https://docs.cherrypy.dev](https://docs.cherrypy.dev)  
 CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev  
-Score: 45/100, Stars: 1,675, Stars/week: 4.57, Forks: 347  
+Score: 45/100, Stars: 1,675, Stars/week: 5, Forks: 347  
 
 
 <a href="https://github.com/s3rius)">s3rius</a>/<b><a href="https://github.com/s3rius/fastapi-template">FastAPI-template</a></b>  
 Feature rich robust FastAPI template.  
-Score: 44/100, Stars: 784, Stars/week: 5.79, Forks: 77  
+Score: 44/100, Stars: 784, Stars/week: 6, Forks: 77  
 
 
 <a href="https://github.com/webpy)">webpy</a>/<b><a href="https://github.com/webpy/webpy">webpy</a></b>  
 [http://webpy.org](http://webpy.org)  
 web.py is a web framework for python that is as simple as it is powerful.   
-Score: 44/100, Stars: 5,804, Stars/week: 7.61, Forks: 1,329  
+Score: 44/100, Stars: 5,804, Stars/week: 8, Forks: 1,329  
 
 
 <a href="https://github.com/pylons)">pylons</a>/<b><a href="https://github.com/pylons/pyramid">pyramid</a></b>  
 [https://trypyramid.com/](https://trypyramid.com/)  
 Pyramid - A Python web framework  
-Score: 43/100, Stars: 3,785, Stars/week: 5.78, Forks: 894  
+Score: 43/100, Stars: 3,785, Stars/week: 6, Forks: 894  
 
 
 <a href="https://github.com/rstudio)">rstudio</a>/<b><a href="https://github.com/rstudio/py-shiny">py-shiny</a></b>  
 [https://shiny.rstudio.com/py/](https://shiny.rstudio.com/py/)  
 Shiny for Python  
-Score: 43/100, Stars: 425, Stars/week: 4.56, Forks: 22  
+Score: 43/100, Stars: 425, Stars/week: 5, Forks: 22  
 
 
 <a href="https://github.com/neoteroi)">neoteroi</a>/<b><a href="https://github.com/neoteroi/blacksheep">BlackSheep</a></b>  
 [https://www.neoteroi.dev/blacksheep/](https://www.neoteroi.dev/blacksheep/)  
 Fast ASGI web framework for Python  
-Score: 42/100, Stars: 1,249, Stars/week: 5.36, Forks: 58  
+Score: 42/100, Stars: 1,249, Stars/week: 5, Forks: 58  
 
 
 <a href="https://github.com/koxudaxi)">koxudaxi</a>/<b><a href="https://github.com/koxudaxi/fastapi-code-generator">fastapi-code-generator</a></b>  
 This code generator creates FastAPI app from an openapi file.  
-Score: 39/100, Stars: 712, Stars/week: 4.7, Forks: 79  
+Score: 39/100, Stars: 712, Stars/week: 5, Forks: 79  
 
 
 <a href="https://github.com/long2ice)">long2ice</a>/<b><a href="https://github.com/long2ice/fastapi-cache">fastapi-cache</a></b>  
 [https://github.com/long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache)  
 fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.  
-Score: 39/100, Stars: 679, Stars/week: 4.81, Forks: 94  
+Score: 39/100, Stars: 679, Stars/week: 5, Forks: 94  
 
 
 <a href="https://github.com/jordaneremieff)">jordaneremieff</a>/<b><a href="https://github.com/jordaneremieff/mangum">mangum</a></b>  
 [https://mangum.io/](https://mangum.io/)  
 AWS Lambda support for ASGI applications  
-Score: 38/100, Stars: 1,310, Stars/week: 5.81, Forks: 85  
+Score: 38/100, Stars: 1,310, Stars/week: 6, Forks: 85  
 
 
 <a href="https://github.com/awtkns)">awtkns</a>/<b><a href="https://github.com/awtkns/fastapi-crudrouter">fastapi-crudrouter</a></b>  
 [https://fastapi-crudrouter.awtkns.com](https://fastapi-crudrouter.awtkns.com)  
 A dynamic FastAPI router that automatically creates CRUD routes for your models  
-Score: 37/100, Stars: 1,076, Stars/week: 8.63, Forks: 128  
+Score: 37/100, Stars: 1,076, Stars/week: 9, Forks: 128  
 
 
 <a href="https://github.com/wtforms)">wtforms</a>/<b><a href="https://github.com/wtforms/wtforms">wtforms</a></b>  
 [https://wtforms.readthedocs.io](https://wtforms.readthedocs.io)  
 A flexible forms validation and rendering library for Python.  
-Score: 35/100, Stars: 1,399, Stars/week: 2.78, Forks: 381  
+Score: 35/100, Stars: 1,399, Stars/week: 3, Forks: 381  
 
 
 <a href="https://github.com/aeternalis-ingenium)">aeternalis-ingenium</a>/<b><a href="https://github.com/aeternalis-ingenium/fastapi-backend-template">FastAPI-Backend-Template</a></b>  
@@ -253,22 +253,22 @@ Score: 35/100, Stars: 332, Stars/week: 14, Forks: 54
 <a href="https://github.com/pylons)">pylons</a>/<b><a href="https://github.com/pylons/waitress">waitress</a></b>  
 [https://docs.pylonsproject.org/projects/waitress/en/latest/](https://docs.pylonsproject.org/projects/waitress/en/latest/)  
 Waitress - A WSGI server for Python 3  
-Score: 35/100, Stars: 1,238, Stars/week: 2.08, Forks: 158  
+Score: 35/100, Stars: 1,238, Stars/week: 2, Forks: 158  
 
 
 <a href="https://github.com/flipkart-incubator)">flipkart-incubator</a>/<b><a href="https://github.com/flipkart-incubator/astra">Astra</a></b>  
 Automated Security Testing For REST API's  
-Score: 34/100, Stars: 2,225, Stars/week: 8.0, Forks: 371  
+Score: 34/100, Stars: 2,225, Stars/week: 8, Forks: 371  
 
 
 <a href="https://github.com/pyscript)">pyscript</a>/<b><a href="https://github.com/pyscript/pyscript-cli">pyscript-cli</a></b>  
 A CLI for PyScript  
-Score: 31/100, Stars: 151, Stars/week: 2.82, Forks: 15  
+Score: 31/100, Stars: 151, Stars/week: 3, Forks: 15  
 
 
 <a href="https://github.com/emmett-framework)">emmett-framework</a>/<b><a href="https://github.com/emmett-framework/emmett">emmett</a></b>  
 The web framework for inventors  
-Score: 30/100, Stars: 831, Stars/week: 1.86, Forks: 62  
+Score: 30/100, Stars: 831, Stars/week: 2, Forks: 62  
 
 
 <a href="https://github.com/conradbez)">conradbez</a>/<b><a href="https://github.com/conradbez/hstream">hstream</a></b>  
@@ -278,34 +278,28 @@ Score: 30/100, Stars: 270, Stars/week: 10, Forks: 11
 
 <a href="https://github.com/klen)">klen</a>/<b><a href="https://github.com/klen/muffin">muffin</a></b>  
 Muffin is a fast, simple and asyncronous web-framework for Python 3  
-Score: 29/100, Stars: 631, Stars/week: 1.46, Forks: 25  
+Score: 29/100, Stars: 631, Stars/week: 1, Forks: 25  
 
 
 <a href="https://github.com/pylons)">pylons</a>/<b><a href="https://github.com/pylons/webob">webob</a></b>  
 [https://webob.org/](https://webob.org/)  
 WSGI request and response objects  
-Score: 28/100, Stars: 425, Stars/week: 0.7, Forks: 185  
+Score: 28/100, Stars: 425, Stars/week: 1, Forks: 185  
 
 
 <a href="https://github.com/magicstack)">magicstack</a>/<b><a href="https://github.com/magicstack/httptools">httptools</a></b>  
 Fast HTTP parser  
-Score: 26/100, Stars: 1,103, Stars/week: 3.0, Forks: 75  
+Score: 26/100, Stars: 1,103, Stars/week: 3, Forks: 75  
 
 
 <a href="https://github.com/rawheel)">rawheel</a>/<b><a href="https://github.com/rawheel/fastapi-boilerplate">fastapi-boilerplate</a></b>  
 Dockerized FastAPI boiler plate similar to Django code structure with views, serializers(pydantic) and model( Sqlalchemy ORM) with dockerized database(PostgresSQL) and PgAdmin. 🚀   
-Score: 22/100, Stars: 123, Stars/week: 6.43, Forks: 10  
+Score: 22/100, Stars: 123, Stars/week: 6, Forks: 10  
 
 
 <a href="https://github.com/dmontagu)">dmontagu</a>/<b><a href="https://github.com/dmontagu/fastapi_client">fastapi_client</a></b>  
 FastAPI client generator  
-Score: 15/100, Stars: 301, Stars/week: 1.53, Forks: 40  
+Score: 15/100, Stars: 301, Stars/week: 2, Forks: 40  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

@@ -75,19 +75,19 @@ Score: 56/100, Stars: 2,740, Stars/week: 11, Forks: 328
 <a href="https://github.com/vispy)">vispy</a>/<b><a href="https://github.com/vispy/vispy">vispy</a></b>  
 [http://vispy.org](http://vispy.org)  
 Main repository for Vispy  
-Score: 54/100, Stars: 3,055, Stars/week: 5.78, Forks: 603  
+Score: 54/100, Stars: 3,055, Stars/week: 6, Forks: 603  
 
 
 <a href="https://github.com/pyvista)">pyvista</a>/<b><a href="https://github.com/pyvista/pyvista">pyvista</a></b>  
 [https://docs.pyvista.org](https://docs.pyvista.org)  
 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)  
-Score: 53/100, Stars: 1,779, Stars/week: 5.74, Forks: 326  
+Score: 53/100, Stars: 1,779, Stars/week: 6, Forks: 326  
 
 
 <a href="https://github.com/pyqtgraph)">pyqtgraph</a>/<b><a href="https://github.com/pyqtgraph/pyqtgraph">pyqtgraph</a></b>  
 [http://www.pyqtgraph.org](http://www.pyqtgraph.org)  
 Fast data visualization and GUI tools for scientific / engineering applications  
-Score: 52/100, Stars: 3,233, Stars/week: 6.41, Forks: 1,005  
+Score: 52/100, Stars: 3,233, Stars/week: 6, Forks: 1,005  
 
 
 <a href="https://github.com/man-group)">man-group</a>/<b><a href="https://github.com/man-group/dtale">dtale</a></b>  
@@ -99,13 +99,13 @@ Score: 52/100, Stars: 4,004, Stars/week: 20, Forks: 339
 <a href="https://github.com/marcomusy)">marcomusy</a>/<b><a href="https://github.com/marcomusy/vedo">vedo</a></b>  
 [https://vedo.embl.es](https://vedo.embl.es)  
 A python module for scientific analysis of 3D data based on VTK and Numpy  
-Score: 51/100, Stars: 1,624, Stars/week: 5.66, Forks: 230  
+Score: 51/100, Stars: 1,624, Stars/week: 6, Forks: 230  
 
 
 <a href="https://github.com/holoviz)">holoviz</a>/<b><a href="https://github.com/holoviz/holoviews">holoviews</a></b>  
 [https://holoviews.org](https://holoviews.org)  
 With Holoviews, your data visualizes itself.  
-Score: 50/100, Stars: 2,420, Stars/week: 5.15, Forks: 376  
+Score: 50/100, Stars: 2,420, Stars/week: 5, Forks: 376  
 
 
 <a href="https://github.com/has2k1)">has2k1</a>/<b><a href="https://github.com/has2k1/plotnine">plotnine</a></b>  
@@ -117,7 +117,7 @@ Score: 48/100, Stars: 3,449, Stars/week: 10, Forks: 200
 <a href="https://github.com/datapane)">datapane</a>/<b><a href="https://github.com/datapane/datapane">datapane</a></b>  
 [https://datapane.com](https://datapane.com)  
 Build full-stack data apps in 100% Python  
-Score: 46/100, Stars: 1,190, Stars/week: 7.48, Forks: 75  
+Score: 46/100, Stars: 1,190, Stars/week: 7, Forks: 75  
 
 
 <a href="https://github.com/lux-org)">lux-org</a>/<b><a href="https://github.com/lux-org/lux">lux</a></b>  
@@ -128,7 +128,7 @@ Score: 44/100, Stars: 4,554, Stars/week: 26, Forks: 347
 <a href="https://github.com/facultyai)">facultyai</a>/<b><a href="https://github.com/facultyai/dash-bootstrap-components">dash-bootstrap-components</a></b>  
 [https://dash-bootstrap-components.opensource.faculty.ai/](https://dash-bootstrap-components.opensource.faculty.ai/)  
 Bootstrap components for Plotly Dash  
-Score: 39/100, Stars: 977, Stars/week: 4.04, Forks: 207  
+Score: 39/100, Stars: 977, Stars/week: 4, Forks: 207  
 
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/hiplot">hiplot</a></b>  
@@ -139,7 +139,7 @@ Score: 38/100, Stars: 2,472, Stars/week: 13, Forks: 124
 
 <a href="https://github.com/nomic-ai)">nomic-ai</a>/<b><a href="https://github.com/nomic-ai/deepscatter">deepscatter</a></b>  
 Zoomable, animated scatterplots in the browser that scales over a billion points  
-Score: 38/100, Stars: 796, Stars/week: 3.37, Forks: 26  
+Score: 38/100, Stars: 796, Stars/week: 3, Forks: 26  
 
 
 <a href="https://github.com/ml-tooling)">ml-tooling</a>/<b><a href="https://github.com/ml-tooling/opyrator">opyrator</a></b>  
@@ -151,35 +151,29 @@ Score: 36/100, Stars: 2,840, Stars/week: 25, Forks: 141
 <a href="https://github.com/enthought)">enthought</a>/<b><a href="https://github.com/enthought/mayavi">mayavi</a></b>  
 [http://docs.enthought.com/mayavi/mayavi/](http://docs.enthought.com/mayavi/mayavi/)  
 3D visualization of scientific data in Python  
-Score: 33/100, Stars: 1,119, Stars/week: 1.74, Forks: 269  
+Score: 33/100, Stars: 1,119, Stars/week: 2, Forks: 269  
 
 
 <a href="https://github.com/luispedro)">luispedro</a>/<b><a href="https://github.com/luispedro/mahotas">mahotas</a></b>  
 [https://mahotas.rtfd.io](https://mahotas.rtfd.io)  
 Computer Vision in Python  
-Score: 33/100, Stars: 799, Stars/week: 1.15, Forks: 153  
+Score: 33/100, Stars: 799, Stars/week: 1, Forks: 153  
 
 
 <a href="https://github.com/holoviz)">holoviz</a>/<b><a href="https://github.com/holoviz/holoviz">holoviz</a></b>  
 [https://holoviz.org/](https://holoviz.org/)  
 High-level tools to simplify visualization in Python.  
-Score: 31/100, Stars: 687, Stars/week: 2.34, Forks: 119  
+Score: 31/100, Stars: 687, Stars/week: 2, Forks: 119  
 
 
 <a href="https://github.com/vhranger)">vhranger</a>/<b><a href="https://github.com/vhranger/nodevectors">nodevectors</a></b>  
 Fastest network node embeddings in the west  
-Score: 20/100, Stars: 466, Stars/week: 2.35, Forks: 55  
+Score: 20/100, Stars: 466, Stars/week: 2, Forks: 55  
 
 
 <a href="https://github.com/cuemacro)">cuemacro</a>/<b><a href="https://github.com/cuemacro/chartpy">chartpy</a></b>  
 Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more  
-Score: 16/100, Stars: 517, Stars/week: 1.46, Forks: 99  
+Score: 16/100, Stars: 517, Stars/week: 1, Forks: 99  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

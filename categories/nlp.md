@@ -169,7 +169,7 @@ Score: 49/100, Stars: 11,493, Stars/week: 36, Forks: 2,255
 <a href="https://github.com/featureform)">featureform</a>/<b><a href="https://github.com/featureform/embeddinghub">featureform</a></b>  
 [https://www.featureform.com](https://www.featureform.com)  
 The Virtual Feature Store. Turn your existing data infrastructure into a feature store.  
-Score: 49/100, Stars: 1,296, Stars/week: 9.68, Forks: 56  
+Score: 49/100, Stars: 1,296, Stars/week: 10, Forks: 56  
 
 
 <a href="https://github.com/deeppavlov)">deeppavlov</a>/<b><a href="https://github.com/deeppavlov/deeppavlov">DeepPavlov</a></b>  
@@ -191,7 +191,7 @@ Score: 48/100, Stars: 2,711, Stars/week: 15, Forks: 305
 <a href="https://github.com/jina-ai)">jina-ai</a>/<b><a href="https://github.com/jina-ai/now">now</a></b>  
 [https://now.jina.ai](https://now.jina.ai)  
 🧞 No-code tool for creating a neural search solution in minutes  
-Score: 48/100, Stars: 585, Stars/week: 9.52, Forks: 28  
+Score: 48/100, Stars: 585, Stars/week: 10, Forks: 28  
 
 
 <a href="https://github.com/sloria)">sloria</a>/<b><a href="https://github.com/sloria/textblob">TextBlob</a></b>  
@@ -224,7 +224,7 @@ Score: 43/100, Stars: 2,740, Stars/week: 16, Forks: 230
 
 <a href="https://github.com/jsvine)">jsvine</a>/<b><a href="https://github.com/jsvine/markovify">markovify</a></b>  
 A simple, extensible Markov chain generator.  
-Score: 42/100, Stars: 3,163, Stars/week: 7.26, Forks: 344  
+Score: 42/100, Stars: 3,163, Stars/week: 7, Forks: 344  
 
 
 <a href="https://github.com/makcedward)">makcedward</a>/<b><a href="https://github.com/makcedward/nlpaug">nlpaug</a></b>  
@@ -241,7 +241,7 @@ Score: 41/100, Stars: 4,894, Stars/week: 16, Forks: 753
 <a href="https://github.com/errbotio)">errbotio</a>/<b><a href="https://github.com/errbotio/errbot">errbot</a></b>  
 [http://errbot.io](http://errbot.io)  
 Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.  
-Score: 41/100, Stars: 2,914, Stars/week: 5.09, Forks: 600  
+Score: 41/100, Stars: 2,914, Stars/week: 5, Forks: 600  
 
 
 <a href="https://github.com/nomic-ai)">nomic-ai</a>/<b><a href="https://github.com/nomic-ai/nomic">nomic</a></b>  
@@ -258,7 +258,7 @@ Score: 40/100, Stars: 2,729, Stars/week: 15, Forks: 584
 <a href="https://github.com/jamesturk)">jamesturk</a>/<b><a href="https://github.com/jamesturk/jellyfish">jellyfish</a></b>  
 [https://jamesturk.github.io/jellyfish/](https://jamesturk.github.io/jellyfish/)  
 🪼 a python library for doing approximate and phonetic matching of strings.  
-Score: 40/100, Stars: 1,840, Stars/week: 2.75, Forks: 156  
+Score: 40/100, Stars: 1,840, Stars/week: 3, Forks: 156  
 
 
 <a href="https://github.com/clips)">clips</a>/<b><a href="https://github.com/clips/pattern">pattern</a></b>  
@@ -275,7 +275,7 @@ Score: 38/100, Stars: 183, Stars/week: 11, Forks: 16
 <a href="https://github.com/deepset-ai)">deepset-ai</a>/<b><a href="https://github.com/deepset-ai/farm">FARM</a></b>  
 [https://farm.deepset.ai](https://farm.deepset.ai)  
 :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.  
-Score: 38/100, Stars: 1,661, Stars/week: 8.34, Forks: 236  
+Score: 38/100, Stars: 1,661, Stars/week: 8, Forks: 236  
 
 
 <a href="https://github.com/ddangelov)">ddangelov</a>/<b><a href="https://github.com/ddangelov/top2vec">Top2Vec</a></b>  
@@ -291,57 +291,57 @@ Score: 37/100, Stars: 4,372, Stars/week: 14, Forks: 913
 <a href="https://github.com/explosion)">explosion</a>/<b><a href="https://github.com/explosion/spacy-streamlit">spacy-streamlit</a></b>  
 [https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py](https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py)  
 👑 spaCy building blocks and visualizers for Streamlit apps  
-Score: 37/100, Stars: 647, Stars/week: 4.31, Forks: 105  
+Score: 37/100, Stars: 647, Stars/week: 4, Forks: 105  
 
 
 <a href="https://github.com/chrismattmann)">chrismattmann</a>/<b><a href="https://github.com/chrismattmann/tika-python">tika-python</a></b>  
 Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.  
-Score: 36/100, Stars: 1,272, Stars/week: 2.75, Forks: 228  
+Score: 36/100, Stars: 1,272, Stars/week: 3, Forks: 228  
 
 
 <a href="https://github.com/dialogflow)">dialogflow</a>/<b><a href="https://github.com/dialogflow/dialogflow-python-client-v2">python-dialogflow</a></b>  
 [https://dialogflow.com/](https://dialogflow.com/)  
 Python client for Dialogflow: Design and integrate a conversational user interface into your applications and devices.  
-Score: 36/100, Stars: 392, Stars/week: 1.36, Forks: 147  
+Score: 36/100, Stars: 392, Stars/week: 1, Forks: 147  
 
 
 <a href="https://github.com/huggingface)">huggingface</a>/<b><a href="https://github.com/huggingface/neuralcoref">neuralcoref</a></b>  
 [https://huggingface.co/coref/](https://huggingface.co/coref/)  
 ✨Fast Coreference Resolution in spaCy with Neural Networks  
-Score: 36/100, Stars: 2,679, Stars/week: 8.77, Forks: 470  
+Score: 36/100, Stars: 2,679, Stars/week: 9, Forks: 470  
 
 
 <a href="https://github.com/life4)">life4</a>/<b><a href="https://github.com/life4/textdistance">textdistance</a></b>  
 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.  
-Score: 36/100, Stars: 3,095, Stars/week: 9.86, Forks: 244  
+Score: 36/100, Stars: 3,095, Stars/week: 10, Forks: 244  
 
 
 <a href="https://github.com/explosion)">explosion</a>/<b><a href="https://github.com/explosion/spacy-models">spacy-models</a></b>  
 [https://spacy.io](https://spacy.io)  
 💫  Models for the spaCy Natural Language Processing (NLP) library  
-Score: 35/100, Stars: 1,313, Stars/week: 4.09, Forks: 293  
+Score: 35/100, Stars: 1,313, Stars/week: 4, Forks: 293  
 
 
 <a href="https://github.com/pemistahl)">pemistahl</a>/<b><a href="https://github.com/pemistahl/lingua-py">lingua-py</a></b>  
 The most accurate natural language detection library for Python, suitable for long and short text alike  
-Score: 34/100, Stars: 500, Stars/week: 5.25, Forks: 25  
+Score: 34/100, Stars: 500, Stars/week: 5, Forks: 25  
 
 
 <a href="https://github.com/norskregnesentral)">norskregnesentral</a>/<b><a href="https://github.com/norskregnesentral/skweak">skweak</a></b>  
 skweak: A software toolkit for weak supervision applied to NLP tasks  
-Score: 33/100, Stars: 872, Stars/week: 7.77, Forks: 72  
+Score: 33/100, Stars: 872, Stars/week: 8, Forks: 72  
 
 
 <a href="https://github.com/cqcl)">cqcl</a>/<b><a href="https://github.com/cqcl/lambeq">lambeq</a></b>  
 [https://cqcl.github.io/lambeq/](https://cqcl.github.io/lambeq/)  
 A high-level Python library for Quantum Natural Language Processing  
-Score: 33/100, Stars: 340, Stars/week: 4.12, Forks: 76  
+Score: 33/100, Stars: 340, Stars/week: 4, Forks: 76  
 
 
 <a href="https://github.com/google-research)">google-research</a>/<b><a href="https://github.com/google-research/language">language</a></b>  
 [https://ai.google/research/teams/language/](https://ai.google/research/teams/language/)  
 Shared repository for open-sourced projects from the Google AI Language team.  
-Score: 33/100, Stars: 1,418, Stars/week: 5.95, Forks: 332  
+Score: 33/100, Stars: 1,418, Stars/week: 6, Forks: 332  
 
 
 <a href="https://github.com/thudm)">thudm</a>/<b><a href="https://github.com/thudm/p-tuning-v2">P-tuning-v2</a></b>  
@@ -351,147 +351,141 @@ Score: 32/100, Stars: 1,011, Stars/week: 12, Forks: 105
 
 <a href="https://github.com/explosion)">explosion</a>/<b><a href="https://github.com/explosion/spacy-stanza">spacy-stanza</a></b>  
 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy  
-Score: 32/100, Stars: 678, Stars/week: 3.04, Forks: 50  
+Score: 32/100, Stars: 678, Stars/week: 3, Forks: 50  
 
 
 <a href="https://github.com/gunthercox)">gunthercox</a>/<b><a href="https://github.com/gunthercox/chatterbot-corpus">chatterbot-corpus</a></b>  
 [http://chatterbot-corpus.readthedocs.io](http://chatterbot-corpus.readthedocs.io)  
 A multilingual dialog corpus  
-Score: 30/100, Stars: 1,266, Stars/week: 3.83, Forks: 1,136  
+Score: 30/100, Stars: 1,266, Stars/week: 4, Forks: 1,136  
 
 
 <a href="https://github.com/shivam5992)">shivam5992</a>/<b><a href="https://github.com/shivam5992/textstat">textstat</a></b>  
 [https://textstat.org](https://textstat.org)  
 :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.  
-Score: 28/100, Stars: 942, Stars/week: 2.03, Forks: 150  
+Score: 28/100, Stars: 942, Stars/week: 2, Forks: 150  
 
 
 <a href="https://github.com/franck-dernoncourt)">franck-dernoncourt</a>/<b><a href="https://github.com/franck-dernoncourt/neuroner">NeuroNER</a></b>  
 [http://neuroner.com](http://neuroner.com)  
 Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.  
-Score: 28/100, Stars: 1,653, Stars/week: 5.13, Forks: 486  
+Score: 28/100, Stars: 1,653, Stars/week: 5, Forks: 486  
 
 
 <a href="https://github.com/arxiv-vanity)">arxiv-vanity</a>/<b><a href="https://github.com/arxiv-vanity/arxiv-vanity">arxiv-vanity</a></b>  
 [https://www.arxiv-vanity.com](https://www.arxiv-vanity.com)  
 Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.  
-Score: 28/100, Stars: 1,438, Stars/week: 4.8, Forks: 90  
+Score: 28/100, Stars: 1,438, Stars/week: 5, Forks: 90  
 
 
 <a href="https://github.com/ibm)">ibm</a>/<b><a href="https://github.com/ibm/transition-amr-parser">transition-amr-parser</a></b>  
 SoTA Abstract Meaning Representation (AMR) parsing with word-node alignments in Pytorch. Includes checkpoints and other tools such as statistical significance Smatch.  
-Score: 28/100, Stars: 187, Stars/week: 1.0, Forks: 42  
+Score: 28/100, Stars: 187, Stars/week: 1, Forks: 42  
 
 
 <a href="https://github.com/lexpredict)">lexpredict</a>/<b><a href="https://github.com/lexpredict/lexpredict-lexnlp">lexpredict-lexnlp</a></b>  
 LexNLP by LexPredict  
-Score: 27/100, Stars: 602, Stars/week: 2.06, Forks: 160  
+Score: 27/100, Stars: 602, Stars/week: 2, Forks: 160  
 
 
 <a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/codet5">CodeT5</a></b>  
 [https://arxiv.org/abs/2109.00859](https://arxiv.org/abs/2109.00859)  
 Code for CodeT5: a new code-aware pre-trained encoder-decoder model.  
-Score: 27/100, Stars: 809, Stars/week: 8.95, Forks: 150  
+Score: 27/100, Stars: 809, Stars/week: 9, Forks: 150  
 
 
 <a href="https://github.com/koaning)">koaning</a>/<b><a href="https://github.com/koaning/whatlies">whatlies</a></b>  
 [https://koaning.github.io/whatlies/](https://koaning.github.io/whatlies/)  
 Toolkit to help understand "what lies" in word embeddings. Also benchmarking!   
-Score: 26/100, Stars: 458, Stars/week: 2.73, Forks: 50  
+Score: 26/100, Stars: 458, Stars/week: 3, Forks: 50  
 
 
 <a href="https://github.com/plasticityai)">plasticityai</a>/<b><a href="https://github.com/plasticityai/magnitude">magnitude</a></b>  
 A fast, efficient universal vector embedding utility package.  
-Score: 25/100, Stars: 1,576, Stars/week: 5.8, Forks: 114  
+Score: 25/100, Stars: 1,576, Stars/week: 6, Forks: 114  
 
 
 <a href="https://github.com/prithivirajdamodaran)">prithivirajdamodaran</a>/<b><a href="https://github.com/prithivirajdamodaran/styleformer">Styleformer</a></b>  
 A Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles like formal/casual, active/passive, and many more. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.  
-Score: 24/100, Stars: 446, Stars/week: 4.47, Forks: 60  
+Score: 24/100, Stars: 446, Stars/week: 4, Forks: 60  
 
 
 <a href="https://github.com/nipunsadvilkar)">nipunsadvilkar</a>/<b><a href="https://github.com/nipunsadvilkar/pysbd">pySBD</a></b>  
 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.  
-Score: 23/100, Stars: 611, Stars/week: 1.98, Forks: 68  
+Score: 23/100, Stars: 611, Stars/week: 2, Forks: 68  
 
 
 <a href="https://github.com/hazyresearch)">hazyresearch</a>/<b><a href="https://github.com/hazyresearch/fonduer">fonduer</a></b>  
 [https://fonduer.readthedocs.io/](https://fonduer.readthedocs.io/)  
 A knowledge base construction engine for richly formatted data  
-Score: 22/100, Stars: 393, Stars/week: 1.43, Forks: 79  
+Score: 22/100, Stars: 393, Stars/week: 1, Forks: 79  
 
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/grade-school-math">grade-school-math</a></b>  
 openai/grade-school-math  
-Score: 21/100, Stars: 391, Stars/week: 4.82, Forks: 81  
+Score: 21/100, Stars: 391, Stars/week: 5, Forks: 81  
 
 
 <a href="https://github.com/yixinl7)">yixinl7</a>/<b><a href="https://github.com/yixinl7/brio">BRIO</a></b>  
 ACL 2022: BRIO: Bringing Order to Abstractive Summarization  
-Score: 21/100, Stars: 255, Stars/week: 4.23, Forks: 38  
+Score: 21/100, Stars: 255, Stars/week: 4, Forks: 38  
 
 
 <a href="https://github.com/amansrivastava17)">amansrivastava17</a>/<b><a href="https://github.com/amansrivastava17/embedding-as-service">embedding-as-service</a></b>  
 One-Stop Solution to encode sentence to fixed length vectors from various embedding techniques   
-Score: 20/100, Stars: 187, Stars/week: 0.91, Forks: 27  
+Score: 20/100, Stars: 187, Stars/week: 1, Forks: 27  
 
 
 <a href="https://github.com/iclrandd)">iclrandd</a>/<b><a href="https://github.com/iclrandd/blackstone">Blackstone</a></b>  
 [https://research.iclr.co.uk](https://research.iclr.co.uk)  
 :black_circle: A spaCy pipeline and model for NLP on unstructured legal text.  
-Score: 20/100, Stars: 597, Stars/week: 2.77, Forks: 95  
+Score: 20/100, Stars: 597, Stars/week: 3, Forks: 95  
 
 
 <a href="https://github.com/allenai)">allenai</a>/<b><a href="https://github.com/allenai/s2orc-doc2json">s2orc-doc2json</a></b>  
 Parsers for scientific papers (PDF2JSON, TEX2JSON, JATS2JSON)  
-Score: 19/100, Stars: 201, Stars/week: 1.6, Forks: 44  
+Score: 19/100, Stars: 201, Stars/week: 2, Forks: 44  
 
 
 <a href="https://github.com/kootenpv)">kootenpv</a>/<b><a href="https://github.com/kootenpv/contractions">contractions</a></b>  
 Fixes contractions such as `you're` to `you are`  
-Score: 18/100, Stars: 280, Stars/week: 0.84, Forks: 38  
+Score: 18/100, Stars: 280, Stars/week: 1, Forks: 38  
 
 
 <a href="https://github.com/yoadtew)">yoadtew</a>/<b><a href="https://github.com/yoadtew/zero-shot-image-to-text">zero-shot-image-to-text</a></b>  
 Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic  
-Score: 18/100, Stars: 203, Stars/week: 2.68, Forks: 32  
+Score: 18/100, Stars: 203, Stars/week: 3, Forks: 32  
 
 
 <a href="https://github.com/hazyresearch)">hazyresearch</a>/<b><a href="https://github.com/hazyresearch/fonduer-tutorials">fonduer-tutorials</a></b>  
 [https://github.com/HazyResearch/fonduer](https://github.com/HazyResearch/fonduer)  
 A collection of simple tutorials for using Fonduer  
-Score: 16/100, Stars: 98, Stars/week: 0.37, Forks: 26  
+Score: 16/100, Stars: 98, Stars/week: 0, Forks: 26  
 
 
 <a href="https://github.com/google-research)">google-research</a>/<b><a href="https://github.com/google-research/byt5">byt5</a></b>  
 google-research/byt5  
-Score: 16/100, Stars: 423, Stars/week: 4.14, Forks: 25  
+Score: 16/100, Stars: 423, Stars/week: 4, Forks: 25  
 
 
 <a href="https://github.com/infinitylogesh)">infinitylogesh</a>/<b><a href="https://github.com/infinitylogesh/mutate">mutate</a></b>  
 A library to synthesize text datasets using Large Language Models (LLM)  
-Score: 15/100, Stars: 145, Stars/week: 2.04, Forks: 11  
+Score: 15/100, Stars: 145, Stars/week: 2, Forks: 11  
 
 
 <a href="https://github.com/airi-institute)">airi-institute</a>/<b><a href="https://github.com/airi-institute/probing_framework">Probing_framework</a></b>  
 Framework for probing tasks  
-Score: 13/100, Stars: 14, Stars/week: 0.21, Forks: 3  
+Score: 13/100, Stars: 14, Stars/week: 0, Forks: 3  
 
 
 <a href="https://github.com/coastalcph)">coastalcph</a>/<b><a href="https://github.com/coastalcph/lex-glue">lex-glue</a></b>  
 LexGLUE: A Benchmark Dataset for Legal Language Understanding in English  
-Score: 10/100, Stars: 110, Stars/week: 1.3, Forks: 28  
+Score: 10/100, Stars: 110, Stars/week: 1, Forks: 28  
 
 
 <a href="https://github.com/ferdinandzhong)">ferdinandzhong</a>/<b><a href="https://github.com/ferdinandzhong/punctuator">punctuator</a></b>  
 A small seq2seq punctuator tool based on DistilBERT  
-Score: 8/100, Stars: 38, Stars/week: 0.29, Forks: 5  
+Score: 8/100, Stars: 38, Stars/week: 0, Forks: 5  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

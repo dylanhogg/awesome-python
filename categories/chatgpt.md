@@ -9,7 +9,7 @@ Checkout the interactive version that you can filter and sort:
 
 <a href="https://github.com/hwchase17)">hwchase17</a>/<b><a href="https://github.com/hwchase17/langchain">langchain</a></b>  
 ⚡ Building applications with LLMs through composability ⚡  
-Score: 86/100, Stars: 35,082, Stars/week: 1,192, Forks: 3,804  
+Score: 86/100, Stars: 35,082, Stars/week: 1192, Forks: 3,804  
 
 
 <a href="https://github.com/hpcaitech)">hpcaitech</a>/<b><a href="https://github.com/hpcaitech/colossalai">ColossalAI</a></b>  
@@ -21,12 +21,12 @@ Score: 86/100, Stars: 29,218, Stars/week: 365, Forks: 3,388
 <a href="https://github.com/torantulino)">torantulino</a>/<b><a href="https://github.com/torantulino/auto-gpt">Auto-GPT</a></b>  
 [https://agpt.co](https://agpt.co)  
 An experimental open-source attempt to make GPT-4 fully autonomous.  
-Score: 86/100, Stars: 125,195, Stars/week: 15,649, Forks: 24,650  
+Score: 86/100, Stars: 125,195, Stars/week: 15649, Forks: 24,650  
 
 
 <a href="https://github.com/acheong08)">acheong08</a>/<b><a href="https://github.com/acheong08/chatgpt">ChatGPT</a></b>  
 Reverse engineered ChatGPT API  
-Score: 85/100, Stars: 25,228, Stars/week: 1,110, Forks: 4,107  
+Score: 85/100, Stars: 25,228, Stars/week: 1110, Forks: 4,107  
 
 
 <a href="https://github.com/jerryjliu)">jerryjliu</a>/<b><a href="https://github.com/jerryjliu/llama_index">llama_index</a></b>  
@@ -38,12 +38,12 @@ Score: 85/100, Stars: 14,524, Stars/week: 535, Forks: 1,507
 <a href="https://github.com/laion-ai)">laion-ai</a>/<b><a href="https://github.com/laion-ai/open-assistant">Open-Assistant</a></b>  
 [https://open-assistant.io](https://open-assistant.io)  
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.  
-Score: 85/100, Stars: 31,805, Stars/week: 1,494, Forks: 2,691  
+Score: 85/100, Stars: 31,805, Stars/week: 1494, Forks: 2,691  
 
 
 <a href="https://github.com/ggerganov)">ggerganov</a>/<b><a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a></b>  
 Port of Facebook's LLaMA model in C/C++  
-Score: 84/100, Stars: 25,942, Stars/week: 2,928, Forks: 3,737  
+Score: 84/100, Stars: 25,942, Stars/week: 2928, Forks: 3,737  
 
 
 <a href="https://github.com/acheong08)">acheong08</a>/<b><a href="https://github.com/acheong08/edgegpt">EdgeGPT</a></b>  
@@ -53,28 +53,28 @@ Score: 82/100, Stars: 6,354, Stars/week: 488, Forks: 653
 
 <a href="https://github.com/yoheinakajima)">yoheinakajima</a>/<b><a href="https://github.com/yoheinakajima/babyagi">babyagi</a></b>  
 GPT-4 powered task-driven autonomous agent  
-Score: 79/100, Stars: 13,430, Stars/week: 2,473, Forks: 1,848  
+Score: 79/100, Stars: 13,430, Stars/week: 2473, Forks: 1,848  
 
 
 <a href="https://github.com/lm-sys)">lm-sys</a>/<b><a href="https://github.com/lm-sys/fastchat">FastChat</a></b>  
 An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.  
-Score: 78/100, Stars: 18,188, Stars/week: 2,402, Forks: 1,989  
+Score: 78/100, Stars: 18,188, Stars/week: 2402, Forks: 1,989  
 
 
 <a href="https://github.com/tloen)">tloen</a>/<b><a href="https://github.com/tloen/alpaca-lora">alpaca-lora</a></b>  
 Instruct-tune LLaMA on consumer hardware  
-Score: 77/100, Stars: 12,285, Stars/week: 1,457, Forks: 1,481  
+Score: 77/100, Stars: 12,285, Stars/week: 1457, Forks: 1,481  
 
 
 <a href="https://github.com/thudm)">thudm</a>/<b><a href="https://github.com/thudm/chatglm-6b">ChatGLM-6B</a></b>  
 ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型  
-Score: 77/100, Stars: 22,783, Stars/week: 2,703, Forks: 2,747  
+Score: 77/100, Stars: 22,783, Stars/week: 2703, Forks: 2,747  
 
 
 <a href="https://github.com/xtekky)">xtekky</a>/<b><a href="https://github.com/xtekky/gpt4free">gpt4free</a></b>  
 [https://discord.gg/gpt4free](https://discord.gg/gpt4free)  
 decentralising the Ai Industry, just some language model api's...  
-Score: 75/100, Stars: 32,219, Stars/week: 5,244, Forks: 8,003  
+Score: 75/100, Stars: 32,219, Stars/week: 5244, Forks: 8,003  
 
 
 <a href="https://github.com/huggingface)">huggingface</a>/<b><a href="https://github.com/huggingface/peft">peft</a></b>  
@@ -85,7 +85,7 @@ Score: 75/100, Stars: 5,139, Stars/week: 215, Forks: 362
 
 <a href="https://github.com/idea-research)">idea-research</a>/<b><a href="https://github.com/idea-research/grounded-segment-anything">Grounded-Segment-Anything</a></b>  
 Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs  
-Score: 75/100, Stars: 7,968, Stars/week: 1,593, Forks: 658  
+Score: 75/100, Stars: 7,968, Stars/week: 1593, Forks: 658  
 
 
 <a href="https://github.com/zilliztech)">zilliztech</a>/<b><a href="https://github.com/zilliztech/gptcache">GPTCache</a></b>  
@@ -96,7 +96,7 @@ Score: 74/100, Stars: 2,981, Stars/week: 434, Forks: 182
 
 <a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/taskmatrix">TaskMatrix</a></b>  
 Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.  
-Score: 74/100, Stars: 32,497, Stars/week: 3,249, Forks: 3,091  
+Score: 74/100, Stars: 32,497, Stars/week: 3249, Forks: 3,091  
 
 
 <a href="https://github.com/optimalscale)">optimalscale</a>/<b><a href="https://github.com/optimalscale/lmflow">LMFlow</a></b>  
@@ -107,7 +107,7 @@ Score: 74/100, Stars: 5,034, Stars/week: 783, Forks: 508
 
 <a href="https://github.com/nomic-ai)">nomic-ai</a>/<b><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></b>  
 gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue  
-Score: 74/100, Stars: 37,443, Stars/week: 5,824, Forks: 3,985  
+Score: 74/100, Stars: 37,443, Stars/week: 5824, Forks: 3,985  
 
 
 <a href="https://github.com/lightning-ai)">lightning-ai</a>/<b><a href="https://github.com/lightning-ai/lit-llama">lit-llama</a></b>  
@@ -128,7 +128,7 @@ Score: 74/100, Stars: 7,260, Stars/week: 696, Forks: 803
 
 <a href="https://github.com/karpathy)">karpathy</a>/<b><a href="https://github.com/karpathy/nanogpt">nanoGPT</a></b>  
 The simplest, fastest repository for training/finetuning medium-sized GPTs.  
-Score: 73/100, Stars: 19,688, Stars/week: 1,028, Forks: 2,293  
+Score: 73/100, Stars: 19,688, Stars/week: 1028, Forks: 2,293  
 
 
 <a href="https://github.com/fauxpilot)">fauxpilot</a>/<b><a href="https://github.com/fauxpilot/fauxpilot">fauxpilot</a></b>  
@@ -144,12 +144,12 @@ Score: 72/100, Stars: 2,264, Stars/week: 660, Forks: 149
 
 <a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/jarvis">JARVIS</a></b>  
 JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf  
-Score: 72/100, Stars: 19,881, Stars/week: 3,313, Forks: 1,595  
+Score: 72/100, Stars: 19,881, Stars/week: 3313, Forks: 1,595  
 
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/chatgpt-retrieval-plugin">chatgpt-retrieval-plugin</a></b>  
 The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.  
-Score: 71/100, Stars: 15,794, Stars/week: 2,256, Forks: 2,374  
+Score: 71/100, Stars: 15,794, Stars/week: 2256, Forks: 2,374  
 
 
 <a href="https://github.com/rasahq)">rasahq</a>/<b><a href="https://github.com/rasahq/rasa">rasa</a></b>  
@@ -160,25 +160,25 @@ Score: 71/100, Stars: 16,089, Stars/week: 46, Forks: 4,321
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/llama">llama</a></b>  
 Inference code for LLaMA models  
-Score: 70/100, Stars: 20,446, Stars/week: 1,664, Forks: 3,281  
+Score: 70/100, Stars: 20,446, Stars/week: 1664, Forks: 3,281  
 
 
 <a href="https://github.com/databrickslabs)">databrickslabs</a>/<b><a href="https://github.com/databrickslabs/dolly">dolly</a></b>  
 [https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
 Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
-Score: 70/100, Stars: 9,641, Stars/week: 1,405, Forks: 971  
+Score: 70/100, Stars: 9,641, Stars/week: 1405, Forks: 971  
 
 
 <a href="https://github.com/mlc-ai)">mlc-ai</a>/<b><a href="https://github.com/mlc-ai/web-llm">web-llm</a></b>  
 [https://mlc.ai/web-llm](https://mlc.ai/web-llm)  
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.  
-Score: 70/100, Stars: 5,282, Stars/week: 1,320, Forks: 274  
+Score: 70/100, Stars: 5,282, Stars/week: 1320, Forks: 274  
 
 
 <a href="https://github.com/vision-cair)">vision-cair</a>/<b><a href="https://github.com/vision-cair/minigpt-4">MiniGPT-4</a></b>  
 [https://minigpt-4.github.io](https://minigpt-4.github.io)  
 MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models  
-Score: 70/100, Stars: 18,033, Stars/week: 4,855, Forks: 1,968  
+Score: 70/100, Stars: 18,033, Stars/week: 4855, Forks: 1,968  
 
 
 <a href="https://github.com/zrrskywalker)">zrrskywalker</a>/<b><a href="https://github.com/zrrskywalker/llama-adapter">LLaMA-Adapter</a></b>  
@@ -189,7 +189,7 @@ Score: 70/100, Stars: 3,164, Stars/week: 417, Forks: 194
 <a href="https://github.com/tatsu-lab)">tatsu-lab</a>/<b><a href="https://github.com/tatsu-lab/stanford_alpaca">stanford_alpaca</a></b>  
 [https://crfm.stanford.edu/2023/03/13/alpaca.html](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
 Code and documentation to train Stanford's Alpaca models, and generate the data.  
-Score: 68/100, Stars: 22,887, Stars/week: 2,584, Forks: 3,277  
+Score: 68/100, Stars: 22,887, Stars/week: 2584, Forks: 3,277  
 
 
 <a href="https://github.com/abetlen)">abetlen</a>/<b><a href="https://github.com/abetlen/llama-cpp-python">llama-cpp-python</a></b>  
@@ -234,7 +234,7 @@ Score: 66/100, Stars: 2,336, Stars/week: 605, Forks: 177
 <a href="https://github.com/mayooear)">mayooear</a>/<b><a href="https://github.com/mayooear/gpt4-pdf-chatbot-langchain">gpt4-pdf-chatbot-langchain</a></b>  
 [https://www.youtube.com/watch?v=ih9PBGVVOO4](https://www.youtube.com/watch?v=ih9PBGVVOO4)  
 GPT4 & LangChain Chatbot for large PDF docs  
-Score: 66/100, Stars: 9,730, Stars/week: 1,238, Forks: 1,842  
+Score: 66/100, Stars: 9,730, Stars/week: 1238, Forks: 1,842  
 
 
 <a href="https://github.com/freedomintelligence)">freedomintelligence</a>/<b><a href="https://github.com/freedomintelligence/llmzoo">LLMZoo</a></b>  
@@ -276,7 +276,7 @@ Score: 62/100, Stars: 5,241, Stars/week: 42, Forks: 733
 
 <a href="https://github.com/openlm-research)">openlm-research</a>/<b><a href="https://github.com/openlm-research/open_llama">open_llama</a></b>  
 OpenLLaMA: An Open Reproduction of LLaMA  
-Score: 62/100, Stars: 2,484, Stars/week: 1,337, Forks: 80  
+Score: 62/100, Stars: 2,484, Stars/week: 1337, Forks: 80  
 
 
 <a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b>  
@@ -367,7 +367,7 @@ Score: 50/100, Stars: 2,103, Stars/week: 103, Forks: 258
 
 <a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b>  
 A framework for few-shot evaluation of autoregressive language models.  
-Score: 46/100, Stars: 1,055, Stars/week: 7.49, Forks: 294  
+Score: 46/100, Stars: 1,055, Stars/week: 7, Forks: 294  
 
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
@@ -390,7 +390,7 @@ Score: 43/100, Stars: 1,759, Stars/week: 10, Forks: 207
 <a href="https://github.com/explosion)">explosion</a>/<b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
 [https://spacy.io/usage/embeddings-transformers](https://spacy.io/usage/embeddings-transformers)  
 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
-Score: 42/100, Stars: 1,241, Stars/week: 6.27, Forks: 160  
+Score: 42/100, Stars: 1,241, Stars/week: 6, Forks: 160  
 
 
 <a href="https://github.com/ist-daslab)">ist-daslab</a>/<b><a href="https://github.com/ist-daslab/gptq">gptq</a></b>  
@@ -406,7 +406,7 @@ Score: 41/100, Stars: 407, Stars/week: 21, Forks: 39
 
 <a href="https://github.com/bigscience-workshop)">bigscience-workshop</a>/<b><a href="https://github.com/bigscience-workshop/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
-Score: 40/100, Stars: 723, Stars/week: 7.46, Forks: 149  
+Score: 40/100, Stars: 723, Stars/week: 7, Forks: 149  
 
 
 <a href="https://github.com/minimaxir)">minimaxir</a>/<b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b>  
@@ -416,7 +416,7 @@ Score: 40/100, Stars: 3,259, Stars/week: 15, Forks: 666
 
 <a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
-Score: 39/100, Stars: 570, Stars/week: 5.79, Forks: 117  
+Score: 39/100, Stars: 570, Stars/week: 6, Forks: 117  
 
 
 <a href="https://github.com/kbressem)">kbressem</a>/<b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
@@ -431,7 +431,7 @@ Score: 35/100, Stars: 281, Stars/week: 12, Forks: 27
 
 <a href="https://github.com/muennighoff)">muennighoff</a>/<b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
 SGPT: GPT Sentence Embeddings for Semantic Search  
-Score: 34/100, Stars: 463, Stars/week: 7.14, Forks: 30  
+Score: 34/100, Stars: 463, Stars/week: 7, Forks: 30  
 
 
 <a href="https://github.com/microsoft)">microsoft</a>/<b><a href="https://github.com/microsoft/chatgpt-robot-manipulation-prompts">ChatGPT-Robot-Manipulation-Prompts</a></b>  
@@ -457,17 +457,17 @@ Score: 32/100, Stars: 201, Stars/week: 16, Forks: 24
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
 Dataset of GPT-2 outputs for research in detection, biases, and more  
-Score: 28/100, Stars: 1,690, Stars/week: 8.05, Forks: 491  
+Score: 28/100, Stars: 1,690, Stars/week: 8, Forks: 491  
 
 
 <a href="https://github.com/bigscience-workshop)">bigscience-workshop</a>/<b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
 Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
-Score: 27/100, Stars: 378, Stars/week: 5.15, Forks: 52  
+Score: 27/100, Stars: 378, Stars/week: 5, Forks: 52  
 
 
 <a href="https://github.com/larsbaunwall)">larsbaunwall</a>/<b><a href="https://github.com/larsbaunwall/bricky">bricky</a></b>  
 Haystack/OpenAI based chatbot curating a custom knowledgebase  
-Score: 27/100, Stars: 76, Stars/week: 5.22, Forks: 11  
+Score: 27/100, Stars: 76, Stars/week: 5, Forks: 11  
 
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
@@ -477,35 +477,29 @@ Score: 24/100, Stars: 1,874, Stars/week: 11, Forks: 352
 
 <a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/jaxformer">jaxformer</a></b>  
 Minimal library to train LLMs on TPU in JAX with pjit().  
-Score: 23/100, Stars: 186, Stars/week: 5.11, Forks: 25  
+Score: 23/100, Stars: 186, Stars/week: 5, Forks: 25  
 
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
 [https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
-Score: 22/100, Stars: 1,826, Stars/week: 7.12, Forks: 455  
+Score: 22/100, Stars: 1,826, Stars/week: 7, Forks: 455  
 
 
 <a href="https://github.com/anthropics)">anthropics</a>/<b><a href="https://github.com/anthropics/evals">evals</a></b>  
 Model-Written Evaluation Datasets  
-Score: 18/100, Stars: 133, Stars/week: 6.21, Forks: 9  
+Score: 18/100, Stars: 133, Stars/week: 6, Forks: 9  
 
 
 <a href="https://github.com/ai21labs)">ai21labs</a>/<b><a href="https://github.com/ai21labs/in-context-ralm">in-context-ralm</a></b>  
 In-Context Retrieval-Augmented Language Models  
-Score: 16/100, Stars: 77, Stars/week: 5.13, Forks: 8  
+Score: 16/100, Stars: 77, Stars/week: 5, Forks: 8  
 
 
 <a href="https://github.com/qanastek)">qanastek</a>/<b><a href="https://github.com/qanastek/drbert">DrBERT</a></b>  
 [https://drbert.univ-avignon.fr/](https://drbert.univ-avignon.fr/)  
 DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains  
-Score: 10/100, Stars: 8, Stars/week: 0.44, Forks: 0  
+Score: 10/100, Stars: 8, Stars/week: 0, Forks: 0  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

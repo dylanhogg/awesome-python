@@ -83,7 +83,7 @@ Score: 48/100, Stars: 7,178, Stars/week: 19, Forks: 1,629
 <a href="https://github.com/arise-initiative)">arise-initiative</a>/<b><a href="https://github.com/arise-initiative/robosuite">robosuite</a></b>  
 [https://robosuite.ai](https://robosuite.ai)  
 robosuite: A Modular Simulation Framework and Benchmark for Robot Learning  
-Score: 35/100, Stars: 848, Stars/week: 3.58, Forks: 273  
+Score: 35/100, Stars: 848, Stars/week: 4, Forks: 273  
 
 
 <a href="https://github.com/keras-rl)">keras-rl</a>/<b><a href="https://github.com/keras-rl/keras-rl">keras-rl</a></b>  
@@ -94,7 +94,7 @@ Score: 35/100, Stars: 5,405, Stars/week: 15, Forks: 1,358
 
 <a href="https://github.com/salesforce)">salesforce</a>/<b><a href="https://github.com/salesforce/warp-drive">warp-drive</a></b>  
 Extremely Fast End-to-End Deep Multi-Agent Reinforcement Learning Framework on a GPU (JMLR 2022)  
-Score: 35/100, Stars: 368, Stars/week: 4.13, Forks: 69  
+Score: 35/100, Stars: 368, Stars/week: 4, Forks: 69  
 
 
 <a href="https://github.com/anthropics)">anthropics</a>/<b><a href="https://github.com/anthropics/hh-rlhf">hh-rlhf</a></b>  
@@ -103,10 +103,4 @@ Human preference data for "Training a Helpful and Harmless Assistant with Reinfo
 Score: 27/100, Stars: 809, Stars/week: 14, Forks: 64  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

@@ -33,7 +33,7 @@ Score: 80/100, Stars: 22,793, Stars/week: 106, Forks: 2,874
 
 <a href="https://github.com/openai)">openai</a>/<b><a href="https://github.com/openai/whisper">whisper</a></b>  
 Robust Speech Recognition via Large-Scale Weak Supervision  
-Score: 79/100, Stars: 35,657, Stars/week: 1,053, Forks: 3,928  
+Score: 79/100, Stars: 35,657, Stars/week: 1053, Forks: 3,928  
 
 
 <a href="https://github.com/paddlepaddle)">paddlepaddle</a>/<b><a href="https://github.com/paddlepaddle/paddle">Paddle</a></b>  
@@ -62,7 +62,7 @@ Score: 74/100, Stars: 11,677, Stars/week: 44, Forks: 2,805
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/segment-anything">segment-anything</a></b>  
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.  
-Score: 73/100, Stars: 31,507, Stars/week: 4,501, Forks: 3,318  
+Score: 73/100, Stars: 31,507, Stars/week: 4501, Forks: 3,318  
 
 
 <a href="https://github.com/pyg-team)">pyg-team</a>/<b><a href="https://github.com/pyg-team/pytorch_geometric">pytorch_geometric</a></b>  
@@ -269,30 +269,30 @@ Score: 48/100, Stars: 4,755, Stars/week: 18, Forks: 945
 <a href="https://github.com/explosion)">explosion</a>/<b><a href="https://github.com/explosion/thinc">thinc</a></b>  
 [https://thinc.ai](https://thinc.ai)  
 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries  
-Score: 47/100, Stars: 2,714, Stars/week: 6.07, Forks: 273  
+Score: 47/100, Stars: 2,714, Stars/week: 6, Forks: 273  
 
 
 <a href="https://github.com/fepegar)">fepegar</a>/<b><a href="https://github.com/fepegar/torchio">torchio</a></b>  
 [http://www.torchio.org](http://www.torchio.org)  
 Medical imaging toolkit for deep learning  
-Score: 46/100, Stars: 1,707, Stars/week: 9.47, Forks: 204  
+Score: 46/100, Stars: 1,707, Stars/week: 9, Forks: 204  
 
 
 <a href="https://github.com/tensorly)">tensorly</a>/<b><a href="https://github.com/tensorly/tensorly">tensorly</a></b>  
 [http://tensorly.org](http://tensorly.org)  
 TensorLy: Tensor Learning in Python.  
-Score: 44/100, Stars: 1,392, Stars/week: 4.07, Forks: 270  
+Score: 44/100, Stars: 1,392, Stars/week: 4, Forks: 270  
 
 
 <a href="https://github.com/danielegrattarola)">danielegrattarola</a>/<b><a href="https://github.com/danielegrattarola/spektral">spektral</a></b>  
 [https://graphneural.network](https://graphneural.network)  
 Graph Neural Networks with Keras and Tensorflow 2.  
-Score: 44/100, Stars: 2,248, Stars/week: 9.99, Forks: 333  
+Score: 44/100, Stars: 2,248, Stars/week: 10, Forks: 333  
 
 
 <a href="https://github.com/calculatedcontent)">calculatedcontent</a>/<b><a href="https://github.com/calculatedcontent/weightwatcher">WeightWatcher</a></b>  
 The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks  
-Score: 42/100, Stars: 1,199, Stars/week: 5.16, Forks: 102  
+Score: 42/100, Stars: 1,199, Stars/week: 5, Forks: 102  
 
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/pytorch-biggraph">PyTorch-BigGraph</a></b>  
@@ -303,7 +303,7 @@ Score: 42/100, Stars: 3,231, Stars/week: 13, Forks: 442
 
 <a href="https://github.com/tensorflow)">tensorflow</a>/<b><a href="https://github.com/tensorflow/similarity">similarity</a></b>  
 TensorFlow Similarity is a python package focused on making similarity learning quick and easy.  
-Score: 41/100, Stars: 941, Stars/week: 6.21, Forks: 97  
+Score: 41/100, Stars: 941, Stars/week: 6, Forks: 97  
 
 
 <a href="https://github.com/nerdyrodent)">nerdyrodent</a>/<b><a href="https://github.com/nerdyrodent/vqgan-clip">VQGAN-CLIP</a></b>  
@@ -313,7 +313,7 @@ Score: 35/100, Stars: 2,419, Stars/week: 24, Forks: 413
 
 <a href="https://github.com/tensorflow)">tensorflow</a>/<b><a href="https://github.com/tensorflow/mesh">mesh</a></b>  
 Mesh TensorFlow: Model Parallelism Made Easier  
-Score: 34/100, Stars: 1,408, Stars/week: 5.82, Forks: 246  
+Score: 34/100, Stars: 1,408, Stars/week: 6, Forks: 246  
 
 
 <a href="https://github.com/samuela)">samuela</a>/<b><a href="https://github.com/samuela/git-re-basin">git-re-basin</a></b>  
@@ -330,71 +330,65 @@ Score: 29/100, Stars: 1,499, Stars/week: 10, Forks: 248
 <a href="https://github.com/praw-dev)">praw-dev</a>/<b><a href="https://github.com/praw-dev/asyncpraw">asyncpraw</a></b>  
 [https://asyncpraw.readthedocs.io](https://asyncpraw.readthedocs.io)  
 Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.  
-Score: 27/100, Stars: 85, Stars/week: 0.38, Forks: 15  
+Score: 27/100, Stars: 85, Stars/week: 0, Forks: 15  
 
 
 <a href="https://github.com/kakaobrain)">kakaobrain</a>/<b><a href="https://github.com/kakaobrain/rq-vae-transformer">rq-vae-transformer</a></b>  
 The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)  
-Score: 26/100, Stars: 561, Stars/week: 9.05, Forks: 63  
+Score: 26/100, Stars: 561, Stars/week: 9, Forks: 63  
 
 
 <a href="https://github.com/facebookresearch)">facebookresearch</a>/<b><a href="https://github.com/facebookresearch/ppuda">ppuda</a></b>  
 Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)  
-Score: 25/100, Stars: 470, Stars/week: 5.8, Forks: 60  
+Score: 25/100, Stars: 470, Stars/week: 6, Forks: 60  
 
 
 <a href="https://github.com/nyandwi)">nyandwi</a>/<b><a href="https://github.com/nyandwi/modernconvnets">ModernConvNets</a></b>  
 Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
-Score: 19/100, Stars: 311, Stars/week: 4.78, Forks: 33  
+Score: 19/100, Stars: 311, Stars/week: 5, Forks: 33  
 
 
 <a href="https://github.com/xl0)">xl0</a>/<b><a href="https://github.com/xl0/lovely-jax">lovely-jax</a></b>  
 [https://xl0.github.io/lovely-jax](https://xl0.github.io/lovely-jax)  
 JAX Arrays for human consumption  
-Score: 19/100, Stars: 28, Stars/week: 1.07, Forks: 1  
+Score: 19/100, Stars: 28, Stars/week: 1, Forks: 1  
 
 
 <a href="https://github.com/hysts)">hysts</a>/<b><a href="https://github.com/hysts/pytorch_image_classification">pytorch_image_classification</a></b>  
 PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST/ImageNet  
-Score: 17/100, Stars: 1,211, Stars/week: 4.28, Forks: 292  
+Score: 17/100, Stars: 1,211, Stars/week: 4, Forks: 292  
 
 
 <a href="https://github.com/rafiqhasan)">rafiqhasan</a>/<b><a href="https://github.com/rafiqhasan/auto-tensorflow">auto-tensorflow</a></b>  
 Build Low Code Automated Tensorflow explainable models in just 3 lines of code. Library created by: Hasan Rafiq - https://www.linkedin.com/in/sam04/  
-Score: 16/100, Stars: 175, Stars/week: 1.81, Forks: 36  
+Score: 16/100, Stars: 175, Stars/week: 2, Forks: 36  
 
 
 <a href="https://github.com/jerryyli)">jerryyli</a>/<b><a href="https://github.com/jerryyli/valhalla-nmt">valhalla-nmt</a></b>  
 Code repository for CVPR 2022 paper "VALHALLA: Visual Hallucination for Machine Translation"  
-Score: 16/100, Stars: 25, Stars/week: 0.42, Forks: 4  
+Score: 16/100, Stars: 25, Stars/week: 0, Forks: 4  
 
 
 <a href="https://github.com/researchmm)">researchmm</a>/<b><a href="https://github.com/researchmm/sttn">STTN</a></b>  
 [https://arxiv.org/abs/2007.10247](https://arxiv.org/abs/2007.10247)  
 [ECCV'2020] STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting  
-Score: 15/100, Stars: 366, Stars/week: 2.48, Forks: 71  
+Score: 15/100, Stars: 366, Stars/week: 2, Forks: 71  
 
 
 <a href="https://github.com/mcahny)">mcahny</a>/<b><a href="https://github.com/mcahny/deep-video-inpainting">Deep-Video-Inpainting</a></b>  
 Official pytorch implementation for "Deep Video Inpainting" (CVPR 2019)  
-Score: 15/100, Stars: 472, Stars/week: 2.28, Forks: 90  
+Score: 15/100, Stars: 472, Stars/week: 2, Forks: 90  
 
 
 <a href="https://github.com/benedekrozemberczki)">benedekrozemberczki</a>/<b><a href="https://github.com/benedekrozemberczki/tigerlily">tigerlily</a></b>  
 TigerLily: Finding drug interactions in silico with the Graph.  
-Score: 14/100, Stars: 92, Stars/week: 1.47, Forks: 9  
+Score: 14/100, Stars: 92, Stars/week: 1, Forks: 9  
 
 
 <a href="https://github.com/suanrong)">suanrong</a>/<b><a href="https://github.com/suanrong/sdne">SDNE</a></b>  
 [http://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding](http://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding)  
 This is a implementation of SDNE (Structural Deep Network embedding)  
-Score: 12/100, Stars: 315, Stars/week: 0.94, Forks: 124  
+Score: 12/100, Stars: 315, Stars/week: 1, Forks: 124  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

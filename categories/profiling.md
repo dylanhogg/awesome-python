@@ -49,45 +49,39 @@ Score: 49/100, Stars: 1,805, Stars/week: 10, Forks: 99
 <a href="https://github.com/pythonprofilers)">pythonprofilers</a>/<b><a href="https://github.com/pythonprofilers/memory_profiler">memory_profiler</a></b>  
 [http://pypi.python.org/pypi/memory_profiler](http://pypi.python.org/pypi/memory_profiler)  
 Monitor Memory usage of Python code  
-Score: 43/100, Stars: 3,865, Stars/week: 6.4, Forks: 369  
+Score: 43/100, Stars: 3,865, Stars/week: 6, Forks: 369  
 
 
 <a href="https://github.com/jiffyclub)">jiffyclub</a>/<b><a href="https://github.com/jiffyclub/snakeviz">snakeviz</a></b>  
 [https://jiffyclub.github.io/snakeviz/](https://jiffyclub.github.io/snakeviz/)  
 An in-browser Python profile viewer  
-Score: 41/100, Stars: 1,957, Stars/week: 3.45, Forks: 128  
+Score: 41/100, Stars: 1,957, Stars/week: 3, Forks: 128  
 
 
 <a href="https://github.com/pythonspeed)">pythonspeed</a>/<b><a href="https://github.com/pythonspeed/filprofiler">filprofiler</a></b>  
 [https://pythonspeed.com/products/filmemoryprofiler/](https://pythonspeed.com/products/filmemoryprofiler/)  
 A Python memory profiler for data processing and scientific computing applications  
-Score: 41/100, Stars: 758, Stars/week: 5.02, Forks: 22  
+Score: 41/100, Stars: 758, Stars/week: 5, Forks: 22  
 
 
 <a href="https://github.com/p403n1x87)">p403n1x87</a>/<b><a href="https://github.com/p403n1x87/austin">austin</a></b>  
 Python frame stack sampler for CPython  
-Score: 39/100, Stars: 1,154, Stars/week: 4.77, Forks: 38  
+Score: 39/100, Stars: 1,154, Stars/week: 5, Forks: 38  
 
 
 <a href="https://github.com/sumerc)">sumerc</a>/<b><a href="https://github.com/sumerc/yappi">yappi</a></b>  
 Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.  
-Score: 29/100, Stars: 1,123, Stars/week: 1.58, Forks: 61  
+Score: 29/100, Stars: 1,123, Stars/week: 2, Forks: 61  
 
 
 <a href="https://github.com/csurfer)">csurfer</a>/<b><a href="https://github.com/csurfer/pyheat">pyheat</a></b>  
 pprofile + matplotlib = Python program profiled as an awesome heatmap!  
-Score: 20/100, Stars: 764, Stars/week: 2.34, Forks: 40  
+Score: 20/100, Stars: 764, Stars/week: 2, Forks: 40  
 
 
 <a href="https://github.com/kshitij12345)">kshitij12345</a>/<b><a href="https://github.com/kshitij12345/torchnnprofiler">torchnnprofiler</a></b>  
 Context Manager to profile the forward and backward times of PyTorch's nn.Module  
-Score: 15/100, Stars: 75, Stars/week: 2.61, Forks: 3  
+Score: 15/100, Stars: 75, Stars/week: 3, Forks: 3  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.

@@ -145,11 +145,7 @@ def _write_local_markdown_files(df: pd.DataFrame):
 
     # Write all results to README.md
     lines_footer = [
-        f"This file was automatically generated on {datetime.now().date()}.  "
-        f"\n\nTo curate your own github list, simply clone and change the input csv file.  "
-        f"\n\nInspired by:  "
-        f"\n[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  "
-        f"\n[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  "
+        f"This list was updated on {datetime.now().date()}."
     ]
     lines = []
     lines.extend(render.lines_header(len(df)))

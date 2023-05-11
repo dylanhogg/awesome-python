@@ -27,13 +27,13 @@ Score: 51/100, Stars: 637, Stars/week: 24, Forks: 31
 <a href="https://github.com/seldonio)">seldonio</a>/<b><a href="https://github.com/seldonio/alibi">alibi</a></b>  
 [https://docs.seldon.io/projects/alibi/en/stable/](https://docs.seldon.io/projects/alibi/en/stable/)  
 Algorithms for explaining machine learning models  
-Score: 48/100, Stars: 2,018, Stars/week: 9.2, Forks: 223  
+Score: 48/100, Stars: 2,018, Stars/week: 9, Forks: 223  
 
 
 <a href="https://github.com/oegedijk)">oegedijk</a>/<b><a href="https://github.com/oegedijk/explainerdashboard">explainerdashboard</a></b>  
 [http://explainerdashboard.readthedocs.io](http://explainerdashboard.readthedocs.io)  
 Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.  
-Score: 48/100, Stars: 1,674, Stars/week: 9.09, Forks: 219  
+Score: 48/100, Stars: 1,674, Stars/week: 9, Forks: 219  
 
 
 <a href="https://github.com/marcotcr)">marcotcr</a>/<b><a href="https://github.com/marcotcr/lime">lime</a></b>  
@@ -66,12 +66,12 @@ Score: 40/100, Stars: 4,542, Stars/week: 16, Forks: 652
 <a href="https://github.com/alignmentresearch)">alignmentresearch</a>/<b><a href="https://github.com/alignmentresearch/tuned-lens">tuned-lens</a></b>  
 [https://tuned-lens.readthedocs.io/en/latest/](https://tuned-lens.readthedocs.io/en/latest/)  
 Tools for understanding how transformer predictions are built layer-by-layer  
-Score: 39/100, Stars: 225, Stars/week: 7.16, Forks: 21  
+Score: 39/100, Stars: 225, Stars/week: 7, Forks: 21  
 
 
 <a href="https://github.com/cdpierse)">cdpierse</a>/<b><a href="https://github.com/cdpierse/transformers-interpret">transformers-interpret</a></b>  
 Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
-Score: 38/100, Stars: 1,010, Stars/week: 6.55, Forks: 86  
+Score: 38/100, Stars: 1,010, Stars/week: 7, Forks: 86  
 
 
 <a href="https://github.com/jalammar)">jalammar</a>/<b><a href="https://github.com/jalammar/ecco">ecco</a></b>  
@@ -82,13 +82,7 @@ Score: 35/100, Stars: 1,680, Stars/week: 12, Forks: 126
 
 <a href="https://github.com/eleutherai)">eleutherai</a>/<b><a href="https://github.com/eleutherai/knowledge-neurons">knowledge-neurons</a></b>  
 A library for finding knowledge neurons in pretrained transformer models.  
-Score: 7/100, Stars: 112, Stars/week: 1.2, Forks: 13  
+Score: 7/100, Stars: 112, Stars/week: 1, Forks: 13  
 
 
-This file was automatically generated on 2023-05-11.  
-
-To curate your own github list, simply clone and change the input csv file.  
-
-Inspired by:  
-[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
-[https://github.com/trananhkma/fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)  
+This list was updated on 2023-05-11.
