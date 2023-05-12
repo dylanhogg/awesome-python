@@ -101,6 +101,12 @@ The IN3 client (written in C).
 Score: 18/100, Stars: 69, Stars/week: 0, Forks: 21  
 
 
+<a href="https://github.com/dylanhogg)">dylanhogg/</a><b><a href="https://github.com/dylanhogg/crazy-awesome-crypto">crazy-awesome-crypto</a></b>  
+[https://www.awesomecrypto.xyz/](https://www.awesomecrypto.xyz/)  
+A list of awesome crypto and blockchain projects  
+Score: 13/100, Stars: 51, Stars/week: 1, Forks: 15  
+
+
 <a href="https://github.com/nerolation)">nerolation/</a><b><a href="https://github.com/nerolation/ethereum-datafarm">ethereum-datafarm</a></b>  
 Scrap blockchain data from the public API of Etherscan.io  
 Score: 11/100, Stars: 50, Stars/week: 0, Forks: 10  

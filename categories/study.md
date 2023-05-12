@@ -12,6 +12,12 @@ All Algorithms implemented in Python
 Score: 84/100, Stars: 158,174, Stars/week: 444, Forks: 39,967  
 
 
+<a href="https://github.com/vinta)">vinta/</a><b><a href="https://github.com/vinta/awesome-python">awesome-python</a></b>  
+[https://awesome-python.com/](https://awesome-python.com/)  
+A curated list of awesome Python frameworks, libraries, software and resources  
+Score: 75/100, Stars: 167,201, Stars/week: 361, Forks: 23,121  
+
+
 <a href="https://github.com/donnemartin)">donnemartin/</a><b><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></b>  
 Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.  
 Score: 72/100, Stars: 219,349, Stars/week: 677, Forks: 38,968  
@@ -21,6 +27,22 @@ Score: 72/100, Stars: 219,349, Stars/week: 677, Forks: 38,968
 [https://D2L.ai](https://D2L.ai)  
 Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.  
 Score: 69/100, Stars: 17,728, Stars/week: 74, Forks: 3,681  
+
+
+<a href="https://github.com/eugeneyan)">eugeneyan/</a><b><a href="https://github.com/eugeneyan/open-llms">open-llms</a></b>  
+🤖 A list of open LLMs available for commercial use.  
+Score: 66/100, Stars: 2,858, Stars/week: 2858, Forks: 148  
+
+
+<a href="https://github.com/mooler0410)">mooler0410/</a><b><a href="https://github.com/mooler0410/llmspracticalguide">LLMsPracticalGuide</a></b>  
+[https://arxiv.org/abs/2304.13712v2](https://arxiv.org/abs/2304.13712v2)  
+A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)  
+Score: 66/100, Stars: 3,359, Stars/week: 1237, Forks: 219  
+
+
+<a href="https://github.com/hannibal046)">hannibal046/</a><b><a href="https://github.com/hannibal046/awesome-llm">Awesome-LLM</a></b>  
+Awesome-LLM: a curated list of Large Language Model  
+Score: 63/100, Stars: 2,590, Stars/week: 215, Forks: 185  
 
 
 <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/recommenders">recommenders</a></b>  
@@ -61,6 +83,12 @@ FastAPI Best Practices and Conventions we used at our startup
 Score: 53/100, Stars: 3,345, Stars/week: 84, Forks: 245  
 
 
+<a href="https://github.com/promptslab)">promptslab/</a><b><a href="https://github.com/promptslab/awesome-prompt-engineering">Awesome-Prompt-Engineering</a></b>  
+[https://discord.gg/m88xfYMbK6](https://discord.gg/m88xfYMbK6)  
+This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc   
+Score: 52/100, Stars: 1,265, Stars/week: 96, Forks: 86  
+
+
 <a href="https://github.com/karpathy)">karpathy/</a><b><a href="https://github.com/karpathy/nn-zero-to-hero">nn-zero-to-hero</a></b>  
 Neural Networks: Zero to Hero  
 Score: 51/100, Stars: 8,115, Stars/week: 230, Forks: 851  
@@ -69,6 +97,11 @@ Score: 51/100, Stars: 8,115, Stars/week: 230, Forks: 851
 <a href="https://github.com/wesm)">wesm/</a><b><a href="https://github.com/wesm/pydata-book">pydata-book</a></b>  
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media  
 Score: 50/100, Stars: 19,321, Stars/week: 34, Forks: 14,207  
+
+
+<a href="https://github.com/christoschristofidis)">christoschristofidis/</a><b><a href="https://github.com/christoschristofidis/awesome-deep-learning">awesome-deep-learning</a></b>  
+A curated list of awesome Deep Learning tutorials, projects and communities.  
+Score: 50/100, Stars: 20,839, Stars/week: 47, Forks: 5,827  
 
 
 <a href="https://github.com/nielsrogge)">nielsrogge/</a><b><a href="https://github.com/nielsrogge/transformers-tutorials">Transformers-Tutorials</a></b>  
@@ -114,6 +147,11 @@ A Book about Pythonic Application Architecture Patterns for Managing Complexity.
 Score: 40/100, Stars: 2,951, Stars/week: 13, Forks: 495  
 
 
+<a href="https://github.com/timofurrer)">timofurrer/</a><b><a href="https://github.com/timofurrer/awesome-asyncio">awesome-asyncio</a></b>  
+A curated list of awesome Python asyncio frameworks, libraries, software and resources  
+Score: 39/100, Stars: 3,999, Stars/week: 11, Forks: 291  
+
+
 <a href="https://github.com/alirezadir)">alirezadir/</a><b><a href="https://github.com/alirezadir/machine-learning-interview-enlightener">Machine-Learning-Interviews</a></b>  
 This repo is meant to serve as a guide for Machine Learning/AI technical interviews.   
 Score: 39/100, Stars: 1,910, Stars/week: 16, Forks: 385  
@@ -125,9 +163,20 @@ A curated list of applied machine learning and data science notebooks and librar
 Score: 39/100, Stars: 6,798, Stars/week: 32, Forks: 1,134  
 
 
+<a href="https://github.com/krzjoa)">krzjoa/</a><b><a href="https://github.com/krzjoa/awesome-python-data-science">awesome-python-data-science</a></b>  
+[https://krzjoa.github.io/awesome-python-data-science](https://krzjoa.github.io/awesome-python-data-science)  
+Probably the best curated list of data science software in Python.  
+Score: 37/100, Stars: 1,897, Stars/week: 7, Forks: 290  
+
+
 <a href="https://github.com/karpathy)">karpathy/</a><b><a href="https://github.com/karpathy/micrograd">micrograd</a></b>  
 A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API  
 Score: 37/100, Stars: 4,801, Stars/week: 29, Forks: 575  
+
+
+<a href="https://github.com/chandlerbang)">chandlerbang/</a><b><a href="https://github.com/chandlerbang/awesome-self-supervised-gnn">awesome-self-supervised-gnn</a></b>  
+Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).  
+Score: 35/100, Stars: 1,113, Stars/week: 7, Forks: 130  
 
 
 <a href="https://github.com/amanchadha)">amanchadha/</a><b><a href="https://github.com/amanchadha/coursera-deep-learning-specialization">coursera-deep-learning-specialization</a></b>  
@@ -162,6 +211,11 @@ stanford-crfm/ecosystem-graphs
 Score: 25/100, Stars: 105, Stars/week: 2, Forks: 10  
 
 
+<a href="https://github.com/trananhkma)">trananhkma/</a><b><a href="https://github.com/trananhkma/fucking-awesome-python">fucking-awesome-python</a></b>  
+awesome-python with :octocat: :star: and :fork_and_knife:  
+Score: 25/100, Stars: 1,863, Stars/week: 5, Forks: 233  
+
+
 <a href="https://github.com/jackhidary)">jackhidary/</a><b><a href="https://github.com/jackhidary/quantumcomputingbook">quantumcomputingbook</a></b>  
 Companion site for the textbook Quantum Computing: An Applied Approach  
 Score: 22/100, Stars: 651, Stars/week: 3, Forks: 190  
@@ -176,6 +230,12 @@ Score: 21/100, Stars: 102, Stars/week: 2, Forks: 28
 <a href="https://github.com/nomic-ai)">nomic-ai/</a><b><a href="https://github.com/nomic-ai/semantic-search-app-template">semantic-search-app-template</a></b>  
 Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI  
 Score: 20/100, Stars: 46, Stars/week: 6, Forks: 4  
+
+
+<a href="https://github.com/dylanhogg)">dylanhogg/</a><b><a href="https://github.com/dylanhogg/awesome-python">awesome-python</a></b>  
+[https://www.awesomepython.org](https://www.awesomepython.org)  
+A curated list of awesome Python frameworks, with a bias towards data and machine learning  
+Score: 20/100, Stars: 83, Stars/week: 1, Forks: 8  
 
 
 <a href="https://github.com/googlecloudplatform)">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/practical-ml-vision-book">practical-ml-vision-book</a></b>  
