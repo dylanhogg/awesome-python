@@ -90,7 +90,12 @@ PaCAL - ProbAbilistic CALculator
 Score: 8/100, Stars: 21, Stars/week: 0, Forks: 8  
 
 
+---  
+
 Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-This list was updated on 2023-05-12.
+Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new issue</a> to suggest a Python repo that you would like to see added.  
+
+
+This list was updated on 2023-05-12

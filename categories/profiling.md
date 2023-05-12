@@ -83,7 +83,12 @@ Context Manager to profile the forward and backward times of PyTorch's nn.Module
 Score: 15/100, Stars: 75, Stars/week: 3, Forks: 3  
 
 
+---  
+
 Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
 
-This list was updated on 2023-05-12.
+Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new issue</a> to suggest a Python repo that you would like to see added.  
+
+
+This list was updated on 2023-05-12
