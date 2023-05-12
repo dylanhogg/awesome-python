@@ -20,13 +20,13 @@ Checkout the interactive version: [www.awesomepython.org](https://www.awesomepyt
 - [Jupyter](https://github.com/dylanhogg/awesome-python#jupyter)
 - [LLMs and ChatGPT](https://github.com/dylanhogg/awesome-python#llms-and-chatgpt)
 - [Math](https://github.com/dylanhogg/awesome-python#math)
-- [ML - General](https://github.com/dylanhogg/awesome-python#ml---general)
-- [ML - Deep Learning](https://github.com/dylanhogg/awesome-python#ml---deep-learning)
-- [ML - Interpretability](https://github.com/dylanhogg/awesome-python#ml---interpretability)
-- [ML - Ops](https://github.com/dylanhogg/awesome-python#ml---ops)
-- [ML - Reinforcement](https://github.com/dylanhogg/awesome-python#ml---reinforcement)
-- [ML - Time Series](https://github.com/dylanhogg/awesome-python#ml---time-series)
-- [NLP](https://github.com/dylanhogg/awesome-python#nlp)
+- [Machine Learning - General](https://github.com/dylanhogg/awesome-python#machine-learning---general)
+- [Machine Learning - Deep Learning](https://github.com/dylanhogg/awesome-python#machine-learning---deep-learning)
+- [Machine Learning - Interpretability](https://github.com/dylanhogg/awesome-python#machine-learning---interpretability)
+- [Machine Learning - Ops](https://github.com/dylanhogg/awesome-python#machine-learning---ops)
+- [Machine Learning - Reinforcement](https://github.com/dylanhogg/awesome-python#machine-learning---reinforcement)
+- [Machine Learning - Time Series](https://github.com/dylanhogg/awesome-python#machine-learning---time-series)
+- [Natural Language Processing](https://github.com/dylanhogg/awesome-python#natural-language-processing)
 - [Pandas](https://github.com/dylanhogg/awesome-python#pandas)
 - [Performance](https://github.com/dylanhogg/awesome-python#performance)
 - [Profiling](https://github.com/dylanhogg/awesome-python#profiling)
@@ -2552,7 +2552,7 @@ PaCAL - ProbAbilistic CALculator
 Score: 8/100, Stars: 21, Stars/week: 0, Forks: 8  
 
 
-## ML - General
+## Machine Learning - General
 1. <a href="https://github.com/scikit-learn)">scikit-learn/</a><b><a href="https://github.com/scikit-learn/scikit-learn">scikit-learn</a></b>  
 [https://scikit-learn.org](https://scikit-learn.org)  
 scikit-learn: machine learning in Python  
@@ -3314,7 +3314,7 @@ A flexible neural network framework for running experiments and trying ideas.
 Score: 11/100, Stars: 75, Stars/week: 0, Forks: 13  
 
 
-## ML - Deep Learning
+## Machine Learning - Deep Learning
 1. <a href="https://github.com/tensorflow)">tensorflow/</a><b><a href="https://github.com/tensorflow/tensorflow">tensorflow</a></b>  
 [https://tensorflow.org](https://tensorflow.org)  
 An Open Source Machine Learning Framework for Everyone  
@@ -3699,7 +3699,7 @@ This is a implementation of SDNE (Structural Deep Network embedding)
 Score: 12/100, Stars: 315, Stars/week: 1, Forks: 124  
 
 
-## ML - Interpretability
+## Machine Learning - Interpretability
 1. <a href="https://github.com/slundberg)">slundberg/</a><b><a href="https://github.com/slundberg/shap">shap</a></b>  
 A game theoretic approach to explain the output of any machine learning model.  
 Score: 57/100, Stars: 19,138, Stars/week: 56, Forks: 2,873  
@@ -3778,7 +3778,7 @@ A library for finding knowledge neurons in pretrained transformer models.
 Score: 7/100, Stars: 112, Stars/week: 1, Forks: 13  
 
 
-## ML - Ops
+## Machine Learning - Ops
 1. <a href="https://github.com/apache)">apache/</a><b><a href="https://github.com/apache/airflow">airflow</a></b>  
 [https://airflow.apache.org/](https://airflow.apache.org/)  
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
@@ -4034,7 +4034,7 @@ Ray provider for Apache Airflow
 Score: 12/100, Stars: 33, Stars/week: 0, Forks: 9  
 
 
-## ML - Reinforcement
+## Machine Learning - Reinforcement
 1. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/palm-rlhf-pytorch">PaLM-rlhf-pytorch</a></b>  
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
 Score: 70/100, Stars: 6,528, Stars/week: 296, Forks: 542  
@@ -4131,7 +4131,7 @@ Human preference data for "Training a Helpful and Harmless Assistant with Reinfo
 Score: 27/100, Stars: 809, Stars/week: 14, Forks: 64  
 
 
-## NLP
+## Natural Language Processing
 1. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/transformers">transformers</a></b>  
 [https://huggingface.co/transformers](https://huggingface.co/transformers)  
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
@@ -5830,7 +5830,7 @@ Parameterized testing with any Python test framework
 Score: 33/100, Stars: 748, Stars/week: 1, Forks: 99  
 
 
-## ML - Time Series
+## Machine Learning - Time Series
 1. <a href="https://github.com/sktime)">sktime/</a><b><a href="https://github.com/sktime/sktime">sktime</a></b>  
 [https://www.sktime.net](https://www.sktime.net)  
 A unified framework for machine learning with time series  
