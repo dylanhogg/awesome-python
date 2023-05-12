@@ -1,6 +1,0 @@
--r requirements.txt
-pytest
-black
-jupyterlab
-sentence-transformers
-markdown
