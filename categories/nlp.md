@@ -29,11 +29,6 @@ Score: 76/100, Stars: 16,079, Stars/week: 98, Forks: 2,156
 Score: 71/100, Stars: 26,034, Stars/week: 56, Forks: 4,110  
 
 
-<a href="https://github.com/whitead)">whitead/</a><b><a href="https://github.com/whitead/paper-qa">paper-qa</a></b>  
-LLM Chain for answering questions from documents with citations  
-Score: 68/100, Stars: 2,311, Stars/week: 168, Forks: 185  
-
-
 <a href="https://github.com/flairnlp)">flairnlp/</a><b><a href="https://github.com/flairnlp/flair">flair</a></b>  
 A very simple framework for state-of-the-art Natural Language Processing (NLP)  
 Score: 68/100, Stars: 12,743, Stars/week: 49, Forks: 2,014  

@@ -202,6 +202,11 @@ Python bindings for llama.cpp
 Score: 68/100, Stars: 932, Stars/week: 130, Forks: 109  
 
 
+<a href="https://github.com/whitead)">whitead/</a><b><a href="https://github.com/whitead/paper-qa">paper-qa</a></b>  
+LLM Chain for answering questions from documents with citations  
+Score: 68/100, Stars: 2,311, Stars/week: 168, Forks: 185  
+
+
 <a href="https://github.com/h2oai)">h2oai/</a><b><a href="https://github.com/h2oai/h2o-llmstudio">h2o-llmstudio</a></b>  
 [https://h2o.ai](https://h2o.ai)  
 H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
