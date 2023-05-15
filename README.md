@@ -1,7 +1,7 @@
 # dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
 Hand-picked awesome Python libraries and frameworks, 
-with an emphasis on data and machine learning, ranked by popularity score 🐍  
+with an emphasis on data and machine learning, ranked by influence score 🐍  
 
 Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  
 
