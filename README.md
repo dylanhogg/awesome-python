@@ -48,7 +48,7 @@ Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum
 1. <a href="https://github.com/ccxt)">ccxt/</a><b><a href="https://github.com/ccxt/ccxt">ccxt</a></b>  
 [https://docs.ccxt.com](https://docs.ccxt.com)  
 A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
-score: 77/100, stars/week: 90, stars: 28,219  
+score: 77/100, stars/week: 89, stars: 28,219  
 
 
 2. <a href="https://github.com/freqtrade)">freqtrade/</a><b><a href="https://github.com/freqtrade/freqtrade">freqtrade</a></b>  
@@ -71,7 +71,7 @@ score: 55/100, stars/week: 13, stars: 3,164
 5. <a href="https://github.com/crytic)">crytic/</a><b><a href="https://github.com/crytic/slither">slither</a></b>  
 [https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)  
 Static Analyzer for Solidity  
-score: 51/100, stars/week: 17, stars: 4,165  
+score: 51/100, stars/week: 16, stars: 4,165  
 
 
 6. <a href="https://github.com/ethereum)">ethereum/</a><b><a href="https://github.com/ethereum/py-evm">py-evm</a></b>  
@@ -169,7 +169,7 @@ score: 72/100, stars/week: 68, stars: 47,183
 3. <a href="https://github.com/chroma-core)">chroma-core/</a><b><a href="https://github.com/chroma-core/chroma">chroma</a></b>  
 [https://www.trychroma.com/](https://www.trychroma.com/)  
 the AI-native open-source embedding database  
-score: 72/100, stars/week: 159, stars: 5,105  
+score: 72/100, stars/week: 158, stars: 5,105  
 
 
 4. <a href="https://github.com/duckdb)">duckdb/</a><b><a href="https://github.com/duckdb/duckdb">duckdb</a></b>  
@@ -181,7 +181,7 @@ score: 71/100, stars/week: 39, stars: 10,060
 5. <a href="https://github.com/sqlalchemy)">sqlalchemy/</a><b><a href="https://github.com/sqlalchemy/sqlalchemy">sqlalchemy</a></b>  
 [https://www.sqlalchemy.org](https://www.sqlalchemy.org)  
 The Database Toolkit for Python  
-score: 70/100, stars/week: 31, stars: 7,229  
+score: 70/100, stars/week: 30, stars: 7,229  
 
 
 6. <a href="https://github.com/qdrant)">qdrant/</a><b><a href="https://github.com/qdrant/qdrant">qdrant</a></b>  
@@ -202,16 +202,16 @@ Ready-to-use OCR with 80+ supported languages and all popular writing scripts in
 score: 66/100, stars/week: 108, stars: 17,962  
 
 
-9. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/petals">petals</a></b>  
-[https://petals.ml](https://petals.ml)  
-🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading  
-score: 66/100, stars/week: 96, stars: 4,670  
-
-
-10. <a href="https://github.com/joke2k)">joke2k/</a><b><a href="https://github.com/joke2k/faker">faker</a></b>  
+9. <a href="https://github.com/joke2k)">joke2k/</a><b><a href="https://github.com/joke2k/faker">faker</a></b>  
 [https://faker.readthedocs.io](https://faker.readthedocs.io)  
 Faker is a Python package that generates fake data for you.  
 score: 65/100, stars/week: 28, stars: 15,786  
+
+
+10. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/petals">petals</a></b>  
+[https://petals.ml](https://petals.ml)  
+🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading  
+score: 65/100, stars/week: 96, stars: 4,670  
 
 
 11. <a href="https://github.com/simonw)">simonw/</a><b><a href="https://github.com/simonw/datasette">datasette</a></b>  
@@ -376,26 +376,26 @@ A unified interface for distributed computing. Fugue executes SQL, Python, Panda
 score: 45/100, stars/week: 9, stars: 1,583  
 
 
-39. <a href="https://github.com/sfu-db)">sfu-db/</a><b><a href="https://github.com/sfu-db/connector-x">connector-x</a></b>  
-[https://sfu-db.github.io/connector-x/intro.html](https://sfu-db.github.io/connector-x/intro.html)  
-Fastest library to load data from DB to DataFrames in Rust and Python  
-score: 45/100, stars/week: 10, stars: 1,245  
-
-
-40. <a href="https://github.com/binux)">binux/</a><b><a href="https://github.com/binux/pyspider">pyspider</a></b>  
+39. <a href="https://github.com/binux)">binux/</a><b><a href="https://github.com/binux/pyspider">pyspider</a></b>  
 [http://docs.pyspider.org/](http://docs.pyspider.org/)  
 A Powerful Spider(Web Crawler) System in Python.  
 score: 44/100, stars/week: 32, stars: 15,872  
 
 
-41. <a href="https://github.com/s0md3v)">s0md3v/</a><b><a href="https://github.com/s0md3v/photon">Photon</a></b>  
+40. <a href="https://github.com/s0md3v)">s0md3v/</a><b><a href="https://github.com/s0md3v/photon">Photon</a></b>  
 Incredibly fast crawler designed for OSINT.  
 score: 44/100, stars/week: 35, stars: 9,611  
 
 
-42. <a href="https://github.com/kaggle)">kaggle/</a><b><a href="https://github.com/kaggle/kaggle-api">kaggle-api</a></b>  
+41. <a href="https://github.com/kaggle)">kaggle/</a><b><a href="https://github.com/kaggle/kaggle-api">kaggle-api</a></b>  
 Official Kaggle API  
 score: 44/100, stars/week: 19, stars: 5,308  
+
+
+42. <a href="https://github.com/sfu-db)">sfu-db/</a><b><a href="https://github.com/sfu-db/connector-x">connector-x</a></b>  
+[https://sfu-db.github.io/connector-x/intro.html](https://sfu-db.github.io/connector-x/intro.html)  
+Fastest library to load data from DB to DataFrames in Rust and Python  
+score: 44/100, stars/week: 10, stars: 1,245  
 
 
 43. <a href="https://github.com/simonw)">simonw/</a><b><a href="https://github.com/simonw/sqlite-utils">sqlite-utils</a></b>  
@@ -649,7 +649,7 @@ score: 24/100, stars/week: 5, stars: 1,016
 
 87. <a href="https://github.com/qdrant)">qdrant/</a><b><a href="https://github.com/qdrant/qdrant-haystack">qdrant-haystack</a></b>  
 An integration of Qdrant ANN vector database backend with Haystack   
-score: 24/100, stars/week: 1, stars: 21  
+score: 23/100, stars/week: 1, stars: 21  
 
 
 88. <a href="https://github.com/dmarx)">dmarx/</a><b><a href="https://github.com/dmarx/psaw">psaw</a></b>  
@@ -784,75 +784,75 @@ Text-to-image diffusion model libraries, tools and apps for generating images fr
 1. <a href="https://github.com/invoke-ai)">invoke-ai/</a><b><a href="https://github.com/invoke-ai/invokeai">InvokeAI</a></b>  
 [https://invoke-ai.github.io/InvokeAI/](https://invoke-ai.github.io/InvokeAI/)  
 InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multi...  
-score: 86/100, stars/week: 362, stars: 14,134  
+score: 86/100, stars/week: 361, stars: 14,134  
 
 
 2. <a href="https://github.com/automatic1111)">automatic1111/</a><b><a href="https://github.com/automatic1111/stable-diffusion-webui">stable-diffusion-webui</a></b>  
 Stable Diffusion web UI  
-score: 83/100, stars/week: 1970, stars: 75,425  
+score: 83/100, stars/week: 1962, stars: 75,425  
 
 
 3. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/diffusers">diffusers</a></b>  
 [https://huggingface.co/docs/diffusers](https://huggingface.co/docs/diffusers)  
 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch  
-score: 83/100, stars/week: 291, stars: 14,672  
+score: 83/100, stars/week: 290, stars: 14,672  
 
 
 4. <a href="https://github.com/apple)">apple/</a><b><a href="https://github.com/apple/ml-stable-diffusion">ml-stable-diffusion</a></b>  
 Stable Diffusion with Core ML on Apple Silicon  
-score: 73/100, stars/week: 465, stars: 12,098  
+score: 73/100, stars/week: 462, stars: 12,098  
 
 
 5. <a href="https://github.com/divamgupta)">divamgupta/</a><b><a href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui">diffusionbee-stable-diffusion-ui</a></b>  
 [https://diffusionbee.com](https://diffusionbee.com)  
 Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.  
-score: 71/100, stars/week: 267, stars: 9,678  
+score: 71/100, stars/week: 266, stars: 9,678  
 
 
 6. <a href="https://github.com/lllyasviel)">lllyasviel/</a><b><a href="https://github.com/lllyasviel/controlnet">ControlNet</a></b>  
 Let us control diffusion models!  
-score: 70/100, stars/week: 1266, stars: 19,004  
+score: 70/100, stars/week: 1254, stars: 19,004  
 
 
 7. <a href="https://github.com/carson-katri)">carson-katri/</a><b><a href="https://github.com/carson-katri/dream-textures">dream-textures</a></b>  
 Stable Diffusion built-in to Blender  
-score: 70/100, stars/week: 184, stars: 6,621  
+score: 70/100, stars/week: 183, stars: 6,621  
 
 
 8. <a href="https://github.com/ashawkey)">ashawkey/</a><b><a href="https://github.com/ashawkey/stable-dreamfusion">stable-dreamfusion</a></b>  
 Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.  
-score: 70/100, stars/week: 172, stars: 5,489  
+score: 70/100, stars/week: 171, stars: 5,489  
 
 
 9. <a href="https://github.com/stability-ai)">stability-ai/</a><b><a href="https://github.com/stability-ai/stablediffusion">stablediffusion</a></b>  
 High-Resolution Image Synthesis with Latent Diffusion Models  
-score: 68/100, stars/week: 893, stars: 22,349  
+score: 68/100, stars/week: 888, stars: 22,349  
 
 
 10. <a href="https://github.com/idea-research)">idea-research/</a><b><a href="https://github.com/idea-research/groundingdino">GroundingDINO</a></b>  
 The official implementation of "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"  
-score: 66/100, stars/week: 179, stars: 1,774  
+score: 66/100, stars/week: 177, stars: 1,774  
 
 
 11. <a href="https://github.com/compvis)">compvis/</a><b><a href="https://github.com/compvis/stable-diffusion">stable-diffusion</a></b>  
 [https://ommer-lab.com/research/latent-diffusion-models/](https://ommer-lab.com/research/latent-diffusion-models/)  
 A latent text-to-image diffusion model  
-score: 65/100, stars/week: 1350, stars: 54,010  
+score: 65/100, stars/week: 1345, stars: 54,010  
 
 
 12. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/dalle2-pytorch">DALLE2-pytorch</a></b>  
 Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch  
-score: 65/100, stars/week: 167, stars: 9,666  
+score: 65/100, stars/week: 166, stars: 9,666  
 
 
 13. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/consistency_models">consistency_models</a></b>  
 Official repo for consistency models.  
-score: 65/100, stars/week: 451, stars: 5,158  
+score: 65/100, stars/week: 445, stars: 5,158  
 
 
 14. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/dinov2">dinov2</a></b>  
 PyTorch code and models for the DINOv2 self-supervised learning method.  
-score: 65/100, stars/week: 672, stars: 4,709  
+score: 65/100, stars/week: 659, stars: 4,709  
 
 
 15. <a href="https://github.com/nateraw)">nateraw/</a><b><a href="https://github.com/nateraw/stable-diffusion-videos">stable-diffusion-videos</a></b>  
@@ -868,30 +868,30 @@ score: 62/100, stars/week: 144, stars: 14,108
 
 17. <a href="https://github.com/timothybrooks)">timothybrooks/</a><b><a href="https://github.com/timothybrooks/instruct-pix2pix">instruct-pix2pix</a></b>  
 PyTorch implementation of InstructPix2Pix, an instruction-based image editing model, based on the original CompVis/stable_diffusion repo.  
-score: 61/100, stars/week: 248, stars: 4,547  
+score: 61/100, stars/week: 246, stars: 4,547  
 
 
 18. <a href="https://github.com/jina-ai)">jina-ai/</a><b><a href="https://github.com/jina-ai/discoart">discoart</a></b>  
 🪩 Create Disco Diffusion artworks in one line  
-score: 58/100, stars/week: 82, stars: 3,771  
+score: 58/100, stars/week: 81, stars: 3,771  
 
 
 19. <a href="https://github.com/stability-ai)">stability-ai/</a><b><a href="https://github.com/stability-ai/stability-sdk">stability-sdk</a></b>  
 [https://platform.stability.ai/](https://platform.stability.ai/)  
 SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)  
-score: 58/100, stars/week: 57, stars: 2,188  
+score: 58/100, stars/week: 56, stars: 2,188  
 
 
 20. <a href="https://github.com/nvlabs)">nvlabs/</a><b><a href="https://github.com/nvlabs/prismer">prismer</a></b>  
 [https://shikun.io/projects/prismer](https://shikun.io/projects/prismer)  
 The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".  
-score: 56/100, stars/week: 105, stars: 1,143  
+score: 56/100, stars/week: 103, stars: 1,143  
 
 
 21. <a href="https://github.com/chenyangqiqi)">chenyangqiqi/</a><b><a href="https://github.com/chenyangqiqi/fatezero">FateZero</a></b>  
 [http://fate-zero-edit.github.io/](http://fate-zero-edit.github.io/)  
 Pytorch Implementation for "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing"  
-score: 55/100, stars/week: 72, stars: 646  
+score: 55/100, stars/week: 71, stars: 646  
 
 
 22. <a href="https://github.com/compvis)">compvis/</a><b><a href="https://github.com/compvis/latent-diffusion">latent-diffusion</a></b>  
@@ -906,7 +906,7 @@ score: 53/100, stars/week: 90, stars: 3,324
 
 24. <a href="https://github.com/xavierxiao)">xavierxiao/</a><b><a href="https://github.com/xavierxiao/dreambooth-stable-diffusion">Dreambooth-Stable-Diffusion</a></b>  
 Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion  
-score: 51/100, stars/week: 177, stars: 6,418  
+score: 51/100, stars/week: 176, stars: 6,418  
 
 
 25. <a href="https://github.com/saharmor)">saharmor/</a><b><a href="https://github.com/saharmor/dalle-playground">dalle-playground</a></b>  
@@ -965,7 +965,7 @@ Financial and quantitative libraries: investment research tools, market data, al
 1. <a href="https://github.com/openbb-finance)">openbb-finance/</a><b><a href="https://github.com/openbb-finance/openbbterminal">OpenBBTerminal</a></b>  
 [https://my.openbb.co/app/terminal](https://my.openbb.co/app/terminal)  
 Investment Research for Everyone, Everywhere.  
-score: 79/100, stars/week: 175, stars: 21,960  
+score: 79/100, stars/week: 174, stars: 21,960  
 
 
 2. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/qlib">qlib</a></b>  
@@ -1013,7 +1013,7 @@ score: 47/100, stars/week: 15, stars: 3,636
 9. <a href="https://github.com/blankly-finance)">blankly-finance/</a><b><a href="https://github.com/blankly-finance/blankly">blankly</a></b>  
 [https://package.blankly.finance](https://package.blankly.finance)  
 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.  
-score: 46/100, stars/week: 14, stars: 1,599  
+score: 46/100, stars/week: 13, stars: 1,599  
 
 
 10. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/tf-quant-finance">tf-quant-finance</a></b>  
@@ -1808,7 +1808,7 @@ score: 19/100, stars/week: 6, stars: 165
 
 6. <a href="https://github.com/hamed1375)">hamed1375/</a><b><a href="https://github.com/hamed1375/exphormer">Exphormer</a></b>  
 Exphormer: Sparse Transformer for Graphs  
-score: 15/100, stars/week: 3, stars: 39  
+score: 14/100, stars/week: 3, stars: 39  
 
 
 7. <a href="https://github.com/guyallard)">guyallard/</a><b><a href="https://github.com/guyallard/markov_clustering">markov_clustering</a></b>  
@@ -1821,7 +1821,7 @@ Graphical user interface libraries and toolkits.
 
 1. <a href="https://github.com/pysimplegui)">pysimplegui/</a><b><a href="https://github.com/pysimplegui/pysimplegui">PySimpleGUI</a></b>  
 Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookboo...  
-score: 65/100, stars/week: 45, stars: 11,627  
+score: 64/100, stars/week: 45, stars: 11,627  
 
 
 2. <a href="https://github.com/hoffstadt)">hoffstadt/</a><b><a href="https://github.com/hoffstadt/dearpygui">DearPyGui</a></b>  
@@ -1998,332 +1998,333 @@ Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, ch
 1. <a href="https://github.com/torantulino)">torantulino/</a><b><a href="https://github.com/torantulino/auto-gpt">Auto-GPT</a></b>  
 [https://agpt.co](https://agpt.co)  
 An experimental open-source attempt to make GPT-4 fully autonomous.  
-score: 86/100, stars/week: 14819, stars: 131,258  
+score: 86/100, stars/week: 14584, stars: 131,258  
 
 
 2. <a href="https://github.com/hwchase17)">hwchase17/</a><b><a href="https://github.com/hwchase17/langchain">langchain</a></b>  
 ⚡ Building applications with LLMs through composability ⚡  
-score: 86/100, stars/week: 1292, stars: 39,131  
+score: 86/100, stars/week: 1285, stars: 39,131  
 
 
 3. <a href="https://github.com/hpcaitech)">hpcaitech/</a><b><a href="https://github.com/hpcaitech/colossalai">ColossalAI</a></b>  
 [https://www.colossalai.org](https://www.colossalai.org)  
 Making large AI models cheaper, faster and more accessible  
-score: 85/100, stars/week: 365, stars: 29,530  
+score: 85/100, stars/week: 364, stars: 29,530  
 
 
 4. <a href="https://github.com/laion-ai)">laion-ai/</a><b><a href="https://github.com/laion-ai/open-assistant">Open-Assistant</a></b>  
 [https://open-assistant.io](https://open-assistant.io)  
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.  
-score: 84/100, stars/week: 1479, stars: 32,767  
+score: 84/100, stars/week: 1470, stars: 32,767  
 
 
 5. <a href="https://github.com/jerryjliu)">jerryjliu/</a><b><a href="https://github.com/jerryjliu/llama_index">llama_index</a></b>  
 [https://gpt-index.readthedocs.io/en/latest/](https://gpt-index.readthedocs.io/en/latest/)  
 LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.  
-score: 84/100, stars/week: 546, stars: 15,310  
+score: 84/100, stars/week: 544, stars: 15,310  
 
 
 6. <a href="https://github.com/ggerganov)">ggerganov/</a><b><a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a></b>  
 Port of Facebook's LLaMA model in C/C++  
-score: 83/100, stars/week: 2814, stars: 27,339  
+score: 83/100, stars/week: 2773, stars: 27,339  
 
 
 7. <a href="https://github.com/acheong08)">acheong08/</a><b><a href="https://github.com/acheong08/chatgpt">ChatGPT</a></b>  
 Reverse engineered ChatGPT API  
-score: 83/100, stars/week: 1078, stars: 25,426  
+score: 83/100, stars/week: 1072, stars: 25,426  
 
 
 8. <a href="https://github.com/oobabooga)">oobabooga/</a><b><a href="https://github.com/oobabooga/text-generation-webui">text-generation-webui</a></b>  
 A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.  
-score: 81/100, stars/week: 615, stars: 12,929  
+score: 81/100, stars/week: 611, stars: 12,929  
 
 
 9. <a href="https://github.com/acheong08)">acheong08/</a><b><a href="https://github.com/acheong08/edgegpt">EdgeGPT</a></b>  
 Reverse engineered API of Microsoft's Bing Chat AI  
-score: 81/100, stars/week: 486, stars: 6,739  
+score: 81/100, stars/week: 481, stars: 6,739  
 
 
 10. <a href="https://github.com/lm-sys)">lm-sys/</a><b><a href="https://github.com/lm-sys/fastchat">FastChat</a></b>  
 An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.  
-score: 79/100, stars/week: 2376, stars: 20,033  
+score: 79/100, stars/week: 2337, stars: 20,033  
 
 
 11. <a href="https://github.com/yoheinakajima)">yoheinakajima/</a><b><a href="https://github.com/yoheinakajima/babyagi">babyagi</a></b>  
 GPT-4 powered task-driven autonomous agent  
-score: 79/100, stars/week: 2270, stars: 14,269  
+score: 79/100, stars/week: 2219, stars: 14,269  
 
 
 12. <a href="https://github.com/logspace-ai)">logspace-ai/</a><b><a href="https://github.com/logspace-ai/langflow">langflow</a></b>  
 [http://www.logspace.ai](http://www.logspace.ai)  
 ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.  
-score: 78/100, stars/week: 477, stars: 6,688  
+score: 78/100, stars/week: 472, stars: 6,688  
 
 
 13. <a href="https://github.com/xtekky)">xtekky/</a><b><a href="https://github.com/xtekky/gpt4free">gpt4free</a></b>  
 [https://discord.gg/gpt4free](https://discord.gg/gpt4free)  
 decentralising the Ai Industry, just some language model api's...  
-score: 76/100, stars/week: 5109, stars: 35,766  
+score: 76/100, stars/week: 5007, stars: 35,766  
 
 
 14. <a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/chatglm-6b">ChatGLM-6B</a></b>  
 ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型  
-score: 76/100, stars/week: 2635, stars: 24,468  
+score: 76/100, stars/week: 2595, stars: 24,468  
 
 
 15. <a href="https://github.com/tloen)">tloen/</a><b><a href="https://github.com/tloen/alpaca-lora">alpaca-lora</a></b>  
 Instruct-tune LLaMA on consumer hardware  
-score: 76/100, stars/week: 1550, stars: 14,394  
+score: 76/100, stars/week: 1526, stars: 14,394  
 
 
 16. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/semantic-kernel">semantic-kernel</a></b>  
 [https://aka.ms/semantic-kernel](https://aka.ms/semantic-kernel)  
 Integrate cutting-edge LLM technology quickly and easily into your apps  
-score: 76/100, stars/week: 769, stars: 8,688  
+score: 76/100, stars/week: 760, stars: 8,688  
 
 
-17. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/peft">peft</a></b>  
+17. <a href="https://github.com/idea-research)">idea-research/</a><b><a href="https://github.com/idea-research/grounded-segment-anything">Grounded-Segment-Anything</a></b>  
+Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs  
+score: 75/100, stars/week: 1393, stars: 8,359  
+
+
+18. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/peft">peft</a></b>  
 [https://huggingface.co/docs/peft](https://huggingface.co/docs/peft)  
 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.  
-score: 76/100, stars/week: 233, stars: 5,770  
-
-
-18. <a href="https://github.com/idea-research)">idea-research/</a><b><a href="https://github.com/idea-research/grounded-segment-anything">Grounded-Segment-Anything</a></b>  
-Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs  
-score: 75/100, stars/week: 1427, stars: 8,359  
+score: 75/100, stars/week: 232, stars: 5,770  
 
 
 19. <a href="https://github.com/zilliztech)">zilliztech/</a><b><a href="https://github.com/zilliztech/gptcache">GPTCache</a></b>  
 [https://gptcache.readthedocs.io](https://gptcache.readthedocs.io)  
 GPTCache is a semantic cache library for LLM models and multi-models, which seamlessly integrates with 🦜️🔗LangChain and 🦙llama_index, making it accessible to 🌎 developers working in any language.  
-score: 75/100, stars/week: 408, stars: 3,155  
+score: 75/100, stars/week: 401, stars: 3,155  
 
 
 20. <a href="https://github.com/nomic-ai)">nomic-ai/</a><b><a href="https://github.com/nomic-ai/gpt4all">gpt4all</a></b>  
 gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue  
-score: 74/100, stars/week: 5615, stars: 40,910  
+score: 74/100, stars/week: 5507, stars: 40,910  
 
 
 21. <a href="https://github.com/optimalscale)">optimalscale/</a><b><a href="https://github.com/optimalscale/lmflow">LMFlow</a></b>  
 [https://optimalscale.github.io/LMFlow/](https://optimalscale.github.io/LMFlow/)  
 An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.  
-score: 74/100, stars/week: 716, stars: 5,217  
+score: 74/100, stars/week: 702, stars: 5,217  
 
 
 22. <a href="https://github.com/karpathy)">karpathy/</a><b><a href="https://github.com/karpathy/nanogpt">nanoGPT</a></b>  
 The simplest, fastest repository for training/finetuning medium-sized GPTs.  
-score: 73/100, stars/week: 1023, stars: 20,473  
+score: 73/100, stars/week: 1016, stars: 20,473  
 
 
 23. <a href="https://github.com/blinkdl)">blinkdl/</a><b><a href="https://github.com/blinkdl/chatrwkv">ChatRWKV</a></b>  
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.  
-score: 73/100, stars/week: 392, stars: 6,954  
+score: 73/100, stars/week: 389, stars: 6,954  
 
 
 24. <a href="https://github.com/lightning-ai)">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lit-llama">lit-llama</a></b>  
 Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.  
-score: 73/100, stars/week: 467, stars: 3,741  
+score: 73/100, stars/week: 459, stars: 3,741  
 
 
 25. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/taskmatrix">TaskMatrix</a></b>  
 Connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.  
-score: 72/100, stars/week: 3014, stars: 32,731  
+score: 72/100, stars/week: 2975, stars: 32,731  
 
 
 26. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/jarvis">JARVIS</a></b>  
 JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf  
-score: 72/100, stars/week: 2964, stars: 20,328  
+score: 72/100, stars/week: 2904, stars: 20,328  
 
 
 27. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/chatgpt-retrieval-plugin">chatgpt-retrieval-plugin</a></b>  
 The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.  
-score: 72/100, stars/week: 2133, stars: 16,766  
+score: 72/100, stars/week: 2095, stars: 16,766  
 
 
 28. <a href="https://github.com/openlmlab)">openlmlab/</a><b><a href="https://github.com/openlmlab/moss">MOSS</a></b>  
 [https://txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)  
 An open-source tool-augmented conversational language model from Fudan University  
-score: 72/100, stars/week: 2194, stars: 10,032  
+score: 72/100, stars/week: 2128, stars: 10,032  
 
 
 29. <a href="https://github.com/haotian-liu)">haotian-liu/</a><b><a href="https://github.com/haotian-liu/llava">LLaVA</a></b>  
 [https://llava.hliu.cc](https://llava.hliu.cc)  
 Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.  
-score: 72/100, stars/week: 615, stars: 2,636  
+score: 72/100, stars/week: 595, stars: 2,636  
 
 
 30. <a href="https://github.com/databrickslabs)">databrickslabs/</a><b><a href="https://github.com/databrickslabs/dolly">dolly</a></b>  
 [https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
 Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
-score: 71/100, stars/week: 1281, stars: 9,886  
+score: 71/100, stars/week: 1258, stars: 9,886  
 
 
 31. <a href="https://github.com/mlc-ai)">mlc-ai/</a><b><a href="https://github.com/mlc-ai/web-llm">web-llm</a></b>  
 [https://mlc.ai/web-llm](https://mlc.ai/web-llm)  
 Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.  
-score: 71/100, stars/week: 1172, stars: 5,695  
+score: 71/100, stars/week: 1139, stars: 5,695  
 
 
-32. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/llama">llama</a></b>  
+32. <a href="https://github.com/bhaskatripathi)">bhaskatripathi/</a><b><a href="https://github.com/bhaskatripathi/pdfgpt">pdfGPT</a></b>  
+[https://huggingface.co/spaces/bhaskartripathi/pdfChatter](https://huggingface.co/spaces/bhaskartripathi/pdfChatter)  
+PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!  
+score: 71/100, stars/week: 394, stars: 4,053  
+
+
+33. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/llama">llama</a></b>  
 Inference code for LLaMA models  
-score: 70/100, stars/week: 1632, stars: 21,453  
+score: 70/100, stars/week: 1614, stars: 21,453  
 
 
-33. <a href="https://github.com/rasahq)">rasahq/</a><b><a href="https://github.com/rasahq/rasa">rasa</a></b>  
+34. <a href="https://github.com/rasahq)">rasahq/</a><b><a href="https://github.com/rasahq/rasa">rasa</a></b>  
 [https://rasa.com/docs/rasa/](https://rasa.com/docs/rasa/)  
 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants  
 score: 70/100, stars/week: 47, stars: 16,307  
 
 
-34. <a href="https://github.com/fauxpilot)">fauxpilot/</a><b><a href="https://github.com/fauxpilot/fauxpilot">fauxpilot</a></b>  
+35. <a href="https://github.com/fauxpilot)">fauxpilot/</a><b><a href="https://github.com/fauxpilot/fauxpilot">fauxpilot</a></b>  
 FauxPilot - an open-source alternative to GitHub Copilot server  
-score: 70/100, stars/week: 290, stars: 11,909  
+score: 70/100, stars/week: 289, stars: 11,909  
 
 
-35. <a href="https://github.com/zrrskywalker)">zrrskywalker/</a><b><a href="https://github.com/zrrskywalker/llama-adapter">LLaMA-Adapter</a></b>  
+36. <a href="https://github.com/zrrskywalker)">zrrskywalker/</a><b><a href="https://github.com/zrrskywalker/llama-adapter">LLaMA-Adapter</a></b>  
 Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters  
-score: 70/100, stars/week: 409, stars: 3,450  
+score: 70/100, stars/week: 402, stars: 3,450  
 
 
-36. <a href="https://github.com/vision-cair)">vision-cair/</a><b><a href="https://github.com/vision-cair/minigpt-4">MiniGPT-4</a></b>  
+37. <a href="https://github.com/vision-cair)">vision-cair/</a><b><a href="https://github.com/vision-cair/minigpt-4">MiniGPT-4</a></b>  
 [https://minigpt-4.github.io](https://minigpt-4.github.io)  
 MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models  
-score: 69/100, stars/week: 4182, stars: 19,120  
-
-
-37. <a href="https://github.com/h2oai)">h2oai/</a><b><a href="https://github.com/h2oai/h2o-llmstudio">h2o-llmstudio</a></b>  
-[https://h2o.ai](https://h2o.ai)  
-H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
-score: 69/100, stars/week: 301, stars: 1,293  
+score: 69/100, stars/week: 4055, stars: 19,120  
 
 
 38. <a href="https://github.com/abetlen)">abetlen/</a><b><a href="https://github.com/abetlen/llama-cpp-python">llama-cpp-python</a></b>  
 [https://abetlen.github.io/llama-cpp-python/](https://abetlen.github.io/llama-cpp-python/)  
 Python bindings for llama.cpp  
-score: 69/100, stars/week: 147, stars: 1,157  
+score: 69/100, stars/week: 144, stars: 1,157  
 
 
 39. <a href="https://github.com/tatsu-lab)">tatsu-lab/</a><b><a href="https://github.com/tatsu-lab/stanford_alpaca">stanford_alpaca</a></b>  
 [https://crfm.stanford.edu/2023/03/13/alpaca.html](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
 Code and documentation to train Stanford's Alpaca models, and generate the data.  
-score: 68/100, stars/week: 2445, stars: 23,759  
+score: 68/100, stars/week: 2410, stars: 23,759  
 
 
 40. <a href="https://github.com/imartinez)">imartinez/</a><b><a href="https://github.com/imartinez/privategpt">privateGPT</a></b>  
 Interact privately with your documents using the power of GPT, 100% privately, no data leaks  
-score: 68/100, stars/week: 7592, stars: 16,269  
+score: 68/100, stars/week: 7117, stars: 16,269  
 
 
 41. <a href="https://github.com/ravenscroftj)">ravenscroftj/</a><b><a href="https://github.com/ravenscroftj/turbopilot">turbopilot</a></b>  
 Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU  
-score: 68/100, stars/week: 630, stars: 3,420  
+score: 68/100, stars/week: 613, stars: 3,420  
 
 
-42. <a href="https://github.com/deepset-ai)">deepset-ai/</a><b><a href="https://github.com/deepset-ai/haystack">haystack</a></b>  
+42. <a href="https://github.com/h2oai)">h2oai/</a><b><a href="https://github.com/h2oai/h2o-llmstudio">h2o-llmstudio</a></b>  
+[https://h2o.ai](https://h2o.ai)  
+H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs  
+score: 68/100, stars/week: 291, stars: 1,293  
+
+
+43. <a href="https://github.com/deepset-ai)">deepset-ai/</a><b><a href="https://github.com/deepset-ai/haystack">haystack</a></b>  
 [https://haystack.deepset.ai](https://haystack.deepset.ai)  
 :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.  
 score: 67/100, stars/week: 47, stars: 8,719  
 
 
-43. <a href="https://github.com/whitead)">whitead/</a><b><a href="https://github.com/whitead/paper-qa">paper-qa</a></b>  
+44. <a href="https://github.com/whitead)">whitead/</a><b><a href="https://github.com/whitead/paper-qa">paper-qa</a></b>  
 LLM Chain for answering questions from documents with citations  
-score: 67/100, stars/week: 165, stars: 2,389  
+score: 67/100, stars/week: 163, stars: 2,389  
 
 
-44. <a href="https://github.com/mmabrouk)">mmabrouk/</a><b><a href="https://github.com/mmabrouk/chatgpt-wrapper">chatgpt-wrapper</a></b>  
+45. <a href="https://github.com/mmabrouk)">mmabrouk/</a><b><a href="https://github.com/mmabrouk/chatgpt-wrapper">chatgpt-wrapper</a></b>  
 API for interacting with ChatGPT and GPT4 using Python and from Shell.  
-score: 66/100, stars/week: 137, stars: 3,242  
-
-
-45. <a href="https://github.com/nomic-ai)">nomic-ai/</a><b><a href="https://github.com/nomic-ai/pygpt4all">pygpt4all</a></b>  
-[https://nomic-ai.github.io/pygpt4all/](https://nomic-ai.github.io/pygpt4all/)  
-Official supported Python bindings for llama.cpp + gpt4all  
-score: 66/100, stars/week: 157, stars: 989  
+score: 66/100, stars/week: 136, stars: 3,242  
 
 
 46. <a href="https://github.com/mayooear)">mayooear/</a><b><a href="https://github.com/mayooear/gpt4-pdf-chatbot-langchain">gpt4-pdf-chatbot-langchain</a></b>  
 [https://www.youtube.com/watch?v=ih9PBGVVOO4](https://www.youtube.com/watch?v=ih9PBGVVOO4)  
 GPT4 & LangChain Chatbot for large PDF docs  
-score: 65/100, stars/week: 1194, stars: 10,407  
+score: 65/100, stars/week: 1174, stars: 10,407  
 
 
 47. <a href="https://github.com/togethercomputer)">togethercomputer/</a><b><a href="https://github.com/togethercomputer/redpajama-data">RedPajama-Data</a></b>  
 The RedPajama-Data repository contains code for preparing large datasets for training large language models.  
-score: 65/100, stars/week: 559, stars: 2,639  
+score: 65/100, stars/week: 543, stars: 2,639  
 
 
 48. <a href="https://github.com/freedomintelligence)">freedomintelligence/</a><b><a href="https://github.com/freedomintelligence/llmzoo">LLMZoo</a></b>  
 ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡  
-score: 65/100, stars/week: 297, stars: 1,952  
+score: 65/100, stars/week: 290, stars: 1,952  
 
 
 49. <a href="https://github.com/nlpxucan)">nlpxucan/</a><b><a href="https://github.com/nlpxucan/wizardlm">WizardLM</a></b>  
 WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions  
-score: 65/100, stars/week: 471, stars: 1,615  
+score: 65/100, stars/week: 452, stars: 1,615  
 
 
-50. <a href="https://github.com/nvidia)">nvidia/</a><b><a href="https://github.com/nvidia/nemo-guardrails">NeMo-Guardrails</a></b>  
-NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.  
-score: 65/100, stars/week: 337, stars: 1,397  
+50. <a href="https://github.com/nomic-ai)">nomic-ai/</a><b><a href="https://github.com/nomic-ai/pygpt4all">pygpt4all</a></b>  
+[https://nomic-ai.github.io/pygpt4all/](https://nomic-ai.github.io/pygpt4all/)  
+Official supported Python bindings for llama.cpp + gpt4all  
+score: 65/100, stars/week: 153, stars: 989  
 
 
 51. <a href="https://github.com/openlm-research)">openlm-research/</a><b><a href="https://github.com/openlm-research/open_llama">open_llama</a></b>  
 OpenLLaMA: An Open Reproduction of LLaMA  
-score: 64/100, stars/week: 1290, stars: 3,503  
+score: 64/100, stars/week: 1226, stars: 3,503  
 
 
-52. <a href="https://github.com/instruction-tuning-with-gpt-4)">instruction-tuning-with-gpt-4/</a><b><a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">GPT-4-LLM</a></b>  
+52. <a href="https://github.com/nvidia)">nvidia/</a><b><a href="https://github.com/nvidia/nemo-guardrails">NeMo-Guardrails</a></b>  
+NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.  
+score: 64/100, stars/week: 325, stars: 1,397  
+
+
+53. <a href="https://github.com/instruction-tuning-with-gpt-4)">instruction-tuning-with-gpt-4/</a><b><a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">GPT-4-LLM</a></b>  
 [https://instruction-tuning-with-gpt-4.github.io/](https://instruction-tuning-with-gpt-4.github.io/)  
 Instruction Tuning with GPT-4  
-score: 63/100, stars/week: 439, stars: 2,576  
+score: 63/100, stars/week: 429, stars: 2,576  
 
 
-53. <a href="https://github.com/juncongmoo)">juncongmoo/</a><b><a href="https://github.com/juncongmoo/pyllama">pyllama</a></b>  
+54. <a href="https://github.com/juncongmoo)">juncongmoo/</a><b><a href="https://github.com/juncongmoo/pyllama">pyllama</a></b>  
 LLaMA: Open and Efficient Foundation Language Models  
-score: 63/100, stars/week: 179, stars: 1,998  
+score: 63/100, stars/week: 177, stars: 1,998  
 
 
-54. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neox">gpt-neox</a></b>  
+55. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neox">gpt-neox</a></b>  
 An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.  
 score: 62/100, stars/week: 42, stars: 5,358  
 
 
-55. <a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/codegeex">CodeGeeX</a></b>  
+56. <a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/codegeex">CodeGeeX</a></b>  
 [https://codegeex.cn](https://codegeex.cn)  
 CodeGeeX: An Open Multilingual Code Generation Model  
 score: 62/100, stars/week: 147, stars: 5,116  
 
 
-56. <a href="https://github.com/lvwerra)">lvwerra/</a><b><a href="https://github.com/lvwerra/trl">trl</a></b>  
+57. <a href="https://github.com/lvwerra)">lvwerra/</a><b><a href="https://github.com/lvwerra/trl">trl</a></b>  
 [http://hf.co/docs/trl](http://hf.co/docs/trl)  
 Train transformer language models with reinforcement learning.  
 score: 59/100, stars/week: 20, stars: 3,377  
 
 
-57. <a href="https://github.com/eth-sri)">eth-sri/</a><b><a href="https://github.com/eth-sri/lmql">lmql</a></b>  
+58. <a href="https://github.com/eth-sri)">eth-sri/</a><b><a href="https://github.com/eth-sri/lmql">lmql</a></b>  
 [https://lmql.ai](https://lmql.ai)  
 A query language for programming (large) language models.   
-score: 59/100, stars/week: 46, stars: 1,148  
+score: 59/100, stars/week: 45, stars: 1,148  
 
 
-58. <a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/glm-130b">GLM-130B</a></b>  
+59. <a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/glm-130b">GLM-130B</a></b>  
 GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)  
-score: 58/100, stars/week: 136, stars: 5,583  
+score: 58/100, stars/week: 135, stars: 5,583  
 
 
-59. <a href="https://github.com/blinkdl)">blinkdl/</a><b><a href="https://github.com/blinkdl/rwkv-lm">RWKV-LM</a></b>  
+60. <a href="https://github.com/blinkdl)">blinkdl/</a><b><a href="https://github.com/blinkdl/rwkv-lm">RWKV-LM</a></b>  
 RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.  
 score: 57/100, stars/week: 71, stars: 6,609  
 
 
-60. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b>  
+61. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b>  
 microsoft/BioGPT  
-score: 57/100, stars/week: 98, stars: 3,861  
-
-
-61. <a href="https://github.com/jina-ai)">jina-ai/</a><b><a href="https://github.com/jina-ai/thinkgpt">thinkgpt</a></b>  
-Agent techniques to augment your LLM and push it beyong its limits  
-score: 57/100, stars/week: 233, stars: 1,099  
+score: 57/100, stars/week: 97, stars: 3,861  
 
 
 62. <a href="https://github.com/young-geng)">young-geng/</a><b><a href="https://github.com/young-geng/easylm">EasyLM</a></b>  
@@ -2331,153 +2332,153 @@ Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-tr
 score: 56/100, stars/week: 54, stars: 1,373  
 
 
-63. <a href="https://github.com/oliveirabruno01)">oliveirabruno01/</a><b><a href="https://github.com/oliveirabruno01/babyagi-asi">babyagi-asi</a></b>  
+63. <a href="https://github.com/jina-ai)">jina-ai/</a><b><a href="https://github.com/jina-ai/thinkgpt">thinkgpt</a></b>  
+Agent techniques to augment your LLM and push it beyong its limits  
+score: 56/100, stars/week: 226, stars: 1,099  
+
+
+64. <a href="https://github.com/oliveirabruno01)">oliveirabruno01/</a><b><a href="https://github.com/oliveirabruno01/babyagi-asi">babyagi-asi</a></b>  
 BabyAGI: an Autonomous and Self-Improving agent, or BASI  
-score: 55/100, stars/week: 106, stars: 611  
+score: 55/100, stars/week: 104, stars: 611  
 
 
-64. <a href="https://github.com/karpathy)">karpathy/</a><b><a href="https://github.com/karpathy/mingpt">minGPT</a></b>  
+65. <a href="https://github.com/karpathy)">karpathy/</a><b><a href="https://github.com/karpathy/mingpt">minGPT</a></b>  
 A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training  
 score: 54/100, stars/week: 106, stars: 15,210  
 
 
-65. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/guidance">guidance</a></b>  
+66. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/guidance">guidance</a></b>  
 A guidance language for controlling large language models.  
 score: 54/100, stars/week: 75, stars: 2,034  
 
 
-66. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/toolformer-pytorch">toolformer-pytorch</a></b>  
+67. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/toolformer-pytorch">toolformer-pytorch</a></b>  
 Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI  
-score: 54/100, stars/week: 97, stars: 1,341  
+score: 54/100, stars/week: 96, stars: 1,341  
 
 
-67. <a href="https://github.com/chatarena)">chatarena/</a><b><a href="https://github.com/chatarena/chatarena">chatarena</a></b>  
+68. <a href="https://github.com/chatarena)">chatarena/</a><b><a href="https://github.com/chatarena/chatarena">chatarena</a></b>  
 ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.  
-score: 54/100, stars/week: 71, stars: 734  
+score: 54/100, stars/week: 70, stars: 734  
 
 
-68. <a href="https://github.com/nvidia)">nvidia/</a><b><a href="https://github.com/nvidia/megatron-lm">Megatron-LM</a></b>  
+69. <a href="https://github.com/nvidia)">nvidia/</a><b><a href="https://github.com/nvidia/megatron-lm">Megatron-LM</a></b>  
 Ongoing research training transformer models at scale  
 score: 53/100, stars/week: 23, stars: 5,041  
 
 
-69. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/lmops">LMOps</a></b>  
+70. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/lmops">LMOps</a></b>  
 [https://aka.ms/nlpagi](https://aka.ms/nlpagi)  
 General technology for enabling AI capabilities w/ LLMs and MLLMs  
-score: 52/100, stars/week: 69, stars: 1,528  
+score: 52/100, stars/week: 68, stars: 1,528  
 
 
-70. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/lora">LoRA</a></b>  
+71. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/lora">LoRA</a></b>  
 [https://arxiv.org/abs/2106.09685](https://arxiv.org/abs/2106.09685)  
 Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"  
 score: 51/100, stars/week: 39, stars: 3,978  
 
 
-71. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/torchscale">torchscale</a></b>  
+72. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/torchscale">torchscale</a></b>  
 [https://aka.ms/nlpagi](https://aka.ms/nlpagi)  
 Transformers at any scale  
-score: 50/100, stars/week: 63, stars: 1,633  
+score: 50/100, stars/week: 62, stars: 1,633  
 
 
-72. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2">gpt-2</a></b>  
+73. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2">gpt-2</a></b>  
 [https://openai.com/blog/better-language-models/](https://openai.com/blog/better-language-models/)  
 Code for the paper "Language Models are Unsupervised Multitask Learners"  
 score: 49/100, stars/week: 85, stars: 19,057  
 
 
-73. <a href="https://github.com/ofa-sys)">ofa-sys/</a><b><a href="https://github.com/ofa-sys/ofa">OFA</a></b>  
+74. <a href="https://github.com/ofa-sys)">ofa-sys/</a><b><a href="https://github.com/ofa-sys/ofa">OFA</a></b>  
 Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework  
 score: 49/100, stars/week: 27, stars: 1,861  
 
 
-74. <a href="https://github.com/run-llama)">run-llama/</a><b><a href="https://github.com/run-llama/llama-lab">llama-lab</a></b>  
+75. <a href="https://github.com/run-llama)">run-llama/</a><b><a href="https://github.com/run-llama/llama-lab">llama-lab</a></b>  
 Llama Lab is a repo dedicated to building cutting-edge projects using LlamaIndex  
-score: 49/100, stars/week: 117, stars: 556  
+score: 49/100, stars/week: 114, stars: 556  
 
 
-75. <a href="https://github.com/yizhongw)">yizhongw/</a><b><a href="https://github.com/yizhongw/self-instruct">self-instruct</a></b>  
+76. <a href="https://github.com/yizhongw)">yizhongw/</a><b><a href="https://github.com/yizhongw/self-instruct">self-instruct</a></b>  
 Aligning pretrained language models with instruction data generated by themselves.  
-score: 48/100, stars/week: 105, stars: 2,222  
+score: 48/100, stars/week: 104, stars: 2,222  
 
 
-76. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b>  
+77. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b>  
 A framework for few-shot evaluation of autoregressive language models.  
 score: 47/100, stars/week: 8, stars: 1,185  
 
 
-77. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b>  
+78. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b>  
 [https://www.eleuther.ai](https://www.eleuther.ai)  
 An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
 score: 43/100, stars/week: 52, stars: 7,800  
 
 
-78. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
+79. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
 Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
-score: 42/100, stars/week: 68, stars: 1,435  
+score: 42/100, stars/week: 67, stars: 1,435  
 
 
-79. <a href="https://github.com/ist-daslab)">ist-daslab/</a><b><a href="https://github.com/ist-daslab/gptq">gptq</a></b>  
+80. <a href="https://github.com/ist-daslab)">ist-daslab/</a><b><a href="https://github.com/ist-daslab/gptq">gptq</a></b>  
 [https://arxiv.org/abs/2210.17323](https://arxiv.org/abs/2210.17323)  
 Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".  
 score: 42/100, stars/week: 24, stars: 748  
 
 
-80. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/aitextgen">aitextgen</a></b>  
+81. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/aitextgen">aitextgen</a></b>  
 [https://docs.aitextgen.io](https://docs.aitextgen.io)  
 A robust Python tool for text-based AI training and generation using GPT-2.  
 score: 41/100, stars/week: 9, stars: 1,764  
 
 
-81. <a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
+82. <a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
 [https://spacy.io/usage/embeddings-transformers](https://spacy.io/usage/embeddings-transformers)  
 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
 score: 41/100, stars/week: 6, stars: 1,245  
 
 
-82. <a href="https://github.com/kbressem)">kbressem/</a><b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
+83. <a href="https://github.com/kbressem)">kbressem/</a><b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
 LLM finetuned for medical question answering  
-score: 41/100, stars/week: 21, stars: 151  
+score: 41/100, stars/week: 20, stars: 151  
 
 
-83. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b>  
+84. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b>  
 Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts  
 score: 40/100, stars/week: 15, stars: 3,267  
 
 
-84. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
+85. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 score: 40/100, stars/week: 7, stars: 758  
 
 
-85. <a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
+86. <a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
 Language Modeling with the H3 State Space Model  
 score: 40/100, stars/week: 20, stars: 415  
 
 
-86. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
+87. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 score: 39/100, stars/week: 6, stars: 604  
 
 
-87. <a href="https://github.com/muennighoff)">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
+88. <a href="https://github.com/muennighoff)">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
 SGPT: GPT Sentence Embeddings for Semantic Search  
 score: 35/100, stars/week: 7, stars: 491  
 
 
-88. <a href="https://github.com/reasoning-machines)">reasoning-machines/</a><b><a href="https://github.com/reasoning-machines/pal">pal</a></b>  
+89. <a href="https://github.com/reasoning-machines)">reasoning-machines/</a><b><a href="https://github.com/reasoning-machines/pal">pal</a></b>  
 [https://reasonwithpal.com](https://reasonwithpal.com)  
 PaL: Program-Aided Language Models  
 score: 34/100, stars/week: 10, stars: 267  
 
 
-89. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/medical-chatgpt">medical-chatgpt</a></b>  
+90. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/medical-chatgpt">medical-chatgpt</a></b>  
 Implementation of ChatGPT, but tailored towards primary care medicine, with the reward being able to collect patient histories in a thorough and efficient manner and come up with a reasonable differential diagnosis  
 score: 33/100, stars/week: 12, stars: 284  
-
-
-90. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/chatgpt-robot-manipulation-prompts">ChatGPT-Robot-Manipulation-Prompts</a></b>  
-microsoft/ChatGPT-Robot-Manipulation-Prompts  
-score: 33/100, stars/week: 31, stars: 182  
 
 
 91. <a href="https://github.com/keirp)">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b>  
@@ -2485,59 +2486,64 @@ Large Language Models Are Human-Level Prompt Engineers
 score: 32/100, stars/week: 16, stars: 482  
 
 
-92. <a href="https://github.com/conceptofmind)">conceptofmind/</a><b><a href="https://github.com/conceptofmind/toolformer">toolformer</a></b>  
+92. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/chatgpt-robot-manipulation-prompts">ChatGPT-Robot-Manipulation-Prompts</a></b>  
+microsoft/ChatGPT-Robot-Manipulation-Prompts  
+score: 32/100, stars/week: 30, stars: 182  
+
+
+93. <a href="https://github.com/conceptofmind)">conceptofmind/</a><b><a href="https://github.com/conceptofmind/toolformer">toolformer</a></b>  
 Open-source implementation of Toolformer: Language Models Can Teach Themselves to Use Tools  
 score: 31/100, stars/week: 16, stars: 212  
 
 
-93. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
+94. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
 Dataset of GPT-2 outputs for research in detection, biases, and more  
 score: 28/100, stars/week: 8, stars: 1,704  
 
 
-94. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
+95. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
 Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
 score: 26/100, stars/week: 5, stars: 383  
 
 
-95. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/langchain-prefect">langchain-prefect</a></b>  
+96. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/langchain-prefect">langchain-prefect</a></b>  
 [https://prefecthq.github.io/langchain-prefect/](https://prefecthq.github.io/langchain-prefect/)  
 Tools for using Langchain with Prefect  
 score: 26/100, stars/week: 6, stars: 64  
 
 
-96. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
+97. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
 Archived. Code and models from the paper "Generative Pretraining from Pixels"  
 score: 24/100, stars/week: 11, stars: 1,881  
 
 
-97. <a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/jaxformer">jaxformer</a></b>  
+98. <a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/jaxformer">jaxformer</a></b>  
 Minimal library to train LLMs on TPU in JAX with pjit().  
 score: 23/100, stars/week: 5, stars: 194  
 
 
-98. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
+99. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
 [https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
 score: 21/100, stars/week: 7, stars: 1,831  
 
 
-99. <a href="https://github.com/larsbaunwall)">larsbaunwall/</a><b><a href="https://github.com/larsbaunwall/bricky">bricky</a></b>  
+100. <a href="https://github.com/larsbaunwall)">larsbaunwall/</a><b><a href="https://github.com/larsbaunwall/bricky">bricky</a></b>  
 Haystack/OpenAI based chatbot curating a custom knowledgebase  
 score: 20/100, stars/week: 4, stars: 75  
 
 
-100. <a href="https://github.com/anthropics)">anthropics/</a><b><a href="https://github.com/anthropics/evals">evals</a></b>  
+101. <a href="https://github.com/anthropics)">anthropics/</a><b><a href="https://github.com/anthropics/evals">evals</a></b>  
 Model-Written Evaluation Datasets  
 score: 18/100, stars/week: 6, stars: 136  
 
 
-101. <a href="https://github.com/ai21labs)">ai21labs/</a><b><a href="https://github.com/ai21labs/in-context-ralm">in-context-ralm</a></b>  
+102. <a href="https://github.com/ai21labs)">ai21labs/</a><b><a href="https://github.com/ai21labs/in-context-ralm">in-context-ralm</a></b>  
 In-Context Retrieval-Augmented Language Models  
 score: 16/100, stars/week: 4, stars: 77  
 
 
-102. <a href="https://github.com/qanastek)">qanastek/</a><b><a href="https://github.com/qanastek/drbert">DrBERT</a></b>  
+103. <a href="https://github.com/qanastek)">qanastek/</a><b><a href="https://github.com/qanastek/drbert">DrBERT</a></b>  
 [https://drbert.univ-avignon.fr/](https://drbert.univ-avignon.fr/)  
 DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains  
 score: 10/100, stars/week: 1, stars: 9  
@@ -2641,13 +2647,13 @@ score: 84/100, stars/week: 81, stars: 54,244
 
 2. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/evals">evals</a></b>  
 Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.  
-score: 80/100, stars/week: 580, stars: 9,461  
+score: 80/100, stars/week: 575, stars: 9,461  
 
 
 3. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/openai-cookbook">openai-cookbook</a></b>  
 [https://platform.openai.com/docs/](https://platform.openai.com/docs/)  
 Examples and guides for using the OpenAI API  
-score: 76/100, stars/week: 570, stars: 35,180  
+score: 76/100, stars/week: 568, stars: 35,180  
 
 
 4. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/jax">jax</a></b>  
@@ -2682,7 +2688,7 @@ score: 73/100, stars/week: 49, stars: 24,136
 
 9. <a href="https://github.com/suno-ai)">suno-ai/</a><b><a href="https://github.com/suno-ai/bark">bark</a></b>  
 🔊 Text-Prompted Generative Audio Model  
-score: 73/100, stars/week: 3311, stars: 18,924  
+score: 73/100, stars/week: 3230, stars: 18,924  
 
 
 10. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/faiss">faiss</a></b>  
@@ -2693,7 +2699,7 @@ score: 69/100, stars/week: 66, stars: 21,708
 
 11. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/animateddrawings">AnimatedDrawings</a></b>  
 Code to accompany "A Method for Animating Children's Drawings of the Human Figure"  
-score: 68/100, stars/week: 315, stars: 7,581  
+score: 68/100, stars/week: 314, stars: 7,581  
 
 
 12. <a href="https://github.com/optuna)">optuna/</a><b><a href="https://github.com/optuna/optuna">optuna</a></b>  
@@ -2756,7 +2762,7 @@ score: 64/100, stars/week: 40, stars: 7,295
 
 22. <a href="https://github.com/sanchit-gandhi)">sanchit-gandhi/</a><b><a href="https://github.com/sanchit-gandhi/whisper-jax">whisper-jax</a></b>  
 JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.  
-score: 64/100, stars/week: 236, stars: 2,572  
+score: 64/100, stars/week: 233, stars: 2,572  
 
 
 23. <a href="https://github.com/open-mmlab)">open-mmlab/</a><b><a href="https://github.com/open-mmlab/mmsegmentation">mmsegmentation</a></b>  
@@ -2774,13 +2780,13 @@ score: 63/100, stars/week: 70, stars: 2,925
 25. <a href="https://github.com/open-mmlab)">open-mmlab/</a><b><a href="https://github.com/open-mmlab/mmcv">mmcv</a></b>  
 [https://mmcv.readthedocs.io/en/latest/](https://mmcv.readthedocs.io/en/latest/)  
 OpenMMLab Computer Vision Foundation  
-score: 61/100, stars/week: 20, stars: 4,942  
+score: 61/100, stars/week: 19, stars: 4,942  
 
 
 26. <a href="https://github.com/twitter)">twitter/</a><b><a href="https://github.com/twitter/the-algorithm-ml">the-algorithm-ml</a></b>  
 [https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
 Source code for Twitter's Recommendation Algorithm  
-score: 60/100, stars/week: 1294, stars: 9,432  
+score: 60/100, stars/week: 1269, stars: 9,432  
 
 
 27. <a href="https://github.com/pymc-devs)">pymc-devs/</a><b><a href="https://github.com/pymc-devs/pymc3">pymc</a></b>  
@@ -2820,7 +2826,7 @@ score: 58/100, stars/week: 18, stars: 4,227
 
 33. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/musiclm-pytorch">musiclm-pytorch</a></b>  
 Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch  
-score: 58/100, stars/week: 149, stars: 2,342  
+score: 58/100, stars/week: 147, stars: 2,342  
 
 
 34. <a href="https://github.com/aws)">aws/</a><b><a href="https://github.com/aws/sagemaker-python-sdk">sagemaker-python-sdk</a></b>  
@@ -2890,7 +2896,7 @@ score: 55/100, stars/week: 18, stars: 2,935
 
 45. <a href="https://github.com/ageron)">ageron/</a><b><a href="https://github.com/ageron/handson-ml2">handson-ml2</a></b>  
 A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.  
-score: 54/100, stars/week: 109, stars: 24,761  
+score: 54/100, stars/week: 108, stars: 24,761  
 
 
 46. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/evaluate">evaluate</a></b>  
@@ -3187,7 +3193,7 @@ score: 41/100, stars/week: 3, stars: 146
 
 98. <a href="https://github.com/shankarpandala)">shankarpandala/</a><b><a href="https://github.com/shankarpandala/lazypredict">lazypredict</a></b>  
 Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning  
-score: 40/100, stars/week: 11, stars: 2,009  
+score: 40/100, stars/week: 10, stars: 2,009  
 
 
 99. <a href="https://github.com/bmabey)">bmabey/</a><b><a href="https://github.com/bmabey/pyldavis">pyLDAvis</a></b>  
@@ -3396,7 +3402,7 @@ score: 11/100, stars/week: 1, stars: 75
 
 136. <a href="https://github.com/pgniewko)">pgniewko/</a><b><a href="https://github.com/pgniewko/forward_forward_vhts">forward_forward_vhts</a></b>  
 The Forward-Forward Algorithm for Drug Discovery  
-score: 11/100, stars/week: 1, stars: 30  
+score: 10/100, stars/week: 1, stars: 30  
 
 
 ## Machine Learning - Deep Learning
@@ -3428,7 +3434,7 @@ score: 80/100, stars/week: 107, stars: 23,095
 
 5. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/whisper">whisper</a></b>  
 Robust Speech Recognition via Large-Scale Weak Supervision  
-score: 78/100, stars/week: 1045, stars: 36,308  
+score: 78/100, stars/week: 1041, stars: 36,308  
 
 
 6. <a href="https://github.com/paddlepaddle)">paddlepaddle/</a><b><a href="https://github.com/paddlepaddle/paddle">Paddle</a></b>  
@@ -3451,7 +3457,7 @@ score: 74/100, stars/week: 112, stars: 25,243
 
 9. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/segment-anything">segment-anything</a></b>  
 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.  
-score: 73/100, stars/week: 4143, stars: 32,553  
+score: 73/100, stars/week: 4069, stars: 32,553  
 
 
 10. <a href="https://github.com/pyg-team)">pyg-team/</a><b><a href="https://github.com/pyg-team/pytorch_geometric">pytorch_geometric</a></b>  
@@ -3480,12 +3486,12 @@ score: 70/100, stars/week: 128, stars: 24,848
 
 14. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/imagebind">ImageBind</a></b>  
 ImageBind One Embedding Space to Bind Them All  
-score: 68/100, stars/week: 658, stars: 5,175  
+score: 68/100, stars/week: 646, stars: 5,175  
 
 
 15. <a href="https://github.com/facebookincubator)">facebookincubator/</a><b><a href="https://github.com/facebookincubator/aitemplate">AITemplate</a></b>  
 AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.  
-score: 68/100, stars/week: 73, stars: 3,197  
+score: 68/100, stars/week: 72, stars: 3,197  
 
 
 16. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/imagen-pytorch">imagen-pytorch</a></b>  
@@ -3512,7 +3518,7 @@ score: 64/100, stars/week: 48, stars: 20,406
 
 20. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/vit-pytorch">vit-pytorch</a></b>  
 Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch  
-score: 64/100, stars/week: 103, stars: 14,071  
+score: 64/100, stars/week: 102, stars: 14,071  
 
 
 21. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/pytorch3d">pytorch3d</a></b>  
@@ -3974,179 +3980,185 @@ Feature Store for Machine Learning
 score: 60/100, stars/week: 18, stars: 4,299  
 
 
-15. <a href="https://github.com/bentoml)">bentoml/</a><b><a href="https://github.com/bentoml/bentoml">BentoML</a></b>  
+15. <a href="https://github.com/dagworks-inc)">dagworks-inc/</a><b><a href="https://github.com/dagworks-inc/hamilton">hamilton</a></b>  
+[https://hamilton.readthedocs.io/en/latest/](https://hamilton.readthedocs.io/en/latest/)  
+A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python scripts, etc.  
+score: 60/100, stars/week: 50, stars: 608  
+
+
+16. <a href="https://github.com/bentoml)">bentoml/</a><b><a href="https://github.com/bentoml/bentoml">BentoML</a></b>  
 [https://bentoml.com](https://bentoml.com)  
 Unified Model Serving Framework 🍱  
 score: 59/100, stars/week: 22, stars: 4,899  
 
 
-16. <a href="https://github.com/spotify)">spotify/</a><b><a href="https://github.com/spotify/luigi">luigi</a></b>  
+17. <a href="https://github.com/spotify)">spotify/</a><b><a href="https://github.com/spotify/luigi">luigi</a></b>  
 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.   
 score: 58/100, stars/week: 29, stars: 16,538  
 
 
-17. <a href="https://github.com/aimhubio)">aimhubio/</a><b><a href="https://github.com/aimhubio/aim">aim</a></b>  
+18. <a href="https://github.com/aimhubio)">aimhubio/</a><b><a href="https://github.com/aimhubio/aim">aim</a></b>  
 [https://aimstack.io](https://aimstack.io)  
 Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)  
 score: 58/100, stars/week: 17, stars: 3,655  
 
 
-18. <a href="https://github.com/determined-ai)">determined-ai/</a><b><a href="https://github.com/determined-ai/determined">determined</a></b>  
+19. <a href="https://github.com/determined-ai)">determined-ai/</a><b><a href="https://github.com/determined-ai/determined">determined</a></b>  
 [https://determined.ai](https://determined.ai)  
 Determined: Deep Learning Training Platform  
 score: 58/100, stars/week: 14, stars: 2,303  
 
 
-19. <a href="https://github.com/allegroai)">allegroai/</a><b><a href="https://github.com/allegroai/clearml">clearml</a></b>  
+20. <a href="https://github.com/allegroai)">allegroai/</a><b><a href="https://github.com/allegroai/clearml">clearml</a></b>  
 [https://clear.ml/docs](https://clear.ml/docs)  
 ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management  
 score: 57/100, stars/week: 21, stars: 4,399  
 
 
-20. <a href="https://github.com/flyteorg)">flyteorg/</a><b><a href="https://github.com/flyteorg/flyte">flyte</a></b>  
+21. <a href="https://github.com/flyteorg)">flyteorg/</a><b><a href="https://github.com/flyteorg/flyte">flyte</a></b>  
 [https://flyte.org](https://flyte.org)  
 Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.  
 score: 57/100, stars/week: 17, stars: 3,348  
 
 
-21. <a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/pipelines">pipelines</a></b>  
+22. <a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/pipelines">pipelines</a></b>  
 [https://www.kubeflow.org/docs/components/pipelines/](https://www.kubeflow.org/docs/components/pipelines/)  
 Machine Learning Pipelines for Kubeflow  
 score: 57/100, stars/week: 12, stars: 3,186  
 
 
-22. <a href="https://github.com/orchest)">orchest/</a><b><a href="https://github.com/orchest/orchest">orchest</a></b>  
+23. <a href="https://github.com/orchest)">orchest/</a><b><a href="https://github.com/orchest/orchest">orchest</a></b>  
 [https://orchest.io](https://orchest.io)  
 Build data pipelines, the easy way 🛠️  
 score: 56/100, stars/week: 24, stars: 3,833  
 
 
-23. <a href="https://github.com/evidentlyai)">evidentlyai/</a><b><a href="https://github.com/evidentlyai/evidently">evidently</a></b>  
+24. <a href="https://github.com/evidentlyai)">evidentlyai/</a><b><a href="https://github.com/evidentlyai/evidently">evidently</a></b>  
 Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b  
 score: 56/100, stars/week: 26, stars: 3,426  
 
 
-24. <a href="https://github.com/adap)">adap/</a><b><a href="https://github.com/adap/flower">flower</a></b>  
+25. <a href="https://github.com/adap)">adap/</a><b><a href="https://github.com/adap/flower">flower</a></b>  
 [https://flower.dev](https://flower.dev)  
 Flower: A Friendly Federated Learning Framework  
 score: 52/100, stars/week: 15, stars: 2,552  
 
 
-25. <a href="https://github.com/ploomber)">ploomber/</a><b><a href="https://github.com/ploomber/ploomber">ploomber</a></b>  
+26. <a href="https://github.com/ploomber)">ploomber/</a><b><a href="https://github.com/ploomber/ploomber">ploomber</a></b>  
 [https://ploomber.io](https://ploomber.io)  
 The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️  
 score: 50/100, stars/week: 17, stars: 3,072  
 
 
-26. <a href="https://github.com/skops-dev)">skops-dev/</a><b><a href="https://github.com/skops-dev/skops">skops</a></b>  
+27. <a href="https://github.com/skops-dev)">skops-dev/</a><b><a href="https://github.com/skops-dev/skops">skops</a></b>  
 [https://skops.readthedocs.io/en/stable/](https://skops.readthedocs.io/en/stable/)  
 skops is a Python library helping you share your scikit-learn based models and put them in production  
 score: 46/100, stars/week: 5, stars: 320  
 
 
-27. <a href="https://github.com/polyaxon)">polyaxon/</a><b><a href="https://github.com/polyaxon/polyaxon">polyaxon</a></b>  
+28. <a href="https://github.com/polyaxon)">polyaxon/</a><b><a href="https://github.com/polyaxon/polyaxon">polyaxon</a></b>  
 [https://polyaxon.com](https://polyaxon.com)  
 MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle  
 score: 44/100, stars/week: 9, stars: 3,312  
 
 
-28. <a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/astro-sdk">astro-sdk</a></b>  
+29. <a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/astro-sdk">astro-sdk</a></b>  
 [https://astro-sdk-python.rtfd.io/](https://astro-sdk-python.rtfd.io/)  
 Astro SDK allows rapid and clean development of {Extract, Load, Transform} workflows using Python and SQL, powered by Apache Airflow.  
 score: 41/100, stars/week: 3, stars: 256  
 
 
-29. <a href="https://github.com/kedro-org)">kedro-org/</a><b><a href="https://github.com/kedro-org/kedro-viz">kedro-viz</a></b>  
+30. <a href="https://github.com/kedro-org)">kedro-org/</a><b><a href="https://github.com/kedro-org/kedro-viz">kedro-viz</a></b>  
 [https://demo.kedro.org/](https://demo.kedro.org/)  
 Visualise your Kedro data and machine-learning pipelines and track your experiments.   
 score: 40/100, stars/week: 2, stars: 551  
 
 
-30. <a href="https://github.com/hi-primus)">hi-primus/</a><b><a href="https://github.com/hi-primus/optimus">optimus</a></b>  
+31. <a href="https://github.com/hi-primus)">hi-primus/</a><b><a href="https://github.com/hi-primus/optimus">optimus</a></b>  
 [https://hi-optimus.com](https://hi-optimus.com)  
 :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark  
 score: 39/100, stars/week: 4, stars: 1,361  
 
 
-31. <a href="https://github.com/nccr-itmo)">nccr-itmo/</a><b><a href="https://github.com/nccr-itmo/fedot">FEDOT</a></b>  
+32. <a href="https://github.com/nccr-itmo)">nccr-itmo/</a><b><a href="https://github.com/nccr-itmo/fedot">FEDOT</a></b>  
 [https://fedot.readthedocs.io](https://fedot.readthedocs.io)  
 Automated modeling and machine learning framework FEDOT  
 score: 38/100, stars/week: 3, stars: 524  
 
 
-32. <a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/astronomer">astronomer</a></b>  
+33. <a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/astronomer">astronomer</a></b>  
 [https://www.astronomer.io](https://www.astronomer.io)  
 Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes  
 score: 38/100, stars/week: 1, stars: 445  
 
 
-33. <a href="https://github.com/tensorflow)">tensorflow/</a><b><a href="https://github.com/tensorflow/data-validation">data-validation</a></b>  
+34. <a href="https://github.com/tensorflow)">tensorflow/</a><b><a href="https://github.com/tensorflow/data-validation">data-validation</a></b>  
 Library for exploring and validating machine learning data  
 score: 37/100, stars/week: 2, stars: 717  
 
 
-34. <a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/examples">examples</a></b>  
+35. <a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/examples">examples</a></b>  
 A repository to host extended examples and tutorials  
 score: 34/100, stars/week: 4, stars: 1,286  
 
 
-35. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/ml-metadata">ml-metadata</a></b>  
+36. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/ml-metadata">ml-metadata</a></b>  
 [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)  
 For recording and retrieving metadata associated with ML developer and data scientist workflows.  
 score: 33/100, stars/week: 2, stars: 531  
 
 
-36. <a href="https://github.com/unionai-oss)">unionai-oss/</a><b><a href="https://github.com/unionai-oss/unionml">unionml</a></b>  
+37. <a href="https://github.com/unionai-oss)">unionai-oss/</a><b><a href="https://github.com/unionai-oss/unionml">unionml</a></b>  
 [https://www.union.ai/unionml](https://www.union.ai/unionml)  
 UnionML: the easiest way to build and deploy machine learning microservices  
 score: 33/100, stars/week: 3, stars: 286  
 
 
-37. <a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/airflow-chart">airflow-chart</a></b>  
+38. <a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/airflow-chart">airflow-chart</a></b>  
 A Helm chart to install Apache Airflow on Kubernetes  
 score: 32/100, stars/week: 1, stars: 249  
 
 
-38. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/prefect-dbt">prefect-dbt</a></b>  
+39. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/prefect-dbt">prefect-dbt</a></b>  
 [https://prefecthq.github.io/prefect-dbt/](https://prefecthq.github.io/prefect-dbt/)  
 Collection of Prefect integrations for working with dbt with your Prefect flows.  
 score: 28/100, stars/week: 1, stars: 67  
 
 
-39. <a href="https://github.com/kubeflow-kale)">kubeflow-kale/</a><b><a href="https://github.com/kubeflow-kale/kale">kale</a></b>  
+40. <a href="https://github.com/kubeflow-kale)">kubeflow-kale/</a><b><a href="https://github.com/kubeflow-kale/kale">kale</a></b>  
 [http://kubeflow-kale.github.io](http://kubeflow-kale.github.io)  
 Kubeflow’s superfood for Data Scientists  
 score: 26/100, stars/week: 2, stars: 598  
 
 
-40. <a href="https://github.com/bodywork-ml)">bodywork-ml/</a><b><a href="https://github.com/bodywork-ml/bodywork-core">bodywork-core</a></b>  
+41. <a href="https://github.com/bodywork-ml)">bodywork-ml/</a><b><a href="https://github.com/bodywork-ml/bodywork-core">bodywork-core</a></b>  
 [https://bodywork.readthedocs.io/en/latest/](https://bodywork.readthedocs.io/en/latest/)  
 ML pipeline orchestration and model deployments on Kubernetes, made really easy.  
 score: 24/100, stars/week: 3, stars: 419  
 
 
-41. <a href="https://github.com/getindata)">getindata/</a><b><a href="https://github.com/getindata/kedro-kubeflow">kedro-kubeflow</a></b>  
+42. <a href="https://github.com/getindata)">getindata/</a><b><a href="https://github.com/getindata/kedro-kubeflow">kedro-kubeflow</a></b>  
 [https://kedro-kubeflow.readthedocs.io](https://kedro-kubeflow.readthedocs.io)  
 Kedro Plugin to support running workflows on Kubeflow Pipelines  
 score: 23/100, stars/week: 1, stars: 40  
 
 
-42. <a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/fairing">fairing</a></b>  
+43. <a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/fairing">fairing</a></b>  
 Python SDK for building, training, and deploying ML models  
 score: 20/100, stars/week: 1, stars: 331  
 
 
-43. <a href="https://github.com/aiqc)">aiqc/</a><b><a href="https://github.com/aiqc/aiqc">AIQC</a></b>  
+44. <a href="https://github.com/aiqc)">aiqc/</a><b><a href="https://github.com/aiqc/aiqc">AIQC</a></b>  
 End-to-end deep learning on your desktop or server.  
 score: 15/100, stars/week: 1, stars: 94  
 
 
-44. <a href="https://github.com/anyscale)">anyscale/</a><b><a href="https://github.com/anyscale/prefect-anyscale">prefect-anyscale</a></b>  
+45. <a href="https://github.com/anyscale)">anyscale/</a><b><a href="https://github.com/anyscale/prefect-anyscale">prefect-anyscale</a></b>  
 Prefect integration with Anyscale  
 score: 14/100, stars/week: 1, stars: 7  
 
 
-45. <a href="https://github.com/anyscale)">anyscale/</a><b><a href="https://github.com/anyscale/airflow-provider-ray">airflow-provider-ray</a></b>  
+46. <a href="https://github.com/anyscale)">anyscale/</a><b><a href="https://github.com/anyscale/airflow-provider-ray">airflow-provider-ray</a></b>  
 Ray provider for Apache Airflow  
 score: 12/100, stars/week: 1, stars: 34  
 
@@ -4156,7 +4168,7 @@ Machine learning libraries and toolkits that cross over with reinforcement learn
 
 1. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/palm-rlhf-pytorch">PaLM-rlhf-pytorch</a></b>  
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM  
-score: 69/100, stars/week: 296, stars: 6,746  
+score: 69/100, stars/week: 295, stars: 6,746  
 
 
 2. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gym">gym</a></b>  
@@ -4261,7 +4273,7 @@ score: 93/100, stars/week: 420, stars: 99,815
 
 2. <a href="https://github.com/togethercomputer)">togethercomputer/</a><b><a href="https://github.com/togethercomputer/openchatkit">OpenChatKit</a></b>  
 OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots  
-score: 77/100, stars/week: 770, stars: 8,250  
+score: 77/100, stars/week: 759, stars: 8,250  
 
 
 3. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/datasets">datasets</a></b>  
@@ -4273,7 +4285,7 @@ score: 75/100, stars/week: 98, stars: 16,177
 4. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/marvin">marvin</a></b>  
 [https://askmarvin.ai](https://askmarvin.ai)  
 A batteries-included library for building AI-powered software  
-score: 72/100, stars/week: 251, stars: 2,443  
+score: 72/100, stars/week: 247, stars: 2,443  
 
 
 5. <a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy">spaCy</a></b>  
@@ -4294,7 +4306,7 @@ score: 67/100, stars/week: 49, stars: 12,772
 
 8. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/tiktoken">tiktoken</a></b>  
 tiktoken is a fast BPE tokeniser for use with OpenAI's models.  
-score: 67/100, stars/week: 196, stars: 4,679  
+score: 67/100, stars/week: 194, stars: 4,679  
 
 
 9. <a href="https://github.com/speechbrain)">speechbrain/</a><b><a href="https://github.com/speechbrain/speechbrain">speechbrain</a></b>  
@@ -4365,7 +4377,7 @@ score: 58/100, stars/week: 17, stars: 1,891
 
 20. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/setfit">setfit</a></b>  
 Efficient few-shot learning with Sentence Transformers  
-score: 58/100, stars/week: 30, stars: 1,376  
+score: 58/100, stars/week: 29, stars: 1,376  
 
 
 21. <a href="https://github.com/doccano)">doccano/</a><b><a href="https://github.com/doccano/doccano">doccano</a></b>  
@@ -4750,12 +4762,12 @@ score: 81/100, stars/week: 57, stars: 38,348
 
 2. <a href="https://github.com/gventuri)">gventuri/</a><b><a href="https://github.com/gventuri/pandas-ai">pandas-ai</a></b>  
 Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational  
-score: 76/100, stars/week: 1627, stars: 5,811  
+score: 76/100, stars/week: 1564, stars: 5,811  
 
 
 3. <a href="https://github.com/kanaries)">kanaries/</a><b><a href="https://github.com/kanaries/pygwalker">pygwalker</a></b>  
 PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis  
-score: 75/100, stars/week: 413, stars: 5,316  
+score: 75/100, stars/week: 408, stars: 5,316  
 
 
 4. <a href="https://github.com/aws)">aws/</a><b><a href="https://github.com/aws/aws-sdk-pandas">aws-sdk-pandas</a></b>  
@@ -4764,104 +4776,98 @@ pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptun
 score: 63/100, stars/week: 15, stars: 3,446  
 
 
-5. <a href="https://github.com/dagworks-inc)">dagworks-inc/</a><b><a href="https://github.com/dagworks-inc/hamilton">hamilton</a></b>  
-[https://hamilton.readthedocs.io/en/latest/](https://hamilton.readthedocs.io/en/latest/)  
-A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python scripts, etc.  
-score: 60/100, stars/week: 51, stars: 608  
-
-
-6. <a href="https://github.com/ydataai)">ydataai/</a><b><a href="https://github.com/ydataai/ydata-profiling">ydata-profiling</a></b>  
+5. <a href="https://github.com/ydataai)">ydataai/</a><b><a href="https://github.com/ydataai/ydata-profiling">ydata-profiling</a></b>  
 [https://ydata-profiling.ydata.ai](https://ydata-profiling.ydata.ai)  
 Create HTML profiling reports from pandas DataFrame objects  
 score: 57/100, stars/week: 27, stars: 10,602  
 
 
-7. <a href="https://github.com/pandera-dev)">pandera-dev/</a><b><a href="https://github.com/pandera-dev/pandera">pandera</a></b>  
+6. <a href="https://github.com/pandera-dev)">pandera-dev/</a><b><a href="https://github.com/pandera-dev/pandera">pandera</a></b>  
 [https://www.union.ai/pandera](https://www.union.ai/pandera)  
 A light-weight, flexible, and expressive statistical data testing library  
 score: 53/100, stars/week: 9, stars: 2,320  
 
 
-8. <a href="https://github.com/nalepae)">nalepae/</a><b><a href="https://github.com/nalepae/pandarallel">pandarallel</a></b>  
+7. <a href="https://github.com/nalepae)">nalepae/</a><b><a href="https://github.com/nalepae/pandarallel">pandarallel</a></b>  
 [https://nalepae.github.io/pandarallel](https://nalepae.github.io/pandarallel)  
 A simple and efficient tool to parallelize Pandas operations on all available CPUs  
 score: 50/100, stars/week: 13, stars: 3,035  
 
 
-9. <a href="https://github.com/eventual-inc)">eventual-inc/</a><b><a href="https://github.com/eventual-inc/daft">Daft</a></b>  
+8. <a href="https://github.com/eventual-inc)">eventual-inc/</a><b><a href="https://github.com/eventual-inc/daft">Daft</a></b>  
 [https://getdaft.io](https://getdaft.io)  
 The Python DataFrame for Complex Data  
 score: 50/100, stars/week: 9, stars: 552  
 
 
-10. <a href="https://github.com/jmcarpenter2)">jmcarpenter2/</a><b><a href="https://github.com/jmcarpenter2/swifter">swifter</a></b>  
+9. <a href="https://github.com/jmcarpenter2)">jmcarpenter2/</a><b><a href="https://github.com/jmcarpenter2/swifter">swifter</a></b>  
 A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner  
 score: 43/100, stars/week: 8, stars: 2,267  
 
 
-11. <a href="https://github.com/pyjanitor-devs)">pyjanitor-devs/</a><b><a href="https://github.com/pyjanitor-devs/pyjanitor">pyjanitor</a></b>  
+10. <a href="https://github.com/pyjanitor-devs)">pyjanitor-devs/</a><b><a href="https://github.com/pyjanitor-devs/pyjanitor">pyjanitor</a></b>  
 [https://pyjanitor-devs.github.io/pyjanitor](https://pyjanitor-devs.github.io/pyjanitor)  
 Clean APIs for data cleaning. Python implementation of R package Janitor  
 score: 42/100, stars/week: 4, stars: 1,140  
 
 
-12. <a href="https://github.com/adamerose)">adamerose/</a><b><a href="https://github.com/adamerose/pandasgui">PandasGUI</a></b>  
+11. <a href="https://github.com/adamerose)">adamerose/</a><b><a href="https://github.com/adamerose/pandasgui">PandasGUI</a></b>  
 A GUI for Pandas DataFrames  
 score: 38/100, stars/week: 14, stars: 2,923  
 
 
-13. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/hvplot">hvplot</a></b>  
+12. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/hvplot">hvplot</a></b>  
 [https://hvplot.holoviz.org](https://hvplot.holoviz.org)  
 A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews  
 score: 38/100, stars/week: 2, stars: 753  
 
 
-14. <a href="https://github.com/scikit-learn-contrib)">scikit-learn-contrib/</a><b><a href="https://github.com/scikit-learn-contrib/sklearn-pandas">sklearn-pandas</a></b>  
+13. <a href="https://github.com/scikit-learn-contrib)">scikit-learn-contrib/</a><b><a href="https://github.com/scikit-learn-contrib/sklearn-pandas">sklearn-pandas</a></b>  
 Pandas integration with sklearn  
 score: 34/100, stars/week: 5, stars: 2,713  
 
 
-15. <a href="https://github.com/pydata)">pydata/</a><b><a href="https://github.com/pydata/pandas-datareader">pandas-datareader</a></b>  
+14. <a href="https://github.com/pydata)">pydata/</a><b><a href="https://github.com/pydata/pandas-datareader">pandas-datareader</a></b>  
 [https://pydata.github.io/pandas-datareader/stable/index.html](https://pydata.github.io/pandas-datareader/stable/index.html)  
 Extract data from a wide range of Internet sources into a pandas DataFrame.  
 score: 34/100, stars/week: 6, stars: 2,648  
 
 
-16. <a href="https://github.com/machow)">machow/</a><b><a href="https://github.com/machow/siuba">siuba</a></b>  
+15. <a href="https://github.com/machow)">machow/</a><b><a href="https://github.com/machow/siuba">siuba</a></b>  
 [https://siuba.org](https://siuba.org)  
 Python library for using dplyr like syntax with pandas and SQL  
 score: 33/100, stars/week: 4, stars: 1,024  
 
 
-17. <a href="https://github.com/blaze)">blaze/</a><b><a href="https://github.com/blaze/blaze">blaze</a></b>  
+16. <a href="https://github.com/blaze)">blaze/</a><b><a href="https://github.com/blaze/blaze">blaze</a></b>  
 [blaze.pydata.org](blaze.pydata.org)  
 NumPy and Pandas interface to Big Data  
 score: 32/100, stars/week: 5, stars: 3,140  
 
 
-18. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/spatialpandas">spatialpandas</a></b>  
+17. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/spatialpandas">spatialpandas</a></b>  
 Pandas extension arrays for spatial/geometric operations  
 score: 31/100, stars/week: 1, stars: 268  
 
 
-19. <a href="https://github.com/polyaxon)">polyaxon/</a><b><a href="https://github.com/polyaxon/datatile">traceml</a></b>  
+18. <a href="https://github.com/polyaxon)">polyaxon/</a><b><a href="https://github.com/polyaxon/datatile">traceml</a></b>  
 Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.  
 score: 29/100, stars/week: 1, stars: 470  
 
 
-20. <a href="https://github.com/tkrabel)">tkrabel/</a><b><a href="https://github.com/tkrabel/bamboolib">bamboolib</a></b>  
+19. <a href="https://github.com/tkrabel)">tkrabel/</a><b><a href="https://github.com/tkrabel/bamboolib">bamboolib</a></b>  
 [https://bamboolib.com](https://bamboolib.com)  
 bamboolib - a GUI for pandas DataFrames  
 score: 26/100, stars/week: 4, stars: 895  
 
 
-21. <a href="https://github.com/zsailer)">zsailer/</a><b><a href="https://github.com/zsailer/pandas_flavor">pandas_flavor</a></b>  
+20. <a href="https://github.com/zsailer)">zsailer/</a><b><a href="https://github.com/zsailer/pandas_flavor">pandas_flavor</a></b>  
 [https://zsailer.github.io/software/pandas-flavor/](https://zsailer.github.io/software/pandas-flavor/)  
 The easy way to write your own flavor of Pandas  
 score: 21/100, stars/week: 1, stars: 275  
 
 
-22. <a href="https://github.com/ddelange)">ddelange/</a><b><a href="https://github.com/ddelange/mapply">mapply</a></b>  
+21. <a href="https://github.com/ddelange)">ddelange/</a><b><a href="https://github.com/ddelange/mapply">mapply</a></b>  
 Sensible multi-core apply function for Pandas  
 score: 20/100, stars/week: 1, stars: 41  
 
@@ -4872,7 +4878,7 @@ Performance, parallelisation and low level libraries.
 1. <a href="https://github.com/pola-rs)">pola-rs/</a><b><a href="https://github.com/pola-rs/polars">polars</a></b>  
 [https://pola.rs/](https://pola.rs/)  
 Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js  
-score: 78/100, stars/week: 109, stars: 17,116  
+score: 78/100, stars/week: 108, stars: 17,116  
 
 
 2. <a href="https://github.com/nebuly-ai)">nebuly-ai/</a><b><a href="https://github.com/nebuly-ai/nebullvm">nebuly</a></b>  
@@ -5096,7 +5102,7 @@ score: 61/100, stars/week: 43, stars: 7,669
 
 3. <a href="https://github.com/benfred)">benfred/</a><b><a href="https://github.com/benfred/py-spy">py-spy</a></b>  
 Sampling profiler for Python programs  
-score: 54/100, stars/week: 41, stars: 10,251  
+score: 54/100, stars/week: 40, stars: 10,251  
 
 
 4. <a href="https://github.com/joerick)">joerick/</a><b><a href="https://github.com/joerick/pyinstrument">pyinstrument</a></b>  
@@ -5243,7 +5249,7 @@ score: 59/100, stars/week: 6, stars: 3,773
 3. <a href="https://github.com/atsushisakai)">atsushisakai/</a><b><a href="https://github.com/atsushisakai/pythonrobotics">PythonRobotics</a></b>  
 [https://atsushisakai.github.io/PythonRobotics/](https://atsushisakai.github.io/PythonRobotics/)  
 Python sample codes for robotics algorithms.  
-score: 58/100, stars/week: 50, stars: 18,671  
+score: 58/100, stars/week: 49, stars: 18,671  
 
 
 4. <a href="https://github.com/quantumlib)">quantumlib/</a><b><a href="https://github.com/quantumlib/cirq">Cirq</a></b>  
@@ -5271,7 +5277,7 @@ score: 51/100, stars/week: 16, stars: 1,667
 8. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/promptcraft-robotics">PromptCraft-Robotics</a></b>  
 [https://aka.ms/ChatGPT-Robotics](https://aka.ms/ChatGPT-Robotics)  
 Community for applying LLMs to robotics and a robot simulator with ChatGPT integration  
-score: 50/100, stars/week: 78, stars: 1,100  
+score: 50/100, stars/week: 77, stars: 1,100  
 
 
 9. <a href="https://github.com/projectmesa)">projectmesa/</a><b><a href="https://github.com/projectmesa/mesa">mesa</a></b>  
@@ -5466,18 +5472,18 @@ score: 70/100, stars/week: 74, stars: 17,831
 
 5. <a href="https://github.com/eugeneyan)">eugeneyan/</a><b><a href="https://github.com/eugeneyan/open-llms">open-llms</a></b>  
 🤖 A list of open LLMs available for commercial use.  
-score: 67/100, stars/week: 2951, stars: 5,060  
+score: 67/100, stars/week: 2724, stars: 5,060  
 
 
 6. <a href="https://github.com/mooler0410)">mooler0410/</a><b><a href="https://github.com/mooler0410/llmspracticalguide">LLMsPracticalGuide</a></b>  
 [https://arxiv.org/abs/2304.13712v2](https://arxiv.org/abs/2304.13712v2)  
 A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)  
-score: 66/100, stars/week: 1100, stars: 3,773  
+score: 66/100, stars/week: 1056, stars: 3,773  
 
 
 7. <a href="https://github.com/hannibal046)">hannibal046/</a><b><a href="https://github.com/hannibal046/awesome-llm">Awesome-LLM</a></b>  
 Awesome-LLM: a curated list of Large Language Model  
-score: 64/100, stars/week: 232, stars: 2,957  
+score: 64/100, stars/week: 229, stars: 2,957  
 
 
 8. <a href="https://github.com/jakevdp)">jakevdp/</a><b><a href="https://github.com/jakevdp/pythondatasciencehandbook">PythonDataScienceHandbook</a></b>  
@@ -5494,13 +5500,13 @@ score: 60/100, stars/week: 64, stars: 15,669
 
 10. <a href="https://github.com/gkamradt)">gkamradt/</a><b><a href="https://github.com/gkamradt/langchain-tutorials">langchain-tutorials</a></b>  
 Overview and tutorial of the LangChain Library  
-score: 60/100, stars/week: 199, stars: 2,648  
+score: 60/100, stars/week: 197, stars: 2,648  
 
 
 11. <a href="https://github.com/roboflow)">roboflow/</a><b><a href="https://github.com/roboflow/notebooks">notebooks</a></b>  
 [https://roboflow.com/models](https://roboflow.com/models)  
 Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.  
-score: 60/100, stars/week: 87, stars: 2,243  
+score: 60/100, stars/week: 86, stars: 2,243  
 
 
 12. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/deep-rl-class">deep-rl-class</a></b>  
@@ -5515,7 +5521,7 @@ score: 53/100, stars/week: 85, stars: 3,450
 
 14. <a href="https://github.com/karpathy)">karpathy/</a><b><a href="https://github.com/karpathy/nn-zero-to-hero">nn-zero-to-hero</a></b>  
 Neural Networks: Zero to Hero  
-score: 52/100, stars/week: 228, stars: 8,192  
+score: 52/100, stars/week: 227, stars: 8,192  
 
 
 15. <a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/diffusion-models-class">diffusion-models-class</a></b>  
@@ -5531,7 +5537,7 @@ score: 51/100, stars/week: 47, stars: 20,878
 17. <a href="https://github.com/promptslab)">promptslab/</a><b><a href="https://github.com/promptslab/awesome-prompt-engineering">Awesome-Prompt-Engineering</a></b>  
 [https://discord.gg/m88xfYMbK6](https://discord.gg/m88xfYMbK6)  
 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc   
-score: 51/100, stars/week: 95, stars: 1,320  
+score: 51/100, stars/week: 94, stars: 1,320  
 
 
 18. <a href="https://github.com/wesm)">wesm/</a><b><a href="https://github.com/wesm/pydata-book">pydata-book</a></b>  
@@ -5563,7 +5569,7 @@ score: 47/100, stars/week: 55, stars: 12,569
 23. <a href="https://github.com/rasbt)">rasbt/</a><b><a href="https://github.com/rasbt/machine-learning-book">machine-learning-book</a></b>  
 [https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn)  
 Code Repository for Machine Learning with PyTorch and Scikit-Learn  
-score: 47/100, stars/week: 25, stars: 1,907  
+score: 46/100, stars/week: 25, stars: 1,907  
 
 
 24. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/spinningup">spinningup</a></b>  
@@ -5722,7 +5728,7 @@ score: 57/100, stars/week: 38, stars: 19,573
 
 2. <a href="https://github.com/tiangolo)">tiangolo/</a><b><a href="https://github.com/tiangolo/full-stack-fastapi-postgresql">full-stack-fastapi-postgresql</a></b>  
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.  
-score: 51/100, stars/week: 54, stars: 11,911  
+score: 51/100, stars/week: 53, stars: 11,911  
 
 
 3. <a href="https://github.com/pyscaffold)">pyscaffold/</a><b><a href="https://github.com/pyscaffold/pyscaffold">pyscaffold</a></b>  
@@ -5734,7 +5740,7 @@ score: 43/100, stars/week: 3, stars: 1,790
 4. <a href="https://github.com/drivendata)">drivendata/</a><b><a href="https://github.com/drivendata/cookiecutter-data-science">cookiecutter-data-science</a></b>  
 [http://drivendata.github.io/cookiecutter-data-science/](http://drivendata.github.io/cookiecutter-data-science/)  
 A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
-score: 42/100, stars/week: 17, stars: 6,695  
+score: 42/100, stars/week: 16, stars: 6,695  
 
 
 5. <a href="https://github.com/ionelmc)">ionelmc/</a><b><a href="https://github.com/ionelmc/cookiecutter-pylibrary">cookiecutter-pylibrary</a></b>  
@@ -5749,7 +5755,7 @@ score: 35/100, stars/week: 9, stars: 1,621
 
 7. <a href="https://github.com/tezromach)">tezromach/</a><b><a href="https://github.com/tezromach/python-package-template">python-package-template</a></b>  
 🚀 Your next Python package needs a bleeding-edge project structure.  
-score: 33/100, stars/week: 6, stars: 966  
+score: 33/100, stars/week: 5, stars: 966  
 
 
 8. <a href="https://github.com/sqlalchemy)">sqlalchemy/</a><b><a href="https://github.com/sqlalchemy/mako">mako</a></b>  
@@ -6020,7 +6026,7 @@ score: 58/100, stars/week: 16, stars: 3,543
 5. <a href="https://github.com/nixtla)">nixtla/</a><b><a href="https://github.com/nixtla/statsforecast">statsforecast</a></b>  
 [https://nixtla.github.io/statsforecast/](https://nixtla.github.io/statsforecast/)  
 Lightning ⚡️ fast forecasting with statistical and econometric models.  
-score: 58/100, stars/week: 33, stars: 2,544  
+score: 58/100, stars/week: 32, stars: 2,544  
 
 
 6. <a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/kats">Kats</a></b>  
@@ -6093,7 +6099,7 @@ score: 32/100, stars/week: 4, stars: 735
 18. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/robustlearn">robustlearn</a></b>  
 [http://aka.ms/roblearn](http://aka.ms/roblearn)  
 Robust machine learning for responsible AI  
-score: 32/100, stars/week: 7, stars: 221  
+score: 31/100, stars/week: 7, stars: 221  
 
 
 19. <a href="https://github.com/rjt1990)">rjt1990/</a><b><a href="https://github.com/rjt1990/pyflux">pyflux</a></b>  
@@ -6182,7 +6188,7 @@ score: 87/100, stars/week: 119, stars: 60,462
 2. <a href="https://github.com/charliermarsh)">charliermarsh/</a><b><a href="https://github.com/charliermarsh/ruff">ruff</a></b>  
 [https://beta.ruff.rs](https://beta.ruff.rs)  
 An extremely fast Python linter, written in Rust.  
-score: 87/100, stars/week: 366, stars: 14,702  
+score: 87/100, stars/week: 364, stars: 14,702  
 
 
 3. <a href="https://github.com/python)">python/</a><b><a href="https://github.com/python/cpython">cpython</a></b>  
@@ -6193,7 +6199,7 @@ score: 84/100, stars/week: 161, stars: 52,873
 
 4. <a href="https://github.com/ggerganov)">ggerganov/</a><b><a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a></b>  
 Port of OpenAI's Whisper model in C/C++  
-score: 83/100, stars/week: 544, stars: 18,218  
+score: 83/100, stars/week: 542, stars: 18,218  
 
 
 5. <a href="https://github.com/localstack)">localstack/</a><b><a href="https://github.com/localstack/localstack">localstack</a></b>  
@@ -6216,7 +6222,7 @@ score: 74/100, stars/week: 92, stars: 25,038
 
 8. <a href="https://github.com/pyenv)">pyenv/</a><b><a href="https://github.com/pyenv/pyenv">pyenv</a></b>  
 Simple Python version management  
-score: 71/100, stars/week: 57, stars: 31,853  
+score: 71/100, stars/week: 56, stars: 31,853  
 
 
 9. <a href="https://github.com/samuelcolvin)">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/pydantic">pydantic</a></b>  
@@ -6297,7 +6303,7 @@ score: 62/100, stars/week: 26, stars: 9,016
 
 22. <a href="https://github.com/modularml)">modularml/</a><b><a href="https://github.com/modularml/mojo">mojo</a></b>  
 The Mojo Programming Language  
-score: 62/100, stars/week: 2250, stars: 6,109  
+score: 62/100, stars/week: 2138, stars: 6,109  
 
 
 23. <a href="https://github.com/pycqa)">pycqa/</a><b><a href="https://github.com/pycqa/pylint">pylint</a></b>  
@@ -6478,7 +6484,7 @@ score: 55/100, stars/week: 19, stars: 2,626
 54. <a href="https://github.com/libaudioflux)">libaudioflux/</a><b><a href="https://github.com/libaudioflux/audioflux">audioFlux</a></b>  
 [https://audioflux.top](https://audioflux.top)  
 A library for audio and music analysis, feature extraction.  
-score: 55/100, stars/week: 96, stars: 1,673  
+score: 55/100, stars/week: 95, stars: 1,673  
 
 
 55. <a href="https://github.com/parthjadhav)">parthjadhav/</a><b><a href="https://github.com/parthjadhav/tkinter-designer">Tkinter-Designer</a></b>  
@@ -6538,38 +6544,38 @@ A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 score: 52/100, stars/week: 35, stars: 1,939  
 
 
-65. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/latexify_py">latexify_py</a></b>  
-A library to generate LaTeX expression from Python code.  
-score: 51/100, stars/week: 41, stars: 6,135  
-
-
-66. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/point-e">point-e</a></b>  
+65. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/point-e">point-e</a></b>  
 Point cloud diffusion for 3D model synthesis  
-score: 51/100, stars/week: 233, stars: 5,399  
+score: 51/100, stars/week: 231, stars: 5,399  
 
 
-67. <a href="https://github.com/pypi)">pypi/</a><b><a href="https://github.com/pypi/warehouse">warehouse</a></b>  
+66. <a href="https://github.com/pypi)">pypi/</a><b><a href="https://github.com/pypi/warehouse">warehouse</a></b>  
 [https://pypi.org](https://pypi.org)  
 The Python Package Index  
 score: 51/100, stars/week: 6, stars: 3,262  
 
 
-68. <a href="https://github.com/whylabs)">whylabs/</a><b><a href="https://github.com/whylabs/whylogs">whylogs</a></b>  
+67. <a href="https://github.com/whylabs)">whylabs/</a><b><a href="https://github.com/whylabs/whylogs">whylogs</a></b>  
 [https://whylogs.readthedocs.io/](https://whylogs.readthedocs.io/)  
 The open standard for data logging  
 score: 51/100, stars/week: 15, stars: 2,214  
 
 
-69. <a href="https://github.com/pygments)">pygments/</a><b><a href="https://github.com/pygments/pygments">pygments</a></b>  
+68. <a href="https://github.com/pygments)">pygments/</a><b><a href="https://github.com/pygments/pygments">pygments</a></b>  
 [http://pygments.org/](http://pygments.org/)  
 Pygments is a generic syntax highlighter written in Python  
 score: 51/100, stars/week: 6, stars: 1,290  
 
 
-70. <a href="https://github.com/open-telemetry)">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python">opentelemetry-python</a></b>  
+69. <a href="https://github.com/open-telemetry)">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python">opentelemetry-python</a></b>  
 [https://opentelemetry.io](https://opentelemetry.io)  
 OpenTelemetry Python API and SDK   
 score: 51/100, stars/week: 6, stars: 1,272  
+
+
+70. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/latexify_py">latexify_py</a></b>  
+A library to generate LaTeX expression from Python code.  
+score: 50/100, stars/week: 41, stars: 6,135  
 
 
 71. <a href="https://github.com/pyston)">pyston/</a><b><a href="https://github.com/pyston/pyston">pyston</a></b>  
@@ -6784,7 +6790,7 @@ score: 43/100, stars/week: 1, stars: 684
 
 108. <a href="https://github.com/anthropics)">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b>  
 SDK providing access to Anthropic's safety-first language model APIs  
-score: 43/100, stars/week: 11, stars: 189  
+score: 43/100, stars/week: 10, stars: 189  
 
 
 109. <a href="https://github.com/pytoolz)">pytoolz/</a><b><a href="https://github.com/pytoolz/toolz">toolz</a></b>  
@@ -6919,7 +6925,7 @@ score: 35/100, stars/week: 2, stars: 1,646
 
 133. <a href="https://github.com/nateshmbhat)">nateshmbhat/</a><b><a href="https://github.com/nateshmbhat/pyttsx3">pyttsx3</a></b>  
 Offline Text To Speech synthesis for python  
-score: 35/100, stars/week: 5, stars: 1,538  
+score: 35/100, stars/week: 4, stars: 1,538  
 
 
 134. <a href="https://github.com/lidatong)">lidatong/</a><b><a href="https://github.com/lidatong/dataclasses-json">dataclasses-json</a></b>  
@@ -7245,7 +7251,7 @@ score: 7/100, stars/week: 1, stars: 18
 
 
 ## Vizualisation
-Vizualisation tools and libraries. Application frameworks, 2d/3d plotting, dashboards, WebGL etc.  
+Vizualisation tools and libraries. Application frameworks, 2D/3D plotting, dashboards, WebGL etc.  
 
 1. <a href="https://github.com/streamlit)">streamlit/</a><b><a href="https://github.com/streamlit/streamlit">streamlit</a></b>  
 [https://streamlit.io](https://streamlit.io)  
@@ -7428,25 +7434,25 @@ score: 82/100, stars/week: 122, stars: 70,645
 2. <a href="https://github.com/tiangolo)">tiangolo/</a><b><a href="https://github.com/tiangolo/fastapi">fastapi</a></b>  
 [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)  
 FastAPI framework, high performance, easy to learn, fast to code, ready for production  
-score: 81/100, stars/week: 250, stars: 57,903  
+score: 81/100, stars/week: 249, stars: 57,903  
 
 
 3. <a href="https://github.com/pyscript)">pyscript/</a><b><a href="https://github.com/pyscript/pyscript">pyscript</a></b>  
 [https://github.com/pyscript/pyscript/discussions](https://github.com/pyscript/pyscript/discussions)  
 Home Page: https://pyscript.net  Examples: https://pyscript.net/examples  
-score: 78/100, stars/week: 258, stars: 16,607  
+score: 78/100, stars/week: 257, stars: 16,607  
 
 
 4. <a href="https://github.com/pynecone-io)">pynecone-io/</a><b><a href="https://github.com/pynecone-io/pynecone">pynecone</a></b>  
 [https://pynecone.io](https://pynecone.io)  
 🕸 Web apps in pure Python 🐍  
-score: 78/100, stars/week: 303, stars: 8,859  
+score: 78/100, stars/week: 302, stars: 8,859  
 
 
 5. <a href="https://github.com/pallets)">pallets/</a><b><a href="https://github.com/pallets/flask">flask</a></b>  
 [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 The Python micro framework for building web applications.  
-score: 74/100, stars/week: 92, stars: 62,949  
+score: 74/100, stars/week: 91, stars: 62,949  
 
 
 6. <a href="https://github.com/psf)">psf/</a><b><a href="https://github.com/psf/requests">requests</a></b>  
@@ -7506,7 +7512,7 @@ score: 61/100, stars/week: 29, stars: 21,110
 15. <a href="https://github.com/encode)">encode/</a><b><a href="https://github.com/encode/uvicorn">uvicorn</a></b>  
 [https://www.uvicorn.org/](https://www.uvicorn.org/)  
 An ASGI web server, for Python. 🦄  
-score: 59/100, stars/week: 21, stars: 6,533  
+score: 59/100, stars/week: 20, stars: 6,533  
 
 
 16. <a href="https://github.com/vitalik)">vitalik/</a><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b>  
@@ -7664,7 +7670,7 @@ score: 35/100, stars/week: 2, stars: 1,399
 
 42. <a href="https://github.com/flipkart-incubator)">flipkart-incubator/</a><b><a href="https://github.com/flipkart-incubator/astra">Astra</a></b>  
 Automated Security Testing For REST API's  
-score: 34/100, stars/week: 8, stars: 2,232  
+score: 34/100, stars/week: 7, stars: 2,232  
 
 
 43. <a href="https://github.com/pylons)">pylons/</a><b><a href="https://github.com/pylons/waitress">waitress</a></b>  
@@ -7680,7 +7686,7 @@ score: 34/100, stars/week: 1, stars: 836
 
 45. <a href="https://github.com/conradbez)">conradbez/</a><b><a href="https://github.com/conradbez/hstream">hstream</a></b>  
 Hyper Stream  
-score: 32/100, stars/week: 9, stars: 270  
+score: 31/100, stars/week: 9, stars: 270  
 
 
 46. <a href="https://github.com/pyscript)">pyscript/</a><b><a href="https://github.com/pyscript/pyscript-cli">pyscript-cli</a></b>  
@@ -7711,7 +7717,7 @@ score: 22/100, stars/week: 6, stars: 126
 
 51. <a href="https://github.com/fourthbrain)">fourthbrain/</a><b><a href="https://github.com/fourthbrain/fastapi-for-machine-learning-live-demo">FastAPI-for-Machine-Learning-Live-Demo</a></b>  
 This repository contains the files to build your very own AI image generation web application!  Outlined are the core components of the FastAPI web framework, and application leverage the newly-released Stable Diffusion text-to-image deep learning model.  
-score: 20/100, stars/week: 4, stars: 99  
+score: 19/100, stars/week: 4, stars: 99  
 
 
 52. <a href="https://github.com/dmontagu)">dmontagu/</a><b><a href="https://github.com/dmontagu/fastapi_client">fastapi_client</a></b>  
@@ -7730,4 +7736,4 @@ Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new 
 The influence Score value is loosely based on the <a href="https://github.com/ossf/criticality_score">OpenSSF criticality score calculation</a> which defines the influence and importance of a project.  
 
 
-This list was updated on 2023-05-17
+This list was updated on 2023-05-18
