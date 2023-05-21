@@ -6135,23 +6135,29 @@ Robust machine learning for responsible AI
 score: 31/100, stars/week: 7, stars: 221  
 
 
-19. <a href="https://github.com/rjt1990)">rjt1990/</a><b><a href="https://github.com/rjt1990/pyflux">pyflux</a></b>  
+19. <a href="https://github.com/wilsonrljr)">wilsonrljr/</a><b><a href="https://github.com/wilsonrljr/sysidentpy">sysidentpy</a></b>  
+[https://sysidentpy.org](https://sysidentpy.org)  
+A Python Package For System Identification Using NARMAX Models  
+score: 31/100, stars/week: 1, stars: 213  
+
+
+20. <a href="https://github.com/rjt1990)">rjt1990/</a><b><a href="https://github.com/rjt1990/pyflux">pyflux</a></b>  
 Open source time series library for Python  
 score: 25/100, stars/week: 5, stars: 2,030  
 
 
-20. <a href="https://github.com/firmai)">firmai/</a><b><a href="https://github.com/firmai/atspy">atspy</a></b>  
+21. <a href="https://github.com/firmai)">firmai/</a><b><a href="https://github.com/firmai/atspy">atspy</a></b>  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 score: 18/100, stars/week: 2, stars: 479  
 
 
-21. <a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/deeptime">DeepTime</a></b>  
+22. <a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/deeptime">DeepTime</a></b>  
 PyTorch code for DeepTime: Deep Time-Index Meta-Learning for Non-Stationary Time-Series Forecasting  
 score: 18/100, stars/week: 5, stars: 250  
 
 
-22. <a href="https://github.com/zackeskin)">zackeskin/</a><b><a href="https://github.com/zackeskin/pycausality">PyCausality</a></b>  
+23. <a href="https://github.com/zackeskin)">zackeskin/</a><b><a href="https://github.com/zackeskin/pycausality">PyCausality</a></b>  
 Calculate predictive causality between time series using information-theoretic techniques  
 score: 3/100, stars/week: 1, stars: 78  
 
