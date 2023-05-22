@@ -1236,539 +1236,551 @@ score: 20/100, stars/week: 1, stars: 49
 ## GIS
 Geospatial libraries: raster and vector data formats, interactive mapping and visualisation, computing frameworks for processing images, projections etc.  
 
-1. <a href="https://github.com/osgeo)">osgeo/</a><b><a href="https://github.com/osgeo/gdal">gdal</a></b>  
+1. <a href="https://github.com/opengeos)">opengeos/</a><b><a href="https://github.com/opengeos/segment-geospatial">segment-geospatial</a></b>  
+[https://samgeo.gishub.org](https://samgeo.gishub.org)  
+A Python package for segmenting geospatial data with the Segment Anything Model (SAM)  
+score: 68/100, stars/week: 290, stars: 1,368  
+
+
+2. <a href="https://github.com/osgeo)">osgeo/</a><b><a href="https://github.com/osgeo/gdal">gdal</a></b>  
 [https://gdal.org](https://gdal.org)  
 GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.  
 score: 59/100, stars/week: 6, stars: 3,805  
 
 
-2. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/torchgeo">torchgeo</a></b>  
+3. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/torchgeo">torchgeo</a></b>  
 [https://torchgeo.rtfd.io](https://torchgeo.rtfd.io)  
 TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data  
 score: 55/100, stars/week: 15, stars: 1,602  
 
 
-3. <a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/geemap">geemap</a></b>  
+4. <a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/geemap">geemap</a></b>  
 [https://geemap.org](https://geemap.org)  
 A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
 score: 54/100, stars/week: 16, stars: 2,698  
 
 
-4. <a href="https://github.com/python-visualization)">python-visualization/</a><b><a href="https://github.com/python-visualization/folium">folium</a></b>  
+5. <a href="https://github.com/python-visualization)">python-visualization/</a><b><a href="https://github.com/python-visualization/folium">folium</a></b>  
 [https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)  
 Python Data. Leaflet.js Maps.   
 score: 52/100, stars/week: 11, stars: 6,230  
 
 
-5. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/osmnx">osmnx</a></b>  
+6. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/osmnx">osmnx</a></b>  
 [https://geoffboeing.com/publications/osmnx-complex-street-networks/](https://geoffboeing.com/publications/osmnx-complex-street-networks/)  
 OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.  
 score: 52/100, stars/week: 11, stars: 4,196  
 
 
-6. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/geopandas">geopandas</a></b>  
+7. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/geopandas">geopandas</a></b>  
 [http://geopandas.org/](http://geopandas.org/)  
 Python tools for geographic data  
 score: 51/100, stars/week: 7, stars: 3,679  
 
 
-7. <a href="https://github.com/shapely)">shapely/</a><b><a href="https://github.com/shapely/shapely">shapely</a></b>  
+8. <a href="https://github.com/shapely)">shapely/</a><b><a href="https://github.com/shapely/shapely">shapely</a></b>  
 [https://shapely.readthedocs.io/en/stable/](https://shapely.readthedocs.io/en/stable/)  
 Manipulation and analysis of geometric objects  
 score: 51/100, stars/week: 5, stars: 3,287  
 
 
-8. <a href="https://github.com/opengeos)">opengeos/</a><b><a href="https://github.com/opengeos/leafmap">leafmap</a></b>  
+9. <a href="https://github.com/opengeos)">opengeos/</a><b><a href="https://github.com/opengeos/leafmap">leafmap</a></b>  
 [https://leafmap.org](https://leafmap.org)  
 A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment  
 score: 51/100, stars/week: 14, stars: 1,643  
 
 
-9. <a href="https://github.com/pytroll)">pytroll/</a><b><a href="https://github.com/pytroll/satpy">satpy</a></b>  
+10. <a href="https://github.com/pytroll)">pytroll/</a><b><a href="https://github.com/pytroll/satpy">satpy</a></b>  
 [http://satpy.readthedocs.org/en/latest/](http://satpy.readthedocs.org/en/latest/)  
 Python package for earth-observing satellite data processing  
 score: 50/100, stars/week: 2, stars: 919  
 
 
-10. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/datashader">datashader</a></b>  
+11. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/datashader">datashader</a></b>  
 [http://datashader.org](http://datashader.org)  
 Quickly and accurately render even the largest data.  
 score: 48/100, stars/week: 7, stars: 2,973  
 
 
-11. <a href="https://github.com/rasterio)">rasterio/</a><b><a href="https://github.com/rasterio/rasterio">rasterio</a></b>  
+12. <a href="https://github.com/rasterio)">rasterio/</a><b><a href="https://github.com/rasterio/rasterio">rasterio</a></b>  
 [https://rasterio.readthedocs.io/](https://rasterio.readthedocs.io/)  
 Rasterio reads and writes geospatial raster datasets  
 score: 47/100, stars/week: 3, stars: 1,951  
 
 
-12. <a href="https://github.com/osgeo)">osgeo/</a><b><a href="https://github.com/osgeo/grass">grass</a></b>  
+13. <a href="https://github.com/osgeo)">osgeo/</a><b><a href="https://github.com/osgeo/grass">grass</a></b>  
 [https://grass.osgeo.org](https://grass.osgeo.org)  
 GRASS GIS - free and open source Geographic Information System (GIS)  
 score: 46/100, stars/week: 2, stars: 625  
 
 
-13. <a href="https://github.com/azavea)">azavea/</a><b><a href="https://github.com/azavea/raster-vision">raster-vision</a></b>  
+14. <a href="https://github.com/azavea)">azavea/</a><b><a href="https://github.com/azavea/raster-vision">raster-vision</a></b>  
 [https://docs.rastervision.io](https://docs.rastervision.io)  
 An open source library and framework for deep learning on satellite and aerial imagery.  
 score: 44/100, stars/week: 5, stars: 1,847  
 
 
-14. <a href="https://github.com/apache)">apache/</a><b><a href="https://github.com/apache/incubator-sedona">sedona</a></b>  
+15. <a href="https://github.com/apache)">apache/</a><b><a href="https://github.com/apache/incubator-sedona">sedona</a></b>  
 [http://sedona.apache.org/](http://sedona.apache.org/)  
 A cluster computing framework for processing large-scale geospatial data  
 score: 44/100, stars/week: 3, stars: 1,437  
 
 
-15. <a href="https://github.com/domlysz)">domlysz/</a><b><a href="https://github.com/domlysz/blendergis">BlenderGIS</a></b>  
+16. <a href="https://github.com/domlysz)">domlysz/</a><b><a href="https://github.com/domlysz/blendergis">BlenderGIS</a></b>  
 Blender addons to make the bridge between Blender and geographic data  
 score: 43/100, stars/week: 13, stars: 6,316  
 
 
-16. <a href="https://github.com/anitagraser)">anitagraser/</a><b><a href="https://github.com/anitagraser/movingpandas">movingpandas</a></b>  
+17. <a href="https://github.com/anitagraser)">anitagraser/</a><b><a href="https://github.com/anitagraser/movingpandas">movingpandas</a></b>  
 [http://movingpandas.org](http://movingpandas.org)  
 Implementation of Trajectory classes and functions built on top of GeoPandas  
 score: 43/100, stars/week: 4, stars: 963  
 
 
-17. <a href="https://github.com/scitools)">scitools/</a><b><a href="https://github.com/scitools/cartopy">cartopy</a></b>  
+18. <a href="https://github.com/scitools)">scitools/</a><b><a href="https://github.com/scitools/cartopy">cartopy</a></b>  
 [https://scitools.org.uk/cartopy/docs/latest](https://scitools.org.uk/cartopy/docs/latest)  
 Cartopy - a cartographic python library with matplotlib support  
 score: 41/100, stars/week: 2, stars: 1,216  
 
 
-18. <a href="https://github.com/sentinel-hub)">sentinel-hub/</a><b><a href="https://github.com/sentinel-hub/eo-learn">eo-learn</a></b>  
+19. <a href="https://github.com/sentinel-hub)">sentinel-hub/</a><b><a href="https://github.com/sentinel-hub/eo-learn">eo-learn</a></b>  
 [https://eo-learn.readthedocs.io/en/latest/](https://eo-learn.readthedocs.io/en/latest/)  
 Earth observation processing framework for machine learning in Python  
 score: 41/100, stars/week: 3, stars: 994  
 
 
-19. <a href="https://github.com/matplotlib)">matplotlib/</a><b><a href="https://github.com/matplotlib/basemap">basemap</a></b>  
+20. <a href="https://github.com/matplotlib)">matplotlib/</a><b><a href="https://github.com/matplotlib/basemap">basemap</a></b>  
 Plot on map projections (with coastlines and political boundaries) using matplotlib  
 score: 40/100, stars/week: 1, stars: 728  
 
 
-20. <a href="https://github.com/corteva)">corteva/</a><b><a href="https://github.com/corteva/rioxarray">rioxarray</a></b>  
+21. <a href="https://github.com/corteva)">corteva/</a><b><a href="https://github.com/corteva/rioxarray">rioxarray</a></b>  
 [https://corteva.github.io/rioxarray](https://corteva.github.io/rioxarray)  
 geospatial xarray extension powered by rasterio  
 score: 40/100, stars/week: 1, stars: 388  
 
 
-21. <a href="https://github.com/mcordts)">mcordts/</a><b><a href="https://github.com/mcordts/cityscapesscripts">cityscapesScripts</a></b>  
+22. <a href="https://github.com/mcordts)">mcordts/</a><b><a href="https://github.com/mcordts/cityscapesscripts">cityscapesScripts</a></b>  
 README and scripts for the Cityscapes Dataset  
 score: 39/100, stars/week: 5, stars: 1,925  
 
 
-22. <a href="https://github.com/pyproj4)">pyproj4/</a><b><a href="https://github.com/pyproj4/pyproj">pyproj</a></b>  
+23. <a href="https://github.com/pyproj4)">pyproj4/</a><b><a href="https://github.com/pyproj4/pyproj">pyproj</a></b>  
 [https://pyproj4.github.io/pyproj](https://pyproj4.github.io/pyproj)  
 Python interface to PROJ (cartographic projections and coordinate transformations library)  
 score: 39/100, stars/week: 2, stars: 885  
 
 
-23. <a href="https://github.com/sentinel-hub)">sentinel-hub/</a><b><a href="https://github.com/sentinel-hub/sentinelhub-py">sentinelhub-py</a></b>  
+24. <a href="https://github.com/sentinel-hub)">sentinel-hub/</a><b><a href="https://github.com/sentinel-hub/sentinelhub-py">sentinelhub-py</a></b>  
 [http://sentinelhub-py.readthedocs.io/en/latest/](http://sentinelhub-py.readthedocs.io/en/latest/)  
 Download and process satellite imagery in Python using Sentinel Hub services.  
 score: 39/100, stars/week: 2, stars: 690  
 
 
-24. <a href="https://github.com/scitools)">scitools/</a><b><a href="https://github.com/scitools/iris">iris</a></b>  
+25. <a href="https://github.com/scitools)">scitools/</a><b><a href="https://github.com/scitools/iris">iris</a></b>  
 [https://scitools-iris.readthedocs.io/en/latest/](https://scitools-iris.readthedocs.io/en/latest/)  
 A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data  
 score: 39/100, stars/week: 1, stars: 542  
 
 
-25. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/titiler">titiler</a></b>  
+26. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/titiler">titiler</a></b>  
 [https://developmentseed.org/titiler/](https://developmentseed.org/titiler/)  
 Build your own Raster dynamic map tile services  
 score: 39/100, stars/week: 2, stars: 514  
 
 
-26. <a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/pysal">pysal</a></b>  
+27. <a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/pysal">pysal</a></b>  
 [http://pysal.org/pysal](http://pysal.org/pysal)  
 PySAL: Python Spatial Analysis Library Meta-Package  
 score: 38/100, stars/week: 2, stars: 1,143  
 
 
-27. <a href="https://github.com/toblerity)">toblerity/</a><b><a href="https://github.com/toblerity/fiona">Fiona</a></b>  
+28. <a href="https://github.com/toblerity)">toblerity/</a><b><a href="https://github.com/toblerity/fiona">Fiona</a></b>  
 [https://fiona.readthedocs.io/](https://fiona.readthedocs.io/)  
 Fiona reads and writes geographic data files  
 score: 38/100, stars/week: 1, stars: 1,042  
 
 
-28. <a href="https://github.com/cogeotiff)">cogeotiff/</a><b><a href="https://github.com/cogeotiff/rio-tiler">rio-tiler</a></b>  
+29. <a href="https://github.com/cogeotiff)">cogeotiff/</a><b><a href="https://github.com/cogeotiff/rio-tiler">rio-tiler</a></b>  
 [https://cogeotiff.github.io/rio-tiler/](https://cogeotiff.github.io/rio-tiler/)  
 User friendly Rasterio plugin to read raster datasets.  
 score: 38/100, stars/week: 1, stars: 406  
 
 
-29. <a href="https://github.com/kvos)">kvos/</a><b><a href="https://github.com/kvos/coastsat">CoastSat</a></b>  
+30. <a href="https://github.com/kvos)">kvos/</a><b><a href="https://github.com/kvos/coastsat">CoastSat</a></b>  
 [http://coastsat.wrl.unsw.edu.au/](http://coastsat.wrl.unsw.edu.au/)  
 Global shoreline mapping tool from satellite imagery  
 score: 37/100, stars/week: 2, stars: 528  
 
 
-30. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/dask-geopandas">dask-geopandas</a></b>  
+31. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/dask-geopandas">dask-geopandas</a></b>  
 [https://dask-geopandas.readthedocs.io/](https://dask-geopandas.readthedocs.io/)  
 Parallel GeoPandas with Dask  
 score: 37/100, stars/week: 2, stars: 379  
 
 
-31. <a href="https://github.com/weecology)">weecology/</a><b><a href="https://github.com/weecology/deepforest">DeepForest</a></b>  
+32. <a href="https://github.com/weecology)">weecology/</a><b><a href="https://github.com/weecology/deepforest">DeepForest</a></b>  
 [https://deepforest.readthedocs.io/](https://deepforest.readthedocs.io/)  
 Python Package for Tree Crown Detection in Airborne RGB imagery  
 score: 37/100, stars/week: 1, stars: 362  
 
 
-32. <a href="https://github.com/jupyter-widgets)">jupyter-widgets/</a><b><a href="https://github.com/jupyter-widgets/ipyleaflet">ipyleaflet</a></b>  
+33. <a href="https://github.com/raphaelquast)">raphaelquast/</a><b><a href="https://github.com/raphaelquast/eomaps">EOmaps</a></b>  
+[https://raphaelquast.github.io/EOmaps/](https://raphaelquast.github.io/EOmaps/)  
+A library to create interactive maps of geographical datasets  
+score: 37/100, stars/week: 2, stars: 224  
+
+
+34. <a href="https://github.com/jupyter-widgets)">jupyter-widgets/</a><b><a href="https://github.com/jupyter-widgets/ipyleaflet">ipyleaflet</a></b>  
 [https://ipyleaflet.readthedocs.io](https://ipyleaflet.readthedocs.io)  
 A Jupyter - Leaflet.js bridge  
 score: 36/100, stars/week: 2, stars: 1,364  
 
 
-33. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/globalmlbuildingfootprints">GlobalMLBuildingFootprints</a></b>  
+35. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/globalmlbuildingfootprints">GlobalMLBuildingFootprints</a></b>  
 Worldwide building footprints derived from satellite imagery   
 score: 35/100, stars/week: 14, stars: 831  
 
 
-34. <a href="https://github.com/datasystemslab)">datasystemslab/</a><b><a href="https://github.com/datasystemslab/geotorch">GeoTorchAI</a></b>  
+36. <a href="https://github.com/datasystemslab)">datasystemslab/</a><b><a href="https://github.com/datasystemslab/geotorch">GeoTorchAI</a></b>  
 [https://kanchanchy.github.io/geotorchai/](https://kanchanchy.github.io/geotorchai/)  
 GeoTorchAI: A Spatiotemporal Deep Learning Framework (https://dl.acm.org/doi/abs/10.1145/3557915.3561036)  
 score: 35/100, stars/week: 6, stars: 353  
 
 
-35. <a href="https://github.com/geopython)">geopython/</a><b><a href="https://github.com/geopython/owslib">OWSLib</a></b>  
+37. <a href="https://github.com/geopython)">geopython/</a><b><a href="https://github.com/geopython/owslib">OWSLib</a></b>  
 [https://owslib.readthedocs.io](https://owslib.readthedocs.io)  
 OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.  
 score: 35/100, stars/week: 1, stars: 338  
 
 
-36. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/geojson-pydantic">geojson-pydantic</a></b>  
+38. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/geojson-pydantic">geojson-pydantic</a></b>  
 Pydantic data models for the GeoJSON spec  
 score: 35/100, stars/week: 1, stars: 137  
 
 
-37. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/earthengine-api">earthengine-api</a></b>  
+39. <a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/earthengine-api">earthengine-api</a></b>  
 Python and JavaScript bindings for calling the Earth Engine API.  
 score: 34/100, stars/week: 5, stars: 2,223  
 
 
-38. <a href="https://github.com/sentinelsat)">sentinelsat/</a><b><a href="https://github.com/sentinelsat/sentinelsat">sentinelsat</a></b>  
+40. <a href="https://github.com/sentinelsat)">sentinelsat/</a><b><a href="https://github.com/sentinelsat/sentinelsat">sentinelsat</a></b>  
 [https://sentinelsat.readthedocs.io](https://sentinelsat.readthedocs.io)  
 Search and download Copernicus Sentinel satellite images  
 score: 34/100, stars/week: 2, stars: 881  
 
 
-39. <a href="https://github.com/makepath)">makepath/</a><b><a href="https://github.com/makepath/xarray-spatial">xarray-spatial</a></b>  
+41. <a href="https://github.com/makepath)">makepath/</a><b><a href="https://github.com/makepath/xarray-spatial">xarray-spatial</a></b>  
 [https://xarray-spatial.org](https://xarray-spatial.org)  
 Raster-based Spatial Analytics for Python  
 score: 34/100, stars/week: 4, stars: 705  
 
 
-40. <a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/h3-py">h3-py</a></b>  
+42. <a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/h3-py">h3-py</a></b>  
 [https://uber.github.io/h3-py](https://uber.github.io/h3-py)  
 Python bindings for H3, a hierarchical hexagonal geospatial indexing system  
 score: 34/100, stars/week: 2, stars: 644  
 
 
-41. <a href="https://github.com/amazon-science)">amazon-science/</a><b><a href="https://github.com/amazon-science/earth-forecasting-transformer">earth-forecasting-transformer</a></b>  
+43. <a href="https://github.com/amazon-science)">amazon-science/</a><b><a href="https://github.com/amazon-science/earth-forecasting-transformer">earth-forecasting-transformer</a></b>  
 Official implementation of Earthformer  
 score: 34/100, stars/week: 5, stars: 203  
 
 
-42. <a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/mapwidget">mapwidget</a></b>  
+44. <a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/mapwidget">mapwidget</a></b>  
 [http://mapwidget.gishub.org](http://mapwidget.gishub.org)  
 Custom Jupyter widgets for creating interactive 2D/3D maps using popular JavaScript libraries with bidirectional communication, such as Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers  
 score: 34/100, stars/week: 10, stars: 180  
 
 
-43. <a href="https://github.com/fatiando)">fatiando/</a><b><a href="https://github.com/fatiando/verde">verde</a></b>  
+45. <a href="https://github.com/fatiando)">fatiando/</a><b><a href="https://github.com/fatiando/verde">verde</a></b>  
 [https://www.fatiando.org/verde](https://www.fatiando.org/verde)  
 Processing and gridding spatial data, machine-learning style  
 score: 32/100, stars/week: 1, stars: 494  
 
 
-44. <a href="https://github.com/earthlab)">earthlab/</a><b><a href="https://github.com/earthlab/earthpy">earthpy</a></b>  
+46. <a href="https://github.com/earthlab)">earthlab/</a><b><a href="https://github.com/earthlab/earthpy">earthpy</a></b>  
 [https://earthpy.readthedocs.io](https://earthpy.readthedocs.io)  
 A package built to support working with spatial data using open source python  
 score: 32/100, stars/week: 1, stars: 439  
 
 
-45. <a href="https://github.com/laspy)">laspy/</a><b><a href="https://github.com/laspy/laspy">laspy</a></b>  
+47. <a href="https://github.com/laspy)">laspy/</a><b><a href="https://github.com/laspy/laspy">laspy</a></b>  
 [https://laspy.readthedocs.io/en/latest/](https://laspy.readthedocs.io/en/latest/)  
 Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files matching specification 1.0-1.4.   
 score: 32/100, stars/week: 1, stars: 360  
 
 
-46. <a href="https://github.com/cogeotiff)">cogeotiff/</a><b><a href="https://github.com/cogeotiff/rio-cogeo">rio-cogeo</a></b>  
+48. <a href="https://github.com/cogeotiff)">cogeotiff/</a><b><a href="https://github.com/cogeotiff/rio-cogeo">rio-cogeo</a></b>  
 [https://cogeotiff.github.io/rio-cogeo/](https://cogeotiff.github.io/rio-cogeo/)  
 Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
 score: 32/100, stars/week: 1, stars: 229  
 
 
-47. <a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/spopt">spopt</a></b>  
+49. <a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/spopt">spopt</a></b>  
 [https://pysal.org/spopt/](https://pysal.org/spopt/)  
 Spatial Optimization  
 score: 32/100, stars/week: 1, stars: 199  
 
 
-48. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/geoviews">geoviews</a></b>  
+50. <a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/geoviews">geoviews</a></b>  
 [http://geoviews.org](http://geoviews.org)  
 Simple, concise geographical visualization in Python  
 score: 31/100, stars/week: 1, stars: 480  
 
 
-49. <a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/momepy">momepy</a></b>  
+51. <a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/momepy">momepy</a></b>  
 [https://docs.momepy.org](https://docs.momepy.org)  
 Urban Morphology Measuring Toolkit  
 score: 31/100, stars/week: 1, stars: 380  
 
 
-50. <a href="https://github.com/plant99)">plant99/</a><b><a href="https://github.com/plant99/felicette">felicette</a></b>  
+52. <a href="https://github.com/plant99)">plant99/</a><b><a href="https://github.com/plant99/felicette">felicette</a></b>  
 Satellite imagery for dummies.  
 score: 30/100, stars/week: 12, stars: 1,799  
 
 
-51. <a href="https://github.com/scikit-mobility)">scikit-mobility/</a><b><a href="https://github.com/scikit-mobility/scikit-mobility">scikit-mobility</a></b>  
+53. <a href="https://github.com/scikit-mobility)">scikit-mobility/</a><b><a href="https://github.com/scikit-mobility/scikit-mobility">scikit-mobility</a></b>  
 [https://scikit-mobility.github.io/scikit-mobility/](https://scikit-mobility.github.io/scikit-mobility/)  
 scikit-mobility: mobility analysis in Python  
 score: 30/100, stars/week: 2, stars: 615  
 
 
-52. <a href="https://github.com/perrygeo)">perrygeo/</a><b><a href="https://github.com/perrygeo/python-rasterstats">python-rasterstats</a></b>  
+54. <a href="https://github.com/perrygeo)">perrygeo/</a><b><a href="https://github.com/perrygeo/python-rasterstats">python-rasterstats</a></b>  
 Summary statistics of geospatial raster datasets based on vector geometries.  
 score: 30/100, stars/week: 1, stars: 463  
 
 
-53. <a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/aws-open-data-geo">aws-open-data-geo</a></b>  
+55. <a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/aws-open-data-geo">aws-open-data-geo</a></b>  
 A list of open geospatial datasets on AWS  
 score: 30/100, stars/week: 11, stars: 246  
 
 
-54. <a href="https://github.com/graal-research)">graal-research/</a><b><a href="https://github.com/graal-research/deepparse">deepparse</a></b>  
+56. <a href="https://github.com/graal-research)">graal-research/</a><b><a href="https://github.com/graal-research/deepparse">deepparse</a></b>  
 [https://deepparse.org/](https://deepparse.org/)  
 Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning  
 score: 30/100, stars/week: 1, stars: 225  
 
 
-55. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/pyogrio">pyogrio</a></b>  
+57. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/pyogrio">pyogrio</a></b>  
 [https://pyogrio.readthedocs.io](https://pyogrio.readthedocs.io)  
 Vectorized vector I/O using OGR  
 score: 30/100, stars/week: 1, stars: 155  
 
 
-56. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/osmnx-examples">osmnx-examples</a></b>  
+58. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/osmnx-examples">osmnx-examples</a></b>  
 [https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)  
 Usage examples, demos, and tutorials for OSMnx.  
 score: 29/100, stars/week: 4, stars: 1,259  
 
 
-57. <a href="https://github.com/geospatialpython)">geospatialpython/</a><b><a href="https://github.com/geospatialpython/pyshp">pyshp</a></b>  
+59. <a href="https://github.com/geospatialpython)">geospatialpython/</a><b><a href="https://github.com/geospatialpython/pyshp">pyshp</a></b>  
 This library reads and writes ESRI Shapefiles in pure Python.  
 score: 29/100, stars/week: 2, stars: 1,025  
 
 
-58. <a href="https://github.com/cgal)">cgal/</a><b><a href="https://github.com/cgal/cgal-swig-bindings">cgal-swig-bindings</a></b>  
+60. <a href="https://github.com/cgal)">cgal/</a><b><a href="https://github.com/cgal/cgal-swig-bindings">cgal-swig-bindings</a></b>  
 CGAL bindings using SWIG  
 score: 29/100, stars/week: 1, stars: 275  
 
 
-59. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/cogeo-mosaic">cogeo-mosaic</a></b>  
+61. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/cogeo-mosaic">cogeo-mosaic</a></b>  
 [https://developmentseed.org/cogeo-mosaic/](https://developmentseed.org/cogeo-mosaic/)  
 Create and use COG mosaic based on mosaicJSON  
 score: 29/100, stars/week: 1, stars: 84  
 
 
-60. <a href="https://github.com/toblerity)">toblerity/</a><b><a href="https://github.com/toblerity/rtree">rtree</a></b>  
+62. <a href="https://github.com/toblerity)">toblerity/</a><b><a href="https://github.com/toblerity/rtree">rtree</a></b>  
 [https://rtree.readthedocs.io/en/latest/](https://rtree.readthedocs.io/en/latest/)  
 Rtree: spatial index for Python GIS ¶  
 score: 27/100, stars/week: 1, stars: 547  
 
 
-61. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/contextily">contextily</a></b>  
+63. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/contextily">contextily</a></b>  
 [https://contextily.readthedocs.io/en/latest/](https://contextily.readthedocs.io/en/latest/)  
 Context geo-tiles in Python  
 score: 27/100, stars/week: 1, stars: 411  
 
 
-62. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/xyzservices">xyzservices</a></b>  
+64. <a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/xyzservices">xyzservices</a></b>  
 [https://xyzservices.readthedocs.io/](https://xyzservices.readthedocs.io/)  
 Source of XYZ tiles providers  
 score: 27/100, stars/week: 1, stars: 93  
 
 
-63. <a href="https://github.com/spatialucr)">spatialucr/</a><b><a href="https://github.com/spatialucr/geosnap">geosnap</a></b>  
+65. <a href="https://github.com/spatialucr)">spatialucr/</a><b><a href="https://github.com/spatialucr/geosnap">geosnap</a></b>  
 [https://oturns.github.io/geosnap/](https://oturns.github.io/geosnap/)  
 The Geospatial Neighborhood Analysis Package  
 score: 26/100, stars/week: 1, stars: 187  
 
 
-64. <a href="https://github.com/pygeos)">pygeos/</a><b><a href="https://github.com/pygeos/pygeos">pygeos</a></b>  
+66. <a href="https://github.com/pygeos)">pygeos/</a><b><a href="https://github.com/pygeos/pygeos">pygeos</a></b>  
 [https://pygeos.readthedocs.io](https://pygeos.readthedocs.io)  
 Wraps GEOS geometry functions in numpy ufuncs.  
 score: 25/100, stars/week: 1, stars: 366  
 
 
-65. <a href="https://github.com/darribas)">darribas/</a><b><a href="https://github.com/darribas/gds_env">gds_env</a></b>  
+67. <a href="https://github.com/darribas)">darribas/</a><b><a href="https://github.com/darribas/gds_env">gds_env</a></b>  
 [https://darribas.org/gds_env](https://darribas.org/gds_env)  
 A containerised platform for Geographic Data Science  
 score: 24/100, stars/week: 1, stars: 95  
 
 
-66. <a href="https://github.com/openeventdata)">openeventdata/</a><b><a href="https://github.com/openeventdata/mordecai">mordecai</a></b>  
+68. <a href="https://github.com/openeventdata)">openeventdata/</a><b><a href="https://github.com/openeventdata/mordecai">mordecai</a></b>  
 Full text geoparsing as a Python library  
 score: 23/100, stars/week: 1, stars: 704  
 
 
-67. <a href="https://github.com/ghislainv)">ghislainv/</a><b><a href="https://github.com/ghislainv/forestatrisk">forestatrisk</a></b>  
+69. <a href="https://github.com/ghislainv)">ghislainv/</a><b><a href="https://github.com/ghislainv/forestatrisk">forestatrisk</a></b>  
 [https://ecology.ghislainv.fr/forestatrisk](https://ecology.ghislainv.fr/forestatrisk)  
 📦 🐍 Python package to model and forecast the risk of deforestation  
 score: 23/100, stars/week: 1, stars: 99  
 
 
-68. <a href="https://github.com/benbovy)">benbovy/</a><b><a href="https://github.com/benbovy/spherely">spherely</a></b>  
+70. <a href="https://github.com/benbovy)">benbovy/</a><b><a href="https://github.com/benbovy/spherely">spherely</a></b>  
 [https://spherely.readthedocs.io/](https://spherely.readthedocs.io/)  
 Manipulation and analysis of geometric objects on the sphere.  
 score: 23/100, stars/week: 3, stars: 91  
 
 
-69. <a href="https://github.com/googlecloudplatform)">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/dataflow-geobeam">dataflow-geobeam</a></b>  
+71. <a href="https://github.com/googlecloudplatform)">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/dataflow-geobeam">dataflow-geobeam</a></b>  
 googlecloudplatform/dataflow-geobeam  
 score: 23/100, stars/week: 1, stars: 73  
 
 
-70. <a href="https://github.com/residentmario)">residentmario/</a><b><a href="https://github.com/residentmario/geoplot">geoplot</a></b>  
+72. <a href="https://github.com/residentmario)">residentmario/</a><b><a href="https://github.com/residentmario/geoplot">geoplot</a></b>  
 [https://residentmario.github.io/geoplot/index.html](https://residentmario.github.io/geoplot/index.html)  
 High-level geospatial data visualization library for Python.  
 score: 21/100, stars/week: 2, stars: 1,068  
 
 
-71. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/landsat-util">landsat-util</a></b>  
+73. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/landsat-util">landsat-util</a></b>  
 A utility to search, download and process Landsat 8 satellite imagery  
 score: 21/100, stars/week: 1, stars: 684  
 
 
-72. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/label-maker">label-maker</a></b>  
+74. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/label-maker">label-maker</a></b>  
 [http://devseed.com/label-maker/](http://devseed.com/label-maker/)  
 Data Preparation for Satellite Machine Learning  
 score: 21/100, stars/week: 1, stars: 446  
 
 
-73. <a href="https://github.com/radiantearth)">radiantearth/</a><b><a href="https://github.com/radiantearth/radiant-mlhub">radiant-mlhub</a></b>  
+75. <a href="https://github.com/radiantearth)">radiantearth/</a><b><a href="https://github.com/radiantearth/radiant-mlhub">radiant-mlhub</a></b>  
 [https://radiant-mlhub.readthedocs.io/](https://radiant-mlhub.readthedocs.io/)  
 A Python client for the Radiant MLHub API (https://mlhub.earth).  
 score: 21/100, stars/week: 1, stars: 48  
 
 
-74. <a href="https://github.com/mapbox)">mapbox/</a><b><a href="https://github.com/mapbox/mercantile">mercantile</a></b>  
+76. <a href="https://github.com/mapbox)">mapbox/</a><b><a href="https://github.com/mapbox/mercantile">mercantile</a></b>  
 Spherical mercator tile and coordinate utilities  
 score: 20/100, stars/week: 1, stars: 355  
 
 
-75. <a href="https://github.com/openaddresses)">openaddresses/</a><b><a href="https://github.com/openaddresses/pyesridump">pyesridump</a></b>  
+77. <a href="https://github.com/openaddresses)">openaddresses/</a><b><a href="https://github.com/openaddresses/pyesridump">pyesridump</a></b>  
 Scrapes an ESRI MapServer REST endpoint to spit out more generally-usable geodata.  
 score: 20/100, stars/week: 1, stars: 273  
 
 
-76. <a href="https://github.com/scikit-geometry)">scikit-geometry/</a><b><a href="https://github.com/scikit-geometry/scikit-geometry">scikit-geometry</a></b>  
+78. <a href="https://github.com/scikit-geometry)">scikit-geometry/</a><b><a href="https://github.com/scikit-geometry/scikit-geometry">scikit-geometry</a></b>  
 [https://scikit-geometry.github.io/scikit-geometry](https://scikit-geometry.github.io/scikit-geometry)  
 Scientific Python Geometric Algorithms Library  
 score: 19/100, stars/week: 1, stars: 372  
 
 
-77. <a href="https://github.com/zorzi-s)">zorzi-s/</a><b><a href="https://github.com/zorzi-s/polyworldpretrainednetwork">PolyWorldPretrainedNetwork</a></b>  
+79. <a href="https://github.com/zorzi-s)">zorzi-s/</a><b><a href="https://github.com/zorzi-s/polyworldpretrainednetwork">PolyWorldPretrainedNetwork</a></b>  
 PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images  
 score: 19/100, stars/week: 1, stars: 114  
 
 
-78. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/geolambda">geolambda</a></b>  
+80. <a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/geolambda">geolambda</a></b>  
 Create and deploy Geospatial AWS Lambda functions  
 score: 18/100, stars/week: 1, stars: 282  
 
 
-79. <a href="https://github.com/remotesensinglab)">remotesensinglab/</a><b><a href="https://github.com/remotesensinglab/raster4ml">raster4ml</a></b>  
+81. <a href="https://github.com/remotesensinglab)">remotesensinglab/</a><b><a href="https://github.com/remotesensinglab/raster4ml">raster4ml</a></b>  
 [https://raster4ml.readthedocs.io](https://raster4ml.readthedocs.io)  
 A geospatial raster processing library for machine learning  
 score: 16/100, stars/week: 2, stars: 106  
 
 
-80. <a href="https://github.com/r-barnes)">r-barnes/</a><b><a href="https://github.com/r-barnes/richdem">richdem</a></b>  
+82. <a href="https://github.com/r-barnes)">r-barnes/</a><b><a href="https://github.com/r-barnes/richdem">richdem</a></b>  
 High-performance Terrain and Hydrology Analysis   
 score: 15/100, stars/week: 1, stars: 206  
 
 
-81. <a href="https://github.com/kuanb)">kuanb/</a><b><a href="https://github.com/kuanb/peartree">peartree</a></b>  
+83. <a href="https://github.com/kuanb)">kuanb/</a><b><a href="https://github.com/kuanb/peartree">peartree</a></b>  
 peartree: A library for converting transit data into a directed graph for sketch network analysis.  
 score: 14/100, stars/week: 1, stars: 194  
 
 
-82. <a href="https://github.com/martibosch)">martibosch/</a><b><a href="https://github.com/martibosch/detectree">detectree</a></b>  
+84. <a href="https://github.com/martibosch)">martibosch/</a><b><a href="https://github.com/martibosch/detectree">detectree</a></b>  
 [https://doi.org/10.21105/joss.02172](https://doi.org/10.21105/joss.02172)  
 Tree detection from aerial imagery in Python  
 score: 14/100, stars/week: 1, stars: 145  
 
 
-83. <a href="https://github.com/cloudsen12)">cloudsen12/</a><b><a href="https://github.com/cloudsen12/easystac">easystac</a></b>  
+85. <a href="https://github.com/cloudsen12)">cloudsen12/</a><b><a href="https://github.com/cloudsen12/easystac">easystac</a></b>  
 [https://easystac.readthedocs.io/](https://easystac.readthedocs.io/)  
 A Python package for simple STAC queries  
 score: 13/100, stars/week: 1, stars: 61  
 
 
-84. <a href="https://github.com/lydorn)">lydorn/</a><b><a href="https://github.com/lydorn/polygonization-by-frame-field-learning">Polygonization-by-Frame-Field-Learning</a></b>  
+86. <a href="https://github.com/lydorn)">lydorn/</a><b><a href="https://github.com/lydorn/polygonization-by-frame-field-learning">Polygonization-by-Frame-Field-Learning</a></b>  
 This repository contains the code for our fast polygonal building extraction from overhead images pipeline.  
 score: 12/100, stars/week: 1, stars: 224  
 
 
-85. <a href="https://github.com/jasonrig)">jasonrig/</a><b><a href="https://github.com/jasonrig/address-net">address-net</a></b>  
+87. <a href="https://github.com/jasonrig)">jasonrig/</a><b><a href="https://github.com/jasonrig/address-net">address-net</a></b>  
 A package to structure Australian addresses  
 score: 12/100, stars/week: 1, stars: 179  
 
 
-86. <a href="https://github.com/gdaosu)">gdaosu/</a><b><a href="https://github.com/gdaosu/lod2buildingmodel">LOD2BuildingModel</a></b>  
+88. <a href="https://github.com/gdaosu)">gdaosu/</a><b><a href="https://github.com/gdaosu/lod2buildingmodel">LOD2BuildingModel</a></b>  
 SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite-derived DSM and Orthophoto  
 score: 11/100, stars/week: 1, stars: 112  
 
 
-87. <a href="https://github.com/edomel)">edomel/</a><b><a href="https://github.com/edomel/boundaryvt">BoundaryVT</a></b>  
+89. <a href="https://github.com/edomel)">edomel/</a><b><a href="https://github.com/edomel/boundaryvt">BoundaryVT</a></b>  
 edomel/BoundaryVT  
 score: 11/100, stars/week: 1, stars: 1  
 
 
-88. <a href="https://github.com/bowenc0221)">bowenc0221/</a><b><a href="https://github.com/bowenc0221/boundary-iou-api">boundary-iou-api</a></b>  
+90. <a href="https://github.com/bowenc0221)">bowenc0221/</a><b><a href="https://github.com/bowenc0221/boundary-iou-api">boundary-iou-api</a></b>  
 Boundary IoU API (Beta version)  
 score: 9/100, stars/week: 1, stars: 183  
 
 
-89. <a href="https://github.com/gregorhd)">gregorhd/</a><b><a href="https://github.com/gregorhd/mapcompare">mapcompare</a></b>  
+91. <a href="https://github.com/gregorhd)">gregorhd/</a><b><a href="https://github.com/gregorhd/mapcompare">mapcompare</a></b>  
 Comparison of Python packages and libraries for visualising geospatial vector data: applications for Smarter Cities.  
 score: 9/100, stars/week: 1, stars: 29  
 
 
-90. <a href="https://github.com/artelys)">artelys/</a><b><a href="https://github.com/artelys/geonetworkx">geonetworkx</a></b>  
+92. <a href="https://github.com/artelys)">artelys/</a><b><a href="https://github.com/artelys/geonetworkx">geonetworkx</a></b>  
 Python tools for geographic graphs  
 score: 8/100, stars/week: 1, stars: 30  
 
 
-91. <a href="https://github.com/zorzi-s)">zorzi-s/</a><b><a href="https://github.com/zorzi-s/maprepair">MapRepair</a></b>  
+93. <a href="https://github.com/zorzi-s)">zorzi-s/</a><b><a href="https://github.com/zorzi-s/maprepair">MapRepair</a></b>  
 Deep Cadastre Maps Alignment and Temporal Inconsistencies Fix in Satellite Images  
 score: 7/100, stars/week: 1, stars: 17  
 
 
-92. <a href="https://github.com/zorzi-s)">zorzi-s/</a><b><a href="https://github.com/zorzi-s/projectregularization">projectRegularization</a></b>  
+94. <a href="https://github.com/zorzi-s)">zorzi-s/</a><b><a href="https://github.com/zorzi-s/projectregularization">projectRegularization</a></b>  
 Regularization of Building Boundaries using Adversarial and Regularized losses  
 score: 6/100, stars/week: 1, stars: 87  
 
 
-93. <a href="https://github.com/scisco)">scisco/</a><b><a href="https://github.com/scisco/area">area</a></b>  
+95. <a href="https://github.com/scisco)">scisco/</a><b><a href="https://github.com/scisco/area">area</a></b>  
 Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python  
 score: 4/100, stars/week: 1, stars: 88  
 
 
-94. <a href="https://github.com/lydorn)">lydorn/</a><b><a href="https://github.com/lydorn/mapalignment">mapalignment</a></b>  
+96. <a href="https://github.com/lydorn)">lydorn/</a><b><a href="https://github.com/lydorn/mapalignment">mapalignment</a></b>  
 Aligning and Updating Cadaster Maps with Remote Sensing Images  
 score: 3/100, stars/week: 1, stars: 59  
 
 
-95. <a href="https://github.com/lycantropos)">lycantropos/</a><b><a href="https://github.com/lycantropos/wagyu">wagyu</a></b>  
+97. <a href="https://github.com/lycantropos)">lycantropos/</a><b><a href="https://github.com/lycantropos/wagyu">wagyu</a></b>  
 [https://github.com/mapbox/wagyu](https://github.com/mapbox/wagyu)  
 Python port of mapbox/wagyu library (with separate C++ binding)  
 score: 2/100, stars/week: 1, stars: 3  
@@ -2411,144 +2423,149 @@ Llama Lab is a repo dedicated to building cutting-edge projects using LlamaIndex
 score: 48/100, stars/week: 102, stars: 556  
 
 
-77. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b>  
+77. <a href="https://github.com/iryna-kondr)">iryna-kondr/</a><b><a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a></b>  
+Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.  
+score: 47/100, stars/week: 197, stars: 282  
+
+
+78. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b>  
 A framework for few-shot evaluation of autoregressive language models.  
 score: 46/100, stars/week: 8, stars: 1,185  
 
 
-78. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b>  
+79. <a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b>  
 [https://www.eleuther.ai](https://www.eleuther.ai)  
 An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
 score: 43/100, stars/week: 51, stars: 7,800  
 
 
-79. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
+80. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
 Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
 score: 42/100, stars/week: 66, stars: 1,435  
 
 
-80. <a href="https://github.com/ist-daslab)">ist-daslab/</a><b><a href="https://github.com/ist-daslab/gptq">gptq</a></b>  
+81. <a href="https://github.com/ist-daslab)">ist-daslab/</a><b><a href="https://github.com/ist-daslab/gptq">gptq</a></b>  
 [https://arxiv.org/abs/2210.17323](https://arxiv.org/abs/2210.17323)  
 Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".  
 score: 42/100, stars/week: 24, stars: 748  
 
 
-81. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/aitextgen">aitextgen</a></b>  
+82. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/aitextgen">aitextgen</a></b>  
 [https://docs.aitextgen.io](https://docs.aitextgen.io)  
 A robust Python tool for text-based AI training and generation using GPT-2.  
 score: 41/100, stars/week: 9, stars: 1,764  
 
 
-82. <a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
+83. <a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
 [https://spacy.io/usage/embeddings-transformers](https://spacy.io/usage/embeddings-transformers)  
 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy  
 score: 41/100, stars/week: 6, stars: 1,245  
 
 
-83. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b>  
+84. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b>  
 Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts  
 score: 40/100, stars/week: 15, stars: 3,267  
 
 
-84. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
+85. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 score: 40/100, stars/week: 7, stars: 758  
 
 
-85. <a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
+86. <a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
 Language Modeling with the H3 State Space Model  
 score: 40/100, stars/week: 20, stars: 415  
 
 
-86. <a href="https://github.com/kbressem)">kbressem/</a><b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
+87. <a href="https://github.com/kbressem)">kbressem/</a><b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
 LLM finetuned for medical question answering  
 score: 40/100, stars/week: 19, stars: 151  
 
 
-87. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
+88. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b>  
 Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 score: 39/100, stars/week: 6, stars: 604  
 
 
-88. <a href="https://github.com/muennighoff)">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
+89. <a href="https://github.com/muennighoff)">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
 SGPT: GPT Sentence Embeddings for Semantic Search  
 score: 35/100, stars/week: 7, stars: 491  
 
 
-89. <a href="https://github.com/reasoning-machines)">reasoning-machines/</a><b><a href="https://github.com/reasoning-machines/pal">pal</a></b>  
+90. <a href="https://github.com/reasoning-machines)">reasoning-machines/</a><b><a href="https://github.com/reasoning-machines/pal">pal</a></b>  
 [https://reasonwithpal.com](https://reasonwithpal.com)  
 PaL: Program-Aided Language Models  
 score: 34/100, stars/week: 10, stars: 267  
 
 
-90. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/medical-chatgpt">medical-chatgpt</a></b>  
+91. <a href="https://github.com/lucidrains)">lucidrains/</a><b><a href="https://github.com/lucidrains/medical-chatgpt">medical-chatgpt</a></b>  
 Implementation of ChatGPT, but tailored towards primary care medicine, with the reward being able to collect patient histories in a thorough and efficient manner and come up with a reasonable differential diagnosis  
 score: 33/100, stars/week: 12, stars: 284  
 
 
-91. <a href="https://github.com/keirp)">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b>  
+92. <a href="https://github.com/keirp)">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b>  
 Large Language Models Are Human-Level Prompt Engineers  
 score: 32/100, stars/week: 16, stars: 482  
 
 
-92. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/chatgpt-robot-manipulation-prompts">ChatGPT-Robot-Manipulation-Prompts</a></b>  
+93. <a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/chatgpt-robot-manipulation-prompts">ChatGPT-Robot-Manipulation-Prompts</a></b>  
 microsoft/ChatGPT-Robot-Manipulation-Prompts  
 score: 32/100, stars/week: 27, stars: 182  
 
 
-93. <a href="https://github.com/conceptofmind)">conceptofmind/</a><b><a href="https://github.com/conceptofmind/toolformer">toolformer</a></b>  
+94. <a href="https://github.com/conceptofmind)">conceptofmind/</a><b><a href="https://github.com/conceptofmind/toolformer">toolformer</a></b>  
 Open-source implementation of Toolformer: Language Models Can Teach Themselves to Use Tools  
 score: 30/100, stars/week: 15, stars: 212  
 
 
-94. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
+95. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
 Dataset of GPT-2 outputs for research in detection, biases, and more  
 score: 28/100, stars/week: 8, stars: 1,704  
 
 
-95. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
+96. <a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
 Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
 score: 26/100, stars/week: 5, stars: 383  
 
 
-96. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/langchain-prefect">langchain-prefect</a></b>  
+97. <a href="https://github.com/prefecthq)">prefecthq/</a><b><a href="https://github.com/prefecthq/langchain-prefect">langchain-prefect</a></b>  
 [https://prefecthq.github.io/langchain-prefect/](https://prefecthq.github.io/langchain-prefect/)  
 Tools for using Langchain with Prefect  
 score: 25/100, stars/week: 5, stars: 64  
 
 
-97. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
+98. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
 Archived. Code and models from the paper "Generative Pretraining from Pixels"  
 score: 24/100, stars/week: 11, stars: 1,881  
 
 
-98. <a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/jaxformer">jaxformer</a></b>  
+99. <a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/jaxformer">jaxformer</a></b>  
 Minimal library to train LLMs on TPU in JAX with pjit().  
 score: 23/100, stars/week: 5, stars: 194  
 
 
-99. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
+100. <a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
 [https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
 score: 21/100, stars/week: 7, stars: 1,831  
 
 
-100. <a href="https://github.com/larsbaunwall)">larsbaunwall/</a><b><a href="https://github.com/larsbaunwall/bricky">bricky</a></b>  
+101. <a href="https://github.com/larsbaunwall)">larsbaunwall/</a><b><a href="https://github.com/larsbaunwall/bricky">bricky</a></b>  
 Haystack/OpenAI based chatbot curating a custom knowledgebase  
 score: 19/100, stars/week: 4, stars: 75  
 
 
-101. <a href="https://github.com/anthropics)">anthropics/</a><b><a href="https://github.com/anthropics/evals">evals</a></b>  
+102. <a href="https://github.com/anthropics)">anthropics/</a><b><a href="https://github.com/anthropics/evals">evals</a></b>  
 Model-Written Evaluation Datasets  
 score: 18/100, stars/week: 5, stars: 136  
 
 
-102. <a href="https://github.com/ai21labs)">ai21labs/</a><b><a href="https://github.com/ai21labs/in-context-ralm">in-context-ralm</a></b>  
+103. <a href="https://github.com/ai21labs)">ai21labs/</a><b><a href="https://github.com/ai21labs/in-context-ralm">in-context-ralm</a></b>  
 In-Context Retrieval-Augmented Language Models  
 score: 15/100, stars/week: 4, stars: 77  
 
 
-103. <a href="https://github.com/qanastek)">qanastek/</a><b><a href="https://github.com/qanastek/drbert">DrBERT</a></b>  
+104. <a href="https://github.com/qanastek)">qanastek/</a><b><a href="https://github.com/qanastek/drbert">DrBERT</a></b>  
 [https://drbert.univ-avignon.fr/](https://drbert.univ-avignon.fr/)  
 DrBERT: A Robust Pre-trained Model in French for Biomedical and Clinical domains  
 score: 10/100, stars/week: 1, stars: 9  
