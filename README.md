@@ -6384,7 +6384,14 @@ score: 30/100, stars/week: 2, stars: 1,097
 
 20. <a href="https://github.com/wolever)">wolever/</a><b><a href="https://github.com/wolever/parameterized">parameterized</a></b>  
 Parameterized testing with any Python test framework  
-score: 28/100, stars/week: 1, stars: 763  
+score: 28/100, stars/week: 1, stars: 763
+
+
+21. <a href="https://github.com/vedro-universe">vedro-universe/</a><b><a 
+href="https://github.com/vedro-universe/vedro">vedro</a></b>  
+[https://vedro.io/](https://vedro.io/)  
+Pragmatic testing framework for Python  
+score: 30/100, stars/week: 1, stars: 4
 
 
 ## Machine Learning - Time Series
