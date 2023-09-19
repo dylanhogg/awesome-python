@@ -1,6 +1,6 @@
 # dylanhogg/awesome-python  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
-1,375 hand-picked awesome Python libraries and frameworks, 
+1,261 hand-picked awesome Python libraries and frameworks, 
 with an emphasis on data and machine learning, organised by category 🐍  
 
 Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  
@@ -488,170 +488,96 @@ python implementation of the parquet columnar file format.
 score: 38/100, stars: 688  
 
 
-63. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/dbt-labs~dbt-spark~avatar-25.png' />&nbsp;<a href="https://github.com/dbt-labs)">dbt-labs/</a><b><a href="https://github.com/dbt-labs/dbt-spark">dbt-spark</a></b>  
-[https://getdbt.com](https://getdbt.com)  
-dbt-spark contains all of the code enabling dbt to work with Apache Spark and Databricks  
-score: 38/100, stars: 318  
-
-
-64. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pallets~itsdangerous~avatar-25.png' />&nbsp;<a href="https://github.com/pallets)">pallets/</a><b><a href="https://github.com/pallets/itsdangerous">itsdangerous</a></b>  
+63. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pallets~itsdangerous~avatar-25.png' />&nbsp;<a href="https://github.com/pallets)">pallets/</a><b><a href="https://github.com/pallets/itsdangerous">itsdangerous</a></b>  
 [https://itsdangerous.palletsprojects.com](https://itsdangerous.palletsprojects.com)  
 Safely pass trusted data to untrusted environments and back.  
 score: 37/100, stars: 2,723  
 
 
-65. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/uber~petastorm~avatar-25.png' />&nbsp;<a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/petastorm">petastorm</a></b>  
+64. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/uber~petastorm~avatar-25.png' />&nbsp;<a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/petastorm">petastorm</a></b>  
 Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.  
 score: 37/100, stars: 1,668  
 
 
-66. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jsonpickle~jsonpickle~avatar-25.png' />&nbsp;<a href="https://github.com/jsonpickle)">jsonpickle/</a><b><a href="https://github.com/jsonpickle/jsonpickle">jsonpickle</a></b>  
+65. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jsonpickle~jsonpickle~avatar-25.png' />&nbsp;<a href="https://github.com/jsonpickle)">jsonpickle/</a><b><a href="https://github.com/jsonpickle/jsonpickle">jsonpickle</a></b>  
 [https://jsonpickle.readthedocs.io/en/latest/](https://jsonpickle.readthedocs.io/en/latest/)  
 Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.  
 score: 37/100, stars: 1,156  
 
 
-67. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/databricks~dbt-databricks~avatar-25.png' />&nbsp;<a href="https://github.com/databricks)">databricks/</a><b><a href="https://github.com/databricks/dbt-databricks">dbt-databricks</a></b>  
-[https://databricks.com](https://databricks.com)  
-A dbt adapter for Databricks.  
-score: 37/100, stars: 145  
-
-
-68. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/ydataai~ydata-synthetic~avatar-25.png' />&nbsp;<a href="https://github.com/ydataai)">ydataai/</a><b><a href="https://github.com/ydataai/ydata-synthetic">ydata-synthetic</a></b>  
+66. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/ydataai~ydata-synthetic~avatar-25.png' />&nbsp;<a href="https://github.com/ydataai)">ydataai/</a><b><a href="https://github.com/ydataai/ydata-synthetic">ydata-synthetic</a></b>  
 [https://docs.synthetic.ydata.ai](https://docs.synthetic.ydata.ai)  
 Synthetic data generators for tabular and time-series data  
 score: 36/100, stars: 1,079  
 
 
-69. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/aio-libs~aiokafka~avatar-25.png' />&nbsp;<a href="https://github.com/aio-libs)">aio-libs/</a><b><a href="https://github.com/aio-libs/aiokafka">aiokafka</a></b>  
+67. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/aio-libs~aiokafka~avatar-25.png' />&nbsp;<a href="https://github.com/aio-libs)">aio-libs/</a><b><a href="https://github.com/aio-libs/aiokafka">aiokafka</a></b>  
 [http://aiokafka.readthedocs.io/](http://aiokafka.readthedocs.io/)  
 asyncio client for kafka  
 score: 36/100, stars: 930  
 
 
-70. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scholarly-python-package~scholarly~avatar-25.png' />&nbsp;<a href="https://github.com/scholarly-python-package)">scholarly-python-package/</a><b><a href="https://github.com/scholarly-python-package/scholarly">scholarly</a></b>  
+68. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scholarly-python-package~scholarly~avatar-25.png' />&nbsp;<a href="https://github.com/scholarly-python-package)">scholarly-python-package/</a><b><a href="https://github.com/scholarly-python-package/scholarly">scholarly</a></b>  
 [https://scholarly.readthedocs.io/](https://scholarly.readthedocs.io/)  
 Retrieve author and publication information from Google Scholar in a friendly, Pythonic way without having to worry about CAPTCHAs!  
 score: 35/100, stars: 1,047  
 
 
-71. <a href="https://github.com/eliasdabbas)">eliasdabbas/</a><b><a href="https://github.com/eliasdabbas/advertools">advertools</a></b>  
+69. <a href="https://github.com/eliasdabbas)">eliasdabbas/</a><b><a href="https://github.com/eliasdabbas/advertools">advertools</a></b>  
 [https://advertools.readthedocs.io](https://advertools.readthedocs.io)  
 advertools - online marketing productivity and analysis tools  
 score: 35/100, stars: 901  
 
 
-72. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/piccolo-orm~piccolo_admin~avatar-25.png' />&nbsp;<a href="https://github.com/piccolo-orm)">piccolo-orm/</a><b><a href="https://github.com/piccolo-orm/piccolo_admin">piccolo_admin</a></b>  
-[https://piccolo-orm.com/ecosystem/](https://piccolo-orm.com/ecosystem/)  
-A powerful web admin for your database.  
-score: 35/100, stars: 245  
-
-
-73. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-hep~uproot5~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-hep)">scikit-hep/</a><b><a href="https://github.com/scikit-hep/uproot5">uproot5</a></b>  
-[https://uproot.readthedocs.io](https://uproot.readthedocs.io)  
-ROOT I/O in pure Python and NumPy.  
-score: 35/100, stars: 198  
-
-
-74. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scylladb~python-driver~avatar-25.png' />&nbsp;<a href="https://github.com/scylladb)">scylladb/</a><b><a href="https://github.com/scylladb/python-driver">python-driver</a></b>  
-[https://python-driver.docs.scylladb.com](https://python-driver.docs.scylladb.com)  
-ScyllaDB Python Driver, originally DataStax Python Driver for Apache Cassandra  
-score: 35/100, stars: 52  
-
-
-75. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/facebookresearch~mephisto~avatar-25.png' />&nbsp;<a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/mephisto">Mephisto</a></b>  
-[https://mephisto.ai/](https://mephisto.ai/)  
-A suite of tools for managing crowdsourcing tasks from the inception through to data packaging for research use.   
-score: 33/100, stars: 280  
-
-
-76. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pinecone-io~pinecone-python-client~avatar-25.png' />&nbsp;<a href="https://github.com/pinecone-io)">pinecone-io/</a><b><a href="https://github.com/pinecone-io/pinecone-python-client">pinecone-python-client</a></b>  
-[https://www.pinecone.io/docs](https://www.pinecone.io/docs)  
-The Pinecone Python client   
-score: 32/100, stars: 167  
-
-
-77. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/eleutherai~the-pile~avatar-25.png' />&nbsp;<a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/the-pile">the-pile</a></b>  
+70. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/eleutherai~the-pile~avatar-25.png' />&nbsp;<a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/the-pile">the-pile</a></b>  
 eleutherai/the-pile  
 score: 31/100, stars: 1,233  
 
 
-78. <a href="https://github.com/macbre)">macbre/</a><b><a href="https://github.com/macbre/sql-metadata">sql-metadata</a></b>  
+71. <a href="https://github.com/macbre)">macbre/</a><b><a href="https://github.com/macbre/sql-metadata">sql-metadata</a></b>  
 [https://pypi.python.org/pypi/sql-metadata](https://pypi.python.org/pypi/sql-metadata)  
 Uses tokenized query returned by python-sqlparse and generates query metadata  
 score: 31/100, stars: 612  
 
 
-79. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/qdrant~qdrant-haystack~avatar-25.png' />&nbsp;<a href="https://github.com/qdrant)">qdrant/</a><b><a href="https://github.com/qdrant/qdrant-haystack">qdrant-haystack</a></b>  
-An integration of Qdrant ANN vector database backend with Haystack   
-score: 31/100, stars: 31  
-
-
-80. <a href="https://github.com/vi3k6i5)">vi3k6i5/</a><b><a href="https://github.com/vi3k6i5/flashtext">flashtext</a></b>  
+72. <a href="https://github.com/vi3k6i5)">vi3k6i5/</a><b><a href="https://github.com/vi3k6i5/flashtext">flashtext</a></b>  
 Extract Keywords from sentence or Replace keywords in sentences.  
 score: 30/100, stars: 5,445  
 
 
-81. <a href="https://github.com/mchong6)">mchong6/</a><b><a href="https://github.com/mchong6/jojogan">JoJoGAN</a></b>  
+73. <a href="https://github.com/mchong6)">mchong6/</a><b><a href="https://github.com/mchong6/jojogan">JoJoGAN</a></b>  
 Official PyTorch repo for JoJoGAN: One Shot Face Stylization  
 score: 30/100, stars: 1,364  
 
 
-82. <a href="https://github.com/hyperqueryhq)">hyperqueryhq/</a><b><a href="https://github.com/hyperqueryhq/whale">whale</a></b>  
+74. <a href="https://github.com/hyperqueryhq)">hyperqueryhq/</a><b><a href="https://github.com/hyperqueryhq/whale">whale</a></b>  
 [https://rsyi.gitbook.io/whale](https://rsyi.gitbook.io/whale)  
 🐳 The stupidly simple CLI workspace for your data warehouse.  
 score: 30/100, stars: 724  
 
 
-83. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/bigscience-workshop~biomedical~avatar-25.png' />&nbsp;<a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/biomedical">biomedical</a></b>  
-Tools for curating biomedical training data for large-scale language modeling   
-score: 30/100, stars: 357  
-
-
-84. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google~weather-tools~avatar-25.png' />&nbsp;<a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/weather-tools">weather-tools</a></b>  
-[https://weather-tools.readthedocs.io/](https://weather-tools.readthedocs.io/)  
-Apache Beam pipelines to make weather data accessible and useful.  
-score: 30/100, stars: 156  
-
-
-85. <a href="https://github.com/goldsmith)">goldsmith/</a><b><a href="https://github.com/goldsmith/wikipedia">Wikipedia</a></b>  
+75. <a href="https://github.com/goldsmith)">goldsmith/</a><b><a href="https://github.com/goldsmith/wikipedia">Wikipedia</a></b>  
 [https://wikipedia.readthedocs.org/](https://wikipedia.readthedocs.org/)  
 A Pythonic wrapper for the Wikipedia API  
 score: 27/100, stars: 2,693  
 
 
-86. <a href="https://github.com/sdispater)">sdispater/</a><b><a href="https://github.com/sdispater/orator">orator</a></b>  
+76. <a href="https://github.com/sdispater)">sdispater/</a><b><a href="https://github.com/sdispater/orator">orator</a></b>  
 [https://orator-orm.com](https://orator-orm.com)  
 The Orator ORM provides a simple yet beautiful ActiveRecord implementation.  
 score: 26/100, stars: 1,411  
 
 
-87. <a href="https://github.com/koaning)">koaning/</a><b><a href="https://github.com/koaning/human-learn">human-learn</a></b>  
+77. <a href="https://github.com/koaning)">koaning/</a><b><a href="https://github.com/koaning/human-learn">human-learn</a></b>  
 [https://koaning.github.io/human-learn/](https://koaning.github.io/human-learn/)  
 Natural Intelligence is still a pretty good idea.  
 score: 25/100, stars: 739  
 
 
-88. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/ydataai~ydata-quality~avatar-25.png' />&nbsp;<a href="https://github.com/ydataai)">ydataai/</a><b><a href="https://github.com/ydataai/ydata-quality">ydata-quality</a></b>  
-Data Quality assessment with one line of code  
-score: 25/100, stars: 384  
-
-
-89. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/uber~fiber~avatar-25.png' />&nbsp;<a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/fiber">fiber</a></b>  
+78. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/uber~fiber~avatar-25.png' />&nbsp;<a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/fiber">fiber</a></b>  
 [https://uber.github.io/fiber/](https://uber.github.io/fiber/)  
 Distributed Computing for AI Made Simple  
 score: 24/100, stars: 1,035  
-
-
-90. <a href="https://github.com/mattbierbaum)">mattbierbaum/</a><b><a href="https://github.com/mattbierbaum/arxiv-public-datasets">arxiv-public-datasets</a></b>  
-[https://arxiv.org/abs/1905.00075](https://arxiv.org/abs/1905.00075)  
-A set of scripts to grab public datasets from resources related to arXiv  
-score: 24/100, stars: 318  
-
-
-91. <a href="https://github.com/dmarx)">dmarx/</a><b><a href="https://github.com/dmarx/psaw">psaw</a></b>  
-Python Pushshift.io API Wrapper (for comment/submission search)  
-score: 16/100, stars: 351  
 
 
 ## Debugging
@@ -873,23 +799,12 @@ GLIDE: a diffusion-based text-conditional image synthesis model
 score: 34/100, stars: 3,290  
 
 
-32. <a href="https://github.com/albarji)">albarji/</a><b><a href="https://github.com/albarji/mixture-of-diffusers">mixture-of-diffusers</a></b>  
-Mixture of Diffusers for scene composition and high resolution image generation  
-score: 31/100, stars: 308  
-
-
-33. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/nvlabs~gcvit~avatar-25.png' />&nbsp;<a href="https://github.com/nvlabs)">nvlabs/</a><b><a href="https://github.com/nvlabs/gcvit">GCVit</a></b>  
-[https://arxiv.org/abs/2206.09959](https://arxiv.org/abs/2206.09959)  
-[ICML 2023] Official PyTorch implementation of Global Context Vision Transformers  
-score: 30/100, stars: 368  
-
-
-34. <a href="https://github.com/sharonzhou)">sharonzhou/</a><b><a href="https://github.com/sharonzhou/long_stable_diffusion">long_stable_diffusion</a></b>  
+32. <a href="https://github.com/sharonzhou)">sharonzhou/</a><b><a href="https://github.com/sharonzhou/long_stable_diffusion">long_stable_diffusion</a></b>  
 Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)  
 score: 25/100, stars: 665  
 
 
-35. <a href="https://github.com/tanelp)">tanelp/</a><b><a href="https://github.com/tanelp/tiny-diffusion">tiny-diffusion</a></b>  
+33. <a href="https://github.com/tanelp)">tanelp/</a><b><a href="https://github.com/tanelp/tiny-diffusion">tiny-diffusion</a></b>  
 A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.  
 score: 24/100, stars: 433  
 
@@ -1013,95 +928,80 @@ Exchange calendars to use with pandas for trading applications
 score: 37/100, stars: 648  
 
 
-21. <a href="https://github.com/gerrymanoim)">gerrymanoim/</a><b><a href="https://github.com/gerrymanoim/exchange_calendars">exchange_calendars</a></b>  
-Calendars for various securities exchanges.  
-score: 37/100, stars: 311  
-
-
-22. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/chancefocus~pixiu~avatar-25.png' />&nbsp;<a href="https://github.com/chancefocus)">chancefocus/</a><b><a href="https://github.com/chancefocus/pixiu">PIXIU</a></b>  
-This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).  
-score: 34/100, stars: 206  
-
-
-23. <a href="https://github.com/lballabio)">lballabio/</a><b><a href="https://github.com/lballabio/quantlib-swig">QuantLib-SWIG</a></b>  
-QuantLib wrappers to other languages  
-score: 33/100, stars: 299  
-
-
-24. <a href="https://github.com/pmorissette)">pmorissette/</a><b><a href="https://github.com/pmorissette/bt">bt</a></b>  
+21. <a href="https://github.com/pmorissette)">pmorissette/</a><b><a href="https://github.com/pmorissette/bt">bt</a></b>  
 [http://pmorissette.github.io/bt](http://pmorissette.github.io/bt)  
 bt - flexible backtesting for Python  
 score: 32/100, stars: 1,767  
 
 
-25. <a href="https://github.com/pmorissette)">pmorissette/</a><b><a href="https://github.com/pmorissette/ffn">ffn</a></b>  
+22. <a href="https://github.com/pmorissette)">pmorissette/</a><b><a href="https://github.com/pmorissette/ffn">ffn</a></b>  
 [pmorissette.github.io/ffn](pmorissette.github.io/ffn)  
 ffn - a financial function library for Python  
 score: 32/100, stars: 1,586  
 
 
-26. <a href="https://github.com/gbeced)">gbeced/</a><b><a href="https://github.com/gbeced/pyalgotrade">pyalgotrade</a></b>  
+23. <a href="https://github.com/gbeced)">gbeced/</a><b><a href="https://github.com/gbeced/pyalgotrade">pyalgotrade</a></b>  
 [http://gbeced.github.io/pyalgotrade/](http://gbeced.github.io/pyalgotrade/)  
 Python Algorithmic Trading Library  
 score: 31/100, stars: 4,131  
 
 
-27. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cuemacro~finmarketpy~avatar-25.png' />&nbsp;<a href="https://github.com/cuemacro)">cuemacro/</a><b><a href="https://github.com/cuemacro/finmarketpy">finmarketpy</a></b>  
+24. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cuemacro~finmarketpy~avatar-25.png' />&nbsp;<a href="https://github.com/cuemacro)">cuemacro/</a><b><a href="https://github.com/cuemacro/finmarketpy">finmarketpy</a></b>  
 [http://www.cuemacro.com](http://www.cuemacro.com)  
 Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)  
 score: 29/100, stars: 3,191  
 
 
-28. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cuemacro~findatapy~avatar-25.png' />&nbsp;<a href="https://github.com/cuemacro)">cuemacro/</a><b><a href="https://github.com/cuemacro/findatapy">findatapy</a></b>  
+25. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cuemacro~findatapy~avatar-25.png' />&nbsp;<a href="https://github.com/cuemacro)">cuemacro/</a><b><a href="https://github.com/cuemacro/findatapy">findatapy</a></b>  
 Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.  
 score: 29/100, stars: 1,459  
 
 
-29. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~alphalens~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/alphalens">alphalens</a></b>  
+26. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~alphalens~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/alphalens">alphalens</a></b>  
 [http://quantopian.github.io/alphalens](http://quantopian.github.io/alphalens)  
 Performance analysis of predictive (alpha) stock factors  
 score: 28/100, stars: 2,806  
 
 
-30. <a href="https://github.com/idanya)">idanya/</a><b><a href="https://github.com/idanya/algo-trader">algo-trader</a></b>  
+27. <a href="https://github.com/idanya)">idanya/</a><b><a href="https://github.com/idanya/algo-trader">algo-trader</a></b>  
 Trading bot with support for realtime trading, backtesting, custom strategies and much more.  
 score: 28/100, stars: 689  
 
 
-31. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/numerai~example-scripts~avatar-25.png' />&nbsp;<a href="https://github.com/numerai)">numerai/</a><b><a href="https://github.com/numerai/example-scripts">example-scripts</a></b>  
+28. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/numerai~example-scripts~avatar-25.png' />&nbsp;<a href="https://github.com/numerai)">numerai/</a><b><a href="https://github.com/numerai/example-scripts">example-scripts</a></b>  
 [https://numer.ai/](https://numer.ai/)  
 A collection of scripts and notebooks to help you get started quickly.  
 score: 27/100, stars: 634  
 
 
-32. <a href="https://github.com/borisbanushev)">borisbanushev/</a><b><a href="https://github.com/borisbanushev/stockpredictionai">stockpredictionai</a></b>  
+29. <a href="https://github.com/borisbanushev)">borisbanushev/</a><b><a href="https://github.com/borisbanushev/stockpredictionai">stockpredictionai</a></b>  
        In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Networ...  
 score: 26/100, stars: 3,758  
 
 
-33. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~research_public~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/research_public">research_public</a></b>  
+30. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~research_public~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/research_public">research_public</a></b>  
 [https://www.quantopian.com/lectures](https://www.quantopian.com/lectures)  
 Quantitative research and educational materials  
 score: 26/100, stars: 2,215  
 
 
-34. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~empyrical~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/empyrical">empyrical</a></b>  
+31. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~empyrical~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/empyrical">empyrical</a></b>  
 [https://quantopian.github.io/empyrical](https://quantopian.github.io/empyrical)  
 Common financial risk and performance metrics. Used by zipline and pyfolio.  
 score: 25/100, stars: 1,120  
 
 
-35. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/enthought~pyql~avatar-25.png' />&nbsp;<a href="https://github.com/enthought)">enthought/</a><b><a href="https://github.com/enthought/pyql">pyql</a></b>  
+32. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/enthought~pyql~avatar-25.png' />&nbsp;<a href="https://github.com/enthought)">enthought/</a><b><a href="https://github.com/enthought/pyql">pyql</a></b>  
 Cython QuantLib wrappers  
 score: 24/100, stars: 849  
 
 
-36. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quandl~quandl-python~avatar-25.png' />&nbsp;<a href="https://github.com/quandl)">quandl/</a><b><a href="https://github.com/quandl/quandl-python">quandl-python</a></b>  
+33. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quandl~quandl-python~avatar-25.png' />&nbsp;<a href="https://github.com/quandl)">quandl/</a><b><a href="https://github.com/quandl/quandl-python">quandl-python</a></b>  
 quandl/quandl-python  
 score: 22/100, stars: 1,327  
 
 
-37. <a href="https://github.com/mementum)">mementum/</a><b><a href="https://github.com/mementum/bta-lib">bta-lib</a></b>  
+34. <a href="https://github.com/mementum)">mementum/</a><b><a href="https://github.com/mementum/bta-lib">bta-lib</a></b>  
 Technical Analysis library in pandas for backtesting algotrading and quantitative analysis  
 score: 12/100, stars: 416  
 
@@ -1138,25 +1038,10 @@ Easy to use Python library for creating 2D arcade games.
 score: 44/100, stars: 1,513  
 
 
-6. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/libtcod~python-tcod~avatar-25.png' />&nbsp;<a href="https://github.com/libtcod)">libtcod/</a><b><a href="https://github.com/libtcod/python-tcod">python-tcod</a></b>  
-A high-performance Python port of libtcod.  Includes the libtcodpy module for backwards compatibility with older projects.  
-score: 28/100, stars: 365  
-
-
-7. <a href="https://github.com/lordmauve)">lordmauve/</a><b><a href="https://github.com/lordmauve/pgzero">pgzero</a></b>  
+6. <a href="https://github.com/lordmauve)">lordmauve/</a><b><a href="https://github.com/lordmauve/pgzero">pgzero</a></b>  
 [https://pygame-zero.readthedocs.io/](https://pygame-zero.readthedocs.io/)  
 A zero-boilerplate games programming framework for Python 3, based on Pygame.  
 score: 26/100, stars: 475  
-
-
-8. <a href="https://github.com/bitcraft)">bitcraft/</a><b><a href="https://github.com/bitcraft/pytmx">pytmx</a></b>  
-Python library to read Tiled Map Editor's TMX maps.  
-score: 23/100, stars: 357  
-
-
-9. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/renpy~pygame_sdl2~avatar-25.png' />&nbsp;<a href="https://github.com/renpy)">renpy/</a><b><a href="https://github.com/renpy/pygame_sdl2">pygame_sdl2</a></b>  
-Reimplementation of portions of the pygame API using SDL2.  
-score: 20/100, stars: 307  
 
 
 ## GIS
@@ -1344,212 +1229,136 @@ User friendly Rasterio plugin to read raster datasets.
 score: 36/100, stars: 429  
 
 
-32. <a href="https://github.com/raphaelquast)">raphaelquast/</a><b><a href="https://github.com/raphaelquast/eomaps">EOmaps</a></b>  
-[https://raphaelquast.github.io/EOmaps/](https://raphaelquast.github.io/EOmaps/)  
-A library to create interactive maps of geographical datasets  
-score: 36/100, stars: 266  
-
-
-33. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/makepath~xarray-spatial~avatar-25.png' />&nbsp;<a href="https://github.com/makepath)">makepath/</a><b><a href="https://github.com/makepath/xarray-spatial">xarray-spatial</a></b>  
+32. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/makepath~xarray-spatial~avatar-25.png' />&nbsp;<a href="https://github.com/makepath)">makepath/</a><b><a href="https://github.com/makepath/xarray-spatial">xarray-spatial</a></b>  
 [https://xarray-spatial.org](https://xarray-spatial.org)  
 Raster-based Spatial Analytics for Python  
 score: 35/100, stars: 737  
 
 
-34. <a href="https://github.com/kvos)">kvos/</a><b><a href="https://github.com/kvos/coastsat">CoastSat</a></b>  
+33. <a href="https://github.com/kvos)">kvos/</a><b><a href="https://github.com/kvos/coastsat">CoastSat</a></b>  
 [http://coastsat.wrl.unsw.edu.au/](http://coastsat.wrl.unsw.edu.au/)  
 Global shoreline mapping tool from satellite imagery  
 score: 35/100, stars: 553  
 
 
-35. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/sentinelsat~sentinelsat~avatar-25.png' />&nbsp;<a href="https://github.com/sentinelsat)">sentinelsat/</a><b><a href="https://github.com/sentinelsat/sentinelsat">sentinelsat</a></b>  
+34. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/sentinelsat~sentinelsat~avatar-25.png' />&nbsp;<a href="https://github.com/sentinelsat)">sentinelsat/</a><b><a href="https://github.com/sentinelsat/sentinelsat">sentinelsat</a></b>  
 [https://sentinelsat.readthedocs.io](https://sentinelsat.readthedocs.io)  
 Search and download Copernicus Sentinel satellite images  
 score: 33/100, stars: 913  
 
 
-36. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/sentinel-hub~sentinelhub-py~avatar-25.png' />&nbsp;<a href="https://github.com/sentinel-hub)">sentinel-hub/</a><b><a href="https://github.com/sentinel-hub/sentinelhub-py">sentinelhub-py</a></b>  
+35. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/sentinel-hub~sentinelhub-py~avatar-25.png' />&nbsp;<a href="https://github.com/sentinel-hub)">sentinel-hub/</a><b><a href="https://github.com/sentinel-hub/sentinelhub-py">sentinelhub-py</a></b>  
 [http://sentinelhub-py.readthedocs.io/en/latest/](http://sentinelhub-py.readthedocs.io/en/latest/)  
 Download and process satellite imagery in Python using Sentinel Hub services.  
 score: 33/100, stars: 726  
 
 
-37. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/uber~h3-py~avatar-25.png' />&nbsp;<a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/h3-py">h3-py</a></b>  
+36. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/uber~h3-py~avatar-25.png' />&nbsp;<a href="https://github.com/uber)">uber/</a><b><a href="https://github.com/uber/h3-py">h3-py</a></b>  
 [https://uber.github.io/h3-py](https://uber.github.io/h3-py)  
 Python bindings for H3, a hierarchical hexagonal geospatial indexing system  
 score: 33/100, stars: 679  
 
 
-38. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/toblerity~rtree~avatar-25.png' />&nbsp;<a href="https://github.com/toblerity)">toblerity/</a><b><a href="https://github.com/toblerity/rtree">rtree</a></b>  
+37. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/toblerity~rtree~avatar-25.png' />&nbsp;<a href="https://github.com/toblerity)">toblerity/</a><b><a href="https://github.com/toblerity/rtree">rtree</a></b>  
 [https://rtree.readthedocs.io/en/latest/](https://rtree.readthedocs.io/en/latest/)  
 Rtree: spatial index for Python GIS ¶  
 score: 33/100, stars: 568  
 
 
-39. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/holoviz~geoviews~avatar-25.png' />&nbsp;<a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/geoviews">geoviews</a></b>  
+38. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/holoviz~geoviews~avatar-25.png' />&nbsp;<a href="https://github.com/holoviz)">holoviz/</a><b><a href="https://github.com/holoviz/geoviews">geoviews</a></b>  
 [http://geoviews.org](http://geoviews.org)  
 Simple, concise geographical visualization in Python  
 score: 33/100, stars: 513  
 
 
-40. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/geopandas~dask-geopandas~avatar-25.png' />&nbsp;<a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/dask-geopandas">dask-geopandas</a></b>  
+39. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/geopandas~dask-geopandas~avatar-25.png' />&nbsp;<a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/dask-geopandas">dask-geopandas</a></b>  
 [https://dask-geopandas.readthedocs.io/](https://dask-geopandas.readthedocs.io/)  
 Parallel GeoPandas with Dask  
 score: 33/100, stars: 407  
 
 
-41. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/laspy~laspy~avatar-25.png' />&nbsp;<a href="https://github.com/laspy)">laspy/</a><b><a href="https://github.com/laspy/laspy">laspy</a></b>  
+40. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/laspy~laspy~avatar-25.png' />&nbsp;<a href="https://github.com/laspy)">laspy/</a><b><a href="https://github.com/laspy/laspy">laspy</a></b>  
 [https://laspy.readthedocs.io/en/latest/](https://laspy.readthedocs.io/en/latest/)  
 Laspy is a pythonic interface for reading/modifying/creating .LAS LIDAR files matching specification 1.0-1.4.   
 score: 33/100, stars: 401  
 
 
-42. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/weecology~deepforest~avatar-25.png' />&nbsp;<a href="https://github.com/weecology)">weecology/</a><b><a href="https://github.com/weecology/deepforest">DeepForest</a></b>  
-[https://deepforest.readthedocs.io/](https://deepforest.readthedocs.io/)  
-Python Package for Tree Crown Detection in Airborne RGB imagery  
-score: 33/100, stars: 379  
-
-
-43. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/datasystemslab~geotorchai~avatar-25.png' />&nbsp;<a href="https://github.com/datasystemslab)">datasystemslab/</a><b><a href="https://github.com/datasystemslab/geotorch">GeoTorchAI</a></b>  
+41. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/datasystemslab~geotorchai~avatar-25.png' />&nbsp;<a href="https://github.com/datasystemslab)">datasystemslab/</a><b><a href="https://github.com/datasystemslab/geotorch">GeoTorchAI</a></b>  
 [https://kanchanchy.github.io/geotorchai/](https://kanchanchy.github.io/geotorchai/)  
 GeoTorchAI: A Framework for Training and Using Spatiotemporal Deep Learning Models at Scale  
 score: 32/100, stars: 407  
 
 
-44. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/amazon-science~earth-forecasting-transformer~avatar-25.png' />&nbsp;<a href="https://github.com/amazon-science)">amazon-science/</a><b><a href="https://github.com/amazon-science/earth-forecasting-transformer">earth-forecasting-transformer</a></b>  
-Official implementation of Earthformer  
-score: 32/100, stars: 269  
-
-
-45. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/graal-research~deepparse~avatar-25.png' />&nbsp;<a href="https://github.com/graal-research)">graal-research/</a><b><a href="https://github.com/graal-research/deepparse">deepparse</a></b>  
-[https://deepparse.org/](https://deepparse.org/)  
-Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning  
-score: 32/100, stars: 249  
-
-
-46. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pysal~spopt~avatar-25.png' />&nbsp;<a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/spopt">spopt</a></b>  
-[https://pysal.org/spopt/](https://pysal.org/spopt/)  
-Spatial Optimization  
-score: 32/100, stars: 214  
-
-
-47. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/giswqs~mapwidget~avatar-25.png' />&nbsp;<a href="https://github.com/giswqs)">giswqs/</a><b><a href="https://github.com/giswqs/mapwidget">mapwidget</a></b>  
-[http://mapwidget.gishub.org](http://mapwidget.gishub.org)  
-Custom Jupyter widgets for creating interactive 2D/3D maps using popular JavaScript libraries with bidirectional communication, such as Cesium, Mapbox, MapLibre, Leaflet, and OpenLayers  
-score: 32/100, stars: 194  
-
-
-48. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/developmentseed~geojson-pydantic~avatar-25.png' />&nbsp;<a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/geojson-pydantic">geojson-pydantic</a></b>  
-[https://developmentseed.org/geojson-pydantic/](https://developmentseed.org/geojson-pydantic/)  
-Pydantic data models for the GeoJSON spec  
-score: 32/100, stars: 162  
-
-
-49. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/geopandas~pyogrio~avatar-25.png' />&nbsp;<a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/pyogrio">pyogrio</a></b>  
-[https://pyogrio.readthedocs.io](https://pyogrio.readthedocs.io)  
-Vectorized vector I/O using OGR  
-score: 31/100, stars: 173  
-
-
-50. <a href="https://github.com/mcordts)">mcordts/</a><b><a href="https://github.com/mcordts/cityscapesscripts">cityscapesScripts</a></b>  
+42. <a href="https://github.com/mcordts)">mcordts/</a><b><a href="https://github.com/mcordts/cityscapesscripts">cityscapesScripts</a></b>  
 README and scripts for the Cityscapes Dataset  
 score: 30/100, stars: 2,000  
 
 
-51. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pysal~momepy~avatar-25.png' />&nbsp;<a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/momepy">momepy</a></b>  
+43. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pysal~momepy~avatar-25.png' />&nbsp;<a href="https://github.com/pysal)">pysal/</a><b><a href="https://github.com/pysal/momepy">momepy</a></b>  
 [https://docs.momepy.org](https://docs.momepy.org)  
 Urban Morphology Measuring Toolkit  
 score: 30/100, stars: 404  
 
 
-52. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pygeos~pygeos~avatar-25.png' />&nbsp;<a href="https://github.com/pygeos)">pygeos/</a><b><a href="https://github.com/pygeos/pygeos">pygeos</a></b>  
-[https://pygeos.readthedocs.io](https://pygeos.readthedocs.io)  
-Wraps GEOS geometry functions in numpy ufuncs.  
-score: 30/100, stars: 370  
-
-
-53. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/geopython~owslib~avatar-25.png' />&nbsp;<a href="https://github.com/geopython)">geopython/</a><b><a href="https://github.com/geopython/owslib">OWSLib</a></b>  
-[https://owslib.readthedocs.io](https://owslib.readthedocs.io)  
-OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.  
-score: 30/100, stars: 346  
-
-
-54. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cogeotiff~rio-cogeo~avatar-25.png' />&nbsp;<a href="https://github.com/cogeotiff)">cogeotiff/</a><b><a href="https://github.com/cogeotiff/rio-cogeo">rio-cogeo</a></b>  
-[https://cogeotiff.github.io/rio-cogeo/](https://cogeotiff.github.io/rio-cogeo/)  
-Cloud Optimized GeoTIFF creation and validation plugin for rasterio  
-score: 30/100, stars: 257  
-
-
-55. <a href="https://github.com/plant99)">plant99/</a><b><a href="https://github.com/plant99/felicette">felicette</a></b>  
+44. <a href="https://github.com/plant99)">plant99/</a><b><a href="https://github.com/plant99/felicette">felicette</a></b>  
 Satellite imagery for dummies.  
 score: 29/100, stars: 1,805  
 
 
-56. <a href="https://github.com/geospatialpython)">geospatialpython/</a><b><a href="https://github.com/geospatialpython/pyshp">pyshp</a></b>  
+45. <a href="https://github.com/geospatialpython)">geospatialpython/</a><b><a href="https://github.com/geospatialpython/pyshp">pyshp</a></b>  
 This library reads and writes ESRI Shapefiles in pure Python.  
 score: 29/100, stars: 1,044  
 
 
-57. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/geopandas~contextily~avatar-25.png' />&nbsp;<a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/contextily">contextily</a></b>  
+46. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/geopandas~contextily~avatar-25.png' />&nbsp;<a href="https://github.com/geopandas)">geopandas/</a><b><a href="https://github.com/geopandas/contextily">contextily</a></b>  
 [https://contextily.readthedocs.io/en/latest/](https://contextily.readthedocs.io/en/latest/)  
 Context geo-tiles in Python  
 score: 29/100, stars: 439  
 
 
-58. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/osmnx-examples">osmnx-examples</a></b>  
+47. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/osmnx-examples">osmnx-examples</a></b>  
 [https://osmnx.readthedocs.io](https://osmnx.readthedocs.io)  
 Gallery of OSMnx tutorials, usage examples, and feature demonstations.  
 score: 28/100, stars: 1,315  
 
 
-59. <a href="https://github.com/residentmario)">residentmario/</a><b><a href="https://github.com/residentmario/geoplot">geoplot</a></b>  
+48. <a href="https://github.com/residentmario)">residentmario/</a><b><a href="https://github.com/residentmario/geoplot">geoplot</a></b>  
 [https://residentmario.github.io/geoplot/index.html](https://residentmario.github.io/geoplot/index.html)  
 High-level geospatial data visualization library for Python.  
 score: 27/100, stars: 1,082  
 
 
-60. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-mobility~scikit-mobility~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-mobility)">scikit-mobility/</a><b><a href="https://github.com/scikit-mobility/scikit-mobility">scikit-mobility</a></b>  
+49. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-mobility~scikit-mobility~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-mobility)">scikit-mobility/</a><b><a href="https://github.com/scikit-mobility/scikit-mobility">scikit-mobility</a></b>  
 [https://scikit-mobility.github.io/scikit-mobility/](https://scikit-mobility.github.io/scikit-mobility/)  
 scikit-mobility: mobility analysis in Python  
 score: 25/100, stars: 644  
 
 
-61. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/fatiando~verde~avatar-25.png' />&nbsp;<a href="https://github.com/fatiando)">fatiando/</a><b><a href="https://github.com/fatiando/verde">verde</a></b>  
+50. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/fatiando~verde~avatar-25.png' />&nbsp;<a href="https://github.com/fatiando)">fatiando/</a><b><a href="https://github.com/fatiando/verde">verde</a></b>  
 [https://www.fatiando.org/verde](https://www.fatiando.org/verde)  
 Processing and gridding spatial data, machine-learning style  
 score: 25/100, stars: 524  
 
 
-62. <a href="https://github.com/perrygeo)">perrygeo/</a><b><a href="https://github.com/perrygeo/python-rasterstats">python-rasterstats</a></b>  
+51. <a href="https://github.com/perrygeo)">perrygeo/</a><b><a href="https://github.com/perrygeo/python-rasterstats">python-rasterstats</a></b>  
 Summary statistics of geospatial raster datasets based on vector geometries.  
 score: 24/100, stars: 484  
 
 
-63. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openeventdata~mordecai~avatar-25.png' />&nbsp;<a href="https://github.com/openeventdata)">openeventdata/</a><b><a href="https://github.com/openeventdata/mordecai">mordecai</a></b>  
+52. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openeventdata~mordecai~avatar-25.png' />&nbsp;<a href="https://github.com/openeventdata)">openeventdata/</a><b><a href="https://github.com/openeventdata/mordecai">mordecai</a></b>  
 Full text geoparsing as a Python library  
 score: 22/100, stars: 716  
 
 
-64. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/developmentseed~landsat-util~avatar-25.png' />&nbsp;<a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/landsat-util">landsat-util</a></b>  
+53. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/developmentseed~landsat-util~avatar-25.png' />&nbsp;<a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/landsat-util">landsat-util</a></b>  
 A utility to search, download and process Landsat 8 satellite imagery  
 score: 21/100, stars: 688  
 
 
-65. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/developmentseed~label-maker~avatar-25.png' />&nbsp;<a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/label-maker">label-maker</a></b>  
+54. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/developmentseed~label-maker~avatar-25.png' />&nbsp;<a href="https://github.com/developmentseed)">developmentseed/</a><b><a href="https://github.com/developmentseed/label-maker">label-maker</a></b>  
 [http://devseed.com/label-maker/](http://devseed.com/label-maker/)  
 Data Preparation for Satellite Machine Learning  
 score: 20/100, stars: 448  
-
-
-66. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-geometry~scikit-geometry~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-geometry)">scikit-geometry/</a><b><a href="https://github.com/scikit-geometry/scikit-geometry">scikit-geometry</a></b>  
-[https://scikit-geometry.github.io/scikit-geometry](https://scikit-geometry.github.io/scikit-geometry)  
-Scientific Python Geometric Algorithms Library  
-score: 20/100, stars: 386  
-
-
-67. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/mapbox~mercantile~avatar-25.png' />&nbsp;<a href="https://github.com/mapbox)">mapbox/</a><b><a href="https://github.com/mapbox/mercantile">mercantile</a></b>  
-Spherical mercator tile and coordinate utilities  
-score: 19/100, stars: 370  
 
 
 ## Graph
@@ -1728,43 +1537,26 @@ Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 score: 37/100, stars: 870  
 
 
-20. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jupyter~nbformat~avatar-25.png' />&nbsp;<a href="https://github.com/jupyter)">jupyter/</a><b><a href="https://github.com/jupyter/nbformat">nbformat</a></b>  
-[http://nbformat.readthedocs.io/](http://nbformat.readthedocs.io/)  
-Reference implementation of the Jupyter Notebook format  
-score: 33/100, stars: 218  
-
-
-21. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~qgrid~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/qgrid">qgrid</a></b>  
+20. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/quantopian~qgrid~avatar-25.png' />&nbsp;<a href="https://github.com/quantopian)">quantopian/</a><b><a href="https://github.com/quantopian/qgrid">qgrid</a></b>  
 An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks  
 score: 31/100, stars: 2,981  
 
 
-22. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jupyter~nbviewer~avatar-25.png' />&nbsp;<a href="https://github.com/jupyter)">jupyter/</a><b><a href="https://github.com/jupyter/nbviewer">nbviewer</a></b>  
+21. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jupyter~nbviewer~avatar-25.png' />&nbsp;<a href="https://github.com/jupyter)">jupyter/</a><b><a href="https://github.com/jupyter/nbviewer">nbviewer</a></b>  
 [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org)  
 nbconvert as a web service: Render Jupyter Notebooks as static web pages  
 score: 31/100, stars: 2,118  
 
 
-23. <a href="https://github.com/xiaohk)">xiaohk/</a><b><a href="https://github.com/xiaohk/stickyland">stickyland</a></b>  
+22. <a href="https://github.com/xiaohk)">xiaohk/</a><b><a href="https://github.com/xiaohk/stickyland">stickyland</a></b>  
 [https://xiaohk.github.io/stickyland/](https://xiaohk.github.io/stickyland/)  
 Break the linear presentation of Jupyter Notebooks with sticky cells!  
 score: 28/100, stars: 450  
 
 
-24. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/nteract~testbook~avatar-25.png' />&nbsp;<a href="https://github.com/nteract)">nteract/</a><b><a href="https://github.com/nteract/testbook">testbook</a></b>  
-[https://testbook.readthedocs.io](https://testbook.readthedocs.io)  
-🧪 📗  Unit test your Jupyter Notebooks the right way  
-score: 24/100, stars: 364  
-
-
-25. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/computationalmodelling~nbval~avatar-25.png' />&nbsp;<a href="https://github.com/computationalmodelling)">computationalmodelling/</a><b><a href="https://github.com/computationalmodelling/nbval">nbval</a></b>  
+23. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/computationalmodelling~nbval~avatar-25.png' />&nbsp;<a href="https://github.com/computationalmodelling)">computationalmodelling/</a><b><a href="https://github.com/computationalmodelling/nbval">nbval</a></b>  
 A py.test plugin to validate Jupyter notebooks  
 score: 22/100, stars: 412  
-
-
-26. <a href="https://github.com/chaoleili)">chaoleili/</a><b><a href="https://github.com/chaoleili/jupyterlab_tensorboard">jupyterlab_tensorboard</a></b>  
-Tensorboard extension for jupyterlab.  
-score: 15/100, stars: 306  
 
 
 ## LLMs and ChatGPT
@@ -2504,139 +2296,54 @@ Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language 
 score: 39/100, stars: 878  
 
 
-135. <a href="https://github.com/kbressem)">kbressem/</a><b><a href="https://github.com/kbressem/medalpaca">medAlpaca</a></b>  
-LLM finetuned for medical question answering  
-score: 39/100, stars: 299  
-
-
-136. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/approximatelabs~datadm~avatar-25.png' />&nbsp;<a href="https://github.com/approximatelabs)">approximatelabs/</a><b><a href="https://github.com/approximatelabs/datadm">datadm</a></b>  
-DataDM is your private data assistant. Slide into your data's DMs  
-score: 39/100, stars: 294  
-
-
-137. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openlmlab~leval~avatar-25.png' />&nbsp;<a href="https://github.com/openlmlab)">openlmlab/</a><b><a href="https://github.com/openlmlab/leval">LEval</a></b>  
-Data and code for L-Eval, a comprehensive long context language models evaluation benchmark  
-score: 39/100, stars: 143  
-
-
-138. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/squeezeailab~squeezellm~avatar-25.png' />&nbsp;<a href="https://github.com/squeezeailab)">squeezeailab/</a><b><a href="https://github.com/squeezeailab/squeezellm">SqueezeLLM</a></b>  
-[https://arxiv.org/pdf/2306.07629.pdf](https://arxiv.org/pdf/2306.07629.pdf)  
-SqueezeLLM: Dense-and-Sparse Quantization  
-score: 38/100, stars: 386  
-
-
-139. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/facebookresearch~shepherd~avatar-25.png' />&nbsp;<a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/shepherd">Shepherd</a></b>  
-This is the repo for the paper Shepherd -- A Critic for Language Model Generation  
-score: 38/100, stars: 172  
-
-
-140. <a href="https://github.com/eugeneyan)">eugeneyan/</a><b><a href="https://github.com/eugeneyan/obsidian-copilot">obsidian-copilot</a></b>  
-[https://eugeneyan.com/writing/obsidian-copilot/](https://eugeneyan.com/writing/obsidian-copilot/)  
-🤖 A prototype assistant for writing and thinking  
-score: 36/100, stars: 283  
-
-
-141. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~gpt-discord-bot~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
+135. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~gpt-discord-bot~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b>  
 Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
 score: 35/100, stars: 1,569  
 
 
-142. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cerebras~modelzoo~avatar-25.png' />&nbsp;<a href="https://github.com/cerebras)">cerebras/</a><b><a href="https://github.com/cerebras/modelzoo">modelzoo</a></b>  
+136. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cerebras~modelzoo~avatar-25.png' />&nbsp;<a href="https://github.com/cerebras)">cerebras/</a><b><a href="https://github.com/cerebras/modelzoo">modelzoo</a></b>  
 cerebras/modelzoo  
 score: 35/100, stars: 708  
 
 
-143. <a href="https://github.com/muennighoff)">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
+137. <a href="https://github.com/muennighoff)">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
 [https://arxiv.org/abs/2202.08904](https://arxiv.org/abs/2202.08904)  
 SGPT: GPT Sentence Embeddings for Semantic Search  
 score: 35/100, stars: 701  
 
 
-144. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hazyresearch~ama_prompting~avatar-25.png' />&nbsp;<a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/ama_prompting">ama_prompting</a></b>  
+138. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hazyresearch~ama_prompting~avatar-25.png' />&nbsp;<a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/ama_prompting">ama_prompting</a></b>  
 Ask Me Anything language model prompting  
 score: 33/100, stars: 504  
 
 
-145. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hazyresearch~h3~avatar-25.png' />&nbsp;<a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
+139. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hazyresearch~h3~avatar-25.png' />&nbsp;<a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/h3">H3</a></b>  
 Language Modeling with the H3 State Space Model  
 score: 33/100, stars: 448  
 
 
-146. <a href="https://github.com/tsinghuadatabasegroup)">tsinghuadatabasegroup/</a><b><a href="https://github.com/tsinghuadatabasegroup/db-gpt">DB-GPT</a></b>  
-LLM As Database Administrator  
-score: 33/100, stars: 173  
-
-
-147. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/reasoning-machines~pal~avatar-25.png' />&nbsp;<a href="https://github.com/reasoning-machines)">reasoning-machines/</a><b><a href="https://github.com/reasoning-machines/pal">pal</a></b>  
-[https://reasonwithpal.com](https://reasonwithpal.com)  
-PaL: Program-Aided Language Models (ICML 2023)  
-score: 32/100, stars: 368  
-
-
-148. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/declare-lab~instruct-eval~avatar-25.png' />&nbsp;<a href="https://github.com/declare-lab)">declare-lab/</a><b><a href="https://github.com/declare-lab/instruct-eval">instruct-eval</a></b>  
-[https://declare-lab.net/instruct-eval/](https://declare-lab.net/instruct-eval/)  
-This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.   
-score: 32/100, stars: 331  
-
-
-149. <a href="https://github.com/likenneth)">likenneth/</a><b><a href="https://github.com/likenneth/honest_llama">honest_llama</a></b>  
-Inference-Time Intervention: Eliciting Truthful Answers from a Language Model  
-score: 32/100, stars: 234  
-
-
-150. <a href="https://github.com/rcgai)">rcgai/</a><b><a href="https://github.com/rcgai/simplyretrieve">SimplyRetrieve</a></b>  
-Lightweight chat AI platform featuring custom knowledge, open-source LLMs, prompt-engineering, retrieval analysis. Highly customizable. For Retrieval-Centric & Retrieval-Augmented Generation.  
-score: 32/100, stars: 116  
-
-
-151. <a href="https://github.com/keirp)">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b>  
+140. <a href="https://github.com/keirp)">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b>  
 Large Language Models Are Human-Level Prompt Engineers  
 score: 31/100, stars: 703  
 
 
-152. <a href="https://github.com/luohongyin)">luohongyin/</a><b><a href="https://github.com/luohongyin/sail">SAIL</a></b>  
-SAIL: Search Augmented Instruction Learning  
-score: 31/100, stars: 139  
-
-
-153. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openbioml~chemnlp~avatar-25.png' />&nbsp;<a href="https://github.com/openbioml)">openbioml/</a><b><a href="https://github.com/openbioml/chemnlp">chemnlp</a></b>  
-ChemNLP project  
-score: 31/100, stars: 100  
-
-
-154. <a href="https://github.com/night-chen)">night-chen/</a><b><a href="https://github.com/night-chen/toolqa">ToolQA</a></b>  
-[https://arxiv.org/pdf/2306.13304.pdf](https://arxiv.org/pdf/2306.13304.pdf)  
- ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels (easy/hard) across eight real-life scenarios.   
-score: 30/100, stars: 144  
-
-
-155. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pan-ml~panml~avatar-25.png' />&nbsp;<a href="https://github.com/pan-ml)">pan-ml/</a><b><a href="https://github.com/pan-ml/panml">panml</a></b>  
-PanML is a high level generative AI/ML development and analysis library designed for ease of use and fast experimentation.  
-score: 30/100, stars: 99  
-
-
-156. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~gpt-2-output-dataset~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
+141. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~gpt-2-output-dataset~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/gpt-2-output-dataset">gpt-2-output-dataset</a></b>  
 Dataset of GPT-2 outputs for research in detection, biases, and more  
 score: 26/100, stars: 1,779  
 
 
-157. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/amazon-science~alexa-teacher-models~avatar-25.png' />&nbsp;<a href="https://github.com/amazon-science)">amazon-science/</a><b><a href="https://github.com/amazon-science/alexa-teacher-models">alexa-teacher-models</a></b>  
-AlexaTM 20B is a 20B-Parameter sequence-to-sequence transformer model  
-score: 25/100, stars: 360  
-
-
-158. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~image-gpt~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
+142. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~image-gpt~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b>  
 Archived. Code and models from the paper "Generative Pretraining from Pixels"  
 score: 22/100, stars: 1,951  
 
 
-159. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~finetune-transformer-lm~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
+143. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~finetune-transformer-lm~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/finetune-transformer-lm">finetune-transformer-lm</a></b>  
 [https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  
 Code and model for the paper "Improving Language Understanding by Generative Pre-Training"  
 score: 21/100, stars: 1,909  
 
 
-160. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/bigscience-workshop~t-zero~avatar-25.png' />&nbsp;<a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
+144. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/bigscience-workshop~t-zero~avatar-25.png' />&nbsp;<a href="https://github.com/bigscience-workshop)">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/t-zero">t-zero</a></b>  
 Reproduce results and replicate training fo T0 (Multitask Prompted Training Enables Zero-Shot Task Generalization)  
 score: 21/100, stars: 421  
 
@@ -2713,23 +2420,18 @@ Python library for arbitrary-precision floating-point arithmetic
 score: 34/100, stars: 824  
 
 
-13. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/deepmind~kfac-jax~avatar-25.png' />&nbsp;<a href="https://github.com/deepmind)">deepmind/</a><b><a href="https://github.com/deepmind/kfac-jax">kfac-jax</a></b>  
-Second Order Optimization and Curvature Estimation with K-FAC in JAX.  
-score: 31/100, stars: 158  
-
-
-14. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/dit~dit~avatar-25.png' />&nbsp;<a href="https://github.com/dit)">dit/</a><b><a href="https://github.com/dit/dit">dit</a></b>  
+13. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/dit~dit~avatar-25.png' />&nbsp;<a href="https://github.com/dit)">dit/</a><b><a href="https://github.com/dit/dit">dit</a></b>  
 [http://docs.dit.io](http://docs.dit.io)  
 Python package for information theory.  
 score: 27/100, stars: 460  
 
 
-15. <a href="https://github.com/willianfuks)">willianfuks/</a><b><a href="https://github.com/willianfuks/tfcausalimpact">tfcausalimpact</a></b>  
+14. <a href="https://github.com/willianfuks)">willianfuks/</a><b><a href="https://github.com/willianfuks/tfcausalimpact">tfcausalimpact</a></b>  
 Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.  
 score: 23/100, stars: 442  
 
 
-16. <a href="https://github.com/sj001)">sj001/</a><b><a href="https://github.com/sj001/ai-feynman">AI-Feynman</a></b>  
+15. <a href="https://github.com/sj001)">sj001/</a><b><a href="https://github.com/sj001/ai-feynman">AI-Feynman</a></b>  
 Implementation of AI Feynman: a Physics-Inspired Method for Symbolic Regression  
 score: 15/100, stars: 535  
 
@@ -3381,173 +3083,141 @@ Internet-scale Neural Networks
 score: 38/100, stars: 411  
 
 
-114. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/googleapis~python-speech~avatar-25.png' />&nbsp;<a href="https://github.com/googleapis)">googleapis/</a><b><a href="https://github.com/googleapis/python-speech">python-speech</a></b>  
-googleapis/python-speech  
-score: 38/100, stars: 350  
-
-
-115. <a href="https://github.com/mdbloice)">mdbloice/</a><b><a href="https://github.com/mdbloice/augmentor">Augmentor</a></b>  
+114. <a href="https://github.com/mdbloice)">mdbloice/</a><b><a href="https://github.com/mdbloice/augmentor">Augmentor</a></b>  
 [https://augmentor.readthedocs.io/en/stable](https://augmentor.readthedocs.io/en/stable)  
 Image augmentation library in Python for machine learning.  
 score: 36/100, stars: 4,946  
 
 
-116. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/merantix-momentum~squirrel-core~avatar-25.png' />&nbsp;<a href="https://github.com/merantix-momentum)">merantix-momentum/</a><b><a href="https://github.com/merantix-momentum/squirrel-core">squirrel-core</a></b>  
-[https://squirrel-core.readthedocs.io/](https://squirrel-core.readthedocs.io/)  
-A Python library that enables ML teams to share, load, and transform data in a collaborative, flexible, and efficient way 🌰  
-score: 36/100, stars: 266  
-
-
-117. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/eleutherai~oslo~avatar-25.png' />&nbsp;<a href="https://github.com/eleutherai)">eleutherai/</a><b><a href="https://github.com/eleutherai/oslo">oslo</a></b>  
-[https://oslo.eleuther.ai](https://oslo.eleuther.ai)  
-OSLO: Open Source for Large-scale Optimization  
-score: 36/100, stars: 161  
-
-
-118. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/teamhg-memex~eli5~avatar-25.png' />&nbsp;<a href="https://github.com/teamhg-memex)">teamhg-memex/</a><b><a href="https://github.com/teamhg-memex/eli5">eli5</a></b>  
+115. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/teamhg-memex~eli5~avatar-25.png' />&nbsp;<a href="https://github.com/teamhg-memex)">teamhg-memex/</a><b><a href="https://github.com/teamhg-memex/eli5">eli5</a></b>  
 [http://eli5.readthedocs.io](http://eli5.readthedocs.io)  
 A library for debugging/inspecting machine learning classifiers and explaining their predictions  
 score: 35/100, stars: 2,681  
 
 
-119. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/awslabs~dgl-ke~avatar-25.png' />&nbsp;<a href="https://github.com/awslabs)">awslabs/</a><b><a href="https://github.com/awslabs/dgl-ke">dgl-ke</a></b>  
+116. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/awslabs~dgl-ke~avatar-25.png' />&nbsp;<a href="https://github.com/awslabs)">awslabs/</a><b><a href="https://github.com/awslabs/dgl-ke">dgl-ke</a></b>  
 [https://dglke.dgl.ai/doc/](https://dglke.dgl.ai/doc/)  
 High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.  
 score: 35/100, stars: 1,167  
 
 
-120. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/amzn~pecos~avatar-25.png' />&nbsp;<a href="https://github.com/amzn)">amzn/</a><b><a href="https://github.com/amzn/pecos">pecos</a></b>  
+117. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/amzn~pecos~avatar-25.png' />&nbsp;<a href="https://github.com/amzn)">amzn/</a><b><a href="https://github.com/amzn/pecos">pecos</a></b>  
 [https://libpecos.org/](https://libpecos.org/)  
 PECOS - Prediction for Enormous and Correlated Spaces  
 score: 35/100, stars: 458  
 
 
-121. <a href="https://github.com/lmcinnes)">lmcinnes/</a><b><a href="https://github.com/lmcinnes/pynndescent">pynndescent</a></b>  
+118. <a href="https://github.com/lmcinnes)">lmcinnes/</a><b><a href="https://github.com/lmcinnes/pynndescent">pynndescent</a></b>  
 A Python nearest neighbor descent for approximate nearest neighbors  
 score: 34/100, stars: 794  
 
 
-122. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hpcaitech~energonai~avatar-25.png' />&nbsp;<a href="https://github.com/hpcaitech)">hpcaitech/</a><b><a href="https://github.com/hpcaitech/energonai">EnergonAI</a></b>  
+119. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hpcaitech~energonai~avatar-25.png' />&nbsp;<a href="https://github.com/hpcaitech)">hpcaitech/</a><b><a href="https://github.com/hpcaitech/energonai">EnergonAI</a></b>  
 Large-scale model inference.  
 score: 34/100, stars: 613  
 
 
-123. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-build~scikit-build~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-build)">scikit-build/</a><b><a href="https://github.com/scikit-build/scikit-build">scikit-build</a></b>  
+120. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-build~scikit-build~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-build)">scikit-build/</a><b><a href="https://github.com/scikit-build/scikit-build">scikit-build</a></b>  
 [https://scikit-build.readthedocs.io](https://scikit-build.readthedocs.io)  
 Improved build system generator for CPython C, C++, Cython and Fortran extensions  
 score: 34/100, stars: 437  
 
 
-124. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/contextlab~hypertools~avatar-25.png' />&nbsp;<a href="https://github.com/contextlab)">contextlab/</a><b><a href="https://github.com/contextlab/hypertools">hypertools</a></b>  
+121. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/contextlab~hypertools~avatar-25.png' />&nbsp;<a href="https://github.com/contextlab)">contextlab/</a><b><a href="https://github.com/contextlab/hypertools">hypertools</a></b>  
 [http://hypertools.readthedocs.io/en/latest/](http://hypertools.readthedocs.io/en/latest/)  
 A Python toolbox for gaining geometric insights into high-dimensional data  
 score: 33/100, stars: 1,785  
 
 
-125. <a href="https://github.com/bmabey)">bmabey/</a><b><a href="https://github.com/bmabey/pyldavis">pyLDAvis</a></b>  
+122. <a href="https://github.com/bmabey)">bmabey/</a><b><a href="https://github.com/bmabey/pyldavis">pyLDAvis</a></b>  
 Python library for interactive topic model visualization. Port of the R LDAvis package.  
 score: 33/100, stars: 1,739  
 
 
-126. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/dask~dask-ml~avatar-25.png' />&nbsp;<a href="https://github.com/dask)">dask/</a><b><a href="https://github.com/dask/dask-ml">dask-ml</a></b>  
+123. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/dask~dask-ml~avatar-25.png' />&nbsp;<a href="https://github.com/dask)">dask/</a><b><a href="https://github.com/dask/dask-ml">dask-ml</a></b>  
 [http://ml.dask.org](http://ml.dask.org)  
 Scalable Machine Learning with Dask  
 score: 33/100, stars: 865  
 
 
-127. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jacopotagliabue~reclist~avatar-25.png' />&nbsp;<a href="https://github.com/jacopotagliabue)">jacopotagliabue/</a><b><a href="https://github.com/jacopotagliabue/reclist">reclist</a></b>  
+124. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/jacopotagliabue~reclist~avatar-25.png' />&nbsp;<a href="https://github.com/jacopotagliabue)">jacopotagliabue/</a><b><a href="https://github.com/jacopotagliabue/reclist">reclist</a></b>  
 [https://reclist.io](https://reclist.io)  
 Behavioral "black-box" testing for recommender systems  
 score: 32/100, stars: 421  
 
 
-128. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-learn-contrib~lightning~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-learn-contrib)">scikit-learn-contrib/</a><b><a href="https://github.com/scikit-learn-contrib/lightning">lightning</a></b>  
+125. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-learn-contrib~lightning~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-learn-contrib)">scikit-learn-contrib/</a><b><a href="https://github.com/scikit-learn-contrib/lightning">lightning</a></b>  
 [https://contrib.scikit-learn.org/lightning/](https://contrib.scikit-learn.org/lightning/)  
 Large-scale linear classification, regression and ranking in Python  
 score: 31/100, stars: 1,677  
 
 
-129. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~deeplab2~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/deeplab2">deeplab2</a></b>  
+126. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~deeplab2~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/deeplab2">deeplab2</a></b>  
 DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.  
 score: 31/100, stars: 939  
 
 
-130. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/nvidia~cuda-python~avatar-25.png' />&nbsp;<a href="https://github.com/nvidia)">nvidia/</a><b><a href="https://github.com/nvidia/cuda-python">cuda-python</a></b>  
+127. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/nvidia~cuda-python~avatar-25.png' />&nbsp;<a href="https://github.com/nvidia)">nvidia/</a><b><a href="https://github.com/nvidia/cuda-python">cuda-python</a></b>  
 [https://nvidia.github.io/cuda-python/](https://nvidia.github.io/cuda-python/)  
 CUDA Python Low-level Bindings  
 score: 31/100, stars: 638  
 
 
-131. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hrnet~hrnet-semantic-segmentation~avatar-25.png' />&nbsp;<a href="https://github.com/hrnet)">hrnet/</a><b><a href="https://github.com/hrnet/hrnet-semantic-segmentation">HRNet-Semantic-Segmentation</a></b>  
+128. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hrnet~hrnet-semantic-segmentation~avatar-25.png' />&nbsp;<a href="https://github.com/hrnet)">hrnet/</a><b><a href="https://github.com/hrnet/hrnet-semantic-segmentation">HRNet-Semantic-Segmentation</a></b>  
 The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919  
 score: 29/100, stars: 2,940  
 
 
-132. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/borealisai~advertorch~avatar-25.png' />&nbsp;<a href="https://github.com/borealisai)">borealisai/</a><b><a href="https://github.com/borealisai/advertorch">advertorch</a></b>  
+129. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/borealisai~advertorch~avatar-25.png' />&nbsp;<a href="https://github.com/borealisai)">borealisai/</a><b><a href="https://github.com/borealisai/advertorch">advertorch</a></b>  
 A Toolbox for Adversarial Robustness Research  
 score: 29/100, stars: 1,207  
 
 
-133. <a href="https://github.com/patchy631)">patchy631/</a><b><a href="https://github.com/patchy631/machine-learning">machine-learning</a></b>  
+130. <a href="https://github.com/patchy631)">patchy631/</a><b><a href="https://github.com/patchy631/machine-learning">machine-learning</a></b>  
 Machine Learning Tutorials Repository  
 score: 29/100, stars: 752  
 
 
-134. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/linkedin~fasttreeshap~avatar-25.png' />&nbsp;<a href="https://github.com/linkedin)">linkedin/</a><b><a href="https://github.com/linkedin/fasttreeshap">FastTreeSHAP</a></b>  
+131. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/linkedin~fasttreeshap~avatar-25.png' />&nbsp;<a href="https://github.com/linkedin)">linkedin/</a><b><a href="https://github.com/linkedin/fasttreeshap">FastTreeSHAP</a></b>  
 Fast SHAP value computation for interpreting tree-based models  
 score: 29/100, stars: 463  
 
 
-135. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/ray-project~tune-sklearn~avatar-25.png' />&nbsp;<a href="https://github.com/ray-project)">ray-project/</a><b><a href="https://github.com/ray-project/tune-sklearn">tune-sklearn</a></b>  
+132. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/ray-project~tune-sklearn~avatar-25.png' />&nbsp;<a href="https://github.com/ray-project)">ray-project/</a><b><a href="https://github.com/ray-project/tune-sklearn">tune-sklearn</a></b>  
 [https://docs.ray.io/en/master/tune/api_docs/sklearn.html](https://docs.ray.io/en/master/tune/api_docs/sklearn.html)  
 A drop-in replacement for Scikit-Learn’s GridSearchCV / RandomizedSearchCV -- but with cutting edge hyperparameter tuning techniques.  
 score: 29/100, stars: 455  
 
 
-136. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/huggingface~exporters~avatar-25.png' />&nbsp;<a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/exporters">exporters</a></b>  
+133. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/huggingface~exporters~avatar-25.png' />&nbsp;<a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/exporters">exporters</a></b>  
 Export Hugging Face models to Core ML and TensorFlow Lite  
 score: 29/100, stars: 432  
 
 
-137. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/intellabs~bayesian-torch~avatar-25.png' />&nbsp;<a href="https://github.com/intellabs)">intellabs/</a><b><a href="https://github.com/intellabs/bayesian-torch">bayesian-torch</a></b>  
-A library for Bayesian neural network layers and uncertainty estimation in Deep Learning extending the core of PyTorch  
-score: 29/100, stars: 333  
-
-
-138. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/qdrant~quaterion~avatar-25.png' />&nbsp;<a href="https://github.com/qdrant)">qdrant/</a><b><a href="https://github.com/qdrant/quaterion">quaterion</a></b>  
+134. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/qdrant~quaterion~avatar-25.png' />&nbsp;<a href="https://github.com/qdrant)">qdrant/</a><b><a href="https://github.com/qdrant/quaterion">quaterion</a></b>  
 [https://quaterion.qdrant.tech/](https://quaterion.qdrant.tech/)  
 Blazing fast framework for fine-tuning similarity learning models  
 score: 28/100, stars: 550  
 
 
-139. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cvxgrp~pymde~avatar-25.png' />&nbsp;<a href="https://github.com/cvxgrp)">cvxgrp/</a><b><a href="https://github.com/cvxgrp/pymde">pymde</a></b>  
+135. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cvxgrp~pymde~avatar-25.png' />&nbsp;<a href="https://github.com/cvxgrp)">cvxgrp/</a><b><a href="https://github.com/cvxgrp/pymde">pymde</a></b>  
 [https://pymde.org](https://pymde.org)  
 Minimum-distortion embedding with PyTorch  
 score: 28/100, stars: 486  
 
 
-140. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-learn-contrib~metric-learn~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-learn-contrib)">scikit-learn-contrib/</a><b><a href="https://github.com/scikit-learn-contrib/metric-learn">metric-learn</a></b>  
+136. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scikit-learn-contrib~metric-learn~avatar-25.png' />&nbsp;<a href="https://github.com/scikit-learn-contrib)">scikit-learn-contrib/</a><b><a href="https://github.com/scikit-learn-contrib/metric-learn">metric-learn</a></b>  
 [http://contrib.scikit-learn.org/metric-learn/](http://contrib.scikit-learn.org/metric-learn/)  
 Metric learning algorithms in Python  
 score: 26/100, stars: 1,348  
 
 
-141. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/infer-actively~pymdp~avatar-25.png' />&nbsp;<a href="https://github.com/infer-actively)">infer-actively/</a><b><a href="https://github.com/infer-actively/pymdp">pymdp</a></b>  
-A Python implementation of active inference for Markov Decision Processes  
-score: 26/100, stars: 300  
-
-
-142. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~maxvit~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/maxvit">maxvit</a></b>  
-[ECCV 2022] Official repository for "MaxViT: Multi-Axis Vision Transformer". SOTA foundation models for classification, detection, segmentation, image quality, and generative modeling...  
-score: 21/100, stars: 379  
-
-
-143. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/microsoft~focal-transformer~avatar-25.png' />&nbsp;<a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/focal-transformer">Focal-Transformer</a></b>  
+137. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/microsoft~focal-transformer~avatar-25.png' />&nbsp;<a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/focal-transformer">Focal-Transformer</a></b>  
 [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"  
 score: 20/100, stars: 522  
 
 
-144. <a href="https://github.com/mrdbourke)">mrdbourke/</a><b><a href="https://github.com/mrdbourke/m1-machine-learning-test">m1-machine-learning-test</a></b>  
+138. <a href="https://github.com/mrdbourke)">mrdbourke/</a><b><a href="https://github.com/mrdbourke/m1-machine-learning-test">m1-machine-learning-test</a></b>  
 Code for testing various M1 Chip benchmarks with TensorFlow.  
 score: 19/100, stars: 445  
 
@@ -3922,41 +3592,19 @@ Code release for "Git Re-Basin: Merging Models modulo Permutation Symmetries"
 score: 24/100, stars: 419  
 
 
-67. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/researchmm~sttn~avatar-25.png' />&nbsp;<a href="https://github.com/researchmm)">researchmm/</a><b><a href="https://github.com/researchmm/sttn">STTN</a></b>  
-[https://arxiv.org/abs/2007.10247](https://arxiv.org/abs/2007.10247)  
-[ECCV'2020] STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting  
-score: 23/100, stars: 392  
-
-
-68. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kakaobrain~rq-vae-transformer~avatar-25.png' />&nbsp;<a href="https://github.com/kakaobrain)">kakaobrain/</a><b><a href="https://github.com/kakaobrain/rq-vae-transformer">rq-vae-transformer</a></b>  
+67. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kakaobrain~rq-vae-transformer~avatar-25.png' />&nbsp;<a href="https://github.com/kakaobrain)">kakaobrain/</a><b><a href="https://github.com/kakaobrain/rq-vae-transformer">rq-vae-transformer</a></b>  
 The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)  
 score: 21/100, stars: 600  
 
 
-69. <a href="https://github.com/mcahny)">mcahny/</a><b><a href="https://github.com/mcahny/deep-video-inpainting">Deep-Video-Inpainting</a></b>  
+68. <a href="https://github.com/mcahny)">mcahny/</a><b><a href="https://github.com/mcahny/deep-video-inpainting">Deep-Video-Inpainting</a></b>  
 Official pytorch implementation for "Deep Video Inpainting" (CVPR 2019)  
 score: 19/100, stars: 487  
 
 
-70. <a href="https://github.com/nyandwi)">nyandwi/</a><b><a href="https://github.com/nyandwi/modernconvnets">ModernConvNets</a></b>  
-Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras  
-score: 17/100, stars: 315  
-
-
-71. <a href="https://github.com/hysts)">hysts/</a><b><a href="https://github.com/hysts/pytorch_image_classification">pytorch_image_classification</a></b>  
+69. <a href="https://github.com/hysts)">hysts/</a><b><a href="https://github.com/hysts/pytorch_image_classification">pytorch_image_classification</a></b>  
 PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST/ImageNet  
 score: 16/100, stars: 1,249  
-
-
-72. <a href="https://github.com/blackhc)">blackhc/</a><b><a href="https://github.com/blackhc/toma">toma</a></b>  
-Helps you write algorithms in PyTorch that adapt to the available (CUDA) memory  
-score: 12/100, stars: 328  
-
-
-73. <a href="https://github.com/suanrong)">suanrong/</a><b><a href="https://github.com/suanrong/sdne">SDNE</a></b>  
-[http://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding](http://www.kdd.org/kdd2016/subtopic/view/structural-deep-network-embedding)  
-This is a implementation of SDNE (Structural Deep Network embedding)  
-score: 11/100, stars: 318  
 
 
 ## Machine Learning - Interpretability
@@ -4026,18 +3674,12 @@ PiML (Python Interpretable Machine Learning) toolbox for model development & dia
 score: 38/100, stars: 688  
 
 
-12. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/alignmentresearch~tuned-lens~avatar-25.png' />&nbsp;<a href="https://github.com/alignmentresearch)">alignmentresearch/</a><b><a href="https://github.com/alignmentresearch/tuned-lens">tuned-lens</a></b>  
-[https://tuned-lens.readthedocs.io/en/latest/](https://tuned-lens.readthedocs.io/en/latest/)  
-Tools for understanding how transformer predictions are built layer-by-layer  
-score: 38/100, stars: 284  
-
-
-13. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/tensorflow~lucid~avatar-25.png' />&nbsp;<a href="https://github.com/tensorflow)">tensorflow/</a><b><a href="https://github.com/tensorflow/lucid">lucid</a></b>  
+12. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/tensorflow~lucid~avatar-25.png' />&nbsp;<a href="https://github.com/tensorflow)">tensorflow/</a><b><a href="https://github.com/tensorflow/lucid">lucid</a></b>  
 A collection of infrastructure and tools for research in neural network interpretability.  
 score: 37/100, stars: 4,574  
 
 
-14. <a href="https://github.com/cdpierse)">cdpierse/</a><b><a href="https://github.com/cdpierse/transformers-interpret">transformers-interpret</a></b>  
+13. <a href="https://github.com/cdpierse)">cdpierse/</a><b><a href="https://github.com/cdpierse/transformers-interpret">transformers-interpret</a></b>  
 Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.   
 score: 36/100, stars: 1,101  
 
@@ -4256,50 +3898,22 @@ score: 36/100, stars: 728
 score: 35/100, stars: 1,405  
 
 
-37. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/zenml-io~mlstacks~avatar-25.png' />&nbsp;<a href="https://github.com/zenml-io)">zenml-io/</a><b><a href="https://github.com/zenml-io/mlstacks">mlstacks</a></b>  
-[https://mlstacks.zenml.io/](https://mlstacks.zenml.io/)  
-A series of Terraform based recipes to provision popular MLOps stacks on the cloud.  
-score: 35/100, stars: 218  
-
-
-38. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google~ml-metadata~avatar-25.png' />&nbsp;<a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/ml-metadata">ml-metadata</a></b>  
+37. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google~ml-metadata~avatar-25.png' />&nbsp;<a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/ml-metadata">ml-metadata</a></b>  
 [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)  
 For recording and retrieving metadata associated with ML developer and data scientist workflows.  
 score: 34/100, stars: 554  
 
 
-39. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/lithops-cloud~lithops~avatar-25.png' />&nbsp;<a href="https://github.com/lithops-cloud)">lithops-cloud/</a><b><a href="https://github.com/lithops-cloud/lithops">lithops</a></b>  
-[http://lithops.cloud](http://lithops.cloud)  
-A multi-cloud framework for big data analytics and embarrassingly parallel jobs, that provides an universal API for building parallel applications in the cloud ☁️🚀  
-score: 33/100, stars: 279  
-
-
-40. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/astronomer~airflow-chart~avatar-25.png' />&nbsp;<a href="https://github.com/astronomer)">astronomer/</a><b><a href="https://github.com/astronomer/airflow-chart">airflow-chart</a></b>  
-A Helm chart to install Apache Airflow on Kubernetes  
-score: 33/100, stars: 255  
-
-
-41. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/unionai-oss~unionml~avatar-25.png' />&nbsp;<a href="https://github.com/unionai-oss)">unionai-oss/</a><b><a href="https://github.com/unionai-oss/unionml">unionml</a></b>  
-[https://www.union.ai/unionml](https://www.union.ai/unionml)  
-UnionML: the easiest way to build and deploy machine learning microservices  
-score: 30/100, stars: 308  
-
-
-42. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/bodywork-ml~bodywork-core~avatar-25.png' />&nbsp;<a href="https://github.com/bodywork-ml)">bodywork-ml/</a><b><a href="https://github.com/bodywork-ml/bodywork-core">bodywork-core</a></b>  
+38. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/bodywork-ml~bodywork-core~avatar-25.png' />&nbsp;<a href="https://github.com/bodywork-ml)">bodywork-ml/</a><b><a href="https://github.com/bodywork-ml/bodywork-core">bodywork-core</a></b>  
 [https://bodywork.readthedocs.io/en/latest/](https://bodywork.readthedocs.io/en/latest/)  
 ML pipeline orchestration and model deployments on Kubernetes.  
 score: 27/100, stars: 429  
 
 
-43. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kubeflow-kale~kale~avatar-25.png' />&nbsp;<a href="https://github.com/kubeflow-kale)">kubeflow-kale/</a><b><a href="https://github.com/kubeflow-kale/kale">kale</a></b>  
+39. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kubeflow-kale~kale~avatar-25.png' />&nbsp;<a href="https://github.com/kubeflow-kale)">kubeflow-kale/</a><b><a href="https://github.com/kubeflow-kale/kale">kale</a></b>  
 [http://kubeflow-kale.github.io](http://kubeflow-kale.github.io)  
 Kubeflow’s superfood for Data Scientists  
 score: 26/100, stars: 608  
-
-
-44. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kubeflow~fairing~avatar-25.png' />&nbsp;<a href="https://github.com/kubeflow)">kubeflow/</a><b><a href="https://github.com/kubeflow/fairing">fairing</a></b>  
-Python SDK for building, training, and deploying ML models  
-score: 25/100, stars: 334  
 
 
 ## Machine Learning - Reinforcement
@@ -4703,177 +4317,154 @@ score: 38/100, stars: 2,853
 score: 38/100, stars: 1,393  
 
 
-51. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/intellabs~fastrag~avatar-25.png' />&nbsp;<a href="https://github.com/intellabs)">intellabs/</a><b><a href="https://github.com/intellabs/fastrag">fastRAG</a></b>  
-Efficient Retrieval Augmentation and Generation Framework  
-score: 38/100, stars: 345  
-
-
-52. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/clips~pattern~avatar-25.png' />&nbsp;<a href="https://github.com/clips)">clips/</a><b><a href="https://github.com/clips/pattern">pattern</a></b>  
+51. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/clips~pattern~avatar-25.png' />&nbsp;<a href="https://github.com/clips)">clips/</a><b><a href="https://github.com/clips/pattern">pattern</a></b>  
 [https://github.com/clips/pattern/wiki](https://github.com/clips/pattern/wiki)  
 Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.  
 score: 37/100, stars: 8,540  
 
 
-53. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/huggingface~neuralcoref~avatar-25.png' />&nbsp;<a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/neuralcoref">neuralcoref</a></b>  
+52. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/huggingface~neuralcoref~avatar-25.png' />&nbsp;<a href="https://github.com/huggingface)">huggingface/</a><b><a href="https://github.com/huggingface/neuralcoref">neuralcoref</a></b>  
 [https://huggingface.co/coref/](https://huggingface.co/coref/)  
 ✨Fast Coreference Resolution in spaCy with Neural Networks  
 score: 37/100, stars: 2,743  
 
 
-54. <a href="https://github.com/jamesturk)">jamesturk/</a><b><a href="https://github.com/jamesturk/jellyfish">jellyfish</a></b>  
+53. <a href="https://github.com/jamesturk)">jamesturk/</a><b><a href="https://github.com/jamesturk/jellyfish">jellyfish</a></b>  
 [https://jamesturk.github.io/jellyfish/](https://jamesturk.github.io/jellyfish/)  
 🪼 a python library for doing approximate and phonetic matching of strings.  
 score: 37/100, stars: 1,893  
 
 
-55. <a href="https://github.com/chrismattmann)">chrismattmann/</a><b><a href="https://github.com/chrismattmann/tika-python">tika-python</a></b>  
+54. <a href="https://github.com/chrismattmann)">chrismattmann/</a><b><a href="https://github.com/chrismattmann/tika-python">tika-python</a></b>  
 Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.  
 score: 37/100, stars: 1,338  
 
 
-56. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/dialogflow~python-dialogflow~avatar-25.png' />&nbsp;<a href="https://github.com/dialogflow)">dialogflow/</a><b><a href="https://github.com/dialogflow/dialogflow-python-client-v2">python-dialogflow</a></b>  
-[https://dialogflow.com/](https://dialogflow.com/)  
-Python client for Dialogflow: Design and integrate a conversational user interface into your applications and devices.  
-score: 37/100, stars: 399  
-
-
-57. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/deepset-ai~farm~avatar-25.png' />&nbsp;<a href="https://github.com/deepset-ai)">deepset-ai/</a><b><a href="https://github.com/deepset-ai/farm">FARM</a></b>  
+55. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/deepset-ai~farm~avatar-25.png' />&nbsp;<a href="https://github.com/deepset-ai)">deepset-ai/</a><b><a href="https://github.com/deepset-ai/farm">FARM</a></b>  
 [https://farm.deepset.ai](https://farm.deepset.ai)  
 🏡 Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.  
 score: 36/100, stars: 1,686  
 
 
-58. <a href="https://github.com/pemistahl)">pemistahl/</a><b><a href="https://github.com/pemistahl/lingua-py">lingua-py</a></b>  
+56. <a href="https://github.com/pemistahl)">pemistahl/</a><b><a href="https://github.com/pemistahl/lingua-py">lingua-py</a></b>  
 The most accurate natural language detection library for Python, suitable for long and short text alike  
 score: 36/100, stars: 609  
 
 
-59. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/textgenrnn">textgenrnn</a></b>  
+57. <a href="https://github.com/minimaxir)">minimaxir/</a><b><a href="https://github.com/minimaxir/textgenrnn">textgenrnn</a></b>  
 Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.  
 score: 34/100, stars: 4,922  
 
 
-60. <a href="https://github.com/ddangelov)">ddangelov/</a><b><a href="https://github.com/ddangelov/top2vec">Top2Vec</a></b>  
+58. <a href="https://github.com/ddangelov)">ddangelov/</a><b><a href="https://github.com/ddangelov/top2vec">Top2Vec</a></b>  
 Top2Vec learns jointly embedded topic, document and word vectors.  
 score: 34/100, stars: 2,688  
 
 
-61. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/explosion~spacy-streamlit~avatar-25.png' />&nbsp;<a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-streamlit">spacy-streamlit</a></b>  
+59. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/explosion~spacy-streamlit~avatar-25.png' />&nbsp;<a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-streamlit">spacy-streamlit</a></b>  
 [https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py](https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py)  
 👑 spaCy building blocks and visualizers for Streamlit apps  
 score: 34/100, stars: 701  
 
 
-62. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/facebookresearch~drqa~avatar-25.png' />&nbsp;<a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/drqa">DrQA</a></b>  
+60. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/facebookresearch~drqa~avatar-25.png' />&nbsp;<a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/drqa">DrQA</a></b>  
 Reading Wikipedia to Answer Open-Domain Questions  
 score: 33/100, stars: 4,404  
 
 
-63. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/life4~textdistance~avatar-25.png' />&nbsp;<a href="https://github.com/life4)">life4/</a><b><a href="https://github.com/life4/textdistance">textdistance</a></b>  
+61. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/life4~textdistance~avatar-25.png' />&nbsp;<a href="https://github.com/life4)">life4/</a><b><a href="https://github.com/life4/textdistance">textdistance</a></b>  
 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.  
 score: 33/100, stars: 3,172  
 
 
-64. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cqcl~lambeq~avatar-25.png' />&nbsp;<a href="https://github.com/cqcl)">cqcl/</a><b><a href="https://github.com/cqcl/lambeq">lambeq</a></b>  
-[https://cqcl.github.io/lambeq/](https://cqcl.github.io/lambeq/)  
-A high-level Python library for Quantum Natural Language Processing  
-score: 33/100, stars: 374  
-
-
-65. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/thudm~p-tuning-v2~avatar-25.png' />&nbsp;<a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/p-tuning-v2">P-tuning-v2</a></b>  
+62. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/thudm~p-tuning-v2~avatar-25.png' />&nbsp;<a href="https://github.com/thudm)">thudm/</a><b><a href="https://github.com/thudm/p-tuning-v2">P-tuning-v2</a></b>  
 An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks  
 score: 32/100, stars: 1,598  
 
 
-66. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~language~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/language">language</a></b>  
+63. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~language~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/language">language</a></b>  
 [https://ai.google/research/teams/language/](https://ai.google/research/teams/language/)  
 Shared repository for open-sourced projects from the Google AI Language team.  
 score: 29/100, stars: 1,492  
 
 
-67. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/norskregnesentral~skweak~avatar-25.png' />&nbsp;<a href="https://github.com/norskregnesentral)">norskregnesentral/</a><b><a href="https://github.com/norskregnesentral/skweak">skweak</a></b>  
+64. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/norskregnesentral~skweak~avatar-25.png' />&nbsp;<a href="https://github.com/norskregnesentral)">norskregnesentral/</a><b><a href="https://github.com/norskregnesentral/skweak">skweak</a></b>  
 skweak: A software toolkit for weak supervision applied to NLP tasks  
 score: 29/100, stars: 889  
 
 
-68. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/arxiv-vanity~arxiv-vanity~avatar-25.png' />&nbsp;<a href="https://github.com/arxiv-vanity)">arxiv-vanity/</a><b><a href="https://github.com/arxiv-vanity/arxiv-vanity">arxiv-vanity</a></b>  
+65. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/arxiv-vanity~arxiv-vanity~avatar-25.png' />&nbsp;<a href="https://github.com/arxiv-vanity)">arxiv-vanity/</a><b><a href="https://github.com/arxiv-vanity/arxiv-vanity">arxiv-vanity</a></b>  
 [https://www.arxiv-vanity.com](https://www.arxiv-vanity.com)  
 Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.  
 score: 27/100, stars: 1,502  
 
 
-69. <a href="https://github.com/gunthercox)">gunthercox/</a><b><a href="https://github.com/gunthercox/chatterbot-corpus">chatterbot-corpus</a></b>  
+66. <a href="https://github.com/gunthercox)">gunthercox/</a><b><a href="https://github.com/gunthercox/chatterbot-corpus">chatterbot-corpus</a></b>  
 [http://chatterbot-corpus.readthedocs.io](http://chatterbot-corpus.readthedocs.io)  
 A multilingual dialog corpus  
 score: 26/100, stars: 1,306  
 
 
-70. <a href="https://github.com/koaning)">koaning/</a><b><a href="https://github.com/koaning/whatlies">whatlies</a></b>  
+67. <a href="https://github.com/koaning)">koaning/</a><b><a href="https://github.com/koaning/whatlies">whatlies</a></b>  
 [https://koaning.github.io/whatlies/](https://koaning.github.io/whatlies/)  
 Toolkit to help understand "what lies" in word embeddings. Also benchmarking!   
 score: 26/100, stars: 461  
 
 
-71. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/plasticityai~magnitude~avatar-25.png' />&nbsp;<a href="https://github.com/plasticityai)">plasticityai/</a><b><a href="https://github.com/plasticityai/magnitude">magnitude</a></b>  
+68. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/plasticityai~magnitude~avatar-25.png' />&nbsp;<a href="https://github.com/plasticityai)">plasticityai/</a><b><a href="https://github.com/plasticityai/magnitude">magnitude</a></b>  
 A fast, efficient universal vector embedding utility package.  
 score: 25/100, stars: 1,603  
 
 
-72. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/shivam5992~textstat~avatar-25.png' />&nbsp;<a href="https://github.com/shivam5992)">shivam5992/</a><b><a href="https://github.com/shivam5992/textstat">textstat</a></b>  
+69. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/shivam5992~textstat~avatar-25.png' />&nbsp;<a href="https://github.com/shivam5992)">shivam5992/</a><b><a href="https://github.com/shivam5992/textstat">textstat</a></b>  
 [https://textstat.org](https://textstat.org)  
 📝 python package to calculate readability statistics of a text object - paragraphs, sentences, articles.  
 score: 25/100, stars: 998  
 
 
-73. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/explosion~spacy-stanza~avatar-25.png' />&nbsp;<a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-stanza">spacy-stanza</a></b>  
+70. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/explosion~spacy-stanza~avatar-25.png' />&nbsp;<a href="https://github.com/explosion)">explosion/</a><b><a href="https://github.com/explosion/spacy-stanza">spacy-stanza</a></b>  
 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy  
 score: 24/100, stars: 686  
 
 
-74. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/lexpredict~lexpredict-lexnlp~avatar-25.png' />&nbsp;<a href="https://github.com/lexpredict)">lexpredict/</a><b><a href="https://github.com/lexpredict/lexpredict-lexnlp">lexpredict-lexnlp</a></b>  
+71. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/lexpredict~lexpredict-lexnlp~avatar-25.png' />&nbsp;<a href="https://github.com/lexpredict)">lexpredict/</a><b><a href="https://github.com/lexpredict/lexpredict-lexnlp">lexpredict-lexnlp</a></b>  
 LexNLP by LexPredict  
 score: 22/100, stars: 642  
 
 
-75. <a href="https://github.com/franck-dernoncourt)">franck-dernoncourt/</a><b><a href="https://github.com/franck-dernoncourt/neuroner">NeuroNER</a></b>  
+72. <a href="https://github.com/franck-dernoncourt)">franck-dernoncourt/</a><b><a href="https://github.com/franck-dernoncourt/neuroner">NeuroNER</a></b>  
 [http://neuroner.com](http://neuroner.com)  
 Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.  
 score: 21/100, stars: 1,672  
 
 
-76. <a href="https://github.com/keredson)">keredson/</a><b><a href="https://github.com/keredson/wordninja">wordninja</a></b>  
+73. <a href="https://github.com/keredson)">keredson/</a><b><a href="https://github.com/keredson/wordninja">wordninja</a></b>  
 Probabilistically split concatenated words using NLP based on English Wikipedia unigram frequencies.  
 score: 21/100, stars: 719  
 
 
-77. <a href="https://github.com/prithivirajdamodaran)">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/styleformer">Styleformer</a></b>  
+74. <a href="https://github.com/prithivirajdamodaran)">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/styleformer">Styleformer</a></b>  
 A Neural Language Style Transfer framework to transfer natural language text smoothly between fine-grained language styles like formal/casual, active/passive, and many more. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.  
 score: 21/100, stars: 452  
 
 
-78. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/hazyresearch~fonduer~avatar-25.png' />&nbsp;<a href="https://github.com/hazyresearch)">hazyresearch/</a><b><a href="https://github.com/hazyresearch/fonduer">fonduer</a></b>  
-[https://fonduer.readthedocs.io/](https://fonduer.readthedocs.io/)  
-A knowledge base construction engine for richly formatted data  
-score: 21/100, stars: 394  
-
-
-79. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~grade-school-math~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/grade-school-math">grade-school-math</a></b>  
+75. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/openai~grade-school-math~avatar-25.png' />&nbsp;<a href="https://github.com/openai)">openai/</a><b><a href="https://github.com/openai/grade-school-math">grade-school-math</a></b>  
 openai/grade-school-math  
 score: 20/100, stars: 571  
 
 
-80. <a href="https://github.com/nipunsadvilkar)">nipunsadvilkar/</a><b><a href="https://github.com/nipunsadvilkar/pysbd">pySBD</a></b>  
+76. <a href="https://github.com/nipunsadvilkar)">nipunsadvilkar/</a><b><a href="https://github.com/nipunsadvilkar/pysbd">pySBD</a></b>  
 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.  
 score: 18/100, stars: 648  
 
 
-81. <a href="https://github.com/iclrandd)">iclrandd/</a><b><a href="https://github.com/iclrandd/blackstone">Blackstone</a></b>  
+77. <a href="https://github.com/iclrandd)">iclrandd/</a><b><a href="https://github.com/iclrandd/blackstone">Blackstone</a></b>  
 [https://research.iclr.co.uk](https://research.iclr.co.uk)  
 ⚫ A spaCy pipeline and model for NLP on unstructured legal text.  
 score: 17/100, stars: 622  
 
 
-82. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~byt5~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/byt5">byt5</a></b>  
+78. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google-research~byt5~avatar-25.png' />&nbsp;<a href="https://github.com/google-research)">google-research/</a><b><a href="https://github.com/google-research/byt5">byt5</a></b>  
 google-research/byt5  
 score: 14/100, stars: 438  
 
@@ -5165,19 +4756,7 @@ How to make CPython faster.
 score: 27/100, stars: 928  
 
 
-32. <a href="https://github.com/dgilland)">dgilland/</a><b><a href="https://github.com/dgilland/cacheout">cacheout</a></b>  
-[https://cacheout.readthedocs.io](https://cacheout.readthedocs.io)  
-A caching library for Python  
-score: 26/100, stars: 381  
-
-
-33. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/blosc~python-blosc~avatar-25.png' />&nbsp;<a href="https://github.com/blosc)">blosc/</a><b><a href="https://github.com/blosc/python-blosc">python-blosc</a></b>  
-[https://www.blosc.org/python-blosc/python-blosc.html](https://www.blosc.org/python-blosc/python-blosc.html)  
-A Python wrapper for the extremely fast Blosc compression library   
-score: 23/100, stars: 336  
-
-
-34. <a href="https://github.com/klen)">klen/</a><b><a href="https://github.com/klen/py-frameworks-bench">py-frameworks-bench</a></b>  
+32. <a href="https://github.com/klen)">klen/</a><b><a href="https://github.com/klen/py-frameworks-bench">py-frameworks-bench</a></b>  
 [https://klen.github.io/py-frameworks-bench/](https://klen.github.io/py-frameworks-bench/)  
 Another benchmark for some python frameworks  
 score: 21/100, stars: 693  
@@ -5430,39 +5009,27 @@ Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  y
 score: 35/100, stars: 821  
 
 
-20. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/espressomd~espresso~avatar-25.png' />&nbsp;<a href="https://github.com/espressomd)">espressomd/</a><b><a href="https://github.com/espressomd/espresso">espresso</a></b>  
-[https://espressomd.org](https://espressomd.org)  
-The ESPResSo package  
-score: 30/100, stars: 200  
-
-
-21. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/facebookresearch~fairo~avatar-25.png' />&nbsp;<a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/droidlet">fairo</a></b>  
+20. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/facebookresearch~fairo~avatar-25.png' />&nbsp;<a href="https://github.com/facebookresearch)">facebookresearch/</a><b><a href="https://github.com/facebookresearch/droidlet">fairo</a></b>  
 A modular embodied agent architecture and platform for building embodied agents  
 score: 29/100, stars: 818  
 
 
-22. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/salesforce~ai-economist~avatar-25.png' />&nbsp;<a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/ai-economist">ai-economist</a></b>  
+21. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/salesforce~ai-economist~avatar-25.png' />&nbsp;<a href="https://github.com/salesforce)">salesforce/</a><b><a href="https://github.com/salesforce/ai-economist">ai-economist</a></b>  
 [https://www.einstein.ai/the-ai-economist](https://www.einstein.ai/the-ai-economist)  
 Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).  
 score: 27/100, stars: 1,046  
 
 
-23. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/udst~urbansim~avatar-25.png' />&nbsp;<a href="https://github.com/udst)">udst/</a><b><a href="https://github.com/udst/urbansim">urbansim</a></b>  
+22. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/udst~urbansim~avatar-25.png' />&nbsp;<a href="https://github.com/udst)">udst/</a><b><a href="https://github.com/udst/urbansim">urbansim</a></b>  
 [https://udst.github.io/urbansim/](https://udst.github.io/urbansim/)  
 Platform for building statistical models of cities and regions  
 score: 18/100, stars: 442  
 
 
-24. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/pynamical">pynamical</a></b>  
+23. <a href="https://github.com/gboeing)">gboeing/</a><b><a href="https://github.com/gboeing/pynamical">pynamical</a></b>  
 [https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/](https://geoffboeing.com/publications/nonlinear-chaos-fractals-prediction/)  
 Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.  
 score: 14/100, stars: 594  
-
-
-25. <a href="https://github.com/crflynn)">crflynn/</a><b><a href="https://github.com/crflynn/stochastic">stochastic</a></b>  
-[http://stochastic.readthedocs.io/en/stable/](http://stochastic.readthedocs.io/en/stable/)  
-Generate realizations of stochastic processes in python.  
-score: 11/100, stars: 374  
 
 
 ## Study
@@ -5690,35 +5257,20 @@ awesome-python with :octocat: ⭐ and 🍴
 score: 25/100, stars: 1,926  
 
 
-42. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/googlecloudplatform~practical-ml-vision-book~avatar-25.png' />&nbsp;<a href="https://github.com/googlecloudplatform)">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/practical-ml-vision-book">practical-ml-vision-book</a></b>  
-googlecloudplatform/practical-ml-vision-book  
-score: 24/100, stars: 389  
-
-
-43. <a href="https://github.com/gerdm)">gerdm/</a><b><a href="https://github.com/gerdm/prml">prml</a></b>  
+42. <a href="https://github.com/gerdm)">gerdm/</a><b><a href="https://github.com/gerdm/prml">prml</a></b>  
 Repository of notes, code and notebooks in Python for the book Pattern Recognition and Machine Learning by Christopher Bishop  
 score: 22/100, stars: 1,399  
 
 
-44. <a href="https://github.com/jackhidary)">jackhidary/</a><b><a href="https://github.com/jackhidary/quantumcomputingbook">quantumcomputingbook</a></b>  
+43. <a href="https://github.com/jackhidary)">jackhidary/</a><b><a href="https://github.com/jackhidary/quantumcomputingbook">quantumcomputingbook</a></b>  
 Companion site for the textbook Quantum Computing: An Applied Approach  
 score: 19/100, stars: 699  
 
 
-45. <a href="https://github.com/mynameisfiber)">mynameisfiber/</a><b><a href="https://github.com/mynameisfiber/high_performance_python_2e">high_performance_python_2e</a></b>  
-Code for the book "High Performance Python 2e" by Micha Gorelick and Ian Ozsvald with OReilly   
-score: 16/100, stars: 355  
-
-
-46. <a href="https://github.com/rasbt)">rasbt/</a><b><a href="https://github.com/rasbt/stat453-deep-learning-ss20">stat453-deep-learning-ss20</a></b>  
+44. <a href="https://github.com/rasbt)">rasbt/</a><b><a href="https://github.com/rasbt/stat453-deep-learning-ss20">stat453-deep-learning-ss20</a></b>  
 [http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/)  
 STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)  
 score: 14/100, stars: 535  
-
-
-47. <a href="https://github.com/rasbt)">rasbt/</a><b><a href="https://github.com/rasbt/stat451-machine-learning-fs20">stat451-machine-learning-fs20</a></b>  
-STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020)  
-score: 13/100, stars: 356  
 
 
 ## Template
@@ -5752,23 +5304,17 @@ score: 40/100, stars: 1,868
 score: 36/100, stars: 1,801  
 
 
-6. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/sqlalchemy~mako~avatar-25.png' />&nbsp;<a href="https://github.com/sqlalchemy)">sqlalchemy/</a><b><a href="https://github.com/sqlalchemy/mako">mako</a></b>  
-[https://www.makotemplates.org](https://www.makotemplates.org)  
-Mako Templates for Python  
-score: 35/100, stars: 281  
-
-
-7. <a href="https://github.com/ionelmc)">ionelmc/</a><b><a href="https://github.com/ionelmc/cookiecutter-pylibrary">cookiecutter-pylibrary</a></b>  
+6. <a href="https://github.com/ionelmc)">ionelmc/</a><b><a href="https://github.com/ionelmc/cookiecutter-pylibrary">cookiecutter-pylibrary</a></b>  
 Enhanced cookiecutter template for Python libraries.  
 score: 32/100, stars: 1,163  
 
 
-8. <a href="https://github.com/tezromach)">tezromach/</a><b><a href="https://github.com/tezromach/python-package-template">python-package-template</a></b>  
+7. <a href="https://github.com/tezromach)">tezromach/</a><b><a href="https://github.com/tezromach/python-package-template">python-package-template</a></b>  
 🚀 Your next Python package needs a bleeding-edge project structure.  
 score: 28/100, stars: 1,008  
 
 
-9. <a href="https://github.com/martinheinz)">martinheinz/</a><b><a href="https://github.com/martinheinz/python-project-blueprint">python-project-blueprint</a></b>  
+8. <a href="https://github.com/martinheinz)">martinheinz/</a><b><a href="https://github.com/martinheinz/python-project-blueprint">python-project-blueprint</a></b>  
 Blueprint/Boilerplate For Python Projects  
 score: 18/100, stars: 921  
 
@@ -5843,18 +5389,6 @@ score: 34/100, stars: 2,769
 [http://pypi.python.org/pypi/blessed](http://pypi.python.org/pypi/blessed)  
 Blessed is an easy, practical library for making python terminal apps  
 score: 31/100, stars: 950  
-
-
-13. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/rockhopper-technologies~enlighten~avatar-25.png' />&nbsp;<a href="https://github.com/rockhopper-technologies)">rockhopper-technologies/</a><b><a href="https://github.com/rockhopper-technologies/enlighten">enlighten</a></b>  
-[https://python-enlighten.readthedocs.io](https://python-enlighten.readthedocs.io)  
-Enlighten Progress Bar for Python Console Apps  
-score: 29/100, stars: 312  
-
-
-14. <a href="https://github.com/federicoceratto)">federicoceratto/</a><b><a href="https://github.com/federicoceratto/dashing">dashing</a></b>  
-[https://dashing.readthedocs.io/en/latest/](https://dashing.readthedocs.io/en/latest/)  
-Terminal dashboards for Python  
-score: 14/100, stars: 365  
 
 
 ## Testing
@@ -6064,52 +5598,28 @@ ARCH models in Python
 score: 35/100, stars: 1,155  
 
 
-13. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pastas~pastas~avatar-25.png' />&nbsp;<a href="https://github.com/pastas)">pastas/</a><b><a href="https://github.com/pastas/pastas">pastas</a></b>  
-[https://pastas.readthedocs.io](https://pastas.readthedocs.io)  
-🍝 Pastas is an open-source Python framework for the analysis of groundwater time series.  
-score: 35/100, stars: 320  
-
-
-14. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/alkaline-ml~pmdarima~avatar-25.png' />&nbsp;<a href="https://github.com/alkaline-ml)">alkaline-ml/</a><b><a href="https://github.com/alkaline-ml/pmdarima">pmdarima</a></b>  
+13. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/alkaline-ml~pmdarima~avatar-25.png' />&nbsp;<a href="https://github.com/alkaline-ml)">alkaline-ml/</a><b><a href="https://github.com/alkaline-ml/pmdarima">pmdarima</a></b>  
 [https://www.alkaline-ml.com/pmdarima](https://www.alkaline-ml.com/pmdarima)  
 A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.  
 score: 34/100, stars: 1,420  
 
 
-15. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/microsoft~robustlearn~avatar-25.png' />&nbsp;<a href="https://github.com/microsoft)">microsoft/</a><b><a href="https://github.com/microsoft/robustlearn">robustlearn</a></b>  
-[http://aka.ms/roblearn](http://aka.ms/roblearn)  
-Robust machine learning for responsible AI  
-score: 34/100, stars: 315  
-
-
-16. <a href="https://github.com/winedarksea)">winedarksea/</a><b><a href="https://github.com/winedarksea/autots">AutoTS</a></b>  
+14. <a href="https://github.com/winedarksea)">winedarksea/</a><b><a href="https://github.com/winedarksea/autots">AutoTS</a></b>  
 Automated Time Series Forecasting  
 score: 33/100, stars: 840  
 
 
-17. <a href="https://github.com/autoviml)">autoviml/</a><b><a href="https://github.com/autoviml/auto_ts">Auto_TS</a></b>  
+15. <a href="https://github.com/autoviml)">autoviml/</a><b><a href="https://github.com/autoviml/auto_ts">Auto_TS</a></b>  
 Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.  
 score: 33/100, stars: 612  
 
 
-18. <a href="https://github.com/wilsonrljr)">wilsonrljr/</a><b><a href="https://github.com/wilsonrljr/sysidentpy">sysidentpy</a></b>  
-[https://sysidentpy.org](https://sysidentpy.org)  
-A Python Package For System Identification Using NARMAX Models  
-score: 31/100, stars: 253  
-
-
-19. <a href="https://github.com/rjt1990)">rjt1990/</a><b><a href="https://github.com/rjt1990/pyflux">pyflux</a></b>  
+16. <a href="https://github.com/rjt1990)">rjt1990/</a><b><a href="https://github.com/rjt1990/pyflux">pyflux</a></b>  
 Open source time series library for Python  
 score: 28/100, stars: 2,046  
 
 
-20. <a href="https://github.com/microprediction)">microprediction/</a><b><a href="https://github.com/microprediction/microprediction">microprediction</a></b>  
-[http://www.microprediction.org](http://www.microprediction.org)  
-If you can measure it, consider it predicted  
-score: 28/100, stars: 301  
-
-
-21. <a href="https://github.com/firmai)">firmai/</a><b><a href="https://github.com/firmai/atspy">atspy</a></b>  
+17. <a href="https://github.com/firmai)">firmai/</a><b><a href="https://github.com/firmai/atspy">atspy</a></b>  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580631)  
 AtsPy: Automated Time Series Models in Python (by @firmai)  
 score: 17/100, stars: 494  
@@ -6968,416 +6478,291 @@ Yet another serialization library on top of dataclasses, inspired by serde-rs.
 score: 39/100, stars: 558  
 
 
-142. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/mamba-org~micromamba-docker~avatar-25.png' />&nbsp;<a href="https://github.com/mamba-org)">mamba-org/</a><b><a href="https://github.com/mamba-org/micromamba-docker">micromamba-docker</a></b>  
-Rapid builds of small Conda-based containers using micromamba.  
-score: 39/100, stars: 211  
-
-
-143. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyfilesystem~pyfilesystem2~avatar-25.png' />&nbsp;<a href="https://github.com/pyfilesystem)">pyfilesystem/</a><b><a href="https://github.com/pyfilesystem/pyfilesystem2">pyfilesystem2</a></b>  
+142. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyfilesystem~pyfilesystem2~avatar-25.png' />&nbsp;<a href="https://github.com/pyfilesystem)">pyfilesystem/</a><b><a href="https://github.com/pyfilesystem/pyfilesystem2">pyfilesystem2</a></b>  
 [https://www.pyfilesystem.org](https://www.pyfilesystem.org)  
 Python's Filesystem abstraction layer  
 score: 38/100, stars: 1,887  
 
 
-144. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/linkedin~shiv~avatar-25.png' />&nbsp;<a href="https://github.com/linkedin)">linkedin/</a><b><a href="https://github.com/linkedin/shiv">shiv</a></b>  
+143. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/linkedin~shiv~avatar-25.png' />&nbsp;<a href="https://github.com/linkedin)">linkedin/</a><b><a href="https://github.com/linkedin/shiv">shiv</a></b>  
 shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.  
 score: 38/100, stars: 1,620  
 
 
-145. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/conda~conda-build~avatar-25.png' />&nbsp;<a href="https://github.com/conda)">conda/</a><b><a href="https://github.com/conda/conda-build">conda-build</a></b>  
-[https://docs.conda.io/projects/conda-build/](https://docs.conda.io/projects/conda-build/)  
-Commands and tools for building conda packages  
-score: 38/100, stars: 337  
-
-
-146. <a href="https://github.com/rspeer)">rspeer/</a><b><a href="https://github.com/rspeer/python-ftfy">python-ftfy</a></b>  
+144. <a href="https://github.com/rspeer)">rspeer/</a><b><a href="https://github.com/rspeer/python-ftfy">python-ftfy</a></b>  
 [http://ftfy.readthedocs.org](http://ftfy.readthedocs.org)  
 Fixes mojibake and other glitches in Unicode text, after the fact.  
 score: 37/100, stars: 3,600  
 
 
-147. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scrapinghub~dateparser~avatar-25.png' />&nbsp;<a href="https://github.com/scrapinghub)">scrapinghub/</a><b><a href="https://github.com/scrapinghub/dateparser">dateparser</a></b>  
+145. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/scrapinghub~dateparser~avatar-25.png' />&nbsp;<a href="https://github.com/scrapinghub)">scrapinghub/</a><b><a href="https://github.com/scrapinghub/dateparser">dateparser</a></b>  
 python parser for human readable dates  
 score: 37/100, stars: 2,341  
 
 
-148. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyca~bcrypt~avatar-25.png' />&nbsp;<a href="https://github.com/pyca)">pyca/</a><b><a href="https://github.com/pyca/bcrypt">bcrypt</a></b>  
+146. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyca~bcrypt~avatar-25.png' />&nbsp;<a href="https://github.com/pyca)">pyca/</a><b><a href="https://github.com/pyca/bcrypt">bcrypt</a></b>  
 Modern(-ish) password hashing for your software and your servers  
 score: 37/100, stars: 1,049  
 
 
-149. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/mamba-org~quetz~avatar-25.png' />&nbsp;<a href="https://github.com/mamba-org)">mamba-org/</a><b><a href="https://github.com/mamba-org/quetz">quetz</a></b>  
-[https://quetz.readthedocs.io/en/latest/](https://quetz.readthedocs.io/en/latest/)  
-The Open-Source Server for Conda Packages  
-score: 37/100, stars: 235  
-
-
-150. <a href="https://github.com/jorgebastida)">jorgebastida/</a><b><a href="https://github.com/jorgebastida/awslogs">awslogs</a></b>  
+147. <a href="https://github.com/jorgebastida)">jorgebastida/</a><b><a href="https://github.com/jorgebastida/awslogs">awslogs</a></b>  
 AWS CloudWatch logs for Humans™  
 score: 36/100, stars: 4,665  
 
 
-151. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/python-injector~injector~avatar-25.png' />&nbsp;<a href="https://github.com/python-injector)">python-injector/</a><b><a href="https://github.com/python-injector/injector">injector</a></b>  
+148. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/python-injector~injector~avatar-25.png' />&nbsp;<a href="https://github.com/python-injector)">python-injector/</a><b><a href="https://github.com/python-injector/injector">injector</a></b>  
 Python dependency injection framework, inspired by Guice  
 score: 36/100, stars: 1,027  
 
 
-152. <a href="https://github.com/samuelcolvin)">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/python-devtools">python-devtools</a></b>  
+149. <a href="https://github.com/samuelcolvin)">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/python-devtools">python-devtools</a></b>  
 [https://python-devtools.helpmanual.io/](https://python-devtools.helpmanual.io/)  
 Dev tools for python  
 score: 36/100, stars: 826  
 
 
-153. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/methexis-inc~terminal-copilot~avatar-25.png' />&nbsp;<a href="https://github.com/methexis-inc)">methexis-inc/</a><b><a href="https://github.com/methexis-inc/terminal-copilot">terminal-copilot</a></b>  
+150. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/methexis-inc~terminal-copilot~avatar-25.png' />&nbsp;<a href="https://github.com/methexis-inc)">methexis-inc/</a><b><a href="https://github.com/methexis-inc/terminal-copilot">terminal-copilot</a></b>  
 A smart terminal assistant that helps you find the right command.  
 score: 36/100, stars: 524  
 
 
-154. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google~pyglove~avatar-25.png' />&nbsp;<a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/pyglove">pyglove</a></b>  
-Manipulating Python Programs  
-score: 36/100, stars: 298  
-
-
-155. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/steamship-core~python-client~avatar-25.png' />&nbsp;<a href="https://github.com/steamship-core)">steamship-core/</a><b><a href="https://github.com/steamship-core/python-client">python-client</a></b>  
-steamship-core/python-client  
-score: 36/100, stars: 216  
-
-
-156. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/conda-forge~conda-smithy~avatar-25.png' />&nbsp;<a href="https://github.com/conda-forge)">conda-forge/</a><b><a href="https://github.com/conda-forge/conda-smithy">conda-smithy</a></b>  
-[https://conda-forge.org/](https://conda-forge.org/)  
-The tool for managing conda-forge feedstocks.  
-score: 36/100, stars: 137  
-
-
-157. <a href="https://github.com/liiight)">liiight/</a><b><a href="https://github.com/liiight/notifiers">notifiers</a></b>  
+151. <a href="https://github.com/liiight)">liiight/</a><b><a href="https://github.com/liiight/notifiers">notifiers</a></b>  
 [http://notifiers.readthedocs.io/](http://notifiers.readthedocs.io/)  
 The easy way to send notifications  
 score: 35/100, stars: 2,510  
 
 
-158. <a href="https://github.com/konradhalas)">konradhalas/</a><b><a href="https://github.com/konradhalas/dacite">dacite</a></b>  
+152. <a href="https://github.com/konradhalas)">konradhalas/</a><b><a href="https://github.com/konradhalas/dacite">dacite</a></b>  
 Simple creation of data classes from dictionaries.  
 score: 35/100, stars: 1,501  
 
 
-159. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/tox-dev~filelock~avatar-25.png' />&nbsp;<a href="https://github.com/tox-dev)">tox-dev/</a><b><a href="https://github.com/tox-dev/py-filelock">filelock</a></b>  
+153. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/tox-dev~filelock~avatar-25.png' />&nbsp;<a href="https://github.com/tox-dev)">tox-dev/</a><b><a href="https://github.com/tox-dev/py-filelock">filelock</a></b>  
 [https://py-filelock.readthedocs.io](https://py-filelock.readthedocs.io)  
 A platform-independent file lock for Python.  
 score: 35/100, stars: 579  
 
 
-160. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/instagram~fixit~avatar-25.png' />&nbsp;<a href="https://github.com/instagram)">instagram/</a><b><a href="https://github.com/instagram/fixit">Fixit</a></b>  
+154. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/instagram~fixit~avatar-25.png' />&nbsp;<a href="https://github.com/instagram)">instagram/</a><b><a href="https://github.com/instagram/fixit">Fixit</a></b>  
 [https://fixit.rtfd.io/en/latest/](https://fixit.rtfd.io/en/latest/)  
 Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.  
 score: 35/100, stars: 540  
 
 
-161. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/conda~constructor~avatar-25.png' />&nbsp;<a href="https://github.com/conda)">conda/</a><b><a href="https://github.com/conda/constructor">constructor</a></b>  
+155. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/conda~constructor~avatar-25.png' />&nbsp;<a href="https://github.com/conda)">conda/</a><b><a href="https://github.com/conda/constructor">constructor</a></b>  
 [https://conda.github.io/constructor/](https://conda.github.io/constructor/)  
 tool for creating installers from conda packages  
 score: 35/100, stars: 415  
 
 
-162. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/cqcl~tket~avatar-25.png' />&nbsp;<a href="https://github.com/cqcl)">cqcl/</a><b><a href="https://github.com/cqcl/tket">tket</a></b>  
-Source code for the TKET quantum compiler, Python bindings and utilities  
-score: 35/100, stars: 196  
-
-
-163. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google~gin-config~avatar-25.png' />&nbsp;<a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/gin-config">gin-config</a></b>  
+156. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/google~gin-config~avatar-25.png' />&nbsp;<a href="https://github.com/google)">google/</a><b><a href="https://github.com/google/gin-config">gin-config</a></b>  
 Gin provides a lightweight configuration framework for Python  
 score: 34/100, stars: 1,882  
 
 
-164. <a href="https://github.com/nateshmbhat)">nateshmbhat/</a><b><a href="https://github.com/nateshmbhat/pyttsx3">pyttsx3</a></b>  
+157. <a href="https://github.com/nateshmbhat)">nateshmbhat/</a><b><a href="https://github.com/nateshmbhat/pyttsx3">pyttsx3</a></b>  
 Offline Text To Speech synthesis for python  
 score: 34/100, stars: 1,697  
 
 
-165. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pdoc3~pdoc~avatar-25.png' />&nbsp;<a href="https://github.com/pdoc3)">pdoc3/</a><b><a href="https://github.com/pdoc3/pdoc">pdoc</a></b>  
+158. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pdoc3~pdoc~avatar-25.png' />&nbsp;<a href="https://github.com/pdoc3)">pdoc3/</a><b><a href="https://github.com/pdoc3/pdoc">pdoc</a></b>  
 [https://pdoc3.github.io/pdoc/](https://pdoc3.github.io/pdoc/)  
  🐍 :arrow_right: 📜  Auto-generate API documentation for Python projects  
 score: 34/100, stars: 1,006  
 
 
-166. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/zenodo~zenodo~avatar-25.png' />&nbsp;<a href="https://github.com/zenodo)">zenodo/</a><b><a href="https://github.com/zenodo/zenodo">zenodo</a></b>  
+159. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/zenodo~zenodo~avatar-25.png' />&nbsp;<a href="https://github.com/zenodo)">zenodo/</a><b><a href="https://github.com/zenodo/zenodo">zenodo</a></b>  
 [https://zenodo.org](https://zenodo.org)  
 Research. Shared.  
 score: 34/100, stars: 828  
 
 
-167. <a href="https://github.com/wolph)">wolph/</a><b><a href="https://github.com/wolph/python-progressbar">python-progressbar</a></b>  
+160. <a href="https://github.com/wolph)">wolph/</a><b><a href="https://github.com/wolph/python-progressbar">python-progressbar</a></b>  
 [http://progressbar-2.readthedocs.org/en/latest/](http://progressbar-2.readthedocs.org/en/latest/)  
 Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"  
 score: 34/100, stars: 823  
 
 
-168. <a href="https://github.com/terrycain)">terrycain/</a><b><a href="https://github.com/terrycain/aioboto3">aioboto3</a></b>  
+161. <a href="https://github.com/terrycain)">terrycain/</a><b><a href="https://github.com/terrycain/aioboto3">aioboto3</a></b>  
 Wrapper to use boto3 resources with the aiobotocore async backend  
 score: 34/100, stars: 561  
 
 
-169. <a href="https://github.com/erdewit)">erdewit/</a><b><a href="https://github.com/erdewit/nest_asyncio">nest_asyncio</a></b>  
+162. <a href="https://github.com/erdewit)">erdewit/</a><b><a href="https://github.com/erdewit/nest_asyncio">nest_asyncio</a></b>  
 Patch asyncio to allow nested event loops  
 score: 34/100, stars: 560  
 
 
-170. <a href="https://github.com/mozillazg)">mozillazg/</a><b><a href="https://github.com/mozillazg/pypy">pypy</a></b>  
+163. <a href="https://github.com/mozillazg)">mozillazg/</a><b><a href="https://github.com/mozillazg/pypy">pypy</a></b>  
 [https://foss.heptapod.net/pypy/pypy](https://foss.heptapod.net/pypy/pypy)  
 The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)  
 score: 34/100, stars: 416  
 
 
-171. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/aws-samples~sagemaker-ssh-helper~avatar-25.png' />&nbsp;<a href="https://github.com/aws-samples)">aws-samples/</a><b><a href="https://github.com/aws-samples/sagemaker-ssh-helper">sagemaker-ssh-helper</a></b>  
-A helper library to connect into Amazon SageMaker with AWS Systems Manager and SSH (Secure Shell)  
-score: 34/100, stars: 139  
-
-
-172. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kalliope-project~kalliope~avatar-25.png' />&nbsp;<a href="https://github.com/kalliope-project)">kalliope-project/</a><b><a href="https://github.com/kalliope-project/kalliope">kalliope</a></b>  
+164. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/kalliope-project~kalliope~avatar-25.png' />&nbsp;<a href="https://github.com/kalliope-project)">kalliope-project/</a><b><a href="https://github.com/kalliope-project/kalliope">kalliope</a></b>  
 [https://kalliope-project.github.io/](https://kalliope-project.github.io/)  
 Kalliope is a framework that will help you to create your own personal assistant.  
 score: 33/100, stars: 1,666  
 
 
-173. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyca~pynacl~avatar-25.png' />&nbsp;<a href="https://github.com/pyca)">pyca/</a><b><a href="https://github.com/pyca/pynacl">pynacl</a></b>  
+165. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyca~pynacl~avatar-25.png' />&nbsp;<a href="https://github.com/pyca)">pyca/</a><b><a href="https://github.com/pyca/pynacl">pynacl</a></b>  
 [https://pynacl.readthedocs.io/](https://pynacl.readthedocs.io/)  
 Python binding to the Networking and Cryptography (NaCl) library  
 score: 33/100, stars: 987  
 
 
-174. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pytoolz~cytoolz~avatar-25.png' />&nbsp;<a href="https://github.com/pytoolz)">pytoolz/</a><b><a href="https://github.com/pytoolz/cytoolz">cytoolz</a></b>  
+166. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pytoolz~cytoolz~avatar-25.png' />&nbsp;<a href="https://github.com/pytoolz)">pytoolz/</a><b><a href="https://github.com/pytoolz/cytoolz">cytoolz</a></b>  
 Cython implementation of Toolz: High performance functional utilities  
 score: 33/100, stars: 939  
 
 
-175. <a href="https://github.com/lukasschwab)">lukasschwab/</a><b><a href="https://github.com/lukasschwab/arxiv.py">arxiv.py</a></b>  
+167. <a href="https://github.com/lukasschwab)">lukasschwab/</a><b><a href="https://github.com/lukasschwab/arxiv.py">arxiv.py</a></b>  
 Python wrapper for the arXiv API  
 score: 33/100, stars: 784  
 
 
-176. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/conda~conda-pack~avatar-25.png' />&nbsp;<a href="https://github.com/conda)">conda/</a><b><a href="https://github.com/conda/conda-pack">conda-pack</a></b>  
+168. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/conda~conda-pack~avatar-25.png' />&nbsp;<a href="https://github.com/conda)">conda/</a><b><a href="https://github.com/conda/conda-pack">conda-pack</a></b>  
 [https://conda.github.io/conda-pack/](https://conda.github.io/conda-pack/)  
 Package conda environments for redistribution  
 score: 33/100, stars: 436  
 
 
-177. <a href="https://github.com/venth)">venth/</a><b><a href="https://github.com/venth/aws-adfs">aws-adfs</a></b>  
-Command line tool to ease aws cli authentication against ADFS (multi factor authentication with active directory)  
-score: 33/100, stars: 283  
-
-
-178. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/rasahq~rasa-sdk~avatar-25.png' />&nbsp;<a href="https://github.com/rasahq)">rasahq/</a><b><a href="https://github.com/rasahq/rasa-sdk">rasa-sdk</a></b>  
-[https://rasa.com/docs](https://rasa.com/docs)  
-SDK for the development of custom actions for Rasa  
-score: 33/100, stars: 270  
-
-
-179. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/thoth-station~micropipenv~avatar-25.png' />&nbsp;<a href="https://github.com/thoth-station)">thoth-station/</a><b><a href="https://github.com/thoth-station/micropipenv">micropipenv</a></b>  
-[https://pypi.org/project/micropipenv/](https://pypi.org/project/micropipenv/)  
-A lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output. Designed for containerized Python applications but not limited to them.  
-score: 33/100, stars: 214  
-
-
-180. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/weaviate~weaviate-python-client~avatar-25.png' />&nbsp;<a href="https://github.com/weaviate)">weaviate/</a><b><a href="https://github.com/weaviate/weaviate-python-client">weaviate-python-client</a></b>  
-[https://weaviate.io/developers/weaviate/current/client-libraries/python.html](https://weaviate.io/developers/weaviate/current/client-libraries/python.html)  
-A python native client for easy interaction with a Weaviate instance.  
-score: 33/100, stars: 61  
-
-
-181. <a href="https://github.com/cdgriffith)">cdgriffith/</a><b><a href="https://github.com/cdgriffith/box">Box</a></b>  
+169. <a href="https://github.com/cdgriffith)">cdgriffith/</a><b><a href="https://github.com/cdgriffith/box">Box</a></b>  
 [https://github.com/cdgriffith/Box/wiki](https://github.com/cdgriffith/Box/wiki)  
 Python dictionaries with advanced dot notation access  
 score: 32/100, stars: 2,268  
 
 
-182. <a href="https://github.com/nficano)">nficano/</a><b><a href="https://github.com/nficano/python-lambda">python-lambda</a></b>  
+170. <a href="https://github.com/nficano)">nficano/</a><b><a href="https://github.com/nficano/python-lambda">python-lambda</a></b>  
  A toolkit for developing and deploying serverless Python code in AWS Lambda.   
 score: 32/100, stars: 1,448  
 
 
-183. <a href="https://github.com/c4urself)">c4urself/</a><b><a href="https://github.com/c4urself/bump2version">bump2version</a></b>  
+171. <a href="https://github.com/c4urself)">c4urself/</a><b><a href="https://github.com/c4urself/bump2version">bump2version</a></b>  
 [https://pypi.python.org/pypi/bump2version](https://pypi.python.org/pypi/bump2version)  
 Version-bump your software with a single command  
 score: 32/100, stars: 1,006  
 
 
-184. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pycqa~pylint-django~avatar-25.png' />&nbsp;<a href="https://github.com/pycqa)">pycqa/</a><b><a href="https://github.com/pycqa/pylint-django">pylint-django</a></b>  
+172. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pycqa~pylint-django~avatar-25.png' />&nbsp;<a href="https://github.com/pycqa)">pycqa/</a><b><a href="https://github.com/pycqa/pylint-django">pylint-django</a></b>  
 Pylint plugin for improving code analysis for when using Django  
 score: 32/100, stars: 564  
 
 
-185. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/fastai~ghapi~avatar-25.png' />&nbsp;<a href="https://github.com/fastai)">fastai/</a><b><a href="https://github.com/fastai/ghapi">ghapi</a></b>  
+173. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/fastai~ghapi~avatar-25.png' />&nbsp;<a href="https://github.com/fastai)">fastai/</a><b><a href="https://github.com/fastai/ghapi">ghapi</a></b>  
 [https://ghapi.fast.ai/](https://ghapi.fast.ai/)  
 A delightful and complete interface to GitHub's amazing API  
 score: 32/100, stars: 474  
 
 
-186. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pycqa~docformatter~avatar-25.png' />&nbsp;<a href="https://github.com/pycqa)">pycqa/</a><b><a href="https://github.com/pycqa/docformatter">docformatter</a></b>  
+174. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pycqa~docformatter~avatar-25.png' />&nbsp;<a href="https://github.com/pycqa)">pycqa/</a><b><a href="https://github.com/pycqa/docformatter">docformatter</a></b>  
 [https://pypi.python.org/pypi/docformatter](https://pypi.python.org/pypi/docformatter)  
 Formats docstrings to follow PEP 257  
 score: 32/100, stars: 453  
 
 
-187. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/sciunto-org~python-bibtexparser~avatar-25.png' />&nbsp;<a href="https://github.com/sciunto-org)">sciunto-org/</a><b><a href="https://github.com/sciunto-org/python-bibtexparser">python-bibtexparser</a></b>  
-[https://bibtexparser.readthedocs.io](https://bibtexparser.readthedocs.io)  
-Bibtex parser for Python 3  
-score: 32/100, stars: 389  
-
-
-188. <a href="https://github.com/nschloe)">nschloe/</a><b><a href="https://github.com/nschloe/tikzplotlib">tikzplotlib</a></b>  
+175. <a href="https://github.com/nschloe)">nschloe/</a><b><a href="https://github.com/nschloe/tikzplotlib">tikzplotlib</a></b>  
 📊 Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.  
 score: 31/100, stars: 2,172  
 
 
-189. <a href="https://github.com/rasbt)">rasbt/</a><b><a href="https://github.com/rasbt/watermark">watermark</a></b>  
+176. <a href="https://github.com/rasbt)">rasbt/</a><b><a href="https://github.com/rasbt/watermark">watermark</a></b>  
 An IPython magic extension for printing date and time stamps, version numbers, and hardware information  
 score: 31/100, stars: 828  
 
 
-190. <a href="https://github.com/mrabarnett)">mrabarnett/</a><b><a href="https://github.com/mrabarnett/mrab-regex">mrab-regex</a></b>  
-mrabarnett/mrab-regex  
-score: 31/100, stars: 279  
-
-
-191. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/mamba-org~boa~avatar-25.png' />&nbsp;<a href="https://github.com/mamba-org)">mamba-org/</a><b><a href="https://github.com/mamba-org/boa">boa</a></b>  
-[https://boa-build.readthedocs.io/en/latest/](https://boa-build.readthedocs.io/en/latest/)  
-The fast conda package builder, based on mamba  
-score: 31/100, stars: 232  
-
-
-192. <a href="https://github.com/ianmiell)">ianmiell/</a><b><a href="https://github.com/ianmiell/shutit">shutit</a></b>  
+177. <a href="https://github.com/ianmiell)">ianmiell/</a><b><a href="https://github.com/ianmiell/shutit">shutit</a></b>  
 [http://ianmiell.github.io/shutit/](http://ianmiell.github.io/shutit/)  
 Automation framework for programmers  
 score: 30/100, stars: 2,140  
 
 
-193. <a href="https://github.com/bastibe)">bastibe/</a><b><a href="https://github.com/bastibe/python-soundfile">python-soundfile</a></b>  
+178. <a href="https://github.com/bastibe)">bastibe/</a><b><a href="https://github.com/bastibe/python-soundfile">python-soundfile</a></b>  
 SoundFile is an audio library based on libsndfile, CFFI, and NumPy  
 score: 30/100, stars: 586  
 
 
-194. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pylons~colander~avatar-25.png' />&nbsp;<a href="https://github.com/pylons)">pylons/</a><b><a href="https://github.com/pylons/colander">colander</a></b>  
+179. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pylons~colander~avatar-25.png' />&nbsp;<a href="https://github.com/pylons)">pylons/</a><b><a href="https://github.com/pylons/colander">colander</a></b>  
 [https://docs.pylonsproject.org/projects/colander/en/latest/](https://docs.pylonsproject.org/projects/colander/en/latest/)  
 A serialization/deserialization/validation library for strings, mappings and lists.  
 score: 30/100, stars: 440  
 
 
-195. <a href="https://github.com/ofek)">ofek/</a><b><a href="https://github.com/ofek/pypinfo">pypinfo</a></b>  
-Easily view PyPI download statistics via Google's BigQuery.  
-score: 30/100, stars: 372  
-
-
-196. <a href="https://github.com/stub42)">stub42/</a><b><a href="https://github.com/stub42/pytz">pytz</a></b>  
-pytz Python historical timezone library and database  
-score: 30/100, stars: 276  
-
-
-197. <a href="https://github.com/hugovk)">hugovk/</a><b><a href="https://github.com/hugovk/pypistats">pypistats</a></b>  
-[https://pypistats.org/api/](https://pypistats.org/api/)  
-Command-line interface to PyPI Stats API to get download stats for Python packages  
-score: 30/100, stars: 166  
-
-
-198. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/py4j~py4j~avatar-25.png' />&nbsp;<a href="https://github.com/py4j)">py4j/</a><b><a href="https://github.com/py4j/py4j">py4j</a></b>  
+180. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/py4j~py4j~avatar-25.png' />&nbsp;<a href="https://github.com/py4j)">py4j/</a><b><a href="https://github.com/py4j/py4j">py4j</a></b>  
 [https://www.py4j.org](https://www.py4j.org)  
 Py4J enables Python programs to dynamically access arbitrary Java objects  
 score: 29/100, stars: 1,098  
 
 
-199. <a href="https://github.com/julienpalard)">julienpalard/</a><b><a href="https://github.com/julienpalard/pipe">Pipe</a></b>  
+181. <a href="https://github.com/julienpalard)">julienpalard/</a><b><a href="https://github.com/julienpalard/pipe">Pipe</a></b>  
 A Python library to use infix notation in Python  
 score: 26/100, stars: 1,730  
 
 
-200. <a href="https://github.com/sethmmorton)">sethmmorton/</a><b><a href="https://github.com/sethmmorton/natsort">natsort</a></b>  
+182. <a href="https://github.com/sethmmorton)">sethmmorton/</a><b><a href="https://github.com/sethmmorton/natsort">natsort</a></b>  
 [https://pypi.org/project/natsort/](https://pypi.org/project/natsort/)  
 Simple yet flexible natural sorting in Python.  
 score: 26/100, stars: 792  
 
 
-201. <a href="https://github.com/joowani)">joowani/</a><b><a href="https://github.com/joowani/binarytree">binarytree</a></b>  
+183. <a href="https://github.com/joowani)">joowani/</a><b><a href="https://github.com/joowani/binarytree">binarytree</a></b>  
 [http://binarytree.readthedocs.io](http://binarytree.readthedocs.io)  
 Python Library for Studying Binary Trees  
 score: 25/100, stars: 1,785  
 
 
-202. <a href="https://github.com/asweigart)">asweigart/</a><b><a href="https://github.com/asweigart/pyperclip">pyperclip</a></b>  
+184. <a href="https://github.com/asweigart)">asweigart/</a><b><a href="https://github.com/asweigart/pyperclip">pyperclip</a></b>  
 [https://pypi.python.org/pypi/pyperclip](https://pypi.python.org/pypi/pyperclip)  
 Python module for cross-platform clipboard functions.  
 score: 25/100, stars: 1,443  
 
 
-203. <a href="https://github.com/ivankorobkov)">ivankorobkov/</a><b><a href="https://github.com/ivankorobkov/python-inject">python-inject</a></b>  
+185. <a href="https://github.com/ivankorobkov)">ivankorobkov/</a><b><a href="https://github.com/ivankorobkov/python-inject">python-inject</a></b>  
 Python dependency injection  
 score: 25/100, stars: 575  
 
 
-204. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/serpapi~google-search-results-python~avatar-25.png' />&nbsp;<a href="https://github.com/serpapi)">serpapi/</a><b><a href="https://github.com/serpapi/google-search-results-python">google-search-results-python</a></b>  
+186. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/serpapi~google-search-results-python~avatar-25.png' />&nbsp;<a href="https://github.com/serpapi)">serpapi/</a><b><a href="https://github.com/serpapi/google-search-results-python">google-search-results-python</a></b>  
 Google Search Results via SERP API pip Python Package  
 score: 25/100, stars: 424  
 
 
-205. <a href="https://github.com/carlospuenteg)">carlospuenteg/</a><b><a href="https://github.com/carlospuenteg/file-injector">File-Injector</a></b>  
+187. <a href="https://github.com/carlospuenteg)">carlospuenteg/</a><b><a href="https://github.com/carlospuenteg/file-injector">File-Injector</a></b>  
 File Injector is a script that allows you to store any file in an image using steganography  
 score: 25/100, stars: 414  
 
 
-206. <a href="https://github.com/tiangolo)">tiangolo/</a><b><a href="https://github.com/tiangolo/poetry-version-plugin">poetry-version-plugin</a></b>  
-Poetry plugin for dynamically extracting the package version from a __version__ variable or a Git tag.  
-score: 25/100, stars: 309  
-
-
-207. <a href="https://github.com/metachris)">metachris/</a><b><a href="https://github.com/metachris/logzero">logzero</a></b>  
+188. <a href="https://github.com/metachris)">metachris/</a><b><a href="https://github.com/metachris/logzero">logzero</a></b>  
 [https://logzero.readthedocs.io](https://logzero.readthedocs.io)  
 Robust and effective logging for Python 2 and 3.  
 score: 24/100, stars: 1,028  
 
 
-208. <a href="https://github.com/alex-sherman)">alex-sherman/</a><b><a href="https://github.com/alex-sherman/unsync">unsync</a></b>  
+189. <a href="https://github.com/alex-sherman)">alex-sherman/</a><b><a href="https://github.com/alex-sherman/unsync">unsync</a></b>  
 Unsynchronize asyncio  
 score: 24/100, stars: 845  
 
 
-209. <a href="https://github.com/clarete)">clarete/</a><b><a href="https://github.com/clarete/forbiddenfruit">forbiddenfruit</a></b>  
+190. <a href="https://github.com/clarete)">clarete/</a><b><a href="https://github.com/clarete/forbiddenfruit">forbiddenfruit</a></b>  
 [https://clarete.li/forbiddenfruit/](https://clarete.li/forbiddenfruit/)  
 Patch built-in python objects  
 score: 22/100, stars: 786  
 
 
-210. <a href="https://github.com/heuer)">heuer/</a><b><a href="https://github.com/heuer/segno">segno</a></b>  
+191. <a href="https://github.com/heuer)">heuer/</a><b><a href="https://github.com/heuer/segno">segno</a></b>  
 [https://pypi.org/project/segno/](https://pypi.org/project/segno/)  
 Python QR Code and Micro QR Code encoder  
 score: 21/100, stars: 450  
 
 
-211. <a href="https://github.com/proofit404)">proofit404/</a><b><a href="https://github.com/proofit404/dependencies">dependencies</a></b>  
-[https://proofit404.github.io/dependencies/](https://proofit404.github.io/dependencies/)  
-Constructor injection designed with OOP in mind.  
-score: 20/100, stars: 342  
-
-
-212. <a href="https://github.com/kellyjonbrazil)">kellyjonbrazil/</a><b><a href="https://github.com/kellyjonbrazil/jello">jello</a></b>  
+192. <a href="https://github.com/kellyjonbrazil)">kellyjonbrazil/</a><b><a href="https://github.com/kellyjonbrazil/jello">jello</a></b>  
 CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)  
 score: 19/100, stars: 409  
 
 
-213. <a href="https://github.com/brandon-rhodes)">brandon-rhodes/</a><b><a href="https://github.com/brandon-rhodes/python-patterns">python-patterns</a></b>  
+193. <a href="https://github.com/brandon-rhodes)">brandon-rhodes/</a><b><a href="https://github.com/brandon-rhodes/python-patterns">python-patterns</a></b>  
 Source code behind the python-patterns.guide site by Brandon Rhodes  
 score: 18/100, stars: 1,130  
-
-
-214. <a href="https://github.com/pyyoshi)">pyyoshi/</a><b><a href="https://github.com/pyyoshi/cchardet">cChardet</a></b>  
-universal character encoding detector  
-score: 18/100, stars: 368  
-
-
-215. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/paperswithcode~axcell~avatar-25.png' />&nbsp;<a href="https://github.com/paperswithcode)">paperswithcode/</a><b><a href="https://github.com/paperswithcode/axcell">axcell</a></b>  
-Tools for extracting tables and results from Machine Learning papers  
-score: 15/100, stars: 361  
-
-
-216. <a href="https://github.com/mnooner256)">mnooner256/</a><b><a href="https://github.com/mnooner256/pyqrcode">pyqrcode</a></b>  
-Python 3 module to generate QR Codes  
-score: 12/100, stars: 391  
 
 
 ## Vizualisation
@@ -7854,31 +7239,15 @@ Automated Security Testing For REST API's
 score: 32/100, stars: 2,332  
 
 
-50. <a href="https://github.com/alirn76)">alirn76/</a><b><a href="https://github.com/alirn76/panther">panther</a></b>  
-[https://pantherpy.github.io](https://pantherpy.github.io)  
-Fast & Friendly Python Web Framework  
-score: 32/100, stars: 161  
-
-
-51. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/magicstack~httptools~avatar-25.png' />&nbsp;<a href="https://github.com/magicstack)">magicstack/</a><b><a href="https://github.com/magicstack/httptools">httptools</a></b>  
+50. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/magicstack~httptools~avatar-25.png' />&nbsp;<a href="https://github.com/magicstack)">magicstack/</a><b><a href="https://github.com/magicstack/httptools">httptools</a></b>  
 Fast HTTP parser  
 score: 31/100, stars: 1,131  
 
 
-52. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pylons~webob~avatar-25.png' />&nbsp;<a href="https://github.com/pylons)">pylons/</a><b><a href="https://github.com/pylons/webob">webob</a></b>  
+51. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pylons~webob~avatar-25.png' />&nbsp;<a href="https://github.com/pylons)">pylons/</a><b><a href="https://github.com/pylons/webob">webob</a></b>  
 [https://webob.org/](https://webob.org/)  
 WSGI request and response objects  
 score: 30/100, stars: 426  
-
-
-53. <img width='25px' height='25px' src='https://www.awesomepython.org/data_avatars/pyscript~pyscript-cli~avatar-25.png' />&nbsp;<a href="https://github.com/pyscript)">pyscript/</a><b><a href="https://github.com/pyscript/pyscript-cli">pyscript-cli</a></b>  
-A CLI for PyScript  
-score: 30/100, stars: 155  
-
-
-54. <a href="https://github.com/dmontagu)">dmontagu/</a><b><a href="https://github.com/dmontagu/fastapi_client">fastapi_client</a></b>  
-FastAPI client generator  
-score: 15/100, stars: 315  
 
 
 ---  
