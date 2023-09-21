@@ -4,6 +4,8 @@
 with an emphasis on data and machine learning, organised by category 🐍  
 
 Checkout the interactive version: [www.awesomepython.org](https://www.awesomepython.org/) 🔥  
+  
+Last updated on 21 Sep 2023
 
 
 ## Categories
@@ -7330,4 +7332,4 @@ Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new 
 The influence Score value is loosely based on the <a href="https://github.com/ossf/criticality_score">OpenSSF criticality score calculation</a> which defines the influence and importance of a project.  
 
 
-This list was updated on 2023-09-21
+Last updated on 21 Sep 2023
