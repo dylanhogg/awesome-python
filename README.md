@@ -7,7 +7,7 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/)
   
 <img src='https://www.awesomepython.org/img/media/github-repo-banner.jpg' />  
 
-Updated 09 Dec 2023
+Updated 01 Jan 2024
 
 
 ## Categories
@@ -22,7 +22,7 @@ Updated 09 Dec 2023
 - [Graph](https://github.com/dylanhogg/awesome-python#graph) (4)
 - [GUI](https://github.com/dylanhogg/awesome-python#gui) (8)
 - [Jupyter](https://github.com/dylanhogg/awesome-python#jupyter) (24)
-- [LLMs and ChatGPT](https://github.com/dylanhogg/awesome-python#llms-and-chatgpt) (180)
+- [LLMs and ChatGPT](https://github.com/dylanhogg/awesome-python#llms-and-chatgpt) (176)
 - [Math and Science](https://github.com/dylanhogg/awesome-python#math-and-science) (11)
 - [Machine Learning - General](https://github.com/dylanhogg/awesome-python#machine-learning---general) (139)
 - [Machine Learning - Deep Learning](https://github.com/dylanhogg/awesome-python#machine-learning---deep-learning) (69)
@@ -37,7 +37,7 @@ Updated 09 Dec 2023
 - [Security](https://github.com/dylanhogg/awesome-python#security) (10)
 - [Simulation](https://github.com/dylanhogg/awesome-python#simulation) (22)
 - [Study](https://github.com/dylanhogg/awesome-python#study) (47)
-- [Template](https://github.com/dylanhogg/awesome-python#template) (9)
+- [Template](https://github.com/dylanhogg/awesome-python#template) (8)
 - [Terminal](https://github.com/dylanhogg/awesome-python#terminal) (14)
 - [Testing](https://github.com/dylanhogg/awesome-python#testing) (21)
 - [Typing](https://github.com/dylanhogg/awesome-python#typing) (9)
@@ -2011,28 +2011,9 @@ Ask Me Anything language model prompting
 Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.  
 ⭐ 501
 
-176. <a href="https://github.com/opengvlab/omniquant">opengvlab/</a><b><a href="https://github.com/opengvlab/omniquant">OmniQuant</a></b>  
-OmniQuant is a simple and powerful quantization technique for LLMs.   
-⭐ 423
-
-177. <a href="https://github.com/predibase/lorax">predibase/</a><b><a href="https://github.com/predibase/lorax">lorax</a></b>  
+176. <a href="https://github.com/predibase/lorax">predibase/</a><b><a href="https://github.com/predibase/lorax">lorax</a></b>  
 Serve 1000s of Fine-Tuned LLMs in Production for the Cost of 1  
 ⭐ 395
-
-178. <a href="https://github.com/langchain-ai/langsmith-cookbook">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langsmith-cookbook">langsmith-cookbook</a></b>  
-LangSmith is a platform for building production-grade LLM applications.  
-🔗 [langsmith-cookbook.vercel.app](https://langsmith-cookbook.vercel.app)  
-⭐ 394
-
-179. <a href="https://github.com/tigerlab-ai/tiger">tigerlab-ai/</a><b><a href="https://github.com/tigerlab-ai/tiger">tiger</a></b>  
-Open Source LLM toolkit to build trustworthy LLM applications. TigerArmor (AI safety), TigerRAG (embedding, RAG), TigerTune (fine-tuning)  
-🔗 [www.tigerlab.ai](https://www.tigerlab.ai)  
-⭐ 340
-
-180. <a href="https://github.com/bobazooba/xllm">bobazooba/</a><b><a href="https://github.com/bobazooba/xllm">xllm</a></b>  
-🦖 X—LLM: Cutting Edge & Easy LLM Finetuning  
-🔗 [t.me/talequestbot](https://t.me/talequestbot)  
-⭐ 259
 
 ## Math and Science
 Maths and science libraries.  
@@ -4446,10 +4427,6 @@ Hypermodern Python Cookiecutter
 Blueprint/Boilerplate For Python Projects  
 ⭐ 930
 
-9. <a href="https://github.com/asacristani/fastapi-rocket-boilerplate">asacristani/</a><b><a href="https://github.com/asacristani/fastapi-rocket-boilerplate">fastapi-rocket-boilerplate</a></b>  
-🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!  
-⭐ 361
-
 ## Terminal
 Terminal and console tools and libraries: CLI tools, terminal based formatters, progress bars etc.  
 
@@ -6053,4 +6030,4 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/)
 Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new issue</a> to suggest a Python repo that you would like to see added.  
 
 
-1,268 hand-picked awesome Python libraries and frameworks, updated 09 Dec 2023
+1,263 hand-picked awesome Python libraries and frameworks, updated 01 Jan 2024
