@@ -12,39 +12,39 @@ Updated 21 Feb 2024
 
 ## Categories
 
-- [Crypto and Blockchain](https://github.com/dylanhogg/awesome-python#crypto-and-blockchain) (12)
-- [Data](https://github.com/dylanhogg/awesome-python#data) (93)
-- [Debugging](https://github.com/dylanhogg/awesome-python#debugging) (9)
-- [Diffusion Text to Image](https://github.com/dylanhogg/awesome-python#diffusion-text-to-image) (35)
-- [Finance](https://github.com/dylanhogg/awesome-python#finance) (31)
-- [Game Development](https://github.com/dylanhogg/awesome-python#game-development) (6)
-- [GIS](https://github.com/dylanhogg/awesome-python#gis) (27)
-- [Graph](https://github.com/dylanhogg/awesome-python#graph) (4)
-- [GUI](https://github.com/dylanhogg/awesome-python#gui) (8)
-- [Jupyter](https://github.com/dylanhogg/awesome-python#jupyter) (24)
-- [LLMs and ChatGPT](https://github.com/dylanhogg/awesome-python#llms-and-chatgpt) (202)
-- [Math and Science](https://github.com/dylanhogg/awesome-python#math-and-science) (14)
-- [Machine Learning - General](https://github.com/dylanhogg/awesome-python#machine-learning---general) (150)
-- [Machine Learning - Deep Learning](https://github.com/dylanhogg/awesome-python#machine-learning---deep-learning) (69)
-- [Machine Learning - Interpretability](https://github.com/dylanhogg/awesome-python#machine-learning---interpretability) (13)
-- [Machine Learning - Ops](https://github.com/dylanhogg/awesome-python#machine-learning---ops) (40)
-- [Machine Learning - Reinforcement](https://github.com/dylanhogg/awesome-python#machine-learning---reinforcement) (21)
-- [Machine Learning - Time Series](https://github.com/dylanhogg/awesome-python#machine-learning---time-series) (17)
-- [Natural Language Processing](https://github.com/dylanhogg/awesome-python#natural-language-processing) (80)
-- [Packaging](https://github.com/dylanhogg/awesome-python#packaging) (20)
-- [Pandas](https://github.com/dylanhogg/awesome-python#pandas) (23)
-- [Performance](https://github.com/dylanhogg/awesome-python#performance) (28)
-- [Profiling](https://github.com/dylanhogg/awesome-python#profiling) (11)
-- [Security](https://github.com/dylanhogg/awesome-python#security) (11)
-- [Simulation](https://github.com/dylanhogg/awesome-python#simulation) (25)
-- [Study](https://github.com/dylanhogg/awesome-python#study) (51)
-- [Template](https://github.com/dylanhogg/awesome-python#template) (8)
-- [Terminal](https://github.com/dylanhogg/awesome-python#terminal) (14)
-- [Testing](https://github.com/dylanhogg/awesome-python#testing) (21)
-- [Typing](https://github.com/dylanhogg/awesome-python#typing) (9)
-- [Utility](https://github.com/dylanhogg/awesome-python#utility) (193)
-- [Vizualisation](https://github.com/dylanhogg/awesome-python#vizualisation) (30)
-- [Web](https://github.com/dylanhogg/awesome-python#web) (52)
+- [Crypto and Blockchain](#crypto-and-blockchain) (12)
+- [Data](#data) (93)
+- [Debugging](#debugging) (9)
+- [Diffusion Text to Image](#diffusion-text-to-image) (35)
+- [Finance](#finance) (31)
+- [Game Development](#game-development) (6)
+- [GIS](#gis) (27)
+- [Graph](#graph) (4)
+- [GUI](#gui) (8)
+- [Jupyter](#jupyter) (24)
+- [LLMs and ChatGPT](#llms-and-chatgpt) (202)
+- [Math and Science](#math-and-science) (14)
+- [Machine Learning - General](#machine-learning---general) (150)
+- [Machine Learning - Deep Learning](#machine-learning---deep-learning) (69)
+- [Machine Learning - Interpretability](#machine-learning---interpretability) (13)
+- [Machine Learning - Ops](#machine-learning---ops) (40)
+- [Machine Learning - Reinforcement](#machine-learning---reinforcement) (21)
+- [Machine Learning - Time Series](#machine-learning---time-series) (17)
+- [Natural Language Processing](#natural-language-processing) (80)
+- [Packaging](#packaging) (22)
+- [Pandas](#pandas) (23)
+- [Performance](#performance) (28)
+- [Profiling](#profiling) (11)
+- [Security](#security) (11)
+- [Simulation](#simulation) (25)
+- [Study](#study) (51)
+- [Template](#template) (8)
+- [Terminal](#terminal) (14)
+- [Testing](#testing) (21)
+- [Typing](#typing) (9)
+- [Utility](#utility) (191)
+- [Vizualisation](#vizualisation) (30)
+- [Web](#web) (52)
 
 
 ## Crypto and Blockchain
@@ -275,7 +275,7 @@ PyMongo - the Official MongoDB Python driver
 ⭐ 4,009
 
 36. <a href="https://github.com/ibis-project/ibis">ibis-project/</a><b><a href="https://github.com/ibis-project/ibis">ibis</a></b>  
-The flexibility of Python with the scale and performance of modern SQL.  
+Ibis is a Python library that provides a lightweight, universal interface for data wrangling. It helps Python users explore and transform data of any size, stored anywhere.  
 🔗 [ibis-project.org](https://ibis-project.org)  
 ⭐ 3,682
 
@@ -527,7 +527,7 @@ Natural Intelligence is still a pretty good idea.
 ⭐ 725
 
 89. <a href="https://github.com/googleapis/python-bigquery">googleapis/</a><b><a href="https://github.com/googleapis/python-bigquery">python-bigquery</a></b>  
-googleapis/python-bigquery  
+Python Client for Google BigQuery  
 ⭐ 695
 
 90. <a href="https://github.com/duckdb/dbt-duckdb">duckdb/</a><b><a href="https://github.com/duckdb/dbt-duckdb">dbt-duckdb</a></b>  
@@ -540,7 +540,7 @@ A HugSQL-inspired database library for Python
 ⭐ 656
 
 92. <a href="https://github.com/goccy/bigquery-emulator">goccy/</a><b><a href="https://github.com/goccy/bigquery-emulator">bigquery-emulator</a></b>  
-BigQuery emulator server implemented in Go  
+BigQuery emulator provides a way to launch a BigQuery server on your local machine for testing and development.  
 ⭐ 650
 
 93. <a href="https://github.com/dgarnitz/vectorflow">dgarnitz/</a><b><a href="https://github.com/dgarnitz/vectorflow">vectorflow</a></b>  
@@ -723,7 +723,7 @@ Stable Diffusion in TensorFlow / Keras
 ⭐ 1,556
 
 31. <a href="https://github.com/coyote-a/ultimate-upscale-for-automatic1111">coyote-a/</a><b><a href="https://github.com/coyote-a/ultimate-upscale-for-automatic1111">ultimate-upscale-for-automatic1111</a></b>  
-coyote-a/ultimate-upscale-for-automatic1111  
+Ultimate SD Upscale extension for AUTOMATIC1111 Stable Diffusion web UI  
 ⭐ 1,392
 
 32. <a href="https://github.com/nvlabs/prismer">nvlabs/</a><b><a href="https://github.com/nvlabs/prismer">prismer</a></b>  
@@ -1111,7 +1111,7 @@ A Python native, OS native GUI toolkit.
 ⭐ 4,038
 
 6. <a href="https://github.com/samuelcolvin/fastui">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/fastui">FastUI</a></b>  
-Build better UIs faster.  
+FastUI is a new way to build web application user interfaces defined by declarative Python code.  
 🔗 [fastui-demo.onrender.com](https://fastui-demo.onrender.com)  
 ⭐ 3,655
 
@@ -1496,7 +1496,7 @@ ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open
 ⭐ 9,155
 
 56. <a href="https://github.com/shishirpatil/gorilla">shishirpatil/</a><b><a href="https://github.com/shishirpatil/gorilla">gorilla</a></b>  
-Gorilla: An API store for LLMs  
+Enables LLMs to use tools by invoking APIs. Given a query, Gorilla comes up with the semantically and syntactically correct API.  
 🔗 [gorilla.cs.berkeley.edu](https://gorilla.cs.berkeley.edu/)  
 ⭐ 8,982
 
@@ -1576,7 +1576,7 @@ BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型�
 ⭐ 7,271
 
 73. <a href="https://github.com/openlm-research/open_llama">openlm-research/</a><b><a href="https://github.com/openlm-research/open_llama">open_llama</a></b>  
-OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset  
+OpenLLaMA: An Open Reproduction of LLaMA  
 ⭐ 7,084
 
 74. <a href="https://github.com/assafelovic/gpt-researcher">assafelovic/</a><b><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></b>  
@@ -1701,7 +1701,7 @@ Build Conversational AI in minutes ⚡️
 ⭐ 4,681
 
 101. <a href="https://github.com/microsoft/promptbase">microsoft/</a><b><a href="https://github.com/microsoft/promptbase">promptbase</a></b>  
-All things prompt engineering  
+promptbase is an evolving collection of resources, best practices, and example scripts for eliciting the best performance from foundation models.  
 ⭐ 4,679
 
 102. <a href="https://github.com/langchain-ai/chat-langchain">langchain-ai/</a><b><a href="https://github.com/langchain-ai/chat-langchain">chat-langchain</a></b>  
@@ -1710,7 +1710,7 @@ Locally hosted chatbot specifically focused on question answering over the LangC
 ⭐ 4,399
 
 103. <a href="https://github.com/microsoft/biogpt">microsoft/</a><b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b>  
-microsoft/BioGPT  
+Implementation of BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining  
 ⭐ 4,189
 
 104. <a href="https://github.com/togethercomputer/redpajama-data">togethercomputer/</a><b><a href="https://github.com/togethercomputer/redpajama-data">RedPajama-Data</a></b>  
@@ -1799,7 +1799,7 @@ NeMo Guardrails is an open-source toolkit for easily adding programmable guardra
 ⭐ 3,026
 
 123. <a href="https://github.com/allenai/olmo">allenai/</a><b><a href="https://github.com/allenai/olmo">OLMo</a></b>  
-Modeling, training, eval, and inference code for OLMo  
+OLMo is a repository for training and using AI2's state-of-the-art open language models. It is built by scientists, for scientists.  
 🔗 [allenai.org/olmo](https://allenai.org/olmo)  
 ⭐ 2,996
 
@@ -1809,7 +1809,7 @@ General technology for enabling AI capabilities w/ LLMs and MLLMs
 ⭐ 2,954
 
 125. <a href="https://github.com/guardrails-ai/guardrails">guardrails-ai/</a><b><a href="https://github.com/guardrails-ai/guardrails">guardrails</a></b>  
-Adding guardrails to large language models.  
+Open-source Python package for specifying structure and type, validating and correcting the outputs of large language models (LLMs)  
 🔗 [docs.guardrailsai.com](https://docs.guardrailsai.com/)  
 ⭐ 2,917
 
@@ -1868,7 +1868,7 @@ SoTA LLM for converting natural language questions to SQL queries
 ⭐ 2,333
 
 138. <a href="https://github.com/phidatahq/phidata">phidatahq/</a><b><a href="https://github.com/phidatahq/phidata">phidata</a></b>  
-Build AI Assistants using function calling  
+Phidata is a toolkit for building AI Assistants using function calling.  
 🔗 [docs.phidata.com](https://docs.phidata.com)  
 ⭐ 2,312
 
@@ -2002,7 +2002,7 @@ LangGraph is a library for building stateful, multi-actor applications with LLMs
 ⭐ 1,367
 
 168. <a href="https://github.com/farizrahman4u/loopgpt">farizrahman4u/</a><b><a href="https://github.com/farizrahman4u/loopgpt">loopgpt</a></b>  
-Modular Auto-GPT Framework  
+Re-implementation of Auto-GPT as a python package, written with modularity and extensibility in mind.  
 ⭐ 1,359
 
 169. <a href="https://github.com/explosion/spacy-transformers">explosion/</a><b><a href="https://github.com/explosion/spacy-transformers">spacy-transformers</a></b>  
@@ -2103,7 +2103,7 @@ Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
 ⭐ 845
 
 190. <a href="https://github.com/cerebras/modelzoo">cerebras/</a><b><a href="https://github.com/cerebras/modelzoo">modelzoo</a></b>  
-cerebras/modelzoo  
+Examples of common deep learning models that can be trained on Cerebras hardware  
 ⭐ 802
 
 191. <a href="https://github.com/muennighoff/sgpt">muennighoff/</a><b><a href="https://github.com/muennighoff/sgpt">sgpt</a></b>  
@@ -2215,7 +2215,7 @@ Computations and statistics on manifolds with geometric structures.
 ⭐ 1,122
 
 12. <a href="https://github.com/cma-es/pycma">cma-es/</a><b><a href="https://github.com/cma-es/pycma">pycma</a></b>  
-Python implementation of CMA-ES  
+pycma is a Python implementation of CMA-ES and a few related numerical optimization tools.  
 ⭐ 995
 
 13. <a href="https://github.com/sj001/ai-feynman">sj001/</a><b><a href="https://github.com/sj001/ai-feynman">AI-Feynman</a></b>  
@@ -2244,7 +2244,7 @@ GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 ⭐ 34,028
 
 4. <a href="https://github.com/google-research/google-research">google-research/</a><b><a href="https://github.com/google-research/google-research">google-research</a></b>  
-Google Research  
+This repository contains code released by Google Research  
 🔗 [research.google](https://research.google)  
 ⭐ 32,181
 
@@ -2325,7 +2325,7 @@ An open source AutoML toolkit for automate machine learning lifecycle, including
 ⭐ 13,593
 
 21. <a href="https://github.com/ml-explore/mlx">ml-explore/</a><b><a href="https://github.com/ml-explore/mlx">mlx</a></b>  
-MLX: An array framework for Apple silicon  
+MLX is an array framework for machine learning on Apple silicon, brought to you by Apple machine learning research.  
 ⭐ 12,650
 
 22. <a href="https://github.com/jindongwang/transferlearning">jindongwang/</a><b><a href="https://github.com/jindongwang/transferlearning">transferlearning</a></b>  
@@ -2352,7 +2352,7 @@ ONNX Runtime: cross-platform, high performance ML inferencing and training accel
 ⭐ 12,000
 
 27. <a href="https://github.com/deepmind/alphafold">deepmind/</a><b><a href="https://github.com/deepmind/alphafold">alphafold</a></b>  
-Open source code for AlphaFold.  
+Implementation of the inference pipeline of AlphaFold v2  
 ⭐ 11,388
 
 28. <a href="https://github.com/neonbjb/tortoise-tts">neonbjb/</a><b><a href="https://github.com/neonbjb/tortoise-tts">tortoise-tts</a></b>  
@@ -2639,7 +2639,7 @@ Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parame
 ⭐ 2,887
 
 89. <a href="https://github.com/huggingface/autotrain-advanced">huggingface/</a><b><a href="https://github.com/huggingface/autotrain-advanced">autotrain-advanced</a></b>  
-🤗 AutoTrain Advanced  
+AutoTrain Advanced: faster and easier training and deployments of state-of-the-art machine learning models  
 🔗 [huggingface.co/autotrain](https://huggingface.co/autotrain)  
 ⭐ 2,798
 
@@ -2687,11 +2687,11 @@ A library of sklearn compatible categorical variable encoders
 ⭐ 2,345
 
 99. <a href="https://github.com/google-research/t5x">google-research/</a><b><a href="https://github.com/google-research/t5x">t5x</a></b>  
-google-research/t5x  
+T5X is a modular, composable, research-friendly framework for high-performance, configurable, self-service training, evaluation, and inference of sequence models (starting with language) at many scales.  
 ⭐ 2,338
 
 100. <a href="https://github.com/freedmand/semantra">freedmand/</a><b><a href="https://github.com/freedmand/semantra">semantra</a></b>  
-Multi-tool for semantic search  
+Semantra is a multipurpose tool for semantically searching documents. Query by meaning rather than just by matching text.  
 ⭐ 2,174
 
 101. <a href="https://github.com/aws/sagemaker-python-sdk">aws/</a><b><a href="https://github.com/aws/sagemaker-python-sdk">sagemaker-python-sdk</a></b>  
@@ -2857,7 +2857,7 @@ PyTorch Re-Implementation of "The Sparsely-Gated Mixture-of-Experts Layer" by No
 ⭐ 752
 
 136. <a href="https://github.com/oml-team/open-metric-learning">oml-team/</a><b><a href="https://github.com/oml-team/open-metric-learning">open-metric-learning</a></b>  
-Library for metric learning pipelines and models.  
+OML is a PyTorch-based framework to train and validate the models producing high-quality embeddings.  
 🔗 [open-metric-learning.readthedocs.io/en/latest/index.html](https://open-metric-learning.readthedocs.io/en/latest/index.html)  
 ⭐ 737
 
@@ -2886,7 +2886,7 @@ Large-scale model inference.
 ⭐ 630
 
 142. <a href="https://github.com/awslabs/python-deequ">awslabs/</a><b><a href="https://github.com/awslabs/python-deequ">python-deequ</a></b>  
-Python API for Deequ  
+Python API for Deequ, a library built on Spark for defining "unit tests for data", which measure data quality in large datasets  
 ⭐ 625
 
 143. <a href="https://github.com/qdrant/fastembed">qdrant/</a><b><a href="https://github.com/qdrant/fastembed">fastembed</a></b>  
@@ -3290,7 +3290,7 @@ AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, 
 ⭐ 2,134
 
 10. <a href="https://github.com/eleutherai/pythia">eleutherai/</a><b><a href="https://github.com/eleutherai/pythia">pythia</a></b>  
-The hub for EleutherAI's work on interpretability and learning dynamics  
+Interpretability analysis and scaling laws to understand how knowledge develops and evolves during training in autoregressive transformers  
 ⭐ 1,886
 
 11. <a href="https://github.com/jalammar/ecco">jalammar/</a><b><a href="https://github.com/jalammar/ecco">ecco</a></b>  
@@ -3736,7 +3736,7 @@ A PyTorch-based Speech Toolkit
 ⭐ 7,280
 
 27. <a href="https://github.com/vikparuchuri/marker">vikparuchuri/</a><b><a href="https://github.com/vikparuchuri/marker">marker</a></b>  
-Convert PDF to markdown quickly with high accuracy  
+Marker converts PDF, EPUB, and MOBI to markdown. It's 10x faster than nougat, more accurate on most documents, and has low hallucination risk.  
 ⭐ 6,565
 
 28. <a href="https://github.com/deeppavlov/deeppavlov">deeppavlov/</a><b><a href="https://github.com/deeppavlov/deeppavlov">DeepPavlov</a></b>  
@@ -3750,7 +3750,7 @@ An open source library for deep learning end-to-end dialog systems and chatbots.
 ⭐ 6,465
 
 30. <a href="https://github.com/facebookresearch/metaseq">facebookresearch/</a><b><a href="https://github.com/facebookresearch/metaseq">metaseq</a></b>  
-Repo for external large-scale work  
+A codebase for working with Open Pre-trained Transformers, originally forked from fairseq.  
 ⭐ 6,323
 
 31. <a href="https://github.com/kingoflolz/mesh-transformer-jax">kingoflolz/</a><b><a href="https://github.com/kingoflolz/mesh-transformer-jax">mesh-transformer-jax</a></b>  
@@ -3982,7 +3982,7 @@ Modular Natural Language Processing workflows with Keras
 Python packaging, dependency management and bundling.  
 
 1. <a href="https://github.com/pyenv/pyenv">pyenv/</a><b><a href="https://github.com/pyenv/pyenv">pyenv</a></b>  
-Simple Python version management  
+pyenv lets you easily switch between multiple versions of Python.  
 ⭐ 35,504
 
 2. <a href="https://github.com/python-poetry/poetry">python-poetry/</a><b><a href="https://github.com/python-poetry/poetry">poetry</a></b>  
@@ -3991,7 +3991,7 @@ Python packaging and dependency management made easy
 ⭐ 28,611
 
 3. <a href="https://github.com/pypa/pipenv">pypa/</a><b><a href="https://github.com/pypa/pipenv">pipenv</a></b>  
- Python Development Workflow for Humans.  
+A virtualenv management tool that supports a multitude of systems and nicely bridges the gaps between pip, python and virtualenv.  
 🔗 [pipenv.pypa.io](https://pipenv.pypa.io)  
 ⭐ 24,457
 
@@ -4006,7 +4006,7 @@ a Hassle-Free Python Experience
 ⭐ 9,990
 
 6. <a href="https://github.com/jazzband/pip-tools">jazzband/</a><b><a href="https://github.com/jazzband/pip-tools">pip-tools</a></b>  
-A set of tools to keep your pinned Python dependencies fresh.  
+A set of tools to keep your pinned Python dependencies fresh (pip-compile + pip-sync)  
 🔗 [pip-tools.rtfd.io](https://pip-tools.rtfd.io)  
 ⭐ 7,358
 
@@ -4021,12 +4021,12 @@ A system-level, binary package and environment manager running on all major oper
 ⭐ 5,987
 
 9. <a href="https://github.com/mamba-org/mamba">mamba-org/</a><b><a href="https://github.com/mamba-org/mamba">mamba</a></b>  
-The Fast Cross-Platform Package Manager  
+The Fast Cross-Platform Package Manager: mamba is a reimplementation of the conda package manager in C++  
 🔗 [mamba.readthedocs.io](https://mamba.readthedocs.io)  
 ⭐ 5,868
 
 10. <a href="https://github.com/astral-sh/uv">astral-sh/</a><b><a href="https://github.com/astral-sh/uv">uv</a></b>  
-An extremely fast Python package installer and resolver, written in Rust.  
+An extremely fast Python package installer and resolver, written in Rust. Designed as a drop-in replacement for pip and pip-compile.  
 🔗 [astral.sh](https://astral.sh/)  
 ⭐ 5,671
 
@@ -4045,7 +4045,7 @@ A conda-forge distribution.
 ⭐ 4,848
 
 14. <a href="https://github.com/pypa/virtualenv">pypa/</a><b><a href="https://github.com/pypa/virtualenv">virtualenv</a></b>  
-Virtual Python Environment builder  
+A tool to create isolated Python environments. Since Python 3.3, a subset of it has been integrated into the standard lib venv module.  
 🔗 [virtualenv.pypa.io](https://virtualenv.pypa.io)  
 ⭐ 4,642
 
@@ -4069,12 +4069,22 @@ Simplified packaging of Python modules
 🔗 [flit.pypa.io](https://flit.pypa.io/)  
 ⭐ 2,070
 
-19. <a href="https://github.com/py2exe/py2exe">py2exe/</a><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b>  
+19. <a href="https://github.com/ofek/pyapp">ofek/</a><b><a href="https://github.com/ofek/pyapp">pyapp</a></b>  
+Runtime installer for Python applications  
+🔗 [ofek.dev/pyapp](https://ofek.dev/pyapp/)  
+⭐ 975
+
+20. <a href="https://github.com/pypa/gh-action-pypi-publish">pypa/</a><b><a href="https://github.com/pypa/gh-action-pypi-publish">gh-action-pypi-publish</a></b>  
+The blessed :octocat: GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish  
+🔗 [packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/)  
+⭐ 795
+
+21. <a href="https://github.com/py2exe/py2exe">py2exe/</a><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b>  
 Create standalone Windows programs from Python code  
 🔗 [www.py2exe.org](http://www.py2exe.org)  
 ⭐ 722
 
-20. <a href="https://github.com/snok/install-poetry">snok/</a><b><a href="https://github.com/snok/install-poetry">install-poetry</a></b>  
+22. <a href="https://github.com/snok/install-poetry">snok/</a><b><a href="https://github.com/snok/install-poetry">install-poetry</a></b>  
 Github action for installing and configuring Poetry  
 ⭐ 506
 
@@ -4112,7 +4122,7 @@ PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 ⭐ 8,895
 
 7. <a href="https://github.com/rapidsai/cudf">rapidsai/</a><b><a href="https://github.com/rapidsai/cudf">cudf</a></b>  
-cuDF - GPU DataFrame Library   
+cuDF is a GPU DataFrame library for loading joining, aggregating, filtering, and otherwise manipulating data  
 🔗 [docs.rapids.ai/api/cudf/stable](https://docs.rapids.ai/api/cudf/stable/)  
 ⭐ 7,041
 
@@ -4668,7 +4678,7 @@ Projects and exercises for the latest Deep Learning ND program https://www.udaci
 ⭐ 5,132
 
 25. <a href="https://github.com/srush/gpu-puzzles">srush/</a><b><a href="https://github.com/srush/gpu-puzzles">GPU-Puzzles</a></b>  
-Solve puzzles. Learn CUDA.  
+Teaching beginner GPU programming in a completely interactive fashion  
 ⭐ 4,778
 
 26. <a href="https://github.com/mrdbourke/tensorflow-deep-learning">mrdbourke/</a><b><a href="https://github.com/mrdbourke/tensorflow-deep-learning">tensorflow-deep-learning</a></b>  
@@ -4677,7 +4687,7 @@ All course materials for the Zero to Mastery Deep Learning with TensorFlow cours
 ⭐ 4,728
 
 27. <a href="https://github.com/neetcode-gh/leetcode">neetcode-gh/</a><b><a href="https://github.com/neetcode-gh/leetcode">leetcode</a></b>  
-Leetcode solutions  
+Leetcode solutions for NeetCode.io  
 ⭐ 4,621
 
 28. <a href="https://github.com/udlbook/udlbook">udlbook/</a><b><a href="https://github.com/udlbook/udlbook">udlbook</a></b>  
@@ -4744,7 +4754,7 @@ Probably the best curated list of data science software in Python.
 ⭐ 2,225
 
 42. <a href="https://github.com/cgpotts/cs224u">cgpotts/</a><b><a href="https://github.com/cgpotts/cs224u">cs224u</a></b>  
-Code for Stanford CS224u  
+Code for CS224u: Natural Language Understanding  
 ⭐ 2,044
 
 43. <a href="https://github.com/cerlymarco/medium_notebook">cerlymarco/</a><b><a href="https://github.com/cerlymarco/medium_notebook">MEDIUM_NoteBook</a></b>  
@@ -4813,7 +4823,7 @@ A logical, reasonably standardized, but flexible project structure for doing and
 ⭐ 1,968
 
 6. <a href="https://github.com/cjolowicz/cookiecutter-hypermodern-python">cjolowicz/</a><b><a href="https://github.com/cjolowicz/cookiecutter-hypermodern-python">cookiecutter-hypermodern-python</a></b>  
-Hypermodern Python Cookiecutter  
+Cookiecutter template for a Python package based on the Hypermodern Python article series.  
 🔗 [cookiecutter-hypermodern-python.readthedocs.io](http://cookiecutter-hypermodern-python.readthedocs.io/)  
 ⭐ 1,679
 
@@ -5278,7 +5288,7 @@ Rust bindings for the Python interpreter
 ⭐ 10,451
 
 33. <a href="https://github.com/ninja-build/ninja">ninja-build/</a><b><a href="https://github.com/ninja-build/ninja">ninja</a></b>  
-a small build system with a focus on speed  
+Ninja is a small build system with a focus on speed.  
 🔗 [ninja-build.org](https://ninja-build.org/)  
 ⭐ 10,302
 
@@ -5933,95 +5943,85 @@ Robust and effective logging for Python 2 and 3.
 🔗 [logzero.readthedocs.io](https://logzero.readthedocs.io)  
 ⭐ 1,030
 
-174. <a href="https://github.com/ofek/pyapp">ofek/</a><b><a href="https://github.com/ofek/pyapp">pyapp</a></b>  
-Runtime installer for Python applications  
-🔗 [ofek.dev/pyapp](https://ofek.dev/pyapp/)  
-⭐ 975
-
-175. <a href="https://github.com/pyo3/rust-numpy">pyo3/</a><b><a href="https://github.com/pyo3/rust-numpy">rust-numpy</a></b>  
+174. <a href="https://github.com/pyo3/rust-numpy">pyo3/</a><b><a href="https://github.com/pyo3/rust-numpy">rust-numpy</a></b>  
 PyO3-based Rust bindings of the NumPy C-API  
 ⭐ 964
 
-176. <a href="https://github.com/fastai/fastcore">fastai/</a><b><a href="https://github.com/fastai/fastcore">fastcore</a></b>  
+175. <a href="https://github.com/fastai/fastcore">fastai/</a><b><a href="https://github.com/fastai/fastcore">fastcore</a></b>  
 Python supercharged for the fastai library  
 🔗 [fastcore.fast.ai](http://fastcore.fast.ai)  
 ⭐ 894
 
-177. <a href="https://github.com/alex-sherman/unsync">alex-sherman/</a><b><a href="https://github.com/alex-sherman/unsync">unsync</a></b>  
+176. <a href="https://github.com/alex-sherman/unsync">alex-sherman/</a><b><a href="https://github.com/alex-sherman/unsync">unsync</a></b>  
 Unsynchronize asyncio  
 ⭐ 863
 
-178. <a href="https://github.com/milvus-io/pymilvus">milvus-io/</a><b><a href="https://github.com/milvus-io/pymilvus">pymilvus</a></b>  
+177. <a href="https://github.com/milvus-io/pymilvus">milvus-io/</a><b><a href="https://github.com/milvus-io/pymilvus">pymilvus</a></b>  
 Python SDK for Milvus.  
 ⭐ 808
 
-179. <a href="https://github.com/pypa/gh-action-pypi-publish">pypa/</a><b><a href="https://github.com/pypa/gh-action-pypi-publish">gh-action-pypi-publish</a></b>  
-The blessed :octocat: GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish  
-🔗 [packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/)  
-⭐ 795
-
-180. <a href="https://github.com/samuelcolvin/dirty-equals">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/dirty-equals">dirty-equals</a></b>  
+178. <a href="https://github.com/samuelcolvin/dirty-equals">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/dirty-equals">dirty-equals</a></b>  
 Doing dirty (but extremely useful) things with equals.  
 🔗 [dirty-equals.helpmanual.io](https://dirty-equals.helpmanual.io)  
 ⭐ 748
 
-181. <a href="https://github.com/barracuda-fsh/pyobd">barracuda-fsh/</a><b><a href="https://github.com/barracuda-fsh/pyobd">pyobd</a></b>  
+179. <a href="https://github.com/barracuda-fsh/pyobd">barracuda-fsh/</a><b><a href="https://github.com/barracuda-fsh/pyobd">pyobd</a></b>  
 open source obd2 car diagnostics program - reuploaded   
 ⭐ 695
 
-182. <a href="https://github.com/lastmile-ai/aiconfig">lastmile-ai/</a><b><a href="https://github.com/lastmile-ai/aiconfig">aiconfig</a></b>  
-AIConfig is a config-based framework to build generative AI applications.  
+180. <a href="https://github.com/lastmile-ai/aiconfig">lastmile-ai/</a><b><a href="https://github.com/lastmile-ai/aiconfig">aiconfig</a></b>  
+AIConfig saves prompts, models and model parameters as source control friendly configs. This allows you to iterate on prompts and model parameters separately from your application code.  
 🔗 [aiconfig.lastmileai.dev](https://aiconfig.lastmileai.dev)  
 ⭐ 689
 
-183. <a href="https://github.com/instagram/fixit">instagram/</a><b><a href="https://github.com/instagram/fixit">Fixit</a></b>  
+181. <a href="https://github.com/instagram/fixit">instagram/</a><b><a href="https://github.com/instagram/fixit">Fixit</a></b>  
 Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.  
 🔗 [fixit.rtfd.io/en/latest](https://fixit.rtfd.io/en/latest/)  
 ⭐ 639
 
-184. <a href="https://github.com/pypa/build">pypa/</a><b><a href="https://github.com/pypa/build">build</a></b>  
+182. <a href="https://github.com/pypa/build">pypa/</a><b><a href="https://github.com/pypa/build">build</a></b>  
 A simple, correct Python build frontend  
 🔗 [build.pypa.io](https://build.pypa.io)  
 ⭐ 631
 
-185. <a href="https://github.com/pypy/pypy">pypy/</a><b><a href="https://github.com/pypy/pypy">pypy</a></b>  
+183. <a href="https://github.com/pypy/pypy">pypy/</a><b><a href="https://github.com/pypy/pypy">pypy</a></b>  
 PyPy is a very fast and compliant implementation of the Python language.  
 🔗 [pypy.org](https://pypy.org)  
 ⭐ 624
 
-186. <a href="https://github.com/gefyrahq/gefyra">gefyrahq/</a><b><a href="https://github.com/gefyrahq/gefyra">gefyra</a></b>  
+184. <a href="https://github.com/gefyrahq/gefyra">gefyrahq/</a><b><a href="https://github.com/gefyrahq/gefyra">gefyra</a></b>  
 Blazingly-fast 🚀, rock-solid, local application development :arrow_right: with Kubernetes.  
 🔗 [gefyra.dev](https://gefyra.dev)  
 ⭐ 606
 
-187. <a href="https://github.com/akaihola/darker">akaihola/</a><b><a href="https://github.com/akaihola/darker">darker</a></b>  
+185. <a href="https://github.com/akaihola/darker">akaihola/</a><b><a href="https://github.com/akaihola/darker">darker</a></b>  
 Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3f7a  
 🔗 [pypi.org/project/darker](https://pypi.org/project/darker/)  
 ⭐ 602
 
-188. <a href="https://github.com/anthropics/anthropic-sdk-python">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b>  
+186. <a href="https://github.com/anthropics/anthropic-sdk-python">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b>  
 SDK providing access to Anthropic's safety-first language model APIs  
 ⭐ 598
 
-189. <a href="https://github.com/open-telemetry/opentelemetry-python-contrib">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python-contrib">opentelemetry-python-contrib</a></b>  
+187. <a href="https://github.com/open-telemetry/opentelemetry-python-contrib">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python-contrib">opentelemetry-python-contrib</a></b>  
 OpenTelemetry instrumentation for Python modules  
 🔗 [opentelemetry.io](https://opentelemetry.io)  
 ⭐ 573
 
-190. <a href="https://github.com/methexis-inc/terminal-copilot">methexis-inc/</a><b><a href="https://github.com/methexis-inc/terminal-copilot">terminal-copilot</a></b>  
+188. <a href="https://github.com/methexis-inc/terminal-copilot">methexis-inc/</a><b><a href="https://github.com/methexis-inc/terminal-copilot">terminal-copilot</a></b>  
 A smart terminal assistant that helps you find the right command.  
 ⭐ 553
 
-191. <a href="https://github.com/qdrant/qdrant-client">qdrant/</a><b><a href="https://github.com/qdrant/qdrant-client">qdrant-client</a></b>  
+189. <a href="https://github.com/qdrant/qdrant-client">qdrant/</a><b><a href="https://github.com/qdrant/qdrant-client">qdrant-client</a></b>  
 Python client for Qdrant vector search engine  
 🔗 [qdrant.tech](https://qdrant.tech)  
 ⭐ 530
 
-192. <a href="https://github.com/steamship-core/steamship-langchain">steamship-core/</a><b><a href="https://github.com/steamship-core/steamship-langchain">steamship-langchain</a></b>  
+190. <a href="https://github.com/steamship-core/steamship-langchain">steamship-core/</a><b><a href="https://github.com/steamship-core/steamship-langchain">steamship-langchain</a></b>  
 steamship-langchain  
 ⭐ 502
 
-193. <a href="https://github.com/fastai/ghapi">fastai/</a><b><a href="https://github.com/fastai/ghapi">ghapi</a></b>  
+191. <a href="https://github.com/fastai/ghapi">fastai/</a><b><a href="https://github.com/fastai/ghapi">ghapi</a></b>  
 A delightful and complete interface to GitHub's amazing API  
 🔗 [ghapi.fast.ai](https://ghapi.fast.ai/)  
 ⭐ 500
@@ -6213,7 +6213,7 @@ Tornado is a Python web framework and asynchronous networking library, originall
 ⭐ 17,612
 
 8. <a href="https://github.com/pyscript/pyscript">pyscript/</a><b><a href="https://github.com/pyscript/pyscript">pyscript</a></b>  
-Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2  
+A framework that allows users to create rich Python applications in the browser using HTML's interface and the power of Pyodide, WASM, and modern web technologies.  
 🔗 [pyscript.net](https://pyscript.net/)  
 ⭐ 17,345
 
@@ -6282,7 +6282,7 @@ An ASGI web server, for Python. 🦄
 ⭐ 7,561
 
 22. <a href="https://github.com/reactive-python/reactpy">reactive-python/</a><b><a href="https://github.com/reactive-python/reactpy">reactpy</a></b>  
-It's React, but in Python  
+ReactPy is a library for building user interfaces in Python without Javascript  
 🔗 [reactpy.dev](https://reactpy.dev)  
 ⭐ 7,522
 
