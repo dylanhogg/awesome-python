@@ -12,43 +12,43 @@ Updated 21 Feb 2024
 
 ## Categories
 
-- [Crypto and Blockchain](#crypto-and-blockchain) (12)
-- [Data](#data) (93)
-- [Debugging](#debugging) (9)
-- [Diffusion Text to Image](#diffusion-text-to-image) (35)
-- [Finance](#finance) (31)
-- [Game Development](#game-development) (6)
-- [GIS](#gis) (27)
-- [Graph](#graph) (4)
-- [GUI](#gui) (8)
-- [Jupyter](#jupyter) (24)
-- [LLMs and ChatGPT](#llms-and-chatgpt) (202)
-- [Math and Science](#math-and-science) (14)
-- [Machine Learning - General](#machine-learning---general) (150)
-- [Machine Learning - Deep Learning](#machine-learning---deep-learning) (69)
-- [Machine Learning - Interpretability](#machine-learning---interpretability) (13)
-- [Machine Learning - Ops](#machine-learning---ops) (40)
-- [Machine Learning - Reinforcement](#machine-learning---reinforcement) (21)
-- [Machine Learning - Time Series](#machine-learning---time-series) (17)
-- [Natural Language Processing](#natural-language-processing) (80)
-- [Packaging](#packaging) (22)
-- [Pandas](#pandas) (23)
-- [Performance](#performance) (28)
-- [Profiling](#profiling) (11)
-- [Security](#security) (11)
-- [Simulation](#simulation) (25)
-- [Study](#study) (51)
-- [Template](#template) (8)
-- [Terminal](#terminal) (14)
-- [Testing](#testing) (21)
-- [Typing](#typing) (9)
-- [Utility](#utility) (191)
-- [Vizualisation](#vizualisation) (30)
-- [Web](#web) (52)
+- [Crypto and Blockchain](#crypto-and-blockchain) - Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity (12 repos)
+- [Data](#data) - General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks (93 repos)
+- [Debugging](#debugging) - Debugging and tracing tools (9 repos)
+- [Diffusion Text to Image](#diffusion-text-to-image) - Text-to-image diffusion model libraries, tools and apps for generating images from natural language (35 repos)
+- [Finance](#finance) - Financial and quantitative libraries: investment research tools, market data, algorithmic trading, backtesting, financial derivatives (31 repos)
+- [Game Development](#game-development) - Game development tools, engines and libraries (6 repos)
+- [GIS](#gis) - Geospatial libraries: raster and vector data formats, interactive mapping and visualisation, computing frameworks for processing images, projections (27 repos)
+- [Graph](#graph) - Graphs and network libraries: network analysis, graph machine learning, visualisation (4 repos)
+- [GUI](#gui) - Graphical user interface libraries and toolkits (8 repos)
+- [Jupyter](#jupyter) - Jupyter and JupyterLab and Notebook tools, libraries and plugins (24 repos)
+- [LLMs and ChatGPT](#llms-and-chatgpt) - Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover (202 repos)
+- [Math and Science](#math-and-science) - Maths and science libraries (14 repos)
+- [Machine Learning - General](#machine-learning---general) - General and classical machine learning libraries. See below for other sections covering specialised ML areas (150 repos)
+- [Machine Learning - Deep Learning](#machine-learning---deep-learning) - Machine learning libraries that cross over with deep learning in some way (69 repos)
+- [Machine Learning - Interpretability](#machine-learning---interpretability) - Machine learning interpretability libraries. Covers explainability, prediction explainations, dashboards, understanding knowledge development in training (13 repos)
+- [Machine Learning - Ops](#machine-learning---ops) - MLOps tools, frameworks and libraries: intersection of machine learning, data engineering and DevOps; deployment, health, diagnostics and governance of ML models (40 repos)
+- [Machine Learning - Reinforcement](#machine-learning---reinforcement) - Machine learning libraries and toolkits that cross over with reinforcement learning in some way: agent reinforcement learning, agent environemnts, RLHF (21 repos)
+- [Machine Learning - Time Series](#machine-learning---time-series) - Machine learning and classical timeseries libraries: forecasting, seasonality, anomaly detection, econometrics (17 repos)
+- [Natural Language Processing](#natural-language-processing) - Natural language processing libraries and toolkits: text processing, topic modelling, tokenisers, chatbots. Also see the <a href="https://github.com/dylanhogg/awesome-python#llms-and-chatgpt">LLMs and ChatGPT</a> category for crossover (80 repos)
+- [Packaging](#packaging) - Python packaging, dependency management and bundling (22 repos)
+- [Pandas](#pandas) - Pandas and dataframe libraries: data analysis, statistical reporting, pandas GUIs, pandas performance optimisations (23 repos)
+- [Performance](#performance) - Performance, parallelisation and low level libraries (28 repos)
+- [Profiling](#profiling) - Memory and CPU/GPU profiling tools and libraries (11 repos)
+- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (11 repos)
+- [Simulation](#simulation) - Simulation libraries: robotics, economic, agent-based, traffic, physics, astronomy, chemistry, quantum simulation. Also see the <a href="https://github.com/dylanhogg/awesome-python#math-and-science">Maths and Science</a> category for crossover (25 repos)
+- [Study](#study) - Miscellaneous study resources: algorithms, general resources, system design, code repos for textbooks, best practices, tutorials (51 repos)
+- [Template](#template) - Template tools and libraries: cookiecutter repos, generators, quick-starts (8 repos)
+- [Terminal](#terminal) - Terminal and console tools and libraries: CLI tools, terminal based formatters, progress bars (14 repos)
+- [Testing](#testing) - Testing libraries: unit testing, load testing, acceptance testing, code coverage, browser automation, plugins (21 repos)
+- [Typing](#typing) - Typing libraries: static and run-time type checking, annotations (9 repos)
+- [Utility](#utility) - General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools, (191 repos)
+- [Vizualisation](#vizualisation) - Vizualisation tools and libraries. Application frameworks, 2D/3D plotting, dashboards, WebGL (30 repos)
+- [Web](#web) - Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP, REST, user management (52 repos)
 
 
 ## Crypto and Blockchain
-Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum Virtual Machine, Solidity language etc.  
+Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity.  
 
 1. <a href="https://github.com/ccxt/ccxt">ccxt/</a><b><a href="https://github.com/ccxt/ccxt">ccxt</a></b>  
 A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges  
@@ -105,7 +105,7 @@ Ethereum decompiler
 ⭐ 730
 
 ## Data
-General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks etc.  
+General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks.  
 
 1. <a href="https://github.com/scrapy/scrapy">scrapy/</a><b><a href="https://github.com/scrapy/scrapy">scrapy</a></b>  
 Scrapy, a fast high-level web crawling & scraping framework for Python.  
@@ -745,7 +745,7 @@ Long-form text-to-images generation, using a pipeline of deep generative models 
 ⭐ 672
 
 ## Finance
-Financial and quantitative libraries: investment research tools, market data, algorithmic trading, backtesting, financial derivatives etc.  
+Financial and quantitative libraries: investment research tools, market data, algorithmic trading, backtesting, financial derivatives.  
 
 1. <a href="https://github.com/openbb-finance/openbbterminal">openbb-finance/</a><b><a href="https://github.com/openbb-finance/openbbterminal">OpenBBTerminal</a></b>  
 Investment Research for Everyone, Everywhere.  
@@ -929,7 +929,7 @@ Easy to use Python library for creating 2D arcade games.
 ⭐ 1,593
 
 ## GIS
-Geospatial libraries: raster and vector data formats, interactive mapping and visualisation, computing frameworks for processing images, projections etc.  
+Geospatial libraries: raster and vector data formats, interactive mapping and visualisation, computing frameworks for processing images, projections.  
 
 1. <a href="https://github.com/domlysz/blendergis">domlysz/</a><b><a href="https://github.com/domlysz/blendergis">BlenderGIS</a></b>  
 Blender addons to make the bridge between Blender and geographic data  
@@ -1062,7 +1062,7 @@ Build your own Raster dynamic map tile services
 ⭐ 655
 
 ## Graph
-Graphs and network libraries: network analysis, graph machine learning, visualisation etc.  
+Graphs and network libraries: network analysis, graph machine learning, visualisation.  
 
 1. <a href="https://github.com/networkx/networkx">networkx/</a><b><a href="https://github.com/networkx/networkx">networkx</a></b>  
 Network Analysis in Python  
@@ -1243,7 +1243,7 @@ Draw datasets from within Jupyter.
 ⭐ 644
 
 ## LLMs and ChatGPT
-Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations etc. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover.  
+Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover.  
 
 1. <a href="https://github.com/torantulino/auto-gpt">torantulino/</a><b><a href="https://github.com/torantulino/auto-gpt">AutoGPT</a></b>  
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.  
@@ -3244,7 +3244,7 @@ Deep learning for molecules and materials book
 ⭐ 561
 
 ## Machine Learning - Interpretability
-Machine learning interpretability libraries. Covers explainability, prediction explainations, dashboards, understanding knowledge development in training etc.  
+Machine learning interpretability libraries. Covers explainability, prediction explainations, dashboards, understanding knowledge development in training.  
 
 1. <a href="https://github.com/slundberg/shap">slundberg/</a><b><a href="https://github.com/slundberg/shap">shap</a></b>  
 A game theoretic approach to explain the output of any machine learning model.  
@@ -3308,7 +3308,7 @@ PiML (Python Interpretable Machine Learning) toolbox for model development & dia
 ⭐ 820
 
 ## Machine Learning - Ops
-MLOPs tools, frameworks and libraries: intersection of machine learning, data engineering and DevOps; deployment, health, diagnostics and governance of ML models.  
+MLOps tools, frameworks and libraries: intersection of machine learning, data engineering and DevOps; deployment, health, diagnostics and governance of ML models.  
 
 1. <a href="https://github.com/apache/airflow">apache/</a><b><a href="https://github.com/apache/airflow">airflow</a></b>  
 Apache Airflow - A platform to programmatically author, schedule, and monitor workflows  
@@ -3609,7 +3609,7 @@ robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 ⭐ 1,013
 
 ## Natural Language Processing
-Natural language processing libraries and toolkits: text processing, topic modelling, tokenisers, chatbots etc. Also see the <a href="https://github.com/dylanhogg/awesome-python#llms-and-chatgpt">LLMs and ChatGPT</a> category for crossover.  
+Natural language processing libraries and toolkits: text processing, topic modelling, tokenisers, chatbots. Also see the <a href="https://github.com/dylanhogg/awesome-python#llms-and-chatgpt">LLMs and ChatGPT</a> category for crossover.  
 
 1. <a href="https://github.com/huggingface/transformers">huggingface/</a><b><a href="https://github.com/huggingface/transformers">transformers</a></b>  
 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.  
@@ -4089,7 +4089,7 @@ Github action for installing and configuring Poetry
 ⭐ 506
 
 ## Pandas
-Pandas and dataframe libraries: data analysis, statistical reporting, pandas GUIs, pandas performance optimisations etc.  
+Pandas and dataframe libraries: data analysis, statistical reporting, pandas GUIs, pandas performance optimisations.  
 
 1. <a href="https://github.com/pandas-dev/pandas">pandas-dev/</a><b><a href="https://github.com/pandas-dev/pandas">pandas</a></b>  
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more  
@@ -4395,7 +4395,7 @@ A Python memory profiler for data processing and scientific computing applicatio
 ⭐ 806
 
 ## Security
-Security related libraries: vulnerability discovery, SQL injection, environment auditing etc.  
+Security related libraries: vulnerability discovery, SQL injection, environment auditing.  
 
 1. <a href="https://github.com/swisskyrepo/payloadsallthethings">swisskyrepo/</a><b><a href="https://github.com/swisskyrepo/payloadsallthethings">PayloadsAllTheThings</a></b>  
 A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
@@ -4450,7 +4450,7 @@ toolkit for python reverse engineering
 ⭐ 605
 
 ## Simulation
-Simulation libraries: robotics, economic, agent-based, traffic, physics, astronomy, chemistry, quantum simulation etc. Also see the <a href="https://github.com/dylanhogg/awesome-python#math-and-science">Maths and Science</a> category for crossover.  
+Simulation libraries: robotics, economic, agent-based, traffic, physics, astronomy, chemistry, quantum simulation. Also see the <a href="https://github.com/dylanhogg/awesome-python#math-and-science">Maths and Science</a> category for crossover.  
 
 1. <a href="https://github.com/atsushisakai/pythonrobotics">atsushisakai/</a><b><a href="https://github.com/atsushisakai/pythonrobotics">PythonRobotics</a></b>  
 Python sample codes for robotics algorithms.  
@@ -4567,7 +4567,7 @@ Unified framework for robot learning built on NVIDIA Isaac Sim
 ⭐ 562
 
 ## Study
-Miscellaneous study resources: algorithms, general resources, system design, code repos for textbooks, best practices, tutorials etc.  
+Miscellaneous study resources: algorithms, general resources, system design, code repos for textbooks, best practices, tutorials.  
 
 1. <a href="https://github.com/thealgorithms/python">thealgorithms/</a><b><a href="https://github.com/thealgorithms/python">Python</a></b>  
 All Algorithms implemented in Python  
@@ -4797,7 +4797,7 @@ STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
 ⭐ 543
 
 ## Template
-Template tools and libraries: cookiecutter repos, generators, quick-starts etc.  
+Template tools and libraries: cookiecutter repos, generators, quick-starts.  
 
 1. <a href="https://github.com/cookiecutter/cookiecutter">cookiecutter/</a><b><a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a></b>  
 A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.  
@@ -4836,7 +4836,7 @@ Blueprint/Boilerplate For Python Projects
 ⭐ 933
 
 ## Terminal
-Terminal and console tools and libraries: CLI tools, terminal based formatters, progress bars etc.  
+Terminal and console tools and libraries: CLI tools, terminal based formatters, progress bars.  
 
 1. <a href="https://github.com/willmcgugan/rich">willmcgugan/</a><b><a href="https://github.com/willmcgugan/rich">rich</a></b>  
 Rich is a Python library for rich text and beautiful formatting in the terminal.  
@@ -4905,7 +4905,7 @@ Display tabular data in a visually appealing ASCII table format
 ⭐ 876
 
 ## Testing
-Testing libraries: unit testing, load testing, acceptance testing, code coverage, browser automation, plugins etc.  
+Testing libraries: unit testing, load testing, acceptance testing, code coverage, browser automation, plugins.  
 
 1. <a href="https://github.com/locustio/locust">locustio/</a><b><a href="https://github.com/locustio/locust">locust</a></b>  
 Write scalable load tests in plain Python 🚗💨  
@@ -5008,7 +5008,7 @@ A command-line tool and Python library and Pytest plugin for automated testing o
 ⭐ 978
 
 ## Machine Learning - Time Series
-Machine learning and classical timeseries libraries: forecasting, seasonality, anomaly detection, econometrics etc.  
+Machine learning and classical timeseries libraries: forecasting, seasonality, anomaly detection, econometrics.  
 
 1. <a href="https://github.com/facebook/prophet">facebook/</a><b><a href="https://github.com/facebook/prophet">prophet</a></b>  
 Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.  
@@ -5090,7 +5090,7 @@ Temporian is an open-source Python library for preprocessing ⚡ and feature eng
 ⭐ 544
 
 ## Typing
-Typing libraries: static and run-time type checking, annotations etc.  
+Typing libraries: static and run-time type checking, annotations.  
 
 1. <a href="https://github.com/python/mypy">python/</a><b><a href="https://github.com/python/mypy">mypy</a></b>  
 Optional static typing for Python  
@@ -5133,7 +5133,7 @@ Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 ⭐ 1,314
 
 ## Utility
-General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools, etc.  
+General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools,.  
 
 1. <a href="https://github.com/home-assistant/core">home-assistant/</a><b><a href="https://github.com/home-assistant/core">core</a></b>  
 🏡 Open source home automation that puts local control and privacy first.  
@@ -6027,7 +6027,7 @@ A delightful and complete interface to GitHub's amazing API
 ⭐ 500
 
 ## Vizualisation
-Vizualisation tools and libraries. Application frameworks, 2D/3D plotting, dashboards, WebGL etc.  
+Vizualisation tools and libraries. Application frameworks, 2D/3D plotting, dashboards, WebGL.  
 
 1. <a href="https://github.com/apache/superset">apache/</a><b><a href="https://github.com/apache/superset">superset</a></b>  
 Apache Superset is a Data Visualization and Data Exploration Platform  
@@ -6175,7 +6175,7 @@ Creative interactive views of any dataset.
 ⭐ 792
 
 ## Web
-Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP, REST, user management etc.  
+Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP, REST, user management.  
 
 1. <a href="https://github.com/django/django">django/</a><b><a href="https://github.com/django/django">django</a></b>  
 The Web framework for perfectionists with deadlines.  
