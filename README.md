@@ -7,11 +7,12 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/)
   
 <img src='https://www.awesomepython.org/img/media/github-repo-banner.jpg' />  
 
-Updated 21 Feb 2024
+Updated 27 Feb 2024
 
 
 ## Categories
 
+- [Code quality](#code-quality) - Code quality tooling: linters, formatters, pre-commit hooks, unused code removal (11 repos)
 - [Crypto and Blockchain](#crypto-and-blockchain) - Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity (12 repos)
 - [Data](#data) - General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks (93 repos)
 - [Debugging](#debugging) - Debugging and tracing tools (9 repos)
@@ -31,21 +32,76 @@ Updated 21 Feb 2024
 - [Machine Learning - Reinforcement](#machine-learning---reinforcement) - Machine learning libraries and toolkits that cross over with reinforcement learning in some way: agent reinforcement learning, agent environemnts, RLHF (21 repos)
 - [Machine Learning - Time Series](#machine-learning---time-series) - Machine learning and classical timeseries libraries: forecasting, seasonality, anomaly detection, econometrics (17 repos)
 - [Natural Language Processing](#natural-language-processing) - Natural language processing libraries and toolkits: text processing, topic modelling, tokenisers, chatbots. Also see the <a href="https://github.com/dylanhogg/awesome-python#llms-and-chatgpt">LLMs and ChatGPT</a> category for crossover (80 repos)
-- [Packaging](#packaging) - Python packaging, dependency management and bundling (22 repos)
+- [Packaging](#packaging) - Python packaging, dependency management and bundling (25 repos)
 - [Pandas](#pandas) - Pandas and dataframe libraries: data analysis, statistical reporting, pandas GUIs, pandas performance optimisations (23 repos)
 - [Performance](#performance) - Performance, parallelisation and low level libraries (28 repos)
 - [Profiling](#profiling) - Memory and CPU/GPU profiling tools and libraries (11 repos)
-- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (11 repos)
+- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (12 repos)
 - [Simulation](#simulation) - Simulation libraries: robotics, economic, agent-based, traffic, physics, astronomy, chemistry, quantum simulation. Also see the <a href="https://github.com/dylanhogg/awesome-python#math-and-science">Maths and Science</a> category for crossover (25 repos)
 - [Study](#study) - Miscellaneous study resources: algorithms, general resources, system design, code repos for textbooks, best practices, tutorials (51 repos)
 - [Template](#template) - Template tools and libraries: cookiecutter repos, generators, quick-starts (8 repos)
 - [Terminal](#terminal) - Terminal and console tools and libraries: CLI tools, terminal based formatters, progress bars (14 repos)
 - [Testing](#testing) - Testing libraries: unit testing, load testing, acceptance testing, code coverage, browser automation, plugins (21 repos)
-- [Typing](#typing) - Typing libraries: static and run-time type checking, annotations (9 repos)
-- [Utility](#utility) - General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools, (191 repos)
+- [Typing](#typing) - Typing libraries: static and run-time type checking, annotations (10 repos)
+- [Utility](#utility) - General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools, (178 repos)
 - [Vizualisation](#vizualisation) - Vizualisation tools and libraries. Application frameworks, 2D/3D plotting, dashboards, WebGL (30 repos)
 - [Web](#web) - Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP, REST, user management (52 repos)
 
+
+## Code quality
+Code quality tooling: linters, formatters, pre-commit hooks, unused code removal.  
+
+1. <a href="https://github.com/psf/black">psf/</a><b><a href="https://github.com/psf/black">black</a></b>  
+The uncompromising Python code formatter  
+🔗 [black.readthedocs.io/en/stable](https://black.readthedocs.io/en/stable/)  
+⭐ 36,772
+
+2. <a href="https://github.com/astral-sh/ruff">astral-sh/</a><b><a href="https://github.com/astral-sh/ruff">ruff</a></b>  
+An extremely fast Python linter and code formatter, written in Rust.  
+🔗 [docs.astral.sh/ruff](https://docs.astral.sh/ruff)  
+⭐ 23,779
+
+3. <a href="https://github.com/google/yapf">google/</a><b><a href="https://github.com/google/yapf">yapf</a></b>  
+A formatter for Python files  
+⭐ 13,587
+
+4. <a href="https://github.com/pre-commit/pre-commit">pre-commit/</a><b><a href="https://github.com/pre-commit/pre-commit">pre-commit</a></b>  
+A framework for managing and maintaining multi-language pre-commit hooks.  
+🔗 [pre-commit.com](https://pre-commit.com)  
+⭐ 11,660
+
+5. <a href="https://github.com/pycqa/isort">pycqa/</a><b><a href="https://github.com/pycqa/isort">isort</a></b>  
+A Python utility / library to sort imports.  
+🔗 [pycqa.github.io/isort](https://pycqa.github.io/isort/)  
+⭐ 6,239
+
+6. <a href="https://github.com/pycqa/pylint">pycqa/</a><b><a href="https://github.com/pycqa/pylint">pylint</a></b>  
+It's not just a linter that annoys you!  
+🔗 [pylint.readthedocs.io/en/latest](https://pylint.readthedocs.io/en/latest/)  
+⭐ 5,037
+
+7. <a href="https://github.com/asottile/pyupgrade">asottile/</a><b><a href="https://github.com/asottile/pyupgrade">pyupgrade</a></b>  
+A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.  
+⭐ 3,216
+
+8. <a href="https://github.com/pycqa/flake8">pycqa/</a><b><a href="https://github.com/pycqa/flake8">flake8</a></b>  
+flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.  
+🔗 [flake8.pycqa.org](https://flake8.pycqa.org)  
+⭐ 3,186
+
+9. <a href="https://github.com/jendrikseipp/vulture">jendrikseipp/</a><b><a href="https://github.com/jendrikseipp/vulture">vulture</a></b>  
+Find dead Python code  
+⭐ 2,918
+
+10. <a href="https://github.com/sourcery-ai/sourcery">sourcery-ai/</a><b><a href="https://github.com/sourcery-ai/sourcery">sourcery</a></b>  
+Instant AI code reviews to speed up your pull requests  
+🔗 [sourcery.ai](https://sourcery.ai)  
+⭐ 1,466
+
+11. <a href="https://github.com/akaihola/darker">akaihola/</a><b><a href="https://github.com/akaihola/darker">darker</a></b>  
+Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3f7a  
+🔗 [pypi.org/project/darker](https://pypi.org/project/darker/)  
+⭐ 602
 
 ## Crypto and Blockchain
 Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity.  
@@ -4005,86 +4061,100 @@ a Hassle-Free Python Experience
 🔗 [rye-up.com](https://rye-up.com)  
 ⭐ 9,990
 
-6. <a href="https://github.com/jazzband/pip-tools">jazzband/</a><b><a href="https://github.com/jazzband/pip-tools">pip-tools</a></b>  
+6. <a href="https://github.com/pypa/pipx">pypa/</a><b><a href="https://github.com/pypa/pipx">pipx</a></b>  
+Install and Run Python Applications in Isolated Environments  
+🔗 [pipx.pypa.io](https://pipx.pypa.io)  
+⭐ 8,182
+
+7. <a href="https://github.com/jazzband/pip-tools">jazzband/</a><b><a href="https://github.com/jazzband/pip-tools">pip-tools</a></b>  
 A set of tools to keep your pinned Python dependencies fresh (pip-compile + pip-sync)  
 🔗 [pip-tools.rtfd.io](https://pip-tools.rtfd.io)  
 ⭐ 7,358
 
-7. <a href="https://github.com/pdm-project/pdm">pdm-project/</a><b><a href="https://github.com/pdm-project/pdm">pdm</a></b>  
+8. <a href="https://github.com/pdm-project/pdm">pdm-project/</a><b><a href="https://github.com/pdm-project/pdm">pdm</a></b>  
 A modern Python package and dependency manager supporting the latest PEP standards  
 🔗 [pdm-project.org](https://pdm-project.org)  
 ⭐ 6,175
 
-8. <a href="https://github.com/conda/conda">conda/</a><b><a href="https://github.com/conda/conda">conda</a></b>  
+9. <a href="https://github.com/conda/conda">conda/</a><b><a href="https://github.com/conda/conda">conda</a></b>  
 A system-level, binary package and environment manager running on all major operating systems and platforms.  
 🔗 [docs.conda.io/projects/conda](https://docs.conda.io/projects/conda/)  
 ⭐ 5,987
 
-9. <a href="https://github.com/mamba-org/mamba">mamba-org/</a><b><a href="https://github.com/mamba-org/mamba">mamba</a></b>  
+10. <a href="https://github.com/mamba-org/mamba">mamba-org/</a><b><a href="https://github.com/mamba-org/mamba">mamba</a></b>  
 The Fast Cross-Platform Package Manager: mamba is a reimplementation of the conda package manager in C++  
 🔗 [mamba.readthedocs.io](https://mamba.readthedocs.io)  
 ⭐ 5,868
 
-10. <a href="https://github.com/astral-sh/uv">astral-sh/</a><b><a href="https://github.com/astral-sh/uv">uv</a></b>  
+11. <a href="https://github.com/astral-sh/uv">astral-sh/</a><b><a href="https://github.com/astral-sh/uv">uv</a></b>  
 An extremely fast Python package installer and resolver, written in Rust. Designed as a drop-in replacement for pip and pip-compile.  
 🔗 [astral.sh](https://astral.sh/)  
 ⭐ 5,671
 
-11. <a href="https://github.com/pypa/hatch">pypa/</a><b><a href="https://github.com/pypa/hatch">hatch</a></b>  
+12. <a href="https://github.com/pypa/hatch">pypa/</a><b><a href="https://github.com/pypa/hatch">hatch</a></b>  
 Modern, extensible Python project management  
 🔗 [hatch.pypa.io/latest](https://hatch.pypa.io/latest/)  
 ⭐ 5,088
 
-12. <a href="https://github.com/indygreg/pyoxidizer">indygreg/</a><b><a href="https://github.com/indygreg/pyoxidizer">PyOxidizer</a></b>  
+13. <a href="https://github.com/indygreg/pyoxidizer">indygreg/</a><b><a href="https://github.com/indygreg/pyoxidizer">PyOxidizer</a></b>  
 A modern Python application packaging and distribution tool  
 ⭐ 5,063
 
-13. <a href="https://github.com/conda-forge/miniforge">conda-forge/</a><b><a href="https://github.com/conda-forge/miniforge">miniforge</a></b>  
+14. <a href="https://github.com/conda-forge/miniforge">conda-forge/</a><b><a href="https://github.com/conda-forge/miniforge">miniforge</a></b>  
 A conda-forge distribution.  
 🔗 [conda-forge.org/miniforge](https://conda-forge.org/miniforge)  
 ⭐ 4,848
 
-14. <a href="https://github.com/pypa/virtualenv">pypa/</a><b><a href="https://github.com/pypa/virtualenv">virtualenv</a></b>  
+15. <a href="https://github.com/pypa/virtualenv">pypa/</a><b><a href="https://github.com/pypa/virtualenv">virtualenv</a></b>  
 A tool to create isolated Python environments. Since Python 3.3, a subset of it has been integrated into the standard lib venv module.  
 🔗 [virtualenv.pypa.io](https://virtualenv.pypa.io)  
 ⭐ 4,642
 
-15. <a href="https://github.com/spack/spack">spack/</a><b><a href="https://github.com/spack/spack">spack</a></b>  
+16. <a href="https://github.com/spack/spack">spack/</a><b><a href="https://github.com/spack/spack">spack</a></b>  
 A flexible package manager that supports multiple versions, configurations, platforms, and compilers.  
 🔗 [spack.io](https://spack.io)  
 ⭐ 3,852
 
-16. <a href="https://github.com/pantsbuild/pex">pantsbuild/</a><b><a href="https://github.com/pantsbuild/pex">pex</a></b>  
+17. <a href="https://github.com/pantsbuild/pex">pantsbuild/</a><b><a href="https://github.com/pantsbuild/pex">pex</a></b>  
 A tool for generating .pex (Python EXecutable) files, lock files and venvs.  
 🔗 [docs.pex-tool.org](https://docs.pex-tool.org)  
 ⭐ 2,428
 
-17. <a href="https://github.com/beeware/briefcase">beeware/</a><b><a href="https://github.com/beeware/briefcase">briefcase</a></b>  
+18. <a href="https://github.com/beeware/briefcase">beeware/</a><b><a href="https://github.com/beeware/briefcase">briefcase</a></b>  
 Tools to support converting a Python project into a standalone native application.  
 🔗 [briefcase.readthedocs.io](https://briefcase.readthedocs.io/)  
 ⭐ 2,247
 
-18. <a href="https://github.com/pypa/flit">pypa/</a><b><a href="https://github.com/pypa/flit">flit</a></b>  
+19. <a href="https://github.com/pypa/flit">pypa/</a><b><a href="https://github.com/pypa/flit">flit</a></b>  
 Simplified packaging of Python modules  
 🔗 [flit.pypa.io](https://flit.pypa.io/)  
 ⭐ 2,070
 
-19. <a href="https://github.com/ofek/pyapp">ofek/</a><b><a href="https://github.com/ofek/pyapp">pyapp</a></b>  
+20. <a href="https://github.com/linkedin/shiv">linkedin/</a><b><a href="https://github.com/linkedin/shiv">shiv</a></b>  
+shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.  
+⭐ 1,667
+
+21. <a href="https://github.com/marcelotduarte/cx_freeze">marcelotduarte/</a><b><a href="https://github.com/marcelotduarte/cx_freeze">cx_Freeze</a></b>  
+Create standalone executables from Python scripts, with the same performance and is cross-platform.  
+🔗 [marcelotduarte.github.io/cx_freeze](https://marcelotduarte.github.io/cx_Freeze/)  
+⭐ 1,222
+
+22. <a href="https://github.com/ofek/pyapp">ofek/</a><b><a href="https://github.com/ofek/pyapp">pyapp</a></b>  
 Runtime installer for Python applications  
 🔗 [ofek.dev/pyapp](https://ofek.dev/pyapp/)  
 ⭐ 975
 
-20. <a href="https://github.com/pypa/gh-action-pypi-publish">pypa/</a><b><a href="https://github.com/pypa/gh-action-pypi-publish">gh-action-pypi-publish</a></b>  
+23. <a href="https://github.com/pypa/gh-action-pypi-publish">pypa/</a><b><a href="https://github.com/pypa/gh-action-pypi-publish">gh-action-pypi-publish</a></b>  
 The blessed :octocat: GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish  
 🔗 [packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows](https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/)  
 ⭐ 795
 
-21. <a href="https://github.com/py2exe/py2exe">py2exe/</a><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b>  
+24. <a href="https://github.com/py2exe/py2exe">py2exe/</a><b><a href="https://github.com/py2exe/py2exe">py2exe</a></b>  
 Create standalone Windows programs from Python code  
 🔗 [www.py2exe.org](http://www.py2exe.org)  
 ⭐ 722
 
-22. <a href="https://github.com/snok/install-poetry">snok/</a><b><a href="https://github.com/snok/install-poetry">install-poetry</a></b>  
+25. <a href="https://github.com/snok/install-poetry">snok/</a><b><a href="https://github.com/snok/install-poetry">install-poetry</a></b>  
 Github action for installing and configuring Poetry  
 ⭐ 506
 
@@ -4416,35 +4486,40 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 🔗 [aquasecurity.github.io/trivy](https://aquasecurity.github.io/trivy)  
 ⭐ 20,488
 
-5. <a href="https://github.com/nccgroup/scoutsuite">nccgroup/</a><b><a href="https://github.com/nccgroup/scoutsuite">ScoutSuite</a></b>  
+5. <a href="https://github.com/bridgecrewio/checkov">bridgecrewio/</a><b><a href="https://github.com/bridgecrewio/checkov">checkov</a></b>  
+Checkov is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages.  
+🔗 [www.checkov.io](https://www.checkov.io/)  
+⭐ 6,370
+
+6. <a href="https://github.com/nccgroup/scoutsuite">nccgroup/</a><b><a href="https://github.com/nccgroup/scoutsuite">ScoutSuite</a></b>  
 Multi-Cloud Security Auditing Tool  
 ⭐ 6,014
 
-6. <a href="https://github.com/pycqa/bandit">pycqa/</a><b><a href="https://github.com/pycqa/bandit">bandit</a></b>  
+7. <a href="https://github.com/pycqa/bandit">pycqa/</a><b><a href="https://github.com/pycqa/bandit">bandit</a></b>  
 Bandit is a tool designed to find common security issues in Python code.  
 🔗 [bandit.readthedocs.io](https://bandit.readthedocs.io)  
 ⭐ 5,810
 
-7. <a href="https://github.com/stamparm/maltrail">stamparm/</a><b><a href="https://github.com/stamparm/maltrail">maltrail</a></b>  
+8. <a href="https://github.com/stamparm/maltrail">stamparm/</a><b><a href="https://github.com/stamparm/maltrail">maltrail</a></b>  
 Malicious traffic detection system  
 ⭐ 5,618
 
-8. <a href="https://github.com/rhinosecuritylabs/pacu">rhinosecuritylabs/</a><b><a href="https://github.com/rhinosecuritylabs/pacu">pacu</a></b>  
+9. <a href="https://github.com/rhinosecuritylabs/pacu">rhinosecuritylabs/</a><b><a href="https://github.com/rhinosecuritylabs/pacu">pacu</a></b>  
 The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.  
 🔗 [rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework](https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/)  
 ⭐ 3,926
 
-9. <a href="https://github.com/pyupio/safety">pyupio/</a><b><a href="https://github.com/pyupio/safety">safety</a></b>  
+10. <a href="https://github.com/pyupio/safety">pyupio/</a><b><a href="https://github.com/pyupio/safety">safety</a></b>  
 Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 🔗 [safetycli.com/product/safety-cli](https://safetycli.com/product/safety-cli)  
 ⭐ 1,596
 
-10. <a href="https://github.com/trailofbits/pip-audit">trailofbits/</a><b><a href="https://github.com/trailofbits/pip-audit">pip-audit</a></b>  
+11. <a href="https://github.com/trailofbits/pip-audit">trailofbits/</a><b><a href="https://github.com/trailofbits/pip-audit">pip-audit</a></b>  
 Audits Python environments and dependency trees for known vulnerabilities  
 🔗 [pypi.org/project/pip-audit](https://pypi.org/project/pip-audit/)  
 ⭐ 888
 
-11. <a href="https://github.com/fadi002/de4py">fadi002/</a><b><a href="https://github.com/fadi002/de4py">de4py</a></b>  
+12. <a href="https://github.com/fadi002/de4py">fadi002/</a><b><a href="https://github.com/fadi002/de4py">de4py</a></b>  
 toolkit for python reverse engineering  
 🔗 [de4py.000.pe](https://de4py.000.pe)  
 ⭐ 605
@@ -4974,7 +5049,7 @@ Automatically mock your HTTP interactions to simplify and speed up testing
 ⭐ 2,569
 
 15. <a href="https://github.com/pytest-dev/pytest-testinfra">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-testinfra">pytest-testinfra</a></b>  
-Testinfra test your infrastructures  
+With Testinfra you can write unit tests in Python to test actual state of your servers configured by management tools like Salt, Ansible, Puppet, Chef and so on.  
 🔗 [testinfra.readthedocs.io](https://testinfra.readthedocs.io)  
 ⭐ 2,298
 
@@ -5124,11 +5199,15 @@ A Python library that generates static type annotations by collecting runtime ty
 Collection of library stubs for Python, with static types  
 ⭐ 3,964
 
-8. <a href="https://github.com/agronholm/typeguard">agronholm/</a><b><a href="https://github.com/agronholm/typeguard">typeguard</a></b>  
+8. <a href="https://github.com/microsoft/pylance-release">microsoft/</a><b><a href="https://github.com/microsoft/pylance-release">pylance-release</a></b>  
+Fast, feature-rich language support for Python. Documentation and issues for Pylance.  
+⭐ 1,640
+
+9. <a href="https://github.com/agronholm/typeguard">agronholm/</a><b><a href="https://github.com/agronholm/typeguard">typeguard</a></b>  
 Run-time type checker for Python  
 ⭐ 1,401
 
-9. <a href="https://github.com/patrick-kidger/torchtyping">patrick-kidger/</a><b><a href="https://github.com/patrick-kidger/torchtyping">torchtyping</a></b>  
+10. <a href="https://github.com/patrick-kidger/torchtyping">patrick-kidger/</a><b><a href="https://github.com/patrick-kidger/torchtyping">torchtyping</a></b>  
 Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.  
 ⭐ 1,314
 
@@ -5159,869 +5238,808 @@ The Python programming language
 A collection of design patterns/idioms in Python  
 ⭐ 39,064
 
-6. <a href="https://github.com/psf/black">psf/</a><b><a href="https://github.com/psf/black">black</a></b>  
-The uncompromising Python code formatter  
-🔗 [black.readthedocs.io/en/stable](https://black.readthedocs.io/en/stable/)  
-⭐ 36,772
-
-7. <a href="https://github.com/mingrammer/diagrams">mingrammer/</a><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b>  
+6. <a href="https://github.com/mingrammer/diagrams">mingrammer/</a><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b>  
 :art: Diagram as Code for prototyping cloud system architectures  
 🔗 [diagrams.mingrammer.com](https://diagrams.mingrammer.com)  
 ⭐ 34,201
 
-8. <a href="https://github.com/ggerganov/whisper.cpp">ggerganov/</a><b><a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a></b>  
+7. <a href="https://github.com/ggerganov/whisper.cpp">ggerganov/</a><b><a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a></b>  
 Port of OpenAI's Whisper model in C/C++  
 ⭐ 28,090
 
-9. <a href="https://github.com/astral-sh/ruff">astral-sh/</a><b><a href="https://github.com/astral-sh/ruff">ruff</a></b>  
-An extremely fast Python linter and code formatter, written in Rust.  
-🔗 [docs.astral.sh/ruff](https://docs.astral.sh/ruff)  
-⭐ 23,779
-
-10. <a href="https://github.com/keon/algorithms">keon/</a><b><a href="https://github.com/keon/algorithms">algorithms</a></b>  
+8. <a href="https://github.com/keon/algorithms">keon/</a><b><a href="https://github.com/keon/algorithms">algorithms</a></b>  
 Minimal examples of data structures and algorithms in Python  
 ⭐ 23,377
 
-11. <a href="https://github.com/norvig/pytudes">norvig/</a><b><a href="https://github.com/norvig/pytudes">pytudes</a></b>  
+9. <a href="https://github.com/norvig/pytudes">norvig/</a><b><a href="https://github.com/norvig/pytudes">pytudes</a></b>  
 Python programs, usually short, of considerable difficulty, to perfect particular skills.  
 ⭐ 22,210
 
-12. <a href="https://github.com/facebookresearch/audiocraft">facebookresearch/</a><b><a href="https://github.com/facebookresearch/audiocraft">audiocraft</a></b>  
+10. <a href="https://github.com/facebookresearch/audiocraft">facebookresearch/</a><b><a href="https://github.com/facebookresearch/audiocraft">audiocraft</a></b>  
 Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.  
 ⭐ 18,827
 
-13. <a href="https://github.com/openai/openai-python">openai/</a><b><a href="https://github.com/openai/openai-python">openai-python</a></b>  
+11. <a href="https://github.com/openai/openai-python">openai/</a><b><a href="https://github.com/openai/openai-python">openai-python</a></b>  
 The official Python library for the OpenAI API  
 🔗 [pypi.org/project/openai](https://pypi.org/project/openai/)  
 ⭐ 18,483
 
-14. <a href="https://github.com/micropython/micropython">micropython/</a><b><a href="https://github.com/micropython/micropython">micropython</a></b>  
+12. <a href="https://github.com/micropython/micropython">micropython/</a><b><a href="https://github.com/micropython/micropython">micropython</a></b>  
 MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems  
 🔗 [micropython.org](https://micropython.org)  
 ⭐ 17,990
 
-15. <a href="https://github.com/mkdocs/mkdocs">mkdocs/</a><b><a href="https://github.com/mkdocs/mkdocs">mkdocs</a></b>  
+13. <a href="https://github.com/mkdocs/mkdocs">mkdocs/</a><b><a href="https://github.com/mkdocs/mkdocs">mkdocs</a></b>  
 Project documentation with Markdown.  
 🔗 [www.mkdocs.org](https://www.mkdocs.org)  
 ⭐ 17,939
 
-16. <a href="https://github.com/pydantic/pydantic">pydantic/</a><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b>  
+14. <a href="https://github.com/pydantic/pydantic">pydantic/</a><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b>  
 Data validation using Python type hints  
 🔗 [docs.pydantic.dev](https://docs.pydantic.dev)  
 ⭐ 17,680
 
-17. <a href="https://github.com/delgan/loguru">delgan/</a><b><a href="https://github.com/delgan/loguru">loguru</a></b>  
+15. <a href="https://github.com/delgan/loguru">delgan/</a><b><a href="https://github.com/delgan/loguru">loguru</a></b>  
 Python logging made (stupidly) simple  
 ⭐ 17,446
 
-18. <a href="https://github.com/squidfunk/mkdocs-material">squidfunk/</a><b><a href="https://github.com/squidfunk/mkdocs-material">mkdocs-material</a></b>  
+16. <a href="https://github.com/squidfunk/mkdocs-material">squidfunk/</a><b><a href="https://github.com/squidfunk/mkdocs-material">mkdocs-material</a></b>  
 Documentation that simply works  
 🔗 [squidfunk.github.io/mkdocs-material](https://squidfunk.github.io/mkdocs-material/)  
 ⭐ 17,422
 
-19. <a href="https://github.com/rustpython/rustpython">rustpython/</a><b><a href="https://github.com/rustpython/rustpython">RustPython</a></b>  
+17. <a href="https://github.com/rustpython/rustpython">rustpython/</a><b><a href="https://github.com/rustpython/rustpython">RustPython</a></b>  
 A Python Interpreter written in Rust  
 🔗 [rustpython.github.io](https://rustpython.github.io)  
 ⭐ 17,166
 
-20. <a href="https://github.com/modularml/mojo">modularml/</a><b><a href="https://github.com/modularml/mojo">mojo</a></b>  
+18. <a href="https://github.com/modularml/mojo">modularml/</a><b><a href="https://github.com/modularml/mojo">mojo</a></b>  
 The Mojo Programming Language  
 🔗 [docs.modular.com/mojo](https://docs.modular.com/mojo)  
 ⭐ 17,034
 
-21. <a href="https://github.com/kivy/kivy">kivy/</a><b><a href="https://github.com/kivy/kivy">kivy</a></b>  
+19. <a href="https://github.com/kivy/kivy">kivy/</a><b><a href="https://github.com/kivy/kivy">kivy</a></b>  
 Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS  
 🔗 [kivy.org](https://kivy.org)  
 ⭐ 16,725
 
-22. <a href="https://github.com/ipython/ipython">ipython/</a><b><a href="https://github.com/ipython/ipython">ipython</a></b>  
+20. <a href="https://github.com/ipython/ipython">ipython/</a><b><a href="https://github.com/ipython/ipython">ipython</a></b>  
 Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.  
 🔗 [ipython.readthedocs.org](https://ipython.readthedocs.org)  
 ⭐ 16,089
 
-23. <a href="https://github.com/alievk/avatarify-python">alievk/</a><b><a href="https://github.com/alievk/avatarify-python">avatarify-python</a></b>  
+21. <a href="https://github.com/alievk/avatarify-python">alievk/</a><b><a href="https://github.com/alievk/avatarify-python">avatarify-python</a></b>  
 Avatars for Zoom, Skype and other video-conferencing apps.  
 ⭐ 16,025
 
-24. <a href="https://github.com/blakeblackshear/frigate">blakeblackshear/</a><b><a href="https://github.com/blakeblackshear/frigate">frigate</a></b>  
+22. <a href="https://github.com/blakeblackshear/frigate">blakeblackshear/</a><b><a href="https://github.com/blakeblackshear/frigate">frigate</a></b>  
 NVR with realtime local object detection for IP cameras  
 🔗 [frigate.video](https://frigate.video)  
 ⭐ 13,667
 
-25. <a href="https://github.com/google/yapf">google/</a><b><a href="https://github.com/google/yapf">yapf</a></b>  
-A formatter for Python files  
-⭐ 13,587
-
-26. <a href="https://github.com/pre-commit/pre-commit">pre-commit/</a><b><a href="https://github.com/pre-commit/pre-commit">pre-commit</a></b>  
-A framework for managing and maintaining multi-language pre-commit hooks.  
-🔗 [pre-commit.com](https://pre-commit.com)  
-⭐ 11,660
-
-27. <a href="https://github.com/zulko/moviepy">zulko/</a><b><a href="https://github.com/zulko/moviepy">moviepy</a></b>  
+23. <a href="https://github.com/zulko/moviepy">zulko/</a><b><a href="https://github.com/zulko/moviepy">moviepy</a></b>  
 Video editing with Python  
 🔗 [zulko.github.io/moviepy](https://zulko.github.io/moviepy/)  
 ⭐ 11,505
 
-28. <a href="https://github.com/python-pillow/pillow">python-pillow/</a><b><a href="https://github.com/python-pillow/pillow">Pillow</a></b>  
+24. <a href="https://github.com/python-pillow/pillow">python-pillow/</a><b><a href="https://github.com/python-pillow/pillow">Pillow</a></b>  
 Python Imaging Library (Fork)  
 🔗 [python-pillow.org](https://python-pillow.org)  
 ⭐ 11,481
 
-29. <a href="https://github.com/dbader/schedule">dbader/</a><b><a href="https://github.com/dbader/schedule">schedule</a></b>  
+25. <a href="https://github.com/dbader/schedule">dbader/</a><b><a href="https://github.com/dbader/schedule">schedule</a></b>  
 Python job scheduling for humans.  
 🔗 [schedule.readthedocs.io](https://schedule.readthedocs.io/)  
 ⭐ 11,371
 
-30. <a href="https://github.com/pyodide/pyodide">pyodide/</a><b><a href="https://github.com/pyodide/pyodide">pyodide</a></b>  
+26. <a href="https://github.com/pyodide/pyodide">pyodide/</a><b><a href="https://github.com/pyodide/pyodide">pyodide</a></b>  
 Pyodide is a Python distribution for the browser and Node.js based on WebAssembly  
 🔗 [pyodide.org/en/stable](https://pyodide.org/en/stable/)  
 ⭐ 11,056
 
-31. <a href="https://github.com/nuitka/nuitka">nuitka/</a><b><a href="https://github.com/nuitka/nuitka">Nuitka</a></b>  
+27. <a href="https://github.com/nuitka/nuitka">nuitka/</a><b><a href="https://github.com/nuitka/nuitka">Nuitka</a></b>  
 Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.   
 🔗 [nuitka.net](http://nuitka.net)  
 ⭐ 10,471
 
-32. <a href="https://github.com/pyo3/pyo3">pyo3/</a><b><a href="https://github.com/pyo3/pyo3">pyo3</a></b>  
+28. <a href="https://github.com/pyo3/pyo3">pyo3/</a><b><a href="https://github.com/pyo3/pyo3">pyo3</a></b>  
 Rust bindings for the Python interpreter  
 🔗 [pyo3.rs](https://pyo3.rs)  
 ⭐ 10,451
 
-33. <a href="https://github.com/ninja-build/ninja">ninja-build/</a><b><a href="https://github.com/ninja-build/ninja">ninja</a></b>  
+29. <a href="https://github.com/ninja-build/ninja">ninja-build/</a><b><a href="https://github.com/ninja-build/ninja">ninja</a></b>  
 Ninja is a small build system with a focus on speed.  
 🔗 [ninja-build.org](https://ninja-build.org/)  
 ⭐ 10,302
 
-34. <a href="https://github.com/pytube/pytube">pytube/</a><b><a href="https://github.com/pytube/pytube">pytube</a></b>  
+30. <a href="https://github.com/pytube/pytube">pytube/</a><b><a href="https://github.com/pytube/pytube">pytube</a></b>  
 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.  
 🔗 [pytube.io](https://pytube.io)  
 ⭐ 9,997
 
-35. <a href="https://github.com/openai/triton">openai/</a><b><a href="https://github.com/openai/triton">triton</a></b>  
+31. <a href="https://github.com/openai/triton">openai/</a><b><a href="https://github.com/openai/triton">triton</a></b>  
 Development repository for the Triton language and compiler  
 🔗 [triton-lang.org](https://triton-lang.org/)  
 ⭐ 9,981
 
-36. <a href="https://github.com/caronc/apprise">caronc/</a><b><a href="https://github.com/caronc/apprise">apprise</a></b>  
+32. <a href="https://github.com/caronc/apprise">caronc/</a><b><a href="https://github.com/caronc/apprise">apprise</a></b>  
 Apprise - Push Notifications that work with just about every platform!  
 🔗 [hub.docker.com/r/caronc/apprise](https://hub.docker.com/r/caronc/apprise)  
 ⭐ 9,949
 
-37. <a href="https://github.com/magicstack/uvloop">magicstack/</a><b><a href="https://github.com/magicstack/uvloop">uvloop</a></b>  
+33. <a href="https://github.com/magicstack/uvloop">magicstack/</a><b><a href="https://github.com/magicstack/uvloop">uvloop</a></b>  
 Ultra fast asyncio event loop.  
 ⭐ 9,846
 
-38. <a href="https://github.com/secdev/scapy">secdev/</a><b><a href="https://github.com/secdev/scapy">scapy</a></b>  
+34. <a href="https://github.com/secdev/scapy">secdev/</a><b><a href="https://github.com/secdev/scapy">scapy</a></b>  
 Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.  
 🔗 [scapy.net](https://scapy.net)  
 ⭐ 9,821
 
-39. <a href="https://github.com/pallets/jinja">pallets/</a><b><a href="https://github.com/pallets/jinja">jinja</a></b>  
+35. <a href="https://github.com/pallets/jinja">pallets/</a><b><a href="https://github.com/pallets/jinja">jinja</a></b>  
 A very fast and expressive template engine.  
 🔗 [jinja.palletsprojects.com](https://jinja.palletsprojects.com)  
 ⭐ 9,794
 
-40. <a href="https://github.com/asweigart/pyautogui">asweigart/</a><b><a href="https://github.com/asweigart/pyautogui">pyautogui</a></b>  
+36. <a href="https://github.com/asweigart/pyautogui">asweigart/</a><b><a href="https://github.com/asweigart/pyautogui">pyautogui</a></b>  
 A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.  
 ⭐ 9,264
 
-41. <a href="https://github.com/aws/serverless-application-model">aws/</a><b><a href="https://github.com/aws/serverless-application-model">serverless-application-model</a></b>  
+37. <a href="https://github.com/aws/serverless-application-model">aws/</a><b><a href="https://github.com/aws/serverless-application-model">serverless-application-model</a></b>  
 The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.  
 🔗 [aws.amazon.com/serverless/sam](https://aws.amazon.com/serverless/sam)  
 ⭐ 9,205
 
-42. <a href="https://github.com/paramiko/paramiko">paramiko/</a><b><a href="https://github.com/paramiko/paramiko">paramiko</a></b>  
+38. <a href="https://github.com/paramiko/paramiko">paramiko/</a><b><a href="https://github.com/paramiko/paramiko">paramiko</a></b>  
 The leading native Python SSHv2 protocol library.  
 🔗 [paramiko.org](http://paramiko.org)  
 ⭐ 8,725
 
-43. <a href="https://github.com/cython/cython">cython/</a><b><a href="https://github.com/cython/cython">cython</a></b>  
+39. <a href="https://github.com/cython/cython">cython/</a><b><a href="https://github.com/cython/cython">cython</a></b>  
 The most widely used Python to C compiler  
 🔗 [cython.org](https://cython.org)  
 ⭐ 8,718
 
-44. <a href="https://github.com/boto/boto3">boto/</a><b><a href="https://github.com/boto/boto3">boto3</a></b>  
+40. <a href="https://github.com/boto/boto3">boto/</a><b><a href="https://github.com/boto/boto3">boto3</a></b>  
 AWS SDK for Python  
 🔗 [aws.amazon.com/sdk-for-python](https://aws.amazon.com/sdk-for-python/)  
 ⭐ 8,582
 
-45. <a href="https://github.com/arrow-py/arrow">arrow-py/</a><b><a href="https://github.com/arrow-py/arrow">arrow</a></b>  
+41. <a href="https://github.com/arrow-py/arrow">arrow-py/</a><b><a href="https://github.com/arrow-py/arrow">arrow</a></b>  
 🏹 Better dates & times for Python  
 🔗 [arrow.readthedocs.io](https://arrow.readthedocs.io)  
 ⭐ 8,494
 
-46. <a href="https://github.com/pypa/pipx">pypa/</a><b><a href="https://github.com/pypa/pipx">pipx</a></b>  
-Install and Run Python Applications in Isolated Environments  
-🔗 [pipx.pypa.io](https://pipx.pypa.io)  
-⭐ 8,182
-
-47. <a href="https://github.com/facebookresearch/hydra">facebookresearch/</a><b><a href="https://github.com/facebookresearch/hydra">hydra</a></b>  
+42. <a href="https://github.com/facebookresearch/hydra">facebookresearch/</a><b><a href="https://github.com/facebookresearch/hydra">hydra</a></b>  
 Hydra is a framework for elegantly configuring complex applications  
 🔗 [hydra.cc](https://hydra.cc)  
 ⭐ 7,965
 
-48. <a href="https://github.com/xonsh/xonsh">xonsh/</a><b><a href="https://github.com/xonsh/xonsh">xonsh</a></b>  
+43. <a href="https://github.com/xonsh/xonsh">xonsh/</a><b><a href="https://github.com/xonsh/xonsh">xonsh</a></b>  
 :shell: Python-powered, cross-platform, Unix-gazing shell.  
 🔗 [xon.sh](http://xon.sh)  
 ⭐ 7,792
 
-49. <a href="https://github.com/eternnoir/pytelegrambotapi">eternnoir/</a><b><a href="https://github.com/eternnoir/pytelegrambotapi">pyTelegramBotAPI</a></b>  
+44. <a href="https://github.com/eternnoir/pytelegrambotapi">eternnoir/</a><b><a href="https://github.com/eternnoir/pytelegrambotapi">pyTelegramBotAPI</a></b>  
 Python Telegram bot api.  
 ⭐ 7,521
 
-50. <a href="https://github.com/kellyjonbrazil/jc">kellyjonbrazil/</a><b><a href="https://github.com/kellyjonbrazil/jc">jc</a></b>  
+45. <a href="https://github.com/kellyjonbrazil/jc">kellyjonbrazil/</a><b><a href="https://github.com/kellyjonbrazil/jc">jc</a></b>  
 CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.  
 ⭐ 7,395
 
-51. <a href="https://github.com/googleapis/google-api-python-client">googleapis/</a><b><a href="https://github.com/googleapis/google-api-python-client">google-api-python-client</a></b>  
+46. <a href="https://github.com/googleapis/google-api-python-client">googleapis/</a><b><a href="https://github.com/googleapis/google-api-python-client">google-api-python-client</a></b>  
 🐍 The official Python client library for Google's discovery based APIs.  
 🔗 [googleapis.github.io/google-api-python-client/docs](https://googleapis.github.io/google-api-python-client/docs/)  
 ⭐ 7,240
 
-52. <a href="https://github.com/py-pdf/pypdf2">py-pdf/</a><b><a href="https://github.com/py-pdf/pypdf2">pypdf</a></b>  
+47. <a href="https://github.com/py-pdf/pypdf2">py-pdf/</a><b><a href="https://github.com/py-pdf/pypdf2">pypdf</a></b>  
 A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files  
 🔗 [pypdf.readthedocs.io/en/latest](https://pypdf.readthedocs.io/en/latest/)  
 ⭐ 7,053
 
-53. <a href="https://github.com/theskumar/python-dotenv">theskumar/</a><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b>  
+48. <a href="https://github.com/theskumar/python-dotenv">theskumar/</a><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b>  
 Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.  
 🔗 [saurabh-kumar.com/python-dotenv](https://saurabh-kumar.com/python-dotenv/)  
 ⭐ 6,883
 
-54. <a href="https://github.com/googlecloudplatform/python-docs-samples">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/python-docs-samples">python-docs-samples</a></b>  
+49. <a href="https://github.com/googlecloudplatform/python-docs-samples">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/python-docs-samples">python-docs-samples</a></b>  
 Code samples used on cloud.google.com  
 ⭐ 6,864
 
-55. <a href="https://github.com/google/latexify_py">google/</a><b><a href="https://github.com/google/latexify_py">latexify_py</a></b>  
+50. <a href="https://github.com/google/latexify_py">google/</a><b><a href="https://github.com/google/latexify_py">latexify_py</a></b>  
 A library to generate LaTeX expression from Python code.  
 ⭐ 6,852
 
-56. <a href="https://github.com/marshmallow-code/marshmallow">marshmallow-code/</a><b><a href="https://github.com/marshmallow-code/marshmallow">marshmallow</a></b>  
+51. <a href="https://github.com/marshmallow-code/marshmallow">marshmallow-code/</a><b><a href="https://github.com/marshmallow-code/marshmallow">marshmallow</a></b>  
 A lightweight library for converting complex objects to and from simple Python datatypes.  
 🔗 [marshmallow.readthedocs.io](https://marshmallow.readthedocs.io/)  
 ⭐ 6,819
 
-57. <a href="https://github.com/hugapi/hug">hugapi/</a><b><a href="https://github.com/hugapi/hug">hug</a></b>  
+52. <a href="https://github.com/hugapi/hug">hugapi/</a><b><a href="https://github.com/hugapi/hug">hug</a></b>  
 Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.  
 ⭐ 6,804
 
-58. <a href="https://github.com/pygithub/pygithub">pygithub/</a><b><a href="https://github.com/pygithub/pygithub">PyGithub</a></b>  
+53. <a href="https://github.com/pygithub/pygithub">pygithub/</a><b><a href="https://github.com/pygithub/pygithub">PyGithub</a></b>  
 Typed interactions with the GitHub API v3  
 🔗 [pygithub.readthedocs.io](https://pygithub.readthedocs.io/)  
 ⭐ 6,558
 
-59. <a href="https://github.com/pycqa/isort">pycqa/</a><b><a href="https://github.com/pycqa/isort">isort</a></b>  
-A Python utility / library to sort imports.  
-🔗 [pycqa.github.io/isort](https://pycqa.github.io/isort/)  
-⭐ 6,239
-
-60. <a href="https://github.com/openai/point-e">openai/</a><b><a href="https://github.com/openai/point-e">point-e</a></b>  
+54. <a href="https://github.com/openai/point-e">openai/</a><b><a href="https://github.com/openai/point-e">point-e</a></b>  
 Point cloud diffusion for 3D model synthesis  
 ⭐ 6,187
 
-61. <a href="https://github.com/pyca/cryptography">pyca/</a><b><a href="https://github.com/pyca/cryptography">cryptography</a></b>  
+55. <a href="https://github.com/pyca/cryptography">pyca/</a><b><a href="https://github.com/pyca/cryptography">cryptography</a></b>  
 cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.  
 🔗 [cryptography.io](https://cryptography.io)  
 ⭐ 6,102
 
-62. <a href="https://github.com/sdispater/pendulum">sdispater/</a><b><a href="https://github.com/sdispater/pendulum">pendulum</a></b>  
+56. <a href="https://github.com/sdispater/pendulum">sdispater/</a><b><a href="https://github.com/sdispater/pendulum">pendulum</a></b>  
 Python datetimes made easy  
 🔗 [pendulum.eustace.io](https://pendulum.eustace.io)  
 ⭐ 5,963
 
-63. <a href="https://github.com/sphinx-doc/sphinx">sphinx-doc/</a><b><a href="https://github.com/sphinx-doc/sphinx">sphinx</a></b>  
+57. <a href="https://github.com/sphinx-doc/sphinx">sphinx-doc/</a><b><a href="https://github.com/sphinx-doc/sphinx">sphinx</a></b>  
 The Sphinx documentation generator  
 🔗 [www.sphinx-doc.org](https://www.sphinx-doc.org/)  
 ⭐ 5,940
 
-64. <a href="https://github.com/scikit-image/scikit-image">scikit-image/</a><b><a href="https://github.com/scikit-image/scikit-image">scikit-image</a></b>  
+58. <a href="https://github.com/scikit-image/scikit-image">scikit-image/</a><b><a href="https://github.com/scikit-image/scikit-image">scikit-image</a></b>  
 Image processing in Python  
 🔗 [scikit-image.org](https://scikit-image.org)  
 ⭐ 5,777
 
-65. <a href="https://github.com/wireservice/csvkit">wireservice/</a><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b>  
+59. <a href="https://github.com/wireservice/csvkit">wireservice/</a><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b>  
 A suite of utilities for converting to and working with CSV, the king of tabular file formats.  
 🔗 [csvkit.readthedocs.io](https://csvkit.readthedocs.io)  
 ⭐ 5,738
 
-66. <a href="https://github.com/jd/tenacity">jd/</a><b><a href="https://github.com/jd/tenacity">tenacity</a></b>  
+60. <a href="https://github.com/jd/tenacity">jd/</a><b><a href="https://github.com/jd/tenacity">tenacity</a></b>  
 Retrying library for Python  
 🔗 [tenacity.readthedocs.io](http://tenacity.readthedocs.io)  
 ⭐ 5,737
 
-67. <a href="https://github.com/bndr/pipreqs">bndr/</a><b><a href="https://github.com/bndr/pipreqs">pipreqs</a></b>  
+61. <a href="https://github.com/bndr/pipreqs">bndr/</a><b><a href="https://github.com/bndr/pipreqs">pipreqs</a></b>  
 pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.  
 ⭐ 5,658
 
-68. <a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud-photos-downloader/</a><b><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud_photos_downloader</a></b>  
+62. <a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud-photos-downloader/</a><b><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud_photos_downloader</a></b>  
 A command-line tool to download photos from iCloud  
 ⭐ 5,631
 
-69. <a href="https://github.com/agronholm/apscheduler">agronholm/</a><b><a href="https://github.com/agronholm/apscheduler">apscheduler</a></b>  
+63. <a href="https://github.com/agronholm/apscheduler">agronholm/</a><b><a href="https://github.com/agronholm/apscheduler">apscheduler</a></b>  
 Task scheduling library for Python  
 ⭐ 5,561
 
-70. <a href="https://github.com/ijl/orjson">ijl/</a><b><a href="https://github.com/ijl/orjson">orjson</a></b>  
+64. <a href="https://github.com/ijl/orjson">ijl/</a><b><a href="https://github.com/ijl/orjson">orjson</a></b>  
 Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy  
 ⭐ 5,341
 
-71. <a href="https://github.com/pytransitions/transitions">pytransitions/</a><b><a href="https://github.com/pytransitions/transitions">transitions</a></b>  
+65. <a href="https://github.com/pytransitions/transitions">pytransitions/</a><b><a href="https://github.com/pytransitions/transitions">transitions</a></b>  
 A lightweight, object-oriented finite state machine implementation in Python with many extensions  
 ⭐ 5,252
 
-72. <a href="https://github.com/pdfminer/pdfminer.six">pdfminer/</a><b><a href="https://github.com/pdfminer/pdfminer.six">pdfminer.six</a></b>  
+66. <a href="https://github.com/pdfminer/pdfminer.six">pdfminer/</a><b><a href="https://github.com/pdfminer/pdfminer.six">pdfminer.six</a></b>  
 Community maintained fork of pdfminer - we fathom PDF  
 🔗 [pdfminersix.readthedocs.io](https://pdfminersix.readthedocs.io)  
 ⭐ 5,188
 
-73. <a href="https://github.com/buildbot/buildbot">buildbot/</a><b><a href="https://github.com/buildbot/buildbot">buildbot</a></b>  
+67. <a href="https://github.com/buildbot/buildbot">buildbot/</a><b><a href="https://github.com/buildbot/buildbot">buildbot</a></b>  
 Python-based continuous integration testing framework; your pull requests are more than welcome!  
 🔗 [www.buildbot.net](https://www.buildbot.net)  
 ⭐ 5,148
 
-74. <a href="https://github.com/pycqa/pylint">pycqa/</a><b><a href="https://github.com/pycqa/pylint">pylint</a></b>  
-It's not just a linter that annoys you!  
-🔗 [pylint.readthedocs.io/en/latest](https://pylint.readthedocs.io/en/latest/)  
-⭐ 5,037
-
-75. <a href="https://github.com/prompt-toolkit/ptpython">prompt-toolkit/</a><b><a href="https://github.com/prompt-toolkit/ptpython">ptpython</a></b>  
+68. <a href="https://github.com/prompt-toolkit/ptpython">prompt-toolkit/</a><b><a href="https://github.com/prompt-toolkit/ptpython">ptpython</a></b>  
 A better Python REPL  
 ⭐ 4,987
 
-76. <a href="https://github.com/pycqa/pycodestyle">pycqa/</a><b><a href="https://github.com/pycqa/pycodestyle">pycodestyle</a></b>  
+69. <a href="https://github.com/pycqa/pycodestyle">pycqa/</a><b><a href="https://github.com/pycqa/pycodestyle">pycodestyle</a></b>  
 Simple Python style checker in one Python file  
 🔗 [pycodestyle.pycqa.org](https://pycodestyle.pycqa.org)  
 ⭐ 4,953
 
-77. <a href="https://github.com/rsalmei/alive-progress">rsalmei/</a><b><a href="https://github.com/rsalmei/alive-progress">alive-progress</a></b>  
+70. <a href="https://github.com/rsalmei/alive-progress">rsalmei/</a><b><a href="https://github.com/rsalmei/alive-progress">alive-progress</a></b>  
 A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!  
 ⭐ 4,928
 
-78. <a href="https://github.com/timdettmers/bitsandbytes">timdettmers/</a><b><a href="https://github.com/timdettmers/bitsandbytes">bitsandbytes</a></b>  
+71. <a href="https://github.com/timdettmers/bitsandbytes">timdettmers/</a><b><a href="https://github.com/timdettmers/bitsandbytes">bitsandbytes</a></b>  
 Accessible large language models via k-bit quantization for PyTorch.  
 ⭐ 4,904
 
-79. <a href="https://github.com/spotify/pedalboard">spotify/</a><b><a href="https://github.com/spotify/pedalboard">pedalboard</a></b>  
+72. <a href="https://github.com/spotify/pedalboard">spotify/</a><b><a href="https://github.com/spotify/pedalboard">pedalboard</a></b>  
 🎛 🔊 A Python library for working with audio.  
 🔗 [spotify.github.io/pedalboard](https://spotify.github.io/pedalboard/)  
 ⭐ 4,748
 
-80. <a href="https://github.com/jorgebastida/awslogs">jorgebastida/</a><b><a href="https://github.com/jorgebastida/awslogs">awslogs</a></b>  
+73. <a href="https://github.com/jorgebastida/awslogs">jorgebastida/</a><b><a href="https://github.com/jorgebastida/awslogs">awslogs</a></b>  
 AWS CloudWatch logs for Humans™  
 ⭐ 4,725
 
-81. <a href="https://github.com/hhatto/autopep8">hhatto/</a><b><a href="https://github.com/hhatto/autopep8">autopep8</a></b>  
+74. <a href="https://github.com/hhatto/autopep8">hhatto/</a><b><a href="https://github.com/hhatto/autopep8">autopep8</a></b>  
 A tool that automatically formats Python code to conform to the PEP 8 style guide.  
 🔗 [pypi.org/project/autopep8](https://pypi.org/project/autopep8/)  
 ⭐ 4,485
 
-82. <a href="https://github.com/pytoolz/toolz">pytoolz/</a><b><a href="https://github.com/pytoolz/toolz">toolz</a></b>  
+75. <a href="https://github.com/pytoolz/toolz">pytoolz/</a><b><a href="https://github.com/pytoolz/toolz">toolz</a></b>  
 A functional standard library for Python.  
 🔗 [toolz.readthedocs.org](http://toolz.readthedocs.org/)  
 ⭐ 4,464
 
-83. <a href="https://github.com/tebelorg/rpa-python">tebelorg/</a><b><a href="https://github.com/tebelorg/rpa-python">RPA-Python</a></b>  
+76. <a href="https://github.com/tebelorg/rpa-python">tebelorg/</a><b><a href="https://github.com/tebelorg/rpa-python">RPA-Python</a></b>  
 Python package for doing RPA  
 ⭐ 4,392
 
-84. <a href="https://github.com/pyinvoke/invoke">pyinvoke/</a><b><a href="https://github.com/pyinvoke/invoke">invoke</a></b>  
+77. <a href="https://github.com/pyinvoke/invoke">pyinvoke/</a><b><a href="https://github.com/pyinvoke/invoke">invoke</a></b>  
 Pythonic task management & command execution.  
 🔗 [pyinvoke.org](http://pyinvoke.org)  
 ⭐ 4,199
 
-85. <a href="https://github.com/bogdanp/dramatiq">bogdanp/</a><b><a href="https://github.com/bogdanp/dramatiq">dramatiq</a></b>  
+78. <a href="https://github.com/bogdanp/dramatiq">bogdanp/</a><b><a href="https://github.com/bogdanp/dramatiq">dramatiq</a></b>  
 A fast and reliable background task processing library for Python 3.  
 🔗 [dramatiq.io](https://dramatiq.io)  
 ⭐ 3,945
 
-86. <a href="https://github.com/evhub/coconut">evhub/</a><b><a href="https://github.com/evhub/coconut">coconut</a></b>  
+79. <a href="https://github.com/evhub/coconut">evhub/</a><b><a href="https://github.com/evhub/coconut">coconut</a></b>  
 Simple, elegant, Pythonic functional programming.  
 🔗 [coconut-lang.org](http://coconut-lang.org)  
 ⭐ 3,907
 
-87. <a href="https://github.com/adafruit/circuitpython">adafruit/</a><b><a href="https://github.com/adafruit/circuitpython">circuitpython</a></b>  
+80. <a href="https://github.com/adafruit/circuitpython">adafruit/</a><b><a href="https://github.com/adafruit/circuitpython">circuitpython</a></b>  
 CircuitPython - a Python implementation for teaching coding with microcontrollers  
 🔗 [circuitpython.org](https://circuitpython.org)  
 ⭐ 3,815
 
-88. <a href="https://github.com/miguelgrinberg/python-socketio">miguelgrinberg/</a><b><a href="https://github.com/miguelgrinberg/python-socketio">python-socketio</a></b>  
+81. <a href="https://github.com/miguelgrinberg/python-socketio">miguelgrinberg/</a><b><a href="https://github.com/miguelgrinberg/python-socketio">python-socketio</a></b>  
 Python Socket.IO server and client  
 ⭐ 3,689
 
-89. <a href="https://github.com/rspeer/python-ftfy">rspeer/</a><b><a href="https://github.com/rspeer/python-ftfy">python-ftfy</a></b>  
+82. <a href="https://github.com/rspeer/python-ftfy">rspeer/</a><b><a href="https://github.com/rspeer/python-ftfy">python-ftfy</a></b>  
 Fixes mojibake and other glitches in Unicode text, after the fact.  
 🔗 [ftfy.readthedocs.org](http://ftfy.readthedocs.org)  
 ⭐ 3,659
 
-90. <a href="https://github.com/joblib/joblib">joblib/</a><b><a href="https://github.com/joblib/joblib">joblib</a></b>  
+83. <a href="https://github.com/joblib/joblib">joblib/</a><b><a href="https://github.com/joblib/joblib">joblib</a></b>  
 Computing with Python functions.  
 🔗 [joblib.readthedocs.org](http://joblib.readthedocs.org)  
 ⭐ 3,576
 
-91. <a href="https://github.com/python-markdown/markdown">python-markdown/</a><b><a href="https://github.com/python-markdown/markdown">markdown</a></b>  
+84. <a href="https://github.com/python-markdown/markdown">python-markdown/</a><b><a href="https://github.com/python-markdown/markdown">markdown</a></b>  
 A Python implementation of John Gruber’s Markdown with Extension support.  
 🔗 [python-markdown.github.io](https://python-markdown.github.io/)  
 ⭐ 3,518
 
-92. <a href="https://github.com/zeromq/pyzmq">zeromq/</a><b><a href="https://github.com/zeromq/pyzmq">pyzmq</a></b>  
+85. <a href="https://github.com/zeromq/pyzmq">zeromq/</a><b><a href="https://github.com/zeromq/pyzmq">pyzmq</a></b>  
 PyZMQ:  Python bindings for zeromq  
 🔗 [zguide.zeromq.org/py:all](http://zguide.zeromq.org/py:all)  
 ⭐ 3,517
 
-93. <a href="https://github.com/ets-labs/python-dependency-injector">ets-labs/</a><b><a href="https://github.com/ets-labs/python-dependency-injector">python-dependency-injector</a></b>  
+86. <a href="https://github.com/ets-labs/python-dependency-injector">ets-labs/</a><b><a href="https://github.com/ets-labs/python-dependency-injector">python-dependency-injector</a></b>  
 Dependency injection framework for Python  
 🔗 [python-dependency-injector.ets-labs.org](https://python-dependency-injector.ets-labs.org/)  
 ⭐ 3,488
 
-94. <a href="https://github.com/pypi/warehouse">pypi/</a><b><a href="https://github.com/pypi/warehouse">warehouse</a></b>  
+87. <a href="https://github.com/pypi/warehouse">pypi/</a><b><a href="https://github.com/pypi/warehouse">warehouse</a></b>  
 The Python Package Index  
 🔗 [pypi.org](https://pypi.org)  
 ⭐ 3,437
 
-95. <a href="https://github.com/ashleve/lightning-hydra-template">ashleve/</a><b><a href="https://github.com/ashleve/lightning-hydra-template">lightning-hydra-template</a></b>  
+88. <a href="https://github.com/ashleve/lightning-hydra-template">ashleve/</a><b><a href="https://github.com/ashleve/lightning-hydra-template">lightning-hydra-template</a></b>  
 PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡  
 ⭐ 3,435
 
-96. <a href="https://github.com/tartley/colorama">tartley/</a><b><a href="https://github.com/tartley/colorama">colorama</a></b>  
+89. <a href="https://github.com/tartley/colorama">tartley/</a><b><a href="https://github.com/tartley/colorama">colorama</a></b>  
 Simple cross-platform colored terminal text in Python  
 ⭐ 3,368
 
-97. <a href="https://github.com/more-itertools/more-itertools">more-itertools/</a><b><a href="https://github.com/more-itertools/more-itertools">more-itertools</a></b>  
+90. <a href="https://github.com/more-itertools/more-itertools">more-itertools/</a><b><a href="https://github.com/more-itertools/more-itertools">more-itertools</a></b>  
 More routines for operating on iterables, beyond itertools  
 🔗 [more-itertools.rtfd.io](https://more-itertools.rtfd.io)  
 ⭐ 3,361
 
-98. <a href="https://github.com/osohq/oso">osohq/</a><b><a href="https://github.com/osohq/oso">oso</a></b>  
+91. <a href="https://github.com/osohq/oso">osohq/</a><b><a href="https://github.com/osohq/oso">oso</a></b>  
 Oso is a batteries-included framework for building authorization in your application.  
 🔗 [docs.osohq.com](https://docs.osohq.com)  
 ⭐ 3,357
 
-99. <a href="https://github.com/pydata/xarray">pydata/</a><b><a href="https://github.com/pydata/xarray">xarray</a></b>  
+92. <a href="https://github.com/pydata/xarray">pydata/</a><b><a href="https://github.com/pydata/xarray">xarray</a></b>  
 N-D labeled arrays and datasets in Python  
 🔗 [xarray.dev](https://xarray.dev)  
 ⭐ 3,348
 
-100. <a href="https://github.com/jorisschellekens/borb">jorisschellekens/</a><b><a href="https://github.com/jorisschellekens/borb">borb</a></b>  
+93. <a href="https://github.com/jorisschellekens/borb">jorisschellekens/</a><b><a href="https://github.com/jorisschellekens/borb">borb</a></b>  
 borb is a library for reading, creating and manipulating PDF files in python.  
 🔗 [borbpdf.com](https://borbpdf.com/)  
 ⭐ 3,247
 
-101. <a href="https://github.com/suor/funcy">suor/</a><b><a href="https://github.com/suor/funcy">funcy</a></b>  
+94. <a href="https://github.com/suor/funcy">suor/</a><b><a href="https://github.com/suor/funcy">funcy</a></b>  
 A fancy and practical functional tools  
 ⭐ 3,227
 
-102. <a href="https://github.com/asottile/pyupgrade">asottile/</a><b><a href="https://github.com/asottile/pyupgrade">pyupgrade</a></b>  
-A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.  
-⭐ 3,216
-
-103. <a href="https://github.com/pycqa/flake8">pycqa/</a><b><a href="https://github.com/pycqa/flake8">flake8</a></b>  
-flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.  
-🔗 [flake8.pycqa.org](https://flake8.pycqa.org)  
-⭐ 3,186
-
-104. <a href="https://github.com/pyo3/maturin">pyo3/</a><b><a href="https://github.com/pyo3/maturin">maturin</a></b>  
+95. <a href="https://github.com/pyo3/maturin">pyo3/</a><b><a href="https://github.com/pyo3/maturin">maturin</a></b>  
 Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages  
 🔗 [maturin.rs](https://maturin.rs)  
 ⭐ 3,032
 
-105. <a href="https://github.com/jendrikseipp/vulture">jendrikseipp/</a><b><a href="https://github.com/jendrikseipp/vulture">vulture</a></b>  
-Find dead Python code  
-⭐ 2,918
-
-106. <a href="https://github.com/spotify/basic-pitch">spotify/</a><b><a href="https://github.com/spotify/basic-pitch">basic-pitch</a></b>  
+96. <a href="https://github.com/spotify/basic-pitch">spotify/</a><b><a href="https://github.com/spotify/basic-pitch">basic-pitch</a></b>  
 A lightweight yet powerful audio-to-MIDI converter with pitch bend detection  
 🔗 [basicpitch.io](https://basicpitch.io)  
 ⭐ 2,760
 
-107. <a href="https://github.com/tox-dev/pipdeptree">tox-dev/</a><b><a href="https://github.com/tox-dev/pipdeptree">pipdeptree</a></b>  
+97. <a href="https://github.com/tox-dev/pipdeptree">tox-dev/</a><b><a href="https://github.com/tox-dev/pipdeptree">pipdeptree</a></b>  
 A command line utility to display dependency tree of the installed Python packages  
 🔗 [pypi.python.org/pypi/pipdeptree](https://pypi.python.org/pypi/pipdeptree)  
 ⭐ 2,631
 
-108. <a href="https://github.com/legrandin/pycryptodome">legrandin/</a><b><a href="https://github.com/legrandin/pycryptodome">pycryptodome</a></b>  
+98. <a href="https://github.com/legrandin/pycryptodome">legrandin/</a><b><a href="https://github.com/legrandin/pycryptodome">pycryptodome</a></b>  
 A self-contained cryptographic library for Python  
 🔗 [www.pycryptodome.org](https://www.pycryptodome.org)  
 ⭐ 2,623
 
-109. <a href="https://github.com/liiight/notifiers">liiight/</a><b><a href="https://github.com/liiight/notifiers">notifiers</a></b>  
+99. <a href="https://github.com/liiight/notifiers">liiight/</a><b><a href="https://github.com/liiight/notifiers">notifiers</a></b>  
 The easy way to send notifications  
 🔗 [notifiers.readthedocs.io](http://notifiers.readthedocs.io/)  
 ⭐ 2,578
 
-110. <a href="https://github.com/camelot-dev/camelot">camelot-dev/</a><b><a href="https://github.com/camelot-dev/camelot">camelot</a></b>  
+100. <a href="https://github.com/camelot-dev/camelot">camelot-dev/</a><b><a href="https://github.com/camelot-dev/camelot">camelot</a></b>  
 A Python library to extract tabular data from PDFs  
 🔗 [camelot-py.readthedocs.io](https://camelot-py.readthedocs.io)  
 ⭐ 2,539
 
-111. <a href="https://github.com/lxml/lxml">lxml/</a><b><a href="https://github.com/lxml/lxml">lxml</a></b>  
+101. <a href="https://github.com/lxml/lxml">lxml/</a><b><a href="https://github.com/lxml/lxml">lxml</a></b>  
 The lxml XML toolkit for Python  
 🔗 [lxml.de](https://lxml.de/)  
 ⭐ 2,535
 
-112. <a href="https://github.com/whylabs/whylogs">whylabs/</a><b><a href="https://github.com/whylabs/whylogs">whylogs</a></b>  
+102. <a href="https://github.com/whylabs/whylogs">whylabs/</a><b><a href="https://github.com/whylabs/whylogs">whylogs</a></b>  
 An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collection, ensuring safety & robustness. 📈  
 🔗 [whylogs.readthedocs.io](https://whylogs.readthedocs.io/)  
 ⭐ 2,496
 
-113. <a href="https://github.com/pyinfra-dev/pyinfra">pyinfra-dev/</a><b><a href="https://github.com/pyinfra-dev/pyinfra">pyinfra</a></b>  
+103. <a href="https://github.com/pyinfra-dev/pyinfra">pyinfra-dev/</a><b><a href="https://github.com/pyinfra-dev/pyinfra">pyinfra</a></b>  
 pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.  
 🔗 [pyinfra.com](https://pyinfra.com)  
 ⭐ 2,491
 
-114. <a href="https://github.com/pexpect/pexpect">pexpect/</a><b><a href="https://github.com/pexpect/pexpect">pexpect</a></b>  
+104. <a href="https://github.com/pexpect/pexpect">pexpect/</a><b><a href="https://github.com/pexpect/pexpect">pexpect</a></b>  
 A Python module for controlling interactive programs in a pseudo-terminal  
 🔗 [pexpect.readthedocs.io](http://pexpect.readthedocs.io/)  
 ⭐ 2,491
 
-115. <a href="https://github.com/pyston/pyston">pyston/</a><b><a href="https://github.com/pyston/pyston">pyston</a></b>  
+105. <a href="https://github.com/pyston/pyston">pyston/</a><b><a href="https://github.com/pyston/pyston">pyston</a></b>  
 A faster and highly-compatible implementation of the Python programming language.  
 🔗 [www.pyston.org](https://www.pyston.org/)  
 ⭐ 2,481
 
-116. <a href="https://github.com/dosisod/refurb">dosisod/</a><b><a href="https://github.com/dosisod/refurb">refurb</a></b>  
+106. <a href="https://github.com/dosisod/refurb">dosisod/</a><b><a href="https://github.com/dosisod/refurb">refurb</a></b>  
 A tool for refurbishing and modernizing Python codebases  
 ⭐ 2,436
 
-117. <a href="https://github.com/scrapinghub/dateparser">scrapinghub/</a><b><a href="https://github.com/scrapinghub/dateparser">dateparser</a></b>  
+107. <a href="https://github.com/scrapinghub/dateparser">scrapinghub/</a><b><a href="https://github.com/scrapinghub/dateparser">dateparser</a></b>  
 python parser for human readable dates  
 ⭐ 2,429
 
-118. <a href="https://github.com/yaml/pyyaml">yaml/</a><b><a href="https://github.com/yaml/pyyaml">pyyaml</a></b>  
+108. <a href="https://github.com/yaml/pyyaml">yaml/</a><b><a href="https://github.com/yaml/pyyaml">pyyaml</a></b>  
 Canonical source repository for PyYAML  
 ⭐ 2,387
 
-119. <a href="https://github.com/cdgriffith/box">cdgriffith/</a><b><a href="https://github.com/cdgriffith/box">Box</a></b>  
+109. <a href="https://github.com/cdgriffith/box">cdgriffith/</a><b><a href="https://github.com/cdgriffith/box">Box</a></b>  
 Python dictionaries with advanced dot notation access  
 🔗 [github.com/cdgriffith/box/wiki](https://github.com/cdgriffith/Box/wiki)  
 ⭐ 2,328
 
-120. <a href="https://github.com/nschloe/tikzplotlib">nschloe/</a><b><a href="https://github.com/nschloe/tikzplotlib">tikzplotlib</a></b>  
+110. <a href="https://github.com/nschloe/tikzplotlib">nschloe/</a><b><a href="https://github.com/nschloe/tikzplotlib">tikzplotlib</a></b>  
 📊 Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.  
 ⭐ 2,269
 
-121. <a href="https://github.com/pypa/setuptools">pypa/</a><b><a href="https://github.com/pypa/setuptools">setuptools</a></b>  
+111. <a href="https://github.com/pypa/setuptools">pypa/</a><b><a href="https://github.com/pypa/setuptools">setuptools</a></b>  
 Official project repository for the Setuptools build system  
 🔗 [pypi.org/project/setuptools](https://pypi.org/project/setuptools/)  
 ⭐ 2,252
 
-122. <a href="https://github.com/hgrecco/pint">hgrecco/</a><b><a href="https://github.com/hgrecco/pint">pint</a></b>  
+112. <a href="https://github.com/hgrecco/pint">hgrecco/</a><b><a href="https://github.com/hgrecco/pint">pint</a></b>  
 Operate and manipulate physical quantities in Python  
 🔗 [pint.readthedocs.org](http://pint.readthedocs.org/)  
 ⭐ 2,217
 
-123. <a href="https://github.com/dateutil/dateutil">dateutil/</a><b><a href="https://github.com/dateutil/dateutil">dateutil</a></b>  
+113. <a href="https://github.com/dateutil/dateutil">dateutil/</a><b><a href="https://github.com/dateutil/dateutil">dateutil</a></b>  
 Useful extensions to the standard Python datetime features  
 ⭐ 2,204
 
-124. <a href="https://github.com/ianmiell/shutit">ianmiell/</a><b><a href="https://github.com/ianmiell/shutit">shutit</a></b>  
+114. <a href="https://github.com/ianmiell/shutit">ianmiell/</a><b><a href="https://github.com/ianmiell/shutit">shutit</a></b>  
 Automation framework for programmers  
 🔗 [ianmiell.github.io/shutit](http://ianmiell.github.io/shutit/)  
 ⭐ 2,143
 
-125. <a href="https://github.com/pndurette/gtts">pndurette/</a><b><a href="https://github.com/pndurette/gtts">gTTS</a></b>  
+115. <a href="https://github.com/pndurette/gtts">pndurette/</a><b><a href="https://github.com/pndurette/gtts">gTTS</a></b>  
 Python library and CLI tool to interface with Google Translate's text-to-speech API  
 🔗 [gtts.readthedocs.org](http://gtts.readthedocs.org/)  
 ⭐ 2,104
 
-126. <a href="https://github.com/pyparsing/pyparsing">pyparsing/</a><b><a href="https://github.com/pyparsing/pyparsing">pyparsing</a></b>  
+116. <a href="https://github.com/pyparsing/pyparsing">pyparsing/</a><b><a href="https://github.com/pyparsing/pyparsing">pyparsing</a></b>  
 Python library for creating PEG parsers  
 ⭐ 2,049
 
-127. <a href="https://github.com/libaudioflux/audioflux">libaudioflux/</a><b><a href="https://github.com/libaudioflux/audioflux">audioFlux</a></b>  
+117. <a href="https://github.com/libaudioflux/audioflux">libaudioflux/</a><b><a href="https://github.com/libaudioflux/audioflux">audioFlux</a></b>  
 A library for audio and music analysis, feature extraction.  
 🔗 [audioflux.top](https://audioflux.top)  
 ⭐ 1,989
 
-128. <a href="https://github.com/grantjenks/python-diskcache">grantjenks/</a><b><a href="https://github.com/grantjenks/python-diskcache">python-diskcache</a></b>  
+118. <a href="https://github.com/grantjenks/python-diskcache">grantjenks/</a><b><a href="https://github.com/grantjenks/python-diskcache">python-diskcache</a></b>  
 Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.  
 🔗 [www.grantjenks.com/docs/diskcache](http://www.grantjenks.com/docs/diskcache/)  
 ⭐ 1,982
 
-129. <a href="https://github.com/google/gin-config">google/</a><b><a href="https://github.com/google/gin-config">gin-config</a></b>  
+119. <a href="https://github.com/google/gin-config">google/</a><b><a href="https://github.com/google/gin-config">gin-config</a></b>  
 Gin provides a lightweight configuration framework for Python  
 ⭐ 1,967
 
-130. <a href="https://github.com/grahamdumpleton/wrapt">grahamdumpleton/</a><b><a href="https://github.com/grahamdumpleton/wrapt">wrapt</a></b>  
+120. <a href="https://github.com/grahamdumpleton/wrapt">grahamdumpleton/</a><b><a href="https://github.com/grahamdumpleton/wrapt">wrapt</a></b>  
 A Python module for decorators, wrappers and monkey patching.  
 ⭐ 1,936
 
-131. <a href="https://github.com/pyfilesystem/pyfilesystem2">pyfilesystem/</a><b><a href="https://github.com/pyfilesystem/pyfilesystem2">pyfilesystem2</a></b>  
+121. <a href="https://github.com/pyfilesystem/pyfilesystem2">pyfilesystem/</a><b><a href="https://github.com/pyfilesystem/pyfilesystem2">pyfilesystem2</a></b>  
 Python's Filesystem abstraction layer  
 🔗 [www.pyfilesystem.org](https://www.pyfilesystem.org)  
 ⭐ 1,931
 
-132. <a href="https://github.com/astanin/python-tabulate">astanin/</a><b><a href="https://github.com/astanin/python-tabulate">python-tabulate</a></b>  
+122. <a href="https://github.com/astanin/python-tabulate">astanin/</a><b><a href="https://github.com/astanin/python-tabulate">python-tabulate</a></b>  
 Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.  
 🔗 [pypi.org/project/tabulate](https://pypi.org/project/tabulate/)  
 ⭐ 1,919
 
-133. <a href="https://github.com/landscapeio/prospector">landscapeio/</a><b><a href="https://github.com/landscapeio/prospector">prospector</a></b>  
+123. <a href="https://github.com/landscapeio/prospector">landscapeio/</a><b><a href="https://github.com/landscapeio/prospector">prospector</a></b>  
 Inspects Python source files and provides information about type and location of classes, methods etc  
 ⭐ 1,894
 
-134. <a href="https://github.com/nateshmbhat/pyttsx3">nateshmbhat/</a><b><a href="https://github.com/nateshmbhat/pyttsx3">pyttsx3</a></b>  
+124. <a href="https://github.com/nateshmbhat/pyttsx3">nateshmbhat/</a><b><a href="https://github.com/nateshmbhat/pyttsx3">pyttsx3</a></b>  
 Offline Text To Speech synthesis for python  
 ⭐ 1,841
 
-135. <a href="https://github.com/julienpalard/pipe">julienpalard/</a><b><a href="https://github.com/julienpalard/pipe">Pipe</a></b>  
+125. <a href="https://github.com/julienpalard/pipe">julienpalard/</a><b><a href="https://github.com/julienpalard/pipe">Pipe</a></b>  
 A Python library to use infix notation in Python  
 ⭐ 1,828
 
-136. <a href="https://github.com/chaostoolkit/chaostoolkit">chaostoolkit/</a><b><a href="https://github.com/chaostoolkit/chaostoolkit">chaostoolkit</a></b>  
+126. <a href="https://github.com/chaostoolkit/chaostoolkit">chaostoolkit/</a><b><a href="https://github.com/chaostoolkit/chaostoolkit">chaostoolkit</a></b>  
 Chaos Engineering Toolkit & Orchestration for Developers  
 🔗 [chaostoolkit.org](https://chaostoolkit.org)  
 ⭐ 1,811
 
-137. <a href="https://github.com/python-rope/rope">python-rope/</a><b><a href="https://github.com/python-rope/rope">rope</a></b>  
+127. <a href="https://github.com/python-rope/rope">python-rope/</a><b><a href="https://github.com/python-rope/rope">rope</a></b>  
 a python refactoring library  
 ⭐ 1,802
 
-138. <a href="https://github.com/joowani/binarytree">joowani/</a><b><a href="https://github.com/joowani/binarytree">binarytree</a></b>  
+128. <a href="https://github.com/joowani/binarytree">joowani/</a><b><a href="https://github.com/joowani/binarytree">binarytree</a></b>  
 Python Library for Studying Binary Trees  
 🔗 [binarytree.readthedocs.io](http://binarytree.readthedocs.io)  
 ⭐ 1,799
 
-139. <a href="https://github.com/carpedm20/emoji">carpedm20/</a><b><a href="https://github.com/carpedm20/emoji">emoji</a></b>  
+129. <a href="https://github.com/carpedm20/emoji">carpedm20/</a><b><a href="https://github.com/carpedm20/emoji">emoji</a></b>  
 emoji terminal output for Python  
 ⭐ 1,792
 
-140. <a href="https://github.com/numba/llvmlite">numba/</a><b><a href="https://github.com/numba/llvmlite">llvmlite</a></b>  
+130. <a href="https://github.com/numba/llvmlite">numba/</a><b><a href="https://github.com/numba/llvmlite">llvmlite</a></b>  
 A lightweight LLVM python binding for writing JIT compilers  
 🔗 [llvmlite.pydata.org](http://llvmlite.pydata.org/)  
 ⭐ 1,777
 
-141. <a href="https://github.com/pydoit/doit">pydoit/</a><b><a href="https://github.com/pydoit/doit">doit</a></b>  
+131. <a href="https://github.com/pydoit/doit">pydoit/</a><b><a href="https://github.com/pydoit/doit">doit</a></b>  
 task management & automation tool  
 🔗 [pydoit.org](http://pydoit.org)  
 ⭐ 1,753
 
-142. <a href="https://github.com/mitmproxy/pdoc">mitmproxy/</a><b><a href="https://github.com/mitmproxy/pdoc">pdoc</a></b>  
+132. <a href="https://github.com/mitmproxy/pdoc">mitmproxy/</a><b><a href="https://github.com/mitmproxy/pdoc">pdoc</a></b>  
 API Documentation for Python Projects  
 🔗 [pdoc.dev](https://pdoc.dev)  
 ⭐ 1,750
 
-143. <a href="https://github.com/jcrist/msgspec">jcrist/</a><b><a href="https://github.com/jcrist/msgspec">msgspec</a></b>  
+133. <a href="https://github.com/jcrist/msgspec">jcrist/</a><b><a href="https://github.com/jcrist/msgspec">msgspec</a></b>  
 A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML  
 🔗 [jcristharif.com/msgspec](https://jcristharif.com/msgspec/)  
 ⭐ 1,744
 
-144. <a href="https://github.com/omry/omegaconf">omry/</a><b><a href="https://github.com/omry/omegaconf">omegaconf</a></b>  
+134. <a href="https://github.com/omry/omegaconf">omry/</a><b><a href="https://github.com/omry/omegaconf">omegaconf</a></b>  
 Flexible Python configuration system. The last one you will ever need.  
 ⭐ 1,732
 
-145. <a href="https://github.com/kalliope-project/kalliope">kalliope-project/</a><b><a href="https://github.com/kalliope-project/kalliope">kalliope</a></b>  
+135. <a href="https://github.com/kalliope-project/kalliope">kalliope-project/</a><b><a href="https://github.com/kalliope-project/kalliope">kalliope</a></b>  
 Kalliope is a framework that will help you to create your own personal assistant.  
 🔗 [kalliope-project.github.io](https://kalliope-project.github.io/)  
 ⭐ 1,688
 
-146. <a href="https://github.com/linkedin/shiv">linkedin/</a><b><a href="https://github.com/linkedin/shiv">shiv</a></b>  
-shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.  
-⭐ 1,667
-
-147. <a href="https://github.com/konradhalas/dacite">konradhalas/</a><b><a href="https://github.com/konradhalas/dacite">dacite</a></b>  
+136. <a href="https://github.com/konradhalas/dacite">konradhalas/</a><b><a href="https://github.com/konradhalas/dacite">dacite</a></b>  
 Simple creation of data classes from dictionaries.  
 ⭐ 1,611
 
-148. <a href="https://github.com/home-assistant/supervisor">home-assistant/</a><b><a href="https://github.com/home-assistant/supervisor">supervisor</a></b>  
+137. <a href="https://github.com/home-assistant/supervisor">home-assistant/</a><b><a href="https://github.com/home-assistant/supervisor">supervisor</a></b>  
 🏡 Home Assistant Supervisor  
 🔗 [home-assistant.io/hassio](https://home-assistant.io/hassio/)  
 ⭐ 1,600
 
-149. <a href="https://github.com/rhettbull/osxphotos">rhettbull/</a><b><a href="https://github.com/rhettbull/osxphotos">osxphotos</a></b>  
+138. <a href="https://github.com/rhettbull/osxphotos">rhettbull/</a><b><a href="https://github.com/rhettbull/osxphotos">osxphotos</a></b>  
 Python app to export pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.   
 ⭐ 1,582
 
-150. <a href="https://github.com/rubik/radon">rubik/</a><b><a href="https://github.com/rubik/radon">radon</a></b>  
+139. <a href="https://github.com/rubik/radon">rubik/</a><b><a href="https://github.com/rubik/radon">radon</a></b>  
 Various code metrics for Python code  
 🔗 [radon.readthedocs.org](http://radon.readthedocs.org/)  
 ⭐ 1,578
 
-151. <a href="https://github.com/samuelcolvin/watchfiles">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/watchfiles">watchfiles</a></b>  
+140. <a href="https://github.com/samuelcolvin/watchfiles">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/watchfiles">watchfiles</a></b>  
 Simple, modern and fast file watching and code reload in python.  
 🔗 [watchfiles.helpmanual.io](https://watchfiles.helpmanual.io)  
 ⭐ 1,523
 
-152. <a href="https://github.com/open-telemetry/opentelemetry-python">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python">opentelemetry-python</a></b>  
+141. <a href="https://github.com/open-telemetry/opentelemetry-python">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python">opentelemetry-python</a></b>  
 OpenTelemetry Python API and SDK   
 🔗 [opentelemetry.io](https://opentelemetry.io)  
 ⭐ 1,519
 
-153. <a href="https://github.com/pygments/pygments">pygments/</a><b><a href="https://github.com/pygments/pygments">pygments</a></b>  
+142. <a href="https://github.com/pygments/pygments">pygments/</a><b><a href="https://github.com/pygments/pygments">pygments</a></b>  
 Pygments is a generic syntax highlighter written in Python  
 🔗 [pygments.org](http://pygments.org/)  
 ⭐ 1,515
 
-154. <a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings/</a><b><a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings</a></b>  
+143. <a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings/</a><b><a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings</a></b>  
 📘 Automatic documentation from sources, for MkDocs.  
 🔗 [mkdocstrings.github.io](https://mkdocstrings.github.io/)  
 ⭐ 1,505
 
-155. <a href="https://github.com/facebookincubator/bowler">facebookincubator/</a><b><a href="https://github.com/facebookincubator/bowler">Bowler</a></b>  
+144. <a href="https://github.com/facebookincubator/bowler">facebookincubator/</a><b><a href="https://github.com/facebookincubator/bowler">Bowler</a></b>  
 Safe code refactoring for modern Python.  
 🔗 [pybowler.io](https://pybowler.io/)  
 ⭐ 1,505
 
-156. <a href="https://github.com/p0dalirius/coercer">p0dalirius/</a><b><a href="https://github.com/p0dalirius/coercer">Coercer</a></b>  
+145. <a href="https://github.com/p0dalirius/coercer">p0dalirius/</a><b><a href="https://github.com/p0dalirius/coercer">Coercer</a></b>  
 A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.  
 🔗 [podalirius.net](https://podalirius.net/)  
 ⭐ 1,495
 
-157. <a href="https://github.com/nficano/python-lambda">nficano/</a><b><a href="https://github.com/nficano/python-lambda">python-lambda</a></b>  
+146. <a href="https://github.com/nficano/python-lambda">nficano/</a><b><a href="https://github.com/nficano/python-lambda">python-lambda</a></b>  
  A toolkit for developing and deploying serverless Python code in AWS Lambda.   
 ⭐ 1,467
 
-158. <a href="https://github.com/sourcery-ai/sourcery">sourcery-ai/</a><b><a href="https://github.com/sourcery-ai/sourcery">sourcery</a></b>  
-Instant AI code reviews to speed up your pull requests  
-🔗 [sourcery.ai](https://sourcery.ai)  
-⭐ 1,466
-
-159. <a href="https://github.com/hbldh/bleak">hbldh/</a><b><a href="https://github.com/hbldh/bleak">bleak</a></b>  
+147. <a href="https://github.com/hbldh/bleak">hbldh/</a><b><a href="https://github.com/hbldh/bleak">bleak</a></b>  
 A cross platform Bluetooth Low Energy Client for Python using asyncio  
 ⭐ 1,443
 
-160. <a href="https://github.com/quodlibet/mutagen">quodlibet/</a><b><a href="https://github.com/quodlibet/mutagen">mutagen</a></b>  
+148. <a href="https://github.com/quodlibet/mutagen">quodlibet/</a><b><a href="https://github.com/quodlibet/mutagen">mutagen</a></b>  
 Python module for handling audio metadata  
 🔗 [mutagen.readthedocs.io](https://mutagen.readthedocs.io)  
 ⭐ 1,411
 
-161. <a href="https://github.com/instagram/libcst">instagram/</a><b><a href="https://github.com/instagram/libcst">LibCST</a></b>  
+149. <a href="https://github.com/instagram/libcst">instagram/</a><b><a href="https://github.com/instagram/libcst">LibCST</a></b>  
 A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree  
 🔗 [libcst.readthedocs.io](https://libcst.readthedocs.io/)  
 ⭐ 1,375
 
-162. <a href="https://github.com/fabiocaccamo/python-benedict">fabiocaccamo/</a><b><a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a></b>  
+150. <a href="https://github.com/fabiocaccamo/python-benedict">fabiocaccamo/</a><b><a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a></b>  
 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, html, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.  
 ⭐ 1,366
 
-163. <a href="https://github.com/aws-samples/aws-glue-samples">aws-samples/</a><b><a href="https://github.com/aws-samples/aws-glue-samples">aws-glue-samples</a></b>  
+151. <a href="https://github.com/aws-samples/aws-glue-samples">aws-samples/</a><b><a href="https://github.com/aws-samples/aws-glue-samples">aws-glue-samples</a></b>  
 AWS Glue code samples  
 ⭐ 1,366
 
-164. <a href="https://github.com/pycqa/pyflakes">pycqa/</a><b><a href="https://github.com/pycqa/pyflakes">pyflakes</a></b>  
+152. <a href="https://github.com/pycqa/pyflakes">pycqa/</a><b><a href="https://github.com/pycqa/pyflakes">pyflakes</a></b>  
 A simple program which checks Python source files for errors  
 🔗 [pypi.org/project/pyflakes](https://pypi.org/project/pyflakes)  
 ⭐ 1,326
 
-165. <a href="https://github.com/lidatong/dataclasses-json">lidatong/</a><b><a href="https://github.com/lidatong/dataclasses-json">dataclasses-json</a></b>  
+153. <a href="https://github.com/lidatong/dataclasses-json">lidatong/</a><b><a href="https://github.com/lidatong/dataclasses-json">dataclasses-json</a></b>  
 Easily serialize Data Classes to and from JSON  
 ⭐ 1,268
 
-166. <a href="https://github.com/ossf/criticality_score">ossf/</a><b><a href="https://github.com/ossf/criticality_score">criticality_score</a></b>  
+154. <a href="https://github.com/ossf/criticality_score">ossf/</a><b><a href="https://github.com/ossf/criticality_score">criticality_score</a></b>  
 Gives criticality score for an open source project  
 ⭐ 1,264
 
-167. <a href="https://github.com/brandon-rhodes/python-patterns">brandon-rhodes/</a><b><a href="https://github.com/brandon-rhodes/python-patterns">python-patterns</a></b>  
+155. <a href="https://github.com/brandon-rhodes/python-patterns">brandon-rhodes/</a><b><a href="https://github.com/brandon-rhodes/python-patterns">python-patterns</a></b>  
 Source code behind the python-patterns.guide site by Brandon Rhodes  
 ⭐ 1,234
 
-168. <a href="https://github.com/lcompilers/lpython">lcompilers/</a><b><a href="https://github.com/lcompilers/lpython">lpython</a></b>  
+156. <a href="https://github.com/lcompilers/lpython">lcompilers/</a><b><a href="https://github.com/lcompilers/lpython">lpython</a></b>  
 Python compiler  
 🔗 [lpython.org](https://lpython.org/)  
 ⭐ 1,205
 
-169. <a href="https://github.com/aio-libs/yarl">aio-libs/</a><b><a href="https://github.com/aio-libs/yarl">yarl</a></b>  
+157. <a href="https://github.com/aio-libs/yarl">aio-libs/</a><b><a href="https://github.com/aio-libs/yarl">yarl</a></b>  
 Yet another URL library  
 🔗 [yarl.aio-libs.org](https://yarl.aio-libs.org)  
 ⭐ 1,159
 
-170. <a href="https://github.com/oracle/graalpython">oracle/</a><b><a href="https://github.com/oracle/graalpython">graalpython</a></b>  
+158. <a href="https://github.com/oracle/graalpython">oracle/</a><b><a href="https://github.com/oracle/graalpython">graalpython</a></b>  
 A Python 3 implementation built on GraalVM  
 ⭐ 1,075
 
-171. <a href="https://github.com/pdoc3/pdoc">pdoc3/</a><b><a href="https://github.com/pdoc3/pdoc">pdoc</a></b>  
+159. <a href="https://github.com/pdoc3/pdoc">pdoc3/</a><b><a href="https://github.com/pdoc3/pdoc">pdoc</a></b>  
  🐍 :arrow_right: 📜  Auto-generate API documentation for Python projects  
 🔗 [pdoc3.github.io/pdoc](https://pdoc3.github.io/pdoc/)  
 ⭐ 1,060
 
-172. <a href="https://github.com/c4urself/bump2version">c4urself/</a><b><a href="https://github.com/c4urself/bump2version">bump2version</a></b>  
+160. <a href="https://github.com/c4urself/bump2version">c4urself/</a><b><a href="https://github.com/c4urself/bump2version">bump2version</a></b>  
 Version-bump your software with a single command  
 🔗 [pypi.python.org/pypi/bump2version](https://pypi.python.org/pypi/bump2version)  
 ⭐ 1,030
 
-173. <a href="https://github.com/metachris/logzero">metachris/</a><b><a href="https://github.com/metachris/logzero">logzero</a></b>  
+161. <a href="https://github.com/metachris/logzero">metachris/</a><b><a href="https://github.com/metachris/logzero">logzero</a></b>  
 Robust and effective logging for Python 2 and 3.  
 🔗 [logzero.readthedocs.io](https://logzero.readthedocs.io)  
 ⭐ 1,030
 
-174. <a href="https://github.com/pyo3/rust-numpy">pyo3/</a><b><a href="https://github.com/pyo3/rust-numpy">rust-numpy</a></b>  
+162. <a href="https://github.com/pyo3/rust-numpy">pyo3/</a><b><a href="https://github.com/pyo3/rust-numpy">rust-numpy</a></b>  
 PyO3-based Rust bindings of the NumPy C-API  
 ⭐ 964
 
-175. <a href="https://github.com/fastai/fastcore">fastai/</a><b><a href="https://github.com/fastai/fastcore">fastcore</a></b>  
+163. <a href="https://github.com/fastai/fastcore">fastai/</a><b><a href="https://github.com/fastai/fastcore">fastcore</a></b>  
 Python supercharged for the fastai library  
 🔗 [fastcore.fast.ai](http://fastcore.fast.ai)  
 ⭐ 894
 
-176. <a href="https://github.com/alex-sherman/unsync">alex-sherman/</a><b><a href="https://github.com/alex-sherman/unsync">unsync</a></b>  
+164. <a href="https://github.com/alex-sherman/unsync">alex-sherman/</a><b><a href="https://github.com/alex-sherman/unsync">unsync</a></b>  
 Unsynchronize asyncio  
 ⭐ 863
 
-177. <a href="https://github.com/milvus-io/pymilvus">milvus-io/</a><b><a href="https://github.com/milvus-io/pymilvus">pymilvus</a></b>  
+165. <a href="https://github.com/milvus-io/pymilvus">milvus-io/</a><b><a href="https://github.com/milvus-io/pymilvus">pymilvus</a></b>  
 Python SDK for Milvus.  
 ⭐ 808
 
-178. <a href="https://github.com/samuelcolvin/dirty-equals">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/dirty-equals">dirty-equals</a></b>  
+166. <a href="https://github.com/samuelcolvin/dirty-equals">samuelcolvin/</a><b><a href="https://github.com/samuelcolvin/dirty-equals">dirty-equals</a></b>  
 Doing dirty (but extremely useful) things with equals.  
 🔗 [dirty-equals.helpmanual.io](https://dirty-equals.helpmanual.io)  
 ⭐ 748
 
-179. <a href="https://github.com/barracuda-fsh/pyobd">barracuda-fsh/</a><b><a href="https://github.com/barracuda-fsh/pyobd">pyobd</a></b>  
+167. <a href="https://github.com/barracuda-fsh/pyobd">barracuda-fsh/</a><b><a href="https://github.com/barracuda-fsh/pyobd">pyobd</a></b>  
 open source obd2 car diagnostics program - reuploaded   
 ⭐ 695
 
-180. <a href="https://github.com/lastmile-ai/aiconfig">lastmile-ai/</a><b><a href="https://github.com/lastmile-ai/aiconfig">aiconfig</a></b>  
+168. <a href="https://github.com/lastmile-ai/aiconfig">lastmile-ai/</a><b><a href="https://github.com/lastmile-ai/aiconfig">aiconfig</a></b>  
 AIConfig saves prompts, models and model parameters as source control friendly configs. This allows you to iterate on prompts and model parameters separately from your application code.  
 🔗 [aiconfig.lastmileai.dev](https://aiconfig.lastmileai.dev)  
 ⭐ 689
 
-181. <a href="https://github.com/instagram/fixit">instagram/</a><b><a href="https://github.com/instagram/fixit">Fixit</a></b>  
+169. <a href="https://github.com/instagram/fixit">instagram/</a><b><a href="https://github.com/instagram/fixit">Fixit</a></b>  
 Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.  
 🔗 [fixit.rtfd.io/en/latest](https://fixit.rtfd.io/en/latest/)  
 ⭐ 639
 
-182. <a href="https://github.com/pypa/build">pypa/</a><b><a href="https://github.com/pypa/build">build</a></b>  
+170. <a href="https://github.com/pypa/build">pypa/</a><b><a href="https://github.com/pypa/build">build</a></b>  
 A simple, correct Python build frontend  
 🔗 [build.pypa.io](https://build.pypa.io)  
 ⭐ 631
 
-183. <a href="https://github.com/pypy/pypy">pypy/</a><b><a href="https://github.com/pypy/pypy">pypy</a></b>  
+171. <a href="https://github.com/pypy/pypy">pypy/</a><b><a href="https://github.com/pypy/pypy">pypy</a></b>  
 PyPy is a very fast and compliant implementation of the Python language.  
 🔗 [pypy.org](https://pypy.org)  
 ⭐ 624
 
-184. <a href="https://github.com/gefyrahq/gefyra">gefyrahq/</a><b><a href="https://github.com/gefyrahq/gefyra">gefyra</a></b>  
+172. <a href="https://github.com/gefyrahq/gefyra">gefyrahq/</a><b><a href="https://github.com/gefyrahq/gefyra">gefyra</a></b>  
 Blazingly-fast 🚀, rock-solid, local application development :arrow_right: with Kubernetes.  
 🔗 [gefyra.dev](https://gefyra.dev)  
 ⭐ 606
 
-185. <a href="https://github.com/akaihola/darker">akaihola/</a><b><a href="https://github.com/akaihola/darker">darker</a></b>  
-Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3f7a  
-🔗 [pypi.org/project/darker](https://pypi.org/project/darker/)  
-⭐ 602
-
-186. <a href="https://github.com/anthropics/anthropic-sdk-python">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b>  
+173. <a href="https://github.com/anthropics/anthropic-sdk-python">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b>  
 SDK providing access to Anthropic's safety-first language model APIs  
 ⭐ 598
 
-187. <a href="https://github.com/open-telemetry/opentelemetry-python-contrib">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python-contrib">opentelemetry-python-contrib</a></b>  
+174. <a href="https://github.com/open-telemetry/opentelemetry-python-contrib">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python-contrib">opentelemetry-python-contrib</a></b>  
 OpenTelemetry instrumentation for Python modules  
 🔗 [opentelemetry.io](https://opentelemetry.io)  
 ⭐ 573
 
-188. <a href="https://github.com/methexis-inc/terminal-copilot">methexis-inc/</a><b><a href="https://github.com/methexis-inc/terminal-copilot">terminal-copilot</a></b>  
+175. <a href="https://github.com/methexis-inc/terminal-copilot">methexis-inc/</a><b><a href="https://github.com/methexis-inc/terminal-copilot">terminal-copilot</a></b>  
 A smart terminal assistant that helps you find the right command.  
 ⭐ 553
 
-189. <a href="https://github.com/qdrant/qdrant-client">qdrant/</a><b><a href="https://github.com/qdrant/qdrant-client">qdrant-client</a></b>  
+176. <a href="https://github.com/qdrant/qdrant-client">qdrant/</a><b><a href="https://github.com/qdrant/qdrant-client">qdrant-client</a></b>  
 Python client for Qdrant vector search engine  
 🔗 [qdrant.tech](https://qdrant.tech)  
 ⭐ 530
 
-190. <a href="https://github.com/steamship-core/steamship-langchain">steamship-core/</a><b><a href="https://github.com/steamship-core/steamship-langchain">steamship-langchain</a></b>  
+177. <a href="https://github.com/steamship-core/steamship-langchain">steamship-core/</a><b><a href="https://github.com/steamship-core/steamship-langchain">steamship-langchain</a></b>  
 steamship-langchain  
 ⭐ 502
 
-191. <a href="https://github.com/fastai/ghapi">fastai/</a><b><a href="https://github.com/fastai/ghapi">ghapi</a></b>  
+178. <a href="https://github.com/fastai/ghapi">fastai/</a><b><a href="https://github.com/fastai/ghapi">ghapi</a></b>  
 A delightful and complete interface to GitHub's amazing API  
 🔗 [ghapi.fast.ai](https://ghapi.fast.ai/)  
 ⭐ 500
@@ -6439,7 +6457,7 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/), Hu
 Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new issue</a> to suggest a Python repo that you would like to see added.  
 
 
-1,351 hand-picked awesome Python libraries and frameworks, updated 21 Feb 2024  
+1,354 hand-picked awesome Python libraries and frameworks, updated 27 Feb 2024  
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdylanhogg%2Fawesome-python&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
