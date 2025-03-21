@@ -8,12 +8,12 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/)
   
 <img src='https://www.awesomepython.org/img/media/github-repo-banner.jpg' />  
 
-Updated 19 Mar 2025
+Updated 21 Mar 2025
 
 ## Categories
 
 - [Newly Created Repositories](#newly-created-repositories) - Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here (10 repos)
-- [Agentic AI](#agentic-ai) - Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous decision-making, goal-oriented tasks, and API integrations (67 repos)
+- [Agentic AI](#agentic-ai) - Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous decision-making, goal-oriented tasks, and API integrations (71 repos)
 - [Code Quality](#code-quality) - Code quality tooling: linters, formatters, pre-commit hooks, unused code removal (16 repos)
 - [Crypto and Blockchain](#crypto-and-blockchain) - Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity (14 repos)
 - [Data](#data) - General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks (115 repos)
@@ -25,7 +25,7 @@ Updated 19 Mar 2025
 - [Graph](#graph) - Graphs and network libraries: network analysis, graph machine learning, visualisation (6 repos)
 - [GUI](#gui) - Graphical user interface libraries and toolkits (8 repos)
 - [Jupyter](#jupyter) - Jupyter and JupyterLab and Notebook tools, libraries and plugins (28 repos)
-- [LLMs and ChatGPT](#llms-and-chatgpt) - Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover (331 repos)
+- [LLMs and ChatGPT](#llms-and-chatgpt) - Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover (330 repos)
 - [Math and Science](#math-and-science) - Mathematical, numerical and scientific libraries (30 repos)
 - [Machine Learning - General](#machine-learning---general) - General and classical machine learning libraries. See below for other sections covering specialised ML areas (164 repos)
 - [Machine Learning - Deep Learning](#machine-learning---deep-learning) - Machine learning libraries that cross over with deep learning in some way (79 repos)
@@ -58,34 +58,34 @@ Awesome Python is regularly updated, and this category lists the most recently c
    Open source version of Manus, the general AI agent  
    🔗 [openmanus.github.io](https://openmanus.github.io/)  
 
-2. <a href="https://github.com/dzhng/deep-research">dzhng/</a><b><a href="https://github.com/dzhng/deep-research">deep-research</a></b> ⭐ 14,673    
-   An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  
-
-3. <a href="https://github.com/camel-ai/owl">camel-ai/</a><b><a href="https://github.com/camel-ai/owl">owl</a></b> ⭐ 12,653    
+2. <a href="https://github.com/camel-ai/owl">camel-ai/</a><b><a href="https://github.com/camel-ai/owl">owl</a></b> ⭐ 12,653    
    🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation  
 
-4. <a href="https://github.com/anthropics/claude-code">anthropics/</a><b><a href="https://github.com/anthropics/claude-code">claude-code</a></b> ⭐ 6,496    
+3. <a href="https://github.com/anthropics/claude-code">anthropics/</a><b><a href="https://github.com/anthropics/claude-code">claude-code</a></b> ⭐ 6,496    
    Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows  
    🔗 [docs.anthropic.com/s/claude-code](https://docs.anthropic.com/s/claude-code)  
 
-5. <a href="https://github.com/zilliztech/deep-searcher">zilliztech/</a><b><a href="https://github.com/zilliztech/deep-searcher">deep-searcher</a></b> ⭐ 4,476    
+4. <a href="https://github.com/zilliztech/deep-searcher">zilliztech/</a><b><a href="https://github.com/zilliztech/deep-searcher">deep-searcher</a></b> ⭐ 4,476    
    DeepSearcher combines reasoning LLMs and VectorDBs o perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report  
 
-6. <a href="https://github.com/deepseek-ai/smallpond">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/smallpond">smallpond</a></b> ⭐ 4,269    
+5. <a href="https://github.com/deepseek-ai/smallpond">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/smallpond">smallpond</a></b> ⭐ 4,269    
    A lightweight data processing framework built on DuckDB and 3FS.  
 
-7. <a href="https://github.com/deepseek-ai/dualpipe">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/dualpipe">DualPipe</a></b> ⭐ 2,604    
+6. <a href="https://github.com/deepseek-ai/dualpipe">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/dualpipe">DualPipe</a></b> ⭐ 2,604    
    DualPipe is an innovative bidirectional pipeline parallelism algorithm introduced in the DeepSeek-V3 Technical Report.  
 
-8. <a href="https://github.com/openmanus/openmanus-rl">openmanus/</a><b><a href="https://github.com/openmanus/openmanus-rl">OpenManus-RL</a></b> ⭐ 1,572    
+7. <a href="https://github.com/openmanus/openmanus-rl">openmanus/</a><b><a href="https://github.com/openmanus/openmanus-rl">OpenManus-RL</a></b> ⭐ 1,572    
    OpenManus-RL is an open-source initiative collaboratively led by Ulab-UIUC and MetaGPT. This project is an extended version of the original OpenManus initiative.  
 
-9. <a href="https://github.com/hiyouga/easyr1">hiyouga/</a><b><a href="https://github.com/hiyouga/easyr1">EasyR1</a></b> ⭐ 1,528    
+8. <a href="https://github.com/hiyouga/easyr1">hiyouga/</a><b><a href="https://github.com/hiyouga/easyr1">EasyR1</a></b> ⭐ 1,528    
    EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL  
    🔗 [verl.readthedocs.io/en/latest/index.html](https://verl.readthedocs.io/en/latest/index.html)  
 
-10. <a href="https://github.com/deepseek-ai/eplb">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/eplb">EPLB</a></b> ⭐ 1,076    
+9. <a href="https://github.com/deepseek-ai/eplb">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/eplb">EPLB</a></b> ⭐ 1,076    
    Expert Parallelism Load Balancer across GPUs  
+
+10. <a href="https://github.com/emissary-tech/legit-rag">emissary-tech/</a><b><a href="https://github.com/emissary-tech/legit-rag">legit-rag</a></b> ⭐ 240    
+   A modular Retrieval-Augmented Generation (RAG) system built with FastAPI, Qdrant, and OpenAI.  
 
 ## Agentic AI
 
@@ -112,7 +112,7 @@ Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous dec
    🔗 [browser-use.com](https://browser-use.com/)  
 
 6. <a href="https://github.com/microsoft/autogen">microsoft/</a><b><a href="https://github.com/microsoft/autogen">autogen</a></b> ⭐ 41,666    
-   A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour  
+   AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.  
    🔗 [microsoft.github.io/autogen](https://microsoft.github.io/autogen/)  
 
 7. <a href="https://github.com/run-llama/llama_index">run-llama/</a><b><a href="https://github.com/run-llama/llama_index">llama_index</a></b> ⭐ 40,104    
@@ -123,7 +123,7 @@ Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous dec
    Open source version of Manus, the general AI agent  
    🔗 [openmanus.github.io](https://openmanus.github.io/)  
 
-9. <a href="https://github.com/joaomdmoura/crewai">joaomdmoura/</a><b><a href="https://github.com/joaomdmoura/crewai">crewAI</a></b> ⭐ 28,645    
+9. <a href="https://github.com/crewaiinc/crewai">crewaiinc/</a><b><a href="https://github.com/crewaiinc/crewai">crewAI</a></b> ⭐ 28,808    
    Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.  
    🔗 [crewai.com](https://crewai.com)  
 
@@ -151,62 +151,62 @@ Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous dec
    Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.  
    🔗 [docs.agno.com](https://docs.agno.com)  
 
-16. <a href="https://github.com/phidatahq/phidata">phidatahq/</a><b><a href="https://github.com/phidatahq/phidata">agno</a></b> ⭐ 21,141    
-   Phidata is a toolkit for building AI Assistants using function calling.  
-   🔗 [docs.agno.com](https://docs.agno.com)  
-
-17. <a href="https://github.com/microsoft/omniparser">microsoft/</a><b><a href="https://github.com/microsoft/omniparser">OmniParser</a></b> ⭐ 20,658    
+16. <a href="https://github.com/microsoft/omniparser">microsoft/</a><b><a href="https://github.com/microsoft/omniparser">OmniParser</a></b> ⭐ 20,658    
    OmniParser is a comprehensive method for parsing user interface screenshots into structured and easy-to-understand elements  
 
-18. <a href="https://github.com/assafelovic/gpt-researcher">assafelovic/</a><b><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></b> ⭐ 20,306    
+17. <a href="https://github.com/assafelovic/gpt-researcher">assafelovic/</a><b><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></b> ⭐ 20,306    
    LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.  
    🔗 [gptr.dev](https://gptr.dev)  
 
-19. <a href="https://github.com/openai/swarm">openai/</a><b><a href="https://github.com/openai/swarm">swarm</a></b> ⭐ 19,336    
+18. <a href="https://github.com/openai/swarm">openai/</a><b><a href="https://github.com/openai/swarm">swarm</a></b> ⭐ 19,336    
    A framework exploring ergonomic, lightweight multi-agent orchestration.  
 
-20. <a href="https://github.com/unity-technologies/ml-agents">unity-technologies/</a><b><a href="https://github.com/unity-technologies/ml-agents">ml-agents</a></b> ⭐ 17,820    
+19. <a href="https://github.com/unity-technologies/ml-agents">unity-technologies/</a><b><a href="https://github.com/unity-technologies/ml-agents">ml-agents</a></b> ⭐ 17,820    
    The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
    🔗 [unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
 
-21. <a href="https://github.com/letta-ai/letta">letta-ai/</a><b><a href="https://github.com/letta-ai/letta">letta</a></b> ⭐ 15,381    
+20. <a href="https://github.com/letta-ai/letta">letta-ai/</a><b><a href="https://github.com/letta-ai/letta">letta</a></b> ⭐ 15,381    
    Letta (formerly MemGPT) is a framework for creating LLM services with memory.  
    🔗 [docs.letta.com](https://docs.letta.com/)  
 
-22. <a href="https://github.com/huggingface/smolagents">huggingface/</a><b><a href="https://github.com/huggingface/smolagents">smolagents</a></b> ⭐ 15,114    
+21. <a href="https://github.com/huggingface/smolagents">huggingface/</a><b><a href="https://github.com/huggingface/smolagents">smolagents</a></b> ⭐ 15,114    
    🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.  
    🔗 [huggingface.co/docs/smolagents](https://huggingface.co/docs/smolagents)  
 
-23. <a href="https://github.com/dzhng/deep-research">dzhng/</a><b><a href="https://github.com/dzhng/deep-research">deep-research</a></b> ⭐ 14,673    
+22. <a href="https://github.com/dzhng/deep-research">dzhng/</a><b><a href="https://github.com/dzhng/deep-research">deep-research</a></b> ⭐ 14,673    
    An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  
 
-24. <a href="https://github.com/camel-ai/owl">camel-ai/</a><b><a href="https://github.com/camel-ai/owl">owl</a></b> ⭐ 12,653    
+23. <a href="https://github.com/camel-ai/owl">camel-ai/</a><b><a href="https://github.com/camel-ai/owl">owl</a></b> ⭐ 12,653    
    🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation  
 
-25. <a href="https://github.com/smol-ai/developer">smol-ai/</a><b><a href="https://github.com/smol-ai/developer">developer</a></b> ⭐ 11,901    
+24. <a href="https://github.com/smol-ai/developer">smol-ai/</a><b><a href="https://github.com/smol-ai/developer">developer</a></b> ⭐ 11,901    
    the first library to let you embed a developer agent in your own app!  
    🔗 [twitter.com/smolmodels](https://twitter.com/SmolModels)  
 
-26. <a href="https://github.com/camel-ai/camel">camel-ai/</a><b><a href="https://github.com/camel-ai/camel">camel</a></b> ⭐ 10,585    
+25. <a href="https://github.com/camel-ai/camel">camel-ai/</a><b><a href="https://github.com/camel-ai/camel">camel</a></b> ⭐ 10,585    
    🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org  
    🔗 [docs.camel-ai.org](https://docs.camel-ai.org/)  
 
-27. <a href="https://github.com/langchain-ai/langgraph">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langgraph">langgraph</a></b> ⭐ 10,298    
+26. <a href="https://github.com/langchain-ai/langgraph">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langgraph">langgraph</a></b> ⭐ 10,298    
    LangGraph is a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain.  
    🔗 [langchain-ai.github.io/langgraph](https://langchain-ai.github.io/langgraph/)  
 
-28. <a href="https://github.com/sakanaai/ai-scientist">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist">AI-Scientist</a></b> ⭐ 9,366    
+27. <a href="https://github.com/sakanaai/ai-scientist">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist">AI-Scientist</a></b> ⭐ 9,366    
    The AI Scientist, the first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.  
 
-29. <a href="https://github.com/nirdiamant/genai_agents">nirdiamant/</a><b><a href="https://github.com/nirdiamant/genai_agents">GenAI_Agents</a></b> ⭐ 9,117    
+28. <a href="https://github.com/nirdiamant/genai_agents">nirdiamant/</a><b><a href="https://github.com/nirdiamant/genai_agents">GenAI_Agents</a></b> ⭐ 9,117    
    Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.  
 
-30. <a href="https://github.com/meta-llama/llama-stack">meta-llama/</a><b><a href="https://github.com/meta-llama/llama-stack">llama-stack</a></b> ⭐ 7,485    
+29. <a href="https://github.com/meta-llama/llama-stack">meta-llama/</a><b><a href="https://github.com/meta-llama/llama-stack">llama-stack</a></b> ⭐ 7,485    
    Llama Stack standardizes the building blocks needed to bring genai applications to market. These blocks cover model training and fine-tuning, evaluation, and running AI agents in production  
 
-31. <a href="https://github.com/pydantic/pydantic-ai">pydantic/</a><b><a href="https://github.com/pydantic/pydantic-ai">pydantic-ai</a></b> ⭐ 7,275    
+30. <a href="https://github.com/pydantic/pydantic-ai">pydantic/</a><b><a href="https://github.com/pydantic/pydantic-ai">pydantic-ai</a></b> ⭐ 7,275    
    PydanticAI is a Python Agent Framework designed to make it less painful to build production grade applications with Generative AI.  
    🔗 [ai.pydantic.dev](https://ai.pydantic.dev)  
+
+31. <a href="https://github.com/upsonic/upsonic">upsonic/</a><b><a href="https://github.com/upsonic/upsonic">Upsonic</a></b> ⭐ 7,036    
+   Upsonic is a reliability-focused framework designed for real-world applications. It enables trusted agent workflows in your organization through advanced reliability features, including verification layers, triangular architecture, validator agents, and output evaluation systems.  
+   🔗 [upsonic.ai](https://upsonic.ai)  
 
 32. <a href="https://github.com/mnotgod96/appagent">mnotgod96/</a><b><a href="https://github.com/mnotgod96/appagent">AppAgent</a></b> ⭐ 5,618    
    AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.  
@@ -265,75 +265,90 @@ Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous dec
    Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.   
    🔗 [www.griptape.ai](https://www.griptape.ai)  
 
-48. <a href="https://github.com/i-am-bee/beeai-framework">i-am-bee/</a><b><a href="https://github.com/i-am-bee/beeai-framework">beeai-framework</a></b> ⭐ 2,072    
+48. <a href="https://github.com/ag2ai/ag2">ag2ai/</a><b><a href="https://github.com/ag2ai/ag2">ag2</a></b> ⭐ 2,074    
+   AG2 (formerly AutoGen) is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks.  
+   🔗 [ag2.ai](https://ag2.ai)  
+
+49. <a href="https://github.com/i-am-bee/beeai-framework">i-am-bee/</a><b><a href="https://github.com/i-am-bee/beeai-framework">beeai-framework</a></b> ⭐ 2,072    
    Build production-ready AI agents in both Python and Typescript  
    🔗 [i-am-bee.github.io/beeai-framework](https://i-am-bee.github.io/beeai-framework/)  
 
-49. <a href="https://github.com/run-llama/llama_deploy">run-llama/</a><b><a href="https://github.com/run-llama/llama_deploy">llama_deploy</a></b> ⭐ 1,980    
+50. <a href="https://github.com/run-llama/llama_deploy">run-llama/</a><b><a href="https://github.com/run-llama/llama_deploy">llama_deploy</a></b> ⭐ 1,980    
    Async-first framework for deploying, scaling, and productionizing agentic multi-service systems based on workflows from llama_index.  
    🔗 [docs.llamaindex.ai/en/stable/module_guides/llama_deploy](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/)  
 
-50. <a href="https://github.com/emcie-co/parlant">emcie-co/</a><b><a href="https://github.com/emcie-co/parlant">parlant</a></b> ⭐ 1,850    
+51. <a href="https://github.com/emcie-co/parlant">emcie-co/</a><b><a href="https://github.com/emcie-co/parlant">parlant</a></b> ⭐ 1,850    
    Control GenAI interactions with power, precision, and consistency using LLM-native Conversation Design paradigms   
    🔗 [www.parlant.io](https://www.parlant.io)  
 
-51. <a href="https://github.com/langchain-ai/executive-ai-assistant">langchain-ai/</a><b><a href="https://github.com/langchain-ai/executive-ai-assistant">executive-ai-assistant</a></b> ⭐ 1,641    
+52. <a href="https://github.com/langchain-ai/executive-ai-assistant">langchain-ai/</a><b><a href="https://github.com/langchain-ai/executive-ai-assistant">executive-ai-assistant</a></b> ⭐ 1,641    
    Executive AI Assistant (EAIA) is an AI agent that attempts to do the job of an Executive Assistant (EA).  
 
-52. <a href="https://github.com/btahir/open-deep-research">btahir/</a><b><a href="https://github.com/btahir/open-deep-research">open-deep-research</a></b> ⭐ 1,635    
+53. <a href="https://github.com/btahir/open-deep-research">btahir/</a><b><a href="https://github.com/btahir/open-deep-research">open-deep-research</a></b> ⭐ 1,635    
    Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.  
    🔗 [opendeepresearch.vercel.app](https://opendeepresearch.vercel.app)  
 
-53. <a href="https://github.com/openmanus/openmanus-rl">openmanus/</a><b><a href="https://github.com/openmanus/openmanus-rl">OpenManus-RL</a></b> ⭐ 1,572    
+54. <a href="https://github.com/openmanus/openmanus-rl">openmanus/</a><b><a href="https://github.com/openmanus/openmanus-rl">OpenManus-RL</a></b> ⭐ 1,572    
    OpenManus-RL is an open-source initiative collaboratively led by Ulab-UIUC and MetaGPT. This project is an extended version of the original OpenManus initiative.  
 
-54. <a href="https://github.com/openautocoder/agentless">openautocoder/</a><b><a href="https://github.com/openautocoder/agentless">Agentless</a></b> ⭐ 1,571    
+55. <a href="https://github.com/openautocoder/agentless">openautocoder/</a><b><a href="https://github.com/openautocoder/agentless">Agentless</a></b> ⭐ 1,571    
    Agentless🐱:  an agentless approach to automatically solve software development problems  
 
-55. <a href="https://github.com/link-agi/autoagents">link-agi/</a><b><a href="https://github.com/link-agi/autoagents">AutoAgents</a></b> ⭐ 1,328    
+56. <a href="https://github.com/link-agi/autoagents">link-agi/</a><b><a href="https://github.com/link-agi/autoagents">AutoAgents</a></b> ⭐ 1,328    
    [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.  
    🔗 [huggingface.co/spaces/linksoul/autoagents](https://huggingface.co/spaces/LinkSoul/AutoAgents)  
 
-56. <a href="https://github.com/prefecthq/controlflow">prefecthq/</a><b><a href="https://github.com/prefecthq/controlflow">ControlFlow</a></b> ⭐ 1,220    
+57. <a href="https://github.com/agentera/agently">agentera/</a><b><a href="https://github.com/agentera/agently">Agently</a></b> ⭐ 1,264    
+   Agently is a development framework that helps developers build AI agent native application really fast.  
+   🔗 [agently.tech](http://agently.tech)  
+
+58. <a href="https://github.com/prefecthq/controlflow">prefecthq/</a><b><a href="https://github.com/prefecthq/controlflow">ControlFlow</a></b> ⭐ 1,220    
    ControlFlow provides a structured, developer-focused framework for defining workflows and delegating work to LLMs, without sacrificing control or transparency  
    🔗 [controlflow.ai](https://controlflow.ai)  
 
-57. <a href="https://github.com/shengranhu/adas">shengranhu/</a><b><a href="https://github.com/shengranhu/adas">ADAS</a></b> ⭐ 1,219    
+59. <a href="https://github.com/shengranhu/adas">shengranhu/</a><b><a href="https://github.com/shengranhu/adas">ADAS</a></b> ⭐ 1,219    
    Automated Design of Agentic Systems using Meta Agent Search to show agents can invent novel and powerful agent designs  
    🔗 [www.shengranhu.com/adas](https://www.shengranhu.com/ADAS/)  
 
-58. <a href="https://github.com/plurai-ai/intellagent">plurai-ai/</a><b><a href="https://github.com/plurai-ai/intellagent">intellagent</a></b> ⭐ 972    
+60. <a href="https://github.com/msoedov/agentic_security">msoedov/</a><b><a href="https://github.com/msoedov/agentic_security">agentic_security</a></b> ⭐ 1,172    
+   An open-source vulnerability scanner for Agent Workflows and LLMs. Protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.  
+   🔗 [agentic-security.vercel.app](https://agentic-security.vercel.app)  
+
+61. <a href="https://github.com/plurai-ai/intellagent">plurai-ai/</a><b><a href="https://github.com/plurai-ai/intellagent">intellagent</a></b> ⭐ 972    
    Simulate interactions, analyze performance, and gain actionable insights for conversational agents. Test, evaluate, and optimize your agent to ensure reliable real-world deployment.  
    🔗 [intellagent-doc.plurai.ai](https://intellagent-doc.plurai.ai/)  
 
-59. <a href="https://github.com/szczyglis-dev/py-gpt">szczyglis-dev/</a><b><a href="https://github.com/szczyglis-dev/py-gpt">py-gpt</a></b> ⭐ 925    
+62. <a href="https://github.com/szczyglis-dev/py-gpt">szczyglis-dev/</a><b><a href="https://github.com/szczyglis-dev/py-gpt">py-gpt</a></b> ⭐ 925    
    Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, file upload/download, speech synthesis and recognition, access to Web, memory, presets, assistants, plugins, and more...  
    🔗 [pygpt.net](https://pygpt.net)  
 
-60. <a href="https://github.com/thytu/agentarium">thytu/</a><b><a href="https://github.com/thytu/agentarium">Agentarium</a></b> ⭐ 908    
+63. <a href="https://github.com/thytu/agentarium">thytu/</a><b><a href="https://github.com/thytu/agentarium">Agentarium</a></b> ⭐ 908    
    Framework for managing and orchestrating AI agents with ease. Agentarium provides a flexible and intuitive way to create, manage, and coordinate interactions between multiple AI agents in various environments.  
 
-61. <a href="https://github.com/victordibia/autogen-ui">victordibia/</a><b><a href="https://github.com/victordibia/autogen-ui">autogen-ui</a></b> ⭐ 876    
+64. <a href="https://github.com/victordibia/autogen-ui">victordibia/</a><b><a href="https://github.com/victordibia/autogen-ui">autogen-ui</a></b> ⭐ 876    
    Web UI for AutoGen (A Framework Multi-Agent LLM Applications)  
 
-62. <a href="https://github.com/thudm/cogagent">thudm/</a><b><a href="https://github.com/thudm/cogagent">CogAgent</a></b> ⭐ 834    
+65. <a href="https://github.com/thudm/cogagent">thudm/</a><b><a href="https://github.com/thudm/cogagent">CogAgent</a></b> ⭐ 834    
    An open-sourced end-to-end VLM-based GUI Agent  
 
-63. <a href="https://github.com/google-deepmind/concordia">google-deepmind/</a><b><a href="https://github.com/google-deepmind/concordia">concordia</a></b> ⭐ 809    
+66. <a href="https://github.com/google-deepmind/concordia">google-deepmind/</a><b><a href="https://github.com/google-deepmind/concordia">concordia</a></b> ⭐ 809    
    Concordia is a library to facilitate construction and use of generative agent-based models to simulate interactions of agents in grounded physical, social, or digital space.  
 
-64. <a href="https://github.com/deedy/mac_computer_use">deedy/</a><b><a href="https://github.com/deedy/mac_computer_use">mac_computer_use</a></b> ⭐ 767    
+67. <a href="https://github.com/deedy/mac_computer_use">deedy/</a><b><a href="https://github.com/deedy/mac_computer_use">mac_computer_use</a></b> ⭐ 767    
    A fork of Anthropic Computer Use that you can run on Mac computers to give Claude and other AI models autonomous access to your computer.  
    🔗 [x.com/deedydas/status/1849481225041559910](https://x.com/deedydas/status/1849481225041559910)  
 
-65. <a href="https://github.com/strnad/crewai-studio">strnad/</a><b><a href="https://github.com/strnad/crewai-studio">CrewAI-Studio</a></b> ⭐ 703    
+68. <a href="https://github.com/strnad/crewai-studio">strnad/</a><b><a href="https://github.com/strnad/crewai-studio">CrewAI-Studio</a></b> ⭐ 703    
    agentic,gui,automation  
 
-66. <a href="https://github.com/salesforceairesearch/agentlite">salesforceairesearch/</a><b><a href="https://github.com/salesforceairesearch/agentlite">AgentLite</a></b> ⭐ 582    
+69. <a href="https://github.com/salesforceairesearch/agentlite">salesforceairesearch/</a><b><a href="https://github.com/salesforceairesearch/agentlite">AgentLite</a></b> ⭐ 582    
    AgentLite is a research-oriented library designed for building and advancing LLM-based task-oriented agent systems. It simplifies the implementation of new agent/multi-agent architectures, enabling easy orchestration of multiple agents through a manager agent.  
 
-67. <a href="https://github.com/quantalogic/quantalogic">quantalogic/</a><b><a href="https://github.com/quantalogic/quantalogic">quantalogic</a></b> ⭐ 378    
+70. <a href="https://github.com/quantalogic/quantalogic">quantalogic/</a><b><a href="https://github.com/quantalogic/quantalogic">quantalogic</a></b> ⭐ 378    
    QuantaLogic is a ReAct (Reasoning & Action) framework for building advanced AI agents. The cli version include coding capabilities comparable to Aider.  
+
+71. <a href="https://github.com/prithivirajdamodaran/route0x">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/route0x">Route0x</a></b> ⭐ 101    
+   A production-grade query routing solution, leveraging LLMs while optimizing for cost per query  
 
 ## Code Quality
 
@@ -2682,10 +2697,7 @@ Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, ch
 329. <a href="https://github.com/codelion/adaptive-classifier">codelion/</a><b><a href="https://github.com/codelion/adaptive-classifier">adaptive-classifier</a></b> ⭐ 133    
    A flexible, adaptive classification system that allows for dynamic addition of new classes and continuous learning from examples. Built on top of transformers from HuggingFace, this library provides an easy-to-use interface for creating and updating text classifiers.  
 
-330. <a href="https://github.com/prithivirajdamodaran/route0x">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/route0x">Route0x</a></b> ⭐ 101    
-   A production-grade query routing solution, leveraging LLMs while optimizing for cost per query  
-
-331. <a href="https://github.com/jina-ai/llm-query-expansion">jina-ai/</a><b><a href="https://github.com/jina-ai/llm-query-expansion">llm-query-expansion</a></b> ⭐ 36    
+330. <a href="https://github.com/jina-ai/llm-query-expansion">jina-ai/</a><b><a href="https://github.com/jina-ai/llm-query-expansion">llm-query-expansion</a></b> ⭐ 36    
    Query Expension for Better Query Embedding using LLMs  
 
 ## Math and Science
@@ -6712,7 +6724,7 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/), Hu
 Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new issue</a> to suggest a Python repo that you would like to see added.  
 
 
-1,788 hand-picked awesome Python libraries and frameworks, updated 19 Mar 2025  
+1,791 hand-picked awesome Python libraries and frameworks, updated 21 Mar 2025  
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdylanhogg%2Fawesome-python&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
