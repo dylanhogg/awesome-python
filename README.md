@@ -5356,77 +5356,81 @@ Testing libraries: unit testing, load testing, acceptance testing, code coverage
 
 5. <a href="https://github.com/robotframework/robotframework">robotframework/</a><b><a href="https://github.com/robotframework/robotframework">robotframework</a></b> ⭐ 10,425    
    Generic automation framework for acceptance testing and RPA  
-   🔗 [robotframework.org](http://robotframework.org)  
+   🔗 [robotframework.org](http://robotframework.org)   
 
-6. <a href="https://github.com/seleniumbase/seleniumbase">seleniumbase/</a><b><a href="https://github.com/seleniumbase/seleniumbase">SeleniumBase</a></b> ⭐ 9,568    
+6. <a href="https://github.com/keploy/keploy">Keploy/</a><b><a href="https://github.com/keploy/keploy">Keploy</a></b> ⭐ 9,616  
+   Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work.  
+   🔗 [keploy.io](https://keploy.io)  
+
+7. <a href="https://github.com/seleniumbase/seleniumbase">seleniumbase/</a><b><a href="https://github.com/seleniumbase/seleniumbase">SeleniumBase</a></b> ⭐ 9,568    
    Python APIs for web automation, testing, and bypassing bot-detection.  
    🔗 [seleniumbase.io](https://seleniumbase.io)  
 
-7. <a href="https://github.com/getmoto/moto">getmoto/</a><b><a href="https://github.com/getmoto/moto">moto</a></b> ⭐ 7,812    
+8. <a href="https://github.com/getmoto/moto">getmoto/</a><b><a href="https://github.com/getmoto/moto">moto</a></b> ⭐ 7,812    
    A library that allows you to easily mock out tests based on AWS infrastructure.  
    🔗 [docs.getmoto.org/en/latest](http://docs.getmoto.org/en/latest/)  
 
-8. <a href="https://github.com/hypothesisworks/hypothesis">hypothesisworks/</a><b><a href="https://github.com/hypothesisworks/hypothesis">hypothesis</a></b> ⭐ 7,752    
+9. <a href="https://github.com/hypothesisworks/hypothesis">hypothesisworks/</a><b><a href="https://github.com/hypothesisworks/hypothesis">hypothesis</a></b> ⭐ 7,752    
    Hypothesis is a powerful, flexible, and easy to use library for property-based testing.  
    🔗 [hypothesis.works](https://hypothesis.works)  
 
-9. <a href="https://github.com/newsapps/beeswithmachineguns">newsapps/</a><b><a href="https://github.com/newsapps/beeswithmachineguns">beeswithmachineguns</a></b> ⭐ 6,463    
+10. <a href="https://github.com/newsapps/beeswithmachineguns">newsapps/</a><b><a href="https://github.com/newsapps/beeswithmachineguns">beeswithmachineguns</a></b> ⭐ 6,463    
    A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).  
    🔗 [apps.chicagotribune.com](http://apps.chicagotribune.com/)  
 
-10. <a href="https://github.com/confident-ai/deepeval">confident-ai/</a><b><a href="https://github.com/confident-ai/deepeval">deepeval</a></b> ⭐ 5,608    
+11. <a href="https://github.com/confident-ai/deepeval">confident-ai/</a><b><a href="https://github.com/confident-ai/deepeval">deepeval</a></b> ⭐ 5,608    
    LLM evaluation framework similar to Pytest but specialized for unit testing LLM outputs. DeepEval incorporates the latest research to evaluate LLM outputs based on metrics such as G-Eval, hallucination, answer relevancy, RAGAS, etc  
    🔗 [docs.confident-ai.com](https://docs.confident-ai.com/)  
 
-11. <a href="https://github.com/codium-ai/cover-agent">codium-ai/</a><b><a href="https://github.com/codium-ai/cover-agent">qodo-cover</a></b> ⭐ 4,896    
+12. <a href="https://github.com/codium-ai/cover-agent">codium-ai/</a><b><a href="https://github.com/codium-ai/cover-agent">qodo-cover</a></b> ⭐ 4,896    
    Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞  
    🔗 [qodo.ai](https://qodo.ai/)  
 
-12. <a href="https://github.com/spulec/freezegun">spulec/</a><b><a href="https://github.com/spulec/freezegun">freezegun</a></b> ⭐ 4,295    
+13. <a href="https://github.com/spulec/freezegun">spulec/</a><b><a href="https://github.com/spulec/freezegun">freezegun</a></b> ⭐ 4,295    
    Let your Python tests travel through time  
 
-13. <a href="https://github.com/getsentry/responses">getsentry/</a><b><a href="https://github.com/getsentry/responses">responses</a></b> ⭐ 4,223    
+14. <a href="https://github.com/getsentry/responses">getsentry/</a><b><a href="https://github.com/getsentry/responses">responses</a></b> ⭐ 4,223    
    A utility for mocking out the Python Requests library.  
 
-14. <a href="https://github.com/tox-dev/tox">tox-dev/</a><b><a href="https://github.com/tox-dev/tox">tox</a></b> ⭐ 3,771    
+15. <a href="https://github.com/tox-dev/tox">tox-dev/</a><b><a href="https://github.com/tox-dev/tox">tox</a></b> ⭐ 3,771    
    Command line driven CI frontend and development task automation tool.  
    🔗 [tox.wiki](https://tox.wiki)  
 
-15. <a href="https://github.com/behave/behave">behave/</a><b><a href="https://github.com/behave/behave">behave</a></b> ⭐ 3,275    
+16. <a href="https://github.com/behave/behave">behave/</a><b><a href="https://github.com/behave/behave">behave</a></b> ⭐ 3,275    
    BDD, Python style.  
    🔗 [behave.readthedocs.io/en/latest](https://behave.readthedocs.io/en/latest/)  
 
-16. <a href="https://github.com/nedbat/coveragepy">nedbat/</a><b><a href="https://github.com/nedbat/coveragepy">coveragepy</a></b> ⭐ 3,104    
+17. <a href="https://github.com/nedbat/coveragepy">nedbat/</a><b><a href="https://github.com/nedbat/coveragepy">coveragepy</a></b> ⭐ 3,104    
    The code coverage tool for Python  
    🔗 [coverage.readthedocs.io](https://coverage.readthedocs.io)  
 
-17. <a href="https://github.com/kevin1024/vcrpy">kevin1024/</a><b><a href="https://github.com/kevin1024/vcrpy">vcrpy</a></b> ⭐ 2,764    
+18. <a href="https://github.com/kevin1024/vcrpy">kevin1024/</a><b><a href="https://github.com/kevin1024/vcrpy">vcrpy</a></b> ⭐ 2,764    
    Automatically mock your HTTP interactions to simplify and speed up testing  
 
-18. <a href="https://github.com/cobrateam/splinter">cobrateam/</a><b><a href="https://github.com/cobrateam/splinter">splinter</a></b> ⭐ 2,742    
+19. <a href="https://github.com/cobrateam/splinter">cobrateam/</a><b><a href="https://github.com/cobrateam/splinter">splinter</a></b> ⭐ 2,742    
    splinter - python test framework for web applications   
    🔗 [splinter.readthedocs.org/en/stable/index.html](http://splinter.readthedocs.org/en/stable/index.html)  
 
-19. <a href="https://github.com/pytest-dev/pytest-testinfra">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-testinfra">pytest-testinfra</a></b> ⭐ 2,400    
+20. <a href="https://github.com/pytest-dev/pytest-testinfra">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-testinfra">pytest-testinfra</a></b> ⭐ 2,400    
    With Testinfra you can write unit tests in Python to test actual state of your servers configured by management tools like Salt, Ansible, Puppet, Chef and so on.  
    🔗 [testinfra.readthedocs.io](https://testinfra.readthedocs.io)  
 
-20. <a href="https://github.com/pytest-dev/pytest-mock">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-mock">pytest-mock</a></b> ⭐ 1,909    
+21. <a href="https://github.com/pytest-dev/pytest-mock">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-mock">pytest-mock</a></b> ⭐ 1,909    
    Thin-wrapper around the mock package for easier use with pytest  
    🔗 [pytest-mock.readthedocs.io/en/latest](https://pytest-mock.readthedocs.io/en/latest/)  
 
-21. <a href="https://github.com/pytest-dev/pytest-cov">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-cov">pytest-cov</a></b> ⭐ 1,832    
+22. <a href="https://github.com/pytest-dev/pytest-cov">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-cov">pytest-cov</a></b> ⭐ 1,832    
    Coverage plugin for pytest.  
 
-22. <a href="https://github.com/pytest-dev/pytest-xdist">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-xdist">pytest-xdist</a></b> ⭐ 1,556    
+23. <a href="https://github.com/pytest-dev/pytest-xdist">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-xdist">pytest-xdist</a></b> ⭐ 1,556    
    pytest plugin for distributed testing and loop-on-failures testing modes.   
    🔗 [pytest-xdist.readthedocs.io](https://pytest-xdist.readthedocs.io)  
 
-23. <a href="https://github.com/pytest-dev/pytest-asyncio">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-asyncio">pytest-asyncio</a></b> ⭐ 1,479    
+24. <a href="https://github.com/pytest-dev/pytest-asyncio">pytest-dev/</a><b><a href="https://github.com/pytest-dev/pytest-asyncio">pytest-asyncio</a></b> ⭐ 1,479    
    Asyncio support for pytest  
    🔗 [pytest-asyncio.readthedocs.io](https://pytest-asyncio.readthedocs.io)  
 
-24. <a href="https://github.com/taverntesting/tavern">taverntesting/</a><b><a href="https://github.com/taverntesting/tavern">tavern</a></b> ⭐ 1,061    
+25. <a href="https://github.com/taverntesting/tavern">taverntesting/</a><b><a href="https://github.com/taverntesting/tavern">tavern</a></b> ⭐ 1,061    
    A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax  
    🔗 [taverntesting.github.io](https://taverntesting.github.io/)  
 
