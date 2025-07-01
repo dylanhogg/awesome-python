@@ -12,12 +12,12 @@ Updated 18 May 2025
 
 ## Categories
 
-- [Newly Created Repositories](#newly-created-repositories) - Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here (10 repos)
+- [Newly Created Repositories](#newly-created-repositories) - Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here (11 repos)
 - [Agentic AI](#agentic-ai) - Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous decision-making, goal-oriented tasks, and API integrations (83 repos)
-- [Code Quality](#code-quality) - Code quality tooling: linters, formatters, pre-commit hooks, unused code removal (16 repos)
+- [Code Quality](#code-quality) - Code quality tooling: linters, formatters, pre-commit hooks, unused code removal (17 repos)
 - [Crypto and Blockchain](#crypto-and-blockchain) - Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity (14 repos)
 - [Data](#data) - General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks (118 repos)
-- [Debugging](#debugging) - Debugging and tracing tools (10 repos)
+- [Debugging](#debugging) - Debugging and tracing tools (11 repos)
 - [Diffusion Text to Image](#diffusion-text-to-image) - Text-to-image diffusion model libraries, tools and apps for generating images from natural language (42 repos)
 - [Finance](#finance) - Financial and quantitative libraries: investment research tools, market data, algorithmic trading, backtesting, financial derivatives (35 repos)
 - [Game Development](#game-development) - Game development tools, engines and libraries (8 repos)
@@ -38,7 +38,7 @@ Updated 18 May 2025
 - [Pandas](#pandas) - Pandas and dataframe libraries: data analysis, statistical reporting, pandas GUIs, pandas performance optimisations (25 repos)
 - [Performance](#performance) - Performance, parallelisation and low level libraries (28 repos)
 - [Profiling](#profiling) - Memory and CPU/GPU profiling tools and libraries (11 repos)
-- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (16 repos)
+- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (17 repos)
 - [Simulation](#simulation) - Simulation libraries: robotics, economic, agent-based, traffic, physics, astronomy, chemistry, quantum simulation. Also see the <a href="https://github.com/dylanhogg/awesome-python#math-and-science">Maths and Science</a> category for crossover (37 repos)
 - [Study](#study) - Miscellaneous study resources: algorithms, general resources, system design, code repos for textbooks, best practices, tutorials (64 repos)
 - [Template](#template) - Template tools and libraries: cookiecutter repos, generators, quick-starts (11 repos)
@@ -52,7 +52,7 @@ Updated 18 May 2025
 
 ## Newly Created Repositories
 
-Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here.  
+Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here (11 repos).  
 
 1. <a href="https://github.com/bytedance/deer-flow">bytedance/</a><b><a href="https://github.com/bytedance/deer-flow">deer-flow</a></b> ⭐ 10,418    
    DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.  
@@ -87,8 +87,9 @@ Awesome Python is regularly updated, and this category lists the most recently c
    A model-driven approach to building AI agents in just a few lines of code.  
    🔗 [strandsagents.com](https://strandsagents.com)  
 
-10. <a href="https://github.com/sakanaai/ai-scientist-iclr2025-workshop-experiment">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist-iclr2025-workshop-experiment">AI-Scientist-ICLR2025-Workshop-Experiment</a></b> ⭐ 192    
-   A paper produced by The AI Scientist passed a peer-review process at a workshop in a top machine learning conference  
+11. <a href="https://github.com/Sherin-SEF-AI/env-validator">Sherin-SEF-AI/</a><b><a href="https://github.com/Sherin-SEF-AI/env-validator">env-validator</a></b> ⭐ 0    
+   A comprehensive Python package for environment variable validation, security scanning, and compliance auditing. Features CLI tools, framework integrations, monitoring, and automated security scanning.  
+   🔗 [pypi.org/project/envvar-validator](https://pypi.org/project/envvar-validator/)  
 
 ## Agentic AI
 
@@ -4861,6 +4862,10 @@ Security related libraries: vulnerability discovery, SQL injection, environment 
 
 16. <a href="https://github.com/thecyb3ralpha/bobthesmuggler">thecyb3ralpha/</a><b><a href="https://github.com/thecyb3ralpha/bobthesmuggler">BobTheSmuggler</a></b> ⭐ 530    
    A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives.  
+
+17. <a href="https://github.com/Sherin-SEF-AI/env-validator">Sherin-SEF-AI/</a><b><a href="https://github.com/Sherin-SEF-AI/env-validator">env-validator</a></b> ⭐ 0    
+   A comprehensive Python package for environment variable validation, security scanning, and compliance auditing. Features CLI tools, framework integrations, monitoring, and automated security scanning.  
+   🔗 [pypi.org/project/envvar-validator](https://pypi.org/project/envvar-validator/)  
 
 ## Simulation
 
