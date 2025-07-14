@@ -6873,7 +6873,11 @@ Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP,
    This code generator creates FastAPI app from an openapi file.  
 
 61. <a href="https://github.com/aeternalis-ingenium/fastapi-backend-template">aeternalis-ingenium/</a><b><a href="https://github.com/aeternalis-ingenium/fastapi-backend-template">FastAPI-Backend-Template</a></b> ⭐ 762    
-   A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.  
+   A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
+   
+62. <a href="https://github.com/patx/micropie">patx/</a><b><a href="github.com/patx/micropie">micropie</a></b> ⭐ 209
+   An ultra-micro ASGI framework with automatic routing.
+   🔗 [patx.github.io/micropie](https://patx.github.io/micropie)
 
 ---  
 
