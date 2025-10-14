@@ -1851,9 +1851,13 @@ Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, ch
    [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.  
    🔗 [llava.hliu.cc](https://llava.hliu.cc)  
 
-45. <a href="https://github.com/deepset-ai/haystack">deepset-ai/</a><b><a href="https://github.com/deepset-ai/haystack">haystack</a></b> ⭐ 22,851    
-   AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversatio...  
-   🔗 [haystack.deepset.ai](https://haystack.deepset.ai)  
+45. <a href="https://github.com/deepset-ai/haystack">deepset-ai/</a><b><a href="https://github.com/deepset-ai/haystack">haystack</a></b> ⭐ 22,851
+   AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversatio...
+   🔗 [haystack.deepset.ai](https://haystack.deepset.ai)
+
+<a href="https://github.com/juspay/neurolink">juspay/</a><b><a href="https://github.com/juspay/neurolink">neurolink</a></b> ![](https://img.shields.io/github/stars/juspay/neurolink.svg?style=social)
+   Production-ready multi-agent orchestration framework with universal LLM provider support and advanced RAG capabilities for building scalable AI applications.
+   🔗 [neurolink.topoteretes.com](https://neurolink.topoteretes.com)
 
 46. <a href="https://github.com/karpathy/mingpt">karpathy/</a><b><a href="https://github.com/karpathy/mingpt">minGPT</a></b> ⭐ 22,659    
    A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training  
