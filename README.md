@@ -471,7 +471,11 @@ Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous dec
    Open source version of Manus, the general AI agent  
 
 104. <a href="https://github.com/prithivirajdamodaran/route0x">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/route0x">Route0x</a></b> ⭐ 116    
-   A production-grade query routing solution, leveraging LLMs while optimizing for cost per query  
+   A production-grade query routing solution, leveraging LLMs while optimizing for cost per query
+
+105. <a href="https://github.com/GibsonAI/memori">Memori/</a><b><a href="https://github.com/GibsonAI/memori">Memori</a></b> ⭐ 1,500   
+   SQL-Native multi-agent memory engine for AI  
+   🔗 [Memori](https://memori.gibsonai.com/)
 
 ## Code Quality
 
