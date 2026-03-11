@@ -2585,7 +2585,10 @@ Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, ch
    🔗 [docs.rs/outlines-core](https://docs.rs/outlines-core)  
 
 348. <a href="https://github.com/jina-ai/llm-query-expansion">jina-ai/</a><b><a href="https://github.com/jina-ai/llm-query-expansion">llm-query-expansion</a></b> ⭐ 64    
-   Query Expension for Better Query Embedding using LLMs  
+   Query Expension for Better Query Embedding using LLMs
+349. <a href="https://github.com/maximhq/bifrost">maximhq/</a><b><a href="https://github.com/maximhq/bifrost">Bifrost</a></b> ⭐ 2853    
+   Fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM
+   🔗 [Bifrost](https://getmaxim.ai/bifrost/)
 
 ## Math and Science
 
