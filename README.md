@@ -8,521 +8,601 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/)
   
 <img src='https://www.awesomepython.org/img/media/github-repo-banner.jpg' />  
 
-Updated 19 Apr 2026 with 1,556 repos
+Updated 12 Jun 2026 with 1,592 repos
 
 ## Categories
 
 - [Newly Created Repositories](#newly-created-repositories) - Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here (10 repos)
-- [Agentic AI](#agentic-ai) - Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous decision-making, goal-oriented tasks, and API integrations (119 repos)
+- [Agentic AI](#agentic-ai) - Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous decision-making, goal-oriented tasks, and API integrations (142 repos)
 - [Code Quality](#code-quality) - Code quality tooling: linters, formatters, pre-commit hooks, unused code removal (15 repos)
 - [Crypto and Blockchain](#crypto-and-blockchain) - Cryptocurrency and blockchain libraries: trading bots, API integration, Ethereum virtual machine, solidity (10 repos)
-- [Data](#data) - General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks (80 repos)
+- [Data](#data) - General data libraries: data processing, serialisation, formats, databases, SQL, connectors, web crawlers, data generation/augmentation/checks (78 repos)
 - [Debugging](#debugging) - Debugging and tracing tools (3 repos)
-- [Diffusion Text to Image](#diffusion-text-to-image) - Text-to-image diffusion model libraries, tools and apps for generating images from natural language (39 repos)
-- [Finance](#finance) - Financial and quantitative libraries: investment research tools, market data, algorithmic trading, backtesting, financial derivatives (27 repos)
-- [Game Development](#game-development) - Game development tools, engines and libraries (6 repos)
-- [GIS](#gis) - Geospatial libraries: raster and vector data formats, interactive mapping and visualisation, computing frameworks for processing images, projections (18 repos)
+- [Diffusion Text to Image](#diffusion-text-to-image) - Text-to-image diffusion model libraries, tools and apps for generating images from natural language (41 repos)
+- [Finance](#finance) - Financial and quantitative libraries: investment research tools, market data, algorithmic trading, backtesting, financial derivatives (28 repos)
+- [Game Development](#game-development) - Game development tools, engines and libraries (5 repos)
+- [GIS](#gis) - Geospatial libraries: raster and vector data formats, interactive mapping and visualisation, computing frameworks for processing images, projections (17 repos)
 - [Graph](#graph) - Graphs and network libraries: network analysis, graph machine learning, visualisation (4 repos)
 - [GUI](#gui) - Graphical user interface libraries and toolkits (6 repos)
-- [Jupyter](#jupyter) - Jupyter and JupyterLab and Notebook tools, libraries and plugins (16 repos)
-- [LLMs and ChatGPT](#llms-and-chatgpt) - Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover (347 repos)
+- [Jupyter](#jupyter) - Jupyter and JupyterLab and Notebook tools, libraries and plugins (15 repos)
+- [LLMs and ChatGPT](#llms-and-chatgpt) - Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover (356 repos)
 - [Math and Science](#math-and-science) - Mathematical, numerical and scientific libraries (22 repos)
-- [Machine Learning - General](#machine-learning---general) - General and classical machine learning libraries. See below for other sections covering specialised ML areas (142 repos)
+- [Machine Learning - General](#machine-learning---general) - General and classical machine learning libraries. See below for other sections covering specialised ML areas (144 repos)
 - [Machine Learning - Deep Learning](#machine-learning---deep-learning) - Machine learning libraries that cross over with deep learning in some way (67 repos)
-- [Machine Learning - Interpretability](#machine-learning---interpretability) - Machine learning interpretability libraries. Covers explainability, prediction explainations, dashboards, understanding knowledge development in training (21 repos)
+- [Machine Learning - Interpretability](#machine-learning---interpretability) - Machine learning interpretability libraries. Covers explainability, prediction explainations, dashboards, understanding knowledge development in training (19 repos)
 - [Machine Learning - Ops](#machine-learning---ops) - MLOps tools, frameworks and libraries: intersection of machine learning, data engineering and DevOps; deployment, health, diagnostics and governance of ML models (49 repos)
 - [Machine Learning - Reinforcement](#machine-learning---reinforcement) - Machine learning libraries and toolkits that cross over with reinforcement learning in some way: agent reinforcement learning, agent environemnts, RLHF (22 repos)
 - [Machine Learning - Time Series](#machine-learning---time-series) - Machine learning and classical timeseries libraries: forecasting, seasonality, anomaly detection, econometrics (17 repos)
-- [Natural Language Processing](#natural-language-processing) - Natural language processing libraries and toolkits: text processing, topic modelling, tokenisers, chatbots. Also see the <a href="https://github.com/dylanhogg/awesome-python#llms-and-chatgpt">LLMs and ChatGPT</a> category for crossover (73 repos)
+- [Natural Language Processing](#natural-language-processing) - Natural language processing libraries and toolkits: text processing, topic modelling, tokenisers, chatbots. Also see the <a href="https://github.com/dylanhogg/awesome-python#llms-and-chatgpt">LLMs and ChatGPT</a> category for crossover (74 repos)
 - [Packaging](#packaging) - Python packaging, dependency management and bundling (21 repos)
 - [Pandas](#pandas) - Pandas and dataframe libraries: data analysis, statistical reporting, pandas GUIs, pandas performance optimisations (18 repos)
-- [Performance](#performance) - Performance, parallelisation and low level libraries (18 repos)
-- [Profiling](#profiling) - Memory and CPU/GPU profiling tools and libraries (8 repos)
-- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (14 repos)
+- [Performance](#performance) - Performance, parallelisation and low level libraries (19 repos)
+- [Profiling](#profiling) - Memory and CPU/GPU profiling tools and libraries (7 repos)
+- [Security](#security) - Security related libraries: vulnerability discovery, SQL injection, environment auditing (18 repos)
 - [Simulation](#simulation) - Simulation libraries: robotics, economic, agent-based, traffic, physics, astronomy, chemistry, quantum simulation. Also see the <a href="https://github.com/dylanhogg/awesome-python#math-and-science">Maths and Science</a> category for crossover (33 repos)
 - [Study](#study) - Miscellaneous study resources: algorithms, general resources, system design, code repos for textbooks, best practices, tutorials (62 repos)
 - [Template](#template) - Template tools and libraries: cookiecutter repos, generators, quick-starts (10 repos)
 - [Terminal](#terminal) - Terminal and console tools and libraries: CLI tools, terminal based formatters, progress bars (18 repos)
 - [Testing](#testing) - Testing libraries: unit testing, load testing, acceptance testing, code coverage, browser automation, plugins (15 repos)
 - [Typing](#typing) - Typing libraries: static and run-time type checking, annotations (14 repos)
-- [Utility](#utility) - General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools (135 repos)
+- [Utility](#utility) - General utility libraries: miscellaneous tools, linters, code formatters, version management, package tools, documentation tools (138 repos)
 - [Vizualisation](#vizualisation) - Vizualisation tools and libraries. Application frameworks, 2D/3D plotting, dashboards, WebGL (30 repos)
-- [Web](#web) - Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP, REST, user management (47 repos)
+- [Web](#web) - Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP, REST, user management (45 repos)
 
 
 ## Newly Created Repositories
 
 Awesome Python is regularly updated, and this category lists the most recently created GitHub repositories from all the other repositories here.  
 
-1. <a href="https://github.com/karpathy/autoresearch">karpathy/</a><b><a href="https://github.com/karpathy/autoresearch">autoresearch</a></b> ⭐ 70,645    
-   AI agents running research on single-GPU nanochat training automatically  
+1. <a href="https://github.com/kyegomez/openmythos">kyegomez/</a><b><a href="https://github.com/kyegomez/openmythos">OpenMythos</a></b> ⭐ 13,673    
+   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.  
+   🔗 [discord.gg/eamjgsaeqf](https://discord.gg/EamjgSaEQf)  
 
-2. <a href="https://github.com/safishamsi/graphify">safishamsi/</a><b><a href="https://github.com/safishamsi/graphify">graphify</a></b> ⭐ 22,501    
-   AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph  
-   🔗 [safishamsi.github.io/penpax.ai](https://safishamsi.github.io/penpax.ai)  
+2. <a href="https://github.com/anthropics/claude-for-legal">anthropics/</a><b><a href="https://github.com/anthropics/claude-for-legal">claude-for-legal</a></b> ⭐ 8,186    
+   Reference agents, skills, and connectors for the legal workflows: in-house commercial, privacy, product, corporate, employment, litigation, regulatory  
 
-3. <a href="https://github.com/aiming-lab/autoresearchclaw">aiming-lab/</a><b><a href="https://github.com/aiming-lab/autoresearchclaw">AutoResearchClaw</a></b> ⭐ 10,973    
-   Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞  
+3. <a href="https://github.com/strukto-ai/mirage">strukto-ai/</a><b><a href="https://github.com/strukto-ai/mirage">mirage</a></b> ⭐ 3,120    
+   A Unified Virtual Filesystem For AI Agents  
+   🔗 [www.strukto.ai/mirage](https://www.strukto.ai/mirage)  
 
-4. <a href="https://github.com/nicobailon/visual-explainer">nicobailon/</a><b><a href="https://github.com/nicobailon/visual-explainer">visual-explainer</a></b> ⭐ 7,469    
-   Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps  
+4. <a href="https://github.com/nutlope/hallmark">nutlope/</a><b><a href="https://github.com/nutlope/hallmark">hallmark</a></b> ⭐ 3,012    
+   A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.  
+   🔗 [www.usehallmark.com](https://www.usehallmark.com/)  
 
-5. <a href="https://github.com/tw93/waza">tw93/</a><b><a href="https://github.com/tw93/waza">Waza</a></b> ⭐ 2,633    
-   🥷 Engineering habits you already know, turned into skills Claude can run.  
-   🔗 [x.com/hitw93/status/2041312649510822103](https://x.com/HiTw93/status/2041312649510822103)  
+5. <a href="https://github.com/deeplethe/forkd">deeplethe/</a><b><a href="https://github.com/deeplethe/forkd">forkd</a></b> ⭐ 2,218    
+   Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.  
 
-6. <a href="https://github.com/miolini/autoresearch-macos">miolini/</a><b><a href="https://github.com/miolini/autoresearch-macos">autoresearch-macos</a></b> ⭐ 1,929    
-   AI agents running research on single-GPU nanochat training automatically adopted for MacOS  
+6. <a href="https://github.com/vila-lab/dive-into-claude-code">vila-lab/</a><b><a href="https://github.com/vila-lab/dive-into-claude-code">Dive-into-Claude-Code</a></b> ⭐ 1,519    
+   A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems  
+   🔗 [arxiv.org/abs/2604.14228](https://arxiv.org/abs/2604.14228)  
 
-7. <a href="https://github.com/rightnow-ai/autokernel">rightnow-ai/</a><b><a href="https://github.com/rightnow-ai/autokernel">autokernel</a></b> ⭐ 1,185    
-   Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.  
-   🔗 [www.rightnowai.co/forge](https://www.rightnowai.co/forge)  
+7. <a href="https://github.com/kitft/natural_language_autoencoders">kitft/</a><b><a href="https://github.com/kitft/natural_language_autoencoders">natural_language_autoencoders</a></b> ⭐ 781    
+   Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations  
 
-8. <a href="https://github.com/math-inc/opengauss">math-inc/</a><b><a href="https://github.com/math-inc/opengauss">OpenGauss</a></b> ⭐ 1,167    
-   A project-scoped Lean workflow orchestrator from Math, Inc. It gives gauss a multi-agent frontend for the lean4-skills prove, draft, review, checkpoint, refactor, golf, autoprove, formalize, and autoformalize workflows  
+8. <a href="https://github.com/facebookresearch/programbench">facebookresearch/</a><b><a href="https://github.com/facebookresearch/programbench">ProgramBench</a></b> ⭐ 738    
+   Can Language Models Rebuild Programs From Scratch?  
+   🔗 [programbench.com](https://programbench.com)  
 
-9. <a href="https://github.com/ddickmann/vllm-factory">ddickmann/</a><b><a href="https://github.com/ddickmann/vllm-factory">vllm-factory</a></b> ⭐ 31    
-   Production inference for encoder models - ColBERT, GLiNER, ColPali, embeddings etc. - as vLLM plugins for online and in-process deployment  
+9. <a href="https://github.com/tiangolo/library-skills">tiangolo/</a><b><a href="https://github.com/tiangolo/library-skills">library-skills</a></b> ⭐ 591    
+   Library Agent Skills  
 
-10. <a href="https://github.com/slavadubrov/ner-field-guide">slavadubrov/</a><b><a href="https://github.com/slavadubrov/ner-field-guide">ner-field-guide</a></b> ⭐ 3    
-   Companion code for The Definitive Guide to NER in 2026  
+10. <a href="https://github.com/simonw/llm-openai-via-codex">simonw/</a><b><a href="https://github.com/simonw/llm-openai-via-codex">llm-openai-via-codex</a></b> ⭐ 106    
+   Access OpenAI models via an existing Codex subscription  
 
 ## Agentic AI
 
 Agentic AI libraries, frameworks and tools: AI agents, workflows, autonomous decision-making, goal-oriented tasks, and API integrations.  
 
-1. <a href="https://github.com/logspace-ai/langflow">logspace-ai/</a><b><a href="https://github.com/logspace-ai/langflow">langflow</a></b> ⭐ 144,166    
+1. <a href="https://github.com/obra/superpowers">obra/</a><b><a href="https://github.com/obra/superpowers">superpowers</a></b> ⭐ 223,094    
+   An agentic skills framework & software development methodology that works.  
+
+2. <a href="https://github.com/nousresearch/hermes-agent">nousresearch/</a><b><a href="https://github.com/nousresearch/hermes-agent">hermes-agent</a></b> ⭐ 189,487    
+   The self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use  
+   🔗 [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)  
+
+3. <a href="https://github.com/multica-ai/andrej-karpathy-skills">multica-ai/</a><b><a href="https://github.com/multica-ai/andrej-karpathy-skills">andrej-karpathy-skills</a></b> ⭐ 173,910    
+   A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.  
+
+4. <a href="https://github.com/logspace-ai/langflow">logspace-ai/</a><b><a href="https://github.com/logspace-ai/langflow">langflow</a></b> ⭐ 144,166    
    Langflow is a powerful tool for building and deploying AI-powered agents and workflows.  
    🔗 [www.langflow.org](http://www.langflow.org)  
 
-2. <a href="https://github.com/langgenius/dify">langgenius/</a><b><a href="https://github.com/langgenius/dify">dify</a></b> ⭐ 127,042    
+5. <a href="https://github.com/langgenius/dify">langgenius/</a><b><a href="https://github.com/langgenius/dify">dify</a></b> ⭐ 127,042    
    Production-ready platform for agentic workflow development.  
    🔗 [dify.ai](https://dify.ai)  
 
-3. <a href="https://github.com/langchain-ai/langchain">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langchain">langchain</a></b> ⭐ 124,984    
+6. <a href="https://github.com/langchain-ai/langchain">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langchain">langchain</a></b> ⭐ 124,984    
    🦜🔗 The platform for reliable agents.  
    🔗 [docs.langchain.com/oss/python/langchain](https://docs.langchain.com/oss/python/langchain/)  
 
-4. <a href="https://github.com/browser-use/browser-use">browser-use/</a><b><a href="https://github.com/browser-use/browser-use">browser-use</a></b> ⭐ 76,464    
+7. <a href="https://github.com/browser-use/browser-use">browser-use/</a><b><a href="https://github.com/browser-use/browser-use">browser-use</a></b> ⭐ 76,464    
    Browser use is the easiest way to connect your AI agents with the browser.  
    🔗 [browser-use.com](https://browser-use.com)  
 
-5. <a href="https://github.com/karpathy/autoresearch">karpathy/</a><b><a href="https://github.com/karpathy/autoresearch">autoresearch</a></b> ⭐ 70,645    
+8. <a href="https://github.com/karpathy/autoresearch">karpathy/</a><b><a href="https://github.com/karpathy/autoresearch">autoresearch</a></b> ⭐ 70,645    
    AI agents running research on single-GPU nanochat training automatically  
 
-6. <a href="https://github.com/github/spec-kit">github/</a><b><a href="https://github.com/github/spec-kit">spec-kit</a></b> ⭐ 64,735    
+9. <a href="https://github.com/github/spec-kit">github/</a><b><a href="https://github.com/github/spec-kit">spec-kit</a></b> ⭐ 64,735    
    Toolkit to help you get started with Spec-Driven Development: specifications become executable, directly generating working implementations  
 
-7. <a href="https://github.com/geekan/metagpt">geekan/</a><b><a href="https://github.com/geekan/metagpt">MetaGPT</a></b> ⭐ 63,365    
+10. <a href="https://github.com/geekan/metagpt">geekan/</a><b><a href="https://github.com/geekan/metagpt">MetaGPT</a></b> ⭐ 63,365    
    🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming  
    🔗 [mgx.dev](https://mgx.dev/)  
 
-8. <a href="https://github.com/microsoft/autogen">microsoft/</a><b><a href="https://github.com/microsoft/autogen">autogen</a></b> ⭐ 53,832    
+11. <a href="https://github.com/microsoft/autogen">microsoft/</a><b><a href="https://github.com/microsoft/autogen">autogen</a></b> ⭐ 53,832    
    AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.  
    🔗 [microsoft.github.io/autogen](https://microsoft.github.io/autogen/)  
 
-9. <a href="https://github.com/run-llama/llama_index">run-llama/</a><b><a href="https://github.com/run-llama/llama_index">llama_index</a></b> ⭐ 46,554    
+12. <a href="https://github.com/run-llama/llama_index">run-llama/</a><b><a href="https://github.com/run-llama/llama_index">llama_index</a></b> ⭐ 46,554    
    LlamaIndex is the leading framework for building LLM-powered agents over your data.  
    🔗 [developers.llamaindex.ai](https://developers.llamaindex.ai)  
 
-10. <a href="https://github.com/mem0ai/mem0">mem0ai/</a><b><a href="https://github.com/mem0ai/mem0">mem0</a></b> ⭐ 45,890    
+13. <a href="https://github.com/mem0ai/mem0">mem0ai/</a><b><a href="https://github.com/mem0ai/mem0">mem0</a></b> ⭐ 45,890    
    Enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions  
    🔗 [mem0.ai](https://mem0.ai)  
 
-11. <a href="https://github.com/crewaiinc/crewai">crewaiinc/</a><b><a href="https://github.com/crewaiinc/crewai">crewAI</a></b> ⭐ 43,083    
+14. <a href="https://github.com/crewaiinc/crewai">crewaiinc/</a><b><a href="https://github.com/crewaiinc/crewai">crewAI</a></b> ⭐ 43,083    
    Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.  
    🔗 [crewai.com](https://crewai.com)  
 
-12. <a href="https://github.com/agno-agi/agno">agno-agi/</a><b><a href="https://github.com/agno-agi/agno">agno</a></b> ⭐ 37,137    
+15. <a href="https://github.com/agno-agi/agno">agno-agi/</a><b><a href="https://github.com/agno-agi/agno">agno</a></b> ⭐ 37,137    
    Build, run, manage multi-agent systems.  
    🔗 [docs.agno.com](https://docs.agno.com)  
 
-13. <a href="https://github.com/openbmb/chatdev">openbmb/</a><b><a href="https://github.com/openbmb/chatdev">ChatDev</a></b> ⭐ 28,989    
+16. <a href="https://github.com/anthropics/financial-services">anthropics/</a><b><a href="https://github.com/anthropics/financial-services">financial-services</a></b> ⭐ 30,735    
+   Reference agents, skills, and data connectors for the financial-services workflows: investment banking, equity research, private equity, and wealth management.  
+
+17. <a href="https://github.com/openbmb/chatdev">openbmb/</a><b><a href="https://github.com/openbmb/chatdev">ChatDev</a></b> ⭐ 28,989    
    ChatDev stands as a virtual software company that operates through various intelligent agents holding different roles, including Chief Executive Officer, Chief Product Officer etc  
    🔗 [arxiv.org/abs/2307.07924](https://arxiv.org/abs/2307.07924)  
 
-14. <a href="https://github.com/stanford-oval/storm">stanford-oval/</a><b><a href="https://github.com/stanford-oval/storm">storm</a></b> ⭐ 27,814    
+18. <a href="https://github.com/stanford-oval/storm">stanford-oval/</a><b><a href="https://github.com/stanford-oval/storm">storm</a></b> ⭐ 27,814    
    An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.  
    🔗 [storm.genie.stanford.edu](http://storm.genie.stanford.edu)  
 
-15. <a href="https://github.com/composiohq/composio">composiohq/</a><b><a href="https://github.com/composiohq/composio">composio</a></b> ⭐ 26,428    
+19. <a href="https://github.com/composiohq/composio">composiohq/</a><b><a href="https://github.com/composiohq/composio">composio</a></b> ⭐ 26,428    
    Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling  
    🔗 [docs.composio.dev](https://docs.composio.dev)  
 
-16. <a href="https://github.com/huggingface/smolagents">huggingface/</a><b><a href="https://github.com/huggingface/smolagents">smolagents</a></b> ⭐ 25,075    
+20. <a href="https://github.com/huggingface/smolagents">huggingface/</a><b><a href="https://github.com/huggingface/smolagents">smolagents</a></b> ⭐ 25,075    
    🤗 smolagents: a barebones library for agents that think in code.  
    🔗 [huggingface.co/docs/smolagents](https://huggingface.co/docs/smolagents)  
 
-17. <a href="https://github.com/assafelovic/gpt-researcher">assafelovic/</a><b><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></b> ⭐ 24,993    
+21. <a href="https://github.com/assafelovic/gpt-researcher">assafelovic/</a><b><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></b> ⭐ 24,993    
    An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.  
    🔗 [gptr.dev](https://gptr.dev)  
 
-18. <a href="https://github.com/fosowl/agenticseek">fosowl/</a><b><a href="https://github.com/fosowl/agenticseek">agenticSeek</a></b> ⭐ 24,539    
+22. <a href="https://github.com/fosowl/agenticseek">fosowl/</a><b><a href="https://github.com/fosowl/agenticseek">agenticSeek</a></b> ⭐ 24,539    
    A 100% local alternative to Manus AI, this voice-enabled AI assistant autonomously browses the web, writes code, and plans tasks while keeping all data on your device.  
    🔗 [agenticseek.tech](http://agenticseek.tech)  
 
-19. <a href="https://github.com/microsoft/omniparser">microsoft/</a><b><a href="https://github.com/microsoft/omniparser">OmniParser</a></b> ⭐ 24,265    
+23. <a href="https://github.com/langchain-ai/deepagents">langchain-ai/</a><b><a href="https://github.com/langchain-ai/deepagents">deepagents</a></b> ⭐ 24,375    
+   Deep Agents is an open source agent harness — an opinionated agent that runs out of the box. Extend, override, or replace any piece.  
+   🔗 [docs.langchain.com/deepagents](https://docs.langchain.com/deepagents)  
+
+24. <a href="https://github.com/microsoft/omniparser">microsoft/</a><b><a href="https://github.com/microsoft/omniparser">OmniParser</a></b> ⭐ 24,265    
    OmniParser is a comprehensive method for parsing user interface screenshots into structured and easy-to-understand elements  
 
-20. <a href="https://github.com/langchain-ai/langgraph">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langgraph">langgraph</a></b> ⭐ 23,696    
+25. <a href="https://github.com/langchain-ai/langgraph">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langgraph">langgraph</a></b> ⭐ 23,696    
    LangGraph is a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain.  
    🔗 [docs.langchain.com/oss/python/langgraph](https://docs.langchain.com/oss/python/langgraph/)  
 
-21. <a href="https://github.com/safishamsi/graphify">safishamsi/</a><b><a href="https://github.com/safishamsi/graphify">graphify</a></b> ⭐ 22,501    
+26. <a href="https://github.com/blader/humanizer">blader/</a><b><a href="https://github.com/blader/humanizer">humanizer</a></b> ⭐ 23,361    
+   Claude Code skill that removes signs of AI-generated writing from text  
+
+27. <a href="https://github.com/safishamsi/graphify">safishamsi/</a><b><a href="https://github.com/safishamsi/graphify">graphify</a></b> ⭐ 22,501    
    AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable knowledge graph  
    🔗 [safishamsi.github.io/penpax.ai](https://safishamsi.github.io/penpax.ai)  
 
-22. <a href="https://github.com/yoheinakajima/babyagi">yoheinakajima/</a><b><a href="https://github.com/yoheinakajima/babyagi">babyagi</a></b> ⭐ 22,094    
+28. <a href="https://github.com/yoheinakajima/babyagi">yoheinakajima/</a><b><a href="https://github.com/yoheinakajima/babyagi">babyagi</a></b> ⭐ 22,094    
    GPT-4 powered task-driven autonomous agent  
    🔗 [babyagi.org](https://babyagi.org/)  
 
-23. <a href="https://github.com/a2aproject/a2a">a2aproject/</a><b><a href="https://github.com/a2aproject/a2a">A2A</a></b> ⭐ 21,577    
+29. <a href="https://github.com/a2aproject/a2a">a2aproject/</a><b><a href="https://github.com/a2aproject/a2a">A2A</a></b> ⭐ 21,577    
    An open protocol enabling communication and interoperability between opaque agentic applications.  
    🔗 [a2a-protocol.org](https://a2a-protocol.org/)  
 
-24. <a href="https://github.com/openai/swarm">openai/</a><b><a href="https://github.com/openai/swarm">swarm</a></b> ⭐ 20,819    
+30. <a href="https://github.com/openai/swarm">openai/</a><b><a href="https://github.com/openai/swarm">swarm</a></b> ⭐ 20,819    
    A framework exploring ergonomic, lightweight multi-agent orchestration.  
 
-25. <a href="https://github.com/letta-ai/letta">letta-ai/</a><b><a href="https://github.com/letta-ai/letta">letta</a></b> ⭐ 20,805    
+31. <a href="https://github.com/letta-ai/letta">letta-ai/</a><b><a href="https://github.com/letta-ai/letta">letta</a></b> ⭐ 20,805    
    Letta (formerly MemGPT) is a framework for creating LLM services with memory.  
    🔗 [docs.letta.com](https://docs.letta.com/)  
 
-26. <a href="https://github.com/nirdiamant/genai_agents">nirdiamant/</a><b><a href="https://github.com/nirdiamant/genai_agents">GenAI_Agents</a></b> ⭐ 19,499    
+32. <a href="https://github.com/nirdiamant/genai_agents">nirdiamant/</a><b><a href="https://github.com/nirdiamant/genai_agents">GenAI_Agents</a></b> ⭐ 19,499    
    Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.  
 
-27. <a href="https://github.com/bytedance/deer-flow">bytedance/</a><b><a href="https://github.com/bytedance/deer-flow">deer-flow</a></b> ⭐ 19,381    
+33. <a href="https://github.com/bytedance/deer-flow">bytedance/</a><b><a href="https://github.com/bytedance/deer-flow">deer-flow</a></b> ⭐ 19,381    
    DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.  
    🔗 [deerflow.tech](https://deerflow.tech)  
 
-28. <a href="https://github.com/unity-technologies/ml-agents">unity-technologies/</a><b><a href="https://github.com/unity-technologies/ml-agents">ml-agents</a></b> ⭐ 19,065    
+34. <a href="https://github.com/titanwings/colleague-skill">titanwings/</a><b><a href="https://github.com/titanwings/colleague-skill">colleague-skill</a></b> ⭐ 19,229    
+   将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶  
+
+35. <a href="https://github.com/unity-technologies/ml-agents">unity-technologies/</a><b><a href="https://github.com/unity-technologies/ml-agents">ml-agents</a></b> ⭐ 19,065    
    The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.  
    🔗 [unity.com/products/machine-learning-agents](https://unity.com/products/machine-learning-agents)  
 
-29. <a href="https://github.com/camel-ai/owl">camel-ai/</a><b><a href="https://github.com/camel-ai/owl">owl</a></b> ⭐ 18,929    
+36. <a href="https://github.com/camel-ai/owl">camel-ai/</a><b><a href="https://github.com/camel-ai/owl">owl</a></b> ⭐ 18,929    
    🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation  
 
-30. <a href="https://github.com/openai/openai-agents-python">openai/</a><b><a href="https://github.com/openai/openai-agents-python">openai-agents-python</a></b> ⭐ 18,502    
+37. <a href="https://github.com/openai/openai-agents-python">openai/</a><b><a href="https://github.com/openai/openai-agents-python">openai-agents-python</a></b> ⭐ 18,502    
    A lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLMs.  
    🔗 [openai.github.io/openai-agents-python](https://openai.github.io/openai-agents-python/)  
 
-31. <a href="https://github.com/dzhng/deep-research">dzhng/</a><b><a href="https://github.com/dzhng/deep-research">deep-research</a></b> ⭐ 18,372    
+38. <a href="https://github.com/dzhng/deep-research">dzhng/</a><b><a href="https://github.com/dzhng/deep-research">deep-research</a></b> ⭐ 18,372    
    An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  
 
-32. <a href="https://github.com/alibaba-nlp/deepresearch">alibaba-nlp/</a><b><a href="https://github.com/alibaba-nlp/deepresearch">DeepResearch</a></b> ⭐ 18,035    
+39. <a href="https://github.com/alibaba-nlp/deepresearch">alibaba-nlp/</a><b><a href="https://github.com/alibaba-nlp/deepresearch">DeepResearch</a></b> ⭐ 18,035    
    Tongyi Deep Research, the Leading Open-source Deep Research Agent  
    🔗 [tongyi-agent.github.io/blog/introducing-tongyi-deep-research](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)  
 
-33. <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/</a><b><a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">gemini-fullstack-langgraph-quickstart</a></b> ⭐ 17,758    
+40. <a href="https://github.com/agent0ai/agent-zero">agent0ai/</a><b><a href="https://github.com/agent0ai/agent-zero">agent-zero</a></b> ⭐ 18,011    
+   Agent Zero AI framework  
+   🔗 [agent-zero.ai](https://agent-zero.ai)  
+
+41. <a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">google-gemini/</a><b><a href="https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart">gemini-fullstack-langgraph-quickstart</a></b> ⭐ 17,758    
    Demonstrates a fullstack application using a React and LangGraph-powered backend agent. The agent is designed to perform comprehensive research on a user's query.  
    🔗 [ai.google.dev/gemini-api/docs/google-search](https://ai.google.dev/gemini-api/docs/google-search)  
 
-34. <a href="https://github.com/emcie-co/parlant">emcie-co/</a><b><a href="https://github.com/emcie-co/parlant">parlant</a></b> ⭐ 17,579    
+42. <a href="https://github.com/emcie-co/parlant">emcie-co/</a><b><a href="https://github.com/emcie-co/parlant">parlant</a></b> ⭐ 17,579    
    LLM agents built for control. Designed for real-world use. Deployed in minutes.  
    🔗 [www.parlant.io](https://www.parlant.io)  
 
-35. <a href="https://github.com/google/adk-python">google/</a><b><a href="https://github.com/google/adk-python">adk-python</a></b> ⭐ 17,293    
+43. <a href="https://github.com/google/adk-python">google/</a><b><a href="https://github.com/google/adk-python">adk-python</a></b> ⭐ 17,293    
    An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.  
    🔗 [google.github.io/adk-docs](https://google.github.io/adk-docs/)  
 
-36. <a href="https://github.com/agentscope-ai/agentscope">agentscope-ai/</a><b><a href="https://github.com/agentscope-ai/agentscope">agentscope</a></b> ⭐ 15,850    
+44. <a href="https://github.com/agentscope-ai/agentscope">agentscope-ai/</a><b><a href="https://github.com/agentscope-ai/agentscope">agentscope</a></b> ⭐ 15,850    
    AgentScope: Agent-Oriented Programming for Building LLM Applications  
    🔗 [doc.agentscope.io](https://doc.agentscope.io/)  
 
-37. <a href="https://github.com/camel-ai/camel">camel-ai/</a><b><a href="https://github.com/camel-ai/camel">camel</a></b> ⭐ 15,751    
+45. <a href="https://github.com/camel-ai/camel">camel-ai/</a><b><a href="https://github.com/camel-ai/camel">camel</a></b> ⭐ 15,751    
    🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org  
    🔗 [docs.camel-ai.org](https://docs.camel-ai.org/)  
 
-38. <a href="https://github.com/voltagent/awesome-agent-skills">voltagent/</a><b><a href="https://github.com/voltagent/awesome-agent-skills">awesome-agent-skills</a></b> ⭐ 15,232    
+46. <a href="https://github.com/voltagent/awesome-agent-skills">voltagent/</a><b><a href="https://github.com/voltagent/awesome-agent-skills">awesome-agent-skills</a></b> ⭐ 15,232    
    A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.  
    🔗 [officialskills.sh](https://officialskills.sh/)  
 
-39. <a href="https://github.com/pydantic/pydantic-ai">pydantic/</a><b><a href="https://github.com/pydantic/pydantic-ai">pydantic-ai</a></b> ⭐ 14,427    
+47. <a href="https://github.com/pydantic/pydantic-ai">pydantic/</a><b><a href="https://github.com/pydantic/pydantic-ai">pydantic-ai</a></b> ⭐ 14,427    
    PydanticAI is a Python Agent Framework designed to make it less painful to build production grade applications with Generative AI.  
    🔗 [ai.pydantic.dev](https://ai.pydantic.dev)  
 
-40. <a href="https://github.com/asyncfuncai/deepwiki-open">asyncfuncai/</a><b><a href="https://github.com/asyncfuncai/deepwiki-open">deepwiki-open</a></b> ⭐ 13,812    
+48. <a href="https://github.com/asyncfuncai/deepwiki-open">asyncfuncai/</a><b><a href="https://github.com/asyncfuncai/deepwiki-open">deepwiki-open</a></b> ⭐ 13,812    
    Custom implementation of DeepWiki, automatically creates beautiful, interactive wikis for any GitHub, GitLab, or BitBucket repository  
    🔗 [asyncfunc.mintlify.app](https://asyncfunc.mintlify.app/)  
 
-41. <a href="https://github.com/smol-ai/developer">smol-ai/</a><b><a href="https://github.com/smol-ai/developer">developer</a></b> ⭐ 12,205    
+49. <a href="https://github.com/kyegomez/openmythos">kyegomez/</a><b><a href="https://github.com/kyegomez/openmythos">OpenMythos</a></b> ⭐ 13,673    
+   A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.  
+   🔗 [discord.gg/eamjgsaeqf](https://discord.gg/EamjgSaEQf)  
+
+50. <a href="https://github.com/google/skills">google/</a><b><a href="https://github.com/google/skills">skills</a></b> ⭐ 13,028    
+   Agent Skills for Google products and technologies  
+
+51. <a href="https://github.com/smol-ai/developer">smol-ai/</a><b><a href="https://github.com/smol-ai/developer">developer</a></b> ⭐ 12,205    
    the first library to let you embed a developer agent in your own app!  
    🔗 [twitter.com/smolmodels](https://twitter.com/SmolModels)  
 
-42. <a href="https://github.com/sakanaai/ai-scientist">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist">AI-Scientist</a></b> ⭐ 11,987    
+52. <a href="https://github.com/sakanaai/ai-scientist">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist">AI-Scientist</a></b> ⭐ 11,987    
    The AI Scientist, the first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.  
 
-43. <a href="https://github.com/microsoft/agent-lightning">microsoft/</a><b><a href="https://github.com/microsoft/agent-lightning">agent-lightning</a></b> ⭐ 11,622    
+53. <a href="https://github.com/microsoft/agent-lightning">microsoft/</a><b><a href="https://github.com/microsoft/agent-lightning">agent-lightning</a></b> ⭐ 11,622    
    A structured way to train your agents with Automatic Prompt Optimization (APO). Just like you train a machine learning model on data, you can train an agent on a task dataset.  
    🔗 [microsoft.github.io/agent-lightning](https://microsoft.github.io/agent-lightning/)  
 
-44. <a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui-protocol/</a><b><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui</a></b> ⭐ 11,565    
+54. <a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui-protocol/</a><b><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui</a></b> ⭐ 11,565    
    AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.  
    🔗 [ag-ui.com](https://ag-ui.com)  
 
-45. <a href="https://github.com/aiming-lab/autoresearchclaw">aiming-lab/</a><b><a href="https://github.com/aiming-lab/autoresearchclaw">AutoResearchClaw</a></b> ⭐ 10,973    
+55. <a href="https://github.com/aiming-lab/autoresearchclaw">aiming-lab/</a><b><a href="https://github.com/aiming-lab/autoresearchclaw">AutoResearchClaw</a></b> ⭐ 10,973    
    Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞  
 
-46. <a href="https://github.com/langchain-ai/open_deep_research">langchain-ai/</a><b><a href="https://github.com/langchain-ai/open_deep_research">open_deep_research</a></b> ⭐ 10,301    
+56. <a href="https://github.com/piebald-ai/claude-code-system-prompts">piebald-ai/</a><b><a href="https://github.com/piebald-ai/claude-code-system-prompts">claude-code-system-prompts</a></b> ⭐ 10,904    
+   All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.  
+
+57. <a href="https://github.com/huggingface/ml-intern">huggingface/</a><b><a href="https://github.com/huggingface/ml-intern">ml-intern</a></b> ⭐ 10,389    
+   🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models  
+
+58. <a href="https://github.com/langchain-ai/open_deep_research">langchain-ai/</a><b><a href="https://github.com/langchain-ai/open_deep_research">open_deep_research</a></b> ⭐ 10,301    
    Open Deep Research is an open source assistant that automates research and produces customizable reports on any topic  
 
-47. <a href="https://github.com/microsoft/magentic-ui">microsoft/</a><b><a href="https://github.com/microsoft/magentic-ui">magentic-ui</a></b> ⭐ 9,609    
+59. <a href="https://github.com/microsoft/magentic-ui">microsoft/</a><b><a href="https://github.com/microsoft/magentic-ui">magentic-ui</a></b> ⭐ 9,609    
    A prototype of a human-centered interface powered by a multi-agent system that can browse and perform actions on the web, generate and execute code  
    🔗 [www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent](https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/)  
 
-48. <a href="https://github.com/humanlayer/humanlayer">humanlayer/</a><b><a href="https://github.com/humanlayer/humanlayer">humanlayer</a></b> ⭐ 8,911    
+60. <a href="https://github.com/browser-use/video-use">browser-use/</a><b><a href="https://github.com/browser-use/video-use">video-use</a></b> ⭐ 9,383    
+   Edit videos with coding agents  
+
+61. <a href="https://github.com/humanlayer/humanlayer">humanlayer/</a><b><a href="https://github.com/humanlayer/humanlayer">humanlayer</a></b> ⭐ 8,911    
    HumanLayer is an API and SDK that enables AI Agents to contact humans for help, feedback, and approvals.  
    🔗 [humanlayer.dev/code](https://humanlayer.dev/code)  
 
-49. <a href="https://github.com/meta-llama/llama-stack">meta-llama/</a><b><a href="https://github.com/meta-llama/llama-stack">llama-stack</a></b> ⭐ 8,246    
+62. <a href="https://github.com/meta-llama/llama-stack">meta-llama/</a><b><a href="https://github.com/meta-llama/llama-stack">llama-stack</a></b> ⭐ 8,246    
    Llama Stack standardizes the building blocks needed to bring genai applications to market. These blocks cover model training and fine-tuning, evaluation, and running AI agents in production  
    🔗 [llamastack.github.io](https://llamastack.github.io)  
 
-50. <a href="https://github.com/upsonic/upsonic">upsonic/</a><b><a href="https://github.com/upsonic/upsonic">Upsonic</a></b> ⭐ 7,750    
+63. <a href="https://github.com/anthropics/claude-for-legal">anthropics/</a><b><a href="https://github.com/anthropics/claude-for-legal">claude-for-legal</a></b> ⭐ 8,186    
+   Reference agents, skills, and connectors for the legal workflows: in-house commercial, privacy, product, corporate, employment, litigation, regulatory  
+
+64. <a href="https://github.com/upsonic/upsonic">upsonic/</a><b><a href="https://github.com/upsonic/upsonic">Upsonic</a></b> ⭐ 7,750    
    Upsonic is a reliability-focused framework designed for real-world applications. It enables trusted agent workflows in your organization through advanced reliability features, including verification layers, triangular architecture, validator agents, and output evaluation systems.  
    🔗 [docs.upsonic.ai](https://docs.upsonic.ai)  
 
-51. <a href="https://github.com/zilliztech/deep-searcher">zilliztech/</a><b><a href="https://github.com/zilliztech/deep-searcher">deep-searcher</a></b> ⭐ 7,506    
+65. <a href="https://github.com/zilliztech/deep-searcher">zilliztech/</a><b><a href="https://github.com/zilliztech/deep-searcher">deep-searcher</a></b> ⭐ 7,506    
    DeepSearcher combines reasoning LLMs and VectorDBs o perform search, evaluation, and reasoning based on private data, providing highly accurate answer and comprehensive report  
    🔗 [zilliztech.github.io/deep-searcher](https://zilliztech.github.io/deep-searcher/)  
 
-52. <a href="https://github.com/nicobailon/visual-explainer">nicobailon/</a><b><a href="https://github.com/nicobailon/visual-explainer">visual-explainer</a></b> ⭐ 7,469    
+66. <a href="https://github.com/nicobailon/visual-explainer">nicobailon/</a><b><a href="https://github.com/nicobailon/visual-explainer">visual-explainer</a></b> ⭐ 7,469    
    Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps  
 
-53. <a href="https://github.com/awslabs/agent-squad">awslabs/</a><b><a href="https://github.com/awslabs/agent-squad">agent-squad</a></b> ⭐ 7,280    
+67. <a href="https://github.com/awslabs/agent-squad">awslabs/</a><b><a href="https://github.com/awslabs/agent-squad">agent-squad</a></b> ⭐ 7,280    
    Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations  
    🔗 [awslabs.github.io/agent-squad](https://awslabs.github.io/agent-squad/)  
 
-54. <a href="https://github.com/x-plug/mobileagent">x-plug/</a><b><a href="https://github.com/x-plug/mobileagent">MobileAgent</a></b> ⭐ 7,035    
+68. <a href="https://github.com/x-plug/mobileagent">x-plug/</a><b><a href="https://github.com/x-plug/mobileagent">MobileAgent</a></b> ⭐ 7,035    
     Mobile-Agent: The Powerful GUI Agent Family  
 
-55. <a href="https://github.com/mnotgod96/appagent">mnotgod96/</a><b><a href="https://github.com/mnotgod96/appagent">AppAgent</a></b> ⭐ 6,478    
+69. <a href="https://github.com/mnotgod96/appagent">mnotgod96/</a><b><a href="https://github.com/mnotgod96/appagent">AppAgent</a></b> ⭐ 6,478    
    AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.  
    🔗 [appagent-official.github.io](https://appagent-official.github.io/)  
 
-56. <a href="https://github.com/samsungsailmontreal/tinyrecursivemodels">samsungsailmontreal/</a><b><a href="https://github.com/samsungsailmontreal/tinyrecursivemodels">TinyRecursiveModels</a></b> ⭐ 6,275    
+70. <a href="https://github.com/samsungsailmontreal/tinyrecursivemodels">samsungsailmontreal/</a><b><a href="https://github.com/samsungsailmontreal/tinyrecursivemodels">TinyRecursiveModels</a></b> ⭐ 6,275    
    A recursive reasoning model that achieves amazing scores ARC-AGI-1 and ARC-AGI-2 with a tiny 7M parameters neural network  
 
-57. <a href="https://github.com/prefecthq/marvin">prefecthq/</a><b><a href="https://github.com/prefecthq/marvin">marvin</a></b> ⭐ 6,055    
+71. <a href="https://github.com/prefecthq/marvin">prefecthq/</a><b><a href="https://github.com/prefecthq/marvin">marvin</a></b> ⭐ 6,055    
    an ambient intelligence library  
    🔗 [marvin.mintlify.app](https://marvin.mintlify.app)  
 
-58. <a href="https://github.com/openai/openai-cs-agents-demo">openai/</a><b><a href="https://github.com/openai/openai-cs-agents-demo">openai-cs-agents-demo</a></b> ⭐ 5,903    
+72. <a href="https://github.com/openai/openai-cs-agents-demo">openai/</a><b><a href="https://github.com/openai/openai-cs-agents-demo">openai-cs-agents-demo</a></b> ⭐ 5,903    
    Demo of a Customer Service Agent interface built on top of the OpenAI Agents SDK  
 
-59. <a href="https://github.com/pyspur-dev/pyspur">pyspur-dev/</a><b><a href="https://github.com/pyspur-dev/pyspur">pyspur</a></b> ⭐ 5,660    
+73. <a href="https://github.com/pyspur-dev/pyspur">pyspur-dev/</a><b><a href="https://github.com/pyspur-dev/pyspur">pyspur</a></b> ⭐ 5,660    
    A visual playground for agentic workflows: Iterate over your agents 10x faster  
    🔗 [pyspur.dev](https://pyspur.dev)  
 
-60. <a href="https://github.com/kyegomez/swarms">kyegomez/</a><b><a href="https://github.com/kyegomez/swarms">swarms</a></b> ⭐ 5,638    
+74. <a href="https://github.com/kyegomez/swarms">kyegomez/</a><b><a href="https://github.com/kyegomez/swarms">swarms</a></b> ⭐ 5,638    
    The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai  
    🔗 [docs.swarms.world](https://docs.swarms.world)  
 
-61. <a href="https://github.com/brainblend-ai/atomic-agents">brainblend-ai/</a><b><a href="https://github.com/brainblend-ai/atomic-agents">atomic-agents</a></b> ⭐ 5,516    
+75. <a href="https://github.com/brainblend-ai/atomic-agents">brainblend-ai/</a><b><a href="https://github.com/brainblend-ai/atomic-agents">atomic-agents</a></b> ⭐ 5,516    
    Atomic Agents provides a set of tools and agents that can be combined to create powerful applications. It is built on top of Instructor and leverages the power of Pydantic for data and schema validation and serialization.  
 
-62. <a href="https://github.com/crewaiinc/crewai-examples">crewaiinc/</a><b><a href="https://github.com/crewaiinc/crewai-examples">crewAI-examples</a></b> ⭐ 5,436    
+76. <a href="https://github.com/crewaiinc/crewai-examples">crewaiinc/</a><b><a href="https://github.com/crewaiinc/crewai-examples">crewAI-examples</a></b> ⭐ 5,436    
    A collection of examples that show how to use CrewAI framework to automate workflows.  
 
-63. <a href="https://github.com/landing-ai/vision-agent">landing-ai/</a><b><a href="https://github.com/landing-ai/vision-agent">vision-agent</a></b> ⭐ 5,206    
+77. <a href="https://github.com/landing-ai/vision-agent">landing-ai/</a><b><a href="https://github.com/landing-ai/vision-agent">vision-agent</a></b> ⭐ 5,206    
    VisionAgent is a library that helps you utilize agent frameworks to generate code to solve your vision task  
 
-64. <a href="https://github.com/codelion/openevolve">codelion/</a><b><a href="https://github.com/codelion/openevolve">openevolve</a></b> ⭐ 5,203    
+78. <a href="https://github.com/codelion/openevolve">codelion/</a><b><a href="https://github.com/codelion/openevolve">openevolve</a></b> ⭐ 5,203    
    Evolutionary coding agent (like AlphaEvolve) enabling automated scientific and algorithmic discovery  
 
-65. <a href="https://github.com/strands-agents/sdk-python">strands-agents/</a><b><a href="https://github.com/strands-agents/sdk-python">sdk-python</a></b> ⭐ 4,940    
+79. <a href="https://github.com/plastic-labs/honcho">plastic-labs/</a><b><a href="https://github.com/plastic-labs/honcho">honcho</a></b> ⭐ 5,023    
+    Memory library for building stateful agents  
+   🔗 [docs.honcho.dev](https://docs.honcho.dev)  
+
+80. <a href="https://github.com/strands-agents/sdk-python">strands-agents/</a><b><a href="https://github.com/strands-agents/sdk-python">sdk-python</a></b> ⭐ 4,940    
    A model-driven approach to building AI agents in just a few lines of code.  
    🔗 [strandsagents.com](https://strandsagents.com)  
 
-66. <a href="https://github.com/rowboatlabs/rowboat">rowboatlabs/</a><b><a href="https://github.com/rowboatlabs/rowboat">rowboat</a></b> ⭐ 4,321    
+81. <a href="https://github.com/rowboatlabs/rowboat">rowboatlabs/</a><b><a href="https://github.com/rowboatlabs/rowboat">rowboat</a></b> ⭐ 4,321    
    Local-first AI coworker, with memory  
    🔗 [www.rowboatlabs.com](https://www.rowboatlabs.com)  
 
-67. <a href="https://github.com/meta-llama/llama-agentic-system">meta-llama/</a><b><a href="https://github.com/meta-llama/llama-agentic-system">llama-stack-apps</a></b> ⭐ 4,289    
+82. <a href="https://github.com/meta-llama/llama-agentic-system">meta-llama/</a><b><a href="https://github.com/meta-llama/llama-agentic-system">llama-stack-apps</a></b> ⭐ 4,289    
    Agentic components of the Llama Stack APIs  
 
-68. <a href="https://github.com/tencentcloudadp/youtu-agent">tencentcloudadp/</a><b><a href="https://github.com/tencentcloudadp/youtu-agent">youtu-agent</a></b> ⭐ 4,279    
+83. <a href="https://github.com/tencentcloudadp/youtu-agent">tencentcloudadp/</a><b><a href="https://github.com/tencentcloudadp/youtu-agent">youtu-agent</a></b> ⭐ 4,279    
    A flexible, high-performance framework for building, running, and evaluating autonomous agents  
    🔗 [tencentcloudadp.github.io/youtu-agent](https://tencentcloudadp.github.io/youtu-agent/)  
 
-69. <a href="https://github.com/ag2ai/ag2">ag2ai/</a><b><a href="https://github.com/ag2ai/ag2">ag2</a></b> ⭐ 4,082    
+84. <a href="https://github.com/microsoft/agent-governance-toolkit">microsoft/</a><b><a href="https://github.com/microsoft/agent-governance-toolkit">agent-governance-toolkit</a></b> ⭐ 4,182    
+   AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.  
+
+85. <a href="https://github.com/ag2ai/ag2">ag2ai/</a><b><a href="https://github.com/ag2ai/ag2">ag2</a></b> ⭐ 4,082    
    AG2 (formerly AutoGen) is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks.  
    🔗 [ag2.ai](https://ag2.ai)  
 
-70. <a href="https://github.com/joshuac215/agent-service-toolkit">joshuac215/</a><b><a href="https://github.com/joshuac215/agent-service-toolkit">agent-service-toolkit</a></b> ⭐ 4,034    
+86. <a href="https://github.com/joshuac215/agent-service-toolkit">joshuac215/</a><b><a href="https://github.com/joshuac215/agent-service-toolkit">agent-service-toolkit</a></b> ⭐ 4,034    
    A full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit.  
    🔗 [agent-service-toolkit.streamlit.app](https://agent-service-toolkit.streamlit.app)  
 
-71. <a href="https://github.com/going-doer/paper2code">going-doer/</a><b><a href="https://github.com/going-doer/paper2code">Paper2Code</a></b> ⭐ 4,000    
+87. <a href="https://github.com/going-doer/paper2code">going-doer/</a><b><a href="https://github.com/going-doer/paper2code">Paper2Code</a></b> ⭐ 4,000    
    A multi-agent LLM system that transforms paper into a code repository. It follows a three-stage pipeline: planning, analysis, and code generation, each handled by specialized agents.  
 
-72. <a href="https://github.com/getzep/zep">getzep/</a><b><a href="https://github.com/getzep/zep">zep</a></b> ⭐ 3,999    
+88. <a href="https://github.com/getzep/zep">getzep/</a><b><a href="https://github.com/getzep/zep">zep</a></b> ⭐ 3,999    
    Zep is a memory platform for AI agents that learns from user interactions and business data  
    🔗 [help.getzep.com](https://help.getzep.com)  
 
-73. <a href="https://github.com/langroid/langroid">langroid/</a><b><a href="https://github.com/langroid/langroid">langroid</a></b> ⭐ 3,849    
+89. <a href="https://github.com/langroid/langroid">langroid/</a><b><a href="https://github.com/langroid/langroid">langroid</a></b> ⭐ 3,849    
    Harness LLMs with Multi-Agent Programming  
    🔗 [langroid.github.io/langroid](https://langroid.github.io/langroid/)  
 
-74. <a href="https://github.com/openmanus/openmanus-rl">openmanus/</a><b><a href="https://github.com/openmanus/openmanus-rl">OpenManus-RL</a></b> ⭐ 3,836    
+90. <a href="https://github.com/openmanus/openmanus-rl">openmanus/</a><b><a href="https://github.com/openmanus/openmanus-rl">OpenManus-RL</a></b> ⭐ 3,836    
    OpenManus-RL is an open-source initiative collaboratively led by Ulab-UIUC and MetaGPT. This project is an extended version of the original OpenManus initiative.  
 
-75. <a href="https://github.com/i-am-bee/beeai-framework">i-am-bee/</a><b><a href="https://github.com/i-am-bee/beeai-framework">beeai-framework</a></b> ⭐ 3,069    
+91. <a href="https://github.com/i-am-bee/beeai-framework">i-am-bee/</a><b><a href="https://github.com/i-am-bee/beeai-framework">beeai-framework</a></b> ⭐ 3,069    
    Build production-ready AI agents in both Python and Typescript.  
    🔗 [framework.beeai.dev](http://framework.beeai.dev)  
 
-76. <a href="https://github.com/facebookresearch/pearl">facebookresearch/</a><b><a href="https://github.com/facebookresearch/pearl">Pearl</a></b> ⭐ 2,971    
+92. <a href="https://github.com/nutlope/hallmark">nutlope/</a><b><a href="https://github.com/nutlope/hallmark">hallmark</a></b> ⭐ 3,012    
+   A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.  
+   🔗 [www.usehallmark.com](https://www.usehallmark.com/)  
+
+93. <a href="https://github.com/facebookresearch/pearl">facebookresearch/</a><b><a href="https://github.com/facebookresearch/pearl">Pearl</a></b> ⭐ 2,971    
    A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.   
 
-77. <a href="https://github.com/cheshire-cat-ai/core">cheshire-cat-ai/</a><b><a href="https://github.com/cheshire-cat-ai/core">core</a></b> ⭐ 2,951    
+94. <a href="https://github.com/cheshire-cat-ai/core">cheshire-cat-ai/</a><b><a href="https://github.com/cheshire-cat-ai/core">core</a></b> ⭐ 2,951    
    AI agent microservice  
    🔗 [cheshirecat.ai](https://cheshirecat.ai)  
 
-78. <a href="https://github.com/vllm-project/semantic-router">vllm-project/</a><b><a href="https://github.com/vllm-project/semantic-router">semantic-router</a></b> ⭐ 2,907    
+95. <a href="https://github.com/vllm-project/semantic-router">vllm-project/</a><b><a href="https://github.com/vllm-project/semantic-router">semantic-router</a></b> ⭐ 2,907    
    An Mixture-of-Models router that directs OpenAI API requests to the most suitable models from a defined pool based on Semantic Understanding  
    🔗 [vllm-semantic-router.com](https://vllm-semantic-router.com)  
 
-79. <a href="https://github.com/tw93/waza">tw93/</a><b><a href="https://github.com/tw93/waza">Waza</a></b> ⭐ 2,633    
+96. <a href="https://github.com/tw93/waza">tw93/</a><b><a href="https://github.com/tw93/waza">Waza</a></b> ⭐ 2,633    
    🥷 Engineering habits you already know, turned into skills Claude can run.  
    🔗 [x.com/hitw93/status/2041312649510822103](https://x.com/HiTw93/status/2041312649510822103)  
 
-80. <a href="https://github.com/om-ai-lab/omagent">om-ai-lab/</a><b><a href="https://github.com/om-ai-lab/omagent">OmAgent</a></b> ⭐ 2,624    
+97. <a href="https://github.com/om-ai-lab/omagent">om-ai-lab/</a><b><a href="https://github.com/om-ai-lab/omagent">OmAgent</a></b> ⭐ 2,624    
    OmAgent is python library for building multimodal language agents with ease. We try to keep the library simple without too much overhead like other agent framework.  
    🔗 [om-agent.com](https://om-agent.com)  
 
-81. <a href="https://github.com/swe-agent/mini-swe-agent">swe-agent/</a><b><a href="https://github.com/swe-agent/mini-swe-agent">mini-swe-agent</a></b> ⭐ 2,606    
+98. <a href="https://github.com/swe-agent/mini-swe-agent">swe-agent/</a><b><a href="https://github.com/swe-agent/mini-swe-agent">mini-swe-agent</a></b> ⭐ 2,606    
    The 100 line AI agent that solves GitHub issues or helps you in your command line  
    🔗 [mini-swe-agent.com](https://mini-swe-agent.com)  
 
-82. <a href="https://github.com/dimensionalos/dimos">dimensionalos/</a><b><a href="https://github.com/dimensionalos/dimos">dimos</a></b> ⭐ 2,588    
+99. <a href="https://github.com/dimensionalos/dimos">dimensionalos/</a><b><a href="https://github.com/dimensionalos/dimos">dimos</a></b> ⭐ 2,588    
    Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).  
    🔗 [dimensionalos.com](https://dimensionalos.com/)  
 
-83. <a href="https://github.com/griptape-ai/griptape">griptape-ai/</a><b><a href="https://github.com/griptape-ai/griptape">griptape</a></b> ⭐ 2,458    
+100. <a href="https://github.com/facebookresearch/hyperagents">facebookresearch/</a><b><a href="https://github.com/facebookresearch/hyperagents">HyperAgents</a></b> ⭐ 2,568    
+   Self-referential self-improving agents that can optimize for any computable task  
+
+101. <a href="https://github.com/griptape-ai/griptape">griptape-ai/</a><b><a href="https://github.com/griptape-ai/griptape">griptape</a></b> ⭐ 2,458    
    Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.   
    🔗 [www.griptape.ai](https://www.griptape.ai)  
 
-84. <a href="https://github.com/langchain-ai/executive-ai-assistant">langchain-ai/</a><b><a href="https://github.com/langchain-ai/executive-ai-assistant">executive-ai-assistant</a></b> ⭐ 2,161    
+102. <a href="https://github.com/langchain-ai/executive-ai-assistant">langchain-ai/</a><b><a href="https://github.com/langchain-ai/executive-ai-assistant">executive-ai-assistant</a></b> ⭐ 2,161    
    Executive AI Assistant (EAIA) is an AI agent that attempts to do the job of an Executive Assistant (EA).  
 
-85. <a href="https://github.com/btahir/open-deep-research">btahir/</a><b><a href="https://github.com/btahir/open-deep-research">open-deep-research</a></b> ⭐ 2,119    
+103. <a href="https://github.com/btahir/open-deep-research">btahir/</a><b><a href="https://github.com/btahir/open-deep-research">open-deep-research</a></b> ⭐ 2,119    
    Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.  
    🔗 [opendeepresearch.vercel.app](https://opendeepresearch.vercel.app)  
 
-86. <a href="https://github.com/agentops-ai/agentstack">agentops-ai/</a><b><a href="https://github.com/agentops-ai/agentstack">AgentStack</a></b> ⭐ 2,086    
+104. <a href="https://github.com/agentops-ai/agentstack">agentops-ai/</a><b><a href="https://github.com/agentops-ai/agentstack">AgentStack</a></b> ⭐ 2,086    
    AgentStack scaffolds your agent stack - The tech stack that collectively is your agent  
 
-87. <a href="https://github.com/researai/deepscientist">researai/</a><b><a href="https://github.com/researai/deepscientist">DeepScientist</a></b> ⭐ 2,077    
+105. <a href="https://github.com/researai/deepscientist">researai/</a><b><a href="https://github.com/researai/deepscientist">DeepScientist</a></b> ⭐ 2,077    
    Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.  
 
-88. <a href="https://github.com/run-llama/llama_deploy">run-llama/</a><b><a href="https://github.com/run-llama/llama_deploy">llama_deploy</a></b> ⭐ 2,071    
+106. <a href="https://github.com/run-llama/llama_deploy">run-llama/</a><b><a href="https://github.com/run-llama/llama_deploy">llama_deploy</a></b> ⭐ 2,071    
    Async-first framework for deploying, scaling, and productionizing agentic multi-service systems based on workflows from llama_index.  
    🔗 [docs.llamaindex.ai/en/stable/module_guides/llama_deploy](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/)  
 
-89. <a href="https://github.com/sakanaai/ai-scientist-v2">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist-v2">AI-Scientist-v2</a></b> ⭐ 2,034    
+107. <a href="https://github.com/sakanaai/ai-scientist-v2">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist-v2">AI-Scientist-v2</a></b> ⭐ 2,034    
    The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search  
 
-90. <a href="https://github.com/openautocoder/agentless">openautocoder/</a><b><a href="https://github.com/openautocoder/agentless">Agentless</a></b> ⭐ 2,002    
+108. <a href="https://github.com/openautocoder/agentless">openautocoder/</a><b><a href="https://github.com/openautocoder/agentless">Agentless</a></b> ⭐ 2,002    
    Agentless🐱:  an agentless approach to automatically solve software development problems  
 
-91. <a href="https://github.com/miolini/autoresearch-macos">miolini/</a><b><a href="https://github.com/miolini/autoresearch-macos">autoresearch-macos</a></b> ⭐ 1,929    
+109. <a href="https://github.com/miolini/autoresearch-macos">miolini/</a><b><a href="https://github.com/miolini/autoresearch-macos">autoresearch-macos</a></b> ⭐ 1,929    
    AI agents running research on single-GPU nanochat training automatically adopted for MacOS  
 
-92. <a href="https://github.com/weaviate/elysia">weaviate/</a><b><a href="https://github.com/weaviate/elysia">elysia</a></b> ⭐ 1,867    
+110. <a href="https://github.com/weaviate/elysia">weaviate/</a><b><a href="https://github.com/weaviate/elysia">elysia</a></b> ⭐ 1,867    
    Elysia is an agentic platform designed to use tools in a decision tree. A decision agent decides which tools to use dynamically based on its environment and context.  
 
-93. <a href="https://github.com/jd-opensource/oxygent">jd-opensource/</a><b><a href="https://github.com/jd-opensource/oxygent">OxyGent</a></b> ⭐ 1,831    
+111. <a href="https://github.com/ciembor/agent-rules-books">ciembor/</a><b><a href="https://github.com/ciembor/agent-rules-books">agent-rules-books</a></b> ⭐ 1,831    
+   AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.  
+   🔗 [ciembor.github.io/agent-rules-books](https://ciembor.github.io/agent-rules-books/)  
+
+112. <a href="https://github.com/jd-opensource/oxygent">jd-opensource/</a><b><a href="https://github.com/jd-opensource/oxygent">OxyGent</a></b> ⭐ 1,831    
    OxyGent is a modular multi-agent framework that lets you build, deploy, and evolve AI teams  
    🔗 [oxygent.jd.com](https://oxygent.jd.com)  
 
-94. <a href="https://github.com/msoedov/agentic_security">msoedov/</a><b><a href="https://github.com/msoedov/agentic_security">agentic_security</a></b> ⭐ 1,749    
+113. <a href="https://github.com/jennyzzt/dgm">jennyzzt/</a><b><a href="https://github.com/jennyzzt/dgm">dgm</a></b> ⭐ 1,800    
+   Self-improving system that iteratively modifies its own code and empirically validates each change  
+
+114. <a href="https://github.com/msoedov/agentic_security">msoedov/</a><b><a href="https://github.com/msoedov/agentic_security">agentic_security</a></b> ⭐ 1,749    
    An open-source vulnerability scanner for Agent Workflows and LLMs. Protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.  
    🔗 [agentic-security.vercel.app](https://agentic-security.vercel.app)  
 
-95. <a href="https://github.com/agno-agi/dash">agno-agi/</a><b><a href="https://github.com/agno-agi/dash">dash</a></b> ⭐ 1,598    
+115. <a href="https://github.com/agno-agi/dash">agno-agi/</a><b><a href="https://github.com/agno-agi/dash">dash</a></b> ⭐ 1,598    
    Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation.  
 
-96. <a href="https://github.com/szczyglis-dev/py-gpt">szczyglis-dev/</a><b><a href="https://github.com/szczyglis-dev/py-gpt">py-gpt</a></b> ⭐ 1,559    
+116. <a href="https://github.com/szczyglis-dev/py-gpt">szczyglis-dev/</a><b><a href="https://github.com/szczyglis-dev/py-gpt">py-gpt</a></b> ⭐ 1,559    
    Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac  
    🔗 [pygpt.net](https://pygpt.net)  
 
-97. <a href="https://github.com/agentera/agently">agentera/</a><b><a href="https://github.com/agentera/agently">Agently</a></b> ⭐ 1,530    
+117. <a href="https://github.com/agentera/agently">agentera/</a><b><a href="https://github.com/agentera/agently">Agently</a></b> ⭐ 1,530    
    Agently is a development framework that helps developers build AI agent native application really fast.  
    🔗 [agently.tech](http://agently.tech)  
 
-98. <a href="https://github.com/shengranhu/adas">shengranhu/</a><b><a href="https://github.com/shengranhu/adas">ADAS</a></b> ⭐ 1,498    
+118. <a href="https://github.com/vila-lab/dive-into-claude-code">vila-lab/</a><b><a href="https://github.com/vila-lab/dive-into-claude-code">Dive-into-Claude-Code</a></b> ⭐ 1,519    
+   A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems  
+   🔗 [arxiv.org/abs/2604.14228](https://arxiv.org/abs/2604.14228)  
+
+119. <a href="https://github.com/shengranhu/adas">shengranhu/</a><b><a href="https://github.com/shengranhu/adas">ADAS</a></b> ⭐ 1,498    
    Automated Design of Agentic Systems using Meta Agent Search to show agents can invent novel and powerful agent designs  
    🔗 [www.shengranhu.com/adas](https://www.shengranhu.com/ADAS/)  
 
-99. <a href="https://github.com/link-agi/autoagents">link-agi/</a><b><a href="https://github.com/link-agi/autoagents">AutoAgents</a></b> ⭐ 1,456    
+120. <a href="https://github.com/link-agi/autoagents">link-agi/</a><b><a href="https://github.com/link-agi/autoagents">AutoAgents</a></b> ⭐ 1,456    
    [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.  
    🔗 [huggingface.co/spaces/linksoul/autoagents](https://huggingface.co/spaces/LinkSoul/AutoAgents)  
 
-100. <a href="https://github.com/prefecthq/controlflow">prefecthq/</a><b><a href="https://github.com/prefecthq/controlflow">ControlFlow</a></b> ⭐ 1,388    
+121. <a href="https://github.com/prefecthq/controlflow">prefecthq/</a><b><a href="https://github.com/prefecthq/controlflow">ControlFlow</a></b> ⭐ 1,388    
    ControlFlow provides a structured, developer-focused framework for defining workflows and delegating work to LLMs, without sacrificing control or transparency  
    🔗 [controlflow.ai](https://controlflow.ai)  
 
-101. <a href="https://github.com/langchain-ai/langgraph-swarm-py">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langgraph-swarm-py">langgraph-swarm-py</a></b> ⭐ 1,351    
+122. <a href="https://github.com/langchain-ai/langgraph-swarm-py">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langgraph-swarm-py">langgraph-swarm-py</a></b> ⭐ 1,351    
    A library for creating swarm-style multi-agent systems using LangGraph. A swarm is a type of multi-agent architecture where agents dynamically hand off control to one another based on their specializations  
    🔗 [langchain-ai.github.io/langgraph/concepts/multi_agent](https://langchain-ai.github.io/langgraph/concepts/multi_agent/)  
 
-102. <a href="https://github.com/bytedance-seed/m3-agent">bytedance-seed/</a><b><a href="https://github.com/bytedance-seed/m3-agent">m3-agent</a></b> ⭐ 1,214    
+123. <a href="https://github.com/bytedance-seed/m3-agent">bytedance-seed/</a><b><a href="https://github.com/bytedance-seed/m3-agent">m3-agent</a></b> ⭐ 1,214    
    Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory  
 
-103. <a href="https://github.com/k-dense-ai/karpathy">k-dense-ai/</a><b><a href="https://github.com/k-dense-ai/karpathy">karpathy</a></b> ⭐ 1,186    
+124. <a href="https://github.com/k-dense-ai/karpathy">k-dense-ai/</a><b><a href="https://github.com/k-dense-ai/karpathy">karpathy</a></b> ⭐ 1,186    
    An agentic Machine Learning Engineer that trains state-of-the-art ML models using Claude Code SDK and Google ADK  
    🔗 [k-dense.ai](https://k-dense.ai)  
 
-104. <a href="https://github.com/rightnow-ai/autokernel">rightnow-ai/</a><b><a href="https://github.com/rightnow-ai/autokernel">autokernel</a></b> ⭐ 1,185    
+125. <a href="https://github.com/rightnow-ai/autokernel">rightnow-ai/</a><b><a href="https://github.com/rightnow-ai/autokernel">autokernel</a></b> ⭐ 1,185    
    Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.  
    🔗 [www.rightnowai.co/forge](https://www.rightnowai.co/forge)  
 
-105. <a href="https://github.com/plurai-ai/intellagent">plurai-ai/</a><b><a href="https://github.com/plurai-ai/intellagent">intellagent</a></b> ⭐ 1,161    
+126. <a href="https://github.com/plurai-ai/intellagent">plurai-ai/</a><b><a href="https://github.com/plurai-ai/intellagent">intellagent</a></b> ⭐ 1,161    
    Simulate interactions, analyze performance, and gain actionable insights for conversational agents. Test, evaluate, and optimize your agent to ensure reliable real-world deployment.  
    🔗 [intellagent-doc.plurai.ai](https://intellagent-doc.plurai.ai/)  
 
-106. <a href="https://github.com/google-deepmind/concordia">google-deepmind/</a><b><a href="https://github.com/google-deepmind/concordia">concordia</a></b> ⭐ 1,155    
+127. <a href="https://github.com/google-deepmind/concordia">google-deepmind/</a><b><a href="https://github.com/google-deepmind/concordia">concordia</a></b> ⭐ 1,155    
    Concordia is a library to facilitate construction and use of generative agent-based models to simulate interactions of agents in grounded physical, social, or digital space.  
 
-107. <a href="https://github.com/strnad/crewai-studio">strnad/</a><b><a href="https://github.com/strnad/crewai-studio">CrewAI-Studio</a></b> ⭐ 1,144    
+128. <a href="https://github.com/strnad/crewai-studio">strnad/</a><b><a href="https://github.com/strnad/crewai-studio">CrewAI-Studio</a></b> ⭐ 1,144    
    agentic,gui,automation  
 
-108. <a href="https://github.com/thudm/cogagent">thudm/</a><b><a href="https://github.com/thudm/cogagent">CogAgent</a></b> ⭐ 1,124    
+129. <a href="https://github.com/thudm/cogagent">thudm/</a><b><a href="https://github.com/thudm/cogagent">CogAgent</a></b> ⭐ 1,124    
    An open-sourced end-to-end VLM-based GUI Agent  
 
-109. <a href="https://github.com/victordibia/autogen-ui">victordibia/</a><b><a href="https://github.com/victordibia/autogen-ui">autogen-ui</a></b> ⭐ 981    
+130. <a href="https://github.com/victordibia/autogen-ui">victordibia/</a><b><a href="https://github.com/victordibia/autogen-ui">autogen-ui</a></b> ⭐ 981    
    Web UI for AutoGen (A Framework Multi-Agent LLM Applications)  
 
-110. <a href="https://github.com/thytu/agentarium">thytu/</a><b><a href="https://github.com/thytu/agentarium">Agentarium</a></b> ⭐ 933    
+131. <a href="https://github.com/thytu/agentarium">thytu/</a><b><a href="https://github.com/thytu/agentarium">Agentarium</a></b> ⭐ 933    
    Framework for managing and orchestrating AI agents with ease. Agentarium provides a flexible and intuitive way to create, manage, and coordinate interactions between multiple AI agents in various environments.  
 
-111. <a href="https://github.com/alpha-innovator/internagent">alpha-innovator/</a><b><a href="https://github.com/alpha-innovator/internagent">InternAgent</a></b> ⭐ 840    
+132. <a href="https://github.com/alpha-innovator/internagent">alpha-innovator/</a><b><a href="https://github.com/alpha-innovator/internagent">InternAgent</a></b> ⭐ 840    
    When Agent Becomes the Scientist – Building Closed-Loop System from Hypothesis to Verification  
    🔗 [discovery.intern-ai.org.cn/home](https://discovery.intern-ai.org.cn/home)  
 
-112. <a href="https://github.com/deedy/mac_computer_use">deedy/</a><b><a href="https://github.com/deedy/mac_computer_use">mac_computer_use</a></b> ⭐ 831    
+133. <a href="https://github.com/deedy/mac_computer_use">deedy/</a><b><a href="https://github.com/deedy/mac_computer_use">mac_computer_use</a></b> ⭐ 831    
    A fork of Anthropic Computer Use that you can run on Mac computers to give Claude and other AI models autonomous access to your computer.  
    🔗 [x.com/deedydas/status/1849481225041559910](https://x.com/deedydas/status/1849481225041559910)  
 
-113. <a href="https://github.com/codingmoh/open-codex">codingmoh/</a><b><a href="https://github.com/codingmoh/open-codex">open-codex</a></b> ⭐ 665    
+134. <a href="https://github.com/facebookresearch/programbench">facebookresearch/</a><b><a href="https://github.com/facebookresearch/programbench">ProgramBench</a></b> ⭐ 738    
+   Can Language Models Rebuild Programs From Scratch?  
+   🔗 [programbench.com](https://programbench.com)  
+
+135. <a href="https://github.com/codingmoh/open-codex">codingmoh/</a><b><a href="https://github.com/codingmoh/open-codex">open-codex</a></b> ⭐ 665    
    Open Codex is a fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models like phi-4-mini and full integration with Ollama.  
 
-114. <a href="https://github.com/salesforceairesearch/agentlite">salesforceairesearch/</a><b><a href="https://github.com/salesforceairesearch/agentlite">AgentLite</a></b> ⭐ 641    
+136. <a href="https://github.com/salesforceairesearch/agentlite">salesforceairesearch/</a><b><a href="https://github.com/salesforceairesearch/agentlite">AgentLite</a></b> ⭐ 641    
    AgentLite is a research-oriented library designed for building and advancing LLM-based task-oriented agent systems. It simplifies the implementation of new agent/multi-agent architectures, enabling easy orchestration of multiple agents through a manager agent.  
 
-115. <a href="https://github.com/quantalogic/quantalogic">quantalogic/</a><b><a href="https://github.com/quantalogic/quantalogic">quantalogic</a></b> ⭐ 461    
+137. <a href="https://github.com/tiangolo/library-skills">tiangolo/</a><b><a href="https://github.com/tiangolo/library-skills">library-skills</a></b> ⭐ 591    
+   Library Agent Skills  
+
+138. <a href="https://github.com/quantalogic/quantalogic">quantalogic/</a><b><a href="https://github.com/quantalogic/quantalogic">quantalogic</a></b> ⭐ 461    
    QuantaLogic is a ReAct (Reasoning & Action) framework for building advanced AI agents. The cli version include coding capabilities comparable to Aider.  
 
-116. <a href="https://github.com/agentscope-ai/agentscope-runtime">agentscope-ai/</a><b><a href="https://github.com/agentscope-ai/agentscope-runtime">agentscope-runtime</a></b> ⭐ 375    
+139. <a href="https://github.com/agentscope-ai/agentscope-runtime">agentscope-ai/</a><b><a href="https://github.com/agentscope-ai/agentscope-runtime">agentscope-runtime</a></b> ⭐ 375    
    AgentScope Runtime: secure sandboxed tool execution and scalable agent deployment  
    🔗 [runtime.agentscope.io](https://runtime.agentscope.io/)  
 
-117. <a href="https://github.com/mannaandpoem/openmanus">mannaandpoem/</a><b><a href="https://github.com/mannaandpoem/openmanus">OpenManus</a></b> ⭐ 306    
+140. <a href="https://github.com/mannaandpoem/openmanus">mannaandpoem/</a><b><a href="https://github.com/mannaandpoem/openmanus">OpenManus</a></b> ⭐ 306    
    Open source version of Manus, the general AI agent  
 
-118. <a href="https://github.com/sakanaai/ai-scientist-iclr2025-workshop-experiment">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist-iclr2025-workshop-experiment">AI-Scientist-ICLR2025-Workshop-Experiment</a></b> ⭐ 279    
+141. <a href="https://github.com/sakanaai/ai-scientist-iclr2025-workshop-experiment">sakanaai/</a><b><a href="https://github.com/sakanaai/ai-scientist-iclr2025-workshop-experiment">AI-Scientist-ICLR2025-Workshop-Experiment</a></b> ⭐ 279    
    A paper produced by The AI Scientist passed a peer-review process at a workshop in a top machine learning conference  
 
-119. <a href="https://github.com/prithivirajdamodaran/route0x">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/route0x">Route0x</a></b> ⭐ 119    
+142. <a href="https://github.com/prithivirajdamodaran/route0x">prithivirajdamodaran/</a><b><a href="https://github.com/prithivirajdamodaran/route0x">Route0x</a></b> ⭐ 119    
    A production-grade query routing solution, leveraging LLMs while optimizing for cost per query  
 
 ## Code Quality
@@ -801,134 +881,127 @@ General data libraries: data processing, serialisation, formats, databases, SQL,
    Mimesis is a fast Python library for generating fake data in multiple languages.  
    🔗 [mimesis.name](https://mimesis.name)  
 
-46. <a href="https://github.com/jazzband/tablib">jazzband/</a><b><a href="https://github.com/jazzband/tablib">tablib</a></b> ⭐ 4,753    
-   Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.  
-   🔗 [tablib.readthedocs.io](https://tablib.readthedocs.io/)  
-
-47. <a href="https://github.com/amundsen-io/amundsen">amundsen-io/</a><b><a href="https://github.com/amundsen-io/amundsen">amundsen</a></b> ⭐ 4,719    
+46. <a href="https://github.com/amundsen-io/amundsen">amundsen-io/</a><b><a href="https://github.com/amundsen-io/amundsen">amundsen</a></b> ⭐ 4,719    
    Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.  
    🔗 [www.amundsen.io/amundsen](https://www.amundsen.io/amundsen/)  
 
-48. <a href="https://github.com/mangiucugna/json_repair">mangiucugna/</a><b><a href="https://github.com/mangiucugna/json_repair">json_repair</a></b> ⭐ 4,417    
+47. <a href="https://github.com/mangiucugna/json_repair">mangiucugna/</a><b><a href="https://github.com/mangiucugna/json_repair">json_repair</a></b> ⭐ 4,417    
    A python module to repair invalid JSON from LLMs  
    🔗 [pypi.org/project/json-repair](https://pypi.org/project/json-repair/)  
 
-49. <a href="https://github.com/rom1504/img2dataset">rom1504/</a><b><a href="https://github.com/rom1504/img2dataset">img2dataset</a></b> ⭐ 4,345    
+48. <a href="https://github.com/rom1504/img2dataset">rom1504/</a><b><a href="https://github.com/rom1504/img2dataset">img2dataset</a></b> ⭐ 4,345    
    Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.  
 
-50. <a href="https://github.com/mlabonne/llm-datasets">mlabonne/</a><b><a href="https://github.com/mlabonne/llm-datasets">llm-datasets</a></b> ⭐ 4,190    
+49. <a href="https://github.com/mlabonne/llm-datasets">mlabonne/</a><b><a href="https://github.com/mlabonne/llm-datasets">llm-datasets</a></b> ⭐ 4,190    
    Curated list of datasets and tools for post-training.  
    🔗 [mlabonne.github.io/blog](https://mlabonne.github.io/blog)  
 
-51. <a href="https://github.com/deepchecks/deepchecks">deepchecks/</a><b><a href="https://github.com/deepchecks/deepchecks">deepchecks</a></b> ⭐ 3,968    
+50. <a href="https://github.com/deepchecks/deepchecks">deepchecks/</a><b><a href="https://github.com/deepchecks/deepchecks">deepchecks</a></b> ⭐ 3,968    
    Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and models from research to production.  
    🔗 [docs.deepchecks.com/stable](https://docs.deepchecks.com/stable)  
 
-52. <a href="https://github.com/sqlalchemy/alembic">sqlalchemy/</a><b><a href="https://github.com/sqlalchemy/alembic">alembic</a></b> ⭐ 3,909    
+51. <a href="https://github.com/sqlalchemy/alembic">sqlalchemy/</a><b><a href="https://github.com/sqlalchemy/alembic">alembic</a></b> ⭐ 3,909    
    A database migrations tool for SQLAlchemy.  
 
-53. <a href="https://github.com/run-llama/llama-hub">run-llama/</a><b><a href="https://github.com/run-llama/llama-hub">llama-hub</a></b> ⭐ 3,483    
+52. <a href="https://github.com/run-llama/llama-hub">run-llama/</a><b><a href="https://github.com/run-llama/llama-hub">llama-hub</a></b> ⭐ 3,483    
    A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain  
    🔗 [llamahub.ai](https://llamahub.ai/)  
 
-54. <a href="https://github.com/sdv-dev/sdv">sdv-dev/</a><b><a href="https://github.com/sdv-dev/sdv">SDV</a></b> ⭐ 3,394    
+53. <a href="https://github.com/sdv-dev/sdv">sdv-dev/</a><b><a href="https://github.com/sdv-dev/sdv">SDV</a></b> ⭐ 3,394    
    Synthetic data generation for tabular data  
    🔗 [docs.sdv.dev/sdv](https://docs.sdv.dev/sdv)  
 
-55. <a href="https://github.com/docarray/docarray">docarray/</a><b><a href="https://github.com/docarray/docarray">docarray</a></b> ⭐ 3,110    
+54. <a href="https://github.com/docarray/docarray">docarray/</a><b><a href="https://github.com/docarray/docarray">docarray</a></b> ⭐ 3,110    
    Represent, send, store and search multimodal data  
    🔗 [docs.docarray.org](https://docs.docarray.org/)  
 
-56. <a href="https://github.com/datafold/data-diff">datafold/</a><b><a href="https://github.com/datafold/data-diff">data-diff</a></b> ⭐ 2,992    
+55. <a href="https://github.com/datafold/data-diff">datafold/</a><b><a href="https://github.com/datafold/data-diff">data-diff</a></b> ⭐ 2,992    
    Compare tables within or across databases  
    🔗 [docs.datafold.com](https://docs.datafold.com)  
 
-57. <a href="https://github.com/huggingface/datatrove">huggingface/</a><b><a href="https://github.com/huggingface/datatrove">datatrove</a></b> ⭐ 2,848    
+56. <a href="https://github.com/huggingface/datatrove">huggingface/</a><b><a href="https://github.com/huggingface/datatrove">datatrove</a></b> ⭐ 2,848    
    DataTrove is a library to process, filter and deduplicate text data at a very large scale. It provides a set of prebuilt commonly used processing blocks with a framework to easily add custom functionality  
 
-58. <a href="https://github.com/pynamodb/pynamodb">pynamodb/</a><b><a href="https://github.com/pynamodb/pynamodb">PynamoDB</a></b> ⭐ 2,643    
+57. <a href="https://github.com/pynamodb/pynamodb">pynamodb/</a><b><a href="https://github.com/pynamodb/pynamodb">PynamoDB</a></b> ⭐ 2,643    
    A pythonic interface to Amazon's DynamoDB  
    🔗 [pynamodb.readthedocs.io](http://pynamodb.readthedocs.io)  
 
-59. <a href="https://github.com/aminalaee/sqladmin">aminalaee/</a><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> ⭐ 2,620    
+58. <a href="https://github.com/aminalaee/sqladmin">aminalaee/</a><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> ⭐ 2,620    
    SQLAlchemy Admin for FastAPI and Starlette  
    🔗 [aminalaee.github.io/sqladmin](https://aminalaee.github.io/sqladmin/)  
 
-60. <a href="https://github.com/pikepdf/pikepdf">pikepdf/</a><b><a href="https://github.com/pikepdf/pikepdf">pikepdf</a></b> ⭐ 2,616    
+59. <a href="https://github.com/pikepdf/pikepdf">pikepdf/</a><b><a href="https://github.com/pikepdf/pikepdf">pikepdf</a></b> ⭐ 2,616    
    A Python library for reading and writing PDF, powered by QPDF  
    🔗 [pikepdf.readthedocs.io](https://pikepdf.readthedocs.io/)  
 
-61. <a href="https://github.com/sfu-db/connector-x">sfu-db/</a><b><a href="https://github.com/sfu-db/connector-x">connector-x</a></b> ⭐ 2,537    
+60. <a href="https://github.com/sfu-db/connector-x">sfu-db/</a><b><a href="https://github.com/sfu-db/connector-x">connector-x</a></b> ⭐ 2,537    
    Fastest library to load data from DB to DataFrames in Rust and Python  
    🔗 [sfu-db.github.io/connector-x](https://sfu-db.github.io/connector-x)  
 
-62. <a href="https://github.com/uqfoundation/dill">uqfoundation/</a><b><a href="https://github.com/uqfoundation/dill">dill</a></b> ⭐ 2,423    
+61. <a href="https://github.com/uqfoundation/dill">uqfoundation/</a><b><a href="https://github.com/uqfoundation/dill">dill</a></b> ⭐ 2,423    
    serialize all of Python  
    🔗 [dill.rtfd.io](http://dill.rtfd.io)  
 
-63. <a href="https://github.com/milvus-io/bootcamp">milvus-io/</a><b><a href="https://github.com/milvus-io/bootcamp">bootcamp</a></b> ⭐ 2,360    
+62. <a href="https://github.com/milvus-io/bootcamp">milvus-io/</a><b><a href="https://github.com/milvus-io/bootcamp">bootcamp</a></b> ⭐ 2,360    
    Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.  
    🔗 [milvus.io](https://milvus.io)  
 
-64. <a href="https://github.com/emirozer/fake2db">emirozer/</a><b><a href="https://github.com/emirozer/fake2db">fake2db</a></b> ⭐ 2,352    
+63. <a href="https://github.com/emirozer/fake2db">emirozer/</a><b><a href="https://github.com/emirozer/fake2db">fake2db</a></b> ⭐ 2,352    
    Generate fake but valid data filled databases for test purposes using most popular patterns(AFAIK). Current support is sqlite, mysql, postgresql, mongodb, redis, couchdb.  
 
-65. <a href="https://github.com/collerek/ormar">collerek/</a><b><a href="https://github.com/collerek/ormar">ormar</a></b> ⭐ 1,794    
-   python async orm with fastapi in mind and pydantic validation  
-   🔗 [collerek.github.io/ormar](https://collerek.github.io/ormar/)  
+64. <a href="https://github.com/simonw/sqlite-utils">simonw/</a><b><a href="https://github.com/simonw/sqlite-utils">sqlite-utils</a></b> ⭐ 1,982    
+   Python CLI utility and library for manipulating SQLite databases  
+   🔗 [sqlite-utils.datasette.io](https://sqlite-utils.datasette.io)  
 
-66. <a href="https://github.com/huggingface/aisheets">huggingface/</a><b><a href="https://github.com/huggingface/aisheets">aisheets</a></b> ⭐ 1,621    
+65. <a href="https://github.com/huggingface/aisheets">huggingface/</a><b><a href="https://github.com/huggingface/aisheets">aisheets</a></b> ⭐ 1,621    
    Build, enrich, and transform datasets using AI models with no code. Deploy locally or on the Hub with access to thousands of open models.  
    🔗 [huggingface.co/spaces/aisheets/sheets](https://huggingface.co/spaces/aisheets/sheets)  
 
-67. <a href="https://github.com/d-star-ai/dsrag">d-star-ai/</a><b><a href="https://github.com/d-star-ai/dsrag">dsRAG</a></b> ⭐ 1,551    
+66. <a href="https://github.com/d-star-ai/dsrag">d-star-ai/</a><b><a href="https://github.com/d-star-ai/dsrag">dsRAG</a></b> ⭐ 1,551    
    A retrieval engine for unstructured data. It is especially good at handling challenging queries over dense text, like financial reports, legal documents, and academic papers.  
 
-68. <a href="https://github.com/quixio/quix-streams">quixio/</a><b><a href="https://github.com/quixio/quix-streams">quix-streams</a></b> ⭐ 1,513    
+67. <a href="https://github.com/quixio/quix-streams">quixio/</a><b><a href="https://github.com/quixio/quix-streams">quix-streams</a></b> ⭐ 1,513    
    Python Streaming DataFrames for Kafka  
    🔗 [docs.quix.io](https://docs.quix.io)  
 
-69. <a href="https://github.com/meta-llama/synthetic-data-kit">meta-llama/</a><b><a href="https://github.com/meta-llama/synthetic-data-kit">synthetic-data-kit</a></b> ⭐ 1,474    
+68. <a href="https://github.com/meta-llama/synthetic-data-kit">meta-llama/</a><b><a href="https://github.com/meta-llama/synthetic-data-kit">synthetic-data-kit</a></b> ⭐ 1,474    
    Tool for generating high-quality synthetic datasets to fine-tune LLMs. Generate Reasoning Traces, QA Pairs, save them to a fine-tuning format with a simple CLI.  
    🔗 [pypi.org/project/synthetic-data-kit](https://pypi.org/project/synthetic-data-kit/)  
 
-70. <a href="https://github.com/igorbenav/fastcrud">igorbenav/</a><b><a href="https://github.com/igorbenav/fastcrud">fastcrud</a></b> ⭐ 1,467    
+69. <a href="https://github.com/igorbenav/fastcrud">igorbenav/</a><b><a href="https://github.com/igorbenav/fastcrud">fastcrud</a></b> ⭐ 1,467    
    FastCRUD is a Python package for FastAPI, offering robust async CRUD operations and flexible endpoint creation utilities.  
    🔗 [benavlabs.github.io/fastcrud](https://benavlabs.github.io/fastcrud/)  
 
-71. <a href="https://github.com/mchong6/jojogan">mchong6/</a><b><a href="https://github.com/mchong6/jojogan">JoJoGAN</a></b> ⭐ 1,439    
+70. <a href="https://github.com/mchong6/jojogan">mchong6/</a><b><a href="https://github.com/mchong6/jojogan">JoJoGAN</a></b> ⭐ 1,439    
    Official PyTorch repo for JoJoGAN: One Shot Face Stylization  
 
-72. <a href="https://github.com/apache/iceberg-python">apache/</a><b><a href="https://github.com/apache/iceberg-python">iceberg-python</a></b> ⭐ 984    
+71. <a href="https://github.com/apache/iceberg-python">apache/</a><b><a href="https://github.com/apache/iceberg-python">iceberg-python</a></b> ⭐ 984    
    PyIceberg is a Python library for programmatic access to Iceberg table metadata as well as to table data in Iceberg format.  
    🔗 [py.iceberg.apache.org](https://py.iceberg.apache.org/)  
 
-73. <a href="https://github.com/weaviate/recipes">weaviate/</a><b><a href="https://github.com/weaviate/recipes">recipes</a></b> ⭐ 934    
-   This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!  
-
-74. <a href="https://github.com/ibm/data-prep-kit">ibm/</a><b><a href="https://github.com/ibm/data-prep-kit">data-prep-kit</a></b> ⭐ 892    
+72. <a href="https://github.com/ibm/data-prep-kit">ibm/</a><b><a href="https://github.com/ibm/data-prep-kit">data-prep-kit</a></b> ⭐ 892    
    Data Prep Kit is a community project to democratize and accelerate unstructured data preparation for LLM app developers  
    🔗 [data-prep-kit.github.io/data-prep-kit](https://data-prep-kit.github.io/data-prep-kit/)  
 
-75. <a href="https://github.com/macbre/sql-metadata">macbre/</a><b><a href="https://github.com/macbre/sql-metadata">sql-metadata</a></b> ⭐ 879    
+73. <a href="https://github.com/macbre/sql-metadata">macbre/</a><b><a href="https://github.com/macbre/sql-metadata">sql-metadata</a></b> ⭐ 879    
    Uses tokenized query returned by python-sqlparse and generates query metadata  
    🔗 [pypi.python.org/pypi/sql-metadata](https://pypi.python.org/pypi/sql-metadata)  
 
-76. <a href="https://github.com/stackloklabs/promptwright">stackloklabs/</a><b><a href="https://github.com/stackloklabs/promptwright">deepfabric</a></b> ⭐ 824    
+74. <a href="https://github.com/stackloklabs/promptwright">stackloklabs/</a><b><a href="https://github.com/stackloklabs/promptwright">deepfabric</a></b> ⭐ 824    
    Promptwright is a Python library designed for generating large synthetic datasets using LLMs  
    🔗 [docs.deepfabric.dev](http://docs.deepfabric.dev)  
 
-77. <a href="https://github.com/nvidia-nemo/datadesigner">nvidia-nemo/</a><b><a href="https://github.com/nvidia-nemo/datadesigner">DataDesigner</a></b> ⭐ 653    
+75. <a href="https://github.com/nvidia-nemo/datadesigner">nvidia-nemo/</a><b><a href="https://github.com/nvidia-nemo/datadesigner">DataDesigner</a></b> ⭐ 653    
    Create synthetic datasets that go beyond simple LLM prompting. Covers diverse statistical distributions, meaningful correlations between fields, or validated high-quality outputs.  
    🔗 [nvidia-nemo.github.io/datadesigner](https://nvidia-nemo.github.io/DataDesigner/)  
 
-78. <a href="https://github.com/koaning/bulk">koaning/</a><b><a href="https://github.com/koaning/bulk">bulk</a></b> ⭐ 598    
+76. <a href="https://github.com/koaning/bulk">koaning/</a><b><a href="https://github.com/koaning/bulk">bulk</a></b> ⭐ 598    
    Bulk is a quick UI developer tool to apply some bulk labels.  
 
-79. <a href="https://github.com/titan-systems/titan">titan-systems/</a><b><a href="https://github.com/titan-systems/titan">titan</a></b> ⭐ 478    
+77. <a href="https://github.com/titan-systems/titan">titan-systems/</a><b><a href="https://github.com/titan-systems/titan">titan</a></b> ⭐ 478    
    Snowflake infrastructure-as-code. Provision environments, automate deploys, CI/CD. Manage RBAC, users, roles, and data access. Declarative Python Resource API.  
 
-80. <a href="https://github.com/pmgraham/datagrunt">pmgraham/</a><b><a href="https://github.com/pmgraham/datagrunt">datagrunt</a></b> ⭐ 10    
+78. <a href="https://github.com/pmgraham/datagrunt">pmgraham/</a><b><a href="https://github.com/pmgraham/datagrunt">datagrunt</a></b> ⭐ 10    
    Datagrunt is a Python library designed to simplify the way you work with CSV files. It provides a streamlined approach to reading, processing, and transforming your data into various formats, making data manipulation efficient and intuitive.  
    🔗 [www.datagrunt.io](https://www.datagrunt.io)  
 
@@ -1012,72 +1085,80 @@ Text-to-image diffusion model libraries, tools and apps for generating images fr
 18. <a href="https://github.com/ashawkey/stable-dreamfusion">ashawkey/</a><b><a href="https://github.com/ashawkey/stable-dreamfusion">stable-dreamfusion</a></b> ⭐ 8,795    
    Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.  
 
-19. <a href="https://github.com/carson-katri/dream-textures">carson-katri/</a><b><a href="https://github.com/carson-katri/dream-textures">dream-textures</a></b> ⭐ 8,108    
+19. <a href="https://github.com/nvlabs/sana">nvlabs/</a><b><a href="https://github.com/nvlabs/sana">Sana</a></b> ⭐ 8,214    
+   SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer  
+   🔗 [nvlabs.github.io/sana/docs](https://nvlabs.github.io/Sana/docs/)  
+
+20. <a href="https://github.com/carson-katri/dream-textures">carson-katri/</a><b><a href="https://github.com/carson-katri/dream-textures">dream-textures</a></b> ⭐ 8,108    
    Stable Diffusion built-in to Blender  
 
-20. <a href="https://github.com/xavierxiao/dreambooth-stable-diffusion">xavierxiao/</a><b><a href="https://github.com/xavierxiao/dreambooth-stable-diffusion">Dreambooth-Stable-Diffusion</a></b> ⭐ 7,754    
+21. <a href="https://github.com/xavierxiao/dreambooth-stable-diffusion">xavierxiao/</a><b><a href="https://github.com/xavierxiao/dreambooth-stable-diffusion">Dreambooth-Stable-Diffusion</a></b> ⭐ 7,754    
    Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion  
 
-21. <a href="https://github.com/timothybrooks/instruct-pix2pix">timothybrooks/</a><b><a href="https://github.com/timothybrooks/instruct-pix2pix">instruct-pix2pix</a></b> ⭐ 6,869    
+22. <a href="https://github.com/timothybrooks/instruct-pix2pix">timothybrooks/</a><b><a href="https://github.com/timothybrooks/instruct-pix2pix">instruct-pix2pix</a></b> ⭐ 6,869    
    PyTorch implementation of InstructPix2Pix, an instruction-based image editing model, based on the original CompVis/stable_diffusion repo.  
 
-22. <a href="https://github.com/openai/consistency_models">openai/</a><b><a href="https://github.com/openai/consistency_models">consistency_models</a></b> ⭐ 6,469    
+23. <a href="https://github.com/openai/consistency_models">openai/</a><b><a href="https://github.com/openai/consistency_models">consistency_models</a></b> ⭐ 6,469    
    Official repo for consistency models.  
 
-23. <a href="https://github.com/salesforce/blip">salesforce/</a><b><a href="https://github.com/salesforce/blip">BLIP</a></b> ⭐ 5,643    
+24. <a href="https://github.com/salesforce/blip">salesforce/</a><b><a href="https://github.com/salesforce/blip">BLIP</a></b> ⭐ 5,643    
    PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation    
 
-24. <a href="https://github.com/nateraw/stable-diffusion-videos">nateraw/</a><b><a href="https://github.com/nateraw/stable-diffusion-videos">stable-diffusion-videos</a></b> ⭐ 4,654    
+25. <a href="https://github.com/nateraw/stable-diffusion-videos">nateraw/</a><b><a href="https://github.com/nateraw/stable-diffusion-videos">stable-diffusion-videos</a></b> ⭐ 4,654    
    Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts  
 
-25. <a href="https://github.com/lkwq007/stablediffusion-infinity">lkwq007/</a><b><a href="https://github.com/lkwq007/stablediffusion-infinity">stablediffusion-infinity</a></b> ⭐ 3,888    
+26. <a href="https://github.com/lkwq007/stablediffusion-infinity">lkwq007/</a><b><a href="https://github.com/lkwq007/stablediffusion-infinity">stablediffusion-infinity</a></b> ⭐ 3,888    
    Outpainting with Stable Diffusion on an infinite canvas  
 
-26. <a href="https://github.com/jina-ai/discoart">jina-ai/</a><b><a href="https://github.com/jina-ai/discoart">discoart</a></b> ⭐ 3,834    
+27. <a href="https://github.com/jina-ai/discoart">jina-ai/</a><b><a href="https://github.com/jina-ai/discoart">discoart</a></b> ⭐ 3,834    
    🪩 Create Disco Diffusion artworks in one line  
 
-27. <a href="https://github.com/openai/improved-diffusion">openai/</a><b><a href="https://github.com/openai/improved-diffusion">improved-diffusion</a></b> ⭐ 3,783    
+28. <a href="https://github.com/openai/improved-diffusion">openai/</a><b><a href="https://github.com/openai/improved-diffusion">improved-diffusion</a></b> ⭐ 3,783    
    Release for Improved Denoising Diffusion Probabilistic Models  
 
-28. <a href="https://github.com/open-compass/vlmevalkit">open-compass/</a><b><a href="https://github.com/open-compass/vlmevalkit">VLMEvalKit</a></b> ⭐ 3,741    
+29. <a href="https://github.com/open-compass/vlmevalkit">open-compass/</a><b><a href="https://github.com/open-compass/vlmevalkit">VLMEvalKit</a></b> ⭐ 3,741    
    Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks  
    🔗 [huggingface.co/spaces/opencompass/open_vlm_leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)  
 
-29. <a href="https://github.com/mlc-ai/web-stable-diffusion">mlc-ai/</a><b><a href="https://github.com/mlc-ai/web-stable-diffusion">web-stable-diffusion</a></b> ⭐ 3,712    
+30. <a href="https://github.com/mlc-ai/web-stable-diffusion">mlc-ai/</a><b><a href="https://github.com/mlc-ai/web-stable-diffusion">web-stable-diffusion</a></b> ⭐ 3,712    
    Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.   
    🔗 [mlc.ai/web-stable-diffusion](https://mlc.ai/web-stable-diffusion)  
 
-30. <a href="https://github.com/openai/glide-text2im">openai/</a><b><a href="https://github.com/openai/glide-text2im">glide-text2im</a></b> ⭐ 3,682    
+31. <a href="https://github.com/openai/glide-text2im">openai/</a><b><a href="https://github.com/openai/glide-text2im">glide-text2im</a></b> ⭐ 3,682    
    GLIDE: a diffusion-based text-conditional image synthesis model  
 
-31. <a href="https://github.com/google-research/big_vision">google-research/</a><b><a href="https://github.com/google-research/big_vision">big_vision</a></b> ⭐ 3,333    
+32. <a href="https://github.com/google-research/big_vision">google-research/</a><b><a href="https://github.com/google-research/big_vision">big_vision</a></b> ⭐ 3,333    
    Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.  
 
-32. <a href="https://github.com/saharmor/dalle-playground">saharmor/</a><b><a href="https://github.com/saharmor/dalle-playground">dalle-playground</a></b> ⭐ 2,749    
+33. <a href="https://github.com/saharmor/dalle-playground">saharmor/</a><b><a href="https://github.com/saharmor/dalle-playground">dalle-playground</a></b> ⭐ 2,749    
    A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)  
 
-33. <a href="https://github.com/stability-ai/stability-sdk">stability-ai/</a><b><a href="https://github.com/stability-ai/stability-sdk">stability-sdk</a></b> ⭐ 2,434    
+34. <a href="https://github.com/stability-ai/stability-sdk">stability-ai/</a><b><a href="https://github.com/stability-ai/stability-sdk">stability-sdk</a></b> ⭐ 2,434    
    SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)  
    🔗 [platform.stability.ai](https://platform.stability.ai/)  
 
-34. <a href="https://github.com/thudm/cogvlm2">thudm/</a><b><a href="https://github.com/thudm/cogvlm2">CogVLM2</a></b> ⭐ 2,427    
+35. <a href="https://github.com/thudm/cogvlm2">thudm/</a><b><a href="https://github.com/thudm/cogvlm2">CogVLM2</a></b> ⭐ 2,427    
    GPT4V-level open-source multi-modal model based on Llama3-8B  
 
-35. <a href="https://github.com/coyote-a/ultimate-upscale-for-automatic1111">coyote-a/</a><b><a href="https://github.com/coyote-a/ultimate-upscale-for-automatic1111">ultimate-upscale-for-automatic1111</a></b> ⭐ 1,765    
+36. <a href="https://github.com/nvlabs/eagle">nvlabs/</a><b><a href="https://github.com/nvlabs/eagle">Eagle</a></b> ⭐ 2,422    
+   Eagle: Frontier Vision-Language Models with Data-Centric Strategies  
+   🔗 [nvlabs.github.io/eagle](https://nvlabs.github.io/Eagle/)  
+
+37. <a href="https://github.com/coyote-a/ultimate-upscale-for-automatic1111">coyote-a/</a><b><a href="https://github.com/coyote-a/ultimate-upscale-for-automatic1111">ultimate-upscale-for-automatic1111</a></b> ⭐ 1,765    
    Ultimate SD Upscale extension for AUTOMATIC1111 Stable Diffusion web UI  
 
-36. <a href="https://github.com/divamgupta/stable-diffusion-tensorflow">divamgupta/</a><b><a href="https://github.com/divamgupta/stable-diffusion-tensorflow">stable-diffusion-tensorflow</a></b> ⭐ 1,613    
+38. <a href="https://github.com/divamgupta/stable-diffusion-tensorflow">divamgupta/</a><b><a href="https://github.com/divamgupta/stable-diffusion-tensorflow">stable-diffusion-tensorflow</a></b> ⭐ 1,613    
    Stable Diffusion in TensorFlow / Keras  
 
-37. <a href="https://github.com/nvlabs/prismer">nvlabs/</a><b><a href="https://github.com/nvlabs/prismer">prismer</a></b> ⭐ 1,309    
+39. <a href="https://github.com/nvlabs/prismer">nvlabs/</a><b><a href="https://github.com/nvlabs/prismer">prismer</a></b> ⭐ 1,309    
    The implementation of "Prismer: A Vision-Language Model with Multi-Task Experts".  
    🔗 [shikun.io/projects/prismer](https://shikun.io/projects/prismer)  
 
-38. <a href="https://github.com/chenyangqiqi/fatezero">chenyangqiqi/</a><b><a href="https://github.com/chenyangqiqi/fatezero">FateZero</a></b> ⭐ 1,159    
+40. <a href="https://github.com/chenyangqiqi/fatezero">chenyangqiqi/</a><b><a href="https://github.com/chenyangqiqi/fatezero">FateZero</a></b> ⭐ 1,159    
    [ICCV 2023 Oral] "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing"  
    🔗 [fate-zero-edit.github.io](http://fate-zero-edit.github.io/)  
 
-39. <a href="https://github.com/gojasper/flash-diffusion">gojasper/</a><b><a href="https://github.com/gojasper/flash-diffusion">flash-diffusion</a></b> ⭐ 650    
+41. <a href="https://github.com/gojasper/flash-diffusion">gojasper/</a><b><a href="https://github.com/gojasper/flash-diffusion">flash-diffusion</a></b> ⭐ 650    
    ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)  
    🔗 [gojasper.github.io/flash-diffusion-project](https://gojasper.github.io/flash-diffusion-project/)  
 
@@ -1172,17 +1253,21 @@ Financial and quantitative libraries: investment research tools, market data, al
    Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)  
    🔗 [www.cuemacro.com](http://www.cuemacro.com)  
 
-24. <a href="https://github.com/domokane/financepy">domokane/</a><b><a href="https://github.com/domokane/financepy">FinancePy</a></b> ⭐ 2,755    
+24. <a href="https://github.com/edtechre/pybroker">edtechre/</a><b><a href="https://github.com/edtechre/pybroker">pybroker</a></b> ⭐ 3,418    
+   Algorithmic Trading in Python with Machine Learning  
+   🔗 [www.pybroker.com](https://www.pybroker.com)  
+
+25. <a href="https://github.com/domokane/financepy">domokane/</a><b><a href="https://github.com/domokane/financepy">FinancePy</a></b> ⭐ 2,755    
    A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.   
 
-25. <a href="https://github.com/blankly-finance/blankly">blankly-finance/</a><b><a href="https://github.com/blankly-finance/blankly">blankly</a></b> ⭐ 2,400    
+26. <a href="https://github.com/blankly-finance/blankly">blankly-finance/</a><b><a href="https://github.com/blankly-finance/blankly">blankly</a></b> ⭐ 2,400    
    🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.  
    🔗 [package.blankly.finance](https://package.blankly.finance)  
 
-26. <a href="https://github.com/cuemacro/findatapy">cuemacro/</a><b><a href="https://github.com/cuemacro/findatapy">findatapy</a></b> ⭐ 1,968    
+27. <a href="https://github.com/cuemacro/findatapy">cuemacro/</a><b><a href="https://github.com/cuemacro/findatapy">findatapy</a></b> ⭐ 1,968    
    Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.  
 
-27. <a href="https://github.com/ivebotunac/primoagent">ivebotunac/</a><b><a href="https://github.com/ivebotunac/primoagent">PrimoAgent</a></b> ⭐ 268    
+28. <a href="https://github.com/ivebotunac/primoagent">ivebotunac/</a><b><a href="https://github.com/ivebotunac/primoagent">PrimoAgent</a></b> ⭐ 268    
    PrimoAgent is an multi agent AI stock analysis system built on LangGraph architecture that orchestrates four specialized agents to provide comprehensive daily trading insights and next-day price predictions  
    🔗 [primoinvesting.com](https://primoinvesting.com/)  
 
@@ -1205,11 +1290,7 @@ Game development tools, engines and libraries.
    Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU  
    🔗 [www.panda3d.org](https://www.panda3d.org/)  
 
-5. <a href="https://github.com/pyglet/pyglet">pyglet/</a><b><a href="https://github.com/pyglet/pyglet">pyglet</a></b> ⭐ 2,148    
-   pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.  
-   🔗 [pyglet.org](http://pyglet.org)  
-
-6. <a href="https://github.com/pythonarcade/arcade">pythonarcade/</a><b><a href="https://github.com/pythonarcade/arcade">arcade</a></b> ⭐ 1,959    
+5. <a href="https://github.com/pythonarcade/arcade">pythonarcade/</a><b><a href="https://github.com/pythonarcade/arcade">arcade</a></b> ⭐ 1,959    
    Easy to use Python library for creating 2D arcade games.  
    🔗 [arcade.academy](http://arcade.academy)  
 
@@ -1267,21 +1348,18 @@ Geospatial libraries: raster and vector data formats, interactive mapping and vi
    Rasterio reads and writes geospatial raster datasets  
    🔗 [rasterio.readthedocs.io](https://rasterio.readthedocs.io/)  
 
-14. <a href="https://github.com/plant99/felicette">plant99/</a><b><a href="https://github.com/plant99/felicette">felicette</a></b> ⭐ 1,831    
-   Satellite imagery for dummies.  
-
-15. <a href="https://github.com/microsoft/globalmlbuildingfootprints">microsoft/</a><b><a href="https://github.com/microsoft/globalmlbuildingfootprints">GlobalMLBuildingFootprints</a></b> ⭐ 1,772    
+14. <a href="https://github.com/microsoft/globalmlbuildingfootprints">microsoft/</a><b><a href="https://github.com/microsoft/globalmlbuildingfootprints">GlobalMLBuildingFootprints</a></b> ⭐ 1,772    
    Worldwide building footprints derived from satellite imagery   
 
-16. <a href="https://github.com/pysal/pysal">pysal/</a><b><a href="https://github.com/pysal/pysal">pysal</a></b> ⭐ 1,458    
+15. <a href="https://github.com/pysal/pysal">pysal/</a><b><a href="https://github.com/pysal/pysal">pysal</a></b> ⭐ 1,458    
    PySAL: Python Spatial Analysis Library Meta-Package  
    🔗 [pysal.org/pysal](http://pysal.org/pysal)  
 
-17. <a href="https://github.com/residentmario/geoplot">residentmario/</a><b><a href="https://github.com/residentmario/geoplot">geoplot</a></b> ⭐ 1,190    
+16. <a href="https://github.com/residentmario/geoplot">residentmario/</a><b><a href="https://github.com/residentmario/geoplot">geoplot</a></b> ⭐ 1,190    
    High-level geospatial data visualization library for Python.  
    🔗 [residentmario.github.io/geoplot/index.html](https://residentmario.github.io/geoplot/index.html)  
 
-18. <a href="https://github.com/c2g-dev/city2graph">c2g-dev/</a><b><a href="https://github.com/c2g-dev/city2graph">city2graph</a></b> ⭐ 1,093    
+17. <a href="https://github.com/c2g-dev/city2graph">c2g-dev/</a><b><a href="https://github.com/c2g-dev/city2graph">city2graph</a></b> ⭐ 1,093    
    Transform geospatial relations into graphs for Graph Neural Networks and network analysis  
    🔗 [city2graph.net](https://city2graph.net)  
 
@@ -1388,11 +1466,7 @@ Jupyter and JupyterLab and Notebook tools, libraries and plugins.
    Deepnote is a successor of Jupyter. It uses the Deepnote kernel which is more powerful but still backwards compatible so you can seamlessly move between both, but adds an AI agent, sleek UI, new block types, and native data integrations.  
    🔗 [deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main)  
 
-15. <a href="https://github.com/koaning/drawdata">koaning/</a><b><a href="https://github.com/koaning/drawdata">drawdata</a></b> ⭐ 1,608    
-   Draw datasets from within Python notebooks.  
-   🔗 [koaning.github.io/drawdata](https://koaning.github.io/drawdata/)  
-
-16. <a href="https://github.com/infuseai/colab-xterm">infuseai/</a><b><a href="https://github.com/infuseai/colab-xterm">colab-xterm</a></b> ⭐ 477    
+15. <a href="https://github.com/infuseai/colab-xterm">infuseai/</a><b><a href="https://github.com/infuseai/colab-xterm">colab-xterm</a></b> ⭐ 477    
    Open a terminal in colab, including the free tier.  
 
 ## LLMs and ChatGPT
@@ -1679,947 +1753,977 @@ Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, ch
 78. <a href="https://github.com/fauxpilot/fauxpilot">fauxpilot/</a><b><a href="https://github.com/fauxpilot/fauxpilot">fauxpilot</a></b> ⭐ 14,759    
    FauxPilot - an open-source alternative to GitHub Copilot server  
 
-79. <a href="https://github.com/llmware-ai/llmware">llmware-ai/</a><b><a href="https://github.com/llmware-ai/llmware">llmware</a></b> ⭐ 14,460    
+79. <a href="https://github.com/browser-use/browser-harness">browser-use/</a><b><a href="https://github.com/browser-use/browser-harness">browser-harness</a></b> ⭐ 14,602    
+   Browser Harness | Self-healing harness that enables LLMs to complete any task.  
+   🔗 [browser-harness.com](https://browser-harness.com)  
+
+80. <a href="https://github.com/llmware-ai/llmware">llmware-ai/</a><b><a href="https://github.com/llmware-ai/llmware">llmware</a></b> ⭐ 14,460    
    Unified framework for building enterprise RAG pipelines with small, specialized models  
    🔗 [llmware-ai.github.io/llmware](https://llmware-ai.github.io/llmware/)  
 
-80. <a href="https://github.com/blinkdl/rwkv-lm">blinkdl/</a><b><a href="https://github.com/blinkdl/rwkv-lm">RWKV-LM</a></b> ⭐ 14,321    
+81. <a href="https://github.com/blinkdl/rwkv-lm">blinkdl/</a><b><a href="https://github.com/blinkdl/rwkv-lm">RWKV-LM</a></b> ⭐ 14,321    
    RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and f...  
 
-81. <a href="https://github.com/swivid/f5-tts">swivid/</a><b><a href="https://github.com/swivid/f5-tts">F5-TTS</a></b> ⭐ 13,999    
+82. <a href="https://github.com/swivid/f5-tts">swivid/</a><b><a href="https://github.com/swivid/f5-tts">F5-TTS</a></b> ⭐ 13,999    
    Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"  
    🔗 [arxiv.org/abs/2410.06885](https://arxiv.org/abs/2410.06885)  
 
-82. <a href="https://github.com/karpathy/llm-council">karpathy/</a><b><a href="https://github.com/karpathy/llm-council">llm-council</a></b> ⭐ 13,742    
+83. <a href="https://github.com/karpathy/llm-council">karpathy/</a><b><a href="https://github.com/karpathy/llm-council">llm-council</a></b> ⭐ 13,742    
    LLM Council works together to answer your hardest questions  
 
-83. <a href="https://github.com/anthropics/anthropic-quickstarts">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-quickstarts">claude-quickstarts</a></b> ⭐ 13,639    
+84. <a href="https://github.com/anthropics/anthropic-quickstarts">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-quickstarts">claude-quickstarts</a></b> ⭐ 13,639    
    A collection of projects designed to help developers quickly get started with building applications using the Anthropic API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs.  
 
-84. <a href="https://github.com/canner/wrenai">canner/</a><b><a href="https://github.com/canner/wrenai">WrenAI</a></b> ⭐ 13,527    
+85. <a href="https://github.com/canner/wrenai">canner/</a><b><a href="https://github.com/canner/wrenai">WrenAI</a></b> ⭐ 13,527    
    Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI.  
    🔗 [getwren.ai/oss](https://getwren.ai/oss)  
 
-85. <a href="https://github.com/andrewyng/aisuite">andrewyng/</a><b><a href="https://github.com/andrewyng/aisuite">aisuite</a></b> ⭐ 13,384    
+86. <a href="https://github.com/andrewyng/aisuite">andrewyng/</a><b><a href="https://github.com/andrewyng/aisuite">aisuite</a></b> ⭐ 13,384    
    Simple, unified interface to multiple Generative AI providers. aisuite makes it easy for developers to use multiple LLM through a standardized interface.  
 
-86. <a href="https://github.com/dottxt-ai/outlines">dottxt-ai/</a><b><a href="https://github.com/dottxt-ai/outlines">outlines</a></b> ⭐ 13,289    
+87. <a href="https://github.com/dottxt-ai/outlines">dottxt-ai/</a><b><a href="https://github.com/dottxt-ai/outlines">outlines</a></b> ⭐ 13,289    
    Structured Text Generation from LLMs  
    🔗 [dottxt-ai.github.io/outlines](https://dottxt-ai.github.io/outlines/)  
 
-87. <a href="https://github.com/microsoft/lora">microsoft/</a><b><a href="https://github.com/microsoft/lora">LoRA</a></b> ⭐ 13,196    
+88. <a href="https://github.com/microsoft/lora">microsoft/</a><b><a href="https://github.com/microsoft/lora">LoRA</a></b> ⭐ 13,196    
    Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"  
    🔗 [arxiv.org/abs/2106.09685](https://arxiv.org/abs/2106.09685)  
 
-88. <a href="https://github.com/lightning-ai/lit-gpt">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lit-gpt">litgpt</a></b> ⭐ 13,116    
+89. <a href="https://github.com/lightning-ai/lit-gpt">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lit-gpt">litgpt</a></b> ⭐ 13,116    
    20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.  
    🔗 [lightning.ai](https://lightning.ai)  
 
-89. <a href="https://github.com/lightning-ai/litgpt">lightning-ai/</a><b><a href="https://github.com/lightning-ai/litgpt">litgpt</a></b> ⭐ 13,116    
+90. <a href="https://github.com/lightning-ai/litgpt">lightning-ai/</a><b><a href="https://github.com/lightning-ai/litgpt">litgpt</a></b> ⭐ 13,116    
    20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.  
    🔗 [lightning.ai](https://lightning.ai)  
 
-90. <a href="https://github.com/qwenlm/qwen-agent">qwenlm/</a><b><a href="https://github.com/qwenlm/qwen-agent">Qwen-Agent</a></b> ⭐ 13,021    
+91. <a href="https://github.com/qwenlm/qwen-agent">qwenlm/</a><b><a href="https://github.com/qwenlm/qwen-agent">Qwen-Agent</a></b> ⭐ 13,021    
    Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.  
    🔗 [pypi.org/project/qwen-agent](https://pypi.org/project/qwen-agent/)  
 
-91. <a href="https://github.com/paddlepaddle/paddlenlp">paddlepaddle/</a><b><a href="https://github.com/paddlepaddle/paddlenlp">PaddleNLP</a></b> ⭐ 12,904    
+92. <a href="https://github.com/paddlepaddle/paddlenlp">paddlepaddle/</a><b><a href="https://github.com/paddlepaddle/paddlenlp">PaddleNLP</a></b> ⭐ 12,904    
    Easy-to-use and powerful LLM and SLM library with awesome model zoo.  
    🔗 [paddlenlp.readthedocs.io](https://paddlenlp.readthedocs.io)  
 
-92. <a href="https://github.com/shishirpatil/gorilla">shishirpatil/</a><b><a href="https://github.com/shishirpatil/gorilla">gorilla</a></b> ⭐ 12,697    
+93. <a href="https://github.com/shishirpatil/gorilla">shishirpatil/</a><b><a href="https://github.com/shishirpatil/gorilla">gorilla</a></b> ⭐ 12,697    
    Enables LLMs to use tools by invoking APIs. Given a query, Gorilla comes up with the semantically and syntactically correct API.  
    🔗 [gorilla.cs.berkeley.edu](https://gorilla.cs.berkeley.edu/)  
 
-93. <a href="https://github.com/jiayi-pan/tinyzero">jiayi-pan/</a><b><a href="https://github.com/jiayi-pan/tinyzero">TinyZero</a></b> ⭐ 12,624    
+94. <a href="https://github.com/jiayi-pan/tinyzero">jiayi-pan/</a><b><a href="https://github.com/jiayi-pan/tinyzero">TinyZero</a></b> ⭐ 12,624    
    TinyZero is a reproduction of DeepSeek R1 Zero in countdown and multiplication tasks.  
 
-94. <a href="https://github.com/explodinggradients/ragas">explodinggradients/</a><b><a href="https://github.com/explodinggradients/ragas">ragas</a></b> ⭐ 12,352    
+95. <a href="https://github.com/explodinggradients/ragas">explodinggradients/</a><b><a href="https://github.com/explodinggradients/ragas">ragas</a></b> ⭐ 12,352    
    Supercharge Your LLM Application Evaluations 🚀  
    🔗 [docs.ragas.io](https://docs.ragas.io)  
 
-95. <a href="https://github.com/modelscope/ms-swift">modelscope/</a><b><a href="https://github.com/modelscope/ms-swift">ms-swift</a></b> ⭐ 12,316    
+96. <a href="https://github.com/modelscope/ms-swift">modelscope/</a><b><a href="https://github.com/modelscope/ms-swift">ms-swift</a></b> ⭐ 12,316    
    Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3, Qwen3-MoE, DeepSeek-R1, GLM4.5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).  
    🔗 [swift.readthedocs.io/zh-cn/v3.12](https://swift.readthedocs.io/zh-cn/v3.12/)  
 
-96. <a href="https://github.com/sapientinc/hrm">sapientinc/</a><b><a href="https://github.com/sapientinc/hrm">HRM</a></b> ⭐ 12,274    
+97. <a href="https://github.com/sapientinc/hrm">sapientinc/</a><b><a href="https://github.com/sapientinc/hrm">HRM</a></b> ⭐ 12,274    
    Hierarchical Reasoning Model (HRM), a novel recurrent architecture that attains significant computational depth while maintaining both training stability and efficiency  
    🔗 [sapient.inc](https://sapient.inc)  
 
-97. <a href="https://github.com/google-research/vision_transformer">google-research/</a><b><a href="https://github.com/google-research/vision_transformer">vision_transformer</a></b> ⭐ 12,247    
+98. <a href="https://github.com/google-research/vision_transformer">google-research/</a><b><a href="https://github.com/google-research/vision_transformer">vision_transformer</a></b> ⭐ 12,247    
    Vision Transformer and MLP-Mixer Architectures  
 
-98. <a href="https://github.com/instructor-ai/instructor">instructor-ai/</a><b><a href="https://github.com/instructor-ai/instructor">instructor</a></b> ⭐ 12,199    
+99. <a href="https://github.com/instructor-ai/instructor">instructor-ai/</a><b><a href="https://github.com/instructor-ai/instructor">instructor</a></b> ⭐ 12,199    
    Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses.  
    🔗 [python.useinstructor.com](https://python.useinstructor.com/)  
 
-99. <a href="https://github.com/openlmlab/moss">openlmlab/</a><b><a href="https://github.com/openlmlab/moss">MOSS</a></b> ⭐ 12,076    
+100. <a href="https://github.com/openlmlab/moss">openlmlab/</a><b><a href="https://github.com/openlmlab/moss">MOSS</a></b> ⭐ 12,076    
    An open-source tool-augmented conversational language model from Fudan University  
    🔗 [txsun1997.github.io/blogs/moss.html](https://txsun1997.github.io/blogs/moss.html)  
 
-100. <a href="https://github.com/h2oai/h2ogpt">h2oai/</a><b><a href="https://github.com/h2oai/h2ogpt">h2ogpt</a></b> ⭐ 12,004    
+101. <a href="https://github.com/h2oai/h2ogpt">h2oai/</a><b><a href="https://github.com/h2oai/h2ogpt">h2ogpt</a></b> ⭐ 12,004    
    Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/  
    🔗 [h2o.ai](http://h2o.ai)  
 
-101. <a href="https://github.com/gibsonai/memori">gibsonai/</a><b><a href="https://github.com/gibsonai/memori">Memori</a></b> ⭐ 11,861    
+102. <a href="https://github.com/gibsonai/memori">gibsonai/</a><b><a href="https://github.com/gibsonai/memori">Memori</a></b> ⭐ 11,861    
    Memori enables any LLM to remember conversations, learn from interactions, and maintain context across sessions  
    🔗 [memorilabs.ai](https://memorilabs.ai)  
 
-102. <a href="https://github.com/chainlit/chainlit">chainlit/</a><b><a href="https://github.com/chainlit/chainlit">chainlit</a></b> ⭐ 11,430    
+103. <a href="https://github.com/chainlit/chainlit">chainlit/</a><b><a href="https://github.com/chainlit/chainlit">chainlit</a></b> ⭐ 11,430    
    Build Conversational AI in minutes ⚡️  
    🔗 [docs.chainlit.io](https://docs.chainlit.io)  
 
-103. <a href="https://github.com/topoteretes/cognee">topoteretes/</a><b><a href="https://github.com/topoteretes/cognee">cognee</a></b> ⭐ 11,265    
+104. <a href="https://github.com/topoteretes/cognee">topoteretes/</a><b><a href="https://github.com/topoteretes/cognee">cognee</a></b> ⭐ 11,265    
    Memory for AI Agents in 6 lines of code  
    🔗 [www.cognee.ai](https://www.cognee.ai)  
 
-104. <a href="https://github.com/eleutherai/lm-evaluation-harness">eleutherai/</a><b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b> ⭐ 11,265    
+105. <a href="https://github.com/eleutherai/lm-evaluation-harness">eleutherai/</a><b><a href="https://github.com/eleutherai/lm-evaluation-harness">lm-evaluation-harness</a></b> ⭐ 11,265    
    A framework for few-shot evaluation of language models.  
    🔗 [www.eleuther.ai](https://www.eleuther.ai)  
 
-105. <a href="https://github.com/axolotl-ai-cloud/axolotl">axolotl-ai-cloud/</a><b><a href="https://github.com/axolotl-ai-cloud/axolotl">axolotl</a></b> ⭐ 11,143    
+106. <a href="https://github.com/axolotl-ai-cloud/axolotl">axolotl-ai-cloud/</a><b><a href="https://github.com/axolotl-ai-cloud/axolotl">axolotl</a></b> ⭐ 11,143    
    Go ahead and axolotl questions  
    🔗 [docs.axolotl.ai](https://docs.axolotl.ai)  
 
-106. <a href="https://github.com/geeeekexplorer/nano-vllm">geeeekexplorer/</a><b><a href="https://github.com/geeeekexplorer/nano-vllm">nano-vllm</a></b> ⭐ 11,017    
+107. <a href="https://github.com/geeeekexplorer/nano-vllm">geeeekexplorer/</a><b><a href="https://github.com/geeeekexplorer/nano-vllm">nano-vllm</a></b> ⭐ 11,017    
    A lightweight vLLM implementation built from scratch.  
 
-107. <a href="https://github.com/microsoft/promptflow">microsoft/</a><b><a href="https://github.com/microsoft/promptflow">promptflow</a></b> ⭐ 11,001    
+108. <a href="https://github.com/microsoft/promptflow">microsoft/</a><b><a href="https://github.com/microsoft/promptflow">promptflow</a></b> ⭐ 11,001    
    Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.  
    🔗 [microsoft.github.io/promptflow](https://microsoft.github.io/promptflow/)  
 
-108. <a href="https://github.com/artidoro/qlora">artidoro/</a><b><a href="https://github.com/artidoro/qlora">qlora</a></b> ⭐ 10,821    
+109. <a href="https://github.com/artidoro/qlora">artidoro/</a><b><a href="https://github.com/artidoro/qlora">qlora</a></b> ⭐ 10,821    
    QLoRA: Efficient Finetuning of Quantized LLMs  
    🔗 [arxiv.org/abs/2305.14314](https://arxiv.org/abs/2305.14314)  
 
-109. <a href="https://github.com/databrickslabs/dolly">databrickslabs/</a><b><a href="https://github.com/databrickslabs/dolly">dolly</a></b> ⭐ 10,802    
+110. <a href="https://github.com/databrickslabs/dolly">databrickslabs/</a><b><a href="https://github.com/databrickslabs/dolly">dolly</a></b> ⭐ 10,802    
    Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform  
    🔗 [www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
 
-110. <a href="https://github.com/mistralai/mistral-src">mistralai/</a><b><a href="https://github.com/mistralai/mistral-src">mistral-inference</a></b> ⭐ 10,632    
+111. <a href="https://github.com/mistralai/mistral-src">mistralai/</a><b><a href="https://github.com/mistralai/mistral-src">mistral-inference</a></b> ⭐ 10,632    
    Official inference library for Mistral models  
    🔗 [mistral.ai](https://mistral.ai/)  
 
-111. <a href="https://github.com/e2b-dev/e2b">e2b-dev/</a><b><a href="https://github.com/e2b-dev/e2b">E2B</a></b> ⭐ 10,604    
+112. <a href="https://github.com/e2b-dev/e2b">e2b-dev/</a><b><a href="https://github.com/e2b-dev/e2b">E2B</a></b> ⭐ 10,604    
    E2B is an open-source infrastructure that allows you to run AI-generated code in secure isolated sandboxes in the cloud  
    🔗 [e2b.dev/docs](https://e2b.dev/docs)  
 
-112. <a href="https://github.com/karpathy/minbpe">karpathy/</a><b><a href="https://github.com/karpathy/minbpe">minbpe</a></b> ⭐ 10,284    
+113. <a href="https://github.com/ryancodrai/turbovec">ryancodrai/</a><b><a href="https://github.com/ryancodrai/turbovec">turbovec</a></b> ⭐ 10,601    
+   A vector index built on TurboQuant, written in Rust with Python bindings  
+   🔗 [pypi.org/project/turbovec](https://pypi.org/project/turbovec/)  
+
+114. <a href="https://github.com/karpathy/minbpe">karpathy/</a><b><a href="https://github.com/karpathy/minbpe">minbpe</a></b> ⭐ 10,284    
    Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.  
 
-113. <a href="https://github.com/promptfoo/promptfoo">promptfoo/</a><b><a href="https://github.com/promptfoo/promptfoo">promptfoo</a></b> ⭐ 10,096    
+115. <a href="https://github.com/promptfoo/promptfoo">promptfoo/</a><b><a href="https://github.com/promptfoo/promptfoo">promptfoo</a></b> ⭐ 10,096    
    Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  
    🔗 [promptfoo.dev](https://promptfoo.dev)  
 
-114. <a href="https://github.com/pipecat-ai/pipecat">pipecat-ai/</a><b><a href="https://github.com/pipecat-ai/pipecat">pipecat</a></b> ⭐ 9,974    
+116. <a href="https://github.com/pipecat-ai/pipecat">pipecat-ai/</a><b><a href="https://github.com/pipecat-ai/pipecat">pipecat</a></b> ⭐ 9,974    
    Open Source framework for voice and multimodal conversational AI  
    🔗 [pipecat.ai](https://pipecat.ai)  
 
-115. <a href="https://github.com/abetlen/llama-cpp-python">abetlen/</a><b><a href="https://github.com/abetlen/llama-cpp-python">llama-cpp-python</a></b> ⭐ 9,922    
+117. <a href="https://github.com/abetlen/llama-cpp-python">abetlen/</a><b><a href="https://github.com/abetlen/llama-cpp-python">llama-cpp-python</a></b> ⭐ 9,922    
    Simple Python bindings for @ggerganov's llama.cpp library.  
    🔗 [llama-cpp-python.readthedocs.io](https://llama-cpp-python.readthedocs.io)  
 
-116. <a href="https://github.com/mshumer/gpt-prompt-engineer">mshumer/</a><b><a href="https://github.com/mshumer/gpt-prompt-engineer">gpt-prompt-engineer</a></b> ⭐ 9,631    
+118. <a href="https://github.com/mshumer/gpt-prompt-engineer">mshumer/</a><b><a href="https://github.com/mshumer/gpt-prompt-engineer">gpt-prompt-engineer</a></b> ⭐ 9,631    
    Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.  
 
-117. <a href="https://github.com/blinkdl/chatrwkv">blinkdl/</a><b><a href="https://github.com/blinkdl/chatrwkv">ChatRWKV</a></b> ⭐ 9,511    
+119. <a href="https://github.com/blinkdl/chatrwkv">blinkdl/</a><b><a href="https://github.com/blinkdl/chatrwkv">ChatRWKV</a></b> ⭐ 9,511    
    ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.  
 
-118. <a href="https://github.com/skypilot-org/skypilot">skypilot-org/</a><b><a href="https://github.com/skypilot-org/skypilot">skypilot</a></b> ⭐ 9,367    
+120. <a href="https://github.com/skypilot-org/skypilot">skypilot-org/</a><b><a href="https://github.com/skypilot-org/skypilot">skypilot</a></b> ⭐ 9,367    
    Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).  
    🔗 [docs.skypilot.co](https://docs.skypilot.co/)  
 
-119. <a href="https://github.com/vikhyat/moondream">vikhyat/</a><b><a href="https://github.com/vikhyat/moondream">moondream</a></b> ⭐ 9,264    
+121. <a href="https://github.com/vikhyat/moondream">vikhyat/</a><b><a href="https://github.com/vikhyat/moondream">moondream</a></b> ⭐ 9,264    
    A tiny open-source computer-vision language model designed to run efficiently on edge devices  
    🔗 [moondream.ai](https://moondream.ai)  
 
-120. <a href="https://github.com/jzhang38/tinyllama">jzhang38/</a><b><a href="https://github.com/jzhang38/tinyllama">TinyLlama</a></b> ⭐ 8,878    
+122. <a href="https://github.com/jzhang38/tinyllama">jzhang38/</a><b><a href="https://github.com/jzhang38/tinyllama">TinyLlama</a></b> ⭐ 8,878    
    The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.  
 
-121. <a href="https://github.com/vaibhavs10/insanely-fast-whisper">vaibhavs10/</a><b><a href="https://github.com/vaibhavs10/insanely-fast-whisper">insanely-fast-whisper</a></b> ⭐ 8,787    
+123. <a href="https://github.com/vaibhavs10/insanely-fast-whisper">vaibhavs10/</a><b><a href="https://github.com/vaibhavs10/insanely-fast-whisper">insanely-fast-whisper</a></b> ⭐ 8,787    
    An opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 Transformers, Optimum & flash-attn  
 
-122. <a href="https://github.com/thudm/codegeex">thudm/</a><b><a href="https://github.com/thudm/codegeex">CodeGeeX</a></b> ⭐ 8,743    
+124. <a href="https://github.com/thudm/codegeex">thudm/</a><b><a href="https://github.com/thudm/codegeex">CodeGeeX</a></b> ⭐ 8,743    
    CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)  
    🔗 [codegeex.cn](https://codegeex.cn)  
 
-123. <a href="https://github.com/bytedance/dolphin">bytedance/</a><b><a href="https://github.com/bytedance/dolphin">Dolphin</a></b> ⭐ 8,727    
+125. <a href="https://github.com/bytedance/dolphin">bytedance/</a><b><a href="https://github.com/bytedance/dolphin">Dolphin</a></b> ⭐ 8,727    
    A novel multimodal document image parsing model following an analyze-then-parse paradigm  
 
-124. <a href="https://github.com/lyogavin/airllm">lyogavin/</a><b><a href="https://github.com/lyogavin/airllm">airllm</a></b> ⭐ 8,713    
+126. <a href="https://github.com/lyogavin/airllm">lyogavin/</a><b><a href="https://github.com/lyogavin/airllm">airllm</a></b> ⭐ 8,713    
    AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.  
 
-125. <a href="https://github.com/apple/ml-ferret">apple/</a><b><a href="https://github.com/apple/ml-ferret">ml-ferret</a></b> ⭐ 8,676    
+127. <a href="https://github.com/apple/ml-ferret">apple/</a><b><a href="https://github.com/apple/ml-ferret">ml-ferret</a></b> ⭐ 8,676    
    Ferret: Refer and Ground Anything Anywhere at Any Granularity  
 
-126. <a href="https://github.com/sjtu-ipads/powerinfer">sjtu-ipads/</a><b><a href="https://github.com/sjtu-ipads/powerinfer">PowerInfer</a></b> ⭐ 8,591    
+128. <a href="https://github.com/sjtu-ipads/powerinfer">sjtu-ipads/</a><b><a href="https://github.com/sjtu-ipads/powerinfer">PowerInfer</a></b> ⭐ 8,591    
    High-speed Large Language Model Serving for Local Deployment  
 
-127. <a href="https://github.com/optimalscale/lmflow">optimalscale/</a><b><a href="https://github.com/optimalscale/lmflow">LMFlow</a></b> ⭐ 8,502    
+129. <a href="https://github.com/optimalscale/lmflow">optimalscale/</a><b><a href="https://github.com/optimalscale/lmflow">LMFlow</a></b> ⭐ 8,502    
    An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.  
    🔗 [optimalscale.github.io/lmflow](https://optimalscale.github.io/LMFlow/)  
 
-128. <a href="https://github.com/eleutherai/gpt-neo">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b> ⭐ 8,288    
+130. <a href="https://github.com/eleutherai/gpt-neo">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neo">gpt-neo</a></b> ⭐ 8,288    
    An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.  
    🔗 [www.eleuther.ai](https://www.eleuther.ai)  
 
-129. <a href="https://github.com/lianjiatech/belle">lianjiatech/</a><b><a href="https://github.com/lianjiatech/belle">BELLE</a></b> ⭐ 8,284    
+131. <a href="https://github.com/lianjiatech/belle">lianjiatech/</a><b><a href="https://github.com/lianjiatech/belle">BELLE</a></b> ⭐ 8,284    
    BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）  
 
-130. <a href="https://github.com/future-house/paper-qa">future-house/</a><b><a href="https://github.com/future-house/paper-qa">paper-qa</a></b> ⭐ 8,025    
+132. <a href="https://github.com/future-house/paper-qa">future-house/</a><b><a href="https://github.com/future-house/paper-qa">paper-qa</a></b> ⭐ 8,025    
    High-accuracy retrieval augmented generation (RAG) on PDFs or text files, with a focus on the scientific literature  
    🔗 [futurehouse.gitbook.io/futurehouse-cookbook](https://futurehouse.gitbook.io/futurehouse-cookbook)  
 
-131. <a href="https://github.com/plachtaa/vall-e-x">plachtaa/</a><b><a href="https://github.com/plachtaa/vall-e-x">VALL-E-X</a></b> ⭐ 7,959    
+133. <a href="https://github.com/plachtaa/vall-e-x">plachtaa/</a><b><a href="https://github.com/plachtaa/vall-e-x">VALL-E-X</a></b> ⭐ 7,959    
    An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/  
 
-132. <a href="https://github.com/zilliztech/gptcache">zilliztech/</a><b><a href="https://github.com/zilliztech/gptcache">GPTCache</a></b> ⭐ 7,913    
+134. <a href="https://github.com/zilliztech/gptcache">zilliztech/</a><b><a href="https://github.com/zilliztech/gptcache">GPTCache</a></b> ⭐ 7,913    
    Semantic cache for LLMs. Fully integrated with LangChain and llama_index.   
    🔗 [gptcache.readthedocs.io](https://gptcache.readthedocs.io)  
 
-133. <a href="https://github.com/01-ai/yi">01-ai/</a><b><a href="https://github.com/01-ai/yi">Yi</a></b> ⭐ 7,846    
+135. <a href="https://github.com/01-ai/yi">01-ai/</a><b><a href="https://github.com/01-ai/yi">Yi</a></b> ⭐ 7,846    
    The Yi series models are the next generation of open-source large language models trained from scratch by 01.AI.  
    🔗 [01.ai](https://01.ai)  
 
-134. <a href="https://github.com/thudm/glm-130b">thudm/</a><b><a href="https://github.com/thudm/glm-130b">GLM-130B</a></b> ⭐ 7,677    
+136. <a href="https://github.com/thudm/glm-130b">thudm/</a><b><a href="https://github.com/thudm/glm-130b">GLM-130B</a></b> ⭐ 7,677    
    GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)  
 
-135. <a href="https://github.com/sweepai/sweep">sweepai/</a><b><a href="https://github.com/sweepai/sweep">sweep</a></b> ⭐ 7,628    
+137. <a href="https://github.com/sweepai/sweep">sweepai/</a><b><a href="https://github.com/sweepai/sweep">sweep</a></b> ⭐ 7,628    
    Sweep: AI coding assistant for JetBrains  
    🔗 [sweep.dev](https://sweep.dev)  
 
-136. <a href="https://github.com/bigcode-project/starcoder">bigcode-project/</a><b><a href="https://github.com/bigcode-project/starcoder">starcoder</a></b> ⭐ 7,534    
+138. <a href="https://github.com/bigcode-project/starcoder">bigcode-project/</a><b><a href="https://github.com/bigcode-project/starcoder">starcoder</a></b> ⭐ 7,534    
    Home of StarCoder: fine-tuning & inference!  
 
-137. <a href="https://github.com/vectifyai/pageindex">vectifyai/</a><b><a href="https://github.com/vectifyai/pageindex">PageIndex</a></b> ⭐ 7,532    
+139. <a href="https://github.com/vectifyai/pageindex">vectifyai/</a><b><a href="https://github.com/vectifyai/pageindex">PageIndex</a></b> ⭐ 7,532    
    A document indexing system that builds search tree structures from long documents, making them ready for reasoning-based RAG  
    🔗 [pageindex.ai](https://pageindex.ai)  
 
-138. <a href="https://github.com/openlm-research/open_llama">openlm-research/</a><b><a href="https://github.com/openlm-research/open_llama">open_llama</a></b> ⭐ 7,529    
+140. <a href="https://github.com/openlm-research/open_llama">openlm-research/</a><b><a href="https://github.com/openlm-research/open_llama">open_llama</a></b> ⭐ 7,529    
    OpenLLaMA: An Open Reproduction of LLaMA  
 
-139. <a href="https://github.com/weaviate/verba">weaviate/</a><b><a href="https://github.com/weaviate/verba">Verba</a></b> ⭐ 7,525    
+141. <a href="https://github.com/weaviate/verba">weaviate/</a><b><a href="https://github.com/weaviate/verba">Verba</a></b> ⭐ 7,525    
    Retrieval Augmented Generation (RAG) chatbot powered by Weaviate  
 
-140. <a href="https://github.com/boundaryml/baml">boundaryml/</a><b><a href="https://github.com/boundaryml/baml">baml</a></b> ⭐ 7,442    
+142. <a href="https://github.com/boundaryml/baml">boundaryml/</a><b><a href="https://github.com/boundaryml/baml">baml</a></b> ⭐ 7,442    
    The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)  
    🔗 [docs.boundaryml.com](https://docs.boundaryml.com)  
 
-141. <a href="https://github.com/eleutherai/gpt-neox">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neox">gpt-neox</a></b> ⭐ 7,370    
+143. <a href="https://github.com/eleutherai/gpt-neox">eleutherai/</a><b><a href="https://github.com/eleutherai/gpt-neox">gpt-neox</a></b> ⭐ 7,370    
    An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries  
    🔗 [www.eleuther.ai](https://www.eleuther.ai/)  
 
-142. <a href="https://github.com/mit-han-lab/streaming-llm">mit-han-lab/</a><b><a href="https://github.com/mit-han-lab/streaming-llm">streaming-llm</a></b> ⭐ 7,172    
+144. <a href="https://github.com/mit-han-lab/streaming-llm">mit-han-lab/</a><b><a href="https://github.com/mit-han-lab/streaming-llm">streaming-llm</a></b> ⭐ 7,172    
    [ICLR 2024] Efficient Streaming Language Models with Attention Sinks  
    🔗 [arxiv.org/abs/2309.17453](https://arxiv.org/abs/2309.17453)  
 
-143. <a href="https://github.com/bhaskatripathi/pdfgpt">bhaskatripathi/</a><b><a href="https://github.com/bhaskatripathi/pdfgpt">pdfGPT</a></b> ⭐ 7,168    
+145. <a href="https://github.com/bhaskatripathi/pdfgpt">bhaskatripathi/</a><b><a href="https://github.com/bhaskatripathi/pdfgpt">pdfGPT</a></b> ⭐ 7,168    
    PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!  
    🔗 [huggingface.co/spaces/bhaskartripathi/pdfchatter](https://huggingface.co/spaces/bhaskartripathi/pdfChatter)  
 
-144. <a href="https://github.com/apple/ml-fastvlm">apple/</a><b><a href="https://github.com/apple/ml-fastvlm">ml-fastvlm</a></b> ⭐ 7,167    
+146. <a href="https://github.com/apple/ml-fastvlm">apple/</a><b><a href="https://github.com/apple/ml-fastvlm">ml-fastvlm</a></b> ⭐ 7,167    
    FastVLM: Efficient Vision Encoding for Vision Language Models  
 
-145. <a href="https://github.com/internlm/internlm">internlm/</a><b><a href="https://github.com/internlm/internlm">InternLM</a></b> ⭐ 7,142    
+147. <a href="https://github.com/internlm/internlm">internlm/</a><b><a href="https://github.com/internlm/internlm">InternLM</a></b> ⭐ 7,142    
    Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3).  
    🔗 [internlm.readthedocs.io](https://internlm.readthedocs.io/)  
 
-146. <a href="https://github.com/apple/corenet">apple/</a><b><a href="https://github.com/apple/corenet">corenet</a></b> ⭐ 7,021    
+148. <a href="https://github.com/apple/corenet">apple/</a><b><a href="https://github.com/apple/corenet">corenet</a></b> ⭐ 7,021    
    CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation.  
 
-147. <a href="https://github.com/nirdiamant/prompt_engineering">nirdiamant/</a><b><a href="https://github.com/nirdiamant/prompt_engineering">Prompt_Engineering</a></b> ⭐ 7,013    
+149. <a href="https://github.com/nirdiamant/prompt_engineering">nirdiamant/</a><b><a href="https://github.com/nirdiamant/prompt_engineering">Prompt_Engineering</a></b> ⭐ 7,013    
    A comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies.  
 
-148. <a href="https://github.com/k-dense-ai/claude-scientific-skills">k-dense-ai/</a><b><a href="https://github.com/k-dense-ai/claude-scientific-skills">claude-scientific-skills</a></b> ⭐ 6,957    
+150. <a href="https://github.com/k-dense-ai/claude-scientific-skills">k-dense-ai/</a><b><a href="https://github.com/k-dense-ai/claude-scientific-skills">claude-scientific-skills</a></b> ⭐ 6,957    
    A set of ready to use scientific skills for Claude  
    🔗 [k-dense.ai](https://k-dense.ai)  
 
-149. <a href="https://github.com/anthropics/knowledge-work-plugins">anthropics/</a><b><a href="https://github.com/anthropics/knowledge-work-plugins">knowledge-work-plugins</a></b> ⭐ 6,910    
+151. <a href="https://github.com/thetom/turboquant_plus">thetom/</a><b><a href="https://github.com/thetom/turboquant_plus">turboquant_plus</a></b> ⭐ 6,925    
+   thetom/turboquant_plus  
+
+152. <a href="https://github.com/anthropics/knowledge-work-plugins">anthropics/</a><b><a href="https://github.com/anthropics/knowledge-work-plugins">knowledge-work-plugins</a></b> ⭐ 6,910    
    Knowledge Work Plugins that turn Claude into a specialist for your role, team, and company  
 
-150. <a href="https://github.com/lmcache/lmcache">lmcache/</a><b><a href="https://github.com/lmcache/lmcache">LMCache</a></b> ⭐ 6,765    
+153. <a href="https://github.com/lmcache/lmcache">lmcache/</a><b><a href="https://github.com/lmcache/lmcache">LMCache</a></b> ⭐ 6,765    
    LMCache is an LLM serving engine extension to reduce TTFT and increase throughput, especially under long-context scenarios  
    🔗 [lmcache.ai](https://lmcache.ai/)  
 
-151. <a href="https://github.com/langchain-ai/opengpts">langchain-ai/</a><b><a href="https://github.com/langchain-ai/opengpts">opengpts</a></b> ⭐ 6,757    
+154. <a href="https://github.com/langchain-ai/opengpts">langchain-ai/</a><b><a href="https://github.com/langchain-ai/opengpts">opengpts</a></b> ⭐ 6,757    
    An open source effort to create a similar experience to OpenAI's GPTs and Assistants API.  
 
-152. <a href="https://github.com/arcee-ai/mergekit">arcee-ai/</a><b><a href="https://github.com/arcee-ai/mergekit">mergekit</a></b> ⭐ 6,705    
+155. <a href="https://github.com/arcee-ai/mergekit">arcee-ai/</a><b><a href="https://github.com/arcee-ai/mergekit">mergekit</a></b> ⭐ 6,705    
    Tools for merging pretrained large language models.  
 
-153. <a href="https://github.com/minedojo/voyager">minedojo/</a><b><a href="https://github.com/minedojo/voyager">Voyager</a></b> ⭐ 6,616    
+156. <a href="https://github.com/minedojo/voyager">minedojo/</a><b><a href="https://github.com/minedojo/voyager">Voyager</a></b> ⭐ 6,616    
    An Open-Ended Embodied Agent with Large Language Models  
    🔗 [voyager.minedojo.org](https://voyager.minedojo.org/)  
 
-154. <a href="https://github.com/open-compass/opencompass">open-compass/</a><b><a href="https://github.com/open-compass/opencompass">opencompass</a></b> ⭐ 6,595    
+157. <a href="https://github.com/open-compass/opencompass">open-compass/</a><b><a href="https://github.com/open-compass/opencompass">opencompass</a></b> ⭐ 6,595    
    OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.  
    🔗 [opencompass.org.cn](https://opencompass.org.cn/)  
 
-155. <a href="https://github.com/run-llama/rags">run-llama/</a><b><a href="https://github.com/run-llama/rags">rags</a></b> ⭐ 6,532    
+158. <a href="https://github.com/run-llama/rags">run-llama/</a><b><a href="https://github.com/run-llama/rags">rags</a></b> ⭐ 6,532    
    RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.  
 
-156. <a href="https://github.com/qwenlm/qwen-vl">qwenlm/</a><b><a href="https://github.com/qwenlm/qwen-vl">Qwen-VL</a></b> ⭐ 6,499    
+159. <a href="https://github.com/qwenlm/qwen-vl">qwenlm/</a><b><a href="https://github.com/qwenlm/qwen-vl">Qwen-VL</a></b> ⭐ 6,499    
    The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.  
 
-157. <a href="https://github.com/yuliang-liu/monkeyocr">yuliang-liu/</a><b><a href="https://github.com/yuliang-liu/monkeyocr">MonkeyOCR</a></b> ⭐ 6,447    
+160. <a href="https://github.com/yuliang-liu/monkeyocr">yuliang-liu/</a><b><a href="https://github.com/yuliang-liu/monkeyocr">MonkeyOCR</a></b> ⭐ 6,447    
    A lightweight LMM-based Document Parsing Model with a Structure-Recognition-Relation Triplet Paradigm  
 
-158. <a href="https://github.com/nat/openplayground">nat/</a><b><a href="https://github.com/nat/openplayground">openplayground</a></b> ⭐ 6,370    
+161. <a href="https://github.com/nat/openplayground">nat/</a><b><a href="https://github.com/nat/openplayground">openplayground</a></b> ⭐ 6,370    
    An LLM playground you can run on your laptop  
 
-159. <a href="https://github.com/guardrails-ai/guardrails">guardrails-ai/</a><b><a href="https://github.com/guardrails-ai/guardrails">guardrails</a></b> ⭐ 6,300    
+162. <a href="https://github.com/guardrails-ai/guardrails">guardrails-ai/</a><b><a href="https://github.com/guardrails-ai/guardrails">guardrails</a></b> ⭐ 6,300    
    Open-source Python package for specifying structure and type, validating and correcting the outputs of large language models (LLMs)  
    🔗 [www.guardrailsai.com/docs](https://www.guardrailsai.com/docs)  
 
-160. <a href="https://github.com/allenai/olmo">allenai/</a><b><a href="https://github.com/allenai/olmo">OLMo</a></b> ⭐ 6,294    
+163. <a href="https://github.com/allenai/olmo">allenai/</a><b><a href="https://github.com/allenai/olmo">OLMo</a></b> ⭐ 6,294    
    OLMo is a repository for training and using AI2's state-of-the-art open language models. It is designed by scientists, for scientists.  
    🔗 [allenai.org/olmo](https://allenai.org/olmo)  
 
-161. <a href="https://github.com/langchain-ai/chat-langchain">langchain-ai/</a><b><a href="https://github.com/langchain-ai/chat-langchain">chat-langchain</a></b> ⭐ 6,228    
+164. <a href="https://github.com/langchain-ai/chat-langchain">langchain-ai/</a><b><a href="https://github.com/langchain-ai/chat-langchain">chat-langchain</a></b> ⭐ 6,228    
    Locally hosted chatbot specifically focused on question answering over the LangChain documentation  
    🔗 [chat.langchain.com](https://chat.langchain.com)  
 
-162. <a href="https://github.com/pytorch-labs/gpt-fast">pytorch-labs/</a><b><a href="https://github.com/pytorch-labs/gpt-fast">gpt-fast</a></b> ⭐ 6,181    
+165. <a href="https://github.com/pytorch-labs/gpt-fast">pytorch-labs/</a><b><a href="https://github.com/pytorch-labs/gpt-fast">gpt-fast</a></b> ⭐ 6,181    
    Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.  
 
-163. <a href="https://github.com/lightning-ai/lit-llama">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lit-llama">lit-llama</a></b> ⭐ 6,093    
+166. <a href="https://github.com/lightning-ai/lit-llama">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lit-llama">lit-llama</a></b> ⭐ 6,093    
    Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.  
 
-164. <a href="https://github.com/linkedin/liger-kernel">linkedin/</a><b><a href="https://github.com/linkedin/liger-kernel">Liger-Kernel</a></b> ⭐ 6,065    
+167. <a href="https://github.com/linkedin/liger-kernel">linkedin/</a><b><a href="https://github.com/linkedin/liger-kernel">Liger-Kernel</a></b> ⭐ 6,065    
    Efficient Triton Kernels for LLM Training  
    🔗 [linkedin.github.io/liger-kernel](https://linkedin.github.io/Liger-Kernel/)  
 
-165. <a href="https://github.com/microsoft/llmlingua">microsoft/</a><b><a href="https://github.com/microsoft/llmlingua">LLMLingua</a></b> ⭐ 5,784    
+168. <a href="https://github.com/microsoft/llmlingua">microsoft/</a><b><a href="https://github.com/microsoft/llmlingua">LLMLingua</a></b> ⭐ 5,784    
    [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.   
    🔗 [llmlingua.com](https://llmlingua.com/)  
 
-166. <a href="https://github.com/microsoft/promptbase">microsoft/</a><b><a href="https://github.com/microsoft/promptbase">promptbase</a></b> ⭐ 5,726    
+169. <a href="https://github.com/microsoft/promptbase">microsoft/</a><b><a href="https://github.com/microsoft/promptbase">promptbase</a></b> ⭐ 5,726    
    promptbase is an evolving collection of resources, best practices, and example scripts for eliciting the best performance from foundation models.  
 
-167. <a href="https://github.com/meta-pytorch/torchtune">meta-pytorch/</a><b><a href="https://github.com/meta-pytorch/torchtune">torchtune</a></b> ⭐ 5,650    
+170. <a href="https://github.com/ml-explore/mlx-lm">ml-explore/</a><b><a href="https://github.com/ml-explore/mlx-lm">mlx-lm</a></b> ⭐ 5,691    
+   Run LLMs with MLX  
+
+171. <a href="https://github.com/meta-pytorch/torchtune">meta-pytorch/</a><b><a href="https://github.com/meta-pytorch/torchtune">torchtune</a></b> ⭐ 5,650    
    a PyTorch library for easily authoring, post-training, and experimenting with recipes for SFT, knowledge distillation, DPO, PPO, GRPO, and quantization-aware training  
    🔗 [pytorch.org/torchtune/main](https://pytorch.org/torchtune/main/)  
 
-168. <a href="https://github.com/nvidia/nemo-guardrails">nvidia/</a><b><a href="https://github.com/nvidia/nemo-guardrails">Guardrails</a></b> ⭐ 5,538    
+172. <a href="https://github.com/nvidia/nemo-guardrails">nvidia/</a><b><a href="https://github.com/nvidia/nemo-guardrails">Guardrails</a></b> ⭐ 5,538    
    NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.  
    🔗 [docs.nvidia.com/nemo/guardrails/latest/index.html](https://docs.nvidia.com/nemo/guardrails/latest/index.html)  
 
-169. <a href="https://github.com/openbmb/toolbench">openbmb/</a><b><a href="https://github.com/openbmb/toolbench">ToolBench</a></b> ⭐ 5,492    
+173. <a href="https://github.com/openbmb/toolbench">openbmb/</a><b><a href="https://github.com/openbmb/toolbench">ToolBench</a></b> ⭐ 5,492    
    [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.  
    🔗 [openbmb.github.io/toolbench](https://openbmb.github.io/ToolBench/)  
 
-170. <a href="https://github.com/dsdanielpark/bard-api">dsdanielpark/</a><b><a href="https://github.com/dsdanielpark/bard-api">Bard-API</a></b> ⭐ 5,226    
+174. <a href="https://github.com/dsdanielpark/bard-api">dsdanielpark/</a><b><a href="https://github.com/dsdanielpark/bard-api">Bard-API</a></b> ⭐ 5,226    
    The unofficial python package that returns response of Google Bard through cookie value.  
    🔗 [pypi.org/project/bardapi](https://pypi.org/project/bardapi/)  
 
-171. <a href="https://github.com/katanaml/sparrow">katanaml/</a><b><a href="https://github.com/katanaml/sparrow">sparrow</a></b> ⭐ 5,097    
+175. <a href="https://github.com/katanaml/sparrow">katanaml/</a><b><a href="https://github.com/katanaml/sparrow">sparrow</a></b> ⭐ 5,097    
    Sparrow is a solution for efficient data extraction and processing from various documents and images like invoices and receipts  
    🔗 [sparrow.katanaml.io](https://sparrow.katanaml.io)  
 
-172. <a href="https://github.com/agiresearch/aios">agiresearch/</a><b><a href="https://github.com/agiresearch/aios">AIOS</a></b> ⭐ 4,967    
+176. <a href="https://github.com/agiresearch/aios">agiresearch/</a><b><a href="https://github.com/agiresearch/aios">AIOS</a></b> ⭐ 4,967    
    AIOS, a Large Language Model (LLM) Agent operating system, embeds large language model into Operating Systems (OS) as the brain of the OS, enabling an operating system "with soul" -- an important step towards AGI.  
    🔗 [docs.aios.foundation](https://docs.aios.foundation)  
 
-173. <a href="https://github.com/togethercomputer/redpajama-data">togethercomputer/</a><b><a href="https://github.com/togethercomputer/redpajama-data">RedPajama-Data</a></b> ⭐ 4,922    
+177. <a href="https://github.com/togethercomputer/redpajama-data">togethercomputer/</a><b><a href="https://github.com/togethercomputer/redpajama-data">RedPajama-Data</a></b> ⭐ 4,922    
    The RedPajama-Data repository contains code for preparing large datasets for training large language models.  
 
-174. <a href="https://github.com/1rgs/jsonformer">1rgs/</a><b><a href="https://github.com/1rgs/jsonformer">jsonformer</a></b> ⭐ 4,891    
+178. <a href="https://github.com/1rgs/jsonformer">1rgs/</a><b><a href="https://github.com/1rgs/jsonformer">jsonformer</a></b> ⭐ 4,891    
    A Bulletproof Way to Generate Structured JSON from Language Models  
 
-175. <a href="https://github.com/h2oai/h2o-llmstudio">h2oai/</a><b><a href="https://github.com/h2oai/h2o-llmstudio">h2o-llmstudio</a></b> ⭐ 4,781    
+179. <a href="https://github.com/h2oai/h2o-llmstudio">h2oai/</a><b><a href="https://github.com/h2oai/h2o-llmstudio">h2o-llmstudio</a></b> ⭐ 4,781    
    H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/  
    🔗 [h2o.ai](https://h2o.ai)  
 
-176. <a href="https://github.com/flashinfer-ai/flashinfer">flashinfer-ai/</a><b><a href="https://github.com/flashinfer-ai/flashinfer">flashinfer</a></b> ⭐ 4,744    
+180. <a href="https://github.com/flashinfer-ai/flashinfer">flashinfer-ai/</a><b><a href="https://github.com/flashinfer-ai/flashinfer">flashinfer</a></b> ⭐ 4,744    
    FlashInfer is a library and kernel generator for Large Language Models that provides high-performance implementation of LLM GPU kernels such as FlashAttention, SparseAttention, PageAttention, Sampling  
    🔗 [flashinfer.ai](https://flashinfer.ai)  
 
-177. <a href="https://github.com/kiln-ai/kiln">kiln-ai/</a><b><a href="https://github.com/kiln-ai/kiln">Kiln</a></b> ⭐ 4,593    
+181. <a href="https://github.com/kiln-ai/kiln">kiln-ai/</a><b><a href="https://github.com/kiln-ai/kiln">Kiln</a></b> ⭐ 4,593    
    Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.  
    🔗 [kiln.tech](https://kiln.tech)  
 
-178. <a href="https://github.com/vllm-project/aibrix">vllm-project/</a><b><a href="https://github.com/vllm-project/aibrix">aibrix</a></b> ⭐ 4,584    
+182. <a href="https://github.com/vllm-project/aibrix">vllm-project/</a><b><a href="https://github.com/vllm-project/aibrix">aibrix</a></b> ⭐ 4,584    
    AIBrix delivers a cloud-native solution optimized for deploying, managing, and scaling large language model (LLM) inference, tailored specifically to enterprise needs.  
 
-179. <a href="https://github.com/kyegomez/tree-of-thoughts">kyegomez/</a><b><a href="https://github.com/kyegomez/tree-of-thoughts">tree-of-thoughts</a></b> ⭐ 4,564    
+183. <a href="https://github.com/kyegomez/tree-of-thoughts">kyegomez/</a><b><a href="https://github.com/kyegomez/tree-of-thoughts">tree-of-thoughts</a></b> ⭐ 4,564    
    Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%   
    🔗 [discord.gg/qutxnk2nmf](https://discord.gg/qUtxnK2NMf)  
 
-180. <a href="https://github.com/yizhongw/self-instruct">yizhongw/</a><b><a href="https://github.com/yizhongw/self-instruct">self-instruct</a></b> ⭐ 4,563    
+184. <a href="https://github.com/yizhongw/self-instruct">yizhongw/</a><b><a href="https://github.com/yizhongw/self-instruct">self-instruct</a></b> ⭐ 4,563    
    Aligning pretrained language models with instruction data generated by themselves.  
 
-181. <a href="https://github.com/lm-sys/routellm">lm-sys/</a><b><a href="https://github.com/lm-sys/routellm">RouteLLM</a></b> ⭐ 4,553    
+185. <a href="https://github.com/lm-sys/routellm">lm-sys/</a><b><a href="https://github.com/lm-sys/routellm">RouteLLM</a></b> ⭐ 4,553    
    A framework for serving and evaluating LLM routers - save LLM costs without compromising quality  
 
-182. <a href="https://github.com/marker-inc-korea/autorag">marker-inc-korea/</a><b><a href="https://github.com/marker-inc-korea/autorag">AutoRAG</a></b> ⭐ 4,541    
+186. <a href="https://github.com/marker-inc-korea/autorag">marker-inc-korea/</a><b><a href="https://github.com/marker-inc-korea/autorag">AutoRAG</a></b> ⭐ 4,541    
    AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation  
    🔗 [marker-inc-korea.github.io/autorag](https://marker-inc-korea.github.io/AutoRAG/)  
 
-183. <a href="https://github.com/microsoft/biogpt">microsoft/</a><b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b> ⭐ 4,486    
+187. <a href="https://github.com/microsoft/biogpt">microsoft/</a><b><a href="https://github.com/microsoft/biogpt">BioGPT</a></b> ⭐ 4,486    
    Implementation of BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining  
 
-184. <a href="https://github.com/hiyouga/easyr1">hiyouga/</a><b><a href="https://github.com/hiyouga/easyr1">EasyR1</a></b> ⭐ 4,475    
+188. <a href="https://github.com/hiyouga/easyr1">hiyouga/</a><b><a href="https://github.com/hiyouga/easyr1">EasyR1</a></b> ⭐ 4,475    
    EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL  
    🔗 [verl.readthedocs.io](https://verl.readthedocs.io)  
 
-185. <a href="https://github.com/llm-attacks/llm-attacks">llm-attacks/</a><b><a href="https://github.com/llm-attacks/llm-attacks">llm-attacks</a></b> ⭐ 4,460    
+189. <a href="https://github.com/llm-attacks/llm-attacks">llm-attacks/</a><b><a href="https://github.com/llm-attacks/llm-attacks">llm-attacks</a></b> ⭐ 4,460    
    This is the official repository for "Universal and Transferable Adversarial Attacks on Aligned Language Models"  
    🔗 [llm-attacks.org](https://llm-attacks.org/)  
 
-186. <a href="https://github.com/turboderp/exllamav2">turboderp/</a><b><a href="https://github.com/turboderp/exllamav2">exllamav2</a></b> ⭐ 4,425    
+190. <a href="https://github.com/turboderp/exllamav2">turboderp/</a><b><a href="https://github.com/turboderp/exllamav2">exllamav2</a></b> ⭐ 4,425    
    A fast inference library for running LLMs locally on modern consumer-class GPUs  
 
-187. <a href="https://github.com/huggingface/text-embeddings-inference">huggingface/</a><b><a href="https://github.com/huggingface/text-embeddings-inference">text-embeddings-inference</a></b> ⭐ 4,417    
+191. <a href="https://github.com/huggingface/text-embeddings-inference">huggingface/</a><b><a href="https://github.com/huggingface/text-embeddings-inference">text-embeddings-inference</a></b> ⭐ 4,417    
    A blazing fast inference solution for text embeddings models  
    🔗 [huggingface.co/docs/text-embeddings-inference/quick_tour](https://huggingface.co/docs/text-embeddings-inference/quick_tour)  
 
-188. <a href="https://github.com/ragapp/ragapp">ragapp/</a><b><a href="https://github.com/ragapp/ragapp">ragapp</a></b> ⭐ 4,393    
+192. <a href="https://github.com/ragapp/ragapp">ragapp/</a><b><a href="https://github.com/ragapp/ragapp">ragapp</a></b> ⭐ 4,393    
    The easiest way to use Agentic RAG in any enterprise  
 
-189. <a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">instruction-tuning-with-gpt-4/</a><b><a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">GPT-4-LLM</a></b> ⭐ 4,342    
+193. <a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">instruction-tuning-with-gpt-4/</a><b><a href="https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm">GPT-4-LLM</a></b> ⭐ 4,342    
    Instruction Tuning with GPT-4  
    🔗 [instruction-tuning-with-gpt-4.github.io](https://instruction-tuning-with-gpt-4.github.io/)  
 
-190. <a href="https://github.com/openai/simple-evals">openai/</a><b><a href="https://github.com/openai/simple-evals">simple-evals</a></b> ⭐ 4,314    
+194. <a href="https://github.com/openai/simple-evals">openai/</a><b><a href="https://github.com/openai/simple-evals">simple-evals</a></b> ⭐ 4,314    
    Lightweight library for evaluating language models  
 
-191. <a href="https://github.com/truefoundry/cognita">truefoundry/</a><b><a href="https://github.com/truefoundry/cognita">cognita</a></b> ⭐ 4,314    
+195. <a href="https://github.com/truefoundry/cognita">truefoundry/</a><b><a href="https://github.com/truefoundry/cognita">cognita</a></b> ⭐ 4,314    
    RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry   
    🔗 [cognita.truefoundry.com](https://cognita.truefoundry.com)  
 
-192. <a href="https://github.com/neo4j-labs/llm-graph-builder">neo4j-labs/</a><b><a href="https://github.com/neo4j-labs/llm-graph-builder">llm-graph-builder</a></b> ⭐ 4,294    
+196. <a href="https://github.com/neo4j-labs/llm-graph-builder">neo4j-labs/</a><b><a href="https://github.com/neo4j-labs/llm-graph-builder">llm-graph-builder</a></b> ⭐ 4,294    
    Transform unstructured data into a structured Knowledge Graph stored in Neo4j with LLMs  
    🔗 [llm-graph-builder.neo4jlabs.com](https://llm-graph-builder.neo4jlabs.com/)  
 
-193. <a href="https://github.com/p-e-w/heretic">p-e-w/</a><b><a href="https://github.com/p-e-w/heretic">heretic</a></b> ⭐ 4,286    
+197. <a href="https://github.com/p-e-w/heretic">p-e-w/</a><b><a href="https://github.com/p-e-w/heretic">heretic</a></b> ⭐ 4,286    
    Heretic is a tool that removes censorship from transformer-based LLMs without post-training  
 
-194. <a href="https://github.com/microsoft/lmops">microsoft/</a><b><a href="https://github.com/microsoft/lmops">LMOps</a></b> ⭐ 4,262    
+198. <a href="https://github.com/microsoft/lmops">microsoft/</a><b><a href="https://github.com/microsoft/lmops">LMOps</a></b> ⭐ 4,262    
    General technology for enabling AI capabilities w/ LLMs and MLLMs  
    🔗 [aka.ms/generalai](https://aka.ms/GeneralAI)  
 
-195. <a href="https://github.com/pytorch/executorch">pytorch/</a><b><a href="https://github.com/pytorch/executorch">executorch</a></b> ⭐ 4,182    
+199. <a href="https://github.com/pytorch/executorch">pytorch/</a><b><a href="https://github.com/pytorch/executorch">executorch</a></b> ⭐ 4,182    
    An end-to-end solution for enabling on-device inference capabilities across mobile and edge devices including wearables, embedded devices and microcontrollers. It is part of the PyTorch Edge ecosystem and enables efficient deployment of PyTorch models to edge devices.  
    🔗 [executorch.ai](https://executorch.ai)  
 
-196. <a href="https://github.com/mshumer/gpt-llm-trainer">mshumer/</a><b><a href="https://github.com/mshumer/gpt-llm-trainer">gpt-llm-trainer</a></b> ⭐ 4,168    
+200. <a href="https://github.com/mshumer/gpt-llm-trainer">mshumer/</a><b><a href="https://github.com/mshumer/gpt-llm-trainer">gpt-llm-trainer</a></b> ⭐ 4,168    
    Input a description of your task, and the system will generate a dataset, parse it, and fine-tune a LLaMA 2 model for you  
 
-197. <a href="https://github.com/openai/harmony">openai/</a><b><a href="https://github.com/openai/harmony">harmony</a></b> ⭐ 4,149    
+201. <a href="https://github.com/openai/harmony">openai/</a><b><a href="https://github.com/openai/harmony">harmony</a></b> ⭐ 4,149    
    Renderer for the harmony response format to be used with gpt-oss  
 
-198. <a href="https://github.com/eth-sri/lmql">eth-sri/</a><b><a href="https://github.com/eth-sri/lmql">lmql</a></b> ⭐ 4,136    
+202. <a href="https://github.com/eth-sri/lmql">eth-sri/</a><b><a href="https://github.com/eth-sri/lmql">lmql</a></b> ⭐ 4,136    
    A language for constraint-guided and efficient LLM programming.  
    🔗 [lmql.ai](https://lmql.ai)  
 
-199. <a href="https://github.com/deep-agent/r1-v">deep-agent/</a><b><a href="https://github.com/deep-agent/r1-v">R1-V</a></b> ⭐ 4,025    
+203. <a href="https://github.com/deep-agent/r1-v">deep-agent/</a><b><a href="https://github.com/deep-agent/r1-v">R1-V</a></b> ⭐ 4,025    
    We are building a general framework for Reinforcement Learning with Verifiable Rewards (RLVR) in VLM.  RLVR outperforms chain-of-thought supervised fine-tuning (CoT-SFT) in both effectiveness and out-of-distribution (OOD) robustness for vision language models.  
 
-200. <a href="https://github.com/sylphai-inc/adalflow">sylphai-inc/</a><b><a href="https://github.com/sylphai-inc/adalflow">AdalFlow</a></b> ⭐ 3,998    
+204. <a href="https://github.com/sylphai-inc/adalflow">sylphai-inc/</a><b><a href="https://github.com/sylphai-inc/adalflow">AdalFlow</a></b> ⭐ 3,998    
    Unified auto-differentiative framework for both zero-shot prompt optimization and few-shot optimization. It advances existing auto-optimization research, including Text-Grad and DsPy  
    🔗 [adalflow.sylph.ai](http://adalflow.sylph.ai/)  
 
-201. <a href="https://github.com/defog-ai/sqlcoder">defog-ai/</a><b><a href="https://github.com/defog-ai/sqlcoder">sqlcoder</a></b> ⭐ 3,990    
+205. <a href="https://github.com/defog-ai/sqlcoder">defog-ai/</a><b><a href="https://github.com/defog-ai/sqlcoder">sqlcoder</a></b> ⭐ 3,990    
    SoTA LLM for converting natural language questions to SQL queries  
 
-202. <a href="https://github.com/meta-llama/purplellama">meta-llama/</a><b><a href="https://github.com/meta-llama/purplellama">PurpleLlama</a></b> ⭐ 3,988    
+206. <a href="https://github.com/meta-llama/purplellama">meta-llama/</a><b><a href="https://github.com/meta-llama/purplellama">PurpleLlama</a></b> ⭐ 3,988    
    Set of tools to assess and improve LLM security. An umbrella project to bring together tools and evals to help the community build responsibly with open genai models.  
 
-203. <a href="https://github.com/bclavie/ragatouille">bclavie/</a><b><a href="https://github.com/bclavie/ragatouille">RAGatouille</a></b> ⭐ 3,828    
+207. <a href="https://github.com/bclavie/ragatouille">bclavie/</a><b><a href="https://github.com/bclavie/ragatouille">RAGatouille</a></b> ⭐ 3,828    
    Bridging the gap between state-of-the-art research and alchemical RAG pipeline practices.  
 
-204. <a href="https://github.com/ravenscroftj/turbopilot">ravenscroftj/</a><b><a href="https://github.com/ravenscroftj/turbopilot">turbopilot</a></b> ⭐ 3,808    
+208. <a href="https://github.com/ravenscroftj/turbopilot">ravenscroftj/</a><b><a href="https://github.com/ravenscroftj/turbopilot">turbopilot</a></b> ⭐ 3,808    
    Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU  
 
-205. <a href="https://github.com/lightning-ai/litserve">lightning-ai/</a><b><a href="https://github.com/lightning-ai/litserve">LitServe</a></b> ⭐ 3,790    
+209. <a href="https://github.com/lightning-ai/litserve">lightning-ai/</a><b><a href="https://github.com/lightning-ai/litserve">LitServe</a></b> ⭐ 3,790    
    A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.  
    🔗 [lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme](https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme)  
 
-206. <a href="https://github.com/agenta-ai/agenta">agenta-ai/</a><b><a href="https://github.com/agenta-ai/agenta">agenta</a></b> ⭐ 3,787    
+210. <a href="https://github.com/agenta-ai/agenta">agenta-ai/</a><b><a href="https://github.com/agenta-ai/agenta">agenta</a></b> ⭐ 3,787    
    The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.  
    🔗 [www.agenta.ai](http://www.agenta.ai)  
 
-207. <a href="https://github.com/microsoft/promptwizard">microsoft/</a><b><a href="https://github.com/microsoft/promptwizard">PromptWizard</a></b> ⭐ 3,744    
+211. <a href="https://github.com/microsoft/promptwizard">microsoft/</a><b><a href="https://github.com/microsoft/promptwizard">PromptWizard</a></b> ⭐ 3,744    
    PromptWizard is a discrete prompt optimization framework that employs a self-evolving mechanism where the LLM generates, critiques, and refines its own prompts and examples  
 
-208. <a href="https://github.com/mmabrouk/chatgpt-wrapper">mmabrouk/</a><b><a href="https://github.com/mmabrouk/chatgpt-wrapper">llm-workflow-engine</a></b> ⭐ 3,718    
+212. <a href="https://github.com/mmabrouk/chatgpt-wrapper">mmabrouk/</a><b><a href="https://github.com/mmabrouk/chatgpt-wrapper">llm-workflow-engine</a></b> ⭐ 3,718    
    Power CLI and Workflow manager for LLMs (core package)  
 
-209. <a href="https://github.com/predibase/lorax">predibase/</a><b><a href="https://github.com/predibase/lorax">lorax</a></b> ⭐ 3,682    
+213. <a href="https://github.com/predibase/lorax">predibase/</a><b><a href="https://github.com/predibase/lorax">lorax</a></b> ⭐ 3,682    
    Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs  
    🔗 [loraexchange.ai](https://loraexchange.ai)  
 
-210. <a href="https://github.com/next-gpt/next-gpt">next-gpt/</a><b><a href="https://github.com/next-gpt/next-gpt">NExT-GPT</a></b> ⭐ 3,614    
+214. <a href="https://github.com/next-gpt/next-gpt">next-gpt/</a><b><a href="https://github.com/next-gpt/next-gpt">NExT-GPT</a></b> ⭐ 3,614    
    Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model  
    🔗 [next-gpt.github.io](https://next-gpt.github.io/)  
 
-211. <a href="https://github.com/evolvinglmms-lab/lmms-eval">evolvinglmms-lab/</a><b><a href="https://github.com/evolvinglmms-lab/lmms-eval">lmms-eval</a></b> ⭐ 3,588    
+215. <a href="https://github.com/evolvinglmms-lab/lmms-eval">evolvinglmms-lab/</a><b><a href="https://github.com/evolvinglmms-lab/lmms-eval">lmms-eval</a></b> ⭐ 3,588    
    One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks  
    🔗 [www.lmms-lab.com](https://www.lmms-lab.com)  
 
-212. <a href="https://github.com/huggingface/smollm">huggingface/</a><b><a href="https://github.com/huggingface/smollm">smollm</a></b> ⭐ 3,575    
+216. <a href="https://github.com/huggingface/smollm">huggingface/</a><b><a href="https://github.com/huggingface/smollm">smollm</a></b> ⭐ 3,575    
    Everything about the SmolLM and SmolVLM family of models   
    🔗 [huggingface.co/huggingfacetb](https://huggingface.co/HuggingFaceTB)  
 
-213. <a href="https://github.com/verazuo/jailbreak_llms">verazuo/</a><b><a href="https://github.com/verazuo/jailbreak_llms">jailbreak_llms</a></b> ⭐ 3,534    
+217. <a href="https://github.com/verazuo/jailbreak_llms">verazuo/</a><b><a href="https://github.com/verazuo/jailbreak_llms">jailbreak_llms</a></b> ⭐ 3,534    
    Official repo for the ACM CCS 2024 paper "Do Anything Now'': Characterizing and Evaluating In-The-Wild Jailbreak Prompts  
    🔗 [jailbreak-llms.xinyueshen.me](https://jailbreak-llms.xinyueshen.me/)  
 
-214. <a href="https://github.com/minimaxir/simpleaichat">minimaxir/</a><b><a href="https://github.com/minimaxir/simpleaichat">simpleaichat</a></b> ⭐ 3,520    
+218. <a href="https://github.com/minimaxir/simpleaichat">minimaxir/</a><b><a href="https://github.com/minimaxir/simpleaichat">simpleaichat</a></b> ⭐ 3,520    
    Python package for easily interfacing with chat apps, with robust features and minimal code complexity.  
 
-215. <a href="https://github.com/iryna-kondr/scikit-llm">iryna-kondr/</a><b><a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a></b> ⭐ 3,491    
+219. <a href="https://github.com/iryna-kondr/scikit-llm">iryna-kondr/</a><b><a href="https://github.com/iryna-kondr/scikit-llm">scikit-llm</a></b> ⭐ 3,491    
    Seamlessly integrate LLMs into scikit-learn.  
    🔗 [beastbyte.ai](https://beastbyte.ai/)  
 
-216. <a href="https://github.com/jaymody/picogpt">jaymody/</a><b><a href="https://github.com/jaymody/picogpt">picoGPT</a></b> ⭐ 3,438    
+220. <a href="https://github.com/jaymody/picogpt">jaymody/</a><b><a href="https://github.com/jaymody/picogpt">picoGPT</a></b> ⭐ 3,438    
    An unnecessarily tiny implementation of GPT-2 in NumPy.  
 
-217. <a href="https://github.com/mit-han-lab/llm-awq">mit-han-lab/</a><b><a href="https://github.com/mit-han-lab/llm-awq">llm-awq</a></b> ⭐ 3,424    
+221. <a href="https://github.com/mit-han-lab/llm-awq">mit-han-lab/</a><b><a href="https://github.com/mit-han-lab/llm-awq">llm-awq</a></b> ⭐ 3,424    
    AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration  
 
-218. <a href="https://github.com/minimaxir/gpt-2-simple">minimaxir/</a><b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b> ⭐ 3,406    
+222. <a href="https://github.com/minimaxir/gpt-2-simple">minimaxir/</a><b><a href="https://github.com/minimaxir/gpt-2-simple">gpt-2-simple</a></b> ⭐ 3,406    
    Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts  
 
-219. <a href="https://github.com/novasky-ai/skythought">novasky-ai/</a><b><a href="https://github.com/novasky-ai/skythought">SkyThought</a></b> ⭐ 3,369    
+223. <a href="https://github.com/novasky-ai/skythought">novasky-ai/</a><b><a href="https://github.com/novasky-ai/skythought">SkyThought</a></b> ⭐ 3,369    
    Sky-T1: Train your own O1 preview model within $450  
    🔗 [novasky-ai.github.io](https://novasky-ai.github.io/)  
 
-220. <a href="https://github.com/deep-diver/llm-as-chatbot">deep-diver/</a><b><a href="https://github.com/deep-diver/llm-as-chatbot">LLM-As-Chatbot</a></b> ⭐ 3,332    
+224. <a href="https://github.com/deep-diver/llm-as-chatbot">deep-diver/</a><b><a href="https://github.com/deep-diver/llm-as-chatbot">LLM-As-Chatbot</a></b> ⭐ 3,332    
    LLM as a Chatbot Service  
 
-221. <a href="https://github.com/zou-group/textgrad">zou-group/</a><b><a href="https://github.com/zou-group/textgrad">textgrad</a></b> ⭐ 3,319    
+225. <a href="https://github.com/zou-group/textgrad">zou-group/</a><b><a href="https://github.com/zou-group/textgrad">textgrad</a></b> ⭐ 3,319    
    TextGrad is a framework building automatic differentiation by implementing backpropagation through text feedback provided by LLMs, strongly building on the gradient metaphor.  
    🔗 [textgrad.com](http://textgrad.com/)  
 
-222. <a href="https://github.com/luodian/otter">luodian/</a><b><a href="https://github.com/luodian/otter">Otter</a></b> ⭐ 3,286    
+226. <a href="https://github.com/luodian/otter">luodian/</a><b><a href="https://github.com/luodian/otter">Otter</a></b> ⭐ 3,286    
    🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.  
    🔗 [otter-ntu.github.io](https://otter-ntu.github.io/)  
 
-223. <a href="https://github.com/ruc-nlpir/flashrag">ruc-nlpir/</a><b><a href="https://github.com/ruc-nlpir/flashrag">FlashRAG</a></b> ⭐ 3,277    
+227. <a href="https://github.com/ruc-nlpir/flashrag">ruc-nlpir/</a><b><a href="https://github.com/ruc-nlpir/flashrag">FlashRAG</a></b> ⭐ 3,277    
    FlashRAG is a Python toolkit for the reproduction and development of RAG research. Our toolkit includes 36 pre-processed benchmark RAG datasets and 15 state-of-the-art RAG algorithms.  
    🔗 [arxiv.org/abs/2405.13576](https://arxiv.org/abs/2405.13576)  
 
-224. <a href="https://github.com/deepseek-ai/engram">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/engram">Engram</a></b> ⭐ 3,252    
+228. <a href="https://github.com/deepseek-ai/engram">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/engram">Engram</a></b> ⭐ 3,252    
    Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models.  
 
-225. <a href="https://github.com/googleapis/python-genai">googleapis/</a><b><a href="https://github.com/googleapis/python-genai">python-genai</a></b> ⭐ 3,251    
+229. <a href="https://github.com/googleapis/python-genai">googleapis/</a><b><a href="https://github.com/googleapis/python-genai">python-genai</a></b> ⭐ 3,251    
    Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.  
    🔗 [googleapis.github.io/python-genai](https://googleapis.github.io/python-genai/)  
 
-226. <a href="https://github.com/cohere-ai/cohere-toolkit">cohere-ai/</a><b><a href="https://github.com/cohere-ai/cohere-toolkit">cohere-toolkit</a></b> ⭐ 3,156    
+230. <a href="https://github.com/cohere-ai/cohere-toolkit">cohere-ai/</a><b><a href="https://github.com/cohere-ai/cohere-toolkit">cohere-toolkit</a></b> ⭐ 3,156    
    Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.  
 
-227. <a href="https://github.com/microsoft/torchscale">microsoft/</a><b><a href="https://github.com/microsoft/torchscale">torchscale</a></b> ⭐ 3,132    
+231. <a href="https://github.com/microsoft/torchscale">microsoft/</a><b><a href="https://github.com/microsoft/torchscale">torchscale</a></b> ⭐ 3,132    
    Foundation Architecture for (M)LLMs  
    🔗 [aka.ms/generalai](https://aka.ms/GeneralAI)  
 
-228. <a href="https://github.com/mistralai/mistral-finetune">mistralai/</a><b><a href="https://github.com/mistralai/mistral-finetune">mistral-finetune</a></b> ⭐ 3,068    
+232. <a href="https://github.com/mistralai/mistral-finetune">mistralai/</a><b><a href="https://github.com/mistralai/mistral-finetune">mistral-finetune</a></b> ⭐ 3,068    
    A light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models. It is based on LoRA.  
 
-229. <a href="https://github.com/argilla-io/distilabel">argilla-io/</a><b><a href="https://github.com/argilla-io/distilabel">distilabel</a></b> ⭐ 3,065    
+233. <a href="https://github.com/argilla-io/distilabel">argilla-io/</a><b><a href="https://github.com/argilla-io/distilabel">distilabel</a></b> ⭐ 3,065    
    Distilabel is the framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.  
    🔗 [distilabel.argilla.io](https://distilabel.argilla.io)  
 
-230. <a href="https://github.com/truera/trulens">truera/</a><b><a href="https://github.com/truera/trulens">trulens</a></b> ⭐ 3,057    
+234. <a href="https://github.com/truera/trulens">truera/</a><b><a href="https://github.com/truera/trulens">trulens</a></b> ⭐ 3,057    
    Evaluation and Tracking for LLM Experiments and AI Agents  
    🔗 [www.trulens.org](https://www.trulens.org/)  
 
-231. <a href="https://github.com/noahshinn/reflexion">noahshinn/</a><b><a href="https://github.com/noahshinn/reflexion">reflexion</a></b> ⭐ 3,042    
+235. <a href="https://github.com/noahshinn/reflexion">noahshinn/</a><b><a href="https://github.com/noahshinn/reflexion">reflexion</a></b> ⭐ 3,042    
    [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning  
 
-232. <a href="https://github.com/hegelai/prompttools">hegelai/</a><b><a href="https://github.com/hegelai/prompttools">prompttools</a></b> ⭐ 2,998    
+236. <a href="https://github.com/hegelai/prompttools">hegelai/</a><b><a href="https://github.com/hegelai/prompttools">prompttools</a></b> ⭐ 2,998    
    Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).  
    🔗 [prompttools.readthedocs.io](http://prompttools.readthedocs.io)  
 
-233. <a href="https://github.com/li-plus/chatglm.cpp">li-plus/</a><b><a href="https://github.com/li-plus/chatglm.cpp">chatglm.cpp</a></b> ⭐ 2,968    
+237. <a href="https://github.com/li-plus/chatglm.cpp">li-plus/</a><b><a href="https://github.com/li-plus/chatglm.cpp">chatglm.cpp</a></b> ⭐ 2,968    
    C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)  
 
-234. <a href="https://github.com/freedomintelligence/llmzoo">freedomintelligence/</a><b><a href="https://github.com/freedomintelligence/llmzoo">LLMZoo</a></b> ⭐ 2,951    
+238. <a href="https://github.com/freedomintelligence/llmzoo">freedomintelligence/</a><b><a href="https://github.com/freedomintelligence/llmzoo">LLMZoo</a></b> ⭐ 2,951    
    ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡  
 
-235. <a href="https://github.com/baichuan-inc/baichuan-13b">baichuan-inc/</a><b><a href="https://github.com/baichuan-inc/baichuan-13b">Baichuan-13B</a></b> ⭐ 2,950    
+239. <a href="https://github.com/baichuan-inc/baichuan-13b">baichuan-inc/</a><b><a href="https://github.com/baichuan-inc/baichuan-13b">Baichuan-13B</a></b> ⭐ 2,950    
    A 13B large language model developed by Baichuan Intelligent Technology  
    🔗 [huggingface.co/baichuan-inc/baichuan-13b-chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat)  
 
-236. <a href="https://github.com/eladlev/autoprompt">eladlev/</a><b><a href="https://github.com/eladlev/autoprompt">AutoPrompt</a></b> ⭐ 2,915    
+240. <a href="https://github.com/eladlev/autoprompt">eladlev/</a><b><a href="https://github.com/eladlev/autoprompt">AutoPrompt</a></b> ⭐ 2,915    
    A prompt optimization framework designed to enhance and perfect your prompts for real-world use cases  
 
-237. <a href="https://github.com/deepseek-ai/dualpipe">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/dualpipe">DualPipe</a></b> ⭐ 2,910    
+241. <a href="https://github.com/deepseek-ai/dualpipe">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/dualpipe">DualPipe</a></b> ⭐ 2,910    
    DualPipe is an innovative bidirectional pipeline parallelism algorithm introduced in the DeepSeek-V3 Technical Report.  
 
-238. <a href="https://github.com/alpha-vllm/llama2-accessory">alpha-vllm/</a><b><a href="https://github.com/alpha-vllm/llama2-accessory">LLaMA2-Accessory</a></b> ⭐ 2,801    
+242. <a href="https://github.com/alpha-vllm/llama2-accessory">alpha-vllm/</a><b><a href="https://github.com/alpha-vllm/llama2-accessory">LLaMA2-Accessory</a></b> ⭐ 2,801    
    An Open-source Toolkit for LLM Development  
    🔗 [llama2-accessory.readthedocs.io](https://llama2-accessory.readthedocs.io/)  
 
-239. <a href="https://github.com/juncongmoo/pyllama">juncongmoo/</a><b><a href="https://github.com/juncongmoo/pyllama">pyllama</a></b> ⭐ 2,799    
+243. <a href="https://github.com/juncongmoo/pyllama">juncongmoo/</a><b><a href="https://github.com/juncongmoo/pyllama">pyllama</a></b> ⭐ 2,799    
    LLaMA: Open and Efficient Foundation Language Models  
 
-240. <a href="https://github.com/janhq/cortex.cpp">janhq/</a><b><a href="https://github.com/janhq/cortex.cpp">cortex.cpp</a></b> ⭐ 2,761    
+244. <a href="https://github.com/janhq/cortex.cpp">janhq/</a><b><a href="https://github.com/janhq/cortex.cpp">cortex.cpp</a></b> ⭐ 2,761    
    Cortex is a Local AI API Platform that is used to run and customize LLMs.  
    🔗 [cortex.so](https://cortex.so)  
 
-241. <a href="https://github.com/langwatch/langwatch">langwatch/</a><b><a href="https://github.com/langwatch/langwatch">langwatch</a></b> ⭐ 2,742    
+245. <a href="https://github.com/simonw/files-to-prompt">simonw/</a><b><a href="https://github.com/simonw/files-to-prompt">files-to-prompt</a></b> ⭐ 2,744    
+   Concatenate a directory full of files into a single prompt for use with LLMs  
+
+246. <a href="https://github.com/langwatch/langwatch">langwatch/</a><b><a href="https://github.com/langwatch/langwatch">langwatch</a></b> ⭐ 2,742    
    LangWatch is an open platform for Observing, Evaluating and Optimizing your LLM and Agentic applications.  
    🔗 [langwatch.ai](https://langwatch.ai)  
 
-242. <a href="https://github.com/paperswithcode/galai">paperswithcode/</a><b><a href="https://github.com/paperswithcode/galai">galai</a></b> ⭐ 2,738    
+247. <a href="https://github.com/paperswithcode/galai">paperswithcode/</a><b><a href="https://github.com/paperswithcode/galai">galai</a></b> ⭐ 2,738    
    Model API for GALACTICA  
 
-243. <a href="https://github.com/roboflow/maestro">roboflow/</a><b><a href="https://github.com/roboflow/maestro">maestro</a></b> ⭐ 2,656    
+248. <a href="https://github.com/roboflow/maestro">roboflow/</a><b><a href="https://github.com/roboflow/maestro">maestro</a></b> ⭐ 2,656    
    streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL  
    🔗 [maestro.roboflow.com](https://maestro.roboflow.com)  
 
-244. <a href="https://github.com/vllm-project/llm-compressor">vllm-project/</a><b><a href="https://github.com/vllm-project/llm-compressor">llm-compressor</a></b> ⭐ 2,615    
+249. <a href="https://github.com/vllm-project/llm-compressor">vllm-project/</a><b><a href="https://github.com/vllm-project/llm-compressor">llm-compressor</a></b> ⭐ 2,615    
    Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM  
    🔗 [docs.vllm.ai/projects/llm-compressor](https://docs.vllm.ai/projects/llm-compressor)  
 
-245. <a href="https://github.com/spcl/graph-of-thoughts">spcl/</a><b><a href="https://github.com/spcl/graph-of-thoughts">graph-of-thoughts</a></b> ⭐ 2,587    
+250. <a href="https://github.com/cactus-compute/needle">cactus-compute/</a><b><a href="https://github.com/cactus-compute/needle">needle</a></b> ⭐ 2,590    
+   26m function call model that runs on incredibly small devices  
+   🔗 [cactuscompute.com](https://cactuscompute.com)  
+
+251. <a href="https://github.com/spcl/graph-of-thoughts">spcl/</a><b><a href="https://github.com/spcl/graph-of-thoughts">graph-of-thoughts</a></b> ⭐ 2,587    
    Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"  
    🔗 [arxiv.org/pdf/2308.09687.pdf](https://arxiv.org/pdf/2308.09687.pdf)  
 
-246. <a href="https://github.com/intel/neural-compressor">intel/</a><b><a href="https://github.com/intel/neural-compressor">neural-compressor</a></b> ⭐ 2,573    
+252. <a href="https://github.com/intel/neural-compressor">intel/</a><b><a href="https://github.com/intel/neural-compressor">neural-compressor</a></b> ⭐ 2,573    
    SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime  
    🔗 [intel.github.io/neural-compressor](https://intel.github.io/neural-compressor/)  
 
-247. <a href="https://github.com/ofa-sys/ofa">ofa-sys/</a><b><a href="https://github.com/ofa-sys/ofa">OFA</a></b> ⭐ 2,552    
+253. <a href="https://github.com/ofa-sys/ofa">ofa-sys/</a><b><a href="https://github.com/ofa-sys/ofa">OFA</a></b> ⭐ 2,552    
    Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework  
 
-248. <a href="https://github.com/young-geng/easylm">young-geng/</a><b><a href="https://github.com/young-geng/easylm">EasyLM</a></b> ⭐ 2,507    
+254. <a href="https://github.com/young-geng/easylm">young-geng/</a><b><a href="https://github.com/young-geng/easylm">EasyLM</a></b> ⭐ 2,507    
    Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.  
 
-249. <a href="https://github.com/huggingface/nanotron">huggingface/</a><b><a href="https://github.com/huggingface/nanotron">nanotron</a></b> ⭐ 2,479    
+255. <a href="https://github.com/huggingface/nanotron">huggingface/</a><b><a href="https://github.com/huggingface/nanotron">nanotron</a></b> ⭐ 2,479    
    Minimalistic large language model 3D-parallelism training  
 
-250. <a href="https://github.com/illuin-tech/colpali">illuin-tech/</a><b><a href="https://github.com/illuin-tech/colpali">colpali</a></b> ⭐ 2,468    
+256. <a href="https://github.com/illuin-tech/colpali">illuin-tech/</a><b><a href="https://github.com/illuin-tech/colpali">colpali</a></b> ⭐ 2,468    
    Code used for training the vision retrievers in the ColPali: Efficient Document Retrieval with Vision Language Models paper  
    🔗 [huggingface.co/vidore](https://huggingface.co/vidore)  
 
-251. <a href="https://github.com/protectai/llm-guard">protectai/</a><b><a href="https://github.com/protectai/llm-guard">llm-guard</a></b> ⭐ 2,442    
+257. <a href="https://github.com/protectai/llm-guard">protectai/</a><b><a href="https://github.com/protectai/llm-guard">llm-guard</a></b> ⭐ 2,442    
    Sanitization, detection of harmful language, prevention of data leakage, and resistance against prompt injection attacks for LLMs  
    🔗 [protectai.github.io/llm-guard](https://protectai.github.io/llm-guard/)  
 
-252. <a href="https://github.com/azure-samples/graphrag-accelerator">azure-samples/</a><b><a href="https://github.com/azure-samples/graphrag-accelerator">graphrag-accelerator</a></b> ⭐ 2,410    
+258. <a href="https://github.com/azure-samples/graphrag-accelerator">azure-samples/</a><b><a href="https://github.com/azure-samples/graphrag-accelerator">graphrag-accelerator</a></b> ⭐ 2,410    
    One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure  
    🔗 [github.com/microsoft/graphrag](https://github.com/microsoft/graphrag)  
 
-253. <a href="https://github.com/civitai/sd_civitai_extension">civitai/</a><b><a href="https://github.com/civitai/sd_civitai_extension">sd_civitai_extension</a></b> ⭐ 2,379    
+259. <a href="https://github.com/civitai/sd_civitai_extension">civitai/</a><b><a href="https://github.com/civitai/sd_civitai_extension">sd_civitai_extension</a></b> ⭐ 2,379    
    All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI  
 
-254. <a href="https://github.com/uptrain-ai/uptrain">uptrain-ai/</a><b><a href="https://github.com/uptrain-ai/uptrain">uptrain</a></b> ⭐ 2,338    
+260. <a href="https://github.com/uptrain-ai/uptrain">uptrain-ai/</a><b><a href="https://github.com/uptrain-ai/uptrain">uptrain</a></b> ⭐ 2,338    
    An open-source unified platform to evaluate and improve Generative AI applications. Provide grades for 20+ preconfigured evaluations (covering language, code, embedding use cases)  
    🔗 [uptrain.ai](https://uptrain.ai/)  
 
-255. <a href="https://github.com/facebookresearch/large_concept_model">facebookresearch/</a><b><a href="https://github.com/facebookresearch/large_concept_model">large_concept_model</a></b> ⭐ 2,330    
+261. <a href="https://github.com/facebookresearch/large_concept_model">facebookresearch/</a><b><a href="https://github.com/facebookresearch/large_concept_model">large_concept_model</a></b> ⭐ 2,330    
    Large Concept Models: Language modeling in a sentence representation space  
 
-256. <a href="https://github.com/akariasai/self-rag">akariasai/</a><b><a href="https://github.com/akariasai/self-rag">self-rag</a></b> ⭐ 2,307    
+262. <a href="https://github.com/akariasai/self-rag">akariasai/</a><b><a href="https://github.com/akariasai/self-rag">self-rag</a></b> ⭐ 2,307    
    This includes the original implementation of SELF-RAG: Learning to Retrieve, Generate and Critique through self-reflection by Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi.  
    🔗 [selfrag.github.io](https://selfrag.github.io/)  
 
-257. <a href="https://github.com/casper-hansen/autoawq">casper-hansen/</a><b><a href="https://github.com/casper-hansen/autoawq">AutoAWQ</a></b> ⭐ 2,307    
+263. <a href="https://github.com/casper-hansen/autoawq">casper-hansen/</a><b><a href="https://github.com/casper-hansen/autoawq">AutoAWQ</a></b> ⭐ 2,307    
    AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference. Documentation:  
    🔗 [casper-hansen.github.io/autoawq](https://casper-hansen.github.io/AutoAWQ/)  
 
-258. <a href="https://github.com/huggingface/lighteval">huggingface/</a><b><a href="https://github.com/huggingface/lighteval">lighteval</a></b> ⭐ 2,280    
+264. <a href="https://github.com/huggingface/lighteval">huggingface/</a><b><a href="https://github.com/huggingface/lighteval">lighteval</a></b> ⭐ 2,280    
    LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.  
    🔗 [huggingface.co/docs/lighteval/en/index](https://huggingface.co/docs/lighteval/en/index)  
 
-259. <a href="https://github.com/ist-daslab/gptq">ist-daslab/</a><b><a href="https://github.com/ist-daslab/gptq">gptq</a></b> ⭐ 2,247    
+265. <a href="https://github.com/ist-daslab/gptq">ist-daslab/</a><b><a href="https://github.com/ist-daslab/gptq">gptq</a></b> ⭐ 2,247    
    Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".  
    🔗 [arxiv.org/abs/2210.17323](https://arxiv.org/abs/2210.17323)  
 
-260. <a href="https://github.com/microsoft/megatron-deepspeed">microsoft/</a><b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b> ⭐ 2,220    
+266. <a href="https://github.com/microsoft/megatron-deepspeed">microsoft/</a><b><a href="https://github.com/microsoft/megatron-deepspeed">Megatron-DeepSpeed</a></b> ⭐ 2,220    
    Ongoing research training transformer language models at scale, including: BERT & GPT-2  
 
-261. <a href="https://github.com/gepa-ai/gepa">gepa-ai/</a><b><a href="https://github.com/gepa-ai/gepa">gepa</a></b> ⭐ 2,154    
+267. <a href="https://github.com/gepa-ai/gepa">gepa-ai/</a><b><a href="https://github.com/gepa-ai/gepa">gepa</a></b> ⭐ 2,154    
    GEPA (Genetic-Pareto) is a framework for optimizing arbitrary systems composed of text components—like AI prompts, code snippets, or textual specs—against any evaluation metric  
 
-262. <a href="https://github.com/epfllm/meditron">epfllm/</a><b><a href="https://github.com/epfllm/meditron">meditron</a></b> ⭐ 2,136    
+268. <a href="https://github.com/epfllm/meditron">epfllm/</a><b><a href="https://github.com/epfllm/meditron">meditron</a></b> ⭐ 2,136    
    Meditron is a suite of open-source medical Large Language Models (LLMs).  
    🔗 [huggingface.co/epfl-llm](https://huggingface.co/epfl-llm)  
 
-263. <a href="https://github.com/tairov/llama2.mojo">tairov/</a><b><a href="https://github.com/tairov/llama2.mojo">llama2.mojo</a></b> ⭐ 2,115    
+269. <a href="https://github.com/tairov/llama2.mojo">tairov/</a><b><a href="https://github.com/tairov/llama2.mojo">llama2.mojo</a></b> ⭐ 2,115    
    Inference Llama 2 in one file of pure 🔥  
    🔗 [www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov](https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov)  
 
-264. <a href="https://github.com/ai-hypercomputer/maxtext">ai-hypercomputer/</a><b><a href="https://github.com/ai-hypercomputer/maxtext">maxtext</a></b> ⭐ 2,106    
+270. <a href="https://github.com/ai-hypercomputer/maxtext">ai-hypercomputer/</a><b><a href="https://github.com/ai-hypercomputer/maxtext">maxtext</a></b> ⭐ 2,106    
    MaxText is a high performance, highly scalable, open-source LLM written in pure Python/Jax and targeting Google Cloud TPUs and GPUs for training and inference.  
    🔗 [maxtext.readthedocs.io](https://maxtext.readthedocs.io)  
 
-265. <a href="https://github.com/facebookresearch/chameleon">facebookresearch/</a><b><a href="https://github.com/facebookresearch/chameleon">chameleon</a></b> ⭐ 2,081    
+271. <a href="https://github.com/facebookresearch/chameleon">facebookresearch/</a><b><a href="https://github.com/facebookresearch/chameleon">chameleon</a></b> ⭐ 2,081    
    Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.  
    🔗 [arxiv.org/abs/2405.09818](https://arxiv.org/abs/2405.09818)  
 
-266. <a href="https://github.com/openai/image-gpt">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b> ⭐ 2,079    
+272. <a href="https://github.com/openai/image-gpt">openai/</a><b><a href="https://github.com/openai/image-gpt">image-gpt</a></b> ⭐ 2,079    
    Archived. Code and models from the paper "Generative Pretraining from Pixels"  
 
-267. <a href="https://github.com/lucidrains/toolformer-pytorch">lucidrains/</a><b><a href="https://github.com/lucidrains/toolformer-pytorch">toolformer-pytorch</a></b> ⭐ 2,057    
+273. <a href="https://github.com/lucidrains/toolformer-pytorch">lucidrains/</a><b><a href="https://github.com/lucidrains/toolformer-pytorch">toolformer-pytorch</a></b> ⭐ 2,057    
    Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI  
 
-268. <a href="https://github.com/google-gemini/genai-processors">google-gemini/</a><b><a href="https://github.com/google-gemini/genai-processors">genai-processors</a></b> ⭐ 2,043    
+274. <a href="https://github.com/google-gemini/genai-processors">google-gemini/</a><b><a href="https://github.com/google-gemini/genai-processors">genai-processors</a></b> ⭐ 2,043    
    GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.  
 
-269. <a href="https://github.com/huggingface/picotron">huggingface/</a><b><a href="https://github.com/huggingface/picotron">picotron</a></b> ⭐ 2,008    
+275. <a href="https://github.com/huggingface/picotron">huggingface/</a><b><a href="https://github.com/huggingface/picotron">picotron</a></b> ⭐ 2,008    
    Minimalist & most-hackable repository for pre-training Llama-like models with 4D Parallelism (Data, Tensor, Pipeline, Context parallel)  
 
-270. <a href="https://github.com/neulab/prompt2model">neulab/</a><b><a href="https://github.com/neulab/prompt2model">prompt2model</a></b> ⭐ 2,006    
+276. <a href="https://github.com/neulab/prompt2model">neulab/</a><b><a href="https://github.com/neulab/prompt2model">prompt2model</a></b> ⭐ 2,006    
    A system that takes a natural language task description to train a small special-purpose model that is conducive for deployment.  
 
-271. <a href="https://github.com/minishlab/model2vec">minishlab/</a><b><a href="https://github.com/minishlab/model2vec">model2vec</a></b> ⭐ 1,988    
+277. <a href="https://github.com/minishlab/model2vec">minishlab/</a><b><a href="https://github.com/minishlab/model2vec">model2vec</a></b> ⭐ 1,988    
    Model2Vec is a technique to turn any sentence transformer into a really small static model, reducing model size by 15x and making the models up to 500x faster, with a small drop in performance  
    🔗 [minish.ai/packages/model2vec](https://minish.ai/packages/model2vec)  
 
-272. <a href="https://github.com/noamgat/lm-format-enforcer">noamgat/</a><b><a href="https://github.com/noamgat/lm-format-enforcer">lm-format-enforcer</a></b> ⭐ 1,979    
+278. <a href="https://github.com/noamgat/lm-format-enforcer">noamgat/</a><b><a href="https://github.com/noamgat/lm-format-enforcer">lm-format-enforcer</a></b> ⭐ 1,979    
    Enforce the output format (JSON Schema, Regex etc) of a language model  
 
-273. <a href="https://github.com/agentops-ai/tokencost">agentops-ai/</a><b><a href="https://github.com/agentops-ai/tokencost">tokencost</a></b> ⭐ 1,914    
+279. <a href="https://github.com/agentops-ai/tokencost">agentops-ai/</a><b><a href="https://github.com/agentops-ai/tokencost">tokencost</a></b> ⭐ 1,914    
    Easy token price estimates for 400+ LLMs. TokenOps.  
    🔗 [agentops.ai](https://agentops.ai)  
 
-274. <a href="https://github.com/aiming-lab/simplemem">aiming-lab/</a><b><a href="https://github.com/aiming-lab/simplemem">SimpleMem</a></b> ⭐ 1,871    
+280. <a href="https://github.com/aiming-lab/simplemem">aiming-lab/</a><b><a href="https://github.com/aiming-lab/simplemem">SimpleMem</a></b> ⭐ 1,871    
    SimpleMem addresses the fundamental challenge of efficient long-term memory for LLM agents through a three-stage pipeline grounded in Semantic Lossless Compression.  
 
-275. <a href="https://github.com/qwenlm/qwen-audio">qwenlm/</a><b><a href="https://github.com/qwenlm/qwen-audio">Qwen-Audio</a></b> ⭐ 1,865    
+281. <a href="https://github.com/qwenlm/qwen-audio">qwenlm/</a><b><a href="https://github.com/qwenlm/qwen-audio">Qwen-Audio</a></b> ⭐ 1,865    
    The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud.  
 
-276. <a href="https://github.com/ray-project/llm-applications">ray-project/</a><b><a href="https://github.com/ray-project/llm-applications">llm-applications</a></b> ⭐ 1,844    
+282. <a href="https://github.com/ray-project/llm-applications">ray-project/</a><b><a href="https://github.com/ray-project/llm-applications">llm-applications</a></b> ⭐ 1,844    
    A comprehensive guide to building RAG-based LLM applications for production.  
 
-277. <a href="https://github.com/openai/gpt-discord-bot">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b> ⭐ 1,831    
+283. <a href="https://github.com/openai/gpt-discord-bot">openai/</a><b><a href="https://github.com/openai/gpt-discord-bot">gpt-discord-bot</a></b> ⭐ 1,831    
    Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.  
 
-278. <a href="https://github.com/jennyzzt/dgm">jennyzzt/</a><b><a href="https://github.com/jennyzzt/dgm">dgm</a></b> ⭐ 1,800    
-   Self-improving system that iteratively modifies its own code and empirically validates each change  
-
-279. <a href="https://github.com/1rgs/nanocode">1rgs/</a><b><a href="https://github.com/1rgs/nanocode">nanocode</a></b> ⭐ 1,669    
+284. <a href="https://github.com/1rgs/nanocode">1rgs/</a><b><a href="https://github.com/1rgs/nanocode">nanocode</a></b> ⭐ 1,669    
    Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.  
 
-280. <a href="https://github.com/alexzhang13/rlm">alexzhang13/</a><b><a href="https://github.com/alexzhang13/rlm">rlm</a></b> ⭐ 1,668    
+285. <a href="https://github.com/alexzhang13/rlm">alexzhang13/</a><b><a href="https://github.com/alexzhang13/rlm">rlm</a></b> ⭐ 1,668    
    Recursive Language Models (RLMs) are a task-agnostic inference paradigm for language models (LMs) to handle near-infinite length contexts  
    🔗 [arxiv.org/abs/2512.24601v1](https://arxiv.org/abs/2512.24601v1)  
 
-281. <a href="https://github.com/meetkai/functionary">meetkai/</a><b><a href="https://github.com/meetkai/functionary">functionary</a></b> ⭐ 1,592    
+286. <a href="https://github.com/meetkai/functionary">meetkai/</a><b><a href="https://github.com/meetkai/functionary">functionary</a></b> ⭐ 1,592    
    Chat language model that can use tools and interpret the results  
 
-282. <a href="https://github.com/answerdotai/rerankers">answerdotai/</a><b><a href="https://github.com/answerdotai/rerankers">rerankers</a></b> ⭐ 1,590    
+287. <a href="https://github.com/answerdotai/rerankers">answerdotai/</a><b><a href="https://github.com/answerdotai/rerankers">rerankers</a></b> ⭐ 1,590    
    Welcome to rerankers! Our goal is to provide users with a simple API to use any reranking models.  
 
-283. <a href="https://github.com/jina-ai/thinkgpt">jina-ai/</a><b><a href="https://github.com/jina-ai/thinkgpt">thinkgpt</a></b> ⭐ 1,583    
+288. <a href="https://github.com/jina-ai/thinkgpt">jina-ai/</a><b><a href="https://github.com/jina-ai/thinkgpt">thinkgpt</a></b> ⭐ 1,583    
    Agent techniques to augment your LLM and push it beyong its limits  
 
-284. <a href="https://github.com/leochlon/hallbayes">leochlon/</a><b><a href="https://github.com/leochlon/hallbayes">pythea</a></b> ⭐ 1,578    
+289. <a href="https://github.com/leochlon/hallbayes">leochlon/</a><b><a href="https://github.com/leochlon/hallbayes">pythea</a></b> ⭐ 1,578    
    Hallucination Risk Calculator & Prompt Re-engineering Toolkit (OpenAI-only)  
 
-285. <a href="https://github.com/run-llama/semtools">run-llama/</a><b><a href="https://github.com/run-llama/semtools">semtools</a></b> ⭐ 1,563    
+290. <a href="https://github.com/run-llama/semtools">run-llama/</a><b><a href="https://github.com/run-llama/semtools">semtools</a></b> ⭐ 1,563    
    Semantic search and document parsing tools for the command line  
 
-286. <a href="https://github.com/chatarena/chatarena">chatarena/</a><b><a href="https://github.com/chatarena/chatarena">chatarena</a></b> ⭐ 1,529    
+291. <a href="https://github.com/0xsero/turboquant">0xsero/</a><b><a href="https://github.com/0xsero/turboquant">turboquant</a></b> ⭐ 1,543    
+   TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration  
+
+292. <a href="https://github.com/chatarena/chatarena">chatarena/</a><b><a href="https://github.com/chatarena/chatarena">chatarena</a></b> ⭐ 1,529    
    ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.  
 
-287. <a href="https://github.com/nirdiamant/controllable-rag-agent">nirdiamant/</a><b><a href="https://github.com/nirdiamant/controllable-rag-agent">Controllable-RAG-Agent</a></b> ⭐ 1,529    
+293. <a href="https://github.com/nirdiamant/controllable-rag-agent">nirdiamant/</a><b><a href="https://github.com/nirdiamant/controllable-rag-agent">Controllable-RAG-Agent</a></b> ⭐ 1,529    
    An advanced Retrieval-Augmented Generation (RAG) solution designed to tackle complex questions that simple semantic similarity-based retrieval cannot solve  
 
-288. <a href="https://github.com/run-llama/llama-lab">run-llama/</a><b><a href="https://github.com/run-llama/llama-lab">llama-lab</a></b> ⭐ 1,514    
+294. <a href="https://github.com/run-llama/llama-lab">run-llama/</a><b><a href="https://github.com/run-llama/llama-lab">llama-lab</a></b> ⭐ 1,514    
    Llama Lab is a repo dedicated to building cutting-edge projects using LlamaIndex  
 
-289. <a href="https://github.com/mlc-ai/xgrammar">mlc-ai/</a><b><a href="https://github.com/mlc-ai/xgrammar">xgrammar</a></b> ⭐ 1,502    
+295. <a href="https://github.com/mlc-ai/xgrammar">mlc-ai/</a><b><a href="https://github.com/mlc-ai/xgrammar">xgrammar</a></b> ⭐ 1,502    
    XGrammar is an open-source library for efficient, flexible, and portable structured generation. It supports general context-free grammar to enable a broad range of structures while bringing careful system optimizations to enable fast executions.  
    🔗 [xgrammar.mlc.ai/docs](https://xgrammar.mlc.ai/docs)  
 
-290. <a href="https://github.com/cstankonrad/long_llama">cstankonrad/</a><b><a href="https://github.com/cstankonrad/long_llama">long_llama</a></b> ⭐ 1,463    
+296. <a href="https://github.com/cstankonrad/long_llama">cstankonrad/</a><b><a href="https://github.com/cstankonrad/long_llama">long_llama</a></b> ⭐ 1,463    
    LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.  
 
-291. <a href="https://github.com/farizrahman4u/loopgpt">farizrahman4u/</a><b><a href="https://github.com/farizrahman4u/loopgpt">loopgpt</a></b> ⭐ 1,459    
+297. <a href="https://github.com/farizrahman4u/loopgpt">farizrahman4u/</a><b><a href="https://github.com/farizrahman4u/loopgpt">loopgpt</a></b> ⭐ 1,459    
    Re-implementation of Auto-GPT as a python package, written with modularity and extensibility in mind.  
 
-292. <a href="https://github.com/sumandora/remove-refusals-with-transformers">sumandora/</a><b><a href="https://github.com/sumandora/remove-refusals-with-transformers">remove-refusals-with-transformers</a></b> ⭐ 1,445    
+298. <a href="https://github.com/sumandora/remove-refusals-with-transformers">sumandora/</a><b><a href="https://github.com/sumandora/remove-refusals-with-transformers">remove-refusals-with-transformers</a></b> ⭐ 1,445    
    A proof-of-concept implementation to remove refusals from an LLM model without using TransformerLens  
 
-293. <a href="https://github.com/mlfoundations/dclm">mlfoundations/</a><b><a href="https://github.com/mlfoundations/dclm">dclm</a></b> ⭐ 1,409    
+299. <a href="https://github.com/mlfoundations/dclm">mlfoundations/</a><b><a href="https://github.com/mlfoundations/dclm">dclm</a></b> ⭐ 1,409    
    DataComp for Language Models  
 
-294. <a href="https://github.com/facebookresearch/mobilellm">facebookresearch/</a><b><a href="https://github.com/facebookresearch/mobilellm">MobileLLM</a></b> ⭐ 1,405    
+300. <a href="https://github.com/facebookresearch/mobilellm">facebookresearch/</a><b><a href="https://github.com/facebookresearch/mobilellm">MobileLLM</a></b> ⭐ 1,405    
    Training code of MobileLLM introduced in our work: "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases"  
 
-295. <a href="https://github.com/protectai/rebuff">protectai/</a><b><a href="https://github.com/protectai/rebuff">rebuff</a></b> ⭐ 1,399    
+301. <a href="https://github.com/protectai/rebuff">protectai/</a><b><a href="https://github.com/protectai/rebuff">rebuff</a></b> ⭐ 1,399    
    Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense  
    🔗 [playground.rebuff.ai](https://playground.rebuff.ai)  
 
-296. <a href="https://github.com/explosion/spacy-llm">explosion/</a><b><a href="https://github.com/explosion/spacy-llm">spacy-llm</a></b> ⭐ 1,361    
+302. <a href="https://github.com/explosion/spacy-llm">explosion/</a><b><a href="https://github.com/explosion/spacy-llm">spacy-llm</a></b> ⭐ 1,361    
    🦙 Integrating LLMs into structured NLP pipelines  
    🔗 [spacy.io/usage/large-language-models](https://spacy.io/usage/large-language-models)  
 
-297. <a href="https://github.com/deepseek-ai/eplb">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/eplb">EPLB</a></b> ⭐ 1,336    
+303. <a href="https://github.com/deepseek-ai/eplb">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/eplb">EPLB</a></b> ⭐ 1,336    
    Expert Parallelism Load Balancer across GPUs  
 
-298. <a href="https://github.com/keirp/automatic_prompt_engineer">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b> ⭐ 1,336    
+304. <a href="https://github.com/keirp/automatic_prompt_engineer">keirp/</a><b><a href="https://github.com/keirp/automatic_prompt_engineer">automatic_prompt_engineer</a></b> ⭐ 1,336    
    This repo contains code for the paper "Large Language Models Are Human-Level Prompt Engineers"  
 
-299. <a href="https://github.com/hao-ai-lab/lookaheaddecoding">hao-ai-lab/</a><b><a href="https://github.com/hao-ai-lab/lookaheaddecoding">LookaheadDecoding</a></b> ⭐ 1,315    
+305. <a href="https://github.com/hao-ai-lab/lookaheaddecoding">hao-ai-lab/</a><b><a href="https://github.com/hao-ai-lab/lookaheaddecoding">LookaheadDecoding</a></b> ⭐ 1,315    
    Break the Sequential Dependency of LLM Inference Using Lookahead Decoding  
    🔗 [arxiv.org/abs/2402.02057](https://arxiv.org/abs/2402.02057)  
 
-300. <a href="https://github.com/centerforaisafety/hle">centerforaisafety/</a><b><a href="https://github.com/centerforaisafety/hle">hle</a></b> ⭐ 1,312    
+306. <a href="https://github.com/centerforaisafety/hle">centerforaisafety/</a><b><a href="https://github.com/centerforaisafety/hle">hle</a></b> ⭐ 1,312    
    Humanity's Last Exam (HLE) is a multi-modal benchmark at the frontier of human knowledge, designed to be the final closed-ended academic benchmark of its kind with broad subject coverage  
    🔗 [lastexam.ai](https://lastexam.ai)  
 
-301. <a href="https://github.com/ray-project/ray-llm">ray-project/</a><b><a href="https://github.com/ray-project/ray-llm">ray-llm</a></b> ⭐ 1,264    
+307. <a href="https://github.com/vllm-project/vllm-metal">vllm-project/</a><b><a href="https://github.com/vllm-project/vllm-metal">vllm-metal</a></b> ⭐ 1,310    
+   Community maintained hardware plugin for vLLM on Apple Silicon  
+
+308. <a href="https://github.com/arahim3/mlx-tune">arahim3/</a><b><a href="https://github.com/arahim3/mlx-tune">mlx-tune</a></b> ⭐ 1,296    
+   Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.  
+   🔗 [arahim3.github.io/mlx-tune](https://arahim3.github.io/mlx-tune/)  
+
+309. <a href="https://github.com/ray-project/ray-llm">ray-project/</a><b><a href="https://github.com/ray-project/ray-llm">ray-llm</a></b> ⭐ 1,264    
    RayLLM - LLMs on Ray (Archived). Read README for more info.  
    🔗 [docs.ray.io/en/latest](https://docs.ray.io/en/latest/)  
 
-302. <a href="https://github.com/srush/minichain">srush/</a><b><a href="https://github.com/srush/minichain">MiniChain</a></b> ⭐ 1,235    
+310. <a href="https://github.com/srush/minichain">srush/</a><b><a href="https://github.com/srush/minichain">MiniChain</a></b> ⭐ 1,235    
    A tiny library for coding with large language models.  
    🔗 [srush-minichain.hf.space](https://srush-minichain.hf.space/)  
 
-303. <a href="https://github.com/nousresearch/hermes-function-calling">nousresearch/</a><b><a href="https://github.com/nousresearch/hermes-function-calling">Hermes-Function-Calling</a></b> ⭐ 1,188    
+311. <a href="https://github.com/nousresearch/hermes-function-calling">nousresearch/</a><b><a href="https://github.com/nousresearch/hermes-function-calling">Hermes-Function-Calling</a></b> ⭐ 1,188    
    Code for the Hermes Pro Large Language Model to perform function calling based on the provided schema. It allows users to query the model and retrieve information related to stock prices, company fundamentals, financial statements  
 
-304. <a href="https://github.com/cagostino/npcsh">cagostino/</a><b><a href="https://github.com/cagostino/npcsh">npcpy</a></b> ⭐ 1,177    
+312. <a href="https://github.com/cagostino/npcsh">cagostino/</a><b><a href="https://github.com/cagostino/npcsh">npcpy</a></b> ⭐ 1,177    
    This repo leverages the power of LLMs to understand your natural language commands and questions, executing tasks, answering queries, and providing relevant information from local files and the web.  
 
-305. <a href="https://github.com/cyberark/fuzzyai">cyberark/</a><b><a href="https://github.com/cyberark/fuzzyai">FuzzyAI</a></b> ⭐ 1,155    
+313. <a href="https://github.com/cyberark/fuzzyai">cyberark/</a><b><a href="https://github.com/cyberark/fuzzyai">FuzzyAI</a></b> ⭐ 1,155    
    A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.  
 
-306. <a href="https://github.com/ibm/dromedary">ibm/</a><b><a href="https://github.com/ibm/dromedary">Dromedary</a></b> ⭐ 1,144    
+314. <a href="https://github.com/ibm/dromedary">ibm/</a><b><a href="https://github.com/ibm/dromedary">Dromedary</a></b> ⭐ 1,144    
    Dromedary: towards helpful, ethical and reliable LLMs.  
 
-307. <a href="https://github.com/lupantech/chameleon-llm">lupantech/</a><b><a href="https://github.com/lupantech/chameleon-llm">chameleon-llm</a></b> ⭐ 1,139    
+315. <a href="https://github.com/lupantech/chameleon-llm">lupantech/</a><b><a href="https://github.com/lupantech/chameleon-llm">chameleon-llm</a></b> ⭐ 1,139    
    Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".  
    🔗 [chameleon-llm.github.io](https://chameleon-llm.github.io)  
 
-308. <a href="https://github.com/safety-research/bloom">safety-research/</a><b><a href="https://github.com/safety-research/bloom">bloom</a></b> ⭐ 1,132    
+316. <a href="https://github.com/safety-research/bloom">safety-research/</a><b><a href="https://github.com/safety-research/bloom">bloom</a></b> ⭐ 1,132    
    Bloom generates evaluation suites that probe LLMs for specific behaviors (sycophancy, self-preservation, political bias, etc.)  
 
-309. <a href="https://github.com/utkusen/promptmap">utkusen/</a><b><a href="https://github.com/utkusen/promptmap">promptmap</a></b> ⭐ 1,098    
+317. <a href="https://github.com/utkusen/promptmap">utkusen/</a><b><a href="https://github.com/utkusen/promptmap">promptmap</a></b> ⭐ 1,098    
    Vulnerability scanning tool that automatically tests prompt injection attacks on your LLM applications. It analyzes your LLM system prompts, runs them, and sends attack prompts to them.  
 
-310. <a href="https://github.com/rlancemartin/auto-evaluator">rlancemartin/</a><b><a href="https://github.com/rlancemartin/auto-evaluator">auto-evaluator</a></b> ⭐ 1,091    
+318. <a href="https://github.com/rlancemartin/auto-evaluator">rlancemartin/</a><b><a href="https://github.com/rlancemartin/auto-evaluator">auto-evaluator</a></b> ⭐ 1,091    
    Evaluation tool for LLM QA chains  
    🔗 [autoevaluator.langchain.com](https://autoevaluator.langchain.com/)  
 
-311. <a href="https://github.com/datadreamer-dev/datadreamer">datadreamer-dev/</a><b><a href="https://github.com/datadreamer-dev/datadreamer">DataDreamer</a></b> ⭐ 1,088    
+319. <a href="https://github.com/datadreamer-dev/datadreamer">datadreamer-dev/</a><b><a href="https://github.com/datadreamer-dev/datadreamer">DataDreamer</a></b> ⭐ 1,088    
    DataDreamer is a powerful open-source Python library for prompting, synthetic data generation, and training workflows. It is designed to be simple, extremely efficient, and research-grade.  
    🔗 [datadreamer.dev](https://datadreamer.dev)  
 
-312. <a href="https://github.com/ctlllll/llm-toolmaker">ctlllll/</a><b><a href="https://github.com/ctlllll/llm-toolmaker">LLM-ToolMaker</a></b> ⭐ 1,056    
+320. <a href="https://github.com/ctlllll/llm-toolmaker">ctlllll/</a><b><a href="https://github.com/ctlllll/llm-toolmaker">LLM-ToolMaker</a></b> ⭐ 1,056    
    Large Language Models as Tool Makers  
 
-313. <a href="https://github.com/wandb/weave">wandb/</a><b><a href="https://github.com/wandb/weave">weave</a></b> ⭐ 1,047    
+321. <a href="https://github.com/wandb/weave">wandb/</a><b><a href="https://github.com/wandb/weave">weave</a></b> ⭐ 1,047    
    Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.  
    🔗 [wandb.me/weave](https://wandb.me/weave)  
 
-314. <a href="https://github.com/prometheus-eval/prometheus-eval">prometheus-eval/</a><b><a href="https://github.com/prometheus-eval/prometheus-eval">prometheus-eval</a></b> ⭐ 1,032    
+322. <a href="https://github.com/prometheus-eval/prometheus-eval">prometheus-eval/</a><b><a href="https://github.com/prometheus-eval/prometheus-eval">prometheus-eval</a></b> ⭐ 1,032    
    Evaluate your LLM's response with Prometheus and GPT4 💯  
 
-315. <a href="https://github.com/pinecone-io/canopy">pinecone-io/</a><b><a href="https://github.com/pinecone-io/canopy">canopy</a></b> ⭐ 1,027    
+323. <a href="https://github.com/pinecone-io/canopy">pinecone-io/</a><b><a href="https://github.com/pinecone-io/canopy">canopy</a></b> ⭐ 1,027    
    Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone  
    🔗 [www.pinecone.io](https://www.pinecone.io/)  
 
-316. <a href="https://github.com/huggingface/optimum-nvidia">huggingface/</a><b><a href="https://github.com/huggingface/optimum-nvidia">optimum-nvidia</a></b> ⭐ 1,027    
+324. <a href="https://github.com/huggingface/optimum-nvidia">huggingface/</a><b><a href="https://github.com/huggingface/optimum-nvidia">optimum-nvidia</a></b> ⭐ 1,027    
    Optimum-NVIDIA delivers the best inference performance on the NVIDIA platform through Hugging Face. Run LLaMA 2 at 1,200 tokens/second (up to 28x faster than the framework)  
 
-317. <a href="https://github.com/microsoft/llama-2-onnx">microsoft/</a><b><a href="https://github.com/microsoft/llama-2-onnx">Llama-2-Onnx</a></b> ⭐ 1,026    
+325. <a href="https://github.com/microsoft/llama-2-onnx">microsoft/</a><b><a href="https://github.com/microsoft/llama-2-onnx">Llama-2-Onnx</a></b> ⭐ 1,026    
    A Microsoft optimized version of the Llama 2 model, available from Meta  
 
-318. <a href="https://github.com/nomic-ai/pygpt4all">nomic-ai/</a><b><a href="https://github.com/nomic-ai/pygpt4all">pygpt4all</a></b> ⭐ 1,016    
+326. <a href="https://github.com/nomic-ai/pygpt4all">nomic-ai/</a><b><a href="https://github.com/nomic-ai/pygpt4all">pygpt4all</a></b> ⭐ 1,016    
    Official supported Python bindings for llama.cpp + gpt4all  
    🔗 [nomic-ai.github.io/pygpt4all](https://nomic-ai.github.io/pygpt4all/)  
 
-319. <a href="https://github.com/langchain-ai/langsmith-cookbook">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langsmith-cookbook">langsmith-cookbook</a></b> ⭐ 997    
+327. <a href="https://github.com/langchain-ai/langsmith-cookbook">langchain-ai/</a><b><a href="https://github.com/langchain-ai/langsmith-cookbook">langsmith-cookbook</a></b> ⭐ 997    
    LangSmith is a platform for building production-grade LLM applications.  
    🔗 [langsmith-cookbook.vercel.app](https://langsmith-cookbook.vercel.app)  
 
-320. <a href="https://github.com/ajndkr/lanarky">ajndkr/</a><b><a href="https://github.com/ajndkr/lanarky">lanarky</a></b> ⭐ 995    
-   The web framework for building LLM microservices [deprecated]  
-   🔗 [lanarky.ajndkr.com](https://lanarky.ajndkr.com/)  
-
-321. <a href="https://github.com/likejazz/llama3.np">likejazz/</a><b><a href="https://github.com/likejazz/llama3.np">llama3.np</a></b> ⭐ 992    
+328. <a href="https://github.com/likejazz/llama3.np">likejazz/</a><b><a href="https://github.com/likejazz/llama3.np">llama3.np</a></b> ⭐ 992    
    llama3.np is a pure NumPy implementation for Llama 3 model.  
 
-322. <a href="https://github.com/thinking-machines-lab/batch_invariant_ops">thinking-machines-lab/</a><b><a href="https://github.com/thinking-machines-lab/batch_invariant_ops">batch_invariant_ops</a></b> ⭐ 951    
+329. <a href="https://github.com/thinking-machines-lab/batch_invariant_ops">thinking-machines-lab/</a><b><a href="https://github.com/thinking-machines-lab/batch_invariant_ops">batch_invariant_ops</a></b> ⭐ 951    
    Defeating Nondeterminism in LLM Inference: fixing floating-point non-associativity  
 
-323. <a href="https://github.com/soulter/hugging-chat-api">soulter/</a><b><a href="https://github.com/soulter/hugging-chat-api">hugging-chat-api</a></b> ⭐ 936    
-   HuggingChat Python API🤗  
-
-324. <a href="https://github.com/opengvlab/omniquant">opengvlab/</a><b><a href="https://github.com/opengvlab/omniquant">OmniQuant</a></b> ⭐ 886    
+330. <a href="https://github.com/opengvlab/omniquant">opengvlab/</a><b><a href="https://github.com/opengvlab/omniquant">OmniQuant</a></b> ⭐ 886    
    [ICLR2024 spotlight] OmniQuant is a simple and powerful quantization technique for LLMs.   
 
-325. <a href="https://github.com/salesforceairesearch/promptomatix">salesforceairesearch/</a><b><a href="https://github.com/salesforceairesearch/promptomatix">promptomatix</a></b> ⭐ 878    
+331. <a href="https://github.com/salesforceairesearch/promptomatix">salesforceairesearch/</a><b><a href="https://github.com/salesforceairesearch/promptomatix">promptomatix</a></b> ⭐ 878    
    An Automatic Prompt Optimization Framework. Structured approach to prompt optimization, ensuring consistency, cost-effectiveness, and high-quality outputs  
 
-326. <a href="https://github.com/bytedtsinghua-sia/memagent">bytedtsinghua-sia/</a><b><a href="https://github.com/bytedtsinghua-sia/memagent">MemAgent</a></b> ⭐ 871    
+332. <a href="https://github.com/bytedtsinghua-sia/memagent">bytedtsinghua-sia/</a><b><a href="https://github.com/bytedtsinghua-sia/memagent">MemAgent</a></b> ⭐ 871    
    A MemAgent framework that can be extrapolated to 3.5M, along with a training framework for RL training of any agent workflow.  
 
-327. <a href="https://github.com/safety-research/petri">safety-research/</a><b><a href="https://github.com/safety-research/petri">petri</a></b> ⭐ 847    
+333. <a href="https://github.com/safety-research/petri">safety-research/</a><b><a href="https://github.com/safety-research/petri">petri</a></b> ⭐ 847    
    Autonomously crafts environments, runs multi‑turn audits against a target model using human‑like messages and simulated tools, and then scores transcripts  
    🔗 [safety-research.github.io/petri](https://safety-research.github.io/petri/)  
 
-328. <a href="https://github.com/facebookresearch/cwm">facebookresearch/</a><b><a href="https://github.com/facebookresearch/cwm">cwm</a></b> ⭐ 804    
+334. <a href="https://github.com/facebookresearch/cwm">facebookresearch/</a><b><a href="https://github.com/facebookresearch/cwm">cwm</a></b> ⭐ 804    
    Code World Model (CWM) is a 32-billion-parameter open-weights LLM, to advance research on code generation with world models.  
 
-329. <a href="https://github.com/tag-research/tag-bench">tag-research/</a><b><a href="https://github.com/tag-research/tag-bench">TAG-Bench</a></b> ⭐ 766    
+335. <a href="https://github.com/kitft/natural_language_autoencoders">kitft/</a><b><a href="https://github.com/kitft/natural_language_autoencoders">natural_language_autoencoders</a></b> ⭐ 781    
+   Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations  
+
+336. <a href="https://github.com/tag-research/tag-bench">tag-research/</a><b><a href="https://github.com/tag-research/tag-bench">TAG-Bench</a></b> ⭐ 766    
    Table-Augmented Generation (TAG) is a unified and general-purpose paradigm for answering natural language questions over databases  
    🔗 [arxiv.org/pdf/2408.14717](https://arxiv.org/pdf/2408.14717)  
 
-330. <a href="https://github.com/meta-llama/prompt-ops">meta-llama/</a><b><a href="https://github.com/meta-llama/prompt-ops">prompt-ops</a></b> ⭐ 752    
+337. <a href="https://github.com/meta-llama/prompt-ops">meta-llama/</a><b><a href="https://github.com/meta-llama/prompt-ops">prompt-ops</a></b> ⭐ 752    
    PDO (Prompt Duel Optimizer) - an efficient label-free prompt optimization method using dueling bandits and Thompson sampling  
 
-331. <a href="https://github.com/developersdigest/llm-api-engine">developersdigest/</a><b><a href="https://github.com/developersdigest/llm-api-engine">llm-api-engine</a></b> ⭐ 750    
+338. <a href="https://github.com/developersdigest/llm-api-engine">developersdigest/</a><b><a href="https://github.com/developersdigest/llm-api-engine">llm-api-engine</a></b> ⭐ 750    
    Build and deploy AI-powered APIs in seconds. This project allows you to create custom APIs that extract structured data from websites using natural language descriptions, powered by LLMs and web scraping technology.  
    🔗 [www.youtube.com/watch?v=8kuek1bo4mm](https://www.youtube.com/watch?v=8kUeK1Bo4mM)  
 
-332. <a href="https://github.com/microsoft/sammo">microsoft/</a><b><a href="https://github.com/microsoft/sammo">sammo</a></b> ⭐ 747    
+339. <a href="https://github.com/microsoft/sammo">microsoft/</a><b><a href="https://github.com/microsoft/sammo">sammo</a></b> ⭐ 747    
    A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)  
 
-333. <a href="https://github.com/metauto-ai/agent-as-a-judge">metauto-ai/</a><b><a href="https://github.com/metauto-ai/agent-as-a-judge">agent-as-a-judge</a></b> ⭐ 717    
+340. <a href="https://github.com/metauto-ai/agent-as-a-judge">metauto-ai/</a><b><a href="https://github.com/metauto-ai/agent-as-a-judge">agent-as-a-judge</a></b> ⭐ 717    
    👩‍⚖️ Agent-as-a-Judge: The Magic for Open-Endedness  
    🔗 [arxiv.org/pdf/2410.10934](https://arxiv.org/pdf/2410.10934)  
 
-334. <a href="https://github.com/microsoft/vptq">microsoft/</a><b><a href="https://github.com/microsoft/vptq">VPTQ</a></b> ⭐ 674    
+341. <a href="https://github.com/microsoft/vptq">microsoft/</a><b><a href="https://github.com/microsoft/vptq">VPTQ</a></b> ⭐ 674    
    Extreme Low-bit Vector Post-Training Quantization for Large Language Models  
 
-335. <a href="https://github.com/modal-labs/llm-finetuning">modal-labs/</a><b><a href="https://github.com/modal-labs/llm-finetuning">llm-finetuning</a></b> ⭐ 647    
+342. <a href="https://github.com/modal-labs/llm-finetuning">modal-labs/</a><b><a href="https://github.com/modal-labs/llm-finetuning">llm-finetuning</a></b> ⭐ 647    
    Guide for fine-tuning Llama/Mistral/CodeLlama models and more  
 
-336. <a href="https://github.com/qixucen/atom">qixucen/</a><b><a href="https://github.com/qixucen/atom">atom</a></b> ⭐ 637    
+343. <a href="https://github.com/qixucen/atom">qixucen/</a><b><a href="https://github.com/qixucen/atom">atom</a></b> ⭐ 637    
    Atom of Thoughts (AoT) is a new reasoning framework that represents the solution as a composition of atomic questions. This approach transforms the reasoning process into a Markov process with atomic states  
 
-337. <a href="https://github.com/judahpaul16/gpt-home">judahpaul16/</a><b><a href="https://github.com/judahpaul16/gpt-home">gpt-home</a></b> ⭐ 633    
+344. <a href="https://github.com/judahpaul16/gpt-home">judahpaul16/</a><b><a href="https://github.com/judahpaul16/gpt-home">gpt-home</a></b> ⭐ 633    
    ChatGPT at home! A better alternative to commercial smart home assistants, built on the Raspberry Pi using LiteLLM and LangGraph.  
    🔗 [hub.docker.com/r/judahpaul/gpt-home](https://hub.docker.com/r/judahpaul/gpt-home)  
 
-338. <a href="https://github.com/huggingface/text-clustering">huggingface/</a><b><a href="https://github.com/huggingface/text-clustering">text-clustering</a></b> ⭐ 592    
+345. <a href="https://github.com/huggingface/text-clustering">huggingface/</a><b><a href="https://github.com/huggingface/text-clustering">text-clustering</a></b> ⭐ 592    
    Easily embed, cluster and semantically label text datasets  
 
-339. <a href="https://github.com/deepseek-ai/deepseek-prover-v1.5">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/deepseek-prover-v1.5">DeepSeek-Prover-V1.5</a></b> ⭐ 553    
+346. <a href="https://github.com/deepseek-ai/deepseek-prover-v1.5">deepseek-ai/</a><b><a href="https://github.com/deepseek-ai/deepseek-prover-v1.5">DeepSeek-Prover-V1.5</a></b> ⭐ 553    
    DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search  
 
-340. <a href="https://github.com/continuum-llms/chatgpt-memory">continuum-llms/</a><b><a href="https://github.com/continuum-llms/chatgpt-memory">chatgpt-memory</a></b> ⭐ 535    
+347. <a href="https://github.com/continuum-llms/chatgpt-memory">continuum-llms/</a><b><a href="https://github.com/continuum-llms/chatgpt-memory">chatgpt-memory</a></b> ⭐ 535    
    Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.  
 
-341. <a href="https://github.com/codelion/adaptive-classifier">codelion/</a><b><a href="https://github.com/codelion/adaptive-classifier">adaptive-classifier</a></b> ⭐ 526    
+348. <a href="https://github.com/codelion/adaptive-classifier">codelion/</a><b><a href="https://github.com/codelion/adaptive-classifier">adaptive-classifier</a></b> ⭐ 526    
    A flexible, adaptive classification system that allows for dynamic addition of new classes and continuous learning from examples. Built on top of transformers from HuggingFace, this library provides an easy-to-use interface for creating and updating text classifiers.  
 
-342. <a href="https://github.com/xaviviro/python-toon">xaviviro/</a><b><a href="https://github.com/xaviviro/python-toon">python-toon</a></b> ⭐ 320    
+349. <a href="https://github.com/xaviviro/python-toon">xaviviro/</a><b><a href="https://github.com/xaviviro/python-toon">python-toon</a></b> ⭐ 320    
    A compact data format optimized for transmitting structured information to Large Language Models (LLMs) with 30-60% fewer tokens than JSON.  
 
-343. <a href="https://github.com/quotient-ai/judges">quotient-ai/</a><b><a href="https://github.com/quotient-ai/judges">judges</a></b> ⭐ 316    
+350. <a href="https://github.com/quotient-ai/judges">quotient-ai/</a><b><a href="https://github.com/quotient-ai/judges">judges</a></b> ⭐ 316    
    judges is a small library to use and create LLM-as-a-Judge evaluators. The purpose of judges is to have a curated set of LLM evaluators in a low-friction format across a variety of use cases  
 
-344. <a href="https://github.com/stanford-oval/suql">stanford-oval/</a><b><a href="https://github.com/stanford-oval/suql">suql</a></b> ⭐ 296    
+351. <a href="https://github.com/stanford-oval/suql">stanford-oval/</a><b><a href="https://github.com/stanford-oval/suql">suql</a></b> ⭐ 296    
    SUQL: Conversational Search over Structured and Unstructured Data with LLMs  
    🔗 [arxiv.org/abs/2311.09818](https://arxiv.org/abs/2311.09818)  
 
-345. <a href="https://github.com/emissary-tech/legit-rag">emissary-tech/</a><b><a href="https://github.com/emissary-tech/legit-rag">legit-rag</a></b> ⭐ 274    
+352. <a href="https://github.com/emissary-tech/legit-rag">emissary-tech/</a><b><a href="https://github.com/emissary-tech/legit-rag">legit-rag</a></b> ⭐ 274    
    A modular Retrieval-Augmented Generation (RAG) system built with FastAPI, Qdrant, and OpenAI.  
 
-346. <a href="https://github.com/dottxt-ai/outlines-core">dottxt-ai/</a><b><a href="https://github.com/dottxt-ai/outlines-core">outlines-core</a></b> ⭐ 273    
+353. <a href="https://github.com/dottxt-ai/outlines-core">dottxt-ai/</a><b><a href="https://github.com/dottxt-ai/outlines-core">outlines-core</a></b> ⭐ 273    
    Core functionality for structured generation, formerly implemented in Outlines, with a focus on performance and portability.  
    🔗 [docs.rs/outlines-core](https://docs.rs/outlines-core)  
 
-347. <a href="https://github.com/jina-ai/llm-query-expansion">jina-ai/</a><b><a href="https://github.com/jina-ai/llm-query-expansion">llm-query-expansion</a></b> ⭐ 64    
+354. <a href="https://github.com/simonw/llm-jq">simonw/</a><b><a href="https://github.com/simonw/llm-jq">llm-jq</a></b> ⭐ 195    
+   Write and execute jq programs with the help of LLM  
+
+355. <a href="https://github.com/simonw/llm-openai-via-codex">simonw/</a><b><a href="https://github.com/simonw/llm-openai-via-codex">llm-openai-via-codex</a></b> ⭐ 106    
+   Access OpenAI models via an existing Codex subscription  
+
+356. <a href="https://github.com/jina-ai/llm-query-expansion">jina-ai/</a><b><a href="https://github.com/jina-ai/llm-query-expansion">llm-query-expansion</a></b> ⭐ 64    
    Query Expension for Better Query Embedding using LLMs  
 
 ## Math and Science
@@ -3047,185 +3151,194 @@ General and classical machine learning libraries. See below for other sections c
    NeuralProphet: A simple forecasting package  
    🔗 [neuralprophet.com](https://neuralprophet.com)  
 
-92. <a href="https://github.com/facebookresearch/flow_matching">facebookresearch/</a><b><a href="https://github.com/facebookresearch/flow_matching">flow_matching</a></b> ⭐ 4,032    
+92. <a href="https://github.com/unum-cloud/usearch">unum-cloud/</a><b><a href="https://github.com/unum-cloud/usearch">USearch</a></b> ⭐ 4,154    
+   Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍  
+   🔗 [unum.cloud/usearch](https://unum.cloud/usearch)  
+
+93. <a href="https://github.com/facebookresearch/flow_matching">facebookresearch/</a><b><a href="https://github.com/facebookresearch/flow_matching">flow_matching</a></b> ⭐ 4,032    
    Flow Matching (FM) is a recent framework for generative modeling that has achieved state-of-the-art performance across various domains, including image, video, audio, speech, and biological structures  
    🔗 [facebookresearch.github.io/flow_matching](http://facebookresearch.github.io/flow_matching)  
 
-93. <a href="https://github.com/cornellius-gp/gpytorch">cornellius-gp/</a><b><a href="https://github.com/cornellius-gp/gpytorch">gpytorch</a></b> ⭐ 3,819    
+94. <a href="https://github.com/cornellius-gp/gpytorch">cornellius-gp/</a><b><a href="https://github.com/cornellius-gp/gpytorch">gpytorch</a></b> ⭐ 3,819    
    GPyTorch is a Gaussian process library implemented using PyTorch. GPyTorch is designed for creating scalable, flexible, and modular Gaussian process models with ease.  
 
-94. <a href="https://github.com/lightly-ai/lightly">lightly-ai/</a><b><a href="https://github.com/lightly-ai/lightly">lightly</a></b> ⭐ 3,666    
+95. <a href="https://github.com/lightly-ai/lightly">lightly-ai/</a><b><a href="https://github.com/lightly-ai/lightly">lightly</a></b> ⭐ 3,666    
    A python library for self-supervised learning on images.  
    🔗 [docs.lightly.ai/self-supervised-learning](https://docs.lightly.ai/self-supervised-learning/)  
 
-95. <a href="https://github.com/huggingface/safetensors">huggingface/</a><b><a href="https://github.com/huggingface/safetensors">safetensors</a></b> ⭐ 3,597    
+96. <a href="https://github.com/huggingface/safetensors">huggingface/</a><b><a href="https://github.com/huggingface/safetensors">safetensors</a></b> ⭐ 3,597    
    Implements a new simple format for storing tensors safely (as opposed to pickle) and that is still fast (zero-copy).  
    🔗 [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors)  
 
-96. <a href="https://github.com/yoheinakajima/instagraph">yoheinakajima/</a><b><a href="https://github.com/yoheinakajima/instagraph">instagraph</a></b> ⭐ 3,540    
+97. <a href="https://github.com/yoheinakajima/instagraph">yoheinakajima/</a><b><a href="https://github.com/yoheinakajima/instagraph">instagraph</a></b> ⭐ 3,540    
    Converts text input or URL into knowledge graph and displays  
 
-97. <a href="https://github.com/petarv-/gat">petarv-/</a><b><a href="https://github.com/petarv-/gat">GAT</a></b> ⭐ 3,492    
+98. <a href="https://github.com/petarv-/gat">petarv-/</a><b><a href="https://github.com/petarv-/gat">GAT</a></b> ⭐ 3,492    
    Implementation of a Graph Attention Network (GAT) layer in TensorFlow  
    🔗 [petar-v.com/gat](https://petar-v.com/GAT/)  
 
-98. <a href="https://github.com/neuraloperator/neuraloperator">neuraloperator/</a><b><a href="https://github.com/neuraloperator/neuraloperator">neuraloperator</a></b> ⭐ 3,337    
+99. <a href="https://github.com/neuraloperator/neuraloperator">neuraloperator/</a><b><a href="https://github.com/neuraloperator/neuraloperator">neuraloperator</a></b> ⭐ 3,337    
    Comprehensive library for learning neural operators in PyTorch. It is the official implementation for Fourier Neural Operators and Tensorized Neural Operators.  
    🔗 [neuraloperator.github.io/dev/index.html](https://neuraloperator.github.io/dev/index.html)  
 
-99. <a href="https://github.com/pytorch/glow">pytorch/</a><b><a href="https://github.com/pytorch/glow">glow</a></b> ⭐ 3,328    
+100. <a href="https://github.com/pytorch/glow">pytorch/</a><b><a href="https://github.com/pytorch/glow">glow</a></b> ⭐ 3,328    
    Compiler for Neural Network hardware accelerators  
 
-100. <a href="https://github.com/hrnet/hrnet-semantic-segmentation">hrnet/</a><b><a href="https://github.com/hrnet/hrnet-semantic-segmentation">HRNet-Semantic-Segmentation</a></b> ⭐ 3,311    
+101. <a href="https://github.com/hrnet/hrnet-semantic-segmentation">hrnet/</a><b><a href="https://github.com/hrnet/hrnet-semantic-segmentation">HRNet-Semantic-Segmentation</a></b> ⭐ 3,311    
    The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919  
 
-101. <a href="https://github.com/facebookresearch/vissl">facebookresearch/</a><b><a href="https://github.com/facebookresearch/vissl">vissl</a></b> ⭐ 3,294    
+102. <a href="https://github.com/facebookresearch/vissl">facebookresearch/</a><b><a href="https://github.com/facebookresearch/vissl">vissl</a></b> ⭐ 3,294    
    VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.  
    🔗 [vissl.ai](https://vissl.ai)  
 
-102. <a href="https://github.com/lucidrains/musiclm-pytorch">lucidrains/</a><b><a href="https://github.com/lucidrains/musiclm-pytorch">musiclm-pytorch</a></b> ⭐ 3,293    
+103. <a href="https://github.com/lucidrains/musiclm-pytorch">lucidrains/</a><b><a href="https://github.com/lucidrains/musiclm-pytorch">musiclm-pytorch</a></b> ⭐ 3,293    
    Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch  
 
-103. <a href="https://github.com/shankarpandala/lazypredict">shankarpandala/</a><b><a href="https://github.com/shankarpandala/lazypredict">lazypredict</a></b> ⭐ 3,285    
+104. <a href="https://github.com/shankarpandala/lazypredict">shankarpandala/</a><b><a href="https://github.com/shankarpandala/lazypredict">lazypredict</a></b> ⭐ 3,285    
    Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning  
 
-104. <a href="https://github.com/huggingface/huggingface_hub">huggingface/</a><b><a href="https://github.com/huggingface/huggingface_hub">huggingface_hub</a></b> ⭐ 3,277    
+105. <a href="https://github.com/huggingface/huggingface_hub">huggingface/</a><b><a href="https://github.com/huggingface/huggingface_hub">huggingface_hub</a></b> ⭐ 3,277    
    The official Python client for the Hugging Face Hub.  
    🔗 [huggingface.co/docs/huggingface_hub](https://huggingface.co/docs/huggingface_hub)  
 
-105. <a href="https://github.com/huggingface/optimum">huggingface/</a><b><a href="https://github.com/huggingface/optimum">optimum</a></b> ⭐ 3,268    
+106. <a href="https://github.com/huggingface/optimum">huggingface/</a><b><a href="https://github.com/huggingface/optimum">optimum</a></b> ⭐ 3,268    
    🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools  
    🔗 [huggingface.co/docs/optimum/main](https://huggingface.co/docs/optimum/main/)  
 
-106. <a href="https://github.com/mljar/mljar-supervised">mljar/</a><b><a href="https://github.com/mljar/mljar-supervised">mljar-supervised</a></b> ⭐ 3,234    
+107. <a href="https://github.com/mljar/mljar-supervised">mljar/</a><b><a href="https://github.com/mljar/mljar-supervised">mljar-supervised</a></b> ⭐ 3,234    
    Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation  
    🔗 [mljar.com](https://mljar.com)  
 
-107. <a href="https://github.com/nvidia/cuda-python">nvidia/</a><b><a href="https://github.com/nvidia/cuda-python">cuda-python</a></b> ⭐ 3,145    
+108. <a href="https://github.com/nvidia/cuda-python">nvidia/</a><b><a href="https://github.com/nvidia/cuda-python">cuda-python</a></b> ⭐ 3,145    
    CUDA Python: Performance meets Productivity  
    🔗 [nvidia.github.io/cuda-python](https://nvidia.github.io/cuda-python/)  
 
-108. <a href="https://github.com/google-research/t5x">google-research/</a><b><a href="https://github.com/google-research/t5x">t5x</a></b> ⭐ 2,938    
+109. <a href="https://github.com/dreamquark-ai/tabnet">dreamquark-ai/</a><b><a href="https://github.com/dreamquark-ai/tabnet">tabnet</a></b> ⭐ 2,948    
+   PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf  
+   🔗 [dreamquark-ai.github.io/tabnet](https://dreamquark-ai.github.io/tabnet/)  
+
+110. <a href="https://github.com/google-research/t5x">google-research/</a><b><a href="https://github.com/google-research/t5x">t5x</a></b> ⭐ 2,938    
    T5X is a modular, composable, research-friendly framework for high-performance, configurable, self-service training, evaluation, and inference of sequence models (starting with language) at many scales.  
 
-109. <a href="https://github.com/eric-mitchell/direct-preference-optimization">eric-mitchell/</a><b><a href="https://github.com/eric-mitchell/direct-preference-optimization">direct-preference-optimization</a></b> ⭐ 2,834    
+111. <a href="https://github.com/eric-mitchell/direct-preference-optimization">eric-mitchell/</a><b><a href="https://github.com/eric-mitchell/direct-preference-optimization">direct-preference-optimization</a></b> ⭐ 2,834    
    Reference implementation for DPO (Direct Preference Optimization)  
 
-110. <a href="https://github.com/rom1504/clip-retrieval">rom1504/</a><b><a href="https://github.com/rom1504/clip-retrieval">clip-retrieval</a></b> ⭐ 2,716    
+112. <a href="https://github.com/rom1504/clip-retrieval">rom1504/</a><b><a href="https://github.com/rom1504/clip-retrieval">clip-retrieval</a></b> ⭐ 2,716    
    Easily compute clip embeddings and build a clip retrieval system with them  
    🔗 [rom1504.github.io/clip-retrieval](https://rom1504.github.io/clip-retrieval/)  
 
-111. <a href="https://github.com/freedmand/semantra">freedmand/</a><b><a href="https://github.com/freedmand/semantra">semantra</a></b> ⭐ 2,686    
+113. <a href="https://github.com/freedmand/semantra">freedmand/</a><b><a href="https://github.com/freedmand/semantra">semantra</a></b> ⭐ 2,686    
    Semantra is a multipurpose tool for semantically searching documents. Query by meaning rather than just by matching text.  
 
-112. <a href="https://github.com/apple/ml-ane-transformers">apple/</a><b><a href="https://github.com/apple/ml-ane-transformers">ml-ane-transformers</a></b> ⭐ 2,672    
+114. <a href="https://github.com/apple/ml-ane-transformers">apple/</a><b><a href="https://github.com/apple/ml-ane-transformers">ml-ane-transformers</a></b> ⭐ 2,672    
    Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)  
 
-113. <a href="https://github.com/qdrant/fastembed">qdrant/</a><b><a href="https://github.com/qdrant/fastembed">fastembed</a></b> ⭐ 2,651    
+115. <a href="https://github.com/qdrant/fastembed">qdrant/</a><b><a href="https://github.com/qdrant/fastembed">fastembed</a></b> ⭐ 2,651    
    Fast, Accurate, Lightweight Python library to make State of the Art Embedding  
    🔗 [qdrant.github.io/fastembed](https://qdrant.github.io/fastembed/)  
 
-114. <a href="https://github.com/huggingface/evaluate">huggingface/</a><b><a href="https://github.com/huggingface/evaluate">evaluate</a></b> ⭐ 2,404    
+116. <a href="https://github.com/huggingface/evaluate">huggingface/</a><b><a href="https://github.com/huggingface/evaluate">evaluate</a></b> ⭐ 2,404    
    🤗 Evaluate: A library for easily evaluating machine learning models and datasets.  
    🔗 [huggingface.co/docs/evaluate](https://huggingface.co/docs/evaluate)  
 
-115. <a href="https://github.com/benedekrozemberczki/karateclub">benedekrozemberczki/</a><b><a href="https://github.com/benedekrozemberczki/karateclub">karateclub</a></b> ⭐ 2,273    
+117. <a href="https://github.com/benedekrozemberczki/karateclub">benedekrozemberczki/</a><b><a href="https://github.com/benedekrozemberczki/karateclub">karateclub</a></b> ⭐ 2,273    
    Karate Club is an unsupervised machine learning extension library for NetworkX.  
    🔗 [karateclub.readthedocs.io](https://karateclub.readthedocs.io)  
 
-116. <a href="https://github.com/microsoft/olive">microsoft/</a><b><a href="https://github.com/microsoft/olive">Olive</a></b> ⭐ 2,240    
+118. <a href="https://github.com/microsoft/olive">microsoft/</a><b><a href="https://github.com/microsoft/olive">Olive</a></b> ⭐ 2,240    
    Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.  
    🔗 [microsoft.github.io/olive](https://microsoft.github.io/Olive/)  
 
-117. <a href="https://github.com/linkedin/greykite">linkedin/</a><b><a href="https://github.com/linkedin/greykite">greykite</a></b> ⭐ 1,854    
+119. <a href="https://github.com/linkedin/greykite">linkedin/</a><b><a href="https://github.com/linkedin/greykite">greykite</a></b> ⭐ 1,854    
    A flexible, intuitive and fast forecasting library  
 
-118. <a href="https://github.com/rentruewang/koila">rentruewang/</a><b><a href="https://github.com/rentruewang/koila">koila</a></b> ⭐ 1,832    
+120. <a href="https://github.com/rentruewang/koila">rentruewang/</a><b><a href="https://github.com/rentruewang/koila">koila</a></b> ⭐ 1,832    
    Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.  
    🔗 [koila.rentruewang.com](https://koila.rentruewang.com)  
 
-119. <a href="https://github.com/laekov/fastmoe">laekov/</a><b><a href="https://github.com/laekov/fastmoe">fastmoe</a></b> ⭐ 1,829    
+121. <a href="https://github.com/laekov/fastmoe">laekov/</a><b><a href="https://github.com/laekov/fastmoe">fastmoe</a></b> ⭐ 1,829    
    A fast MoE impl for PyTorch  
    🔗 [fastmoe.ai](https://fastmoe.ai)  
 
-120. <a href="https://github.com/visual-layer/fastdup">visual-layer/</a><b><a href="https://github.com/visual-layer/fastdup">fastdup</a></b> ⭐ 1,817    
+122. <a href="https://github.com/galilai-group/stable-worldmodel">galilai-group/</a><b><a href="https://github.com/galilai-group/stable-worldmodel">stable-worldmodel</a></b> ⭐ 1,823    
+   A platform for reproducible world model research and evaluation  
+   🔗 [galilai-group.github.io/stable-worldmodel](https://galilai-group.github.io/stable-worldmodel/)  
+
+123. <a href="https://github.com/visual-layer/fastdup">visual-layer/</a><b><a href="https://github.com/visual-layer/fastdup">fastdup</a></b> ⭐ 1,817    
    fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing data operation costs, all with unmatched scalability.  
    🔗 [docs.visual-layer.com/fastdup_docs_old/first%20steps/getting-started](https://docs.visual-layer.com/fastdup_docs_old/First%20Steps/getting-started)  
 
-121. <a href="https://github.com/microsoft/i-code">microsoft/</a><b><a href="https://github.com/microsoft/i-code">i-Code</a></b> ⭐ 1,707    
+124. <a href="https://github.com/microsoft/i-code">microsoft/</a><b><a href="https://github.com/microsoft/i-code">i-Code</a></b> ⭐ 1,707    
    The ambition of the i-Code project is to build integrative and composable multimodal AI. The "i" stands for integrative multimodal learning.  
 
-122. <a href="https://github.com/google/vizier">google/</a><b><a href="https://github.com/google/vizier">vizier</a></b> ⭐ 1,623    
+125. <a href="https://github.com/google/vizier">google/</a><b><a href="https://github.com/google/vizier">vizier</a></b> ⭐ 1,623    
    Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.  
    🔗 [oss-vizier.readthedocs.io](https://oss-vizier.readthedocs.io)  
 
-123. <a href="https://github.com/microsoft/semi-supervised-learning">microsoft/</a><b><a href="https://github.com/microsoft/semi-supervised-learning">Semi-supervised-learning</a></b> ⭐ 1,559    
+126. <a href="https://github.com/microsoft/semi-supervised-learning">microsoft/</a><b><a href="https://github.com/microsoft/semi-supervised-learning">Semi-supervised-learning</a></b> ⭐ 1,559    
    A Unified Semi-Supervised Learning Codebase (NeurIPS'22)  
    🔗 [usb.readthedocs.io](https://usb.readthedocs.io)  
 
-124. <a href="https://github.com/spotify/voyager">spotify/</a><b><a href="https://github.com/spotify/voyager">voyager</a></b> ⭐ 1,535    
+127. <a href="https://github.com/spotify/voyager">spotify/</a><b><a href="https://github.com/spotify/voyager">voyager</a></b> ⭐ 1,535    
    🛰️ An approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.  
    🔗 [spotify.github.io/voyager](https://spotify.github.io/voyager/)  
 
-125. <a href="https://github.com/jina-ai/finetuner">jina-ai/</a><b><a href="https://github.com/jina-ai/finetuner">finetuner</a></b> ⭐ 1,508    
-   :dart: Task-oriented embedding tuning for BERT, CLIP, etc.  
-   🔗 [finetuner.jina.ai](https://finetuner.jina.ai)  
-
-126. <a href="https://github.com/patchy631/machine-learning">patchy631/</a><b><a href="https://github.com/patchy631/machine-learning">machine-learning</a></b> ⭐ 1,505    
+128. <a href="https://github.com/patchy631/machine-learning">patchy631/</a><b><a href="https://github.com/patchy631/machine-learning">machine-learning</a></b> ⭐ 1,505    
    Machine Learning Tutorials Repository  
 
-127. <a href="https://github.com/lightning-ai/lightning-thunder">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lightning-thunder">lightning-thunder</a></b> ⭐ 1,437    
+129. <a href="https://github.com/lightning-ai/lightning-thunder">lightning-ai/</a><b><a href="https://github.com/lightning-ai/lightning-thunder">lightning-thunder</a></b> ⭐ 1,437    
    Thunder is a source-to-source compiler for PyTorch. It makes PyTorch programs faster by combining and using different hardware executors at once  
 
-128. <a href="https://github.com/gradio-app/trackio">gradio-app/</a><b><a href="https://github.com/gradio-app/trackio">trackio</a></b> ⭐ 1,230    
+130. <a href="https://github.com/gradio-app/trackio">gradio-app/</a><b><a href="https://github.com/gradio-app/trackio">trackio</a></b> ⭐ 1,230    
    A lightweight, local-first, and 🆓 experiment tracking library from Hugging Face 🤗  
 
-129. <a href="https://github.com/huggingface/quanto">huggingface/</a><b><a href="https://github.com/huggingface/quanto">optimum-quanto</a></b> ⭐ 1,020    
+131. <a href="https://github.com/huggingface/quanto">huggingface/</a><b><a href="https://github.com/huggingface/quanto">optimum-quanto</a></b> ⭐ 1,020    
    A pytorch quantization backend for optimum  
 
-130. <a href="https://github.com/criteo/autofaiss">criteo/</a><b><a href="https://github.com/criteo/autofaiss">autofaiss</a></b> ⭐ 893    
+132. <a href="https://github.com/criteo/autofaiss">criteo/</a><b><a href="https://github.com/criteo/autofaiss">autofaiss</a></b> ⭐ 893    
    Automatically create Faiss knn indices with the most optimal similarity search parameters.  
    🔗 [criteo.github.io/autofaiss](https://criteo.github.io/autofaiss/)  
 
-131. <a href="https://github.com/trent-b/iterative-stratification">trent-b/</a><b><a href="https://github.com/trent-b/iterative-stratification">iterative-stratification</a></b> ⭐ 882    
+133. <a href="https://github.com/trent-b/iterative-stratification">trent-b/</a><b><a href="https://github.com/trent-b/iterative-stratification">iterative-stratification</a></b> ⭐ 882    
    Provides scikit-learn compatible cross validators with stratification for multilabel data.  
 
-132. <a href="https://github.com/minishlab/semhash">minishlab/</a><b><a href="https://github.com/minishlab/semhash">semhash</a></b> ⭐ 878    
+134. <a href="https://github.com/minishlab/semhash">minishlab/</a><b><a href="https://github.com/minishlab/semhash">semhash</a></b> ⭐ 878    
    SemHash is a lightweight and flexible tool for deduplicating datasets using semantic similarity. It combines fast embedding generation from Model2Vec with efficient ANN-based similarity search through Vicinity  
    🔗 [minish.ai/packages/semhash](https://minish.ai/packages/semhash)  
 
-133. <a href="https://github.com/nomic-ai/contrastors">nomic-ai/</a><b><a href="https://github.com/nomic-ai/contrastors">contrastors</a></b> ⭐ 773    
+135. <a href="https://github.com/lightly-ai/lightly-studio">lightly-ai/</a><b><a href="https://github.com/lightly-ai/lightly-studio">lightly-studio</a></b> ⭐ 846    
+   Curate, Annotate, and Manage Your Data in LightlyStudio.  
+   🔗 [docs.lightly.ai/studio](https://docs.lightly.ai/studio/)  
+
+136. <a href="https://github.com/nomic-ai/contrastors">nomic-ai/</a><b><a href="https://github.com/nomic-ai/contrastors">contrastors</a></b> ⭐ 773    
    Contrastive learning toolkit that enables researchers and engineers to train and evaluate contrastive models efficiently.  
 
-134. <a href="https://github.com/intel/intel-npu-acceleration-library">intel/</a><b><a href="https://github.com/intel/intel-npu-acceleration-library">intel-npu-acceleration-library</a></b> ⭐ 701    
-   The Intel NPU Acceleration Library is a Python library designed to boost the efficiency of your applications by leveraging the power of the Intel Neural Processing Unit (NPU) to perform high-speed computations on compatible hardware.  
-
-135. <a href="https://github.com/nicolas-hbt/pygraft">nicolas-hbt/</a><b><a href="https://github.com/nicolas-hbt/pygraft">pygraft</a></b> ⭐ 696    
+137. <a href="https://github.com/nicolas-hbt/pygraft">nicolas-hbt/</a><b><a href="https://github.com/nicolas-hbt/pygraft">pygraft</a></b> ⭐ 696    
    Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips  
    🔗 [pygraft.readthedocs.io/en/latest](https://pygraft.readthedocs.io/en/latest/)  
 
-136. <a href="https://github.com/eleutherai/sae">eleutherai/</a><b><a href="https://github.com/eleutherai/sae">sparsify</a></b> ⭐ 685    
+138. <a href="https://github.com/eleutherai/sae">eleutherai/</a><b><a href="https://github.com/eleutherai/sae">sparsify</a></b> ⭐ 685    
    This library trains k-sparse autoencoders (SAEs) on the residual stream activations of HuggingFace language models, roughly following the recipe detailed in Scaling and evaluating sparse autoencoders (Gao et al. 2024)  
 
-137. <a href="https://github.com/hkust-knowcomp/autoschemakg">hkust-knowcomp/</a><b><a href="https://github.com/hkust-knowcomp/autoschemakg">AutoSchemaKG</a></b> ⭐ 669    
+139. <a href="https://github.com/hkust-knowcomp/autoschemakg">hkust-knowcomp/</a><b><a href="https://github.com/hkust-knowcomp/autoschemakg">AutoSchemaKG</a></b> ⭐ 669    
    A Knowledge Graph Construction Framework with Schema Generation and Knowledge Graph Completion  
    🔗 [hkust-knowcomp.github.io/autoschemakg](https://hkust-knowcomp.github.io/AutoSchemaKG/)  
 
-138. <a href="https://github.com/google-deepmind/limit">google-deepmind/</a><b><a href="https://github.com/google-deepmind/limit">limit</a></b> ⭐ 619    
+140. <a href="https://github.com/google-deepmind/limit">google-deepmind/</a><b><a href="https://github.com/google-deepmind/limit">limit</a></b> ⭐ 619    
    On the Theoretical Limitations of Embedding-Based Retrieval  
    🔗 [arxiv.org/abs/2508.21038](https://arxiv.org/abs/2508.21038)  
 
-139. <a href="https://github.com/apple/ml-l3m">apple/</a><b><a href="https://github.com/apple/ml-l3m">ml-l3m</a></b> ⭐ 229    
+141. <a href="https://github.com/apple/ml-l3m">apple/</a><b><a href="https://github.com/apple/ml-l3m">ml-l3m</a></b> ⭐ 229    
    A flexible library for training any type of large model, regardless of modality. Instead of more traditional approaches, we opt for a config-heavy approach  
 
-140. <a href="https://github.com/dylanhogg/gptauthor">dylanhogg/</a><b><a href="https://github.com/dylanhogg/gptauthor">gptauthor</a></b> ⭐ 97    
+142. <a href="https://github.com/dylanhogg/gptauthor">dylanhogg/</a><b><a href="https://github.com/dylanhogg/gptauthor">gptauthor</a></b> ⭐ 97    
    GPTAuthor is an AI tool for writing long form, multi-chapter stories given a story prompt.  
 
-141. <a href="https://github.com/awslabs/stickler">awslabs/</a><b><a href="https://github.com/awslabs/stickler">stickler</a></b> ⭐ 23    
+143. <a href="https://github.com/awslabs/stickler">awslabs/</a><b><a href="https://github.com/awslabs/stickler">stickler</a></b> ⭐ 23    
    A library for evaluating structured data and AI outputs with weighted field comparison and custom comparators  
    🔗 [awslabs.github.io/stickler](https://awslabs.github.io/stickler/)  
 
-142. <a href="https://github.com/wjbmattingly/gliner-finetune">wjbmattingly/</a><b><a href="https://github.com/wjbmattingly/gliner-finetune">gliner-finetune</a></b> ⭐ 14    
+144. <a href="https://github.com/wjbmattingly/gliner-finetune">wjbmattingly/</a><b><a href="https://github.com/wjbmattingly/gliner-finetune">gliner-finetune</a></b> ⭐ 14    
    A library to generate synthetic data using LLM models, process this data, and then use it to train a GLiNER model. GLiNER is a Named Entity Recognition (NER) framework.  
 
 ## Machine Learning - Deep Learning
@@ -3532,27 +3645,19 @@ Machine learning interpretability libraries. Covers explainability, prediction e
    Stanford NLP Python library for Representation Finetuning (ReFT)  
    🔗 [arxiv.org/abs/2404.03592](https://arxiv.org/abs/2404.03592)  
 
-16. <a href="https://github.com/selfexplainml/piml-toolbox">selfexplainml/</a><b><a href="https://github.com/selfexplainml/piml-toolbox">PiML-Toolbox</a></b> ⭐ 1,285    
-   PiML (Python Interpretable Machine Learning) toolbox for model development & diagnostics  
-   🔗 [selfexplainml.github.io/piml-toolbox](https://selfexplainml.github.io/PiML-Toolbox)  
-
-17. <a href="https://github.com/ethicalml/xai">ethicalml/</a><b><a href="https://github.com/ethicalml/xai">xai</a></b> ⭐ 1,221    
+16. <a href="https://github.com/ethicalml/xai">ethicalml/</a><b><a href="https://github.com/ethicalml/xai">xai</a></b> ⭐ 1,221    
    XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models  
    🔗 [ethical.institute/principles.html#commitment-3](https://ethical.institute/principles.html#commitment-3)  
 
-18. <a href="https://github.com/jbloomaus/saelens">jbloomaus/</a><b><a href="https://github.com/jbloomaus/saelens">SAELens</a></b> ⭐ 1,174    
+17. <a href="https://github.com/jbloomaus/saelens">jbloomaus/</a><b><a href="https://github.com/jbloomaus/saelens">SAELens</a></b> ⭐ 1,174    
    Training Sparse Autoencoders on LLms. Analyse sparse autoencoders and neural network internals.  
    🔗 [decoderesearch.github.io/saelens](https://decoderesearch.github.io/SAELens/)  
 
-19. <a href="https://github.com/andyzoujm/representation-engineering">andyzoujm/</a><b><a href="https://github.com/andyzoujm/representation-engineering">representation-engineering</a></b> ⭐ 942    
+18. <a href="https://github.com/andyzoujm/representation-engineering">andyzoujm/</a><b><a href="https://github.com/andyzoujm/representation-engineering">representation-engineering</a></b> ⭐ 942    
    Representation Engineering: A Top-Down Approach to AI Transparency  
    🔗 [www.ai-transparency.org](https://www.ai-transparency.org/)  
 
-20. <a href="https://github.com/ndif-team/nnsight">ndif-team/</a><b><a href="https://github.com/ndif-team/nnsight">nnsight</a></b> ⭐ 782    
-   The nnsight package enables interpreting and manipulating the internals of deep learned models.  
-   🔗 [nnsight.net](https://nnsight.net/)  
-
-21. <a href="https://github.com/labmlai/inspectus">labmlai/</a><b><a href="https://github.com/labmlai/inspectus">inspectus</a></b> ⭐ 705    
+19. <a href="https://github.com/labmlai/inspectus">labmlai/</a><b><a href="https://github.com/labmlai/inspectus">inspectus</a></b> ⭐ 705    
    Inspectus provides visualization tools for attention mechanisms in deep learning models. It provides a set of comprehensive views, making it easier to understand how these models work.  
 
 ## Machine Learning - Ops
@@ -3931,179 +4036,183 @@ Natural language processing libraries and toolkits: text processing, topic model
 24. <a href="https://github.com/doccano/doccano">doccano/</a><b><a href="https://github.com/doccano/doccano">doccano</a></b> ⭐ 10,501    
    Open source annotation tool for machine learning practitioners.  
 
-25. <a href="https://github.com/facebookresearch/nougat">facebookresearch/</a><b><a href="https://github.com/facebookresearch/nougat">nougat</a></b> ⭐ 9,809    
+25. <a href="https://github.com/run-llama/liteparse">run-llama/</a><b><a href="https://github.com/run-llama/liteparse">liteparse</a></b> ⭐ 9,919    
+   A standalone OSS PDF parsing tool focused exclusively on fast and light parsing  
+   🔗 [developers.llamaindex.ai/liteparse](https://developers.llamaindex.ai/liteparse/)  
+
+26. <a href="https://github.com/facebookresearch/nougat">facebookresearch/</a><b><a href="https://github.com/facebookresearch/nougat">nougat</a></b> ⭐ 9,809    
    Implementation of Nougat Neural Optical Understanding for Academic Documents  
    🔗 [facebookresearch.github.io/nougat](https://facebookresearch.github.io/nougat/)  
 
-26. <a href="https://github.com/espnet/espnet">espnet/</a><b><a href="https://github.com/espnet/espnet">espnet</a></b> ⭐ 9,700    
+27. <a href="https://github.com/espnet/espnet">espnet/</a><b><a href="https://github.com/espnet/espnet">espnet</a></b> ⭐ 9,700    
    End-to-End Speech Processing Toolkit  
    🔗 [espnet.github.io/espnet](https://espnet.github.io/espnet/)  
 
-27. <a href="https://github.com/sloria/textblob">sloria/</a><b><a href="https://github.com/sloria/textblob">TextBlob</a></b> ⭐ 9,486    
+28. <a href="https://github.com/sloria/textblob">sloria/</a><b><a href="https://github.com/sloria/textblob">TextBlob</a></b> ⭐ 9,486    
    Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.  
    🔗 [textblob.readthedocs.io](https://textblob.readthedocs.io/)  
 
-28. <a href="https://github.com/togethercomputer/openchatkit">togethercomputer/</a><b><a href="https://github.com/togethercomputer/openchatkit">OpenChatKit</a></b> ⭐ 9,015    
+29. <a href="https://github.com/togethercomputer/openchatkit">togethercomputer/</a><b><a href="https://github.com/togethercomputer/openchatkit">OpenChatKit</a></b> ⭐ 9,015    
    OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots  
 
-29. <a href="https://github.com/clips/pattern">clips/</a><b><a href="https://github.com/clips/pattern">pattern</a></b> ⭐ 8,854    
+30. <a href="https://github.com/clips/pattern">clips/</a><b><a href="https://github.com/clips/pattern">pattern</a></b> ⭐ 8,854    
    Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.  
    🔗 [github.com/clips/pattern/wiki](https://github.com/clips/pattern/wiki)  
 
-30. <a href="https://github.com/maartengr/bertopic">maartengr/</a><b><a href="https://github.com/maartengr/bertopic">BERTopic</a></b> ⭐ 7,346    
+31. <a href="https://github.com/maartengr/bertopic">maartengr/</a><b><a href="https://github.com/maartengr/bertopic">BERTopic</a></b> ⭐ 7,346    
    Leveraging BERT and c-TF-IDF to create easily interpretable topics.   
    🔗 [maartengr.github.io/bertopic](https://maartengr.github.io/BERTopic/)  
 
-31. <a href="https://github.com/quivrhq/megaparse">quivrhq/</a><b><a href="https://github.com/quivrhq/megaparse">MegaParse</a></b> ⭐ 7,267    
+32. <a href="https://github.com/quivrhq/megaparse">quivrhq/</a><b><a href="https://github.com/quivrhq/megaparse">MegaParse</a></b> ⭐ 7,267    
    File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.   
    🔗 [megaparse.com](https://megaparse.com)  
 
-32. <a href="https://github.com/deeppavlov/deeppavlov">deeppavlov/</a><b><a href="https://github.com/deeppavlov/deeppavlov">DeepPavlov</a></b> ⭐ 6,963    
+33. <a href="https://github.com/deeppavlov/deeppavlov">deeppavlov/</a><b><a href="https://github.com/deeppavlov/deeppavlov">DeepPavlov</a></b> ⭐ 6,963    
    An open source library for deep learning end-to-end dialog systems and chatbots.  
    🔗 [deeppavlov.ai](https://deeppavlov.ai)  
 
-33. <a href="https://github.com/facebookresearch/metaseq">facebookresearch/</a><b><a href="https://github.com/facebookresearch/metaseq">metaseq</a></b> ⭐ 6,542    
+34. <a href="https://github.com/facebookresearch/metaseq">facebookresearch/</a><b><a href="https://github.com/facebookresearch/metaseq">metaseq</a></b> ⭐ 6,542    
    A codebase for working with Open Pre-trained Transformers, originally forked from fairseq.  
 
-34. <a href="https://github.com/kingoflolz/mesh-transformer-jax">kingoflolz/</a><b><a href="https://github.com/kingoflolz/mesh-transformer-jax">mesh-transformer-jax</a></b> ⭐ 6,363    
+35. <a href="https://github.com/kingoflolz/mesh-transformer-jax">kingoflolz/</a><b><a href="https://github.com/kingoflolz/mesh-transformer-jax">mesh-transformer-jax</a></b> ⭐ 6,363    
    Model parallel transformers in JAX and Haiku  
 
-35. <a href="https://github.com/aiwaves-cn/agents">aiwaves-cn/</a><b><a href="https://github.com/aiwaves-cn/agents">agents</a></b> ⭐ 5,858    
+36. <a href="https://github.com/aiwaves-cn/agents">aiwaves-cn/</a><b><a href="https://github.com/aiwaves-cn/agents">agents</a></b> ⭐ 5,858    
    An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents  
 
-36. <a href="https://github.com/layout-parser/layout-parser">layout-parser/</a><b><a href="https://github.com/layout-parser/layout-parser">layout-parser</a></b> ⭐ 5,642    
+37. <a href="https://github.com/layout-parser/layout-parser">layout-parser/</a><b><a href="https://github.com/layout-parser/layout-parser">layout-parser</a></b> ⭐ 5,642    
    A Unified Toolkit for Deep Learning Based Document Image Analysis  
    🔗 [layout-parser.github.io](https://layout-parser.github.io/)  
 
-37. <a href="https://github.com/salesforce/codegen">salesforce/</a><b><a href="https://github.com/salesforce/codegen">CodeGen</a></b> ⭐ 5,172    
+38. <a href="https://github.com/salesforce/codegen">salesforce/</a><b><a href="https://github.com/salesforce/codegen">CodeGen</a></b> ⭐ 5,172    
    CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.  
 
-38. <a href="https://github.com/minimaxir/textgenrnn">minimaxir/</a><b><a href="https://github.com/minimaxir/textgenrnn">textgenrnn</a></b> ⭐ 4,932    
+39. <a href="https://github.com/minimaxir/textgenrnn">minimaxir/</a><b><a href="https://github.com/minimaxir/textgenrnn">textgenrnn</a></b> ⭐ 4,932    
    Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.  
 
-39. <a href="https://github.com/argilla-io/argilla">argilla-io/</a><b><a href="https://github.com/argilla-io/argilla">argilla</a></b> ⭐ 4,820    
+40. <a href="https://github.com/argilla-io/argilla">argilla-io/</a><b><a href="https://github.com/argilla-io/argilla">argilla</a></b> ⭐ 4,820    
    Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets  
    🔗 [argilla-io.github.io/argilla/latest](https://argilla-io.github.io/argilla/latest/)  
 
-40. <a href="https://github.com/makcedward/nlpaug">makcedward/</a><b><a href="https://github.com/makcedward/nlpaug">nlpaug</a></b> ⭐ 4,641    
+41. <a href="https://github.com/makcedward/nlpaug">makcedward/</a><b><a href="https://github.com/makcedward/nlpaug">nlpaug</a></b> ⭐ 4,641    
    Data augmentation for NLP   
    🔗 [makcedward.github.io](https://makcedward.github.io/)  
 
-41. <a href="https://github.com/promptslab/promptify">promptslab/</a><b><a href="https://github.com/promptslab/promptify">Promptify</a></b> ⭐ 4,536    
+42. <a href="https://github.com/promptslab/promptify">promptslab/</a><b><a href="https://github.com/promptslab/promptify">Promptify</a></b> ⭐ 4,536    
    Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research  
    🔗 [discord.gg/m88xfymbk6](https://discord.gg/m88xfYMbK6)  
 
-42. <a href="https://github.com/facebookresearch/drqa">facebookresearch/</a><b><a href="https://github.com/facebookresearch/drqa">DrQA</a></b> ⭐ 4,480    
+43. <a href="https://github.com/facebookresearch/drqa">facebookresearch/</a><b><a href="https://github.com/facebookresearch/drqa">DrQA</a></b> ⭐ 4,480    
    Reading Wikipedia to Answer Open-Domain Questions  
 
-43. <a href="https://github.com/thilinarajapakse/simpletransformers">thilinarajapakse/</a><b><a href="https://github.com/thilinarajapakse/simpletransformers">simpletransformers</a></b> ⭐ 4,227    
+44. <a href="https://github.com/thilinarajapakse/simpletransformers">thilinarajapakse/</a><b><a href="https://github.com/thilinarajapakse/simpletransformers">simpletransformers</a></b> ⭐ 4,227    
    Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI  
    🔗 [simpletransformers.ai](https://simpletransformers.ai/)  
 
-44. <a href="https://github.com/maartengr/keybert">maartengr/</a><b><a href="https://github.com/maartengr/keybert">KeyBERT</a></b> ⭐ 4,086    
+45. <a href="https://github.com/maartengr/keybert">maartengr/</a><b><a href="https://github.com/maartengr/keybert">KeyBERT</a></b> ⭐ 4,086    
    A minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.  
    🔗 [maartengr.github.io/keybert](https://MaartenGr.github.io/KeyBERT/)  
 
-45. <a href="https://github.com/rapidfuzz/rapidfuzz">rapidfuzz/</a><b><a href="https://github.com/rapidfuzz/rapidfuzz">RapidFuzz</a></b> ⭐ 3,717    
+46. <a href="https://github.com/rapidfuzz/rapidfuzz">rapidfuzz/</a><b><a href="https://github.com/rapidfuzz/rapidfuzz">RapidFuzz</a></b> ⭐ 3,717    
    Rapid fuzzy string matching in Python using various string metrics  
    🔗 [rapidfuzz.github.io/rapidfuzz](https://rapidfuzz.github.io/RapidFuzz/)  
 
-46. <a href="https://github.com/chonkie-inc/chonkie">chonkie-inc/</a><b><a href="https://github.com/chonkie-inc/chonkie">chonkie</a></b> ⭐ 3,635    
+47. <a href="https://github.com/chonkie-inc/chonkie">chonkie-inc/</a><b><a href="https://github.com/chonkie-inc/chonkie">chonkie</a></b> ⭐ 3,635    
    🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines  
    🔗 [docs.chonkie.ai](https://docs.chonkie.ai)  
 
-47. <a href="https://github.com/life4/textdistance">life4/</a><b><a href="https://github.com/life4/textdistance">textdistance</a></b> ⭐ 3,512    
+48. <a href="https://github.com/life4/textdistance">life4/</a><b><a href="https://github.com/life4/textdistance">textdistance</a></b> ⭐ 3,512    
    📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.  
 
-48. <a href="https://github.com/bytedance/lightseq">bytedance/</a><b><a href="https://github.com/bytedance/lightseq">lightseq</a></b> ⭐ 3,304    
+49. <a href="https://github.com/bytedance/lightseq">bytedance/</a><b><a href="https://github.com/bytedance/lightseq">lightseq</a></b> ⭐ 3,304    
    LightSeq: A High Performance Library for Sequence Processing and Generation  
 
-49. <a href="https://github.com/neuralmagic/deepsparse">neuralmagic/</a><b><a href="https://github.com/neuralmagic/deepsparse">deepsparse</a></b> ⭐ 3,159    
+50. <a href="https://github.com/neuralmagic/deepsparse">neuralmagic/</a><b><a href="https://github.com/neuralmagic/deepsparse">deepsparse</a></b> ⭐ 3,159    
    Sparsity-aware deep learning inference runtime for CPUs  
    🔗 [neuralmagic.com/deepsparse](https://neuralmagic.com/deepsparse/)  
 
-50. <a href="https://github.com/huawei-noah/pretrained-language-model">huawei-noah/</a><b><a href="https://github.com/huawei-noah/pretrained-language-model">Pretrained-Language-Model</a></b> ⭐ 3,155    
+51. <a href="https://github.com/huawei-noah/pretrained-language-model">huawei-noah/</a><b><a href="https://github.com/huawei-noah/pretrained-language-model">Pretrained-Language-Model</a></b> ⭐ 3,155    
    Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.  
 
-51. <a href="https://github.com/ddangelov/top2vec">ddangelov/</a><b><a href="https://github.com/ddangelov/top2vec">Top2Vec</a></b> ⭐ 3,108    
+52. <a href="https://github.com/ddangelov/top2vec">ddangelov/</a><b><a href="https://github.com/ddangelov/top2vec">Top2Vec</a></b> ⭐ 3,108    
    Top2Vec learns jointly embedded topic, document and word vectors.  
 
-52. <a href="https://github.com/salesforce/codet5">salesforce/</a><b><a href="https://github.com/salesforce/codet5">CodeT5</a></b> ⭐ 3,096    
+53. <a href="https://github.com/salesforce/codet5">salesforce/</a><b><a href="https://github.com/salesforce/codet5">CodeT5</a></b> ⭐ 3,096    
    Home of CodeT5: Open Code LLMs for Code Understanding and Generation  
    🔗 [arxiv.org/abs/2305.07922](https://arxiv.org/abs/2305.07922)  
 
-53. <a href="https://github.com/bigscience-workshop/promptsource">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/promptsource">promptsource</a></b> ⭐ 2,994    
+54. <a href="https://github.com/bigscience-workshop/promptsource">bigscience-workshop/</a><b><a href="https://github.com/bigscience-workshop/promptsource">promptsource</a></b> ⭐ 2,994    
    Toolkit for creating, sharing and using natural language prompts.  
 
-54. <a href="https://github.com/jbesomi/texthero">jbesomi/</a><b><a href="https://github.com/jbesomi/texthero">texthero</a></b> ⭐ 2,917    
+55. <a href="https://github.com/jbesomi/texthero">jbesomi/</a><b><a href="https://github.com/jbesomi/texthero">texthero</a></b> ⭐ 2,917    
    Text preprocessing, representation and visualization from zero to hero.  
    🔗 [texthero.org](https://texthero.org)  
 
-55. <a href="https://github.com/huggingface/neuralcoref">huggingface/</a><b><a href="https://github.com/huggingface/neuralcoref">neuralcoref</a></b> ⭐ 2,890    
+56. <a href="https://github.com/huggingface/neuralcoref">huggingface/</a><b><a href="https://github.com/huggingface/neuralcoref">neuralcoref</a></b> ⭐ 2,890    
    ✨Fast Coreference Resolution in spaCy with Neural Networks  
    🔗 [huggingface.co/coref](https://huggingface.co/coref/)  
 
-56. <a href="https://github.com/nvidia/nv-ingest">nvidia/</a><b><a href="https://github.com/nvidia/nv-ingest">nv-ingest</a></b> ⭐ 2,817    
+57. <a href="https://github.com/nvidia/nv-ingest">nvidia/</a><b><a href="https://github.com/nvidia/nv-ingest">nv-ingest</a></b> ⭐ 2,817    
    NVIDIA-Ingest is a scalable, performance-oriented document content and metadata extraction microservice.  
    🔗 [docs.nvidia.com/nemo/retriever/latest/extraction/overview](https://docs.nvidia.com/nemo/retriever/latest/extraction/overview/)  
 
-57. <a href="https://github.com/urchade/gliner">urchade/</a><b><a href="https://github.com/urchade/gliner">GLiNER</a></b> ⭐ 2,726    
+58. <a href="https://github.com/urchade/gliner">urchade/</a><b><a href="https://github.com/urchade/gliner">GLiNER</a></b> ⭐ 2,726    
    Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024  
    🔗 [urchade.github.io/gliner](https://urchade.github.io/GLiNER)  
 
-58. <a href="https://github.com/huggingface/setfit">huggingface/</a><b><a href="https://github.com/huggingface/setfit">setfit</a></b> ⭐ 2,673    
+59. <a href="https://github.com/huggingface/setfit">huggingface/</a><b><a href="https://github.com/huggingface/setfit">setfit</a></b> ⭐ 2,673    
    SetFit is an efficient and prompt-free framework for few-shot fine-tuning of Sentence Transformers.  
    🔗 [hf.co/docs/setfit](https://hf.co/docs/setfit)  
 
-59. <a href="https://github.com/alibaba/easynlp">alibaba/</a><b><a href="https://github.com/alibaba/easynlp">EasyNLP</a></b> ⭐ 2,182    
+60. <a href="https://github.com/alibaba/easynlp">alibaba/</a><b><a href="https://github.com/alibaba/easynlp">EasyNLP</a></b> ⭐ 2,182    
    EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit  
 
-60. <a href="https://github.com/thudm/p-tuning-v2">thudm/</a><b><a href="https://github.com/thudm/p-tuning-v2">P-tuning-v2</a></b> ⭐ 2,075    
+61. <a href="https://github.com/thudm/p-tuning-v2">thudm/</a><b><a href="https://github.com/thudm/p-tuning-v2">P-tuning-v2</a></b> ⭐ 2,075    
    An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks  
 
-61. <a href="https://github.com/featureform/embeddinghub">featureform/</a><b><a href="https://github.com/featureform/embeddinghub">featureform</a></b> ⭐ 1,961    
+62. <a href="https://github.com/featureform/embeddinghub">featureform/</a><b><a href="https://github.com/featureform/embeddinghub">featureform</a></b> ⭐ 1,961    
    The Virtual Feature Store. Turn your existing data infrastructure into a feature store.  
    🔗 [www.featureform.com](https://www.featureform.com)  
 
-62. <a href="https://github.com/marella/ctransformers">marella/</a><b><a href="https://github.com/marella/ctransformers">ctransformers</a></b> ⭐ 1,878    
+63. <a href="https://github.com/marella/ctransformers">marella/</a><b><a href="https://github.com/marella/ctransformers">ctransformers</a></b> ⭐ 1,878    
    Python bindings for the Transformer models implemented in C/C++ using GGML library.  
 
-63. <a href="https://github.com/nomic-ai/nomic">nomic-ai/</a><b><a href="https://github.com/nomic-ai/nomic">nomic</a></b> ⭐ 1,859    
+64. <a href="https://github.com/nomic-ai/nomic">nomic-ai/</a><b><a href="https://github.com/nomic-ai/nomic">nomic</a></b> ⭐ 1,859    
    Nomic Developer API SDK  
    🔗 [atlas.nomic.ai](https://atlas.nomic.ai)  
 
-64. <a href="https://github.com/intellabs/fastrag">intellabs/</a><b><a href="https://github.com/intellabs/fastrag">fastRAG</a></b> ⭐ 1,760    
+65. <a href="https://github.com/intellabs/fastrag">intellabs/</a><b><a href="https://github.com/intellabs/fastrag">fastRAG</a></b> ⭐ 1,760    
    Efficient Retrieval Augmentation and Generation Framework  
 
-65. <a href="https://github.com/pemistahl/lingua-py">pemistahl/</a><b><a href="https://github.com/pemistahl/lingua-py">lingua-py</a></b> ⭐ 1,625    
+66. <a href="https://github.com/pemistahl/lingua-py">pemistahl/</a><b><a href="https://github.com/pemistahl/lingua-py">lingua-py</a></b> ⭐ 1,625    
    The most accurate natural language detection library for Python, suitable for short text and mixed-language text  
 
-66. <a href="https://github.com/answerdotai/modernbert">answerdotai/</a><b><a href="https://github.com/answerdotai/modernbert">ModernBERT</a></b> ⭐ 1,620    
+67. <a href="https://github.com/answerdotai/modernbert">answerdotai/</a><b><a href="https://github.com/answerdotai/modernbert">ModernBERT</a></b> ⭐ 1,620    
    Bringing BERT into modernity via both architecture changes and scaling  
    🔗 [arxiv.org/abs/2412.13663](https://arxiv.org/abs/2412.13663)  
 
-67. <a href="https://github.com/xhluca/bm25s">xhluca/</a><b><a href="https://github.com/xhluca/bm25s">bm25s</a></b> ⭐ 1,464    
+68. <a href="https://github.com/xhluca/bm25s">xhluca/</a><b><a href="https://github.com/xhluca/bm25s">bm25s</a></b> ⭐ 1,464    
    Fast lexical search implementing BM25 in Python using Numpy, Numba and Scipy  
    🔗 [bm25s.github.io](https://bm25s.github.io)  
 
-68. <a href="https://github.com/jonasgeiping/cramming">jonasgeiping/</a><b><a href="https://github.com/jonasgeiping/cramming">cramming</a></b> ⭐ 1,361    
+69. <a href="https://github.com/jonasgeiping/cramming">jonasgeiping/</a><b><a href="https://github.com/jonasgeiping/cramming">cramming</a></b> ⭐ 1,361    
    Cramming the training of a (BERT-type) language model into limited compute.  
 
-69. <a href="https://github.com/abertsch72/unlimiformer">abertsch72/</a><b><a href="https://github.com/abertsch72/unlimiformer">unlimiformer</a></b> ⭐ 1,066    
+70. <a href="https://github.com/abertsch72/unlimiformer">abertsch72/</a><b><a href="https://github.com/abertsch72/unlimiformer">unlimiformer</a></b> ⭐ 1,066    
    Public repo for the NeurIPS 2023 paper "Unlimiformer: Long-Range Transformers with Unlimited Length Input"  
 
-70. <a href="https://github.com/webis-de/small-text">webis-de/</a><b><a href="https://github.com/webis-de/small-text">small-text</a></b> ⭐ 635    
+71. <a href="https://github.com/webis-de/small-text">webis-de/</a><b><a href="https://github.com/webis-de/small-text">small-text</a></b> ⭐ 635    
    Small-Text provides state-of-the-art Active Learning for Text Classification. Several pre-implemented Query Strategies, Initialization Strategies, and Stopping Critera are provided, which can be easily mixed and matched to build active learning experiments or applications.  
    🔗 [small-text.readthedocs.io](https://small-text.readthedocs.io/)  
 
-71. <a href="https://github.com/fastino-ai/gliner2">fastino-ai/</a><b><a href="https://github.com/fastino-ai/gliner2">GLiNER2</a></b> ⭐ 539    
+72. <a href="https://github.com/fastino-ai/gliner2">fastino-ai/</a><b><a href="https://github.com/fastino-ai/gliner2">GLiNER2</a></b> ⭐ 539    
    GLiNER2 unifies Named Entity Recognition, Text Classification, and Structured Data Extraction into a single 205M parameter model. It provides efficient CPU-based inference without requiring complex pipelines or external API dependencies.  
 
-72. <a href="https://github.com/knowledgator/gliclass">knowledgator/</a><b><a href="https://github.com/knowledgator/gliclass">GLiClass</a></b> ⭐ 207    
+73. <a href="https://github.com/knowledgator/gliclass">knowledgator/</a><b><a href="https://github.com/knowledgator/gliclass">GLiClass</a></b> ⭐ 207    
    Generalist and Lightweight Model for Text Classification  
    🔗 [docs.knowledgator.com/docs/frameworks/gliclass](https://docs.knowledgator.com/docs/frameworks/gliclass/)  
 
-73. <a href="https://github.com/slavadubrov/ner-field-guide">slavadubrov/</a><b><a href="https://github.com/slavadubrov/ner-field-guide">ner-field-guide</a></b> ⭐ 3    
+74. <a href="https://github.com/slavadubrov/ner-field-guide">slavadubrov/</a><b><a href="https://github.com/slavadubrov/ner-field-guide">ner-field-guide</a></b> ⭐ 3    
    Companion code for The Definitive Guide to NER in 2026  
 
 ## Packaging
@@ -4328,13 +4437,16 @@ Performance, parallelisation and low level libraries.
    Asyncer, async and await, focused on developer experience.  
    🔗 [asyncer.tiangolo.com](https://asyncer.tiangolo.com/)  
 
-16. <a href="https://github.com/intel/intel-extension-for-transformers">intel/</a><b><a href="https://github.com/intel/intel-extension-for-transformers">intel-extension-for-transformers</a></b> ⭐ 2,173    
+16. <a href="https://github.com/deeplethe/forkd">deeplethe/</a><b><a href="https://github.com/deeplethe/forkd">forkd</a></b> ⭐ 2,218    
+   Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.  
+
+17. <a href="https://github.com/intel/intel-extension-for-transformers">intel/</a><b><a href="https://github.com/intel/intel-extension-for-transformers">intel-extension-for-transformers</a></b> ⭐ 2,173    
    ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡  
 
-17. <a href="https://github.com/intel/intel-extension-for-pytorch">intel/</a><b><a href="https://github.com/intel/intel-extension-for-pytorch">intel-extension-for-pytorch</a></b> ⭐ 2,005    
+18. <a href="https://github.com/intel/intel-extension-for-pytorch">intel/</a><b><a href="https://github.com/intel/intel-extension-for-pytorch">intel-extension-for-pytorch</a></b> ⭐ 2,005    
    A Python package for extending the official PyTorch that can easily obtain performance on Intel platform  
 
-18. <a href="https://github.com/faster-cpython/ideas">faster-cpython/</a><b><a href="https://github.com/faster-cpython/ideas">ideas</a></b> ⭐ 1,727    
+19. <a href="https://github.com/faster-cpython/ideas">faster-cpython/</a><b><a href="https://github.com/faster-cpython/ideas">ideas</a></b> ⭐ 1,727    
    Discussion and work tracker for Faster CPython project.  
 
 ## Profiling
@@ -4359,14 +4471,10 @@ Memory and CPU/GPU profiling tools and libraries.
    A debugging and profiling tool that can trace and visualize python code execution  
    🔗 [viztracer.readthedocs.io](https://viztracer.readthedocs.io/)  
 
-6. <a href="https://github.com/pythonprofilers/memory_profiler">pythonprofilers/</a><b><a href="https://github.com/pythonprofilers/memory_profiler">memory_profiler</a></b> ⭐ 4,549    
-   Monitor Memory usage of Python code  
-   🔗 [pypi.python.org/pypi/memory_profiler](http://pypi.python.org/pypi/memory_profiler)  
-
-7. <a href="https://github.com/pyutils/line_profiler">pyutils/</a><b><a href="https://github.com/pyutils/line_profiler">line_profiler</a></b> ⭐ 3,188    
+6. <a href="https://github.com/pyutils/line_profiler">pyutils/</a><b><a href="https://github.com/pyutils/line_profiler">line_profiler</a></b> ⭐ 3,188    
    Line-by-line profiling for Python  
 
-8. <a href="https://github.com/reloadware/reloadium">reloadware/</a><b><a href="https://github.com/reloadware/reloadium">reloadium</a></b> ⭐ 2,996    
+7. <a href="https://github.com/reloadware/reloadium">reloadware/</a><b><a href="https://github.com/reloadware/reloadium">reloadium</a></b> ⭐ 2,996    
    Hot Reloading and Profiling for Python  
 
 ## Security
@@ -4399,30 +4507,46 @@ Security related libraries: vulnerability discovery, SQL injection, environment 
 7. <a href="https://github.com/stamparm/maltrail">stamparm/</a><b><a href="https://github.com/stamparm/maltrail">maltrail</a></b> ⭐ 8,167    
    Malicious traffic detection system  
 
-8. <a href="https://github.com/pycqa/bandit">pycqa/</a><b><a href="https://github.com/pycqa/bandit">bandit</a></b> ⭐ 7,688    
+8. <a href="https://github.com/nvidia/garak">nvidia/</a><b><a href="https://github.com/nvidia/garak">garak</a></b> ⭐ 8,089    
+   garak probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses  
+   🔗 [discord.gg/uvch4puucs](https://discord.gg/uVch4puUCs)  
+
+9. <a href="https://github.com/pycqa/bandit">pycqa/</a><b><a href="https://github.com/pycqa/bandit">bandit</a></b> ⭐ 7,688    
    Bandit is a tool designed to find common security issues in Python code.  
    🔗 [bandit.readthedocs.io](https://bandit.readthedocs.io)  
 
-9. <a href="https://github.com/nccgroup/scoutsuite">nccgroup/</a><b><a href="https://github.com/nccgroup/scoutsuite">ScoutSuite</a></b> ⭐ 7,519    
+10. <a href="https://github.com/nccgroup/scoutsuite">nccgroup/</a><b><a href="https://github.com/nccgroup/scoutsuite">ScoutSuite</a></b> ⭐ 7,519    
    Multi-Cloud Security Auditing Tool  
 
-10. <a href="https://github.com/microsoft/presidio">microsoft/</a><b><a href="https://github.com/microsoft/presidio">presidio</a></b> ⭐ 6,716    
+11. <a href="https://github.com/microsoft/presidio">microsoft/</a><b><a href="https://github.com/microsoft/presidio">presidio</a></b> ⭐ 6,716    
    Context aware, pluggable and customizable PII de-identification service for text and images  
    🔗 [microsoft.github.io/presidio](https://microsoft.github.io/presidio)  
 
-11. <a href="https://github.com/rhinosecuritylabs/pacu">rhinosecuritylabs/</a><b><a href="https://github.com/rhinosecuritylabs/pacu">pacu</a></b> ⭐ 5,040    
+12. <a href="https://github.com/giskard-ai/giskard-oss">giskard-ai/</a><b><a href="https://github.com/giskard-ai/giskard-oss">giskard-oss</a></b> ⭐ 5,426    
+   🐢 Open-Source Evaluation & Testing library for LLM Agents  
+   🔗 [docs.giskard.ai](https://docs.giskard.ai)  
+
+13. <a href="https://github.com/rhinosecuritylabs/pacu">rhinosecuritylabs/</a><b><a href="https://github.com/rhinosecuritylabs/pacu">pacu</a></b> ⭐ 5,040    
    The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.  
    🔗 [rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework](https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/)  
 
-12. <a href="https://github.com/dashingsoft/pyarmor">dashingsoft/</a><b><a href="https://github.com/dashingsoft/pyarmor">pyarmor</a></b> ⭐ 4,913    
+14. <a href="https://github.com/dashingsoft/pyarmor">dashingsoft/</a><b><a href="https://github.com/dashingsoft/pyarmor">pyarmor</a></b> ⭐ 4,913    
    A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.  
    🔗 [pyarmor.dashingsoft.com](http://pyarmor.dashingsoft.com)  
 
-13. <a href="https://github.com/microsoft/pyrit">microsoft/</a><b><a href="https://github.com/microsoft/pyrit">PyRIT</a></b> ⭐ 3,676    
+15. <a href="https://github.com/tencent/ai-infra-guard">tencent/</a><b><a href="https://github.com/tencent/ai-infra-guard">AI-Infra-Guard</a></b> ⭐ 3,879    
+   A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.  
+   🔗 [tencent.github.io/ai-infra-guard](https://tencent.github.io/AI-Infra-Guard/)  
+
+16. <a href="https://github.com/microsoft/pyrit">microsoft/</a><b><a href="https://github.com/microsoft/pyrit">PyRIT</a></b> ⭐ 3,676    
    The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.  
    🔗 [microsoft.github.io/pyrit](https://microsoft.github.io/PyRIT/)  
 
-14. <a href="https://github.com/fadi002/de4py">fadi002/</a><b><a href="https://github.com/fadi002/de4py">de4py</a></b> ⭐ 950    
+17. <a href="https://github.com/confident-ai/deepteam">confident-ai/</a><b><a href="https://github.com/confident-ai/deepteam">deepteam</a></b> ⭐ 1,883    
+   Red teaming framework for LLM systems: penetration testing, but for LLMs  
+   🔗 [trydeepteam.com](https://trydeepteam.com)  
+
+18. <a href="https://github.com/fadi002/de4py">fadi002/</a><b><a href="https://github.com/fadi002/de4py">de4py</a></b> ⭐ 950    
    toolkit for python reverse engineering  
 
 ## Simulation
@@ -5089,480 +5213,492 @@ General utility libraries: miscellaneous tools, linters, code formatters, versio
    💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline  
    🔗 [localstack.cloud](https://localstack.cloud)  
 
-6. <a href="https://github.com/ggerganov/whisper.cpp">ggerganov/</a><b><a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a></b> ⭐ 46,061    
+6. <a href="https://github.com/rtk-ai/rtk">rtk-ai/</a><b><a href="https://github.com/rtk-ai/rtk">rtk</a></b> ⭐ 60,843    
+   CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies  
+   🔗 [www.rtk-ai.app](https://www.rtk-ai.app)  
+
+7. <a href="https://github.com/ggerganov/whisper.cpp">ggerganov/</a><b><a href="https://github.com/ggerganov/whisper.cpp">whisper.cpp</a></b> ⭐ 46,061    
    Port of OpenAI's Whisper model in C/C++  
 
-7. <a href="https://github.com/faif/python-patterns">faif/</a><b><a href="https://github.com/faif/python-patterns">python-patterns</a></b> ⭐ 42,688    
+8. <a href="https://github.com/faif/python-patterns">faif/</a><b><a href="https://github.com/faif/python-patterns">python-patterns</a></b> ⭐ 42,688    
    A collection of design patterns/idioms in Python  
 
-8. <a href="https://github.com/mingrammer/diagrams">mingrammer/</a><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b> ⭐ 41,945    
+9. <a href="https://github.com/mingrammer/diagrams">mingrammer/</a><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b> ⭐ 41,945    
    :art: Diagram as Code for prototyping cloud system architectures  
    🔗 [diagrams.mingrammer.com](https://diagrams.mingrammer.com)  
 
-9. <a href="https://github.com/openai/openai-python">openai/</a><b><a href="https://github.com/openai/openai-python">openai-python</a></b> ⭐ 29,758    
+10. <a href="https://github.com/openai/openai-python">openai/</a><b><a href="https://github.com/openai/openai-python">openai-python</a></b> ⭐ 29,758    
    The official Python library for the OpenAI API  
    🔗 [pypi.org/project/openai](https://pypi.org/project/openai/)  
 
-10. <a href="https://github.com/blakeblackshear/frigate">blakeblackshear/</a><b><a href="https://github.com/blakeblackshear/frigate">frigate</a></b> ⭐ 29,705    
+11. <a href="https://github.com/blakeblackshear/frigate">blakeblackshear/</a><b><a href="https://github.com/blakeblackshear/frigate">frigate</a></b> ⭐ 29,705    
    NVR with realtime local object detection for IP cameras  
    🔗 [frigate.video](https://frigate.video)  
 
-11. <a href="https://github.com/pydantic/pydantic">pydantic/</a><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b> ⭐ 26,549    
+12. <a href="https://github.com/pydantic/pydantic">pydantic/</a><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b> ⭐ 26,549    
    Data validation using Python type hints  
    🔗 [docs.pydantic.dev](https://docs.pydantic.dev)  
 
-12. <a href="https://github.com/squidfunk/mkdocs-material">squidfunk/</a><b><a href="https://github.com/squidfunk/mkdocs-material">mkdocs-material</a></b> ⭐ 25,858    
+13. <a href="https://github.com/squidfunk/mkdocs-material">squidfunk/</a><b><a href="https://github.com/squidfunk/mkdocs-material">mkdocs-material</a></b> ⭐ 25,858    
    Documentation that simply works  
    🔗 [squidfunk.github.io/mkdocs-material](https://squidfunk.github.io/mkdocs-material/)  
 
-13. <a href="https://github.com/keon/algorithms">keon/</a><b><a href="https://github.com/keon/algorithms">algorithms</a></b> ⭐ 24,956    
+14. <a href="https://github.com/keon/algorithms">keon/</a><b><a href="https://github.com/keon/algorithms">algorithms</a></b> ⭐ 24,956    
    Minimal examples of data structures and algorithms in Python  
 
-14. <a href="https://github.com/norvig/pytudes">norvig/</a><b><a href="https://github.com/norvig/pytudes">pytudes</a></b> ⭐ 24,251    
+15. <a href="https://github.com/norvig/pytudes">norvig/</a><b><a href="https://github.com/norvig/pytudes">pytudes</a></b> ⭐ 24,251    
    Python programs, usually short, of considerable difficulty, to perfect particular skills.  
 
-15. <a href="https://github.com/delgan/loguru">delgan/</a><b><a href="https://github.com/delgan/loguru">loguru</a></b> ⭐ 23,492    
+16. <a href="https://github.com/delgan/loguru">delgan/</a><b><a href="https://github.com/delgan/loguru">loguru</a></b> ⭐ 23,492    
    Python logging made (stupidly) simple  
    🔗 [loguru.readthedocs.io](https://loguru.readthedocs.io)  
 
-16. <a href="https://github.com/facebookresearch/audiocraft">facebookresearch/</a><b><a href="https://github.com/facebookresearch/audiocraft">audiocraft</a></b> ⭐ 22,929    
+17. <a href="https://github.com/facebookresearch/audiocraft">facebookresearch/</a><b><a href="https://github.com/facebookresearch/audiocraft">audiocraft</a></b> ⭐ 22,929    
    Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.  
 
-17. <a href="https://github.com/chriskiehl/gooey">chriskiehl/</a><b><a href="https://github.com/chriskiehl/gooey">Gooey</a></b> ⭐ 22,040    
+18. <a href="https://github.com/chriskiehl/gooey">chriskiehl/</a><b><a href="https://github.com/chriskiehl/gooey">Gooey</a></b> ⭐ 22,040    
    Turn (almost) any Python command line program into a full GUI application with one line  
 
-18. <a href="https://github.com/rustpython/rustpython">rustpython/</a><b><a href="https://github.com/rustpython/rustpython">RustPython</a></b> ⭐ 21,718    
+19. <a href="https://github.com/rustpython/rustpython">rustpython/</a><b><a href="https://github.com/rustpython/rustpython">RustPython</a></b> ⭐ 21,718    
    A Python Interpreter written in Rust  
    🔗 [rustpython.github.io](https://rustpython.github.io)  
 
-19. <a href="https://github.com/mkdocs/mkdocs">mkdocs/</a><b><a href="https://github.com/mkdocs/mkdocs">mkdocs</a></b> ⭐ 21,625    
+20. <a href="https://github.com/mkdocs/mkdocs">mkdocs/</a><b><a href="https://github.com/mkdocs/mkdocs">mkdocs</a></b> ⭐ 21,625    
    Project documentation with Markdown.  
    🔗 [www.mkdocs.org](https://www.mkdocs.org)  
 
-20. <a href="https://github.com/micropython/micropython">micropython/</a><b><a href="https://github.com/micropython/micropython">micropython</a></b> ⭐ 21,373    
+21. <a href="https://github.com/micropython/micropython">micropython/</a><b><a href="https://github.com/micropython/micropython">micropython</a></b> ⭐ 21,373    
    MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems  
    🔗 [micropython.org](https://micropython.org)  
 
-21. <a href="https://github.com/higherorderco/bend">higherorderco/</a><b><a href="https://github.com/higherorderco/bend">Bend</a></b> ⭐ 19,144    
+22. <a href="https://github.com/higherorderco/bend">higherorderco/</a><b><a href="https://github.com/higherorderco/bend">Bend</a></b> ⭐ 19,144    
    A massively parallel, high-level programming language  
    🔗 [higherorderco.com](https://higherorderco.com)  
 
-22. <a href="https://github.com/kivy/kivy">kivy/</a><b><a href="https://github.com/kivy/kivy">kivy</a></b> ⭐ 18,828    
+23. <a href="https://github.com/kivy/kivy">kivy/</a><b><a href="https://github.com/kivy/kivy">kivy</a></b> ⭐ 18,828    
    Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS  
    🔗 [kivy.org](https://kivy.org)  
 
-23. <a href="https://github.com/openai/triton">openai/</a><b><a href="https://github.com/openai/triton">triton</a></b> ⭐ 18,225    
+24. <a href="https://github.com/openai/triton">openai/</a><b><a href="https://github.com/openai/triton">triton</a></b> ⭐ 18,225    
    Development repository for the Triton language and compiler  
    🔗 [triton-lang.org](https://triton-lang.org/)  
 
-24. <a href="https://github.com/comet-ml/opik">comet-ml/</a><b><a href="https://github.com/comet-ml/opik">opik</a></b> ⭐ 17,482    
+25. <a href="https://github.com/comet-ml/opik">comet-ml/</a><b><a href="https://github.com/comet-ml/opik">opik</a></b> ⭐ 17,482    
    Opik is an open-source platform for evaluating, testing and monitoring LLM applications.  
    🔗 [www.comet.com/docs/opik](https://www.comet.com/docs/opik/)  
 
-25. <a href="https://github.com/ipython/ipython">ipython/</a><b><a href="https://github.com/ipython/ipython">ipython</a></b> ⭐ 16,662    
+26. <a href="https://github.com/ipython/ipython">ipython/</a><b><a href="https://github.com/ipython/ipython">ipython</a></b> ⭐ 16,662    
    Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.  
    🔗 [ipython.readthedocs.org](https://ipython.readthedocs.org)  
 
-26. <a href="https://github.com/alievk/avatarify-python">alievk/</a><b><a href="https://github.com/alievk/avatarify-python">avatarify-python</a></b> ⭐ 16,550    
+27. <a href="https://github.com/alievk/avatarify-python">alievk/</a><b><a href="https://github.com/alievk/avatarify-python">avatarify-python</a></b> ⭐ 16,550    
    Avatars for Zoom, Skype and other video-conferencing apps.  
 
-27. <a href="https://github.com/caronc/apprise">caronc/</a><b><a href="https://github.com/caronc/apprise">apprise</a></b> ⭐ 15,648    
+28. <a href="https://github.com/caronc/apprise">caronc/</a><b><a href="https://github.com/caronc/apprise">apprise</a></b> ⭐ 15,648    
    Apprise - Push Notifications that work with just about every platform!  
    🔗 [hub.docker.com/r/caronc/apprise](https://hub.docker.com/r/caronc/apprise)  
 
-28. <a href="https://github.com/pyo3/pyo3">pyo3/</a><b><a href="https://github.com/pyo3/pyo3">pyo3</a></b> ⭐ 15,202    
+29. <a href="https://github.com/pyo3/pyo3">pyo3/</a><b><a href="https://github.com/pyo3/pyo3">pyo3</a></b> ⭐ 15,202    
    Rust bindings for the Python interpreter  
    🔗 [pyo3.rs](https://pyo3.rs)  
 
-29. <a href="https://github.com/google/brotli">google/</a><b><a href="https://github.com/google/brotli">brotli</a></b> ⭐ 14,548    
+30. <a href="https://github.com/google/brotli">google/</a><b><a href="https://github.com/google/brotli">brotli</a></b> ⭐ 14,548    
    Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling  
 
-30. <a href="https://github.com/nuitka/nuitka">nuitka/</a><b><a href="https://github.com/nuitka/nuitka">Nuitka</a></b> ⭐ 14,417    
+31. <a href="https://github.com/nuitka/nuitka">nuitka/</a><b><a href="https://github.com/nuitka/nuitka">Nuitka</a></b> ⭐ 14,417    
    Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.   
    🔗 [nuitka.net](http://nuitka.net)  
 
-31. <a href="https://github.com/zulko/moviepy">zulko/</a><b><a href="https://github.com/zulko/moviepy">moviepy</a></b> ⭐ 14,268    
+32. <a href="https://github.com/zulko/moviepy">zulko/</a><b><a href="https://github.com/zulko/moviepy">moviepy</a></b> ⭐ 14,268    
    Video editing with Python  
    🔗 [zulko.github.io/moviepy](https://zulko.github.io/moviepy/)  
 
-32. <a href="https://github.com/pyodide/pyodide">pyodide/</a><b><a href="https://github.com/pyodide/pyodide">pyodide</a></b> ⭐ 14,148    
+33. <a href="https://github.com/pyodide/pyodide">pyodide/</a><b><a href="https://github.com/pyodide/pyodide">pyodide</a></b> ⭐ 14,148    
    Pyodide is a Python distribution for the browser and Node.js based on WebAssembly  
    🔗 [pyodide.org/en/stable](https://pyodide.org/en/stable/)  
 
-33. <a href="https://github.com/python-pillow/pillow">python-pillow/</a><b><a href="https://github.com/python-pillow/pillow">Pillow</a></b> ⭐ 13,332    
+34. <a href="https://github.com/floci-io/floci">floci-io/</a><b><a href="https://github.com/floci-io/floci">floci</a></b> ⭐ 13,905    
+   Light, fluffy, and always free - The AWS Local Emulator alternative  
+   🔗 [floci.io/floci](https://floci.io/floci/)  
+
+35. <a href="https://github.com/python-pillow/pillow">python-pillow/</a><b><a href="https://github.com/python-pillow/pillow">Pillow</a></b> ⭐ 13,332    
    The Python Imaging Library adds image processing capabilities to Python (Pillow is the friendly PIL fork)  
    🔗 [python-pillow.github.io](https://python-pillow.github.io)  
 
-34. <a href="https://github.com/pytube/pytube">pytube/</a><b><a href="https://github.com/pytube/pytube">pytube</a></b> ⭐ 13,066    
+36. <a href="https://github.com/pytube/pytube">pytube/</a><b><a href="https://github.com/pytube/pytube">pytube</a></b> ⭐ 13,066    
    A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.  
    🔗 [pytube.io](https://pytube.io)  
 
-35. <a href="https://github.com/ninja-build/ninja">ninja-build/</a><b><a href="https://github.com/ninja-build/ninja">ninja</a></b> ⭐ 12,636    
+37. <a href="https://github.com/ninja-build/ninja">ninja-build/</a><b><a href="https://github.com/ninja-build/ninja">ninja</a></b> ⭐ 12,636    
    Ninja is a small build system with a focus on speed.  
    🔗 [ninja-build.org](https://ninja-build.org/)  
 
-36. <a href="https://github.com/asweigart/pyautogui">asweigart/</a><b><a href="https://github.com/asweigart/pyautogui">pyautogui</a></b> ⭐ 12,236    
+38. <a href="https://github.com/asweigart/pyautogui">asweigart/</a><b><a href="https://github.com/asweigart/pyautogui">pyautogui</a></b> ⭐ 12,236    
    A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.  
 
-37. <a href="https://github.com/dbader/schedule">dbader/</a><b><a href="https://github.com/dbader/schedule">schedule</a></b> ⭐ 12,225    
+39. <a href="https://github.com/dbader/schedule">dbader/</a><b><a href="https://github.com/dbader/schedule">schedule</a></b> ⭐ 12,225    
    Python job scheduling for humans.  
    🔗 [schedule.readthedocs.io](https://schedule.readthedocs.io/)  
 
-38. <a href="https://github.com/secdev/scapy">secdev/</a><b><a href="https://github.com/secdev/scapy">scapy</a></b> ⭐ 12,003    
+40. <a href="https://github.com/secdev/scapy">secdev/</a><b><a href="https://github.com/secdev/scapy">scapy</a></b> ⭐ 12,003    
    Scapy: the Python-based interactive packet manipulation program & library.  
    🔗 [scapy.net](https://scapy.net)  
 
-39. <a href="https://github.com/magicstack/uvloop">magicstack/</a><b><a href="https://github.com/magicstack/uvloop">uvloop</a></b> ⭐ 11,607    
+41. <a href="https://github.com/magicstack/uvloop">magicstack/</a><b><a href="https://github.com/magicstack/uvloop">uvloop</a></b> ⭐ 11,607    
    Ultra fast asyncio event loop.  
 
-40. <a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud-photos-downloader/</a><b><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud_photos_downloader</a></b> ⭐ 11,439    
+42. <a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud-photos-downloader/</a><b><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader">icloud_photos_downloader</a></b> ⭐ 11,439    
    A command-line tool to download photos from iCloud  
 
-41. <a href="https://github.com/pallets/jinja">pallets/</a><b><a href="https://github.com/pallets/jinja">jinja</a></b> ⭐ 11,404    
+43. <a href="https://github.com/pallets/jinja">pallets/</a><b><a href="https://github.com/pallets/jinja">jinja</a></b> ⭐ 11,404    
    A very fast and expressive template engine.  
    🔗 [jinja.palletsprojects.com](https://jinja.palletsprojects.com)  
 
-42. <a href="https://github.com/aristocratos/bpytop">aristocratos/</a><b><a href="https://github.com/aristocratos/bpytop">bpytop</a></b> ⭐ 10,854    
+44. <a href="https://github.com/aristocratos/bpytop">aristocratos/</a><b><a href="https://github.com/aristocratos/bpytop">bpytop</a></b> ⭐ 10,854    
    Linux/OSX/FreeBSD resource monitor  
 
-43. <a href="https://github.com/cython/cython">cython/</a><b><a href="https://github.com/cython/cython">cython</a></b> ⭐ 10,580    
+45. <a href="https://github.com/cython/cython">cython/</a><b><a href="https://github.com/cython/cython">cython</a></b> ⭐ 10,580    
    The most widely used Python to C compiler  
    🔗 [cython.org](https://cython.org)  
 
-44. <a href="https://github.com/facebookresearch/hydra">facebookresearch/</a><b><a href="https://github.com/facebookresearch/hydra">hydra</a></b> ⭐ 10,139    
+46. <a href="https://github.com/facebookresearch/hydra">facebookresearch/</a><b><a href="https://github.com/facebookresearch/hydra">hydra</a></b> ⭐ 10,139    
    Hydra is a framework for elegantly configuring complex applications  
    🔗 [hydra.cc](https://hydra.cc)  
 
-45. <a href="https://github.com/py-pdf/pypdf2">py-pdf/</a><b><a href="https://github.com/py-pdf/pypdf2">pypdf</a></b> ⭐ 9,761    
+47. <a href="https://github.com/py-pdf/pypdf2">py-pdf/</a><b><a href="https://github.com/py-pdf/pypdf2">pypdf</a></b> ⭐ 9,761    
    A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files  
    🔗 [pypdf.readthedocs.io/en/latest](https://pypdf.readthedocs.io/en/latest/)  
 
-46. <a href="https://github.com/boto/boto3">boto/</a><b><a href="https://github.com/boto/boto3">boto3</a></b> ⭐ 9,665    
+48. <a href="https://github.com/boto/boto3">boto/</a><b><a href="https://github.com/boto/boto3">boto3</a></b> ⭐ 9,665    
    Boto3, an AWS SDK for Python  
    🔗 [aws.amazon.com/sdk-for-python](https://aws.amazon.com/sdk-for-python/)  
 
-47. <a href="https://github.com/paramiko/paramiko">paramiko/</a><b><a href="https://github.com/paramiko/paramiko">paramiko</a></b> ⭐ 9,661    
+49. <a href="https://github.com/paramiko/paramiko">paramiko/</a><b><a href="https://github.com/paramiko/paramiko">paramiko</a></b> ⭐ 9,661    
    The leading native Python SSHv2 protocol library.  
    🔗 [paramiko.org](http://paramiko.org)  
 
-48. <a href="https://github.com/aws/serverless-application-model">aws/</a><b><a href="https://github.com/aws/serverless-application-model">serverless-application-model</a></b> ⭐ 9,546    
+50. <a href="https://github.com/aws/serverless-application-model">aws/</a><b><a href="https://github.com/aws/serverless-application-model">serverless-application-model</a></b> ⭐ 9,546    
    The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.  
    🔗 [aws.amazon.com/serverless/sam](https://aws.amazon.com/serverless/sam)  
 
-49. <a href="https://github.com/xonsh/xonsh">xonsh/</a><b><a href="https://github.com/xonsh/xonsh">xonsh</a></b> ⭐ 9,186    
+51. <a href="https://github.com/xonsh/xonsh">xonsh/</a><b><a href="https://github.com/xonsh/xonsh">xonsh</a></b> ⭐ 9,186    
    🐚 Python-powered shell. Full-featured and cross-platform.  
    🔗 [xon.sh](http://xon.sh)  
 
-50. <a href="https://github.com/arrow-py/arrow">arrow-py/</a><b><a href="https://github.com/arrow-py/arrow">arrow</a></b> ⭐ 9,015    
+52. <a href="https://github.com/arrow-py/arrow">arrow-py/</a><b><a href="https://github.com/arrow-py/arrow">arrow</a></b> ⭐ 9,015    
    🏹 Better dates & times for Python  
    🔗 [arrow.readthedocs.io](https://arrow.readthedocs.io)  
 
-51. <a href="https://github.com/googleapis/google-api-python-client">googleapis/</a><b><a href="https://github.com/googleapis/google-api-python-client">google-api-python-client</a></b> ⭐ 8,678    
+53. <a href="https://github.com/googleapis/google-api-python-client">googleapis/</a><b><a href="https://github.com/googleapis/google-api-python-client">google-api-python-client</a></b> ⭐ 8,678    
    🐍 The official Python client library for Google's discovery based APIs.  
    🔗 [googleapis.github.io/google-api-python-client/docs](https://googleapis.github.io/google-api-python-client/docs/)  
 
-52. <a href="https://github.com/eternnoir/pytelegrambotapi">eternnoir/</a><b><a href="https://github.com/eternnoir/pytelegrambotapi">pyTelegramBotAPI</a></b> ⭐ 8,662    
+54. <a href="https://github.com/eternnoir/pytelegrambotapi">eternnoir/</a><b><a href="https://github.com/eternnoir/pytelegrambotapi">pyTelegramBotAPI</a></b> ⭐ 8,662    
    Python Telegram bot api.  
 
-53. <a href="https://github.com/theskumar/python-dotenv">theskumar/</a><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> ⭐ 8,619    
+55. <a href="https://github.com/theskumar/python-dotenv">theskumar/</a><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> ⭐ 8,619    
    Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.  
    🔗 [saurabh-kumar.com/python-dotenv](https://saurabh-kumar.com/python-dotenv/)  
 
-54. <a href="https://github.com/kellyjonbrazil/jc">kellyjonbrazil/</a><b><a href="https://github.com/kellyjonbrazil/jc">jc</a></b> ⭐ 8,510    
+56. <a href="https://github.com/kellyjonbrazil/jc">kellyjonbrazil/</a><b><a href="https://github.com/kellyjonbrazil/jc">jc</a></b> ⭐ 8,510    
    CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.  
 
-55. <a href="https://github.com/jasonppy/voicecraft">jasonppy/</a><b><a href="https://github.com/jasonppy/voicecraft">VoiceCraft</a></b> ⭐ 8,456    
+57. <a href="https://github.com/jasonppy/voicecraft">jasonppy/</a><b><a href="https://github.com/jasonppy/voicecraft">VoiceCraft</a></b> ⭐ 8,456    
    Zero-Shot Speech Editing and Text-to-Speech in the Wild  
 
-56. <a href="https://github.com/jd/tenacity">jd/</a><b><a href="https://github.com/jd/tenacity">tenacity</a></b> ⭐ 8,287    
+58. <a href="https://github.com/jd/tenacity">jd/</a><b><a href="https://github.com/jd/tenacity">tenacity</a></b> ⭐ 8,287    
    Retrying library for Python  
    🔗 [tenacity.readthedocs.io](http://tenacity.readthedocs.io)  
 
-57. <a href="https://github.com/googlecloudplatform/python-docs-samples">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/python-docs-samples">python-docs-samples</a></b> ⭐ 7,956    
+59. <a href="https://github.com/googlecloudplatform/python-docs-samples">googlecloudplatform/</a><b><a href="https://github.com/googlecloudplatform/python-docs-samples">python-docs-samples</a></b> ⭐ 7,956    
    Code samples used on cloud.google.com  
 
-58. <a href="https://github.com/timdettmers/bitsandbytes">timdettmers/</a><b><a href="https://github.com/timdettmers/bitsandbytes">bitsandbytes</a></b> ⭐ 7,912    
+60. <a href="https://github.com/timdettmers/bitsandbytes">timdettmers/</a><b><a href="https://github.com/timdettmers/bitsandbytes">bitsandbytes</a></b> ⭐ 7,912    
    Accessible large language models via k-bit quantization for PyTorch.  
    🔗 [huggingface.co/docs/bitsandbytes/main/en/index](https://huggingface.co/docs/bitsandbytes/main/en/index)  
 
-59. <a href="https://github.com/ijl/orjson">ijl/</a><b><a href="https://github.com/ijl/orjson">orjson</a></b> ⭐ 7,827    
+61. <a href="https://github.com/ijl/orjson">ijl/</a><b><a href="https://github.com/ijl/orjson">orjson</a></b> ⭐ 7,827    
    Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy  
 
-60. <a href="https://github.com/pygithub/pygithub">pygithub/</a><b><a href="https://github.com/pygithub/pygithub">PyGithub</a></b> ⭐ 7,647    
+62. <a href="https://github.com/pygithub/pygithub">pygithub/</a><b><a href="https://github.com/pygithub/pygithub">PyGithub</a></b> ⭐ 7,647    
    Typed interactions with the GitHub API v3  
    🔗 [pygithub.readthedocs.io](https://pygithub.readthedocs.io/)  
 
-61. <a href="https://github.com/sphinx-doc/sphinx">sphinx-doc/</a><b><a href="https://github.com/sphinx-doc/sphinx">sphinx</a></b> ⭐ 7,627    
+63. <a href="https://github.com/sphinx-doc/sphinx">sphinx-doc/</a><b><a href="https://github.com/sphinx-doc/sphinx">sphinx</a></b> ⭐ 7,627    
    The Sphinx documentation generator  
    🔗 [www.sphinx-doc.org](https://www.sphinx-doc.org/)  
 
-62. <a href="https://github.com/google/latexify_py">google/</a><b><a href="https://github.com/google/latexify_py">latexify_py</a></b> ⭐ 7,592    
+64. <a href="https://github.com/google/latexify_py">google/</a><b><a href="https://github.com/google/latexify_py">latexify_py</a></b> ⭐ 7,592    
    A library to generate LaTeX expression from Python code.  
 
-63. <a href="https://github.com/pyca/cryptography">pyca/</a><b><a href="https://github.com/pyca/cryptography">cryptography</a></b> ⭐ 7,446    
+65. <a href="https://github.com/pyca/cryptography">pyca/</a><b><a href="https://github.com/pyca/cryptography">cryptography</a></b> ⭐ 7,446    
    cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.  
    🔗 [cryptography.io](https://cryptography.io)  
 
-64. <a href="https://github.com/bndr/pipreqs">bndr/</a><b><a href="https://github.com/bndr/pipreqs">pipreqs</a></b> ⭐ 7,417    
+66. <a href="https://github.com/bndr/pipreqs">bndr/</a><b><a href="https://github.com/bndr/pipreqs">pipreqs</a></b> ⭐ 7,417    
    pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.  
 
-65. <a href="https://github.com/agronholm/apscheduler">agronholm/</a><b><a href="https://github.com/agronholm/apscheduler">apscheduler</a></b> ⭐ 7,257    
+67. <a href="https://github.com/agronholm/apscheduler">agronholm/</a><b><a href="https://github.com/agronholm/apscheduler">apscheduler</a></b> ⭐ 7,257    
    Task scheduling library for Python  
    🔗 [apscheduler.readthedocs.io](https://apscheduler.readthedocs.io/)  
 
-66. <a href="https://github.com/gorakhargosh/watchdog">gorakhargosh/</a><b><a href="https://github.com/gorakhargosh/watchdog">watchdog</a></b> ⭐ 7,234    
+68. <a href="https://github.com/gorakhargosh/watchdog">gorakhargosh/</a><b><a href="https://github.com/gorakhargosh/watchdog">watchdog</a></b> ⭐ 7,234    
    Python library and shell utilities to monitor filesystem events.  
    🔗 [packages.python.org/watchdog](http://packages.python.org/watchdog/)  
 
-67. <a href="https://github.com/marshmallow-code/marshmallow">marshmallow-code/</a><b><a href="https://github.com/marshmallow-code/marshmallow">marshmallow</a></b> ⭐ 7,231    
+69. <a href="https://github.com/marshmallow-code/marshmallow">marshmallow-code/</a><b><a href="https://github.com/marshmallow-code/marshmallow">marshmallow</a></b> ⭐ 7,231    
    A lightweight library for converting complex objects to and from simple Python datatypes.  
    🔗 [marshmallow.readthedocs.io](https://marshmallow.readthedocs.io/)  
 
-68. <a href="https://github.com/hugapi/hug">hugapi/</a><b><a href="https://github.com/hugapi/hug">hug</a></b> ⭐ 6,906    
+70. <a href="https://github.com/hugapi/hug">hugapi/</a><b><a href="https://github.com/hugapi/hug">hug</a></b> ⭐ 6,906    
    Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.  
 
-69. <a href="https://github.com/pdfminer/pdfminer.six">pdfminer/</a><b><a href="https://github.com/pdfminer/pdfminer.six">pdfminer.six</a></b> ⭐ 6,871    
+71. <a href="https://github.com/pdfminer/pdfminer.six">pdfminer/</a><b><a href="https://github.com/pdfminer/pdfminer.six">pdfminer.six</a></b> ⭐ 6,871    
    Community maintained fork of pdfminer - we fathom PDF  
    🔗 [pdfminersix.readthedocs.io](https://pdfminersix.readthedocs.io)  
 
-70. <a href="https://github.com/openai/point-e">openai/</a><b><a href="https://github.com/openai/point-e">point-e</a></b> ⭐ 6,849    
+72. <a href="https://github.com/openai/point-e">openai/</a><b><a href="https://github.com/openai/point-e">point-e</a></b> ⭐ 6,849    
    Point cloud diffusion for 3D model synthesis  
 
-71. <a href="https://github.com/traceloop/openllmetry">traceloop/</a><b><a href="https://github.com/traceloop/openllmetry">openllmetry</a></b> ⭐ 6,784    
+73. <a href="https://github.com/traceloop/openllmetry">traceloop/</a><b><a href="https://github.com/traceloop/openllmetry">openllmetry</a></b> ⭐ 6,784    
    Open-source observability for your GenAI or LLM application, based on OpenTelemetry  
    🔗 [www.traceloop.com/openllmetry](https://www.traceloop.com/openllmetry)  
 
-72. <a href="https://github.com/sdispater/pendulum">sdispater/</a><b><a href="https://github.com/sdispater/pendulum">pendulum</a></b> ⭐ 6,609    
+74. <a href="https://github.com/sdispater/pendulum">sdispater/</a><b><a href="https://github.com/sdispater/pendulum">pendulum</a></b> ⭐ 6,609    
    Python datetimes made easy  
    🔗 [pendulum.eustace.io](https://pendulum.eustace.io)  
 
-73. <a href="https://github.com/scikit-image/scikit-image">scikit-image/</a><b><a href="https://github.com/scikit-image/scikit-image">scikit-image</a></b> ⭐ 6,431    
+75. <a href="https://github.com/scikit-image/scikit-image">scikit-image/</a><b><a href="https://github.com/scikit-image/scikit-image">scikit-image</a></b> ⭐ 6,431    
    Image processing in Python  
    🔗 [scikit-image.org](https://scikit-image.org)  
 
-74. <a href="https://github.com/pytransitions/transitions">pytransitions/</a><b><a href="https://github.com/pytransitions/transitions">transitions</a></b> ⭐ 6,392    
+76. <a href="https://github.com/pytransitions/transitions">pytransitions/</a><b><a href="https://github.com/pytransitions/transitions">transitions</a></b> ⭐ 6,392    
    A lightweight, object-oriented finite state machine implementation in Python with many extensions  
 
-75. <a href="https://github.com/wireservice/csvkit">wireservice/</a><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b> ⭐ 6,328    
+77. <a href="https://github.com/wireservice/csvkit">wireservice/</a><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b> ⭐ 6,328    
    A suite of utilities for converting to and working with CSV, the king of tabular file formats.  
    🔗 [csvkit.readthedocs.io](https://csvkit.readthedocs.io)  
 
-76. <a href="https://github.com/rsalmei/alive-progress">rsalmei/</a><b><a href="https://github.com/rsalmei/alive-progress">alive-progress</a></b> ⭐ 6,221    
+78. <a href="https://github.com/rsalmei/alive-progress">rsalmei/</a><b><a href="https://github.com/rsalmei/alive-progress">alive-progress</a></b> ⭐ 6,221    
    A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!  
 
-77. <a href="https://github.com/spotify/pedalboard">spotify/</a><b><a href="https://github.com/spotify/pedalboard">pedalboard</a></b> ⭐ 5,941    
+79. <a href="https://github.com/spotify/pedalboard">spotify/</a><b><a href="https://github.com/spotify/pedalboard">pedalboard</a></b> ⭐ 5,941    
    🎛 🔊 A Python library for audio.  
    🔗 [spotify.github.io/pedalboard](https://spotify.github.io/pedalboard)  
 
-78. <a href="https://github.com/pywinauto/pywinauto">pywinauto/</a><b><a href="https://github.com/pywinauto/pywinauto">pywinauto</a></b> ⭐ 5,863    
+80. <a href="https://github.com/pywinauto/pywinauto">pywinauto/</a><b><a href="https://github.com/pywinauto/pywinauto">pywinauto</a></b> ⭐ 5,863    
    Windows GUI Automation with Python (based on text properties)  
    🔗 [pywinauto.github.io](http://pywinauto.github.io/)  
 
-79. <a href="https://github.com/tebelorg/rpa-python">tebelorg/</a><b><a href="https://github.com/tebelorg/rpa-python">RPA-Python</a></b> ⭐ 5,442    
+81. <a href="https://github.com/tebelorg/rpa-python">tebelorg/</a><b><a href="https://github.com/tebelorg/rpa-python">RPA-Python</a></b> ⭐ 5,442    
    Python package for doing RPA  
 
-80. <a href="https://github.com/buildbot/buildbot">buildbot/</a><b><a href="https://github.com/buildbot/buildbot">buildbot</a></b> ⭐ 5,423    
+82. <a href="https://github.com/buildbot/buildbot">buildbot/</a><b><a href="https://github.com/buildbot/buildbot">buildbot</a></b> ⭐ 5,423    
    Python-based continuous integration testing framework; your pull requests are more than welcome!  
    🔗 [www.buildbot.net](https://www.buildbot.net)  
 
-81. <a href="https://github.com/prompt-toolkit/ptpython">prompt-toolkit/</a><b><a href="https://github.com/prompt-toolkit/ptpython">ptpython</a></b> ⭐ 5,394    
+83. <a href="https://github.com/prompt-toolkit/ptpython">prompt-toolkit/</a><b><a href="https://github.com/prompt-toolkit/ptpython">ptpython</a></b> ⭐ 5,394    
    A better Python REPL  
 
-82. <a href="https://github.com/pythonnet/pythonnet">pythonnet/</a><b><a href="https://github.com/pythonnet/pythonnet">pythonnet</a></b> ⭐ 5,385    
+84. <a href="https://github.com/pythonnet/pythonnet">pythonnet/</a><b><a href="https://github.com/pythonnet/pythonnet">pythonnet</a></b> ⭐ 5,385    
    Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.  
    🔗 [pythonnet.github.io](http://pythonnet.github.io)  
 
-83. <a href="https://github.com/pyo3/maturin">pyo3/</a><b><a href="https://github.com/pyo3/maturin">maturin</a></b> ⭐ 5,317    
+85. <a href="https://github.com/pyo3/maturin">pyo3/</a><b><a href="https://github.com/pyo3/maturin">maturin</a></b> ⭐ 5,317    
    Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages  
    🔗 [maturin.rs](https://maturin.rs)  
 
-84. <a href="https://github.com/ashleve/lightning-hydra-template">ashleve/</a><b><a href="https://github.com/ashleve/lightning-hydra-template">lightning-hydra-template</a></b> ⭐ 5,116    
+86. <a href="https://github.com/ashleve/lightning-hydra-template">ashleve/</a><b><a href="https://github.com/ashleve/lightning-hydra-template">lightning-hydra-template</a></b> ⭐ 5,116    
    PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡  
 
-85. <a href="https://github.com/pytoolz/toolz">pytoolz/</a><b><a href="https://github.com/pytoolz/toolz">toolz</a></b> ⭐ 5,112    
+87. <a href="https://github.com/pytoolz/toolz">pytoolz/</a><b><a href="https://github.com/pytoolz/toolz">toolz</a></b> ⭐ 5,112    
    A functional standard library for Python.  
    🔗 [toolz.readthedocs.org](http://toolz.readthedocs.org/)  
 
-86. <a href="https://github.com/bogdanp/dramatiq">bogdanp/</a><b><a href="https://github.com/bogdanp/dramatiq">dramatiq</a></b> ⭐ 5,098    
+88. <a href="https://github.com/bogdanp/dramatiq">bogdanp/</a><b><a href="https://github.com/bogdanp/dramatiq">dramatiq</a></b> ⭐ 5,098    
    A fast and reliable background task processing library for Python 3.  
    🔗 [dramatiq.io](https://dramatiq.io)  
 
-87. <a href="https://github.com/gitpython-developers/gitpython">gitpython-developers/</a><b><a href="https://github.com/gitpython-developers/gitpython">GitPython</a></b> ⭐ 5,063    
+89. <a href="https://github.com/gitpython-developers/gitpython">gitpython-developers/</a><b><a href="https://github.com/gitpython-developers/gitpython">GitPython</a></b> ⭐ 5,063    
    GitPython is a python library used to interact with Git repositories.  
    🔗 [gitpython.readthedocs.org](http://gitpython.readthedocs.org)  
 
-88. <a href="https://github.com/jorgebastida/awslogs">jorgebastida/</a><b><a href="https://github.com/jorgebastida/awslogs">awslogs</a></b> ⭐ 4,975    
+90. <a href="https://github.com/jorgebastida/awslogs">jorgebastida/</a><b><a href="https://github.com/jorgebastida/awslogs">awslogs</a></b> ⭐ 4,975    
    AWS CloudWatch logs for Humans™  
 
-89. <a href="https://github.com/ets-labs/python-dependency-injector">ets-labs/</a><b><a href="https://github.com/ets-labs/python-dependency-injector">python-dependency-injector</a></b> ⭐ 4,779    
+91. <a href="https://github.com/ets-labs/python-dependency-injector">ets-labs/</a><b><a href="https://github.com/ets-labs/python-dependency-injector">python-dependency-injector</a></b> ⭐ 4,779    
    Dependency injection framework for Python  
    🔗 [python-dependency-injector.ets-labs.org](https://python-dependency-injector.ets-labs.org/)  
 
-90. <a href="https://github.com/pyinvoke/invoke">pyinvoke/</a><b><a href="https://github.com/pyinvoke/invoke">invoke</a></b> ⭐ 4,695    
+92. <a href="https://github.com/pyinvoke/invoke">pyinvoke/</a><b><a href="https://github.com/pyinvoke/invoke">invoke</a></b> ⭐ 4,695    
    Pythonic task management & command execution.  
    🔗 [pyinvoke.org](http://pyinvoke.org)  
 
-91. <a href="https://github.com/pyinfra-dev/pyinfra">pyinfra-dev/</a><b><a href="https://github.com/pyinfra-dev/pyinfra">pyinfra</a></b> ⭐ 4,673    
+93. <a href="https://github.com/pyinfra-dev/pyinfra">pyinfra-dev/</a><b><a href="https://github.com/pyinfra-dev/pyinfra">pyinfra</a></b> ⭐ 4,673    
    🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.  
    🔗 [pyinfra.com](https://pyinfra.com)  
 
-92. <a href="https://github.com/spotify/basic-pitch">spotify/</a><b><a href="https://github.com/spotify/basic-pitch">basic-pitch</a></b> ⭐ 4,609    
+94. <a href="https://github.com/spotify/basic-pitch">spotify/</a><b><a href="https://github.com/spotify/basic-pitch">basic-pitch</a></b> ⭐ 4,609    
    A lightweight yet powerful audio-to-MIDI converter with pitch bend detection  
    🔗 [basicpitch.io](https://basicpitch.io)  
 
-93. <a href="https://github.com/blealtan/efficient-kan">blealtan/</a><b><a href="https://github.com/blealtan/efficient-kan">efficient-kan</a></b> ⭐ 4,566    
+95. <a href="https://github.com/blealtan/efficient-kan">blealtan/</a><b><a href="https://github.com/blealtan/efficient-kan">efficient-kan</a></b> ⭐ 4,566    
    An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).  
 
-94. <a href="https://github.com/pydantic/monty">pydantic/</a><b><a href="https://github.com/pydantic/monty">monty</a></b> ⭐ 4,523    
+96. <a href="https://github.com/pydantic/monty">pydantic/</a><b><a href="https://github.com/pydantic/monty">monty</a></b> ⭐ 4,523    
    A minimal, secure Python interpreter written in Rust for use by AI  
 
-95. <a href="https://github.com/hynek/structlog">hynek/</a><b><a href="https://github.com/hynek/structlog">structlog</a></b> ⭐ 4,517    
+97. <a href="https://github.com/hynek/structlog">hynek/</a><b><a href="https://github.com/hynek/structlog">structlog</a></b> ⭐ 4,517    
    Simple, powerful, and fast logging for Python.  
    🔗 [www.structlog.org](https://www.structlog.org/)  
 
-96. <a href="https://github.com/adafruit/circuitpython">adafruit/</a><b><a href="https://github.com/adafruit/circuitpython">circuitpython</a></b> ⭐ 4,455    
+98. <a href="https://github.com/adafruit/circuitpython">adafruit/</a><b><a href="https://github.com/adafruit/circuitpython">circuitpython</a></b> ⭐ 4,455    
    CircuitPython - a Python implementation for teaching coding with microcontrollers  
    🔗 [circuitpython.org](https://circuitpython.org)  
 
-97. <a href="https://github.com/miguelgrinberg/python-socketio">miguelgrinberg/</a><b><a href="https://github.com/miguelgrinberg/python-socketio">python-socketio</a></b> ⭐ 4,309    
+99. <a href="https://github.com/miguelgrinberg/python-socketio">miguelgrinberg/</a><b><a href="https://github.com/miguelgrinberg/python-socketio">python-socketio</a></b> ⭐ 4,309    
    Python Socket.IO server and client  
 
-98. <a href="https://github.com/evhub/coconut">evhub/</a><b><a href="https://github.com/evhub/coconut">coconut</a></b> ⭐ 4,299    
+100. <a href="https://github.com/evhub/coconut">evhub/</a><b><a href="https://github.com/evhub/coconut">coconut</a></b> ⭐ 4,299    
    Coconut (coconut-lang.org) is a variant of Python that adds on top of Python syntax new features for simple, elegant, Pythonic functional programming.  
    🔗 [coconut-lang.org](http://coconut-lang.org)  
 
-99. <a href="https://github.com/pydata/xarray">pydata/</a><b><a href="https://github.com/pydata/xarray">xarray</a></b> ⭐ 4,070    
+101. <a href="https://github.com/pydata/xarray">pydata/</a><b><a href="https://github.com/pydata/xarray">xarray</a></b> ⭐ 4,070    
    N-D labeled arrays and datasets in Python  
    🔗 [xarray.dev](https://xarray.dev)  
 
-100. <a href="https://github.com/pydantic/logfire">pydantic/</a><b><a href="https://github.com/pydantic/logfire">logfire</a></b> ⭐ 3,955    
+102. <a href="https://github.com/pydantic/logfire">pydantic/</a><b><a href="https://github.com/pydantic/logfire">logfire</a></b> ⭐ 3,955    
    AI observability platform for production LLM and agent systems.  
    🔗 [logfire.pydantic.dev/docs](https://logfire.pydantic.dev/docs/)  
 
-101. <a href="https://github.com/tartley/colorama">tartley/</a><b><a href="https://github.com/tartley/colorama">colorama</a></b> ⭐ 3,765    
-   Simple cross-platform colored terminal text in Python  
-
-102. <a href="https://github.com/camelot-dev/camelot">camelot-dev/</a><b><a href="https://github.com/camelot-dev/camelot">camelot</a></b> ⭐ 3,576    
+103. <a href="https://github.com/camelot-dev/camelot">camelot-dev/</a><b><a href="https://github.com/camelot-dev/camelot">camelot</a></b> ⭐ 3,576    
    A Python library to extract tabular data from PDFs  
    🔗 [camelot-py.readthedocs.io](https://camelot-py.readthedocs.io)  
 
-103. <a href="https://github.com/jorisschellekens/borb">jorisschellekens/</a><b><a href="https://github.com/jorisschellekens/borb">borb</a></b> ⭐ 3,551    
+104. <a href="https://github.com/jorisschellekens/borb">jorisschellekens/</a><b><a href="https://github.com/jorisschellekens/borb">borb</a></b> ⭐ 3,551    
    borb is a library for reading, creating and manipulating PDF files in python.  
    🔗 [borbpdf.com](https://borbpdf.com/)  
 
-104. <a href="https://github.com/jcrist/msgspec">jcrist/</a><b><a href="https://github.com/jcrist/msgspec">msgspec</a></b> ⭐ 3,530    
+105. <a href="https://github.com/jcrist/msgspec">jcrist/</a><b><a href="https://github.com/jcrist/msgspec">msgspec</a></b> ⭐ 3,530    
    A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML  
    🔗 [jcristharif.com/msgspec](https://jcristharif.com/msgspec/)  
 
-105. <a href="https://github.com/osohq/oso">osohq/</a><b><a href="https://github.com/osohq/oso">oso</a></b> ⭐ 3,494    
+106. <a href="https://github.com/osohq/oso">osohq/</a><b><a href="https://github.com/osohq/oso">oso</a></b> ⭐ 3,494    
    Deprecated: See README  
 
-106. <a href="https://github.com/pyserial/pyserial">pyserial/</a><b><a href="https://github.com/pyserial/pyserial">pyserial</a></b> ⭐ 3,490    
+107. <a href="https://github.com/pyserial/pyserial">pyserial/</a><b><a href="https://github.com/pyserial/pyserial">pyserial</a></b> ⭐ 3,490    
    Python serial port access library  
    🔗 [pyserial.readthedocs.io/en/latest](http://pyserial.readthedocs.io/en/latest/)  
 
-107. <a href="https://github.com/karpathy/reader3">karpathy/</a><b><a href="https://github.com/karpathy/reader3">reader3</a></b> ⭐ 3,261    
+108. <a href="https://github.com/karpathy/reader3">karpathy/</a><b><a href="https://github.com/karpathy/reader3">reader3</a></b> ⭐ 3,261    
    A lightweight, self-hosted EPUB reader that lets you read through EPUB books one chapter at a time.  
 
-108. <a href="https://github.com/libaudioflux/audioflux">libaudioflux/</a><b><a href="https://github.com/libaudioflux/audioflux">audioFlux</a></b> ⭐ 3,241    
+109. <a href="https://github.com/libaudioflux/audioflux">libaudioflux/</a><b><a href="https://github.com/libaudioflux/audioflux">audioFlux</a></b> ⭐ 3,241    
    A library for audio and music analysis, feature extraction.  
    🔗 [audioflux.top](https://audioflux.top)  
 
-109. <a href="https://github.com/rhettbull/osxphotos">rhettbull/</a><b><a href="https://github.com/rhettbull/osxphotos">osxphotos</a></b> ⭐ 3,230    
+110. <a href="https://github.com/rhettbull/osxphotos">rhettbull/</a><b><a href="https://github.com/rhettbull/osxphotos">osxphotos</a></b> ⭐ 3,230    
    Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.   
 
-110. <a href="https://github.com/whylabs/whylogs">whylabs/</a><b><a href="https://github.com/whylabs/whylogs">whylogs</a></b> ⭐ 2,788    
+111. <a href="https://github.com/strukto-ai/mirage">strukto-ai/</a><b><a href="https://github.com/strukto-ai/mirage">mirage</a></b> ⭐ 3,120    
+   A Unified Virtual Filesystem For AI Agents  
+   🔗 [www.strukto.ai/mirage](https://www.strukto.ai/mirage)  
+
+112. <a href="https://github.com/whylabs/whylogs">whylabs/</a><b><a href="https://github.com/whylabs/whylogs">whylogs</a></b> ⭐ 2,788    
    An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collection, ensuring safety & robustness. 📈  
    🔗 [whylogs.readthedocs.io](https://whylogs.readthedocs.io/)  
 
-111. <a href="https://github.com/litl/backoff">litl/</a><b><a href="https://github.com/litl/backoff">backoff</a></b> ⭐ 2,702    
+113. <a href="https://github.com/litl/backoff">litl/</a><b><a href="https://github.com/litl/backoff">backoff</a></b> ⭐ 2,702    
    Python library providing function decorators for configurable backoff and retry  
 
-112. <a href="https://github.com/anthropics/anthropic-sdk-python">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b> ⭐ 2,651    
+114. <a href="https://github.com/anthropics/anthropic-sdk-python">anthropics/</a><b><a href="https://github.com/anthropics/anthropic-sdk-python">anthropic-sdk-python</a></b> ⭐ 2,651    
    SDK providing access to Anthropic's safety-first language model APIs  
 
-113. <a href="https://github.com/dosisod/refurb">dosisod/</a><b><a href="https://github.com/dosisod/refurb">refurb</a></b> ⭐ 2,519    
+115. <a href="https://github.com/dosisod/refurb">dosisod/</a><b><a href="https://github.com/dosisod/refurb">refurb</a></b> ⭐ 2,519    
    A tool for refurbishing and modernizing Python codebases  
 
-114. <a href="https://github.com/pyston/pyston">pyston/</a><b><a href="https://github.com/pyston/pyston">pyston</a></b> ⭐ 2,509    
+116. <a href="https://github.com/pyston/pyston">pyston/</a><b><a href="https://github.com/pyston/pyston">pyston</a></b> ⭐ 2,509    
    (No longer maintained) A faster and highly-compatible implementation of the Python programming language.  
    🔗 [www.pyston.org](https://www.pyston.org/)  
 
-115. <a href="https://github.com/astanin/python-tabulate">astanin/</a><b><a href="https://github.com/astanin/python-tabulate">python-tabulate</a></b> ⭐ 2,508    
+117. <a href="https://github.com/astanin/python-tabulate">astanin/</a><b><a href="https://github.com/astanin/python-tabulate">python-tabulate</a></b> ⭐ 2,508    
    Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.  
    🔗 [pypi.org/project/tabulate](https://pypi.org/project/tabulate/)  
 
-116. <a href="https://github.com/ariebovenberg/whenever">ariebovenberg/</a><b><a href="https://github.com/ariebovenberg/whenever">whenever</a></b> ⭐ 2,285    
+118. <a href="https://github.com/gumyr/build123d">gumyr/</a><b><a href="https://github.com/gumyr/build123d">build123d</a></b> ⭐ 2,423    
+   A python CAD programming library  
+
+119. <a href="https://github.com/ariebovenberg/whenever">ariebovenberg/</a><b><a href="https://github.com/ariebovenberg/whenever">whenever</a></b> ⭐ 2,285    
    ⏰ Modern datetime library for Python  
    🔗 [whenever.rtfd.io](https://whenever.rtfd.io)  
 
-117. <a href="https://github.com/open-telemetry/opentelemetry-python">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python">opentelemetry-python</a></b> ⭐ 2,285    
+120. <a href="https://github.com/open-telemetry/opentelemetry-python">open-telemetry/</a><b><a href="https://github.com/open-telemetry/opentelemetry-python">opentelemetry-python</a></b> ⭐ 2,285    
    OpenTelemetry Python API and SDK   
    🔗 [opentelemetry.io](https://opentelemetry.io)  
 
-118. <a href="https://github.com/p0dalirius/coercer">p0dalirius/</a><b><a href="https://github.com/p0dalirius/coercer">Coercer</a></b> ⭐ 2,164    
+121. <a href="https://github.com/p0dalirius/coercer">p0dalirius/</a><b><a href="https://github.com/p0dalirius/coercer">Coercer</a></b> ⭐ 2,164    
    A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.  
    🔗 [podalirius.net](https://podalirius.net/)  
 
-119. <a href="https://github.com/pygments/pygments">pygments/</a><b><a href="https://github.com/pygments/pygments">pygments</a></b> ⭐ 2,098    
-   Pygments is a generic syntax highlighter written in Python  
-   🔗 [pygments.org](http://pygments.org/)  
+122. <a href="https://github.com/codeboarding/codeboarding">codeboarding/</a><b><a href="https://github.com/codeboarding/codeboarding">CodeBoarding</a></b> ⭐ 2,155    
+   Visual map of a codebase. It combines static analysis with LLM reasoning to generate architecture diagrams  
+   🔗 [www.codeboarding.org](https://www.codeboarding.org)  
 
-120. <a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings/</a><b><a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings</a></b> ⭐ 2,043    
+123. <a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings/</a><b><a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings</a></b> ⭐ 2,043    
    📘 Automatic documentation from sources, for MkDocs.  
    🔗 [mkdocstrings.github.io](https://mkdocstrings.github.io/)  
 
-121. <a href="https://github.com/karpathy/rendergit">karpathy/</a><b><a href="https://github.com/karpathy/rendergit">rendergit</a></b> ⭐ 2,011    
+124. <a href="https://github.com/karpathy/rendergit">karpathy/</a><b><a href="https://github.com/karpathy/rendergit">rendergit</a></b> ⭐ 2,011    
    Render any git repo into a single static HTML page for humans or LLMs  
 
-122. <a href="https://github.com/chrishayuk/mcp-cli">chrishayuk/</a><b><a href="https://github.com/chrishayuk/mcp-cli">mcp-cli</a></b> ⭐ 1,844    
+125. <a href="https://github.com/chrishayuk/mcp-cli">chrishayuk/</a><b><a href="https://github.com/chrishayuk/mcp-cli">mcp-cli</a></b> ⭐ 1,844    
    A protocol-level CLI designed to interact with a Model Context Protocol server. The client allows users to send commands, query data, and interact with various resources provided by the server.  
 
-123. <a href="https://github.com/extensityai/symbolicai">extensityai/</a><b><a href="https://github.com/extensityai/symbolicai">symbolicai</a></b> ⭐ 1,659    
+126. <a href="https://github.com/extensityai/symbolicai">extensityai/</a><b><a href="https://github.com/extensityai/symbolicai">symbolicai</a></b> ⭐ 1,659    
    Compositional Differentiable Programming Library - divide-and-conquer approach to break down a complex problem into smaller, more manageable problems.  
 
-124. <a href="https://github.com/pypy/pypy">pypy/</a><b><a href="https://github.com/pypy/pypy">pypy</a></b> ⭐ 1,635    
+127. <a href="https://github.com/pypy/pypy">pypy/</a><b><a href="https://github.com/pypy/pypy">pypy</a></b> ⭐ 1,635    
    PyPy is a very fast and compliant implementation of the Python language.  
    🔗 [pypy.org](https://pypy.org)  
 
-125. <a href="https://github.com/lcompilers/lpython">lcompilers/</a><b><a href="https://github.com/lcompilers/lpython">lpython</a></b> ⭐ 1,627    
+128. <a href="https://github.com/lcompilers/lpython">lcompilers/</a><b><a href="https://github.com/lcompilers/lpython">lpython</a></b> ⭐ 1,627    
    Python compiler  
    🔗 [lpython.org](https://lpython.org/)  
 
-126. <a href="https://github.com/juanbindez/pytubefix">juanbindez/</a><b><a href="https://github.com/juanbindez/pytubefix">pytubefix</a></b> ⭐ 1,445    
+129. <a href="https://github.com/juanbindez/pytubefix">juanbindez/</a><b><a href="https://github.com/juanbindez/pytubefix">pytubefix</a></b> ⭐ 1,445    
    Python3 library for downloading YouTube Videos.   
    🔗 [pytubefix.readthedocs.io](https://pytubefix.readthedocs.io)  
 
-127. <a href="https://github.com/daveebbelaar/python-whatsapp-bot">daveebbelaar/</a><b><a href="https://github.com/daveebbelaar/python-whatsapp-bot">python-whatsapp-bot</a></b> ⭐ 1,438    
+130. <a href="https://github.com/daveebbelaar/python-whatsapp-bot">daveebbelaar/</a><b><a href="https://github.com/daveebbelaar/python-whatsapp-bot">python-whatsapp-bot</a></b> ⭐ 1,438    
    This guide will walk you through the process of creating a WhatsApp bot using the Meta (formerly Facebook) Cloud API with pure Python, and Flask  
    🔗 [www.datalumina.com](https://www.datalumina.com)  
 
-128. <a href="https://github.com/pydantic/pydantic-settings">pydantic/</a><b><a href="https://github.com/pydantic/pydantic-settings">pydantic-settings</a></b> ⭐ 1,227    
+131. <a href="https://github.com/pydantic/pydantic-settings">pydantic/</a><b><a href="https://github.com/pydantic/pydantic-settings">pydantic-settings</a></b> ⭐ 1,227    
    Settings management using pydantic  
    🔗 [docs.pydantic.dev/latest/usage/pydantic_settings](https://docs.pydantic.dev/latest/usage/pydantic_settings/)  
 
-129. <a href="https://github.com/barracuda-fsh/pyobd">barracuda-fsh/</a><b><a href="https://github.com/barracuda-fsh/pyobd">pyobd</a></b> ⭐ 1,140    
+132. <a href="https://github.com/barracuda-fsh/pyobd">barracuda-fsh/</a><b><a href="https://github.com/barracuda-fsh/pyobd">pyobd</a></b> ⭐ 1,140    
    An OBD-II compliant car diagnostic tool  
 
-130. <a href="https://github.com/lastmile-ai/aiconfig">lastmile-ai/</a><b><a href="https://github.com/lastmile-ai/aiconfig">aiconfig</a></b> ⭐ 1,077    
+133. <a href="https://github.com/lastmile-ai/aiconfig">lastmile-ai/</a><b><a href="https://github.com/lastmile-ai/aiconfig">aiconfig</a></b> ⭐ 1,077    
    AIConfig saves prompts, models and model parameters as source control friendly configs. This allows you to iterate on prompts and model parameters separately from your application code.  
    🔗 [aiconfig.lastmileai.dev](https://aiconfig.lastmileai.dev)  
 
-131. <a href="https://github.com/tavily-ai/tavily-python">tavily-ai/</a><b><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></b> ⭐ 981    
+134. <a href="https://github.com/tavily-ai/tavily-python">tavily-ai/</a><b><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></b> ⭐ 981    
    The Tavily Python wrapper allows for easy interaction with the Tavily API, offering the full range of our search and extract functionalities directly from your Python programs.  
    🔗 [pypi.org/project/tavily-python](https://pypi.org/project/tavily-python/)  
 
-132. <a href="https://github.com/tox-dev/filelock">tox-dev/</a><b><a href="https://github.com/tox-dev/filelock">filelock</a></b> ⭐ 926    
+135. <a href="https://github.com/tox-dev/filelock">tox-dev/</a><b><a href="https://github.com/tox-dev/filelock">filelock</a></b> ⭐ 926    
    A platform independent file lock in Python, which provides a simple way of inter-process communication  
    🔗 [py-filelock.readthedocs.io](https://py-filelock.readthedocs.io)  
 
-133. <a href="https://github.com/secretiveshell/mcp-bridge">secretiveshell/</a><b><a href="https://github.com/secretiveshell/mcp-bridge">MCP-Bridge</a></b> ⭐ 895    
+136. <a href="https://github.com/secretiveshell/mcp-bridge">secretiveshell/</a><b><a href="https://github.com/secretiveshell/mcp-bridge">MCP-Bridge</a></b> ⭐ 895    
    A middleware to provide an openAI compatible endpoint that can call MCP tools  
 
-134. <a href="https://github.com/google/pyglove">google/</a><b><a href="https://github.com/google/pyglove">pyglove</a></b> ⭐ 708    
+137. <a href="https://github.com/google/pyglove">google/</a><b><a href="https://github.com/google/pyglove">pyglove</a></b> ⭐ 708    
    Manipulating Python Programs  
 
-135. <a href="https://github.com/neuml/annotateai">neuml/</a><b><a href="https://github.com/neuml/annotateai">annotateai</a></b> ⭐ 400    
+138. <a href="https://github.com/neuml/annotateai">neuml/</a><b><a href="https://github.com/neuml/annotateai">annotateai</a></b> ⭐ 400    
    Automatically annotates papers using Large Language Models (LLMs)  
 
 ## Vizualisation
@@ -5705,142 +5841,143 @@ Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP,
    The Python micro framework for building web applications.  
    🔗 [flask.palletsprojects.com](https://flask.palletsprojects.com)  
 
-5. <a href="https://github.com/psf/requests">psf/</a><b><a href="https://github.com/psf/requests">requests</a></b> ⭐ 53,675    
+5. <a href="https://github.com/d4vinci/scrapling">d4vinci/</a><b><a href="https://github.com/d4vinci/scrapling">Scrapling</a></b> ⭐ 62,631    
+   🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!  
+   🔗 [scrapling.readthedocs.io/en/latest](https://scrapling.readthedocs.io/en/latest/)  
+
+6. <a href="https://github.com/psf/requests">psf/</a><b><a href="https://github.com/psf/requests">requests</a></b> ⭐ 53,675    
    A simple, yet elegant, HTTP library.  
    🔗 [requests.readthedocs.io/en/latest](https://requests.readthedocs.io/en/latest/)  
 
-6. <a href="https://github.com/reflex-dev/reflex">reflex-dev/</a><b><a href="https://github.com/reflex-dev/reflex">reflex</a></b> ⭐ 28,008    
+7. <a href="https://github.com/reflex-dev/reflex">reflex-dev/</a><b><a href="https://github.com/reflex-dev/reflex">reflex</a></b> ⭐ 28,008    
    🕸️ Web apps in pure Python 🐍  
    🔗 [reflex.dev](https://reflex.dev)  
 
-7. <a href="https://github.com/tornadoweb/tornado">tornadoweb/</a><b><a href="https://github.com/tornadoweb/tornado">tornado</a></b> ⭐ 22,432    
+8. <a href="https://github.com/tornadoweb/tornado">tornadoweb/</a><b><a href="https://github.com/tornadoweb/tornado">tornado</a></b> ⭐ 22,432    
    Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.  
    🔗 [www.tornadoweb.org](http://www.tornadoweb.org/)  
 
-8. <a href="https://github.com/vincigit00/scrapegraph-ai">vincigit00/</a><b><a href="https://github.com/vincigit00/scrapegraph-ai">Scrapegraph-ai</a></b> ⭐ 22,365    
+9. <a href="https://github.com/vincigit00/scrapegraph-ai">vincigit00/</a><b><a href="https://github.com/vincigit00/scrapegraph-ai">Scrapegraph-ai</a></b> ⭐ 22,365    
    ScrapeGraphAI is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents  
    🔗 [scrapegraphai.com](https://scrapegraphai.com)  
 
-9. <a href="https://github.com/wagtail/wagtail">wagtail/</a><b><a href="https://github.com/wagtail/wagtail">wagtail</a></b> ⭐ 20,076    
+10. <a href="https://github.com/wagtail/wagtail">wagtail/</a><b><a href="https://github.com/wagtail/wagtail">wagtail</a></b> ⭐ 20,076    
    A Django content management system focused on flexibility and user experience  
    🔗 [wagtail.org](https://wagtail.org)  
 
-10. <a href="https://github.com/pyscript/pyscript">pyscript/</a><b><a href="https://github.com/pyscript/pyscript">pyscript</a></b> ⭐ 18,691    
+11. <a href="https://github.com/pyscript/pyscript">pyscript/</a><b><a href="https://github.com/pyscript/pyscript">pyscript</a></b> ⭐ 18,691    
    A framework that allows users to create rich Python applications in the browser using HTML's interface and the power of Pyodide, WASM, and modern web technologies.  
    🔗 [pyscript.net](https://pyscript.net/)  
 
-11. <a href="https://github.com/huge-success/sanic">huge-success/</a><b><a href="https://github.com/huge-success/sanic">sanic</a></b> ⭐ 18,630    
+12. <a href="https://github.com/huge-success/sanic">huge-success/</a><b><a href="https://github.com/huge-success/sanic">sanic</a></b> ⭐ 18,630    
     Accelerate your web app development  | Build fast. Run fast.  
    🔗 [sanic.dev](https://sanic.dev)  
 
-12. <a href="https://github.com/aio-libs/aiohttp">aio-libs/</a><b><a href="https://github.com/aio-libs/aiohttp">aiohttp</a></b> ⭐ 16,222    
+13. <a href="https://github.com/aio-libs/aiohttp">aio-libs/</a><b><a href="https://github.com/aio-libs/aiohttp">aiohttp</a></b> ⭐ 16,222    
    Asynchronous HTTP client/server framework for asyncio and Python  
    🔗 [docs.aiohttp.org](https://docs.aiohttp.org)  
 
-13. <a href="https://github.com/flet-dev/flet">flet-dev/</a><b><a href="https://github.com/flet-dev/flet">flet</a></b> ⭐ 15,387    
+14. <a href="https://github.com/flet-dev/flet">flet-dev/</a><b><a href="https://github.com/flet-dev/flet">flet</a></b> ⭐ 15,387    
    Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.  
    🔗 [flet.dev](https://flet.dev)  
 
-14. <a href="https://github.com/zauberzeug/nicegui">zauberzeug/</a><b><a href="https://github.com/zauberzeug/nicegui">nicegui</a></b> ⭐ 15,172    
+15. <a href="https://github.com/zauberzeug/nicegui">zauberzeug/</a><b><a href="https://github.com/zauberzeug/nicegui">nicegui</a></b> ⭐ 15,172    
    Create web-based user interfaces with Python. The nice way.  
    🔗 [nicegui.io](https://nicegui.io)  
 
-15. <a href="https://github.com/encode/httpx">encode/</a><b><a href="https://github.com/encode/httpx">httpx</a></b> ⭐ 14,932    
+16. <a href="https://github.com/encode/httpx">encode/</a><b><a href="https://github.com/encode/httpx">httpx</a></b> ⭐ 14,932    
    A next generation HTTP client for Python. 🦋  
    🔗 [www.python-httpx.org](https://www.python-httpx.org/)  
 
-16. <a href="https://github.com/getpelican/pelican">getpelican/</a><b><a href="https://github.com/getpelican/pelican">pelican</a></b> ⭐ 13,195    
+17. <a href="https://github.com/getpelican/pelican">getpelican/</a><b><a href="https://github.com/getpelican/pelican">pelican</a></b> ⭐ 13,195    
    Static site generator that supports Markdown and reST syntax. Powered by Python.  
    🔗 [getpelican.com](https://getpelican.com)  
 
-17. <a href="https://github.com/encode/starlette">encode/</a><b><a href="https://github.com/encode/starlette">starlette</a></b> ⭐ 11,863    
+18. <a href="https://github.com/encode/starlette">encode/</a><b><a href="https://github.com/encode/starlette">starlette</a></b> ⭐ 11,863    
    The little ASGI framework that shines. 🌟  
    🔗 [starlette.dev](https://starlette.dev)  
 
-18. <a href="https://github.com/aws/chalice">aws/</a><b><a href="https://github.com/aws/chalice">chalice</a></b> ⭐ 11,053    
+19. <a href="https://github.com/aws/chalice">aws/</a><b><a href="https://github.com/aws/chalice">chalice</a></b> ⭐ 11,053    
    Python Serverless Microframework for AWS  
 
-19. <a href="https://github.com/benoitc/gunicorn">benoitc/</a><b><a href="https://github.com/benoitc/gunicorn">gunicorn</a></b> ⭐ 10,404    
+20. <a href="https://github.com/benoitc/gunicorn">benoitc/</a><b><a href="https://github.com/benoitc/gunicorn">gunicorn</a></b> ⭐ 10,404    
    gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.  
    🔗 [www.gunicorn.org](http://www.gunicorn.org)  
 
-20. <a href="https://github.com/encode/uvicorn">encode/</a><b><a href="https://github.com/encode/uvicorn">uvicorn</a></b> ⭐ 10,325    
+21. <a href="https://github.com/encode/uvicorn">encode/</a><b><a href="https://github.com/encode/uvicorn">uvicorn</a></b> ⭐ 10,325    
    An ASGI web server, for Python. 🦄  
    🔗 [uvicorn.dev](https://uvicorn.dev)  
 
-21. <a href="https://github.com/falconry/falcon">falconry/</a><b><a href="https://github.com/falconry/falcon">falcon</a></b> ⭐ 9,780    
+22. <a href="https://github.com/falconry/falcon">falconry/</a><b><a href="https://github.com/falconry/falcon">falcon</a></b> ⭐ 9,780    
    The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale.  
    🔗 [falcon.readthedocs.io](https://falcon.readthedocs.io)  
 
-22. <a href="https://github.com/vitalik/django-ninja">vitalik/</a><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> ⭐ 8,856    
+23. <a href="https://github.com/vitalik/django-ninja">vitalik/</a><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> ⭐ 8,856    
    💨  Fast, Async-ready, Openapi, type hints based framework for building APIs  
    🔗 [django-ninja.dev](https://django-ninja.dev)  
 
-23. <a href="https://github.com/bottlepy/bottle">bottlepy/</a><b><a href="https://github.com/bottlepy/bottle">bottle</a></b> ⭐ 8,734    
+24. <a href="https://github.com/bottlepy/bottle">bottlepy/</a><b><a href="https://github.com/bottlepy/bottle">bottle</a></b> ⭐ 8,734    
    bottle.py is a fast and simple micro-framework for python web-applications.  
    🔗 [bottlepy.org](http://bottlepy.org/)  
 
-24. <a href="https://github.com/graphql-python/graphene">graphql-python/</a><b><a href="https://github.com/graphql-python/graphene">graphene</a></b> ⭐ 8,244    
+25. <a href="https://github.com/graphql-python/graphene">graphql-python/</a><b><a href="https://github.com/graphql-python/graphene">graphene</a></b> ⭐ 8,244    
    GraphQL framework for Python  
    🔗 [graphene-python.org](http://graphene-python.org/)  
 
-25. <a href="https://github.com/reactive-python/reactpy">reactive-python/</a><b><a href="https://github.com/reactive-python/reactpy">reactpy</a></b> ⭐ 8,154    
+26. <a href="https://github.com/reactive-python/reactpy">reactive-python/</a><b><a href="https://github.com/reactive-python/reactpy">reactpy</a></b> ⭐ 8,154    
    ReactPy is a library for building user interfaces in Python without Javascript  
    🔗 [reactpy.dev](https://reactpy.dev)  
 
-26. <a href="https://github.com/starlite-api/starlite">starlite-api/</a><b><a href="https://github.com/starlite-api/starlite">litestar</a></b> ⭐ 7,934    
+27. <a href="https://github.com/starlite-api/starlite">starlite-api/</a><b><a href="https://github.com/starlite-api/starlite">litestar</a></b> ⭐ 7,934    
    Light, flexible and extensible ASGI framework | Built to scale  
    🔗 [docs.litestar.dev](https://docs.litestar.dev/)  
 
-27. <a href="https://github.com/pallets/werkzeug">pallets/</a><b><a href="https://github.com/pallets/werkzeug">werkzeug</a></b> ⭐ 6,830    
+28. <a href="https://github.com/pallets/werkzeug">pallets/</a><b><a href="https://github.com/pallets/werkzeug">werkzeug</a></b> ⭐ 6,830    
    The comprehensive WSGI web application library.  
    🔗 [werkzeug.palletsprojects.com](https://werkzeug.palletsprojects.com)  
 
-28. <a href="https://github.com/pyeve/eve">pyeve/</a><b><a href="https://github.com/pyeve/eve">eve</a></b> ⭐ 6,744    
+29. <a href="https://github.com/pyeve/eve">pyeve/</a><b><a href="https://github.com/pyeve/eve">eve</a></b> ⭐ 6,744    
    REST API framework designed for human beings  
    🔗 [python-eve.org](https://python-eve.org)  
 
-29. <a href="https://github.com/fastapi-users/fastapi-users">fastapi-users/</a><b><a href="https://github.com/fastapi-users/fastapi-users">fastapi-users</a></b> ⭐ 5,948    
+30. <a href="https://github.com/fastapi-users/fastapi-users">fastapi-users/</a><b><a href="https://github.com/fastapi-users/fastapi-users">fastapi-users</a></b> ⭐ 5,948    
    Ready-to-use and customizable users management for FastAPI  
    🔗 [fastapi-users.github.io/fastapi-users](https://fastapi-users.github.io/fastapi-users/)  
 
-30. <a href="https://github.com/webpy/webpy">webpy/</a><b><a href="https://github.com/webpy/webpy">webpy</a></b> ⭐ 5,933    
+31. <a href="https://github.com/webpy/webpy">webpy/</a><b><a href="https://github.com/webpy/webpy">webpy</a></b> ⭐ 5,933    
    web.py is a web framework for python that is as simple as it is powerful.   
    🔗 [webpy.org](http://webpy.org)  
 
-31. <a href="https://github.com/pywebio/pywebio">pywebio/</a><b><a href="https://github.com/pywebio/pywebio">PyWebIO</a></b> ⭐ 4,822    
+32. <a href="https://github.com/pywebio/pywebio">pywebio/</a><b><a href="https://github.com/pywebio/pywebio">PyWebIO</a></b> ⭐ 4,822    
    Write interactive web app in script way.  
    🔗 [pywebio.readthedocs.io](https://pywebio.readthedocs.io)  
 
-32. <a href="https://github.com/nameko/nameko">nameko/</a><b><a href="https://github.com/nameko/nameko">nameko</a></b> ⭐ 4,765    
+33. <a href="https://github.com/nameko/nameko">nameko/</a><b><a href="https://github.com/nameko/nameko">nameko</a></b> ⭐ 4,765    
    A microservices framework for Python that lets service developers concentrate on application logic and encourages testability.  
    🔗 [www.nameko.io](https://www.nameko.io)  
 
-33. <a href="https://github.com/strawberry-graphql/strawberry">strawberry-graphql/</a><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> ⭐ 4,590    
+34. <a href="https://github.com/strawberry-graphql/strawberry">strawberry-graphql/</a><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> ⭐ 4,590    
    A GraphQL library for Python that leverages type annotations 🍓  
    🔗 [strawberry.rocks](https://strawberry.rocks)  
 
-34. <a href="https://github.com/freddyaboulton/fastrtc">freddyaboulton/</a><b><a href="https://github.com/freddyaboulton/fastrtc">fastrtc</a></b> ⭐ 4,500    
+35. <a href="https://github.com/freddyaboulton/fastrtc">freddyaboulton/</a><b><a href="https://github.com/freddyaboulton/fastrtc">fastrtc</a></b> ⭐ 4,500    
    Turn any python function into a real-time audio and video stream over WebRTC or WebSockets.  
    🔗 [fastrtc.org](https://fastrtc.org/)  
 
-35. <a href="https://github.com/h2oai/wave">h2oai/</a><b><a href="https://github.com/h2oai/wave">wave</a></b> ⭐ 4,223    
+36. <a href="https://github.com/h2oai/wave">h2oai/</a><b><a href="https://github.com/h2oai/wave">wave</a></b> ⭐ 4,223    
    H2O Wave is a software stack for building beautiful, low-latency, realtime, browser-based applications and dashboards entirely in Python/R without using HTML, Javascript, or CSS.  
    🔗 [wave.h2o.ai](https://wave.h2o.ai)  
 
-36. <a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin/</a><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> ⭐ 3,684    
+37. <a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin/</a><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> ⭐ 3,684    
    A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin  
    🔗 [fastapi-admin-docs.long2ice.io](https://fastapi-admin-docs.long2ice.io)  
 
-37. <a href="https://github.com/pallets/quart">pallets/</a><b><a href="https://github.com/pallets/quart">quart</a></b> ⭐ 3,577    
+38. <a href="https://github.com/pallets/quart">pallets/</a><b><a href="https://github.com/pallets/quart">quart</a></b> ⭐ 3,577    
    An async Python micro framework for building web applications.   
    🔗 [quart.palletsprojects.com](https://quart.palletsprojects.com)  
 
-38. <a href="https://github.com/s3rius/fastapi-template">s3rius/</a><b><a href="https://github.com/s3rius/fastapi-template">FastAPI-template</a></b> ⭐ 2,716    
+39. <a href="https://github.com/s3rius/fastapi-template">s3rius/</a><b><a href="https://github.com/s3rius/fastapi-template">FastAPI-template</a></b> ⭐ 2,716    
    Feature rich robust FastAPI template.  
-
-39. <a href="https://github.com/flipkart-incubator/astra">flipkart-incubator/</a><b><a href="https://github.com/flipkart-incubator/astra">Astra</a></b> ⭐ 2,629    
-   Automated Security Testing For REST API's  
 
 40. <a href="https://github.com/dot-agent/nextpy">dot-agent/</a><b><a href="https://github.com/dot-agent/nextpy">nextpy</a></b> ⭐ 2,335    
    🤖Self-Modifying Framework from the Future 🔮 World's First AMS  
@@ -5858,19 +5995,11 @@ Web related frameworks and libraries: webapp servers, WSGI, ASGI, asyncio, HTTP,
    An adapter for running ASGI applications in AWS Lambda to handle Function URL, API Gateway, ALB, and Lambda@Edge events  
    🔗 [mangum.fastapiexpert.com](http://mangum.fastapiexpert.com/)  
 
-44. <a href="https://github.com/long2ice/fastapi-cache">long2ice/</a><b><a href="https://github.com/long2ice/fastapi-cache">fastapi-cache</a></b> ⭐ 1,812    
-   fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.  
-   🔗 [github.com/long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache)  
-
-45. <a href="https://github.com/rstudio/py-shiny">rstudio/</a><b><a href="https://github.com/rstudio/py-shiny">py-shiny</a></b> ⭐ 1,678    
+44. <a href="https://github.com/rstudio/py-shiny">rstudio/</a><b><a href="https://github.com/rstudio/py-shiny">py-shiny</a></b> ⭐ 1,678    
    Shiny for Python  
    🔗 [shiny.posit.co/py](https://shiny.posit.co/py/)  
 
-46. <a href="https://github.com/awtkns/fastapi-crudrouter">awtkns/</a><b><a href="https://github.com/awtkns/fastapi-crudrouter">fastapi-crudrouter</a></b> ⭐ 1,676    
-   A dynamic FastAPI router that automatically creates CRUD routes for your models  
-   🔗 [fastapi-crudrouter.awtkns.com](https://fastapi-crudrouter.awtkns.com)  
-
-47. <a href="https://github.com/whitphx/stlite">whitphx/</a><b><a href="https://github.com/whitphx/stlite">stlite</a></b> ⭐ 1,583    
+45. <a href="https://github.com/whitphx/stlite">whitphx/</a><b><a href="https://github.com/whitphx/stlite">stlite</a></b> ⭐ 1,583    
    A port of Streamlit to WebAssembly, powered by Pyodide.  
    🔗 [edit.share.stlite.net](https://edit.share.stlite.net)  
 
@@ -5882,4 +6011,4 @@ Interactive version: [www.awesomepython.org](https://www.awesomepython.org/), Hu
 Please raise <a href="https://github.com/dylanhogg/awesome-python/issues">a new issue</a> to suggest a Python repo that you would like to see added.  
 
 
-1,556 hand-picked awesome Python libraries and frameworks, updated 19 Apr 2026
+1,592 hand-picked awesome Python libraries and frameworks, updated 12 Jun 2026
