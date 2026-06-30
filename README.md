@@ -1415,7 +1415,10 @@ Jupyter and JupyterLab and Notebook tools, libraries and plugins.
 15. <a href="https://github.com/infuseai/colab-xterm">infuseai/</a><b><a href="https://github.com/infuseai/colab-xterm">colab-xterm</a></b> ⭐ 477    
    Open a terminal in colab, including the free tier.  
 
-## LLMs and ChatGPT
+## LLM
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source learned prompt compression for LLMs. Cuts ~65% of tokens before inference using a ~5K parameter CPU policy with 100% oracle recall. Check the live demo at https://supercompress.dev. pip install supercompress.
+s and ChatGPT
 
 Large language model and GPT libraries and frameworks: auto-gpt, agents, QnA, chain-of-thought workflows, API integations. Also see the <a href="https://github.com/dylanhogg/awesome-python#natural-language-processing">Natural Language Processing</a> category for crossover.  
 
